@@ -4,3 +4,14 @@ defaultContentLanguage = "te"
 title = "TodayPrep"
 theme = "PaperMod"
 enableRobotsTXT = true
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "about"
+  name = "About us"
+  url = "/about/"
+  weight = 2
