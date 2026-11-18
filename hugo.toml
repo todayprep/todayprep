@@ -1,0 +1,6 @@
+baseURL = "https://todayprep.in/"
+languageCode = "te"
+defaultContentLanguage = "te"
+title = "TodayPrep"
+theme = "PaperMod"
+enableRobotsTXT = true
