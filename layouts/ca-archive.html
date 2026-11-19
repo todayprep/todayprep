@@ -28,17 +28,31 @@ body:has(.ca-arch) .main{max-width:1180px}
 .ca-js .ca-view.on{display:block}
 .ca-h2{font-size:22px;line-height:1.5;margin:0 0 6px}
 .ca-note{color:var(--secondary);font-size:14px;margin:0 0 14px}
-.ca-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin-bottom:30px}
-.ca-card{background:var(--entry);border:1px solid var(--border);border-radius:12px;padding:12px 10px;text-align:center;display:flex;flex-direction:column;gap:6px}
-.ca-day{font-size:26px;font-weight:700;line-height:1.1;color:#0B8A63}
-.ca-mon{font-size:12px;color:var(--secondary);margin-bottom:2px}
-.ca-b{display:block;padding:7px 4px;border-radius:8px;font-size:13px;font-weight:600;text-decoration:none;box-shadow:none}
+.ca-two{display:grid;grid-template-columns:1fr 1fr;gap:20px;align-items:start}
+.ca-box{background:var(--entry);border:1px solid var(--border);border-radius:16px;overflow:hidden}
+.ca-box-head{padding:16px 20px;color:#fff;font-weight:700;font-size:18px;line-height:1.5}
+.ca-box.ca-c .ca-box-head{background:#0B6E4F}
+.ca-box.ca-q .ca-box-head{background:#12263A}
+.ca-box-sub{font-size:13px;font-weight:400;opacity:.85;margin-top:2px}
+.ca-list{max-height:520px;overflow-y:auto}
+.ca-row{border-bottom:1px solid var(--border)}
+.ca-row:last-child{border-bottom:0}
+.ca-row summary{list-style:none;cursor:pointer;display:flex;justify-content:space-between;align-items:center;gap:10px;padding:13px 20px;font-weight:600;font-size:15px;color:var(--primary)}
+.ca-row summary::-webkit-details-marker{display:none}
+.ca-row summary::after{content:"▾";color:#0B8A63;transition:transform .15s}
+.ca-row[open] summary::after{transform:rotate(180deg)}
+.ca-row summary:hover{background:rgba(11,110,79,.08)}
+.ca-row[open] summary{background:rgba(11,110,79,.08)}
+.ca-menu{display:flex;gap:10px;flex-wrap:wrap;padding:6px 20px 16px}
+.ca-b{display:inline-block;padding:9px 20px;border-radius:8px;font-size:14px;font-weight:600;text-decoration:none;box-shadow:none}
 .ca-b.te{background:#0B6E4F;color:#fff}
 .ca-b.en{background:#E9A23B;color:#12263A}
 .ca-b.off{background:transparent;color:var(--secondary);border:1px dashed var(--border);font-weight:400}
+.ca-empty{padding:22px 20px;color:var(--secondary);font-size:15px;line-height:1.8}
 .ca-mgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:14px}
 .ca-mcard{background:var(--entry);border:1px solid var(--border);border-radius:14px;padding:18px;display:flex;flex-direction:column;gap:8px}
 .ca-mname{font-size:18px;font-weight:700}
+.ca-mcard .ca-b{text-align:center}
 @media (max-width:860px){
 .ca-arch{display:block}
 .ca-side{width:auto;position:static;margin-bottom:20px}
@@ -46,9 +60,9 @@ body:has(.ca-arch) .main{max-width:1180px}
 .ca-months.closed{display:none}
 .ca-month{width:auto;display:inline-block;padding:8px 16px;border:1px solid var(--border);border-radius:20px;background:var(--entry)}
 .ca-h1{font-size:24px}
-.ca-grid{grid-template-columns:repeat(3,1fr);gap:10px}
+.ca-two{grid-template-columns:1fr}
+.ca-list{max-height:420px}
 }
-@media (max-width:380px){.ca-grid{grid-template-columns:repeat(2,1fr)}}
 </style>
 
 <div class="ca-arch" id="ca-arch">
@@ -76,31 +90,52 @@ body:has(.ca-arch) .main{max-width:1180px}
 
     {{ range $months }}
     {{ $m := . }}
+    {{ $mon := index (split $m.id "-") 0 | strings.FirstUpper }}
     <div class="ca-view" data-view="{{ .id }}">
-      <h2 class="ca-h2">{{ .name }} {{ .year }}: రోజువారీ కరెంట్ అఫైర్స్ PDF లు</h2>
-      <p class="ca-note">రోజు ఎంచుకుని తెలుగు లేదా English PDF డౌన్‌లోడ్ చేసుకోండి.</p>
-      <div class="ca-grid">
-        {{ range .days }}
-        <div class="ca-card">
-          <div class="ca-day">{{ .d }}</div>
-          <div class="ca-mon">{{ $m.name }}</div>
-          {{ if .pdf_te }}<a class="ca-b te" href="{{ .pdf_te }}" target="_blank" rel="noopener">తెలుగు</a>{{ else }}<span class="ca-b off">తెలుగు</span>{{ end }}
-          {{ if .pdf_en }}<a class="ca-b en" href="{{ .pdf_en }}" target="_blank" rel="noopener">English</a>{{ else }}<span class="ca-b off">English</span>{{ end }}
-        </div>
-        {{ end }}
-      </div>
+      <h2 class="ca-h2">{{ .name }} {{ .year }}: కరెంట్ అఫైర్స్</h2>
+      <p class="ca-note">తేదీ మీద నొక్కి, తెలుగు లేదా English ఎంచుకోండి.</p>
+      <div class="ca-two">
 
-      <h2 class="ca-h2">{{ .name }} {{ .year }}: రోజువారీ కరెంట్ అఫైర్స్ క్విజ్‌లు</h2>
-      <p class="ca-note">ప్రతి క్విజ్‌లో 40 నుంచి 50 ప్రశ్నలు, జవాబుకు చిన్న వివరణతో.</p>
-      <div class="ca-grid">
-        {{ range .days }}
-        <div class="ca-card">
-          <div class="ca-day">{{ .d }}</div>
-          <div class="ca-mon">{{ $m.name }}</div>
-          {{ if .quiz_te }}<a class="ca-b te" href="{{ .quiz_te }}" target="_blank" rel="noopener">తెలుగు</a>{{ else }}<span class="ca-b off">తెలుగు</span>{{ end }}
-          {{ if .quiz_en }}<a class="ca-b en" href="{{ .quiz_en }}" target="_blank" rel="noopener">English</a>{{ else }}<span class="ca-b off">English</span>{{ end }}
+        <div class="ca-box ca-c">
+          <div class="ca-box-head">రోజువారీ కరెంట్ అఫైర్స్ PDF లు<div class="ca-box-sub">తెలుగు, English</div></div>
+          <div class="ca-list">
+            {{ $any := false }}
+            {{ range sort .days "d" "desc" }}
+              {{ if or .pdf_te .pdf_en }}
+              {{ $any = true }}
+              <details class="ca-row">
+                <summary>{{ printf "%02d" .d }} {{ $mon }} {{ $m.year }} CA</summary>
+                <div class="ca-menu">
+                  {{ if .pdf_te }}<a class="ca-b te" href="{{ .pdf_te }}" target="_blank" rel="noopener">తెలుగు</a>{{ end }}
+                  {{ if .pdf_en }}<a class="ca-b en" href="{{ .pdf_en }}" target="_blank" rel="noopener">English</a>{{ end }}
+                </div>
+              </details>
+              {{ end }}
+            {{ end }}
+            {{ if not $any }}<div class="ca-empty">PDF లు అప్‌లోడ్ అయ్యాక ఇక్కడ కనిపిస్తాయి.</div>{{ end }}
+          </div>
         </div>
-        {{ end }}
+
+        <div class="ca-box ca-q">
+          <div class="ca-box-head">రోజువారీ కరెంట్ అఫైర్స్ క్విజ్‌లు<div class="ca-box-sub">40-50 ప్రశ్నలు, వివరణతో</div></div>
+          <div class="ca-list">
+            {{ $anyq := false }}
+            {{ range sort .days "d" "desc" }}
+              {{ if or .quiz_te .quiz_en }}
+              {{ $anyq = true }}
+              <details class="ca-row">
+                <summary>{{ printf "%02d" .d }} {{ $mon }} {{ $m.year }} Quiz</summary>
+                <div class="ca-menu">
+                  {{ if .quiz_te }}<a class="ca-b te" href="{{ .quiz_te }}" target="_blank" rel="noopener">తెలుగు</a>{{ end }}
+                  {{ if .quiz_en }}<a class="ca-b en" href="{{ .quiz_en }}" target="_blank" rel="noopener">English</a>{{ end }}
+                </div>
+              </details>
+              {{ end }}
+            {{ end }}
+            {{ if not $anyq }}<div class="ca-empty">క్విజ్‌లు అప్‌లోడ్ అయ్యాక ఇక్కడ కనిపిస్తాయి.</div>{{ end }}
+          </div>
+        </div>
+
       </div>
     </div>
     {{ end }}
