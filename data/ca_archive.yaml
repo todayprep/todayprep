@@ -1,0 +1,37 @@
+months:
+  - id: nov-2026
+    name: "నవంబర్"
+    year: 2026
+    monthly_te: ""
+    monthly_en: ""
+    days:
+      - {d: 1, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 2, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 3, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 4, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 5, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 6, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 7, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 8, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 9, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 10, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 11, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 12, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 13, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 14, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 15, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 16, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 17, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 18, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 19, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 20, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 21, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 22, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 23, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 24, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 25, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 26, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 27, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 28, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 29, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 30, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
