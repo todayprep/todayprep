@@ -79,19 +79,20 @@ body:has(.ex-wrap) .main{max-width:1180px}
       </div>
     </div>
 
-    <div class="ex-view" data-view="quizzes">
+        <div class="ex-view" data-view="quizzes">
       <h2 class="ex-h2">టాపిక్ వారీ క్విజ్‌లు</h2>
-      <p class="ex-note">క్విజ్ పేరు మీద నొక్కి, తెలుగు లేదా English ఎంచుకోండి.</p>
+      <p class="ex-note">టాపిక్ మీద నొక్కి, క్విజ్ ఎంచుకోండి. భాషను క్విజ్ లోపలే మార్చుకోవచ్చు.</p>
       <div class="ex-box"><div class="ex-list">
         {{ $any := false }}
         {{ range .Params.quizzes }}
-          {{ if or .te .en }}
+          {{ $links := slice }}
+          {{ range .sets }}{{ if .url }}{{ $links = $links | append . }}{{ end }}{{ end }}
+          {{ if $links }}
           {{ $any = true }}
           <details class="ex-row">
             <summary>{{ .title }}</summary>
             <div class="ex-menu">
-              {{ if .te }}<a class="ex-b te" href="{{ .te }}">తెలుగు</a>{{ end }}
-              {{ if .en }}<a class="ex-b en" href="{{ .en }}">English</a>{{ end }}
+              {{ range $links }}<a class="ex-b te" href="{{ .url }}">{{ .name }}</a>{{ end }}
             </div>
           </details>
           {{ end }}
@@ -102,19 +103,13 @@ body:has(.ex-wrap) .main{max-width:1180px}
 
     <div class="ex-view" data-view="mocks">
       <h2 class="ex-h2">మాక్ టెస్టులు</h2>
-      <p class="ex-note">మాక్ టెస్ట్ పేరు మీద నొక్కి, తెలుగు లేదా English ఎంచుకోండి.</p>
+      <p class="ex-note">మాక్ టెస్ట్ మీద నొక్కండి. భాషను టెస్ట్ లోపలే మార్చుకోవచ్చు.</p>
       <div class="ex-box"><div class="ex-list">
         {{ $anym := false }}
         {{ range .Params.mocks }}
-          {{ if or .te .en }}
+          {{ if .url }}
           {{ $anym = true }}
-          <details class="ex-row">
-            <summary>{{ .title }}</summary>
-            <div class="ex-menu">
-              {{ if .te }}<a class="ex-b te" href="{{ .te }}">తెలుగు</a>{{ end }}
-              {{ if .en }}<a class="ex-b en" href="{{ .en }}">English</a>{{ end }}
-            </div>
-          </details>
+          <div class="ex-row"><a style="display:block;padding:13px 20px;font-weight:600;font-size:15px" href="{{ .url }}">{{ .title }}</a></div>
           {{ end }}
         {{ end }}
         {{ if not $anym }}<div class="ex-empty">మాక్ టెస్టులు సిద్ధమైన తర్వాత ఇక్కడ కనిపిస్తాయి. ప్రస్తుతం సిద్ధం చేస్తున్నాం.</div>{{ end }}
