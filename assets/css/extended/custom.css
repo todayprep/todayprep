@@ -71,3 +71,47 @@ body:has(.ca-box) .post-title {
   .ca-box-title { font-size: 20px; }
   body:has(.ca-box) .post-title { font-size: 26px; }
 }
+
+/* Exam buttons */
+.exam-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin: 20px 0 28px;
+  align-items: flex-start;
+}
+.exam-drop {
+  min-width: 220px;
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+}
+.exam-drop summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 14px 20px;
+  font-weight: 700;
+  font-size: 18px;
+  background: linear-gradient(135deg, #1d4ed8, #0ea5e9);
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.exam-drop summary::-webkit-details-marker { display: none; }
+.exam-drop summary::after { content: "▾"; margin-left: 14px; }
+.exam-drop[open] summary::after { content: "▴"; }
+.exam-drop ul {
+  list-style: none;
+  margin: 0;
+  padding: 6px 0;
+}
+.exam-drop li { margin: 0; padding: 0; }
+.exam-drop li a {
+  display: block;
+  padding: 10px 20px;
+  border-bottom: 1px solid var(--border);
+}
+.exam-drop li:last-child a { border-bottom: none; }
+.exam-drop li a:hover { background: var(--code-bg); }
