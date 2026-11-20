@@ -1,0 +1,34 @@
+{{ define "main" }}
+<div class="home-wrap">
+
+  <aside class="home-side">
+    <div class="home-side-title">సబ్జెక్ట్స్</div>
+    {{ range hugo.Data.subjects }}
+      {{ if .url }}
+        <a href="{{ .url }}">{{ .name }}</a>
+      {{ else }}
+        <span class="soon">{{ .name }} <small>త్వరలో</small></span>
+      {{ end }}
+    {{ end }}
+  </aside>
+
+  <section class="home-main">
+    <h1>APPSC, TGPSC పరీక్షల కోసం ఉచిత కరెంట్ అఫైర్స్, క్విజ్‌లు</h1>
+    <p>APPSC, TGPSC మరియు ఇతర Central Govt పరీక్షలకు సిద్ధమయ్యే తెలుగు విద్యార్థుల కోసం రోజువారీ కరెంట్ అఫైర్స్ PDFలు, క్విజ్‌లు తెలుగు, English రెండు భాషల్లో అందిస్తున్నాం. సబ్జెక్ట్ వారీ క్విజ్‌లు, మాక్ టెస్ట్‌లు త్వరలో వస్తాయి.</p>
+
+    <div class="home-box home-ca">
+      <div class="home-tag">ప్రతిరోజూ అప్‌డేట్</div>
+      <h2>కరెంట్ అఫైర్స్</h2>
+      <p>ఎలా చదవాలి, రోజువారీ PDF (తెలుగు, English), క్విజ్‌లు ఇక్కడ ఉన్నాయి.</p>
+      <a class="home-btn blue" href="/current-affairs/">కరెంట్ అఫైర్స్ చదవండి</a>
+    </div>
+
+    <div class="home-box">
+      <p>తాజా క్విజ్ అప్‌డేట్స్, CA PDFs కోసం మన ఛానెల్స్‌ను ఫాలో అవ్వండి.</p>
+      <a class="home-btn green" href="https://whatsapp.com/channel/0029VbDZ76j17EmtCfPtZv2E" target="_blank" rel="noopener">WhatsApp Channel</a>
+      <a class="home-btn sky" href="https://t.me/todayprep" target="_blank" rel="noopener">Telegram Channel</a>
+    </div>
+  </section>
+
+</div>
+{{ end }}
