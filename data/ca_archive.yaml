@@ -22,7 +22,7 @@ months:
       - {d: 15, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
       - {d: 16, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
       - {d: 17, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
-      - {d: 18, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 18, pdf_te: "", pdf_en: "", quiz_te: "https://todayprep.in/player.html?d=2026-11-18&l=te", quiz_en: "https://todayprep.in/player.html?d=2026-11-18&l=en"}
       - {d: 19, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
       - {d: 20, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
       - {d: 21, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
