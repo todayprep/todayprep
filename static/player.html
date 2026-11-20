@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="te">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>TodayPrep Quiz</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f4f6fb;--card:#fff;--ink:#1c2333;--mut:#5b6478;--pri:#1d4ed8;--pri2:#1e3a8a;--ok:#15803d;--bad:#b91c1c;--line:#dbe1ee;--warn:#f59e0b}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{font-family:"Noto Sans Telugu",system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;background:var(--bg);color:var(--ink);font-size:16px;line-height:1.7}
+button{font-family:inherit;font-size:16px;cursor:pointer}
+.wrap{max-width:900px;margin:0 auto;padding:12px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px;margin-bottom:12px}
+h1{font-size:22px;margin:0 0 6px;line-height:1.4}
+.mut{color:var(--mut);font-size:14px}
+.btn{border:0;border-radius:10px;padding:10px 18px;font-weight:600;background:var(--pri);color:#fff}
+.btn.sec{background:#e8edf9;color:var(--pri2)}
+.btn.ghost{background:#fff;color:var(--pri2);border:1px solid var(--line)}
+.btn:disabled{opacity:.45;cursor:default}
+.langs{display:flex;gap:10px;margin:14px 0;flex-wrap:wrap}
+.langs button{flex:1;min-width:120px;padding:12px;border-radius:10px;border:2px solid var(--line);background:#fff;font-weight:600}
+.langs button.on{border-color:var(--pri);background:#e8efff;color:var(--pri2)}
+.hidden{display:none!important}
+ul.rules{padding-left:20px;margin:8px 0}
+/* top bar */
+.top{position:sticky;top:0;z-index:5;background:var(--pri2);color:#fff;display:flex;align-items:center;justify-content:space-between;gap:8px;padding:8px 12px}
+.top .t{font-weight:700;font-size:15px}
+.timer{font-variant-numeric:tabular-nums;font-weight:700;font-size:18px;background:rgba(255,255,255,.15);padding:2px 12px;border-radius:8px}
+.timer.low{background:var(--bad)}
+.sec-tag{display:inline-block;font-size:13px;background:#e8efff;color:var(--pri2);padding:1px 10px;border-radius:20px;margin-bottom:6px}
+.qno{font-weight:700;color:var(--mut);font-size:14px}
+.qtext{font-size:18px;font-weight:600;margin:4px 0 12px}
+.opt{display:flex;gap:10px;align-items:flex-start;width:100%;text-align:left;background:#fff;border:2px solid var(--line);border-radius:10px;padding:10px 12px;margin-bottom:8px;color:var(--ink)}
+.opt .k{flex:0 0 28px;height:28px;border-radius:50%;background:#eef1f8;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:14px}
+.opt.sel{border-color:var(--pri);background:#eef3ff}
+.opt.sel .k{background:var(--pri);color:#fff}
+.nav{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+.nav .sp{flex:1}
+.pal{display:grid;grid-template-columns:repeat(auto-fill,minmax(40px,1fr));gap:6px}
+.pal button{height:40px;border-radius:8px;border:1px solid var(--line);background:#fff;font-weight:600;color:var(--ink)}
+.pal button.ans{background:var(--ok);color:#fff;border-color:var(--ok)}
+.pal button.cur{outline:3px solid var(--warn)}
+.legend{display:flex;gap:14px;font-size:13px;color:var(--mut);margin:8px 0 0;flex-wrap:wrap}
+.dot{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:4px;vertical-align:-1px;border:1px solid var(--line)}
+@media(min-width:760px){#quiz{display:grid;grid-template-columns:1fr 260px;gap:12px;align-items:start}#quiz .card{margin-bottom:0}}
+#palbox{margin-top:12px}
+@media(min-width:760px){#palbox{margin-top:0;position:sticky;top:60px}}
+/* result */
+.score{font-size:34px;font-weight:700;color:var(--pri2)}
+.stats{display:flex;gap:10px;flex-wrap:wrap;margin:8px 0}
+.stat{flex:1;min-width:90px;background:#f4f7ff;border-radius:10px;padding:8px 12px;text-align:center}
+.stat b{display:block;font-size:20px}
+.rv{border-left:5px solid var(--line)}
+.rv.right{border-left-color:var(--ok)}
+.rv.wrong{border-left-color:var(--bad)}
+.rv.skip{border-left-color:var(--warn)}
+.ro{padding:6px 10px;border-radius:8px;margin:4px 0;border:1px solid var(--line);font-size:15px}
+.ro.c{background:#e7f6ec;border-color:var(--ok)}
+.ro.w{background:#fde8e8;border-color:var(--bad)}
+.ex{margin-top:8px;font-size:15px;background:#f4f7ff;padding:8px 12px;border-radius:8px}
+.foot{text-align:center;color:var(--mut);font-size:13px;padding:16px 0 30px}
+.modal{position:fixed;inset:0;background:rgba(0,0,0,.5);display:flex;align-items:center;justify-content:center;padding:16px;z-index:20}
+.modal .box{background:#fff;border-radius:12px;padding:18px;max-width:380px;width:100%}
+</style>
+</head>
+<body>
+
+<div id="start" class="wrap">
+  <div class="card">
+    <h1 id="s-title">TodayPrep Quiz</h1>
+    <div class="mut" id="s-date"></div>
+    <div class="langs">
+      <button id="l-te" onclick="pickLang('te')">తెలుగు</button>
+      <button id="l-en" onclick="pickLang('en')">English</button>
+    </div>
+    <div id="s-info" class="mut">Loading…</div>
+    <ul class="rules" id="s-rules"></ul>
+    <button class="btn" id="s-go" onclick="startQuiz()" disabled>Start</button>
+  </div>
+  <div class="foot">TodayPrep Team</div>
+</div>
+
+<div id="exam" class="hidden">
+  <div class="top">
+    <div class="t" id="x-title">TodayPrep</div>
+    <div class="timer" id="timer">16:00</div>
+  </div>
+  <div class="wrap">
+    <div id="quiz">
+      <div class="card" id="qcard">
+        <div class="qno" id="qno"></div>
+        <span class="sec-tag" id="qsec"></span>
+        <div class="qtext" id="qtext"></div>
+        <div id="opts"></div>
+        <div class="nav">
+          <button class="btn sec" id="prev" onclick="go(-1)"></button>
+          <button class="btn ghost" id="clear" onclick="clearAns()"></button>
+          <span class="sp"></span>
+          <button class="btn" id="next" onclick="go(1)"></button>
+        </div>
+      </div>
+      <div class="card" id="palbox">
+        <div id="pal-title" style="font-weight:700;margin-bottom:8px"></div>
+        <div class="pal" id="pal"></div>
+        <div class="legend">
+          <span><span class="dot" style="background:var(--ok)"></span><span id="lg-a"></span></span>
+          <span><span class="dot" style="background:#fff"></span><span id="lg-n"></span></span>
+        </div>
+        <div class="mut" id="cnt" style="margin:8px 0"></div>
+        <button class="btn" style="width:100%;background:var(--bad)" id="submit" onclick="askSubmit()"></button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="result" class="hidden wrap"></div>
+
+<div id="modal" class="modal hidden">
+  <div class="box">
+    <div id="m-text" style="margin-bottom:14px"></div>
+    <div style="display:flex;gap:8px;justify-content:flex-end">
+      <button class="btn sec" id="m-no" onclick="closeModal()"></button>
+      <button class="btn" id="m-yes" onclick="doSubmit()"></button>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+var UI={
+ te:{start:"ప్రారంభించండి",title:"డైలీ కరెంట్ అఫైర్స్ క్విజ్",qs:"ప్రశ్నలు",min:"నిమిషాలు",
+  rules:["ఒక్కో ప్రశ్నకు 4 ఎంపికలు, సరైన సమాధానం ఒక్కటే.","పక్కన ఉన్న నంబర్ల పట్టీతో ఏ ప్రశ్నకైనా వెళ్లవచ్చు.","సమయం ముగిసిన వెంటనే క్విజ్ ఆటోమేటిక్‌గా సబ్మిట్ అవుతుంది.","సబ్మిట్ చేసిన తర్వాత స్కోర్, సరైన సమాధానాలు, ఒక్క లైన్ వివరణ కనిపిస్తాయి."],
+  prev:"వెనక్కి",next:"తర్వాత",clear:"తుడిపివేయి",submit:"సబ్మిట్",pal:"ప్రశ్నల పట్టీ",lgA:"సమాధానం ఇచ్చినవి",lgN:"ఇవ్వనివి",
+  q:"ప్రశ్న",of:"/",ansd:"సమాధానం ఇచ్చినవి",ask:"సబ్మిట్ చేయాలా? ఇంకా సమాధానం ఇవ్వని ప్రశ్నలు:",yes:"అవును, సబ్మిట్",no:"వెనక్కి",
+  score:"మీ స్కోర్",right:"సరైనవి",wrong:"తప్పులు",skip:"వదిలేసినవి",time:"సమయం",ca:"సరైన సమాధానం",ya:"మీ సమాధానం",none:"సమాధానం ఇవ్వలేదు",why:"వివరణ",again:"మళ్లీ ప్రయత్నించండి",rev:"సమాధానాల సమీక్ష",err:"క్విజ్ ఫైల్ లోడ్ కాలేదు. లింక్ సరిచూడండి.",timeup:"సమయం ముగిసింది"},
+ en:{start:"Start",title:"Daily Current Affairs Quiz",qs:"Questions",min:"Minutes",
+  rules:["4 options per question, only one is correct.","Use the number panel to jump to any question.","The quiz submits automatically when time is over.","After submitting you will see your score, correct answers and a one-line explanation."],
+  prev:"Previous",next:"Next",clear:"Clear",submit:"Submit",pal:"Question panel",lgA:"Answered",lgN:"Not answered",
+  q:"Question",of:"of",ansd:"Answered",ask:"Submit now? Questions not answered yet:",yes:"Yes, submit",no:"Go back",
+  score:"Your score",right:"Correct",wrong:"Wrong",skip:"Skipped",time:"Time",ca:"Correct answer",ya:"Your answer",none:"Not answered",why:"Explanation",again:"Try again",rev:"Answer review",err:"Could not load the quiz file. Please check the link.",timeup:"Time is over"}
+};
+var params=new URLSearchParams(location.search);
+var D=params.get("d")||"",L=params.get("l")==="en"?"en":"te";
+var data=null,ans=[],cur=0,left=0,tick=null,done=false;
+function $(i){return document.getElementById(i)}
+function t(k){return UI[L][k]}
+function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
+function fmt(s){var m=Math.floor(s/60),x=s%60;return(m<10?"0":"")+m+":"+(x<10?"0":"")+x}
+
+window.pickLang=function(l){L=l;load()};
+function load(){
+  $("l-te").className=L==="te"?"on":"";$("l-en").className=L==="en"?"on":"";
+  document.documentElement.lang=L;
+  $("s-go").disabled=true;$("s-go").textContent=t("start");
+  if(!/^\d{4}-\d{2}-\d{2}$/.test(D)){$("s-info").textContent=t("err");return}
+  $("s-info").textContent="…";
+  fetch("quiz/"+D+"-"+L+".json").then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(j){
+    data=j;ans=new Array(j.questions.length).fill(-1);
+    $("s-title").textContent=t("title");
+    $("s-date").textContent=D;
+    $("s-info").innerHTML="<b>"+j.questions.length+"</b> "+t("qs")+" &nbsp;•&nbsp; <b>"+j.duration_minutes+"</b> "+t("min");
+    $("s-rules").innerHTML=t("rules").map(function(r){return"<li>"+esc(r)+"</li>"}).join("");
+    $("s-go").disabled=false;
+  }).catch(function(){data=null;$("s-info").textContent=t("err");$("s-rules").innerHTML=""});
+}
+
+window.startQuiz=function(){
+  if(!data)return;
+  $("start").classList.add("hidden");$("exam").classList.remove("hidden");
+  $("x-title").textContent=t("title");
+  $("prev").textContent=t("prev");$("next").textContent=t("next");$("clear").textContent=t("clear");
+  $("submit").textContent=t("submit");$("pal-title").textContent=t("pal");
+  $("lg-a").textContent=t("lgA");$("lg-n").textContent=t("lgN");
+  left=data.duration_minutes*60;$("timer").textContent=fmt(left);
+  tick=setInterval(function(){
+    left--;$("timer").textContent=fmt(Math.max(left,0));
+    if(left<=60)$("timer").classList.add("low");
+    if(left<=0){clearInterval(tick);doSubmit(true)}
+  },1000);
+  cur=0;render();
+};
+
+function render(){
+  var q=data.questions[cur],n=data.questions.length;
+  $("qno").textContent=t("q")+" "+(cur+1)+" "+t("of")+" "+n;
+  $("qsec").textContent=q.section;
+  $("qtext").textContent=q.q;
+  var h="";
+  q.options.forEach(function(o,i){
+    h+='<button class="opt'+(ans[cur]===i?" sel":"")+'" data-i="'+i+'"><span class="k">'+"ABCD".charAt(i)+'</span><span>'+esc(o)+'</span></button>';
+  });
+  $("opts").innerHTML=h;
+  Array.prototype.forEach.call($("opts").children,function(b){b.onclick=function(){ans[cur]=+b.getAttribute("data-i");render()}});
+  $("prev").disabled=cur===0;$("next").disabled=cur===n-1;
+  var p="";
+  for(var i=0;i<n;i++)p+='<button class="'+(ans[i]>=0?"ans ":"")+(i===cur?"cur":"")+'" data-i="'+i+'">'+(i+1)+'</button>';
+  $("pal").innerHTML=p;
+  Array.prototype.forEach.call($("pal").children,function(b){b.onclick=function(){cur=+b.getAttribute("data-i");render();window.scrollTo(0,0)}});
+  var a=ans.filter(function(x){return x>=0}).length;
+  $("cnt").textContent=t("ansd")+": "+a+" / "+n;
+}
+window.go=function(d){cur=Math.min(Math.max(cur+d,0),data.questions.length-1);render();window.scrollTo(0,0)};
+window.clearAns=function(){ans[cur]=-1;render()};
+
+window.askSubmit=function(){
+  var un=ans.filter(function(x){return x<0}).length;
+  $("m-text").textContent=t("ask")+" "+un;
+  $("m-yes").textContent=t("yes");$("m-no").textContent=t("no");
+  $("modal").classList.remove("hidden");
+};
+window.closeModal=function(){$("modal").classList.add("hidden")};
+
+window.doSubmit=function(auto){
+  if(done)return;done=true;clearInterval(tick);closeModal();
+  var qs=data.questions,r=0,w=0,s=0;
+  qs.forEach(function(q,i){if(ans[i]<0)s++;else if(ans[i]===q.answer)r++;else w++});
+  var used=data.duration_minutes*60-Math.max(left,0);
+  var h='<div class="card"><h1>'+esc(t("title"))+'</h1><div class="mut">'+esc(D)+(auto===true?" • "+esc(t("timeup")):"")+'</div>'
+   +'<div class="mut" style="margin-top:8px">'+esc(t("score"))+'</div><div class="score">'+r+' / '+qs.length+'</div>'
+   +'<div class="stats"><div class="stat"><b style="color:var(--ok)">'+r+'</b>'+esc(t("right"))+'</div>'
+   +'<div class="stat"><b style="color:var(--bad)">'+w+'</b>'+esc(t("wrong"))+'</div>'
+   +'<div class="stat"><b style="color:var(--warn)">'+s+'</b>'+esc(t("skip"))+'</div>'
+   +'<div class="stat"><b>'+fmt(used)+'</b>'+esc(t("time"))+'</div></div>'
+   +'<button class="btn" onclick="location.reload()">'+esc(t("again"))+'</button></div>'
+   +'<h2 style="font-size:18px;margin:14px 4px">'+esc(t("rev"))+'</h2>';
+  qs.forEach(function(q,i){
+    var st=ans[i]<0?"skip":(ans[i]===q.answer?"right":"wrong");
+    h+='<div class="card rv '+st+'"><div class="qno">'+(i+1)+' • '+esc(q.section)+'</div><div class="qtext">'+esc(q.q)+'</div>';
+    q.options.forEach(function(o,k){
+      var c=k===q.answer?" c":(k===ans[i]?" w":"");
+      var tag=k===q.answer?" ✔":(k===ans[i]?" ✘":"");
+      h+='<div class="ro'+c+'"><b>'+"ABCD".charAt(k)+'.</b> '+esc(o)+tag+'</div>';
+    });
+    h+='<div class="mut" style="margin-top:6px">'+esc(t("ya"))+': '+(ans[i]<0?esc(t("none")):"ABCD".charAt(ans[i]))+' &nbsp;|&nbsp; '+esc(t("ca"))+': <b>'+"ABCD".charAt(q.answer)+'</b></div>';
+    h+='<div class="ex"><b>'+esc(t("why"))+':</b> '+esc(q.explain)+'</div></div>';
+  });
+  h+='<div class="foot">TodayPrep Team</div>';
+  $("exam").classList.add("hidden");$("result").innerHTML=h;$("result").classList.remove("hidden");
+  window.scrollTo(0,0);
+};
+
+window.addEventListener("beforeunload",function(e){if(data&&tick&&!done){e.preventDefault();e.returnValue=""}});
+load();
+})();
+</script>
+</body>
+</html>
