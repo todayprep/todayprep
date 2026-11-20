@@ -1,0 +1,12 @@
+<div class="exam-grid">
+{{- range hugo.Data.exams }}
+  <details class="exam-drop">
+    <summary>{{ .name }}</summary>
+    <ul>
+    {{- range .items }}
+      <li><a href="{{ .url }}">{{ .title }}</a></li>
+    {{- end }}
+    </ul>
+  </details>
+{{- end }}
+</div>
