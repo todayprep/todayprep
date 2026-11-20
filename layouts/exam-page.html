@@ -67,8 +67,16 @@ body:has(.ex-wrap) .main{max-width:1180px}
       </div>
     </div>
 
-    <div class="ex-view" data-view="syllabus">
+        <div class="ex-view" data-view="syllabus">
       <div class="ex-body">{{ .Content }}</div>
+      <div class="ex-box">
+        <div class="ex-menu" style="padding:18px 20px">
+          {{ if .Params.syllabus_te }}<a class="ex-b te" href="{{ .Params.syllabus_te }}" target="_blank" rel="noopener">సిలబస్ PDF (తెలుగు)</a>{{ end }}
+          {{ if .Params.syllabus_en }}<a class="ex-b en" href="{{ .Params.syllabus_en }}" target="_blank" rel="noopener">Syllabus PDF (English)</a>{{ end }}
+          {{ if .Params.notification_url }}<a class="ex-b" style="border:1px solid var(--border);color:var(--primary)" href="{{ .Params.notification_url }}" target="_blank" rel="noopener">అధికారిక నోటిఫికేషన్</a>{{ end }}
+        </div>
+        {{ if not (or .Params.syllabus_te .Params.syllabus_en) }}<div class="ex-empty">సిలబస్ PDF సిద్ధమైన తర్వాత ఇక్కడ కనిపిస్తుంది.</div>{{ end }}
+      </div>
     </div>
 
     <div class="ex-view" data-view="quizzes">
