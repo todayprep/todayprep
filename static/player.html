@@ -28,17 +28,10 @@ h1{font-size:22px;margin:0 0 6px;line-height:1.4}
 .hidden{display:none!important}
 ul.rules{padding-left:20px;margin:8px 0}
 /* top bar */
-.top{position:sticky;top:0;z-index:5;background:var(--pri2);color:#fff;display:flex;align-items:center;justify-content:space-between;gap:8px;padding:8px 12px;flex-wrap:wrap}
+.top{position:sticky;top:0;z-index:5;background:var(--pri2);color:#fff;display:flex;align-items:center;justify-content:space-between;gap:8px;padding:8px 12px}
 .top .t{font-weight:700;font-size:15px}
-.top .r{display:flex;align-items:center;gap:8px}
 .timer{font-variant-numeric:tabular-nums;font-weight:700;font-size:18px;background:rgba(255,255,255,.15);padding:2px 12px;border-radius:8px}
 .timer.low{background:var(--bad)}
-.lt{display:inline-flex;border:1px solid rgba(255,255,255,.5);border-radius:8px;overflow:hidden}
-.lt button{border:0;background:transparent;color:#fff;padding:3px 12px;font-size:14px;font-weight:600}
-.lt button.on{background:#fff;color:var(--pri2)}
-.lt.dark{border-color:var(--line)}
-.lt.dark button{color:var(--pri2)}
-.lt.dark button.on{background:var(--pri);color:#fff}
 .sec-tag{display:inline-block;font-size:13px;background:#e8efff;color:var(--pri2);padding:1px 10px;border-radius:20px;margin-bottom:6px}
 .qno{font-weight:700;color:var(--mut);font-size:14px}
 .qtext{font-size:18px;font-weight:600;margin:4px 0 12px}
@@ -95,13 +88,7 @@ ul.rules{padding-left:20px;margin:8px 0}
 <div id="exam" class="hidden">
   <div class="top">
     <div class="t" id="x-title">TodayPrep</div>
-    <div class="r">
-      <div class="lt" id="x-lt">
-        <button id="t-te" onclick="setLang('te')">తెలుగు</button>
-        <button id="t-en" onclick="setLang('en')">English</button>
-      </div>
-      <div class="timer" id="timer">16:00</div>
-    </div>
+    <div style="display:flex;gap:8px;align-items:center"><button class="btn sec" id="langbtn" style="padding:4px 12px;font-size:14px" onclick="toggleLang()"></button><div class="timer" id="timer">16:00</div></div>
   </div>
   <div class="wrap">
     <div id="quiz">
@@ -147,85 +134,61 @@ ul.rules{padding-left:20px;margin:8px 0}
 (function(){
 var UI={
  te:{start:"ప్రారంభించండి",title:"డైలీ కరెంట్ అఫైర్స్ క్విజ్",qs:"ప్రశ్నలు",min:"నిమిషాలు",
-  rules:["ఒక్కో ప్రశ్నకు 4 ఎంపికలు, సరైన సమాధానం ఒక్కటే.","పక్కన ఉన్న నంబర్ల పట్టీతో ఏ ప్రశ్నకైనా వెళ్లవచ్చు.","క్విజ్ మధ్యలో పైన ఉన్న బటన్‌తో తెలుగు / English మార్చుకోవచ్చు. టైమర్ ఆగదు, మీ సమాధానాలు అలాగే ఉంటాయి.","సమయం ముగిసిన వెంటనే క్విజ్ ఆటోమేటిక్‌గా సబ్మిట్ అవుతుంది.","సబ్మిట్ చేసిన తర్వాత స్కోర్, సరైన సమాధానాలు, ఒక్క లైన్ వివరణ కనిపిస్తాయి."],
+  rules:["ఒక్కో ప్రశ్నకు 4 ఎంపికలు, సరైన సమాధానం ఒక్కటే.","పక్కన ఉన్న నంబర్ల పట్టీతో ఏ ప్రశ్నకైనా వెళ్లవచ్చు.","సమయం ముగిసిన వెంటనే క్విజ్ ఆటోమేటిక్‌గా సబ్మిట్ అవుతుంది.","సబ్మిట్ చేసిన తర్వాత స్కోర్, సరైన సమాధానాలు, ఒక్క లైన్ వివరణ కనిపిస్తాయి."],
   prev:"వెనక్కి",next:"తర్వాత",clear:"తుడిపివేయి",submit:"సబ్మిట్",pal:"ప్రశ్నల పట్టీ",lgA:"సమాధానం ఇచ్చినవి",lgN:"ఇవ్వనివి",
   q:"ప్రశ్న",of:"/",ansd:"సమాధానం ఇచ్చినవి",ask:"సబ్మిట్ చేయాలా? ఇంకా సమాధానం ఇవ్వని ప్రశ్నలు:",yes:"అవును, సబ్మిట్",no:"వెనక్కి",
   score:"మీ స్కోర్",right:"సరైనవి",wrong:"తప్పులు",skip:"వదిలేసినవి",time:"సమయం",ca:"సరైన సమాధానం",ya:"మీ సమాధానం",none:"సమాధానం ఇవ్వలేదు",why:"వివరణ",again:"మళ్లీ ప్రయత్నించండి",rev:"సమాధానాల సమీక్ష",err:"క్విజ్ ఫైల్ లోడ్ కాలేదు. లింక్ సరిచూడండి.",timeup:"సమయం ముగిసింది"},
  en:{start:"Start",title:"Daily Current Affairs Quiz",qs:"Questions",min:"Minutes",
-  rules:["4 options per question, only one is correct.","Use the number panel to jump to any question.","You can switch Telugu / English anytime using the button at the top. The timer keeps running and your answers stay.","The quiz submits automatically when time is over.","After submitting you will see your score, correct answers and a one-line explanation."],
+  rules:["4 options per question, only one is correct.","Use the number panel to jump to any question.","The quiz submits automatically when time is over.","After submitting you will see your score, correct answers and a one-line explanation."],
   prev:"Previous",next:"Next",clear:"Clear",submit:"Submit",pal:"Question panel",lgA:"Answered",lgN:"Not answered",
   q:"Question",of:"of",ansd:"Answered",ask:"Submit now? Questions not answered yet:",yes:"Yes, submit",no:"Go back",
   score:"Your score",right:"Correct",wrong:"Wrong",skip:"Skipped",time:"Time",ca:"Correct answer",ya:"Your answer",none:"Not answered",why:"Explanation",again:"Try again",rev:"Answer review",err:"Could not load the quiz file. Please check the link.",timeup:"Time is over"}
 };
 var params=new URLSearchParams(location.search);
 var D=params.get("d")||"",L=params.get("l")==="en"?"en":"te";
-var DATA={te:null,en:null},ans=[],cur=0,left=0,tick=null,done=false,started=false,usedSec=0,autoSub=false;
+var data=null,ans=[],cur=0,left=0,tick=null,done=false,lastAuto=false;
 function $(i){return document.getElementById(i)}
 function t(k){return UI[L][k]}
-function cd(){return DATA[L]}
 function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
 function fmt(s){var m=Math.floor(s/60),x=s%60;return(m<10?"0":"")+m+":"+(x<10?"0":"")+x}
-function both(){return !!(DATA.te&&DATA.en)}
 
-function getJSON(l){
-  return fetch("quiz/"+D+"-"+l+".json").then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(j){
-    if(!j||!j.questions||!j.questions.length)throw 0;return j}).catch(function(){return null});
-}
-
-window.pickLang=function(l){if(started)return;L=l;fillStart()};
-function fillStart(){
+function pk(x){return x&&x[L]!==undefined?x[L]:x}
+function paintStart(){
   $("l-te").className=L==="te"?"on":"";$("l-en").className=L==="en"?"on":"";
   document.documentElement.lang=L;
   $("s-go").textContent=t("start");
-  var j=cd();
-  if(!j){$("s-info").textContent=t("err");$("s-rules").innerHTML="";$("s-go").disabled=true;return}
-  $("s-title").textContent=t("title");
+  $("s-title").textContent=data?pk(data.title):t("title");
   $("s-date").textContent=D;
-  $("s-info").innerHTML="<b>"+j.questions.length+"</b> "+t("qs")+" &nbsp;•&nbsp; <b>"+j.duration_minutes+"</b> "+t("min");
-  $("s-rules").innerHTML=t("rules").map(function(r,i){
-    if(!both()&&i===2)return"";
-    return"<li>"+esc(r)+"</li>"}).join("");
+  if(!data){$("s-info").textContent=t("err");$("s-rules").innerHTML="";$("s-go").disabled=true;return}
+  $("s-info").innerHTML="<b>"+data.questions.length+"</b> "+t("qs")+" &nbsp;•&nbsp; <b>"+data.duration_minutes+"</b> "+t("min");
+  $("s-rules").innerHTML=t("rules").map(function(r){return"<li>"+esc(r)+"</li>"}).join("");
   $("s-go").disabled=false;
 }
+window.pickLang=function(l){L=l;paintStart()};
+window.toggleLang=function(){
+  L=L==="te"?"en":"te";document.documentElement.lang=L;
+  if(done){showResult(lastAuto)}else{paintExam();render()}
+};
 function load(){
-  $("s-go").disabled=true;
-  if(!/^\d{4}-\d{2}-\d{2}$/.test(D)){$("s-info").textContent=t("err");return}
-  $("s-info").textContent="…";
-  Promise.all([getJSON("te"),getJSON("en")]).then(function(r){
-    DATA.te=r[0];DATA.en=r[1];
-    if(DATA.te&&DATA.en&&DATA.te.questions.length!==DATA.en.questions.length){DATA.en=null}
-    if(!DATA[L]){L=DATA.te?"te":"en"}
-    var n=(DATA.te||DATA.en);
-    if(n)ans=new Array(n.questions.length).fill(-1);
-    fillStart();
-  });
+  $("s-go").disabled=true;$("s-info").textContent="…";paintStart();
+  if(!/^\d{4}-\d{2}-\d{2}$/.test(D)){data=null;paintStart();return}
+  fetch("quiz/"+D+".json").then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(j){
+    data=j;ans=new Array(j.questions.length).fill(-1);paintStart();
+  }).catch(function(){data=null;paintStart()});
 }
-
-function langBtns(){
-  $("t-te").className=L==="te"?"on":"";$("t-en").className=L==="en"?"on":"";
-  $("x-lt").classList.toggle("hidden",!both());
-}
-function labels(){
-  document.documentElement.lang=L;
+function paintExam(){
   $("x-title").textContent=t("title");
   $("prev").textContent=t("prev");$("next").textContent=t("next");$("clear").textContent=t("clear");
   $("submit").textContent=t("submit");$("pal-title").textContent=t("pal");
   $("lg-a").textContent=t("lgA");$("lg-n").textContent=t("lgN");
-  langBtns();
+  $("langbtn").textContent=L==="te"?"English":"తెలుగు";
 }
 
-window.setLang=function(l){
-  if(!DATA[l]||l===L)return;
-  L=l;
-  if(!done){labels();render()}else{showResult()}
-};
-
 window.startQuiz=function(){
-  if(!cd())return;
-  started=true;
+  if(!data)return;
   $("start").classList.add("hidden");$("exam").classList.remove("hidden");
-  labels();
-  left=cd().duration_minutes*60;$("timer").textContent=fmt(left);
+  paintExam();
+  left=data.duration_minutes*60;$("timer").textContent=fmt(left);
   tick=setInterval(function(){
     left--;$("timer").textContent=fmt(Math.max(left,0));
     if(left<=60)$("timer").classList.add("low");
@@ -235,12 +198,12 @@ window.startQuiz=function(){
 };
 
 function render(){
-  var qs=cd().questions,q=qs[cur],n=qs.length;
+  var q=data.questions[cur],n=data.questions.length;
   $("qno").textContent=t("q")+" "+(cur+1)+" "+t("of")+" "+n;
-  $("qsec").textContent=q.section;
-  $("qtext").textContent=q.q;
+  $("qsec").textContent=pk(q.section);
+  $("qtext").textContent=pk(q.q);
   var h="";
-  q.options.forEach(function(o,i){
+  pk(q.options).forEach(function(o,i){
     h+='<button class="opt'+(ans[cur]===i?" sel":"")+'" data-i="'+i+'"><span class="k">'+"ABCD".charAt(i)+'</span><span>'+esc(o)+'</span></button>';
   });
   $("opts").innerHTML=h;
@@ -253,7 +216,7 @@ function render(){
   var a=ans.filter(function(x){return x>=0}).length;
   $("cnt").textContent=t("ansd")+": "+a+" / "+n;
 }
-window.go=function(d){cur=Math.min(Math.max(cur+d,0),cd().questions.length-1);render();window.scrollTo(0,0)};
+window.go=function(d){cur=Math.min(Math.max(cur+d,0),data.questions.length-1);render();window.scrollTo(0,0)};
 window.clearAns=function(){ans[cur]=-1;render()};
 
 window.askSubmit=function(){
@@ -265,48 +228,39 @@ window.askSubmit=function(){
 window.closeModal=function(){$("modal").classList.add("hidden")};
 
 window.doSubmit=function(auto){
-  if(done)return;done=true;clearInterval(tick);closeModal();
-  autoSub=(auto===true);
-  usedSec=cd().duration_minutes*60-Math.max(left,0);
-  $("exam").classList.add("hidden");
-  showResult();
+  if(done)return;done=true;clearInterval(tick);closeModal();lastAuto=auto===true;
+  $("exam").classList.add("hidden");showResult(lastAuto);
 };
-
-function showResult(){
-  var qs=cd().questions,r=0,w=0,s=0;
+function showResult(auto){
+  var qs=data.questions,r=0,w=0,s=0;
   qs.forEach(function(q,i){if(ans[i]<0)s++;else if(ans[i]===q.answer)r++;else w++});
-  var h='';
-  if(both()){
-    h+='<div style="display:flex;justify-content:flex-end;margin-bottom:8px"><div class="lt dark">'
-     +'<button class="'+(L==="te"?"on":"")+'" onclick="setLang(\'te\')">తెలుగు</button>'
-     +'<button class="'+(L==="en"?"on":"")+'" onclick="setLang(\'en\')">English</button></div></div>';
-  }
-  h+='<div class="card"><h1>'+esc(t("title"))+'</h1><div class="mut">'+esc(D)+(autoSub?" • "+esc(t("timeup")):"")+'</div>'
+  var used=data.duration_minutes*60-Math.max(left,0);
+  var lb='<button class="btn sec" style="margin-left:8px" onclick="toggleLang()">'+(L==="te"?"English":"తెలుగు")+'</button>';
+  var h='<div class="card"><h1>'+esc(pk(data.title))+'</h1><div class="mut">'+esc(D)+(auto?" • "+esc(t("timeup")):"")+'</div>'
    +'<div class="mut" style="margin-top:8px">'+esc(t("score"))+'</div><div class="score">'+r+' / '+qs.length+'</div>'
    +'<div class="stats"><div class="stat"><b style="color:var(--ok)">'+r+'</b>'+esc(t("right"))+'</div>'
    +'<div class="stat"><b style="color:var(--bad)">'+w+'</b>'+esc(t("wrong"))+'</div>'
    +'<div class="stat"><b style="color:var(--warn)">'+s+'</b>'+esc(t("skip"))+'</div>'
-   +'<div class="stat"><b>'+fmt(usedSec)+'</b>'+esc(t("time"))+'</div></div>'
-   +'<button class="btn" onclick="location.reload()">'+esc(t("again"))+'</button></div>'
+   +'<div class="stat"><b>'+fmt(used)+'</b>'+esc(t("time"))+'</div></div>'
+   +'<button class="btn" onclick="location.reload()">'+esc(t("again"))+'</button>'+lb+'</div>'
    +'<h2 style="font-size:18px;margin:14px 4px">'+esc(t("rev"))+'</h2>';
   qs.forEach(function(q,i){
     var st=ans[i]<0?"skip":(ans[i]===q.answer?"right":"wrong");
-    h+='<div class="card rv '+st+'"><div class="qno">'+(i+1)+' • '+esc(q.section)+'</div><div class="qtext">'+esc(q.q)+'</div>';
-    q.options.forEach(function(o,k){
+    h+='<div class="card rv '+st+'"><div class="qno">'+(i+1)+' • '+esc(pk(q.section))+'</div><div class="qtext">'+esc(pk(q.q))+'</div>';
+    pk(q.options).forEach(function(o,k){
       var c=k===q.answer?" c":(k===ans[i]?" w":"");
       var tag=k===q.answer?" ✔":(k===ans[i]?" ✘":"");
       h+='<div class="ro'+c+'"><b>'+"ABCD".charAt(k)+'.</b> '+esc(o)+tag+'</div>';
     });
     h+='<div class="mut" style="margin-top:6px">'+esc(t("ya"))+': '+(ans[i]<0?esc(t("none")):"ABCD".charAt(ans[i]))+' &nbsp;|&nbsp; '+esc(t("ca"))+': <b>'+"ABCD".charAt(q.answer)+'</b></div>';
-    h+='<div class="ex"><b>'+esc(t("why"))+':</b> '+esc(q.explain)+'</div></div>';
+    h+='<div class="ex"><b>'+esc(t("why"))+':</b> '+esc(pk(q.explain))+'</div></div>';
   });
   h+='<div class="foot">TodayPrep Team</div>';
-  document.documentElement.lang=L;
   $("result").innerHTML=h;$("result").classList.remove("hidden");
   window.scrollTo(0,0);
 }
 
-window.addEventListener("beforeunload",function(e){if(started&&tick&&!done){e.preventDefault();e.returnValue=""}});
+window.addEventListener("beforeunload",function(e){if(data&&tick&&!done){e.preventDefault();e.returnValue=""}});
 load();
 })();
 </script>
