@@ -15,3 +15,8 @@ enableRobotsTXT = true
   name = "About us"
   url = "/about/"
   weight = 2
+[[menu.main]]
+  identifier = "current-affairs"
+  name = "Current Affairs"
+  url = "/current-affairs/"
+  weight = 2
