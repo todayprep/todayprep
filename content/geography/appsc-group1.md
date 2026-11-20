@@ -1,7 +1,7 @@
 ---
 title: "APPSC Group 1 – భూగోళశాస్త్రం సిలబస్, క్విజ్‌లు, మాక్ టెస్టులు"
 layout: "exam-page"
-draft: true
+draft: false
 robotsNoIndex: true
 sitemap:
   disable: true
