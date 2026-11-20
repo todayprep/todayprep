@@ -1,0 +1,148 @@
+{{ define "main" }}
+<style>
+body:has(.ex-wrap) .main{max-width:1180px}
+.ex-wrap{display:flex;gap:28px;align-items:flex-start;margin-top:8px}
+.ex-side{width:240px;flex:none;background:var(--entry);border:1px solid var(--border);border-radius:14px;overflow:hidden;position:sticky;top:16px}
+.ex-side-title{background:#12263A;color:#fff;font-weight:700;padding:14px 18px;font-size:15px}
+.ex-nav{display:block;width:100%;text-align:left;background:none;border:0;border-bottom:1px solid var(--border);padding:13px 18px;font:inherit;font-size:15px;font-weight:600;color:var(--primary);cursor:pointer}
+.ex-nav:hover{background:rgba(11,110,79,.10)}
+.ex-nav.active{background:rgba(11,110,79,.16);color:#0B8A63}
+.ex-back{display:block;padding:13px 18px;font-size:14px;color:var(--secondary);text-decoration:none;background:rgba(127,127,127,.06)}
+.ex-main{flex:1;min-width:0}
+.ex-h1{font-size:30px;line-height:1.5;margin:0 0 14px;padding-bottom:10px;border-bottom:4px solid #0B6E4F;display:inline-block}
+.ex-intro{font-size:16px;line-height:1.9;color:var(--secondary);margin:0 0 22px}
+.ex-follow{background:#12263A;color:#fff;border-left:6px solid #E9A23B;border-radius:16px;padding:22px 26px;margin:0 0 30px}
+.ex-follow-title{font-size:20px;font-weight:700;line-height:1.5;margin-bottom:6px}
+.ex-follow-text{color:#C5D1DD;margin:0 0 14px;font-size:15px;line-height:1.8}
+.ex-follow-btns{display:flex;gap:12px;flex-wrap:wrap}
+.ex-sbtn{display:inline-block;padding:11px 20px;border-radius:10px;font-weight:700;font-size:15px;text-decoration:none;box-shadow:none}
+.ex-wa{background:#25D366;color:#0b2a17}
+.ex-tg{background:#229ED9;color:#fff}
+.ex-view{display:block;margin-bottom:34px}
+.ex-js .ex-view{display:none}
+.ex-js .ex-view.on{display:block}
+.ex-h2{font-size:22px;line-height:1.5;margin:0 0 6px}
+.ex-note{color:var(--secondary);font-size:14px;margin:0 0 14px}
+.ex-body{line-height:1.9}
+.ex-box{background:var(--entry);border:1px solid var(--border);border-radius:16px;overflow:hidden}
+.ex-list{max-height:560px;overflow-y:auto}
+.ex-row{border-bottom:1px solid var(--border)}
+.ex-row:last-child{border-bottom:0}
+.ex-row summary{list-style:none;cursor:pointer;display:flex;justify-content:space-between;align-items:center;gap:10px;padding:13px 20px;font-weight:600;font-size:15px;color:var(--primary)}
+.ex-row summary::-webkit-details-marker{display:none}
+.ex-row summary::after{content:"▾";color:#0B8A63}
+.ex-row[open] summary::after{content:"▴"}
+.ex-row summary:hover,.ex-row[open] summary{background:rgba(11,110,79,.08)}
+.ex-menu{display:flex;gap:10px;flex-wrap:wrap;padding:6px 20px 16px}
+.ex-b{display:inline-block;padding:9px 20px;border-radius:8px;font-size:14px;font-weight:600;text-decoration:none;box-shadow:none}
+.ex-b.te{background:#0B6E4F;color:#fff}
+.ex-b.en{background:#E9A23B;color:#12263A}
+.ex-empty{padding:22px 20px;color:var(--secondary);font-size:15px;line-height:1.8}
+@media (max-width:860px){
+.ex-wrap{display:block}
+.ex-side{width:auto;position:static;margin-bottom:20px}
+.ex-h1{font-size:24px}
+}
+</style>
+
+<div class="ex-wrap" id="ex-wrap">
+  <aside class="ex-side">
+    <div class="ex-side-title">విభాగాలు</div>
+    <button type="button" class="ex-nav" data-target="syllabus">సిలబస్</button>
+    <button type="button" class="ex-nav" data-target="quizzes">టాపిక్ వారీ క్విజ్‌లు</button>
+    <button type="button" class="ex-nav" data-target="mocks" style="border-bottom:0">మాక్ టెస్టులు</button>
+    {{ with .Params.hub_label }}<a class="ex-back" href="{{ $.Parent.RelPermalink }}">← {{ . }}</a>{{ end }}
+  </aside>
+
+  <section class="ex-main">
+    <h1 class="ex-h1">{{ .Title }}</h1>
+    {{ with .Params.intro }}<p class="ex-intro">{{ . }}</p>{{ end }}
+
+    <div class="ex-follow">
+      <div class="ex-follow-title">ఛానెల్స్‌లో చేరండి, ఏ అప్‌డేట్ మిస్ అవ్వకండి</div>
+      <p class="ex-follow-text">కొత్త క్విజ్‌లు, మాక్ టెస్టులు వచ్చినప్పుడు ఛానెల్స్‌లో తెలియజేస్తాం.</p>
+      <div class="ex-follow-btns">
+        <a class="ex-sbtn ex-wa" href="https://whatsapp.com/channel/0029VbDZ76j17EmtCfPtZv2E" target="_blank" rel="noopener">WhatsApp ఛానెల్ ఫాలో అవ్వండి</a>
+        <a class="ex-sbtn ex-tg" href="https://t.me/todayprep" target="_blank" rel="noopener">Telegram ఛానెల్ చేరండి</a>
+      </div>
+    </div>
+
+    <div class="ex-view" data-view="syllabus">
+      <div class="ex-body">{{ .Content }}</div>
+    </div>
+
+    <div class="ex-view" data-view="quizzes">
+      <h2 class="ex-h2">టాపిక్ వారీ క్విజ్‌లు</h2>
+      <p class="ex-note">క్విజ్ పేరు మీద నొక్కి, తెలుగు లేదా English ఎంచుకోండి.</p>
+      <div class="ex-box"><div class="ex-list">
+        {{ $any := false }}
+        {{ range .Params.quizzes }}
+          {{ if or .te .en }}
+          {{ $any = true }}
+          <details class="ex-row">
+            <summary>{{ .title }}</summary>
+            <div class="ex-menu">
+              {{ if .te }}<a class="ex-b te" href="{{ .te }}">తెలుగు</a>{{ end }}
+              {{ if .en }}<a class="ex-b en" href="{{ .en }}">English</a>{{ end }}
+            </div>
+          </details>
+          {{ end }}
+        {{ end }}
+        {{ if not $any }}<div class="ex-empty">క్విజ్‌లు సిద్ధమైన తర్వాత ఇక్కడ కనిపిస్తాయి. ప్రస్తుతం సిద్ధం చేస్తున్నాం.</div>{{ end }}
+      </div></div>
+    </div>
+
+    <div class="ex-view" data-view="mocks">
+      <h2 class="ex-h2">మాక్ టెస్టులు</h2>
+      <p class="ex-note">మాక్ టెస్ట్ పేరు మీద నొక్కి, తెలుగు లేదా English ఎంచుకోండి.</p>
+      <div class="ex-box"><div class="ex-list">
+        {{ $anym := false }}
+        {{ range .Params.mocks }}
+          {{ if or .te .en }}
+          {{ $anym = true }}
+          <details class="ex-row">
+            <summary>{{ .title }}</summary>
+            <div class="ex-menu">
+              {{ if .te }}<a class="ex-b te" href="{{ .te }}">తెలుగు</a>{{ end }}
+              {{ if .en }}<a class="ex-b en" href="{{ .en }}">English</a>{{ end }}
+            </div>
+          </details>
+          {{ end }}
+        {{ end }}
+        {{ if not $anym }}<div class="ex-empty">మాక్ టెస్టులు సిద్ధమైన తర్వాత ఇక్కడ కనిపిస్తాయి. ప్రస్తుతం సిద్ధం చేస్తున్నాం.</div>{{ end }}
+      </div></div>
+    </div>
+  </section>
+</div>
+
+<script>
+(function () {
+  var root = document.getElementById('ex-wrap');
+  if (!root) return;
+  root.classList.add('ex-js');
+  var views = root.querySelectorAll('.ex-view');
+  var navs = root.querySelectorAll('.ex-nav[data-target]');
+  function show(id) {
+    var found = false;
+    views.forEach(function (v) {
+      var on = v.getAttribute('data-view') === id;
+      v.classList.toggle('on', on);
+      if (on) found = true;
+    });
+    navs.forEach(function (b) {
+      b.classList.toggle('active', b.getAttribute('data-target') === id);
+    });
+    return found;
+  }
+  navs.forEach(function (b) {
+    b.addEventListener('click', function () {
+      var id = b.getAttribute('data-target');
+      show(id);
+      if (history.replaceState) history.replaceState(null, '', '#' + id);
+    });
+  });
+  var start = (location.hash || '').replace('#', '');
+  if (!start || !show(start)) show('syllabus');
+})();
+</script>
+{{ end }}
