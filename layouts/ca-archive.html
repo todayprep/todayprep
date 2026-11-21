@@ -48,6 +48,9 @@ body:has(.ca-arch) .main{max-width:1180px}
 .ca-b.te{background:#0B6E4F;color:#fff}
 .ca-b.en{background:#E9A23B;color:#12263A}
 .ca-b.off{background:transparent;color:var(--secondary);border:1px dashed var(--border);font-weight:400}
+.ca-qrow{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:13px 20px;border-bottom:1px solid var(--border);font-weight:600;font-size:15px;color:var(--primary);text-decoration:none}
+.ca-qrow:hover{background:rgba(11,110,79,.08)}
+.ca-play{color:#0B8A63;font-size:14px}
 .ca-empty{padding:22px 20px;color:var(--secondary);font-size:15px;line-height:1.8}
 .ca-mgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:14px}
 .ca-mcard{background:var(--entry);border:1px solid var(--border);border-radius:14px;padding:18px;display:flex;flex-direction:column;gap:8px}
@@ -121,15 +124,9 @@ body:has(.ca-arch) .main{max-width:1180px}
           <div class="ca-list">
             {{ $anyq := false }}
             {{ range sort .days "d" "desc" }}
-              {{ if or .quiz_te .quiz_en }}
+                            {{ if .quiz }}
               {{ $anyq = true }}
-              <details class="ca-row">
-                <summary>{{ printf "%02d" .d }} {{ $mon }} {{ $m.year }} Quiz</summary>
-                <div class="ca-menu">
-                  {{ if .quiz_te }}<a class="ca-b te" href="{{ .quiz_te }}" target="_blank" rel="noopener">తెలుగు</a>{{ end }}
-                  {{ if .quiz_en }}<a class="ca-b en" href="{{ .quiz_en }}" target="_blank" rel="noopener">English</a>{{ end }}
-                </div>
-              </details>
+              <a class="ca-qrow" href="{{ .quiz }}" target="_blank" rel="noopener"><span>{{ printf "%02d" .d }} {{ $mon }} {{ $m.year }} Quiz</span><span class="ca-play">క్విజ్ ఆడండి ›</span></a>
               {{ end }}
             {{ end }}
             {{ if not $anyq }}<div class="ca-empty">క్విజ్‌లు అప్‌లోడ్ అయ్యాక ఇక్కడ కనిపిస్తాయి.</div>{{ end }}
