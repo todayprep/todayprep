@@ -2,5 +2,4 @@
   name: "APPSC"
   items:
     - {title: "Group 1 Geography", url: "/geography/appsc-group1/"}
-    - {title: "Group 2 Geography", url: "/geography/appsc-group2/"}
-    - {title: "AEE Geography", url: "/geography/appsc-aee/"}
+    - {title: "Group 2, AEE & Other Exams Geography", url: "/geography/appsc-common/"}
