@@ -15,7 +15,7 @@ months:
       - {d: 8, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
       - {d: 9, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
       - {d: 10, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
-      - {d: 11, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
+      - {d: 11, pdf_te: "https://drive.google.com/file/d/1yoV1L10ZvR0s-VohYHnfkgTENlKhjrWR/view?usp=drive_link", pdf_en: "", quiz_te: "", quiz_en: ""}
       - {d: 12, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
       - {d: 13, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
       - {d: 14, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
