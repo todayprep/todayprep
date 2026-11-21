@@ -1,0 +1,941 @@
+{
+ "id": "geo-12-1",
+ "date": "",
+ "title": {
+  "te": "Continents and World Physical Geography – క్విజ్ 1",
+  "en": "Continents and World Physical Geography – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T12-0161",
+   "section": {
+    "te": "Polar Climates (E)",
+    "en": "Polar Climates (E)"
+   },
+   "q": {
+    "te": "సాధారణంగా ఏ అక్షాంశానికి ఆవల ధ్రువ శీతోష్ణస్థితులు (E) ఉంటాయి?",
+    "en": "Beyond which latitude do Polar climates (E) typically exist?"
+   },
+   "options": {
+    "te": [
+     "50° అక్షాంశం",
+     "60° అక్షాంశం",
+     "80° అక్షాంశం",
+     "70° అక్షాంశం"
+    ],
+    "en": [
+     "50° latitude",
+     "60° latitude",
+     "80° latitude",
+     "70° latitude"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ధ్రువ శీతోష్ణస్థితులు 70° అక్షాంశానికి ఆవల ధ్రువాల వైపు కనిపిస్తాయి.",
+    "en": "Polar climates are found poleward beyond the 70° latitude mark."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T12-0136",
+   "section": {
+    "te": "Tropical Climate Group",
+    "en": "Tropical Climate Group"
+   },
+   "q": {
+    "te": "కొప్పెన్ యొక్క 'గ్రూప్ A - ఉష్ణమండల' (Tropical) వాతావరణం యొక్క లక్షణం క్రింది వాటిలో ఏది?",
+    "en": "Which of the following is a characteristic of Koeppen's 'Group A - Tropical' climate?"
+   },
+   "options": {
+    "te": [
+     "అత్యంత శీతల నెల సగటు ఉష్ణోగ్రత 18° C లేదా అంతకంటే ఎక్కువ",
+     "అత్యంత వెచ్చని నెల సగటు ఉష్ణోగ్రత 10° C కంటే తక్కువ",
+     "ఇది పొడి వాతావరణం",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Average temperature of the coldest month is 18° C or higher",
+     "Average temperature of the warmest month is below 10° C",
+     "It is a dry climate",
+     "None of the above"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పట్టిక 11.1 ప్రకారం గ్రూప్ A (ఉష్ణమండల) వాతావరణంలో అత్యంత శీతల నెల సగటు ఉష్ణోగ్రత 18° C లేదా అంతకంటే ఎక్కువ ఉంటుంది.",
+    "en": "Table 11.1 defines Group A (Tropical) as having an average temperature of the coldest month at 18° C or higher."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T12-0075",
+   "section": {
+    "te": "Great Lakes environmental challenges",
+    "en": "Great Lakes environmental challenges"
+   },
+   "q": {
+    "te": "గ్రేట్ లేక్స్ ఎదుర్కొంటున్న పర్యావరణ సవాళ్లకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. సరస్సులోని అవక్షేపాలలో రసాయన కాలుష్యం ఏర్పడటం\n2. వ్యవసాయ ప్రవాహాలు మరియు పారిశ్రామిక ప్రక్రియల వల్ల నీటి కాలుష్యం జరగడం\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the environmental challenges faced by the Great Lakes:\n1. Chemical contamination of sediments in the lakes\n2. Water contamination due to agricultural run-off and industrial processes\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సరస్సులలోని అవక్షేపాలు రసాయన కాలుష్యానికి గురికావడం మరియు వ్యవసాయ, పారిశ్రామిక వ్యర్థాల వల్ల నీరు కలుషితమవడం రెండూ కూడా గ్రేట్ లేక్స్ ఎదుర్కొంటున్న సవాళ్లు.",
+    "en": "Both statements are correct as the Great Lakes face challenges from sediment chemical contamination and water pollution from agricultural run-off and industries."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T12-0058",
+   "section": {
+    "te": "Atacama Desert location and length",
+    "en": "Atacama Desert location and length"
+   },
+   "q": {
+    "te": "దాదాపు 1,000 కి.మీ. మేర విస్తరించి, భూమిపై అత్యంత పొడి ప్రదేశాలలో ఒకటిగా ఉన్న అటకామా ఎడారి ప్రధానంగా ఏ దేశంలో ఉంది?",
+    "en": "The Atacama Desert, one of the driest places on Earth stretching about 1,000 km, is located primarily in which country?"
+   },
+   "options": {
+    "te": [
+     "బ్రెజిల్",
+     "కొలంబియా",
+     "చిలీ",
+     "ఈక్వెడార్"
+    ],
+    "en": [
+     "Brazil",
+     "Colombia",
+     "Chile",
+     "Ecuador"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూమిపైనే అత్యంత పొడి ప్రదేశాలలో ఒకటైన అటకామా ఎడారి చిలీ దేశంలో విస్తరించి ఉంది.",
+    "en": "The Atacama Desert is situated in Chile and stretches for about 1,000 km."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T12-0117",
+   "section": {
+    "te": "Indian Subcontinent",
+    "en": "Indian Subcontinent"
+   },
+   "q": {
+    "te": "వివిధ కాలాల్లో భారత ఉపఖండం యొక్క భౌగోళిక స్థానాన్ని ఏ ప్రాంతం నుండి విశ్లేషించిన శిలల సహాయంతో గుర్తించారు?",
+    "en": "The geological position of the Indian subcontinent in different periods is traced using rocks analyzed from which area?"
+   },
+   "options": {
+    "te": [
+     "దక్కన్ పీఠభూమి",
+     "హిమాలయ ప్రాంతం",
+     "నాగ్‌పూర్ ప్రాంతం",
+     "పశ్చిమ కనుమలు"
+    ],
+    "en": [
+     "Deccan Plateau",
+     "Himalayan region",
+     "Nagpur area",
+     "Western Ghats"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారత ఉపఖండం యొక్క చారిత్రక స్థానాలను గుర్తించడానికి శాస్త్రవేత్తలు నాగ్‌పూర్ ప్రాంతం నుండి విశ్లేషించిన శిలలను ఉపయోగిస్తారు.",
+    "en": "Scientists use rocks analyzed from the Nagpur area to trace the historical positions of the Indian subcontinent."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T12-0169",
+   "section": {
+    "te": "Marine West Coast Climate",
+    "en": "Marine West Coast Climate"
+   },
+   "q": {
+    "te": "కింది వాటిలో ఏ ప్రాంతాలలో మెరైన్ వెస్ట్ కోస్ట్ (Marine West Coast) శీతోష్ణస్థితి కనిపిస్తుంది?",
+    "en": "In which of the following regions is the Marine West Coast climate found?"
+   },
+   "options": {
+    "te": [
+     "దక్షిణ చిలీ",
+     "ఆగ్నేయ ఆస్ట్రేలియా",
+     "న్యూజిలాండ్",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Southern Chile",
+     "Southeastern Australia",
+     "New Zealand",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, మెరైన్ వెస్ట్ కోస్ట్ శీతోష్ణస్థితి వాయువ్య యూరప్, ఉత్తర అమెరికా పశ్చిమ తీరం, దక్షిణ చిలీ, ఆగ్నేయ ఆస్ట్రేలియా మరియు న్యూజిలాండ్‌లలో కనిపిస్తుంది.",
+    "en": "According to the text, the Marine West Coast climate is found in Northwestern Europe, the west coast of North America, southern Chile, southeastern Australia, and New Zealand."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T12-0084",
+   "section": {
+    "te": "Pangaea and Panthalassa",
+    "en": "Pangaea and Panthalassa"
+   },
+   "q": {
+    "te": "ఆల్ఫ్రెడ్ వెజెనర్ ఖండ చలన సిద్ధాంతానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. మహా ఖండానికి పాంజియా (Pangaea) అని పేరు పెట్టారు, దీని అర్థం 'సర్వ భూమి'.\n2. దాని చుట్టూ ఉన్న మహా సముద్రాన్ని పాంథలాసా (Panthalassa) అని పిలిచారు, దీని అర్థం 'సర్వ జలం'.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding Alfred Wegener's continental drift theory:\n1. The supercontinent was named Pangaea, which meant 'all earth'.\n2. The mega-ocean surrounding it was named Panthalassa, meaning 'all water'.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వెజెనర్ ప్రకారం, అన్ని ఖండాలు కలిసి పాంజియా (సర్వ భూమి) అనే ఏకైక భూభాగంగా ఏర్పడ్డాయి మరియు దాని చుట్టూ ఉన్న మహా సముద్రాన్ని పాంథలాసా (సర్వ జలం) అని పిలిచారు.",
+    "en": "According to Wegener, all continents formed a single landmass called Pangaea (meaning all earth), and the surrounding mega-ocean was called Panthalassa (meaning all water)."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T12-0082",
+   "section": {
+    "te": "Antarctica polar desert",
+    "en": "Antarctica polar desert"
+   },
+   "q": {
+    "te": "14 మిలియన్ చదరపు కిలోమీటర్లకు పైగా విస్తీర్ణంలో విస్తరించి, భూమిపైనే అతిపెద్ద మరియు అత్యంత శీతల ఎడారిగా ఉన్నది ఏది?",
+    "en": "Which of the following is the largest and coldest desert on Earth, covering an area of over 14 million square kilometres?"
+   },
+   "options": {
+    "te": [
+     "అంటార్కిటికా",
+     "ఆర్కిటిక్",
+     "గోబీ ఎడారి",
+     "థార్ ఎడారి"
+    ],
+    "en": [
+     "Antarctica",
+     "Arctic",
+     "Gobi Desert",
+     "Thar Desert"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అంటార్కిటికా 14 మిలియన్ చదరపు కిలోమీటర్లకు పైగా విస్తీర్ణంలో (భారతదేశ విస్తీర్ణానికి నాలుగు రెట్లకు పైగా) విస్తరించి భూమిపై అత్యంత పెద్ద మరియు శీతల ఎడారిగా ఉంది.",
+    "en": "Antarctica covers over 14 million square kilometres (more than four times the area of India) and is both the largest and coldest desert on Earth."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T12-0100",
+   "section": {
+    "te": "Mesosaurus Fossils",
+    "en": "Mesosaurus Fossils"
+   },
+   "q": {
+    "te": "దక్షిణాఫ్రికా మరియు బ్రెజిల్‌లో శిలాజాలు లభించిన మెసోసారస్ (Mesosaurus) గురించి కింది వాటిలో ఏది సరైనది?",
+    "en": "Which of the following best describes the Mesosaurus, whose fossils are found in South Africa and Brazil?"
+   },
+   "options": {
+    "te": [
+     "ఎత్తైన సరస్సులలో కనిపించే మంచి నీటి చేప",
+     "ఉష్ణమండల అడవులలో కనిపించే భూమిపై నివసించే క్షీరదం",
+     "లోతైన మహాసముద్రాలకు అలవాటు పడిన పెద్ద డైనోసార్",
+     "నిస్సారమైన ఉప్పునీటికి (brackish water) అలవాటు పడిన చిన్న సరీసృపం"
+    ],
+    "en": [
+     "A freshwater fish found in high-altitude lakes",
+     "A land-dwelling mammal found in tropical forests",
+     "A large dinosaur adapted to deep oceans",
+     "A small reptile adapted to shallow brackish water"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యాంశం మెసోసారస్‌ను నిస్సారమైన ఉప్పునీటికి ప్రత్యేకంగా అలవాటు పడిన చిన్న సరీసృపంగా నిర్వచించింది.",
+    "en": "The text defines Mesosaurus as a small reptile adapted specifically to shallow brackish water."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T12-0047",
+   "section": {
+    "te": "Fennec fox adaptation",
+    "en": "Fennec fox adaptation"
+   },
+   "q": {
+    "te": "సహారా ఫెన్నెక్ నక్క (fennec fox) యొక్క పెద్ద చెవులు క్రింది ఏ విధులకు ఉపయోగపడతాయి?",
+    "en": "What primary functions do the large ears of the Saharan fennec fox serve?"
+   },
+   "options": {
+    "te": [
+     "వేడిని వెదజల్లడానికి (శరీరాన్ని చల్లబరచడానికి)",
+     "భూగర్భంలోని ఎర శబ్దాలను వినడానికి",
+     "A మరియు B రెండూ",
+     "నీటిని నిల్వ ఉంచడానికి"
+    ],
+    "en": [
+     "Dissipating heat",
+     "Listening to sounds of underground prey",
+     "Both A and B",
+     "Storing water for hydration"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సహారా ఫెన్నెక్ నక్క యొక్క పెద్ద చెవులు వేడిని వెదజల్లడానికి మరియు భూగర్భంలో ఉండే ఎర శబ్దాలను వినడానికి రెండింటికీ సహాయపడతాయి.",
+    "en": "The large ears of the Saharan fennec fox help both to dissipate heat and to listen to the sounds of underground prey."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T12-0078",
+   "section": {
+    "te": "Spinifex indigenous population",
+    "en": "Spinifex indigenous population"
+   },
+   "q": {
+    "te": "25,000 సంవత్సరాలకు పైగా ఎడారిలో నివసిస్తున్న స్థానిక ప్రజలైన 'స్పినిఫెక్స్' (Spinifex) ఏ ఖండానికి చెందినవారు?",
+    "en": "The Spinifex, an indigenous population who have lived in the desert for over 25,000 years, belong to which continent?"
+   },
+   "options": {
+    "te": [
+     "ఆస్ట్రేలియా",
+     "ఉత్తర అమెరికా",
+     "ఆఫ్రికా",
+     "దక్షిణ అమెరికా"
+    ],
+    "en": [
+     "Australia",
+     "North America",
+     "Africa",
+     "South America"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "స్పినిఫెక్స్ ప్రజలు ఆస్ట్రేలియాలోని ఎడారిలో 25,000 సంవత్సరాలకు పైగా నివసిస్తున్న స్థానిక జనాభా.",
+    "en": "The Spinifex are an indigenous population of Australia who have lived in the desert for more than 25,000 years."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T12-0053",
+   "section": {
+    "te": "Andes flora and fauna",
+    "en": "Andes flora and fauna"
+   },
+   "q": {
+    "te": "ఆండీస్ పర్వతాలలో అసలైన వృక్ష మరియు జంతుజాలంలో (flora and fauna) దాదాపు ఎంత భాగం మాత్రమే మిగిలి ఉండటంతో అది కీలకమైన పరిరక్షణ హాట్‌స్పాట్‌గా మారింది?",
+    "en": "Approximately what fraction of the original flora and fauna remains in the Andes, making it a critical conservation hotspot?"
+   },
+   "options": {
+    "te": [
+     "మూడవ వంతు (1/3)",
+     "మూడింట రెండు వంతులు (2/3)",
+     "నాల్గవ వంతు (1/4)",
+     "సగం (1/2)"
+    ],
+    "en": [
+     "One-third",
+     "Two-thirds",
+     "One-fourth",
+     "One-half"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఆండీస్ పర్వతాలలో అసలైన వృక్ష మరియు జంతుజాలంలో సుమారు నాల్గవ వంతు (one-fourth) మాత్రమే మిగిలి ఉంది.",
+    "en": "Due to human activities, only about one-fourth of the original flora and fauna remains in the Andes."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T12-0108",
+   "section": {
+    "te": "Convectional Current Theory Purpose",
+    "en": "Convectional Current Theory Purpose"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): ఆర్థర్ హోమ్స్ 1930లలో మాంటిల్‌లో సంవహన ప్రవాహాల సంభావ్యతను చర్చించారు.\nకారణం (R): ఇది ఖండాల కదలిక వెనుక ఉన్న శక్తికి వివరణ ఇచ్చే ప్రయత్నం, దీనిని అప్పటి శాస్త్రవేత్తలు ప్రశ్నించారు.",
+    "en": "Assertion (A): Arthur Holmes discussed the possibility of convection currents in the mantle in the 1930s.\nReason (R): It was an attempt to provide an explanation for the force behind continental movement, which contemporary scientists had questioned."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఖండాలను కదిలించే శక్తిని వివరించడానికి హోమ్స్ సంవహన ప్రవాహాలను ప్రతిపాదించారు, ఇది ఖండ చలన సిద్ధాంతంపై ఉన్న ప్రధాన విమర్శను పరిష్కరించింది.",
+    "en": "Holmes proposed convection currents to explain the force moving continents, addressing the main criticism of the continental drift theory."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T12-0097",
+   "section": {
+    "te": "Ghana Gold Deposits",
+    "en": "Ghana Gold Deposits"
+   },
+   "q": {
+    "te": "ఘనా తీరంలో లభించే సమృద్ధిగా ఉన్న బంగారు నిక్షేపాలు (placer deposits) కింది ఏ ప్రాంతం నుండి ఉద్భవించాయని నమ్ముతారు?",
+    "en": "The rich placer deposits of gold found on the Ghana coast are believed to have originated from which of the following regions?"
+   },
+   "options": {
+    "te": [
+     "ఇరావర్ ఫార్మేషన్స్",
+     "దక్షిణ కేప్ ప్రావిన్స్",
+     "మడగాస్కర్ పీఠభూమి",
+     "బ్రెజిల్ పీఠభూమి"
+    ],
+    "en": [
+     "The Iraver formations",
+     "The Southern Cape province",
+     "The Madagascar plateau",
+     "The Brazil plateau"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, బంగారు సిరలు బ్రెజిల్‌లో ఉన్నాయి మరియు ఖండాలు కలిసి ఉన్నప్పుడు ఘనా నిక్షేపాలు అక్కడి నుండే వచ్చాయి.",
+    "en": "According to the text, the gold-bearing veins are located in Brazil, and the Ghana deposits were derived from there when the continents were joined."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T12-0039",
+   "section": {
+    "te": "Alps river drainage",
+    "en": "Alps river drainage"
+   },
+   "q": {
+    "te": "ఆల్ప్స్ పర్వతాలు ఈ క్రింది ఏ యూరోపియన్ నదీ వ్యవస్థలకు నీటిని అందిస్తాయి?",
+    "en": "The Alps provide water to which of the following European river systems?"
+   },
+   "options": {
+    "te": [
+     "రైన్ నది",
+     "డాన్యూబ్ ఉపనదులు",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "The Rhine",
+     "Tributaries of the Danube",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఆల్ప్స్ పర్వతాలు రైన్ నది మరియు డాన్యూబ్ నది యొక్క ఉపనదులకు నీటిని అందిస్తాయి.",
+    "en": "The Alps supply water to major European rivers including the Rhine and the tributaries of the Danube."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T12-0059",
+   "section": {
+    "te": "Moon Valley formation",
+    "en": "Moon Valley formation"
+   },
+   "q": {
+    "te": "అటకామా ఎడారిలోని 'మూన్ వ్యాలీ' (Moon Valley) చంద్రుని ఉపరితలం వంటి భూస్వరూపం ఏర్పడటానికి క్రింది వాటిలో ఏది కారణం?",
+    "en": "The formation of the Moon Valley in the Atacama Desert is attributed to which of the following phenomena?"
+   },
+   "options": {
+    "te": [
+     "అగ్నిపర్వత లావా ప్రవాహాలు",
+     "హిమానీనద క్రమక్షయం",
+     "భూపటలంలో ఏర్పడిన కదలికలు (Movements in the Earth’s crust)",
+     "ఉల్కాపాతం సంభవించడం"
+    ],
+    "en": [
+     "Volcanic lava flows",
+     "Glacial erosion",
+     "Movements in the Earth's crust",
+     "Meteorite impact"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూమి యొక్క పైపెంకు లేదా భూపటలంలో సంభవించిన కదలికల వలన మూన్ వ్యాలీలోని చంద్రుని వంటి నిర్మాణాలు ఏర్పడ్డాయి.",
+    "en": "According to the text, the moon-like formation of Moon Valley occurred due to movements in the Earth's crust."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T12-0008",
+   "section": {
+    "te": "Continent Counts",
+    "en": "Continent Counts"
+   },
+   "q": {
+    "te": "'ఆరు ఖండాల' లెక్కింపుకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఉత్తర అమెరికా మరియు దక్షిణ అమెరికా విడివిడిగా జాబితా చేయబడ్డాయి.\n2. యూరప్ మరియు ఆసియా 'యూరేషియా' అనే ఒకే ఖండంగా జాబితా చేయబడ్డాయి.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the 'Six continents' count:\n1. North America and South America are listed separately.\n2. Europe and Asia are listed as a single continent called Eurasia.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఆరు ఖండాల నమూనాలో, ఉత్తర మరియు దక్షిణ అమెరికాలు విడివిడిగా ఉంటాయి, కానీ యూరప్ మరియు ఆసియాలు కలిసి యూరేషియాగా ఉంటాయి.",
+    "en": "In the six-continent model, North and South America are separate, but Europe and Asia are combined into Eurasia."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T12-0152",
+   "section": {
+    "te": "Aw climate geographic boundaries",
+    "en": "Aw climate geographic boundaries"
+   },
+   "q": {
+    "te": "ఉష్ణమండల తడి మరియు పొడి శీతోష్ణస్థితి (Aw) కి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది Af రకం శీతోష్ణస్థితి ప్రాంతాలకు ఉత్తరాన మరియు దక్షిణాన విస్తరించి ఉంటుంది.\n2. ఇది ఖండం యొక్క పశ్చిమ భాగంలో శుష్క శీతోష్ణస్థితితోనూ, తూర్పు భాగంలో Cf లేదా Cw తోనూ సరిహద్దును కలిగి ఉంటుంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the Tropical Wet and Dry Climate (Aw):\n1. It occurs north and south of Af type climate regions.\n2. It borders with dry climate on the western part of the continent and Cf or Cw on the eastern part.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 కాదు 2 కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "Aw శీతోష్ణస్థితి Af ప్రాంతాలకు ఉత్తర మరియు దక్షిణాలలో ఉంటుంది, అలాగే పశ్చిమాన శుష్క వాతావరణంతో మరియు తూర్పున Cf లేదా Cw తో సరిహద్దును పంచుకుంటుంది.",
+    "en": "Both statements are directly stated: Aw occurs north and south of Af regions, bordering dry climate to the west and Cf or Cw to the east."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T12-0012",
+   "section": {
+    "te": "Continent Grouping",
+    "en": "Continent Grouping"
+   },
+   "q": {
+    "te": "కొన్ని లెక్కింపు పద్ధతుల్లో ఈ క్రింది ఏ భూభాగాలను కొన్నిసార్లు ఒకే ఖండంగా పరిగణిస్తారు?\nA. ఉత్తర అమెరికా మరియు దక్షిణ అమెరికా\nB. యూరప్ మరియు ఆసియా\nC. ఆఫ్రికా మరియు యూరేషియా",
+    "en": "Which of the following landmasses are sometimes regarded as a single continent in certain counting methods?\nA. North America and South America\nB. Europe and Asia\nC. Africa and Eurasia"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఉత్తర మరియు దక్షిణ అమెరికాలను ఒకటిగా (అమెరికా), యూరప్ మరియు ఆసియాలను ఒకటిగా (యూరేషియా), మరియు ఆఫ్రికా మరియు యూరేషియాలను ఒకటిగా (ఆఫ్రికా-యూరేషియా) చూడవచ్చని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text states that North and South America can be seen as one (America), Europe and Asia as one (Eurasia), and Africa and Eurasia as one (Africa-Eurasia)."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T12-0086",
+   "section": {
+    "te": "Bullard continental fit depth",
+    "en": "Bullard continental fit depth"
+   },
+   "q": {
+    "te": "1964లో అట్లాంటిక్ తీర అంచుల జోడింపును (fit) చూపించడానికి బుల్లార్డ్ కంప్యూటర్ మ్యాప్‌ను రూపొందించారు. ఈ సరిపోలికను ఏ రేఖ వద్ద పరిశీలించారు?",
+    "en": "In 1964, Bullard presented a computer-generated map showing the fit of the Atlantic continental margins. At which contour line was this match tried?"
+   },
+   "options": {
+    "te": [
+     "500-ఫాథమ్ రేఖ",
+     "1,000-ఫాథమ్ రేఖ",
+     "2,000-ఫాథమ్ రేఖ",
+     "ప్రస్తుత తీరరేఖ"
+    ],
+    "en": [
+     "500-fathom line",
+     "1,000-fathom line",
+     "2,000-fathom line",
+     "Present shoreline"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "బుల్లార్డ్ 1964లో సమర్పించిన కంప్యూటర్ మ్యాప్‌లో ప్రస్తుత తీరరేఖకు బదులుగా 1,000-ఫాథమ్ రేఖ వద్ద తీరాల కలయికను సరిపోల్చారు.",
+    "en": "The computer-generated match presented by Bullard in 1964 was tried at the 1,000-fathom line instead of the present shoreline."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T12-0007",
+   "section": {
+    "te": "Indian Islands",
+    "en": "Indian Islands"
+   },
+   "q": {
+    "te": "క్రింది భారతీయ ద్వీప సమూహాలను వాటి స్థానాలతో జతపరచండి:\n1. అండమాన్ మరియు నికోబార్ దీవులు  a. అరేబియా సముద్రం\n2. లక్షద్వీప్ దీవులు                   b. బంగాళాఖాతం",
+    "en": "Match the following Indian island groups with their locations:\n1. Andaman and Nicobar Islands  a. Arabian Sea\n2. Lakshadweep Islands           b. Bay of Bengal"
+   },
+   "options": {
+    "te": [
+     "1-a, 2-b",
+     "1-b, 2-a",
+     "రెండూ బంగాళాఖాతంలో ఉన్నాయి",
+     "రెండూ అరేబియా సముద్రంలో ఉన్నాయి"
+    ],
+    "en": [
+     "1-a, 2-b",
+     "1-b, 2-a",
+     "Both are in the Bay of Bengal",
+     "Both are in the Arabian Sea"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అండమాన్ మరియు నికోబార్ దీవులు బంగాళాఖాతంలో ఉండగా, లక్షద్వీప్ దీవులు అరేబియా సముద్రంలో ఉన్నాయి.",
+    "en": "The Andaman and Nicobar Islands are located in the Bay of Bengal, while the Lakshadweep Islands are in the Arabian Sea."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T12-0123",
+   "section": {
+    "te": "Plate Movement Theory",
+    "en": "Plate Movement Theory"
+   },
+   "q": {
+    "te": "నిశ్చయం (A): ఆధునిక సిద్ధాంతం ప్రకారం, కేవలం ఖండం మాత్రమే కాదు, టెక్టోనిక్ పలక కదులుతుంది.\nకారణం (R): ఖండాలు ఒక పలకలో భాగంగా ఉంటాయి మరియు మొత్తం పలక ఆస్తెనోస్పియర్ (asthenosphere) పై కదులుతుంది.",
+    "en": "Assertion (A): According to modern theory, it is the tectonic plate that moves, not just the continent.\nReason (R): Continents are part of a plate, and the entire plate moves over the asthenosphere."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఆధునిక ప్లేట్ టెక్టోనిక్స్ ఖండాలు పలకలలో పొందుపరచబడి ఉన్నాయని మరియు పలకలే కదులుతాయని స్పష్టం చేస్తుంది.",
+    "en": "Modern plate tectonics clarifies that continents are embedded in plates, and it is the plates themselves that move."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T12-0111",
+   "section": {
+    "te": "Sea Floor Spreading Mechanism",
+    "en": "Sea Floor Spreading Mechanism"
+   },
+   "q": {
+    "te": "సముద్ర గర్భ విస్తరణ పరికల్పన ప్రకారం, సముద్రపు క్రస్ట్ ఇరువైపులా నెట్టబడటానికి కారణం ఏమిటి?",
+    "en": "According to the sea floor spreading hypothesis, what causes the oceanic crust to push on either side?"
+   },
+   "options": {
+    "te": [
+     "అబిసల్ మైదానాలలో అవక్షేపాల చేరిక",
+     "భూభాగాల గుండా లెమూర్ల కదలిక",
+     "చంద్రుని గురుత్వాకర్షణ శక్తి",
+     "పగిలిన క్రస్ట్‌లోకి కొత్త లావా చొచ్చుకురావడం"
+    ],
+    "en": [
+     "The accumulation of sediments on abyssal plains",
+     "The movement of lemurs across landmasses",
+     "The pull of the moon's gravity",
+     "New lava wedging into the ruptured crust"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పర్వత శ్రేణి శిఖరం వద్ద పేలుళ్లు క్రస్ట్ పగిలిపోవడానికి కారణమవుతాయని, మరియు దానిలోకి కొత్త లావా చొచ్చుకురావడం వల్ల క్రస్ట్ పక్కకు నెట్టబడుతుందని హెస్ వాదించారు.",
+    "en": "Hess argued that eruptions at the ridge crest cause the crust to rupture, and new lava wedging into it pushes the crust aside."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T12-0049",
+   "section": {
+    "te": "Ancient Saharan trade",
+    "en": "Ancient Saharan trade"
+   },
+   "q": {
+    "te": "క్రింది అంశాలను పరిశీలించండి:\n1. బంగారం\n2. ఉప్పు\n3. ఆలోచనలు / భావనలు (ideas)\nవీటిలో వేటిని సహారా మీదుగా ప్రాచీన వర్తక మార్గాల ద్వారా మధ్యధరా ప్రపంచానికి తీసుకెళ్లారు?",
+    "en": "Consider the following items:\n1. Gold\n2. Salt\n3. Ideas\nWhich of the above were carried along the ancient trade routes across the Sahara to the Mediterranean world?"
+   },
+   "options": {
+    "te": [
+     "1, 2 మరియు 3",
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మాత్రమే"
+    ],
+    "en": [
+     "1, 2 and 3",
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 only"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రాచీన వర్తక మార్గాలు సహారా గుండా బంగారం, ఉప్పు మరియు నూతన ఆలోచనలను మధ్యధరా ప్రపంచానికి చేరవేశాయని స్పష్టంగా పేర్కొనబడింది.",
+    "en": "The source explicitly states that ancient trade routes passed through the Sahara carrying gold, salt, and ideas to the Mediterranean world."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T12-0022",
+   "section": {
+    "te": "Land of Eternal Blue Sky",
+    "en": "Land of Eternal Blue Sky"
+   },
+   "q": {
+    "te": "సుమారు 8 నుండి 9 నెలల పాటు ఎండతో కూడిన వాతావరణం ఉండటం వల్ల ఏ దేశాన్ని 'శాశ్వత నీలి ఆకాశపు భూమి' (Land of the Eternal Blue Sky) అని పిలుస్తారు?",
+    "en": "Which country is known as the 'Land of the Eternal Blue Sky' due to having about 8 to 9 months of sunny weather?"
+   },
+   "options": {
+    "te": [
+     "మంగోలియా",
+     "రష్యా",
+     "టిబెట్",
+     "కజకిస్తాన్"
+    ],
+    "en": [
+     "Mongolia",
+     "Russia",
+     "Tibet",
+     "Kazakhstan"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "8 నుండి 9 నెలల పాటు ఎండతో కూడిన స్వచ్ఛమైన వాతావరణం ఉండటం వల్ల మంగోలియాను 'శాశ్వత నీలి ఆకాశపు భూమి' అని పిలుస్తారు.",
+    "en": "Mongolia is called the 'Land of the Eternal Blue Sky' because it experiences about 8 to 9 months of sunny weather."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T12-0050",
+   "section": {
+    "te": "Highest peak Western Hemisphere",
+    "en": "Highest peak Western Hemisphere"
+   },
+   "q": {
+    "te": "పశ్చిమ అర్ధగోళంలోనే అత్యంత ఎత్తైన పర్వత శిఖరం ఏది?",
+    "en": "Which of the following is the highest mountain peak in the Western Hemisphere?"
+   },
+   "options": {
+    "te": [
+     "మాంట్ బ్లాంక్",
+     "ఎవరెస్ట్ పర్వతం",
+     "కిలిమంజారో పర్వతం",
+     "అకోన్‌కాగ్వా పర్వతం (Mount Aconcagua)"
+    ],
+    "en": [
+     "Mont Blanc",
+     "Mount Everest",
+     "Mount Kilimanjaro",
+     "Mount Aconcagua"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఆండీస్ పర్వతాలలో ఉన్న అకోన్‌కాగ్వా పర్వతం పశ్చిమ అర్ధగోళంలో అత్యంత ఎత్తైన శిఖరం.",
+    "en": "Mount Aconcagua, situated in the Andes Mountains, is the highest peak in the Western Hemisphere."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T12-0155",
+   "section": {
+    "te": "Mediterranean Climate",
+    "en": "Mediterranean Climate"
+   },
+   "q": {
+    "te": "మెడిటరేనియన్ శీతోష్ణస్థితి (Cs) కి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఈ ప్రాంతాలు వేసవిలో ఉపఉష్ణమండల అధిక పీడనం (subtropical high) ప్రభావంలో ఉంటాయి.\n2. ఈ ప్రాంతాలు శీతాకాలంలో పశ్చిమ పవనాల (westerly winds) ప్రభావంలో ఉంటాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the Mediterranean climate (Cs):\n1. These areas are influenced by the subtropical high in summer.\n2. These areas are influenced by westerly winds in winter.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మెడిటరేనియన్ శీతోష్ణస్థితి వేసవిలో ఉపఉష్ణమండల అధిక పీడనం (పొడి పరిస్థితులకు కారణం) మరియు శీతాకాలంలో పశ్చిమ పవనాల (వర్షపాతానికి కారణం) ప్రభావంతో ఉంటుంది.",
+    "en": "The Mediterranean climate is characterized by the influence of the subtropical high in summer (causing dry conditions) and westerly winds in winter (causing rainfall)."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T12-0095",
+   "section": {
+    "te": "Polar-fleeing force cause",
+    "en": "Polar-fleeing force cause"
+   },
+   "q": {
+    "te": "ఆల్ఫ్రెడ్ వెజెనర్ ప్రకారం, 'ధ్రువ వికర్షణ బలం' (polar-fleeing force) క్రింది వాటిలో దేనికి సంబంధించినది?",
+    "en": "According to Alfred Wegener, the 'polar-fleeing force' is related to which of the following?"
+   },
+   "options": {
+    "te": [
+     "భూ అయస్కాంత క్షేత్ర మార్పులు",
+     "టెక్టోనిక్ ప్లేట్ల సబ్‌డక్షన్",
+     "భూభ్రమణం (Rotation of the earth)",
+     "చంద్రుని గురుత్వాకర్షణ శక్తి"
+    ],
+    "en": [
+     "Earth's magnetic field reversals",
+     "Tectonic plate subduction",
+     "Rotation of the earth",
+     "Gravitational pull of the moon"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ధ్రువ వికర్షణ బలం అనేది భూమి తన అక్షంపై తాను తిరగడం (భూభ్రమణం) వలన ఏర్పడుతుంది.",
+    "en": "The polar-fleeing force relates to the rotation of the earth, which causes an equatorial bulge."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T12-0081",
+   "section": {
+    "te": "Grand Canyon annual visitors",
+    "en": "Grand Canyon annual visitors"
+   },
+   "q": {
+    "te": "గడిచిన కొన్ని సంవత్సరాలుగా గ్రాండ్ కేనియన్ ఏటా సుమారు ఎంతమంది పర్యాటకులను ఆకర్షిస్తోంది?",
+    "en": "Approximately how many visitors annually has the Grand Canyon attracted over the past several years?"
+   },
+   "options": {
+    "te": [
+     "సుమారు 25 లక్షల మంది (2.5 million)",
+     "సుమారు 50 లక్షల మంది (5 million)",
+     "సుమారు 1 కోటి మంది (10 million)",
+     "సుమారు 10 లక్షల మంది (1 million)"
+    ],
+    "en": [
+     "About 2.5 million",
+     "About 5 million",
+     "About 10 million",
+     "About 1 million"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "గ్రాండ్ కేనియన్‌ను గత కొన్నేళ్లుగా ఏటా దాదాపు 50 లక్షల (5 మిలియన్ల) మంది సందర్శిస్తున్నారు.",
+    "en": "The Grand Canyon has received about 5 million visitors annually over the past several years."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T12-0021",
+   "section": {
+    "te": "Desert geography facts",
+    "en": "Desert geography facts"
+   },
+   "q": {
+    "te": "ఎడారులకు సంబంధించి క్రింది ప్రకటనలను పరిగణించండి:\n1. ఎడారులు భూమి యొక్క భూభాగంలో దాదాపు ఐదవ వంతును ఆక్రమించాయి.\n2. యూరప్ మినహా ప్రతి ఖండంలోనూ ఎడారులు ఉన్నాయి.\n3. ప్రపంచ జనాభాలో దాదాపు ఎనిమిదవ వంతు ప్రజలు ఎడారులలో నివసిస్తున్నారు.\nపై ప్రకటనలలో సరైనవి ఏవి?",
+    "en": "Consider the following statements regarding deserts:\n1. Deserts cover approximately one-fifth of the Earth's land area.\n2. Deserts are found on every continent except Europe.\n3. Around one-eighth of the world's population lives in deserts.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "1 and 3 only",
+     "2 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రతి ఖండంలోనూ ఎడారులు ఉన్నాయని పాఠ్యాంశం పేర్కొంది, కాబట్టి ప్రకటన 2 తప్పు. 1 మరియు 3 ప్రకటనలు సరైనవి.",
+    "en": "Statement 2 is incorrect because the text explicitly states that deserts are found on every continent. Statements 1 and 3 are correct."
+   }
+  }
+ ]
+}
