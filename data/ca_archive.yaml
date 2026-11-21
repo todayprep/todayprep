@@ -22,7 +22,7 @@ months:
       - {d: 15, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
       - {d: 16, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
       - {d: 17, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
-      - {d: 18, pdf_te: "మీ పాత PDF లింక్", pdf_en: "మీ పాత PDF లింక్", quiz: "https://todayprep.in/player.html?d=2026-11-18"}
+      - {d: 18, pdf_te: "https://drive.google.com/file/d/1TxC9dKPRwCjlSbC-Lxfh_0CwX68KgbBq/view?usp=drive_link", pdf_en: "https://drive.google.com/file/d/1LR3JpfM2ZdMifHeqM031Z5c1QW7Jv1uN/view?usp=drive_link", quiz: "https://todayprep.in/player.html?d=2026-11-18"}
       - {d: 19, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
       - {d: 20, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
       - {d: 21, pdf_te: "", pdf_en: "", quiz_te: "", quiz_en: ""}
