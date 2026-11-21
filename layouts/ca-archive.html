@@ -126,7 +126,7 @@ body:has(.ca-arch) .main{max-width:1180px}
             {{ range sort .days "d" "desc" }}
                             {{ if .quiz }}
               {{ $anyq = true }}
-              <a class="ca-qrow" href="{{ .quiz }}" target="_blank" rel="noopener"><span>{{ printf "%02d" .d }} {{ $mon }} {{ $m.year }} Quiz</span><span class="ca-play">క్విజ్ ఆడండి ›</span></a>
+              <a class="ca-qrow" href="{{ .quiz }}" target="_blank" rel="noopener"><span>{{ printf "%02d" .d }} {{ $mon }} {{ $m.year }} Quiz</span><span class="ca-play">క్విజ్ మొదలుపెట్టండి ›</span></a>
               {{ end }}
             {{ end }}
             {{ if not $anyq }}<div class="ca-empty">క్విజ్‌లు అప్‌లోడ్ అయ్యాక ఇక్కడ కనిపిస్తాయి.</div>{{ end }}
