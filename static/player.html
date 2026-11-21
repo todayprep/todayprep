@@ -34,8 +34,9 @@ ul.rules{padding-left:20px;margin:8px 0}
 .timer.low{background:var(--bad)}
 .sec-tag{display:inline-block;font-size:13px;background:#e8efff;color:var(--pri2);padding:1px 10px;border-radius:20px;margin-bottom:6px}
 .qno{font-weight:700;color:var(--mut);font-size:14px}
-.qtext{font-size:18px;font-weight:600;margin:4px 0 12px}
+.qtext{font-size:18px;font-weight:600;margin:4px 0 12px;white-space:pre-line}
 .opt{display:flex;gap:10px;align-items:flex-start;width:100%;text-align:left;background:#fff;border:2px solid var(--line);border-radius:10px;padding:10px 12px;margin-bottom:8px;color:var(--ink)}
+.opt span{white-space:pre-line}
 .opt .k{flex:0 0 28px;height:28px;border-radius:50%;background:#eef1f8;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:14px}
 .opt.sel{border-color:var(--pri);background:#eef3ff}
 .opt.sel .k{background:var(--pri);color:#fff}
@@ -59,7 +60,7 @@ ul.rules{padding-left:20px;margin:8px 0}
 .rv.right{border-left-color:var(--ok)}
 .rv.wrong{border-left-color:var(--bad)}
 .rv.skip{border-left-color:var(--warn)}
-.ro{padding:6px 10px;border-radius:8px;margin:4px 0;border:1px solid var(--line);font-size:15px}
+.ro{white-space:pre-line;padding:6px 10px;border-radius:8px;margin:4px 0;border:1px solid var(--line);font-size:15px}
 .ro.c{background:#e7f6ec;border-color:var(--ok)}
 .ro.w{background:#fde8e8;border-color:var(--bad)}
 .ex{margin-top:8px;font-size:15px;background:#f4f7ff;padding:8px 12px;border-radius:8px}
@@ -158,7 +159,7 @@ function paintStart(){
   document.documentElement.lang=L;
   $("s-go").textContent=t("start");
   $("s-title").textContent=data?pk(data.title):t("title");
-  $("s-date").textContent=D;
+  $("s-date").textContent=/^\d{4}-\d{2}-\d{2}$/.test(D)?D:"";
   if(!data){$("s-info").textContent=t("err");$("s-rules").innerHTML="";$("s-go").disabled=true;return}
   $("s-info").innerHTML="<b>"+data.questions.length+"</b> "+t("qs")+" &nbsp;•&nbsp; <b>"+data.duration_minutes+"</b> "+t("min");
   $("s-rules").innerHTML=t("rules").map(function(r){return"<li>"+esc(r)+"</li>"}).join("");
@@ -171,7 +172,7 @@ window.toggleLang=function(){
 };
 function load(){
   $("s-go").disabled=true;$("s-info").textContent="…";paintStart();
-  if(!/^\d{4}-\d{2}-\d{2}$/.test(D)){data=null;paintStart();return}
+  if(!/^[A-Za-z0-9_-]{1,60}$/.test(D)){data=null;paintStart();return}
   fetch("quiz/"+D+".json").then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(j){
     data=j;ans=new Array(j.questions.length).fill(-1);paintStart();
   }).catch(function(){data=null;paintStart()});
@@ -236,7 +237,7 @@ function showResult(auto){
   qs.forEach(function(q,i){if(ans[i]<0)s++;else if(ans[i]===q.answer)r++;else w++});
   var used=data.duration_minutes*60-Math.max(left,0);
   var lb='<button class="btn sec" style="margin-left:8px" onclick="toggleLang()">'+(L==="te"?"English":"తెలుగు")+'</button>';
-  var h='<div class="card"><h1>'+esc(pk(data.title))+'</h1><div class="mut">'+esc(D)+(auto?" • "+esc(t("timeup")):"")+'</div>'
+  var h='<div class="card"><h1>'+esc(pk(data.title))+'</h1><div class="mut">'+esc(/^\d{4}-\d{2}-\d{2}$/.test(D)?D:"")+(auto?" • "+esc(t("timeup")):"")+'</div>'
    +'<div class="mut" style="margin-top:8px">'+esc(t("score"))+'</div><div class="score">'+r+' / '+qs.length+'</div>'
    +'<div class="stats"><div class="stat"><b style="color:var(--ok)">'+r+'</b>'+esc(t("right"))+'</div>'
    +'<div class="stat"><b style="color:var(--bad)">'+w+'</b>'+esc(t("wrong"))+'</div>'
