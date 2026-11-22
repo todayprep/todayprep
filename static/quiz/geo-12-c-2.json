@@ -1,0 +1,942 @@
+{
+ "id": "geo-12-c-2",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Continents and World Physical Geography – క్విజ్ 2",
+  "en": "Continents and World Physical Geography – Quiz 2"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T12-0054",
+   "section": {
+    "te": "Andean condor features",
+    "en": "Andean condor features"
+   },
+   "q": {
+    "te": "ఆండియన్ కాండోర్ (Andean condor) పక్షికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది పలు దక్షిణ అమెరికా దేశాల జాతీయ చిహ్నం.\n2. ఇది సగటున 3.2 మీటర్ల రెక్కల విస్తీర్ణాన్ని (wingspan) కలిగి ఉంటుంది.\n3. పురాణాలలో ఇది చంద్ర దేవుడికి ప్రాతినిధ్యం వహిస్తుంది.\nపై ప్రకటనలలో సరైనవి ఏవి?",
+    "en": "With reference to the Andean condor, consider the following statements:\n1. It is a national symbol of several South American countries.\n2. It has an average wingspan of 3.2 metres.\n3. In regional mythology, it represents the moon deity.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 2 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 only",
+     "2 and 3 only",
+     "1 and 2 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "1 మరియు 2 సరైనవి. ప్రకటన 3 తప్పు, ఎందుకంటే ఆండియన్ కాండోర్ పురాణాలలో సూర్య భగవానుడిని (sun deity) సూచిస్తుంది.",
+    "en": "Statements 1 and 2 are correct. Statement 3 is incorrect because the Andean condor represents the sun deity, not the moon deity."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T12-0130",
+   "section": {
+    "te": "Indian Plate Margins",
+    "en": "Indian Plate Margins"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఏది భారతీయ ఫలకం యొక్క తూర్పు అంచులో (eastern margin) భాగం కాదు?",
+    "en": "Which of the following is NOT part of the eastern margin of the Indian plate?"
+   },
+   "options": {
+    "te": [
+     "నైరుతి పసిఫిక్‌లోని స్ప్రెడింగ్ సైట్",
+     "జావా ట్రెంచ్ (Java Trench)",
+     "పాకిస్థాన్‌లోని కిర్తార్ పర్వతం",
+     "మయన్మార్‌లోని రాకిన్యోమా పర్వతాలు"
+    ],
+    "en": [
+     "Spreading site in SW Pacific",
+     "Java Trench",
+     "Kirthar Mountain of Pakistan",
+     "Rakinyoma Mountains of Myanmar"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, పాకిస్థాన్‌లోని కిర్తార్ పర్వతం పశ్చిమ అంచులో భాగం, తూర్పు అంచులో కాదు.",
+    "en": "Kirthar Mountain of Pakistan is part of the western margin, not the eastern margin."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T12-0023",
+   "section": {
+    "te": "Steppe tortoise space travel",
+    "en": "Steppe tortoise space travel"
+   },
+   "q": {
+    "te": "1968లో చంద్రుడి వద్దకు ప్రయాణించిన భూమి యొక్క మొట్టమొదటి జీవులలో స్టెప్పీలకు చెందిన ఏ జంతువులు ఉన్నాయి?",
+    "en": "Which animal from the steppes was among the first inhabitants of the Earth to travel to the moon in 1968?"
+   },
+   "options": {
+    "te": [
+     "సైబీరియన్ కొంగ",
+     "సేబుల్",
+     "స్టెప్పీ తాబేలు",
+     "స్టెప్పీ మార్మోట్"
+    ],
+    "en": [
+     "Siberian crane",
+     "Sable",
+     "Steppe tortoise",
+     "Steppe marmot"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "1968లో చంద్రుని వద్దకు పంపబడిన మొదటి భూజీవులలో రెండు స్టెప్పీ తాబేళ్లు (steppe tortoises) ఉన్నాయి.",
+    "en": "Two steppe tortoises were among the first living creatures from Earth to travel to the moon in 1968."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T12-0160",
+   "section": {
+    "te": "Cold Climate with Dry Winters (Dw)",
+    "en": "Cold Climate with Dry Winters (Dw)"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): పొడి శీతాకాలంతో కూడిన చల్లని శీతోష్ణస్థితి (Dw) రుతుపవనాల వంటి గాలి మళ్లింపును (reversal of wind) అనుభవిస్తుంది.\nకారణం (R): శీతాకాలంలో బలమైన ప్రతిచక్రవాతం (anticyclone) అభివృద్ధి చెందడం మరియు వేసవిలో అది బలహీనపడటం వల్ల ఈ మళ్లింపు సంభవిస్తుంది.",
+    "en": "Assertion (A): The Cold Climate with Dry Winters (Dw) experiences a monsoon-like reversal of wind.\nReason (R): This reversal is caused by the development of a pronounced winter anticyclone and its weakening in summer."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "Dw శీతోష్ణస్థితి ప్రాంతంలో శీతాకాలపు ప్రతిచక్రవాతం అభివృద్ధి చెందడం మరియు బలహీనపడటం వల్ల రుతుపవనాల వంటి గాలి మళ్లింపుకు దారితీస్తుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The development and weakening of a winter anticyclone leads to a monsoon-like wind reversal in the Dw climate region."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T12-0172",
+   "section": {
+    "te": "Ice Cap Climate",
+    "en": "Ice Cap Climate"
+   },
+   "q": {
+    "te": "ఐస్ క్యాప్ (Ice Cap) శీతోష్ణస్థితి (EF) లో, వేసవి నెలలలో ఉష్ణోగ్రత పరిస్థితి ఎలా ఉంటుంది?",
+    "en": "In the Ice Cap climate (EF), what is the temperature condition during the summer months?"
+   },
+   "options": {
+    "te": [
+     "ఇది 0°C మరియు 10°C మధ్య ఉంటుంది",
+     "ఇది ఎల్లప్పుడూ ఘనీభవన స్థానం కంటే ఎక్కువగా ఉంటుంది",
+     "ఇది ఘనీభవన స్థానం కంటే తక్కువగానే ఉంటుంది",
+     "సముద్ర ప్రభావం వల్ల ఇది మధ్యస్థంగా ఉంటుంది"
+    ],
+    "en": [
+     "It ranges between 0°C and 10°C",
+     "It is always above freezing point",
+     "It remains below freezing point",
+     "It is moderate due to marine influence"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఐస్ క్యాప్ శీతోష్ణస్థితి (EF) లో, వేసవిలో కూడా ఉష్ణోగ్రతలు ఘనీభవన స్థానం (freezing point) కంటే తక్కువగానే ఉంటాయి.",
+    "en": "In the Ice Cap climate (EF), temperatures remain below the freezing point even during the summer."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T12-0142",
+   "section": {
+    "te": "Koeppen Group E criteria",
+    "en": "Koeppen Group E criteria"
+   },
+   "q": {
+    "te": "కొప్పెన్ శీతోష్ణస్థితి వర్గీకరణ ప్రకారం, 'గ్రూప్ E - శీతల శీతోష్ణస్థితులు' (Cold Climates) ను నిర్వచించే ప్రమాణం ఏది?",
+    "en": "According to Koeppen's climatic classification, which of the following is the defining criterion for 'Group E - Cold Climates'?"
+   },
+   "options": {
+    "te": [
+     "అత్యంత శీతల నెల సగటు ఉష్ణోగ్రత మైనస్ 3°C కంటే ఎక్కువగా మరియు 18°C కంటే తక్కువగా ఉండటం",
+     "అత్యంత శీతల నెల సగటు ఉష్ణోగ్రత మైనస్ 3°C లేదా అంతకంటే తక్కువగా ఉండటం",
+     "అన్ని నెలల సగటు ఉష్ణోగ్రత 10°C కంటే తక్కువగా ఉండటం",
+     "అవపాతం కంటే సంభావ్య భాష్పీభవనం ఎక్కువగా ఉండటం"
+    ],
+    "en": [
+     "The average temperature of the coldest month is higher than minus 3°C but below 18°C",
+     "The average temperature of the coldest month is minus 3°C or below",
+     "Average temperature for all months is below 10° C",
+     "Potential evaporation exceeds precipitation"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కొప్పెన్ వర్గీకరణ ప్రకారం, గ్రూప్ E (శీతల శీతోష్ణస్థితులు) లో అన్ని నెలల సగటు ఉష్ణోగ్రత 10°C కంటే తక్కువగా ఉంటుంది.",
+    "en": "Under Koeppen's system, Group E (Cold Climates) is defined by the average temperature for all months being below 10°C."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T12-0045",
+   "section": {
+    "te": "Length of Nile",
+    "en": "Length of Nile"
+   },
+   "q": {
+    "te": "ప్రపంచంలోనే అత్యంత పొడవైన నైలు నది సుమారు ఎంత పొడవును కలిగి ఉంది?",
+    "en": "What is the approximate length of the River Nile, the longest river in the world?"
+   },
+   "options": {
+    "te": [
+     "5,550 కి.మీ.",
+     "6,650 కి.మీ.",
+     "8,100 కి.మీ.",
+     "7,200 కి.మీ."
+    ],
+    "en": [
+     "5,550 km",
+     "6,650 km",
+     "8,100 km",
+     "7,200 km"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, ప్రపంచంలోనే అత్యంత పొడవైన నైలు నది దాదాపు 6,650 కి.మీ. పొడవును కలిగి ఉంది.",
+    "en": "The Nile is the longest river in the world, stretching almost 6,650 km in length."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T12-0138",
+   "section": {
+    "te": "Climate Classification Types",
+    "en": "Climate Classification Types"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): జన్యుపరమైన (Genetic) వర్గీకరణ వాతావరణాలను వాటి కారణాల ఆధారంగా నిర్వహిస్తుంది.\nకారణం (R): అనుభవాత్మక (Empirical) వర్గీకరణ ఉష్ణోగ్రత మరియు వర్షపాతం వంటి గమనించిన డేటాపై ఆధారపడి ఉంటుంది.",
+    "en": "Assertion (A): Genetic classification organizes climates based on their causes.\nReason (R): Empirical classification is based on observed data like temperature and precipitation."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "రెండు ప్రకటనలు పాఠ్యభాగం నుండి వచ్చిన సరైన నిర్వచనాలే, కానీ అనుభవాత్మక వర్గీకరణ యొక్క నిర్వచనం జన్యుపరమైన వర్గీకరణ ఎందుకు కారణాలపై ఆధారపడి ఉంటుందో వివరించదు.",
+    "en": "Both statements are true definitions from the text, but the definition of empirical classification does not explain why genetic classification is based on causes."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T12-0058",
+   "section": {
+    "te": "Atacama Desert location and length",
+    "en": "Atacama Desert location and length"
+   },
+   "q": {
+    "te": "దాదాపు 1,000 కి.మీ. మేర విస్తరించి, భూమిపై అత్యంత పొడి ప్రదేశాలలో ఒకటిగా ఉన్న అటకామా ఎడారి ప్రధానంగా ఏ దేశంలో ఉంది?",
+    "en": "The Atacama Desert, one of the driest places on Earth stretching about 1,000 km, is located primarily in which country?"
+   },
+   "options": {
+    "te": [
+     "చిలీ",
+     "బ్రెజిల్",
+     "ఈక్వెడార్",
+     "కొలంబియా"
+    ],
+    "en": [
+     "Chile",
+     "Brazil",
+     "Ecuador",
+     "Colombia"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూమిపైనే అత్యంత పొడి ప్రదేశాలలో ఒకటైన అటకామా ఎడారి చిలీ దేశంలో విస్తరించి ఉంది.",
+    "en": "The Atacama Desert is situated in Chile and stretches for about 1,000 km."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T12-0099",
+   "section": {
+    "te": "Lemuria Landmass",
+    "en": "Lemuria Landmass"
+   },
+   "q": {
+    "te": "ఊహాజనిత నిరంతర భూభాగం 'లెమూరియా' (Lemuria) కింది ఏ ప్రాంతాలను కలిపి ఉంచేదని ప్రతిపాదించబడింది?",
+    "en": "The hypothetical contiguous landmass 'Lemuria' was proposed to have linked which of the following regions?"
+   },
+   "options": {
+    "te": [
+     "భారతదేశం మరియు మడగాస్కర్ మాత్రమే",
+     "ఆఫ్రికా మరియు మడగాస్కర్ మాత్రమే",
+     "భారతదేశం, మడగాస్కర్ మరియు ఆఫ్రికా",
+     "భారతదేశం, బ్రెజిల్ మరియు ఆఫ్రికా"
+    ],
+    "en": [
+     "India and Madagascar only",
+     "Africa and Madagascar only",
+     "India, Madagascar and Africa",
+     "India, Brazil and Africa"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతదేశం, మడగాస్కర్ మరియు ఆఫ్రికాలో లెమూర్ల ఉనికి 'లెమూరియా' అనే అనుసంధానిత భూభాగాన్ని పరిగణనలోకి తీసుకోవడానికి దారితీసింది.",
+    "en": "The presence of Lemurs in India, Madagascar, and Africa led to the consideration of a linked landmass called 'Lemuria'."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T12-0153",
+   "section": {
+    "te": "Group D climate definition",
+    "en": "Group D climate definition"
+   },
+   "q": {
+    "te": "కొప్పెన్ వర్గీకరణలో 'గ్రూప్ D - చలితో కూడిన మంచు అటవీ శీతోష్ణస్థితులు' (Cold Snow Forest Climates) ను క్రింది వాటిలో ఏది నిర్వచిస్తుంది?",
+    "en": "Which of the following defines Koeppen's 'Group D - Cold Snow Forest Climates'?"
+   },
+   "options": {
+    "te": [
+     "అత్యంత శీతల నెల సగటు ఉష్ణోగ్రత మైనస్ 3° C లేదా అంతకంటే తక్కువగా ఉండటం",
+     "అన్ని నెలల సగటు ఉష్ణోగ్రత 10° C కంటే తక్కువగా ఉండటం",
+     "అవపాతం కంటే సంభావ్య భాష్పీభవనం ఎక్కువగా ఉండటం",
+     "అత్యంత శీతల నెల సగటు ఉష్ణోగ్రత 18° C కంటే ఎక్కువగా ఉండటం"
+    ],
+    "en": [
+     "The average temperature of the coldest month is minus 3° C or below",
+     "Average temperature for all months is below 10° C",
+     "Potential evaporation exceeds precipitation",
+     "The average temperature of the coldest month is above 18° C"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "గ్రూప్ D శీతోష్ణస్థితులలో అత్యంత చలిగా ఉండే నెల సగటు ఉష్ణోగ్రత మైనస్ 3°C లేదా అంతకంటే తక్కువగా ఉంటుంది.",
+    "en": "Group D (Cold Snow Forest Climates) is defined by the average temperature of the coldest month being minus 3°C or below."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T12-0031",
+   "section": {
+    "te": "Tundra definition",
+    "en": "Tundra definition"
+   },
+   "q": {
+    "te": "నేల ఎక్కువ సమయం ఘనీభవించి ఉండే చెట్లు లేని చల్లని మైదానాన్ని ఏమని పిలుస్తారు?",
+    "en": "A treeless, cold plain where the subsoil remains frozen most of the time is called a:"
+   },
+   "options": {
+    "te": [
+     "చిత్తడి నేల (Swamp)",
+     "టండ్రా (Tundra)",
+     "స్టెప్పీ (Steppe)",
+     "టIGA (Taiga)"
+    ],
+    "en": [
+     "Swamp",
+     "Tundra",
+     "Steppe",
+     "Taiga"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "నేల దాదాపు అన్ని వేళలా గడ్డకట్టి ఉండి, చెట్లు లేని చల్లని మైదాన ప్రాంతాన్ని 'టండ్రా' అంటారు.",
+    "en": "A tundra is defined as a cold, treeless plain where soil stays frozen for most of the year."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T12-0103",
+   "section": {
+    "te": "Sea Floor Spreading",
+    "en": "Sea Floor Spreading"
+   },
+   "q": {
+    "te": "1961లో 'సముద్ర గర్భ విస్తరణ' (Sea Floor Spreading) పరికల్పనను ఎవరు ప్రతిపాదించారు?",
+    "en": "Who proposed the hypothesis of 'Sea Floor Spreading' in 1961?"
+   },
+   "options": {
+    "te": [
+     "హెస్ (Hess)",
+     "ఆర్థర్ హోమ్స్",
+     "మోర్గాన్",
+     "మెకెంజీ మరియు పార్కర్"
+    ],
+    "en": [
+     "Hess",
+     "Arthur Holmes",
+     "Morgan",
+     "McKenzie and Parker"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అయస్కాంత ధర్మాలు మరియు ఇతర వాస్తవాల విశ్లేషణ ఆధారంగా 1961లో హెస్ సముద్ర గర్భ విస్తరణ పరికల్పనను ప్రతిపాదించారు.",
+    "en": "Hess proposed the sea floor spreading hypothesis in 1961 based on the analysis of magnetic properties and other facts."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T12-0158",
+   "section": {
+    "te": "Humid Subtropical (Cfa) Locations",
+    "en": "Humid Subtropical (Cfa) Locations"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఏ ప్రాంతాలలో తేమతో కూడిన ఉపఉష్ణమండల (Cfa) శీతోష్ణస్థితి ఉంటుంది?\nఅంశం A: తూర్పు యునైటెడ్ స్టేట్స్ ఆఫ్ అమెరికా\nఅంశం B: దక్షిణ జపాన్\nఅంశం C: ఈశాన్య అర్జెంటీనా",
+    "en": "In which of the following regions does the Humid Subtropical (Cfa) climate occur?\nItem A: Eastern United States of America\nItem B: Southern Japan\nItem C: Northeastern Argentina"
+   },
+   "options": {
+    "te": [
+     "అంశం A మరియు B మాత్రమే",
+     "అంశం B and C మాత్రమే",
+     "A మరియు B రెండూ",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Item A and B only",
+     "Item B and C only",
+     "Both A and B",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "Cfa శీతోష్ణస్థితి సంభవించే ప్రాంతాలలో తూర్పు USA, దక్షిణ జపాన్ మరియు ఈశాన్య అర్జెంటీనా ఉన్నాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text lists the eastern USA, southern Japan, and northeastern Argentina among the regions where the Cfa climate occurs."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T12-0065",
+   "section": {
+    "te": "Fast fashion waste emergency",
+    "en": "Fast fashion waste emergency"
+   },
+   "q": {
+    "te": "అటకామా ఎడారిలో నిరుపయోగమైన బట్టలు వేగంగా పోగుపడటం వల్ల ఏర్పడిన వ్యర్థాల సమస్యను ఐక్యరాజ్యసమితి ఏమని పేర్కొంది?",
+    "en": "The United Nations designated the rapid accumulation of discarded clothing in the Atacama Desert as an:"
+   },
+   "options": {
+    "te": [
+     "తిరిగి సరిదిద్దలేని పర్యావరణ విపత్తు",
+     "అంతర్జాతీయ వాణిజ్య సంక్షోభం",
+     "తక్షణ ఖండ సవాలు",
+     "‘పర్యావరణ మరియు సామాజిక అత్యవసర పరిస్థితి’ (an environmental and social emergency)"
+    ],
+    "en": [
+     "irreversible ecological disaster",
+     "international trade crisis",
+     "urgent continental challenge",
+     "‘an environmental and social emergency’"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అటకామా ఎడారిలో నిరుపయోగమైన దుస్తుల వ్యర్థాల సమస్యను ఐక్యరాజ్యసమితి 'పర్యావరణ మరియు సామాజిక అత్యవసర పరిస్థితి'గా పేర్కొంది.",
+    "en": "The UN termed the fast-growing waste problem of discarded clothes in the Atacama Desert 'an environmental and social emergency'."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T12-0042",
+   "section": {
+    "te": "European Plain resources",
+    "en": "European Plain resources"
+   },
+   "q": {
+    "te": "యూరోపియన్ మైదానం ఏ ఇంధన వనరుల నిక్షేపాలను కలిగి ఉంది?",
+    "en": "The European Plain possesses important deposits of which group of energy resources?"
+   },
+   "options": {
+    "te": [
+     "యురేనియం, థోరియం మరియు లిగ్నైట్",
+     "ఇనుప ఖనిజం, సున్నపురాయి మరియు మైకా",
+     "బాక్సైట్, రాగి మరియు బంగారం",
+     "బొగ్గు, చమురు మరియు సహజ వాయువు"
+    ],
+    "en": [
+     "Uranium, thorium and lignite",
+     "Iron ore, limestone and mica",
+     "Bauxite, copper and gold",
+     "Coal, oil and natural gas"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఈ ప్రాంతంలో బొగ్గు, చమురు మరియు సహజ వాయువు నిక్షేపాలు ఉన్నాయి, ఇవి ఆర్థిక వృద్ధికి ముఖ్యమైనవిగా నిలిచాయి.",
+    "en": "The European Plain contains significant deposits of coal, oil, and natural gas, which supported its economic growth."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T12-0143",
+   "section": {
+    "te": "Subdivisions of dry climates",
+    "en": "Subdivisions of dry climates"
+   },
+   "q": {
+    "te": "కొప్పెన్ వర్గీకరణలో, 'B - శుష్క శీతోష్ణస్థితులు' (Dry Climates) ను స్టెప్పీ మరియు ఎడారిగా ఉపవిభజన చేయడానికి ఏ పెద్ద అక్షరాలను (capital letters) ఉపయోగిస్తారు?",
+    "en": "In Koeppen's classification, which capital letters are used to subdivide 'B - Dry Climates' into steppe and desert?"
+   },
+   "options": {
+    "te": [
+     "శుష్క ప్రాంతాలకు A మరియు అత్యంత శుష్క ప్రాంతాలకు H",
+     "అడవులకు F మరియు గడ్డిభూములకు G",
+     "స్టెప్పీ కోసం S మరియు ఎడారుల కోసం W",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "A for arid and H for hyper-arid",
+     "F for forest and G for grassland",
+     "S for steppe and W for deserts",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మూల గ్రంథం ప్రకారం, B-శుష్క శీతోష్ణస్థితులను స్టెప్పీ లేదా అర్ధ-శుష్క ప్రాంతాల కోసం 'S' మరియు ఎడారుల కోసం 'W' అనే పెద్ద అక్షరాలతో ఉపవిభజన చేస్తారు.",
+    "en": "Group B (Dry Climates) is subdivided using the capital letters S for steppe (semi-arid) and W for deserts."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T12-0171",
+   "section": {
+    "te": "Tundra Climate Vegetation",
+    "en": "Tundra Climate Vegetation"
+   },
+   "q": {
+    "te": "కింది వాటిలో ఏ రకమైన వృక్షజాలం టండ్రా శీతోష్ణస్థితి (ET) యొక్క లక్షణం?",
+    "en": "Which of the following types of vegetation are characteristic of the Tundra climate (ET)?"
+   },
+   "options": {
+    "te": [
+     "తక్కువ ఎత్తులో పెరిగే నాచులు (Mosses)",
+     "లైకెన్లు (Lichens)",
+     "పుష్పించే మొక్కలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Low growing mosses",
+     "Lichens",
+     "Flowering plants",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "టండ్రా శీతోష్ణస్థితికి ఆ పేరు అక్కడ పెరిగే వృక్షజాలం వల్ల వచ్చింది, ఇందులో తక్కువ ఎత్తులో పెరిగే నాచులు, లైకెన్లు మరియు పుష్పించే మొక్కలు ఉంటాయి.",
+    "en": "The Tundra climate is named after its vegetation, which includes low growing mosses, lichens, and flowering plants."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T12-0052",
+   "section": {
+    "te": "Andes mineral resources",
+    "en": "Andes mineral resources"
+   },
+   "q": {
+    "te": "ఆండీస్ పర్వత ప్రాంతం క్రింది ఏ ఖనిజాల యొక్క అపారమైన నిల్వలను కలిగి ఉంది?",
+    "en": "The Andes mountain region holds vast reserves of which of the following mineral resources?"
+   },
+   "options": {
+    "te": [
+     "రాగి మరియు జింక్",
+     "వెండి",
+     "లిథియం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Copper and zinc",
+     "Silver",
+     "Lithium",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఆండీస్ పర్వత ప్రాంతంలో రాగి, జింక్, వెండి మరియు లిథియంల విస్తారమైన నిల్వలు ఉన్నాయి.",
+    "en": "The Andes are among the most resource-rich regions, holding vast reserves of copper, zinc, silver, and lithium."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T12-0067",
+   "section": {
+    "te": "Colorado Plateau rock composition",
+    "en": "Colorado Plateau rock composition"
+   },
+   "q": {
+    "te": "కొలరాడో పీఠభూమి ప్రధానంగా ఏ రకమైన రాతి పొరలతో కూడి ఉంది?",
+    "en": "The Colorado Plateau is composed mostly of layers of which type of rock?"
+   },
+   "options": {
+    "te": [
+     "అవక్షేప శిల (Sedimentary rock)",
+     "అగ్ని శిల (Igneous rock)",
+     "రూపాంతర శిల (Metamorphic rock)",
+     "బసాల్ట్ శిల (Basaltic rock)"
+    ],
+    "en": [
+     "Sedimentary rock",
+     "Igneous rock",
+     "Metamorphic rock",
+     "Basaltic rock"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "కొలరాడో పీఠభూమి ప్రధానంగా టెక్టానిక్ శక్తుల ద్వారా నెమ్మదిగా పైకి లేపబడిన అవక్షేప శిలల పొరలతో నిర్మితమైంది.",
+    "en": "The Colorado Plateau is mostly composed of layers of sedimentary rock uplifted by tectonic forces."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T12-0137",
+   "section": {
+    "te": "Subduction Zone Definition",
+    "en": "Subduction Zone Definition"
+   },
+   "q": {
+    "te": "ఒక టెక్టోనిక్ ఫలకం మరొకదాని కిందకు మునిగిపోయి, క్రస్ట్ (crust) నాశనమయ్యే ప్రదేశాన్ని ఏమని పిలుస్తారు?",
+    "en": "What is the term used for the location where one tectonic plate sinks under another and the crust is destroyed?"
+   },
+   "options": {
+    "te": [
+     "రూపాంతర భ్రంశం (Transform fault)",
+     "స్ప్రెడింగ్ సైట్",
+     "సబ్డక్షన్ జోన్ (Subduction zone)",
+     "సముద్రపు గట్టు (Oceanic ridge)"
+    ],
+    "en": [
+     "Transform fault",
+     "Spreading site",
+     "Subduction zone",
+     "Oceanic ridge"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఫలకం మునిగిపోయే ప్రదేశాన్ని సబ్డక్షన్ జోన్ అని పాఠ్యభాగం నిర్వచించింది.",
+    "en": "The text defines a subduction zone as the location where the sinking of a plate occurs."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T12-0147",
+   "section": {
+    "te": "Distribution of Am climate",
+    "en": "Distribution of Am climate"
+   },
+   "q": {
+    "te": "ఉష్ణమండల ఋతుపవన శీతోష్ణస్థితి (Am) క్రింది ఏ ప్రాంతాలలో కనిపిస్తుంది?\nఅంశం A: భారత ఉపఖండం\nఅంశం B: దక్షిణ అమెరికా ఈశాన్య భాగం\nఅంశం C: ఉత్తర ఆస్ట్రేలియా",
+    "en": "Tropical monsoon climate (Am) is found in which of the following regions?\nItem A: Indian sub-continent\nItem B: North Eastern part of South America\nItem C: Northern Australia"
+   },
+   "options": {
+    "te": [
+     "అంశం A మాత్రమే",
+     "అంశాలు A మరియు B మాత్రమే",
+     "అంశాలు B మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Item A only",
+     "Items A and B only",
+     "Items B and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మూల గ్రంథం ప్రకారం భారత ఉపఖండం, దక్షిణ అమెరికా ఈశాన్య భాగం మరియు ఉత్తర ఆస్ట్రేలియాలలో ఉష్ణమండల ఋతుపవన శీతోష్ణస్థితి (Am) విస్తరించి ఉంది.",
+    "en": "The source explicitly lists the Indian sub-continent, the North Eastern part of South America, and Northern Australia as regions where tropical monsoon climate (Am) is found."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T12-0018",
+   "section": {
+    "te": "Rivers originating in Tibet",
+    "en": "Rivers originating in Tibet"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఏ ప్రధాన నదులు టిబెట్ పీఠభూమి ప్రాంతంలో ఉద్భవిస్తున్నాయి?",
+    "en": "Which of the following major rivers have their source in the Tibetan Plateau region?"
+   },
+   "options": {
+    "te": [
+     "సింధు",
+     "బ్రహ్మపుత్ర",
+     "యాంగ్జీ",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Indus",
+     "Brahmaputra",
+     "Yangtze",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సింధు, బ్రహ్మపుత్ర మరియు యాంగ్జీ వంటి అనేక ప్రధాన నదులకు టిబెట్ పీఠభూమి మూలస్థానంగా ఉంది.",
+    "en": "The Tibetan Plateau is the source of many major Asian rivers, including the Indus, Brahmaputra, and Yangtze."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T12-0072",
+   "section": {
+    "te": "Cherokee indigenous community",
+    "en": "Cherokee indigenous community"
+   },
+   "q": {
+    "te": "చెరోకీ (Cherokee) కమ్యూనిటీ క్రింది ఏ పర్వత ప్రాంతానికి చెందిన స్థానిక తెగ?",
+    "en": "The Cherokee community is indigenous to which of the following mountain regions?"
+   },
+   "options": {
+    "te": [
+     "రాకీ పర్వతాలు",
+     "ఆండీస్ పర్వతాలు",
+     "ఆల్ప్స్ పర్వతాలు",
+     "అప్పలాచియన్ పర్వతాలు"
+    ],
+    "en": [
+     "Rocky Mountains",
+     "Andes",
+     "Alps",
+     "Appalachian Mountains"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "చెరోకీ కమ్యూనిటీ అప్పలాచియన్ పర్వతాలకు చెందిన స్థానిక తెగలలో ఒకటి.",
+    "en": "The Cherokee are indigenous to the Appalachian Mountains."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T12-0082",
+   "section": {
+    "te": "Antarctica polar desert",
+    "en": "Antarctica polar desert"
+   },
+   "q": {
+    "te": "14 మిలియన్ చదరపు కిలోమీటర్లకు పైగా విస్తీర్ణంలో విస్తరించి, భూమిపైనే అతిపెద్ద మరియు అత్యంత శీతల ఎడారిగా ఉన్నది ఏది?",
+    "en": "Which of the following is the largest and coldest desert on Earth, covering an area of over 14 million square kilometres?"
+   },
+   "options": {
+    "te": [
+     "థార్ ఎడారి",
+     "ఆర్కిటిక్",
+     "అంటార్కిటికా",
+     "గోబీ ఎడారి"
+    ],
+    "en": [
+     "Thar Desert",
+     "Arctic",
+     "Antarctica",
+     "Gobi Desert"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అంటార్కిటికా 14 మిలియన్ చదరపు కిలోమీటర్లకు పైగా విస్తీర్ణంలో (భారతదేశ విస్తీర్ణానికి నాలుగు రెట్లకు పైగా) విస్తరించి భూమిపై అత్యంత పెద్ద మరియు శీతల ఎడారిగా ఉంది.",
+    "en": "Antarctica covers over 14 million square kilometres (more than four times the area of India) and is both the largest and coldest desert on Earth."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T12-0084",
+   "section": {
+    "te": "Pangaea and Panthalassa",
+    "en": "Pangaea and Panthalassa"
+   },
+   "q": {
+    "te": "ఆల్ఫ్రెడ్ వెజెనర్ ఖండ చలన సిద్ధాంతానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. మహా ఖండానికి పాంజియా (Pangaea) అని పేరు పెట్టారు, దీని అర్థం 'సర్వ భూమి'.\n2. దాని చుట్టూ ఉన్న మహా సముద్రాన్ని పాంథలాసా (Panthalassa) అని పిలిచారు, దీని అర్థం 'సర్వ జలం'.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding Alfred Wegener's continental drift theory:\n1. The supercontinent was named Pangaea, which meant 'all earth'.\n2. The mega-ocean surrounding it was named Panthalassa, meaning 'all water'.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వెజెనర్ ప్రకారం, అన్ని ఖండాలు కలిసి పాంజియా (సర్వ భూమి) అనే ఏకైక భూభాగంగా ఏర్పడ్డాయి మరియు దాని చుట్టూ ఉన్న మహా సముద్రాన్ని పాంథలాసా (సర్వ జలం) అని పిలిచారు.",
+    "en": "According to Wegener, all continents formed a single landmass called Pangaea (meaning all earth), and the surrounding mega-ocean was called Panthalassa (meaning all water)."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T12-0068",
+   "section": {
+    "te": "Colorado Plateau plant life",
+    "en": "Colorado Plateau plant life"
+   },
+   "q": {
+    "te": "కొలరాడో పీఠభూమిలోని విభిన్న వృక్ష సంపదలో క్రింది వాటిలో ఏ రకమైన చెట్లు ఉన్నాయి?",
+    "en": "Which of the following types of trees are included in the diverse plant life of the Colorado Plateau?"
+   },
+   "options": {
+    "te": [
+     "శంఖాకార వృక్షాలు (Coniferous trees)",
+     "ఆకురాల్చే వృక్షాలు (Deciduous trees)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Coniferous trees",
+     "Deciduous trees",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కొలరాడో పీఠభూమిలోని వృక్ష సంపదలో శంఖాకార మరియు ఆకురాల్చే వృక్షాలు రెండూ ఉన్నాయని పాఠ్యాంశం పేర్కొంది.",
+    "en": "The source specifies that the plant life of the Colorado Plateau includes both coniferous and deciduous trees."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T12-0076",
+   "section": {
+    "te": "Great Victoria Desert division",
+    "en": "Great Victoria Desert division"
+   },
+   "q": {
+    "te": "గ్రేట్ విక్టోరియా ఎడారి క్రింది ఏ ప్రధాన ఎడారి ప్రాంతంలో అంతర్భాగంగా ఉంది?",
+    "en": "The Great Victoria Desert is a constituent part of which of the following larger desert regions?"
+   },
+   "options": {
+    "te": [
+     "గ్రేట్ ఆస్ట్రేలియన్ ఎడారి",
+     "కొలరాడో పీఠభూమి",
+     "అటకామా ఎడారి",
+     "సహారా ఎడారి"
+    ],
+    "en": [
+     "Great Australian Desert",
+     "Colorado Plateau",
+     "Atacama Desert",
+     "Sahara Desert"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "గ్రేట్ ఆస్ట్రేలియన్ ఎడారిలోని అనేక ఎడారి ప్రాంతాలలో గ్రేట్ విక్టోరియా ఎడారి కూడా ఒకటి.",
+    "en": "The Great Victoria Desert is one of several desert areas comprising the Great Australian Desert."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T12-0040",
+   "section": {
+    "te": "European Plain crops",
+    "en": "European Plain crops"
+   },
+   "q": {
+    "te": "సారవంతమైన యూరోపియన్ మైదానంలో విస్తృతంగా సాగు చేయబడే పంటలు ఏవి?",
+    "en": "Which of the following crops are widely cultivated in the fertile European Plain?"
+   },
+   "options": {
+    "te": [
+     "గోధుమలు మరియు బార్లీ",
+     "రై (Rye)",
+     "బంగాళాదుంపలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Wheat and barley",
+     "Rye",
+     "Potatoes",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "యూరోపియన్ మైదానంలో గోధుమలు, బార్లీ, రై మరియు బంగాళాదుంపలు విరివిగా సాగు చేయబడుతున్నాయి.",
+    "en": "In the fertile soils of the European Plain, wheat, barley, rye, and potatoes are all widely cultivated."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T12-0071",
+   "section": {
+    "te": "Yellowstone ecosystem restoration",
+    "en": "Yellowstone ecosystem restoration"
+   },
+   "q": {
+    "te": "1995లో, ఎల్క్ (ఒక రకమైన జింక) జనాభాను నియంత్రించి పర్యావరణ సమతుల్యతను పునరుద్ధరించడానికి ఎల్లోస్టోన్ నేషనల్ పార్క్‌లోకి ఏ మాంసాహార జంతువును ప్రవేశపెట్టారు?",
+    "en": "In 1995, which predator was introduced into Yellowstone National Park to restore ecological balance by controlling the elk population?"
+   },
+   "options": {
+    "te": [
+     "ఎలుగుబంట్లు",
+     "పర్వత సింహాలు",
+     "కోయోట్‌లు",
+     "తోడేళ్ళు (Wolves)"
+    ],
+    "en": [
+     "Bears",
+     "Mountain lions",
+     "Coyotes",
+     "Wolves"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "1995లో ఎల్లోస్టోన్ నేషనల్ పార్క్‌లో తోడేళ్ళను ప్రవేశపెట్టడం ద్వారా ఎల్క్ జనాభా తగ్గి, పర్యావరణ సమతుల్యత పునరుద్ధరించబడింది.",
+    "en": "Wolves were introduced to Yellowstone National Park in 1995 to hunt the elk and restore ecological balance."
+   }
+  }
+ ]
+}

@@ -1,0 +1,942 @@
+{
+ "id": "geo-12-g1-2",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Continents and World Physical Geography – క్విజ్ 2",
+  "en": "Continents and World Physical Geography – Quiz 2"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T12-0117",
+   "section": {
+    "te": "Indian Subcontinent",
+    "en": "Indian Subcontinent"
+   },
+   "q": {
+    "te": "వివిధ కాలాల్లో భారత ఉపఖండం యొక్క భౌగోళిక స్థానాన్ని ఏ ప్రాంతం నుండి విశ్లేషించిన శిలల సహాయంతో గుర్తించారు?",
+    "en": "The geological position of the Indian subcontinent in different periods is traced using rocks analyzed from which area?"
+   },
+   "options": {
+    "te": [
+     "హిమాలయ ప్రాంతం",
+     "నాగ్‌పూర్ ప్రాంతం",
+     "పశ్చిమ కనుమలు",
+     "దక్కన్ పీఠభూమి"
+    ],
+    "en": [
+     "Himalayan region",
+     "Nagpur area",
+     "Western Ghats",
+     "Deccan Plateau"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారత ఉపఖండం యొక్క చారిత్రక స్థానాలను గుర్తించడానికి శాస్త్రవేత్తలు నాగ్‌పూర్ ప్రాంతం నుండి విశ్లేషించిన శిలలను ఉపయోగిస్తారు.",
+    "en": "Scientists use rocks analyzed from the Nagpur area to trace the historical positions of the Indian subcontinent."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T12-0043",
+   "section": {
+    "te": "Alps altitudinal vegetation",
+    "en": "Alps altitudinal vegetation"
+   },
+   "q": {
+    "te": "ఆల్ప్స్ పర్వతాల వృక్షసంపద మండలాలను పరిగణనలోకి తీసుకుని, క్రింది ప్రకటనలను పరిశీలించండి:\n1. తక్కువ ఎత్తులో ఓక్ మరియు బీచ్ అడవులు కనిపిస్తాయి.\n2. ఎక్కువ ఎత్తులో స్ప్రూస్ మరియు పైన్ అడవులు కనిపిస్తాయి.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "With reference to the vegetation zones of the Alps, consider the following statements:\n1. Oak and beech forests are found at lower altitudes.\n2. Spruce and pine forests are found at higher elevations.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రెండు ప్రకటనలూ సరైనవే. ఆల్ప్స్ పర్వతాలలో తక్కువ ఎత్తులో ఓక్ మరియు బీచ్ అడవులు, ఎక్కువ ఎత్తులో స్ప్రూస్ మరియు పైన్ అడవులు ఉంటాయి.",
+    "en": "Both statements are correct. The Alps have oak and beech forests at lower altitudes, and spruce and pine at higher elevations."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T12-0098",
+   "section": {
+    "te": "Convectional Current Theory",
+    "en": "Convectional Current Theory"
+   },
+   "q": {
+    "te": "ఆర్థర్ హోమ్స్ ప్రకారం, మాంటిల్ (mantle) భాగంలో సంవహన ప్రవాహాలను (convection currents) ఉత్పత్తి చేసే ఉష్ణ వ్యత్యాసాలకు ప్రధాన కారణం ఏమిటి?",
+    "en": "According to Arthur Holmes, what is the primary cause of the thermal differences that generate convection currents in the mantle?"
+   },
+   "options": {
+    "te": [
+     "అలల శక్తులు (Tidal forces)",
+     "అగ్నిపర్వత పేలుళ్లు",
+     "రేడియోధార్మిక మూలకాలు",
+     "సౌర వికిరణం"
+    ],
+    "en": [
+     "Tidal forces",
+     "Volcanic eruptions",
+     "Radioactive elements",
+     "Solar radiation"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "1930లలో ఆర్థర్ హోమ్స్ మాంటిల్ భాగంలో రేడియోధార్మిక మూలకాల వల్ల కలిగే ఉష్ణ వ్యత్యాసాల కారణంగా సంవహన ప్రవాహాలు ఉత్పన్నమవుతాయని ప్రతిపాదించారు.",
+    "en": "Arthur Holmes proposed in the 1930s that convection currents are generated due to radioactive elements causing thermal differences in the mantle."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T12-0146",
+   "section": {
+    "te": "Koeppen climatic types matching",
+    "en": "Koeppen climatic types matching"
+   },
+   "q": {
+    "te": "క్రింది శీతోష్ణస్థితి రకాలను వాటి కొప్పెన్ అక్షర సంకేతాలతో జతపరచండి:\nజాబితా I (శీతోష్ణస్థితి రకం)\n1. మధ్యధరా (Mediterranean)\n2. సబ్-ఆర్కిటిక్ (Subarctic)\n3. టండ్రా (Tundra)\nజాబితా II (అక్షర సంకేతం)\ni. Dw\nii. ET\niii. Cs",
+    "en": "Match the following climatic types with their corresponding Koeppen letter codes:\nList I (Climatic Type)\n1. Mediterranean\n2. Subarctic\n3. Tundra\nList II (Letter Code)\ni. Dw\nii. ET\niii. Cs"
+   },
+   "options": {
+    "te": [
+     "1-iii, 2-i, 3-ii",
+     "1-i, 2-iii, 3-ii",
+     "1-iii, 2-ii, 3-i",
+     "1-ii, 2-i, 3-iii"
+    ],
+    "en": [
+     "1-iii, 2-i, 3-ii",
+     "1-i, 2-iii, 3-ii",
+     "1-iii, 2-ii, 3-i",
+     "1-ii, 2-i, 3-iii"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పట్టిక 11.2 ప్రకారం, మధ్యధరా శీతోష్ణస్థితి సంకేతం Cs, సబ్-ఆర్కిటిక్ సంకేతం Dw, మరియు టండ్రా సంకేతం ET.",
+    "en": "According to Table 11.2, Mediterranean is coded as Cs, Subarctic as Dw, and Tundra as ET."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T12-0135",
+   "section": {
+    "te": "Koeppen Small Letters",
+    "en": "Koeppen Small Letters"
+   },
+   "q": {
+    "te": "కొప్పెన్ వర్గీకరణలో, చిన్న అక్షరం 'f' పొడి కాలానికి (season of dryness) సంబంధించి దేనిని సూచిస్తుంది?",
+    "en": "In Koeppen's classification, what does the small letter 'f' indicate regarding the season of dryness?"
+   },
+   "options": {
+    "te": [
+     "పొడి కాలం లేదు",
+     "పొడి శీతాకాలం",
+     "పొడి వేసవి",
+     "రుతుపవన రకం"
+    ],
+    "en": [
+     "No dry season",
+     "Dry winter",
+     "Dry summer",
+     "Monsoon type"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "చిన్న అక్షరం 'f' అంటే 'పొడి కాలం లేదు' అని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text specifies that the small letter 'f' corresponds to 'no dry season'."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T12-0136",
+   "section": {
+    "te": "Tropical Climate Group",
+    "en": "Tropical Climate Group"
+   },
+   "q": {
+    "te": "కొప్పెన్ యొక్క 'గ్రూప్ A - ఉష్ణమండల' (Tropical) వాతావరణం యొక్క లక్షణం క్రింది వాటిలో ఏది?",
+    "en": "Which of the following is a characteristic of Koeppen's 'Group A - Tropical' climate?"
+   },
+   "options": {
+    "te": [
+     "అత్యంత శీతల నెల సగటు ఉష్ణోగ్రత 18° C లేదా అంతకంటే ఎక్కువ",
+     "అత్యంత వెచ్చని నెల సగటు ఉష్ణోగ్రత 10° C కంటే తక్కువ",
+     "ఇది పొడి వాతావరణం",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Average temperature of the coldest month is 18° C or higher",
+     "Average temperature of the warmest month is below 10° C",
+     "It is a dry climate",
+     "None of the above"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పట్టిక 11.1 ప్రకారం గ్రూప్ A (ఉష్ణమండల) వాతావరణంలో అత్యంత శీతల నెల సగటు ఉష్ణోగ్రత 18° C లేదా అంతకంటే ఎక్కువ ఉంటుంది.",
+    "en": "Table 11.1 defines Group A (Tropical) as having an average temperature of the coldest month at 18° C or higher."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T12-0113",
+   "section": {
+    "te": "Plate Classification",
+    "en": "Plate Classification"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఏది ప్రధానంగా సముద్ర పలక (oceanic plate) గా గుర్తించబడింది?",
+    "en": "Which of the following is identified as a largely oceanic plate?"
+   },
+   "options": {
+    "te": [
+     "పసిఫిక్ పలక",
+     "యూరేషియన్ పలక",
+     "అరేబియన్ పలక",
+     "ఉత్తర అమెరికా పలక"
+    ],
+    "en": [
+     "Pacific plate",
+     "Eurasian plate",
+     "Arabian plate",
+     "North American plate"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఏ భాగం ఎక్కువగా ఆక్రమించి ఉందనే దానిపై ఆధారపడి పలకను సముద్ర లేదా ఖండ పలక అని పిలుస్తారు; పసిఫిక్ పలక ప్రధానంగా సముద్ర పలక.",
+    "en": "A plate is called oceanic or continental based on which occupies a larger portion; the Pacific plate is largely oceanic."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T12-0131",
+   "section": {
+    "te": "India-Antarctic Boundary",
+    "en": "India-Antarctic Boundary"
+   },
+   "q": {
+    "te": "భారతీయ ఫలకం మరియు అంటార్కిటిక్ ఫలకం మధ్య ఏ రకమైన ఫలక సరిహద్దు ఉంది?",
+    "en": "What type of plate boundary exists between the Indian plate and the Antarctic plate?"
+   },
+   "options": {
+    "te": [
+     "అభిసరణ సరిహద్దు (Convergent boundary)",
+     "సబ్డక్షన్ జోన్",
+     "రూపాంతర సరిహద్దు (Transform boundary)",
+     "అపసరణ సరిహద్దు (Divergent boundary)"
+    ],
+    "en": [
+     "Convergent boundary",
+     "Subduction zone",
+     "Transform boundary",
+     "Divergent boundary"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతీయ మరియు అంటార్కిటిక్ ఫలకాల మధ్య సరిహద్దు సముద్రపు గట్టు (oceanic ridge) ద్వారా గుర్తించబడిందని, ఇది ఒక అపసరణ సరిహద్దు అని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The boundary between India and the Antarctic plate is marked by an oceanic ridge, which is a divergent boundary."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T12-0149",
+   "section": {
+    "te": "Aw climate natural vegetation",
+    "en": "Aw climate natural vegetation"
+   },
+   "q": {
+    "te": "ఉష్ణమండల తడి మరియు పొడి శీతోష్ణస్థితి (Aw) ప్రాంతంలో ప్రధానంగా కనిపించే వృక్షసంపద ఏది?",
+    "en": "Which type of vegetation is characteristically found in the Tropical Wet and Dry Climate (Aw) region?"
+   },
+   "options": {
+    "te": [
+     "శృంగాకార (కోనిఫెరస్) అడవులు",
+     "దట్టమైన పైకప్పు గల ఉష్ణమండల సతతహరిత అడవులు",
+     "శాశ్వత నాచు మరియు లైకెన్లు",
+     "ఆకురాల్చే అడవులు మరియు చెట్లతో కూడిన గడ్డిభూములు"
+    ],
+    "en": [
+     "Coniferous forest",
+     "Tropical evergreen forests with dense canopy cover",
+     "Perennial mosses and lichens",
+     "Deciduous forest and tree-shredded grasslands"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "Aw శీతోష్ణస్థితి ప్రాంతంలో ఆకురాల్చే అడవులు మరియు చెట్లతో కూడిన గడ్డిభూములు పెరుగుతాయి.",
+    "en": "In the Aw climate, deciduous forest and tree-shredded grasslands occur."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T12-0024",
+   "section": {
+    "te": "Nomadic dwelling",
+    "en": "Nomadic dwelling"
+   },
+   "q": {
+    "te": "స్టెప్పీ ప్రాంత సంచార జాతుల సాంప్రదాయ గుడిసెను ఏమని పిలుస్తారు?",
+    "en": "What is the traditional hut of a nomad in the steppes called?"
+   },
+   "options": {
+    "te": [
+     "టిపి",
+     "యూర్ట్ (Yurt)",
+     "క్రాల్",
+     "ఇగ్లూ"
+    ],
+    "en": [
+     "Tipi",
+     "Yurt",
+     "Kraal",
+     "Igloo"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "స్టెప్పీ సంచార జాతుల నివాస గుడిసెను 'యూర్ట్' అంటారు.",
+    "en": "A yurt is the traditional hut of a nomad living in the steppes."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T12-0070",
+   "section": {
+    "te": "Old Faithful geyser cause",
+    "en": "Old Faithful geyser cause"
+   },
+   "q": {
+    "te": "ఎల్లోస్టోన్ నేషనల్ పార్క్‌లోని 'ఓల్డ్ ఫెయిత్‌ఫుల్' వంటి గీజర్లు (గీజర్ల విస్ఫోటనం) ఏర్పడటానికి కారణం ఏమిటి?",
+    "en": "What causes the eruption of geysers such as 'Old Faithful' in Yellowstone National Park?"
+   },
+   "options": {
+    "te": [
+     "భూ ఉపరితలానికి లోతుగా జరిగే అగ్నిపర్వత కార్యకలాపాలు",
+     "హిమానీనదాలు కరగడం వల్ల సంభవించే కోత",
+     "సున్నపురాయి యొక్క భూగర్భ రసాయన క్షయం",
+     "ఎత్తైన ప్రదేశాలలో ఉండే అధిక వాతావరణ పీడనం"
+    ],
+    "en": [
+     "Volcanic activity deep beneath the Earth’s surface",
+     "Erosion caused by melting glacial waters",
+     "Underground chemical weathering of limestone",
+     "High atmospheric pressure at high altitudes"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూ ఉపరితలానికి లోతుగా జరిగే అగ్నిపర్వత కార్యకలాపాల వల్ల మరుగుతున్న నీరు మరియు ఆవిరి చిమ్మడంతో గీజర్లు ఏర్పడతాయి.",
+    "en": "Geysers like Old Faithful erupt jets of boiling water and steam caused by volcanic activity deep beneath the Earth's surface."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T12-0003",
+   "section": {
+    "te": "Olympic Rings",
+    "en": "Olympic Rings"
+   },
+   "q": {
+    "te": "ఐదు ఒలింపిక్ రింగులు ఐదు నివాసయోగ్యమైన ఖండాలను సూచిస్తాయి. ఈ క్రింది వాటిలో ఆ ఐదు ఖండాలలో లేనిది ఏది?",
+    "en": "The five Olympic rings represent five inhabited continents. Which of the following is NOT one of those five continents?"
+   },
+   "options": {
+    "te": [
+     "అంటార్కిటికా",
+     "ఆస్ట్రేలియా",
+     "యూరప్",
+     "అమెరికా"
+    ],
+    "en": [
+     "Antarctica",
+     "Australia",
+     "Europe",
+     "America"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఒలింపిక్ రింగులు ఆఫ్రికా, అమెరికా, ఆసియా, ఆస్ట్రేలియా మరియు యూరప్‌లను సూచిస్తాయి. అంటార్కిటికా నివాసయోగ్యమైన ఖండంగా పరిగణించబడనందున ఇందులో చేర్చబడలేదు.",
+    "en": "The Olympic rings represent Africa, America, Asia, Australia, and Europe. Antarctica is not included as it is not considered an inhabited continent in this context."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T12-0141",
+   "section": {
+    "te": "Plate Movement Driving Force",
+    "en": "Plate Movement Driving Force"
+   },
+   "q": {
+    "te": "టెక్టోనిక్ ఫలకాల కదలిక వెనుక ఉన్న చోదక శక్తి (driving force) ఏది?",
+    "en": "What is identified as the driving force behind the movement of tectonic plates?"
+   },
+   "options": {
+    "te": [
+     "భూమి యొక్క కోర్ (core) విస్తరణ",
+     "భూమి యొక్క భ్రమణం",
+     "వేడి, మెత్తబడిన మాంటిల్ (mantle) కదలిక",
+     "చంద్రుని పోటు-పాటు శక్తి (Tidal force)"
+    ],
+    "en": [
+     "Expansion of the earth's core",
+     "Rotation of the earth",
+     "Movement of hot, softened mantle",
+     "Tidal force of the moon"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఫలకాల క్రింద ఉండే వేడి, మెత్తబడిన మాంటిల్ యొక్క నెమ్మదిగా జరిగే కదలికలే ఈ కదలికలకు చోదక శక్తి అని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The slow movement of the hot, softened mantle below the plates is the driving force."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T12-0108",
+   "section": {
+    "te": "Convectional Current Theory Purpose",
+    "en": "Convectional Current Theory Purpose"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): ఆర్థర్ హోమ్స్ 1930లలో మాంటిల్‌లో సంవహన ప్రవాహాల సంభావ్యతను చర్చించారు.\nకారణం (R): ఇది ఖండాల కదలిక వెనుక ఉన్న శక్తికి వివరణ ఇచ్చే ప్రయత్నం, దీనిని అప్పటి శాస్త్రవేత్తలు ప్రశ్నించారు.",
+    "en": "Assertion (A): Arthur Holmes discussed the possibility of convection currents in the mantle in the 1930s.\nReason (R): It was an attempt to provide an explanation for the force behind continental movement, which contemporary scientists had questioned."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఖండాలను కదిలించే శక్తిని వివరించడానికి హోమ్స్ సంవహన ప్రవాహాలను ప్రతిపాదించారు, ఇది ఖండ చలన సిద్ధాంతంపై ఉన్న ప్రధాన విమర్శను పరిష్కరించింది.",
+    "en": "Holmes proposed convection currents to explain the force moving continents, addressing the main criticism of the continental drift theory."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T12-0028",
+   "section": {
+    "te": "Mountains as water towers",
+    "en": "Mountains as water towers"
+   },
+   "q": {
+    "te": "పర్వతాలను 'వాటర్ టవర్లు' (Water towers) అని ఎందుకు పిలుస్తారు?",
+    "en": "Why are mountains referred to as 'water towers'?"
+   },
+   "options": {
+    "te": [
+     "అవి మానవ నిర్మిత లోతైన జలాశయాలలో వర్షపు నీటిని నిల్వ చేస్తాయి",
+     "అవి ఎత్తులో ఉండి, కరిగే మంచు మరియు హిమానీనదాల ద్వారా మంచినీటిని అందిస్తాయి",
+     "అవి అన్ని సీజన్లలోనూ విపరీతమైన వర్షాలను కురిపిస్తాయి",
+     "అవి టెక్టానిక్ పీడనం ద్వారా భూగర్భ జలాలను పైకి పంపుతాయి"
+    ],
+    "en": [
+     "They store rainwater in deep man-made reservoirs",
+     "They are elevated and supply freshwater via melting snow and glaciers",
+     "They cause torrential rains throughout all seasons",
+     "They pump groundwater up through tectonic pressure"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పర్వతాలు ఎత్తులో ఉండటం వల్ల, కరిగే మంచు మరియు హిమానీనదాల ద్వారా మంచినీటిని సరఫరా చేస్తాయి కాబట్టి వాటిని 'వాటర్ టవర్లు' అంటారు.",
+    "en": "Mountains are called water towers because their high elevation allows them to provide freshwater through melting glaciers and snow."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T12-0057",
+   "section": {
+    "te": "Amazon indigenous communities",
+    "en": "Amazon indigenous communities"
+   },
+   "q": {
+    "te": "అమెజాన్ వర్షారణ్యంలో నివసిస్తూ దాని పరిరక్షణలో కీలక పాత్ర పోషిస్తున్న స్వదేశీ గిరిజన తెగల (indigenous communities) సంఖ్య దాదాపు ఎంత?",
+    "en": "Approximately how many indigenous communities reside in the Amazon Rainforest and play a role in its conservation?"
+   },
+   "options": {
+    "te": [
+     "దాదాపు 800",
+     "దాదాపు 150",
+     "దాదాపు 1,200",
+     "దాదాపు 400"
+    ],
+    "en": [
+     "Almost 800",
+     "Almost 150",
+     "Almost 1,200",
+     "Almost 400"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం దాదాపు 400 స్వదేశీ తెగలు అమెజాన్ అడవులలో నివసిస్తూ దానిని కాపాడటంలో తోడ్పడుతున్నాయి.",
+    "en": "Almost 400 indigenous communities reside in the Amazon Rainforest."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T12-0128",
+   "section": {
+    "te": "Indian Plate Composition",
+    "en": "Indian Plate Composition"
+   },
+   "q": {
+    "te": "భారతీయ ఫలకం (Indian plate) క్రింది ఏ భాగాలను కలిగి ఉంటుంది?",
+    "en": "The Indian plate is composed of which of the following portions?"
+   },
+   "options": {
+    "te": [
+     "ద్వీపకల్ప భారతదేశం",
+     "ఆస్ట్రేలియన్ ఖండ భాగాలు",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Peninsular India",
+     "Australian continental portions",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతీయ ఫలకంలో ద్వీపకల్ప భారతదేశం మరియు ఆస్ట్రేలియన్ ఖండ భాగాలు రెండూ ఉన్నాయని పాఠ్యభాగం స్పష్టంగా పేర్కొంది.",
+    "en": "The Indian plate includes both Peninsular India and the Australian continental portions."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T12-0175",
+   "section": {
+    "te": "Iceberg Formation",
+    "en": "Iceberg Formation"
+   },
+   "q": {
+    "te": "ప్రతిపాదన (A): ఐస్ క్యాప్ శీతోష్ణస్థితులలో, మంచు పలకలు విరిగి ఆర్కిటిక్ మరియు అంటార్కిటిక్ జలాల్లో మంచు పర్వతాలుగా (icebergs) కదులుతాయి.\nకారణం (R): మంచు పేరుకుపోవడం వల్ల కలిగే ఒత్తిడి మంచు పలకల రూపమార్పుకు (deformation) మరియు అవి విరగడానికి కారణమవుతుంది.",
+    "en": "Assertion (A): In Ice Cap climates, ice sheets break and move as icebergs in Arctic and Antarctic waters.\nReason (R): The accumulation of snow and ice creates mounting pressure that causes the deformation of ice sheets."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ సరైనవి మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ సరైనవి కానీ A కి R సరైన వివరణ కాదు",
+     "A సరైనది కానీ R తప్పు",
+     "A తప్పు కానీ R సరైనది"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పేరుకుపోయిన మంచు నుండి వచ్చే ఒత్తిడి మంచు పలకలను విరూపణం చేసి విచ్ఛిన్నం చేయడం వల్ల మంచు పర్వతాలు ఏర్పడతాయని పాఠ్యభాగం వివరిస్తుంది.",
+    "en": "Icebergs are formed because the pressure from accumulated snow and ice deforms and breaks the ice sheets."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T12-0107",
+   "section": {
+    "te": "Mesosaurus Distribution",
+    "en": "Mesosaurus Distribution"
+   },
+   "q": {
+    "te": "మెసోసారస్ అస్థిపంజరాలు లభించిన రెండు ప్రాంతాల (దక్షిణాఫ్రికా మరియు బ్రెజిల్) మధ్య ప్రస్తుత దూరం ఎంత?",
+    "en": "What is the present-day distance between the two localities (South Africa and Brazil) where Mesosaurus skeletons are found?"
+   },
+   "options": {
+    "te": [
+     "2,000 కి.మీ.",
+     "5,400 కి.మీ.",
+     "4,800 కి.మీ.",
+     "3,200 కి.మీ."
+    ],
+    "en": [
+     "2,000 km",
+     "5,400 km",
+     "4,800 km",
+     "3,200 km"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మెసోసారస్ శిలాజాలు లభించిన రెండు ప్రాంతాలు ప్రస్తుతం 4,800 కి.మీ దూరంలో ఉన్నాయని పాఠ్యాంశం పేర్కొంది.",
+    "en": "The two localities where Mesosaurus fossils are found are currently 4,800 km apart."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T12-0050",
+   "section": {
+    "te": "Highest peak Western Hemisphere",
+    "en": "Highest peak Western Hemisphere"
+   },
+   "q": {
+    "te": "పశ్చిమ అర్ధగోళంలోనే అత్యంత ఎత్తైన పర్వత శిఖరం ఏది?",
+    "en": "Which of the following is the highest mountain peak in the Western Hemisphere?"
+   },
+   "options": {
+    "te": [
+     "అకోన్‌కాగ్వా పర్వతం (Mount Aconcagua)",
+     "మాంట్ బ్లాంక్",
+     "ఎవరెస్ట్ పర్వతం",
+     "కిలిమంజారో పర్వతం"
+    ],
+    "en": [
+     "Mount Aconcagua",
+     "Mont Blanc",
+     "Mount Everest",
+     "Mount Kilimanjaro"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఆండీస్ పర్వతాలలో ఉన్న అకోన్‌కాగ్వా పర్వతం పశ్చిమ అర్ధగోళంలో అత్యంత ఎత్తైన శిఖరం.",
+    "en": "Mount Aconcagua, situated in the Andes Mountains, is the highest peak in the Western Hemisphere."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T12-0081",
+   "section": {
+    "te": "Grand Canyon annual visitors",
+    "en": "Grand Canyon annual visitors"
+   },
+   "q": {
+    "te": "గడిచిన కొన్ని సంవత్సరాలుగా గ్రాండ్ కేనియన్ ఏటా సుమారు ఎంతమంది పర్యాటకులను ఆకర్షిస్తోంది?",
+    "en": "Approximately how many visitors annually has the Grand Canyon attracted over the past several years?"
+   },
+   "options": {
+    "te": [
+     "సుమారు 1 కోటి మంది (10 million)",
+     "సుమారు 10 లక్షల మంది (1 million)",
+     "సుమారు 25 లక్షల మంది (2.5 million)",
+     "సుమారు 50 లక్షల మంది (5 million)"
+    ],
+    "en": [
+     "About 10 million",
+     "About 1 million",
+     "About 2.5 million",
+     "About 5 million"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "గ్రాండ్ కేనియన్‌ను గత కొన్నేళ్లుగా ఏటా దాదాపు 50 లక్షల (5 మిలియన్ల) మంది సందర్శిస్తున్నారు.",
+    "en": "The Grand Canyon has received about 5 million visitors annually over the past several years."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T12-0167",
+   "section": {
+    "te": "Humid Subtropical (Cwa) vs Aw",
+    "en": "Humid Subtropical (Cwa) vs Aw"
+   },
+   "q": {
+    "te": "తేమతో కూడిన ఉపఉష్ణమండల శీతోష్ణస్థితి (Cwa), ఉష్ణమండల తడి మరియు పొడి శీతోష్ణస్థితి (Aw) నుండి ఎలా భిన్నంగా ఉంటుంది?",
+    "en": "How does the Humid Subtropical climate (Cwa) differ from the Tropical Wet and Dry climate (Aw)?"
+   },
+   "options": {
+    "te": [
+     "Cwa లో Aw కంటే ఎక్కువ వేసవి వర్షపాతం ఉంటుంది",
+     "Aw తో పోలిస్తే Cwa లో శీతాకాలపు ఉష్ణోగ్రతలు వెచ్చగా (warm) ఉంటాయి",
+     "రెండింటి మధ్య తేడా లేదు",
+     "Cwa లో Aw కంటే చల్లని శీతాకాలాలు ఉంటాయి"
+    ],
+    "en": [
+     "Cwa has higher summer rainfall than Aw",
+     "Cwa has warm winter temperatures compared to Aw",
+     "There is no difference between the two",
+     "Cwa has colder winters than Aw"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "Cwa లో శీతాకాలపు ఉష్ణోగ్రత వెచ్చగా ఉండటం మినహా, Cwa మరియు Aw ఒకేలా ఉంటాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Cwa is similar to Aw except that the temperature in winter is warm in Cwa."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T12-0009",
+   "section": {
+    "te": "Continent vs Island",
+    "en": "Continent vs Island"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): నీటితో చుట్టబడి ఉన్నప్పటికీ ఖండాలను ద్వీపాలుగా పరిగణించరు.\nకారణం (R): ద్వీపాలుగా వర్గీకరించబడిన భూభాగాలతో పోలిస్తే ఖండాలు పరిమాణంలో చాలా పెద్దవి.",
+    "en": "Assertion (A): Continents are not considered islands despite being surrounded by water.\nReason (R): Continents are much larger in size compared to landmasses classified as islands."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఖండాలు నీటితో చుట్టబడి ఉన్నప్పటికీ, వాటి భారీ పరిమాణం వాటిని ద్వీపాల నుండి వేరు చేస్తుందని పాఠ్యభాగం వివరిస్తుంది.",
+    "en": "Although continents are surrounded by water, their massive size distinguishes them from islands."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T12-0164",
+   "section": {
+    "te": "Cold Climate with Dry Winters (Dw)",
+    "en": "Cold Climate with Dry Winters (Dw)"
+   },
+   "q": {
+    "te": "పొడి శీతాకాలంతో కూడిన చల్లని శీతోష్ణస్థితి (Dw) కి సాధారణ వార్షిక వర్షపాత శ్రేణి ఎంత?",
+    "en": "What is the typical annual precipitation range for the Cold Climate with Dry Winters (Dw)?"
+   },
+   "options": {
+    "te": [
+     "200 సెం.మీ కంటే ఎక్కువ",
+     "35 - 90 సెం.మీ",
+     "12 - 15 సెం.మీ",
+     "75 - 150 సెం.మీ"
+    ],
+    "en": [
+     "Over 200 cm",
+     "35 - 90 cm",
+     "12 - 15 cm",
+     "75 - 150 cm"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "Dw శీతోష్ణస్థితిలో వార్షిక వర్షపాతం తక్కువగా ఉంటుందని, ఇది 12 నుండి 15 సెం.మీ వరకు ఉంటుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The annual precipitation in the Dw climate is low, ranging from 12 to 15 cm."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T12-0147",
+   "section": {
+    "te": "Distribution of Am climate",
+    "en": "Distribution of Am climate"
+   },
+   "q": {
+    "te": "ఉష్ణమండల ఋతుపవన శీతోష్ణస్థితి (Am) క్రింది ఏ ప్రాంతాలలో కనిపిస్తుంది?\nఅంశం A: భారత ఉపఖండం\nఅంశం B: దక్షిణ అమెరికా ఈశాన్య భాగం\nఅంశం C: ఉత్తర ఆస్ట్రేలియా",
+    "en": "Tropical monsoon climate (Am) is found in which of the following regions?\nItem A: Indian sub-continent\nItem B: North Eastern part of South America\nItem C: Northern Australia"
+   },
+   "options": {
+    "te": [
+     "అంశం A మాత్రమే",
+     "అంశాలు A మరియు B మాత్రమే",
+     "అంశాలు B మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Item A only",
+     "Items A and B only",
+     "Items B and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మూల గ్రంథం ప్రకారం భారత ఉపఖండం, దక్షిణ అమెరికా ఈశాన్య భాగం మరియు ఉత్తర ఆస్ట్రేలియాలలో ఉష్ణమండల ఋతుపవన శీతోష్ణస్థితి (Am) విస్తరించి ఉంది.",
+    "en": "The source explicitly lists the Indian sub-continent, the North Eastern part of South America, and Northern Australia as regions where tropical monsoon climate (Am) is found."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T12-0085",
+   "section": {
+    "te": "Pangaea breakup timeline",
+    "en": "Pangaea breakup timeline"
+   },
+   "q": {
+    "te": "ఆల్ఫ్రెడ్ వెజెనర్ ప్రకారం, సుమారు ఎన్ని సంవత్సరాల క్రితం పాంజియా అనే మహా ఖండం విడిపోవడం ప్రారంభమైంది?",
+    "en": "According to Alfred Wegener, approximately how many years ago did the supercontinent Pangaea begin to split?"
+   },
+   "options": {
+    "te": [
+     "సుమారు 350 మిలియన్ సంవత్సరాల క్రితం",
+     "సుమారు 500 మిలియన్ సంవత్సరాల క్రితం",
+     "సుమారు 100 మిలియన్ సంవత్సరాల క్రితం",
+     "సుమారు 200 మిలియన్ సంవత్సరాల క్రితం"
+    ],
+    "en": [
+     "Around 350 million years ago",
+     "Around 500 million years ago",
+     "Around 100 million years ago",
+     "Around 200 million years ago"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సుమారు 200 మిలియన్ సంవత్సరాల క్రితం పాంజియా అనే మహా ఖండం లారెషియా మరియు గోండ్వానా భూభాగాలుగా విడిపోవడం ప్రారంభించిందని వెజెనర్ పేర్కొన్నారు.",
+    "en": "Wegener argued that around 200 million years ago, the supercontinent Pangaea began to split into Laurasia and Gondwanaland."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T12-0042",
+   "section": {
+    "te": "European Plain resources",
+    "en": "European Plain resources"
+   },
+   "q": {
+    "te": "యూరోపియన్ మైదానం ఏ ఇంధన వనరుల నిక్షేపాలను కలిగి ఉంది?",
+    "en": "The European Plain possesses important deposits of which group of energy resources?"
+   },
+   "options": {
+    "te": [
+     "బొగ్గు, చమురు మరియు సహజ వాయువు",
+     "బాక్సైట్, రాగి మరియు బంగారం",
+     "ఇనుప ఖనిజం, సున్నపురాయి మరియు మైకా",
+     "యురేనియం, థోరియం మరియు లిగ్నైట్"
+    ],
+    "en": [
+     "Coal, oil and natural gas",
+     "Bauxite, copper and gold",
+     "Iron ore, limestone and mica",
+     "Uranium, thorium and lignite"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఈ ప్రాంతంలో బొగ్గు, చమురు మరియు సహజ వాయువు నిక్షేపాలు ఉన్నాయి, ఇవి ఆర్థిక వృద్ధికి ముఖ్యమైనవిగా నిలిచాయి.",
+    "en": "The European Plain contains significant deposits of coal, oil, and natural gas, which supported its economic growth."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T12-0157",
+   "section": {
+    "te": "Dry Climate Subdivisions",
+    "en": "Dry Climate Subdivisions"
+   },
+   "q": {
+    "te": "క్రింది పొడి శీతోష్ణస్థితి ఉపవిభాగాలను వాటి అక్షాంశ శ్రేణులతో జతపరచండి:\n1. ఉపఉష్ణమండల స్టెప్పీ (BSh) - i. 35° - 60°\n2. మధ్య అక్షాంశ ఎడారి (BWk) - ii. 15° - 35°",
+    "en": "Match the following dry climate subdivisions with their respective latitudinal ranges:\n1. Subtropical Steppe (BSh) - i. 35° - 60°\n2. Mid-latitude Desert (BWk) - ii. 15° - 35°"
+   },
+   "options": {
+    "te": [
+     "1-i, 2-ii",
+     "1-ii, 2-i",
+     "1-ii, 2-ii",
+     "1-i, 2-i"
+    ],
+    "en": [
+     "1-i, 2-ii",
+     "1-ii, 2-i",
+     "1-ii, 2-ii",
+     "1-i, 2-i"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, BSh మరియు BWh 15° - 35° అక్షాంశాల వద్ద సంభవిస్తాయి, అయితే BSk మరియు BWk 35° - 60° అక్షాంశాల వద్ద సంభవిస్తాయి.",
+    "en": "BSh and BWh occur at latitudes 15° - 35°, while BSk and BWk occur at latitudes 35° - 60°."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T12-0015",
+   "section": {
+    "te": "Earth Personification",
+    "en": "Earth Personification"
+   },
+   "q": {
+    "te": "భారతదేశంలో, భూమిని ఏ పేరుతో పిలిచే సజీవ దేవతగా వర్ణిస్తారు?",
+    "en": "In India, the Earth is personified as a living deity known as:"
+   },
+   "options": {
+    "te": [
+     "భూదేవి",
+     "వసుధ",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Bhudevi",
+     "Vasudha",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతదేశంలో భూమిని భూదేవి లేదా వసుధ అని పిలిచే సజీవ దేవతగా వర్ణిస్తారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "In India, the Earth is personified as a living deity often known as Bhudevi or Vasudha."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T12-0058",
+   "section": {
+    "te": "Atacama Desert location and length",
+    "en": "Atacama Desert location and length"
+   },
+   "q": {
+    "te": "దాదాపు 1,000 కి.మీ. మేర విస్తరించి, భూమిపై అత్యంత పొడి ప్రదేశాలలో ఒకటిగా ఉన్న అటకామా ఎడారి ప్రధానంగా ఏ దేశంలో ఉంది?",
+    "en": "The Atacama Desert, one of the driest places on Earth stretching about 1,000 km, is located primarily in which country?"
+   },
+   "options": {
+    "te": [
+     "బ్రెజిల్",
+     "ఈక్వెడార్",
+     "కొలంబియా",
+     "చిలీ"
+    ],
+    "en": [
+     "Brazil",
+     "Ecuador",
+     "Colombia",
+     "Chile"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూమిపైనే అత్యంత పొడి ప్రదేశాలలో ఒకటైన అటకామా ఎడారి చిలీ దేశంలో విస్తరించి ఉంది.",
+    "en": "The Atacama Desert is situated in Chile and stretches for about 1,000 km."
+   }
+  }
+ ]
+}

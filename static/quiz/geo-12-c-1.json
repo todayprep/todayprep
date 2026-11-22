@@ -1,0 +1,942 @@
+{
+ "id": "geo-12-c-1",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Continents and World Physical Geography – క్విజ్ 1",
+  "en": "Continents and World Physical Geography – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T12-0025",
+   "section": {
+    "te": "Eurasian Steppes extent",
+    "en": "Eurasian Steppes extent"
+   },
+   "q": {
+    "te": "యురేషియన్ స్టెప్పీలు పడమర నుండి తూర్పుకు ఎంత దూరానికి పైగా విస్తరించి ఉన్నాయి?",
+    "en": "The Eurasian Steppes stretch from west to east over a distance of:"
+   },
+   "options": {
+    "te": [
+     "4,500 కి.మీ పైగా",
+     "8,000 కి.మీ పైగా",
+     "దాదాపు 2,500 కి.మీ",
+     "దాదాపు 5,000 కి.మీ"
+    ],
+    "en": [
+     "Over 4,500 km",
+     "Over 8,000 km",
+     "About 2,500 km",
+     "About 5,000 km"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "స్టెప్పీ గడ్డి మైదానాలు పశ్చిమం నుండి తూర్పుకు 8,000 కి.మీ కంటే ఎక్కువ విస్తీర్ణంలో వ్యాపించి ఉన్నాయి.",
+    "en": "The Eurasian Steppes spread from west to east for more than 8,000 km."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T12-0051",
+   "section": {
+    "te": "Largest salt flat location",
+    "en": "Largest salt flat location"
+   },
+   "q": {
+    "te": "భూమిపైనే అతిపెద్ద ఉప్పు మైదానంగా (salt flat) గుర్తింపు పొందిన 'ఉయుని సాల్ట్ ఫ్లాట్స్' ఏ దేశంలో ఉంది?",
+    "en": "The Uyuni Salt Flats, recognized as the largest salt flat on Earth, is located in which country?"
+   },
+   "options": {
+    "te": [
+     "చిలీ",
+     "అర్జెంటీనా",
+     "పెరూ",
+     "బొలీవియా"
+    ],
+    "en": [
+     "Chile",
+     "Argentina",
+     "Peru",
+     "Bolivia"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూమిపైనే అతిపెద్ద ఉప్పు మైదానమైన ఉయుని సాల్ట్ ఫ్లాట్స్ బొలీవియా దేశంలో ఉంది.",
+    "en": "The text identifies Bolivia's Uyuni Salt Flats as the largest salt flat on Earth."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T12-0057",
+   "section": {
+    "te": "Amazon indigenous communities",
+    "en": "Amazon indigenous communities"
+   },
+   "q": {
+    "te": "అమెజాన్ వర్షారణ్యంలో నివసిస్తూ దాని పరిరక్షణలో కీలక పాత్ర పోషిస్తున్న స్వదేశీ గిరిజన తెగల (indigenous communities) సంఖ్య దాదాపు ఎంత?",
+    "en": "Approximately how many indigenous communities reside in the Amazon Rainforest and play a role in its conservation?"
+   },
+   "options": {
+    "te": [
+     "దాదాపు 400",
+     "దాదాపు 800",
+     "దాదాపు 150",
+     "దాదాపు 1,200"
+    ],
+    "en": [
+     "Almost 400",
+     "Almost 800",
+     "Almost 150",
+     "Almost 1,200"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం దాదాపు 400 స్వదేశీ తెగలు అమెజాన్ అడవులలో నివసిస్తూ దానిని కాపాడటంలో తోడ్పడుతున్నాయి.",
+    "en": "Almost 400 indigenous communities reside in the Amazon Rainforest."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T12-0062",
+   "section": {
+    "te": "Crops grown in Nile basin",
+    "en": "Crops grown in Nile basin"
+   },
+   "q": {
+    "te": "నైలు నది అందించిన సాగునీటి సౌకర్యం ద్వారా వేల సంవత్సరాలుగా పండించబడుతున్న పంటలు ఏవి?",
+    "en": "Which of the following agricultural crops have been supported for thousands of years by irrigation from the River Nile?"
+   },
+   "options": {
+    "te": [
+     "గోధుమ మరియు బార్లీ",
+     "అవిసె (Flax)",
+     "పండ్లు మరియు కూరగాయలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Wheat and barley",
+     "Flax",
+     "Fruits and vegetables",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నైలు నది ద్వారా లభించే సాగునీటితో గోధుమ, బార్లీ, అవిసె, పండ్లు మరియు కూరగాయలు వంటి పంటలు పండించబడుతున్నాయి.",
+    "en": "The Nile transformed dry lands into fertile fields supporting wheat, barley, flax, fruits, and vegetables."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T12-0155",
+   "section": {
+    "te": "Mediterranean Climate",
+    "en": "Mediterranean Climate"
+   },
+   "q": {
+    "te": "మెడిటరేనియన్ శీతోష్ణస్థితి (Cs) కి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఈ ప్రాంతాలు వేసవిలో ఉపఉష్ణమండల అధిక పీడనం (subtropical high) ప్రభావంలో ఉంటాయి.\n2. ఈ ప్రాంతాలు శీతాకాలంలో పశ్చిమ పవనాల (westerly winds) ప్రభావంలో ఉంటాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the Mediterranean climate (Cs):\n1. These areas are influenced by the subtropical high in summer.\n2. These areas are influenced by westerly winds in winter.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మెడిటరేనియన్ శీతోష్ణస్థితి వేసవిలో ఉపఉష్ణమండల అధిక పీడనం (పొడి పరిస్థితులకు కారణం) మరియు శీతాకాలంలో పశ్చిమ పవనాల (వర్షపాతానికి కారణం) ప్రభావంతో ఉంటుంది.",
+    "en": "The Mediterranean climate is characterized by the influence of the subtropical high in summer (causing dry conditions) and westerly winds in winter (causing rainfall)."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T12-0005",
+   "section": {
+    "te": "Indian Antarctica Programme",
+    "en": "Indian Antarctica Programme"
+   },
+   "q": {
+    "te": "1983లో అంటార్కిటికాలో స్థాపించబడిన భారతదేశపు మొట్టమొదటి శాస్త్రీయ పరిశోధనా కేంద్రం పేరు ఏమిటి?",
+    "en": "What was the name of India's first scientific base station established in Antarctica in 1983?"
+   },
+   "options": {
+    "te": [
+     "హిమాద్రి",
+     "భారతి",
+     "మైత్రి",
+     "దక్షిణ గంగోత్రి"
+    ],
+    "en": [
+     "Himadri",
+     "Bharati",
+     "Maitri",
+     "Dakshin Gangotri"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "1983లో అంటార్కిటికాలో స్థాపించబడిన భారతదేశపు మొట్టమొదటి శాస్త్రీయ పరిశోధనా కేంద్రం పేరు దక్షిణ గంగోత్రి.",
+    "en": "India's first scientific base station in Antarctica, established in 1983, was named Dakshin Gangotri."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T12-0165",
+   "section": {
+    "te": "Dry Climate Classification",
+    "en": "Dry Climate Classification"
+   },
+   "q": {
+    "te": "పొడి శీతోష్ణస్థితులు (B) ఏ రెండు ప్రధాన రకాలుగా విభజించబడ్డాయి?",
+    "en": "Into which two main types are Dry climates (B) divided?"
+   },
+   "options": {
+    "te": [
+     "ఉష్ణమండల మరియు ఉపఉష్ణమండల",
+     "సముద్ర మరియు ఖండ",
+     "తేమ మరియు శుష్క",
+     "స్టెప్పీ (BS) మరియు ఎడారి (BW)"
+    ],
+    "en": [
+     "Tropical and Subtropical",
+     "Marine and Continental",
+     "Humid and Arid",
+     "Steppe (BS) and Desert (BW)"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పొడి శీతోష్ణస్థితులు రెండు రకాలుగా వర్గీకరించబడ్డాయి: స్టెప్పీ లేదా సెమీ-ఆరిడ్ (BS) మరియు ఎడారి (BW).",
+    "en": "Dry climates are classified into two types: steppe or semi-arid (BS) and desert (BW)."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T12-0019",
+   "section": {
+    "te": "Tibetan Plateau elevation",
+    "en": "Tibetan Plateau elevation"
+   },
+   "q": {
+    "te": "సముద్ర మట్టానికి టిబెట్ పీఠభూమి సగటు ఎత్తు ఎంత?",
+    "en": "What is the average height of the Tibetan Plateau above sea level?"
+   },
+   "options": {
+    "te": [
+     "3,000 మీటర్లకు పైగా",
+     "4,500 మీటర్లకు పైగా",
+     "5,500 మీటర్లకు పైగా",
+     "2,500 మీటర్లకు పైగా"
+    ],
+    "en": [
+     "Over 3,000 metres",
+     "Over 4,500 metres",
+     "Over 5,500 metres",
+     "Over 2,500 metres"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "టిబెట్ పీఠభూమి సముద్ర మట్టం నుండి సగటున 4,500 మీటర్ల కంటే ఎక్కువ ఎత్తును కలిగి ఉంది.",
+    "en": "The Tibetan Plateau has an average elevation of over 4,500 metres above sea level."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T12-0085",
+   "section": {
+    "te": "Pangaea breakup timeline",
+    "en": "Pangaea breakup timeline"
+   },
+   "q": {
+    "te": "ఆల్ఫ్రెడ్ వెజెనర్ ప్రకారం, సుమారు ఎన్ని సంవత్సరాల క్రితం పాంజియా అనే మహా ఖండం విడిపోవడం ప్రారంభమైంది?",
+    "en": "According to Alfred Wegener, approximately how many years ago did the supercontinent Pangaea begin to split?"
+   },
+   "options": {
+    "te": [
+     "సుమారు 100 మిలియన్ సంవత్సరాల క్రితం",
+     "సుమారు 500 మిలియన్ సంవత్సరాల క్రితం",
+     "సుమారు 200 మిలియన్ సంవత్సరాల క్రితం",
+     "సుమారు 350 మిలియన్ సంవత్సరాల క్రితం"
+    ],
+    "en": [
+     "Around 100 million years ago",
+     "Around 500 million years ago",
+     "Around 200 million years ago",
+     "Around 350 million years ago"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సుమారు 200 మిలియన్ సంవత్సరాల క్రితం పాంజియా అనే మహా ఖండం లారెషియా మరియు గోండ్వానా భూభాగాలుగా విడిపోవడం ప్రారంభించిందని వెజెనర్ పేర్కొన్నారు.",
+    "en": "Wegener argued that around 200 million years ago, the supercontinent Pangaea began to split into Laurasia and Gondwanaland."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T12-0106",
+   "section": {
+    "te": "Ocean Floor Consumption",
+    "en": "Ocean Floor Consumption"
+   },
+   "q": {
+    "te": "హెస్ ప్రకారం, సముద్రపు అడుగుభాగం ఎక్కడ మునిగిపోయి వినియోగించబడుతుంది (consumed)?",
+    "en": "According to Hess, where does the ocean floor sink and get consumed?"
+   },
+   "options": {
+    "te": [
+     "అబిసల్ మైదానాల వద్ద",
+     "మధ్య మహాసముద్ర పర్వత శ్రేణుల వద్ద",
+     "ఖండాల అంచుల వద్ద",
+     "మహాసముద్ర కందకాల (oceanic trenches) వద్ద"
+    ],
+    "en": [
+     "At the abyssal plains",
+     "At the mid-oceanic ridges",
+     "At the continental margins",
+     "At the oceanic trenches"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సముద్రపు అడుగుభాగం మహాసముద్ర కందకాల వద్ద మునిగిపోయి వినియోగించబడుతుందని హెస్ పేర్కొన్నారు.",
+    "en": "Hess maintained that the ocean floor sinks down and is consumed at the oceanic trenches."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T12-0086",
+   "section": {
+    "te": "Bullard continental fit depth",
+    "en": "Bullard continental fit depth"
+   },
+   "q": {
+    "te": "1964లో అట్లాంటిక్ తీర అంచుల జోడింపును (fit) చూపించడానికి బుల్లార్డ్ కంప్యూటర్ మ్యాప్‌ను రూపొందించారు. ఈ సరిపోలికను ఏ రేఖ వద్ద పరిశీలించారు?",
+    "en": "In 1964, Bullard presented a computer-generated map showing the fit of the Atlantic continental margins. At which contour line was this match tried?"
+   },
+   "options": {
+    "te": [
+     "2,000-ఫాథమ్ రేఖ",
+     "500-ఫాథమ్ రేఖ",
+     "ప్రస్తుత తీరరేఖ",
+     "1,000-ఫాథమ్ రేఖ"
+    ],
+    "en": [
+     "2,000-fathom line",
+     "500-fathom line",
+     "Present shoreline",
+     "1,000-fathom line"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "బుల్లార్డ్ 1964లో సమర్పించిన కంప్యూటర్ మ్యాప్‌లో ప్రస్తుత తీరరేఖకు బదులుగా 1,000-ఫాథమ్ రేఖ వద్ద తీరాల కలయికను సరిపోల్చారు.",
+    "en": "The computer-generated match presented by Bullard in 1964 was tried at the 1,000-fathom line instead of the present shoreline."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T12-0163",
+   "section": {
+    "te": "Mediterranean Climate Temperature",
+    "en": "Mediterranean Climate Temperature"
+   },
+   "q": {
+    "te": "మెడిటరేనియన్ శీతోష్ణస్థితి (Cs) లో వేసవి మరియు శీతాకాలంలో సాధారణ నెలవారీ సగటు ఉష్ణోగ్రతలు ఎంత ఉంటాయి?",
+    "en": "What are the typical monthly average temperatures in the Mediterranean climate (Cs) during summer and winter?"
+   },
+   "options": {
+    "te": [
+     "వేసవి: 30°C; శీతాకాలం: 15°C",
+     "వేసవి: 27°C; శీతాకాలం: 5°-12°C",
+     "వేసవి: 20°C; శీతాకాలం: 0°C",
+     "వేసవి: 25°C; శీతాకాలం: 10°C కంటే తక్కువ"
+    ],
+    "en": [
+     "Summer: 30°C; Winter: 15°C",
+     "Summer: 27°C; Winter: 5°-12°C",
+     "Summer: 20°C; Winter: 0°C",
+     "Summer: 25°C; Winter: below 10°C"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మెడిటరేనియన్ శీతోష్ణస్థితిలో, సగటు వేసవి ఉష్ణోగ్రత సుమారు 25°C మరియు శీతాకాలపు ఉష్ణోగ్రత 10°C కంటే తక్కువగా ఉంటుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text specifies that in the Mediterranean climate, the average summer temperature is around 25°C and the winter temperature is below 10°C."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T12-0044",
+   "section": {
+    "te": "Sahara hot desert",
+    "en": "Sahara hot desert"
+   },
+   "q": {
+    "te": "ప్రపంచంలోనే అతిపెద్ద వేడి ఎడారి (hot desert) ఏది?",
+    "en": "Which of the following is identified as the largest hot desert in the world?"
+   },
+   "options": {
+    "te": [
+     "కలహరి ఎడారి",
+     "అటకామా ఎడారి",
+     "సహారా ఎడారి",
+     "థార్ ఎడారి"
+    ],
+    "en": [
+     "Kalahari Desert",
+     "Atacama Desert",
+     "Sahara Desert",
+     "Thar Desert"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సహారా ఎడారి ప్రపంచంలోనే అతిపెద్ద వేడి ఎడారిగా గుర్తించబడింది.",
+    "en": "The Sahara Desert is the largest hot desert in the world."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T12-0104",
+   "section": {
+    "te": "Mid-Oceanic Ridge Rocks",
+    "en": "Mid-Oceanic Ridge Rocks"
+   },
+   "q": {
+    "te": "మధ్య మహాసముద్ర పర్వత శ్రేణుల శిఖరానికి సమీపంలో ఉన్న శిలలకు సంబంధించి, కింది వాటిలో ఏది సరైనది?",
+    "en": "Regarding the rocks near the crest of mid-oceanic ridges, which of the following is correct?"
+   },
+   "options": {
+    "te": [
+     "అవి రివర్స్డ్ పొలారిటీని కలిగి ఉంటాయి మరియు అత్యంత పురాతనమైనవి.",
+     "అవి సాధారణ పొలారిటీని (normal polarity) కలిగి ఉంటాయి మరియు అత్యంత పిన్న వయస్సు గలవి.",
+     "అవి సాధారణ పొలారిటీని కలిగి ఉంటాయి మరియు అత్యంత పురాతనమైనవి.",
+     "అవి రివర్స్డ్ పొలారిటీని కలిగి ఉంటాయి మరియు అత్యంత పిన్న వయస్సు గలవి."
+    ],
+    "en": [
+     "They have reversed polarity and are the oldest.",
+     "They have normal polarity and are the youngest.",
+     "They have normal polarity and are the oldest.",
+     "They have reversed polarity and are the youngest."
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మధ్య మహాసముద్ర పర్వత శ్రేణులకు దగ్గరగా ఉన్న శిలలు సాధారణ పొలారిటీని కలిగి ఉంటాయని మరియు అవి అత్యంత పిన్న వయస్సు గలవని పాఠ్యాంశం పేర్కొంది.",
+    "en": "Rocks closer to the mid-oceanic ridges have normal polarity and are the youngest, with age increasing as one moves away."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T12-0100",
+   "section": {
+    "te": "Mesosaurus Fossils",
+    "en": "Mesosaurus Fossils"
+   },
+   "q": {
+    "te": "దక్షిణాఫ్రికా మరియు బ్రెజిల్‌లో శిలాజాలు లభించిన మెసోసారస్ (Mesosaurus) గురించి కింది వాటిలో ఏది సరైనది?",
+    "en": "Which of the following best describes the Mesosaurus, whose fossils are found in South Africa and Brazil?"
+   },
+   "options": {
+    "te": [
+     "లోతైన మహాసముద్రాలకు అలవాటు పడిన పెద్ద డైనోసార్",
+     "నిస్సారమైన ఉప్పునీటికి (brackish water) అలవాటు పడిన చిన్న సరీసృపం",
+     "ఉష్ణమండల అడవులలో కనిపించే భూమిపై నివసించే క్షీరదం",
+     "ఎత్తైన సరస్సులలో కనిపించే మంచి నీటి చేప"
+    ],
+    "en": [
+     "A large dinosaur adapted to deep oceans",
+     "A small reptile adapted to shallow brackish water",
+     "A land-dwelling mammal found in tropical forests",
+     "A freshwater fish found in high-altitude lakes"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యాంశం మెసోసారస్‌ను నిస్సారమైన ఉప్పునీటికి ప్రత్యేకంగా అలవాటు పడిన చిన్న సరీసృపంగా నిర్వచించింది.",
+    "en": "The text defines Mesosaurus as a small reptile adapted specifically to shallow brackish water."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T12-0001",
+   "section": {
+    "te": "Eurasia Definition",
+    "en": "Eurasia Definition"
+   },
+   "q": {
+    "te": "యూరప్ మరియు ఆసియా కలిసి ఏర్పడిన ఒకే భూభాగాన్ని భూవిజ్ఞాన శాస్త్రవేత్తలు తరచుగా ఏ పేరుతో పిలుస్తారు?",
+    "en": "What name do geologists often use to refer to the single landmass formed by Europe and Asia?"
+   },
+   "options": {
+    "te": [
+     "ఆఫ్రో-యూరేషియా",
+     "అమెరికాస్",
+     "పాంజియా",
+     "యూరేషియా (Eurasia)"
+    ],
+    "en": [
+     "Afro-Eurasia",
+     "Americas",
+     "Pangea",
+     "Eurasia"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, సాంస్కృతిక కారణాల వల్ల యూరప్ మరియు ఆసియాలను తరచుగా రెండు ఖండాలుగా చూసినప్పటికీ, భూవిజ్ఞాన శాస్త్రవేత్తలు వాటిని 'యూరేషియా' అనే ఒకే ఖండంగా పరిగణిస్తారు.",
+    "en": "While Europe and Asia are often seen as two continents for cultural reasons, geologists regard them as a single continent called Eurasia."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T12-0102",
+   "section": {
+    "te": "Rock Age Comparison",
+    "en": "Rock Age Comparison"
+   },
+   "q": {
+    "te": "శిలల వయస్సు గురించి కింది ప్రకటనలను పరిశీలించండి:\n1. సముద్రపు క్రస్ట్ శిలలు ఖండ శిలల కంటే గణనీయంగా తక్కువ వయస్సు గలవి.\n2. సముద్రపు క్రస్ట్‌లోని శిలల గరిష్ట వయస్సు సుమారు 3,200 మిలియన్ సంవత్సరాలు.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the age of rocks:\n1. Oceanic crust rocks are significantly younger than continental rocks.\n2. The maximum age of rocks in the oceanic crust is approximately 3,200 million years.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సముద్రపు శిలలు తక్కువ వయస్సు గలవి కాబట్టి ప్రకటన 1 సరైనది. సముద్రపు క్రస్ట్ శిలల వయస్సు 200 మిలియన్ సంవత్సరాల కంటే ఎక్కువ ఉండదు కాబట్టి ప్రకటన 2 తప్పు; 3,200 మిలియన్ సంవత్సరాలు అనేది ఖండ శిలలకు సంబంధించినది.",
+    "en": "Statement 1 is correct as oceanic rocks are younger. Statement 2 is incorrect because oceanic crust rocks are no more than 200 million years old; 3,200 million years refers to continental rocks."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T12-0081",
+   "section": {
+    "te": "Grand Canyon annual visitors",
+    "en": "Grand Canyon annual visitors"
+   },
+   "q": {
+    "te": "గడిచిన కొన్ని సంవత్సరాలుగా గ్రాండ్ కేనియన్ ఏటా సుమారు ఎంతమంది పర్యాటకులను ఆకర్షిస్తోంది?",
+    "en": "Approximately how many visitors annually has the Grand Canyon attracted over the past several years?"
+   },
+   "options": {
+    "te": [
+     "సుమారు 1 కోటి మంది (10 million)",
+     "సుమారు 50 లక్షల మంది (5 million)",
+     "సుమారు 10 లక్షల మంది (1 million)",
+     "సుమారు 25 లక్షల మంది (2.5 million)"
+    ],
+    "en": [
+     "About 10 million",
+     "About 5 million",
+     "About 1 million",
+     "About 2.5 million"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "గ్రాండ్ కేనియన్‌ను గత కొన్నేళ్లుగా ఏటా దాదాపు 50 లక్షల (5 మిలియన్ల) మంది సందర్శిస్తున్నారు.",
+    "en": "The Grand Canyon has received about 5 million visitors annually over the past several years."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T12-0003",
+   "section": {
+    "te": "Olympic Rings",
+    "en": "Olympic Rings"
+   },
+   "q": {
+    "te": "ఐదు ఒలింపిక్ రింగులు ఐదు నివాసయోగ్యమైన ఖండాలను సూచిస్తాయి. ఈ క్రింది వాటిలో ఆ ఐదు ఖండాలలో లేనిది ఏది?",
+    "en": "The five Olympic rings represent five inhabited continents. Which of the following is NOT one of those five continents?"
+   },
+   "options": {
+    "te": [
+     "ఆస్ట్రేలియా",
+     "యూరప్",
+     "అంటార్కిటికా",
+     "అమెరికా"
+    ],
+    "en": [
+     "Australia",
+     "Europe",
+     "Antarctica",
+     "America"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఒలింపిక్ రింగులు ఆఫ్రికా, అమెరికా, ఆసియా, ఆస్ట్రేలియా మరియు యూరప్‌లను సూచిస్తాయి. అంటార్కిటికా నివాసయోగ్యమైన ఖండంగా పరిగణించబడనందున ఇందులో చేర్చబడలేదు.",
+    "en": "The Olympic rings represent Africa, America, Asia, Australia, and Europe. Antarctica is not included as it is not considered an inhabited continent in this context."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T12-0039",
+   "section": {
+    "te": "Alps river drainage",
+    "en": "Alps river drainage"
+   },
+   "q": {
+    "te": "ఆల్ప్స్ పర్వతాలు ఈ క్రింది ఏ యూరోపియన్ నదీ వ్యవస్థలకు నీటిని అందిస్తాయి?",
+    "en": "The Alps provide water to which of the following European river systems?"
+   },
+   "options": {
+    "te": [
+     "రైన్ నది",
+     "డాన్యూబ్ ఉపనదులు",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "The Rhine",
+     "Tributaries of the Danube",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఆల్ప్స్ పర్వతాలు రైన్ నది మరియు డాన్యూబ్ నది యొక్క ఉపనదులకు నీటిని అందిస్తాయి.",
+    "en": "The Alps supply water to major European rivers including the Rhine and the tributaries of the Danube."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T12-0024",
+   "section": {
+    "te": "Nomadic dwelling",
+    "en": "Nomadic dwelling"
+   },
+   "q": {
+    "te": "స్టెప్పీ ప్రాంత సంచార జాతుల సాంప్రదాయ గుడిసెను ఏమని పిలుస్తారు?",
+    "en": "What is the traditional hut of a nomad in the steppes called?"
+   },
+   "options": {
+    "te": [
+     "క్రాల్",
+     "ఇగ్లూ",
+     "టిపి",
+     "యూర్ట్ (Yurt)"
+    ],
+    "en": [
+     "Kraal",
+     "Igloo",
+     "Tipi",
+     "Yurt"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "స్టెప్పీ సంచార జాతుల నివాస గుడిసెను 'యూర్ట్' అంటారు.",
+    "en": "A yurt is the traditional hut of a nomad living in the steppes."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T12-0133",
+   "section": {
+    "te": "Koeppen's Classification Basis",
+    "en": "Koeppen's Classification Basis"
+   },
+   "q": {
+    "te": "V. కొప్పెన్ తన వాతావరణ వర్గీకరణ పథకాన్ని వాతావరణం మరియు క్రింది వాటిలో దేని మధ్య ఉన్న సన్నిహిత సంబంధం ఆధారంగా అభివృద్ధి చేశారు?",
+    "en": "V. Koeppen developed his climate classification scheme based on the close relationship between climate and which of the following?"
+   },
+   "options": {
+    "te": [
+     "నేల రకాలు",
+     "వృక్షసంపద విస్తరణ",
+     "సముద్ర ప్రవాహాలు",
+     "వాయు పీడనం"
+    ],
+    "en": [
+     "Soil types",
+     "Distribution of vegetation",
+     "Ocean currents",
+     "Atmospheric pressure"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కొప్పెన్ పథకం వృక్షసంపద విస్తరణ మరియు వాతావరణం మధ్య సంబంధంపై ఆధారపడి ఉంటుంది, దీని కోసం ఉష్ణోగ్రత మరియు వర్షపాత డేటాను ఉపయోగిస్తారు.",
+    "en": "Koeppen's scheme is based on the relationship between vegetation distribution and climate, using temperature and precipitation data."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T12-0050",
+   "section": {
+    "te": "Highest peak Western Hemisphere",
+    "en": "Highest peak Western Hemisphere"
+   },
+   "q": {
+    "te": "పశ్చిమ అర్ధగోళంలోనే అత్యంత ఎత్తైన పర్వత శిఖరం ఏది?",
+    "en": "Which of the following is the highest mountain peak in the Western Hemisphere?"
+   },
+   "options": {
+    "te": [
+     "మాంట్ బ్లాంక్",
+     "అకోన్‌కాగ్వా పర్వతం (Mount Aconcagua)",
+     "ఎవరెస్ట్ పర్వతం",
+     "కిలిమంజారో పర్వతం"
+    ],
+    "en": [
+     "Mont Blanc",
+     "Mount Aconcagua",
+     "Mount Everest",
+     "Mount Kilimanjaro"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఆండీస్ పర్వతాలలో ఉన్న అకోన్‌కాగ్వా పర్వతం పశ్చిమ అర్ధగోళంలో అత్యంత ఎత్తైన శిఖరం.",
+    "en": "Mount Aconcagua, situated in the Andes Mountains, is the highest peak in the Western Hemisphere."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T12-0156",
+   "section": {
+    "te": "Humid Subtropical Climate",
+    "en": "Humid Subtropical Climate"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఏ ప్రాంతంలో తేమతో కూడిన ఉపఉష్ణమండల శీతోష్ణస్థితి (Cwa) ప్రధానంగా కనిపిస్తుంది?",
+    "en": "In which of the following regions is the Humid Subtropical climate (Cwa) mainly found?"
+   },
+   "options": {
+    "te": [
+     "ఉత్తర భారత మైదానాలు మరియు దక్షిణ చైనా అంతర్గత మైదానాలు",
+     "తీరప్రాంత దక్షిణాఫ్రికా మరియు తూర్పు ఆస్ట్రేలియా",
+     "సెంట్రల్ కాలిఫోర్నియా మరియు సెంట్రల్ చిలీ",
+     "ఈశాన్య ఆసియా"
+    ],
+    "en": [
+     "North Indian plains and South China interior plains",
+     "Coastal South Africa and Eastern Australia",
+     "Central California and Central Chile",
+     "Northeastern Asia"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "Cwa రకానికి చెందిన తేమతో కూడిన ఉపఉష్ణమండల శీతోష్ణస్థితి ఉష్ణమండలాలకు ధ్రువాల వైపు, ప్రత్యేకంగా ఉత్తర భారత మైదానాలు మరియు దక్షిణ చైనా అంతర్గత మైదానాలలో సంభవిస్తుంది.",
+    "en": "The Cwa type of humid subtropical climate occurs poleward of the tropics, specifically in the North Indian plains and South China interior plains."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T12-0055",
+   "section": {
+    "te": "Amazon River course",
+    "en": "Amazon River course"
+   },
+   "q": {
+    "te": "అమెజాన్ నదికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది పెరూలోని ఆండీస్ పర్వతాలలో ఉద్భవిస్తుంది.\n2. ఇది తూర్పు దిశగా ప్రవహించి అట్లాంటిక్ మహాసముద్రం వైపు వెళుతుంది.\nపై ప్రకటనలలో ఏది/ఏవి సరైనది/సరైనవి?",
+    "en": "Consider the following statements regarding the Amazon River:\n1. It originates in the Andes Mountains in Peru.\n2. It flows eastward and empties towards the Atlantic Ocean.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "2 మాత్రమే",
+     "1 కాదు 2 కాదు"
+    ],
+    "en": [
+     "1 only",
+     "Both 1 and 2",
+     "2 only",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "1 మరియు 2 రెండూ సరైనవే. అమెజాన్ నది పెరూలోని ఆండీస్ పర్వతాలలో జన్మించి తూర్పు వైపుగా అట్లాంటిక్ మహాసముద్రం దిశగా ప్రవహిస్తుంది.",
+    "en": "Both statements are correct: the Amazon River rises in the Andes Mountains of Peru and flows east towards the Atlantic Ocean."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T12-0094",
+   "section": {
+    "te": "Gondwana tillite landmasses",
+    "en": "Gondwana tillite landmasses"
+   },
+   "q": {
+    "te": "భారతదేశంలో కనిపించే గోండ్వానా వ్యవస్థకు చెందిన హిమానీనద టిల్లైట్ నిక్షేపాలు క్రింది ఏ దక్షిణ అర్ధగోళ భూభాగాలలో కూడా కనిపిస్తాయి?\nA: ఆఫ్రికా\nB: ఫాక్‌లాండ్ దీవులు\nC: మడగాస్కర్",
+    "en": "Counterparts of the Gondwana system glacial tillite succession found in India are present in which of the following southern landmasses?\nItem A: Africa\nItem B: Falkland Island\nItem C: Madagascar"
+   },
+   "options": {
+    "te": [
+     "ఆఫ్రికా మాత్రమే",
+     "మడగాస్కర్ మాత్రమే",
+     "A మరియు B రెండూ",
+     "All of the above"
+    ],
+    "en": [
+     "Africa only",
+     "Madagascar only",
+     "Both A and B",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశ గోండ్వానా టిల్లైట్ నిక్షేపాలకు సమానమైన శిలా శ్రేణులు ఆఫ్రికా, ఫాక్‌లాండ్ దీవులు, మడగాస్కర్, అంటార్కిటికా మరియు ఆస్ట్రేలియాలలో కనిపిస్తాయి.",
+    "en": "Counterparts of the Gondwana tillite succession of India are found in Africa, Falkland Island, Madagascar, Antarctica, and Australia."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T12-0114",
+   "section": {
+    "te": "Minor Plates",
+    "en": "Minor Plates"
+   },
+   "q": {
+    "te": "చిన్న పలక అయిన 'కోకోస్ పలక' (Cocos plate) క్రింది వాటిలో దేని మధ్య ఉంది?",
+    "en": "The minor plate 'Cocos plate' is located between which of the following?"
+   },
+   "options": {
+    "te": [
+     "దక్షిణ అమెరికా మరియు పసిఫిక్ పలక",
+     "మధ్య అమెరికా మరియు పసిఫిక్ పలక",
+     "ఫిలిప్పీన్ మరియు భారతీయ పలక",
+     "ఆసియా మరియు పసిఫిక్ పలక"
+    ],
+    "en": [
+     "South America and Pacific plate",
+     "Central America and Pacific plate",
+     "Philippine and Indian plate",
+     "Asiatic and Pacific plate"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కోకోస్ పలక అనేది మధ్య అమెరికా మరియు పసిఫిక్ పలకల మధ్య ఉన్న ఒక చిన్న పలక.",
+    "en": "The Cocos plate is a minor plate situated between Central America and the Pacific plate."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T12-0167",
+   "section": {
+    "te": "Humid Subtropical (Cwa) vs Aw",
+    "en": "Humid Subtropical (Cwa) vs Aw"
+   },
+   "q": {
+    "te": "తేమతో కూడిన ఉపఉష్ణమండల శీతోష్ణస్థితి (Cwa), ఉష్ణమండల తడి మరియు పొడి శీతోష్ణస్థితి (Aw) నుండి ఎలా భిన్నంగా ఉంటుంది?",
+    "en": "How does the Humid Subtropical climate (Cwa) differ from the Tropical Wet and Dry climate (Aw)?"
+   },
+   "options": {
+    "te": [
+     "Aw తో పోలిస్తే Cwa లో శీతాకాలపు ఉష్ణోగ్రతలు వెచ్చగా (warm) ఉంటాయి",
+     "Cwa లో Aw కంటే చల్లని శీతాకాలాలు ఉంటాయి",
+     "Cwa లో Aw కంటే ఎక్కువ వేసవి వర్షపాతం ఉంటుంది",
+     "రెండింటి మధ్య తేడా లేదు"
+    ],
+    "en": [
+     "Cwa has warm winter temperatures compared to Aw",
+     "Cwa has colder winters than Aw",
+     "Cwa has higher summer rainfall than Aw",
+     "There is no difference between the two"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "Cwa లో శీతాకాలపు ఉష్ణోగ్రత వెచ్చగా ఉండటం మినహా, Cwa మరియు Aw ఒకేలా ఉంటాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Cwa is similar to Aw except that the temperature in winter is warm in Cwa."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T12-0015",
+   "section": {
+    "te": "Earth Personification",
+    "en": "Earth Personification"
+   },
+   "q": {
+    "te": "భారతదేశంలో, భూమిని ఏ పేరుతో పిలిచే సజీవ దేవతగా వర్ణిస్తారు?",
+    "en": "In India, the Earth is personified as a living deity known as:"
+   },
+   "options": {
+    "te": [
+     "భూదేవి",
+     "వసుధ",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Bhudevi",
+     "Vasudha",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతదేశంలో భూమిని భూదేవి లేదా వసుధ అని పిలిచే సజీవ దేవతగా వర్ణిస్తారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "In India, the Earth is personified as a living deity often known as Bhudevi or Vasudha."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T12-0022",
+   "section": {
+    "te": "Land of Eternal Blue Sky",
+    "en": "Land of Eternal Blue Sky"
+   },
+   "q": {
+    "te": "సుమారు 8 నుండి 9 నెలల పాటు ఎండతో కూడిన వాతావరణం ఉండటం వల్ల ఏ దేశాన్ని 'శాశ్వత నీలి ఆకాశపు భూమి' (Land of the Eternal Blue Sky) అని పిలుస్తారు?",
+    "en": "Which country is known as the 'Land of the Eternal Blue Sky' due to having about 8 to 9 months of sunny weather?"
+   },
+   "options": {
+    "te": [
+     "కజకిస్తాన్",
+     "టిబెట్",
+     "రష్యా",
+     "మంగోలియా"
+    ],
+    "en": [
+     "Kazakhstan",
+     "Tibet",
+     "Russia",
+     "Mongolia"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "8 నుండి 9 నెలల పాటు ఎండతో కూడిన స్వచ్ఛమైన వాతావరణం ఉండటం వల్ల మంగోలియాను 'శాశ్వత నీలి ఆకాశపు భూమి' అని పిలుస్తారు.",
+    "en": "Mongolia is called the 'Land of the Eternal Blue Sky' because it experiences about 8 to 9 months of sunny weather."
+   }
+  }
+ ]
+}

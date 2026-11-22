@@ -1,0 +1,942 @@
+{
+ "id": "geo-12-c-4",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Continents and World Physical Geography – క్విజ్ 4",
+  "en": "Continents and World Physical Geography – Quiz 4"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T12-0009",
+   "section": {
+    "te": "Continent vs Island",
+    "en": "Continent vs Island"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): నీటితో చుట్టబడి ఉన్నప్పటికీ ఖండాలను ద్వీపాలుగా పరిగణించరు.\nకారణం (R): ద్వీపాలుగా వర్గీకరించబడిన భూభాగాలతో పోలిస్తే ఖండాలు పరిమాణంలో చాలా పెద్దవి.",
+    "en": "Assertion (A): Continents are not considered islands despite being surrounded by water.\nReason (R): Continents are much larger in size compared to landmasses classified as islands."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఖండాలు నీటితో చుట్టబడి ఉన్నప్పటికీ, వాటి భారీ పరిమాణం వాటిని ద్వీపాల నుండి వేరు చేస్తుందని పాఠ్యభాగం వివరిస్తుంది.",
+    "en": "Although continents are surrounded by water, their massive size distinguishes them from islands."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T12-0078",
+   "section": {
+    "te": "Spinifex indigenous population",
+    "en": "Spinifex indigenous population"
+   },
+   "q": {
+    "te": "25,000 సంవత్సరాలకు పైగా ఎడారిలో నివసిస్తున్న స్థానిక ప్రజలైన 'స్పినిఫెక్స్' (Spinifex) ఏ ఖండానికి చెందినవారు?",
+    "en": "The Spinifex, an indigenous population who have lived in the desert for over 25,000 years, belong to which continent?"
+   },
+   "options": {
+    "te": [
+     "ఆస్ట్రేలియా",
+     "దక్షిణ అమెరికా",
+     "ఉత్తర అమెరికా",
+     "ఆఫ్రికా"
+    ],
+    "en": [
+     "Australia",
+     "South America",
+     "North America",
+     "Africa"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "స్పినిఫెక్స్ ప్రజలు ఆస్ట్రేలియాలోని ఎడారిలో 25,000 సంవత్సరాలకు పైగా నివసిస్తున్న స్థానిక జనాభా.",
+    "en": "The Spinifex are an indigenous population of Australia who have lived in the desert for more than 25,000 years."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T12-0122",
+   "section": {
+    "te": "Divergent Boundaries",
+    "en": "Divergent Boundaries"
+   },
+   "q": {
+    "te": "మధ్య అట్లాంటిక్ రిడ్జ్ వద్ద, అమెరికన్ పలక(లు) క్రింది ఏ పలకల నుండి వేరు చేయబడ్డాయి?",
+    "en": "At the Mid-Atlantic Ridge, the American Plate(s) is/are separated from which of the following plates?"
+   },
+   "options": {
+    "te": [
+     "యూరేషియన్ పలక",
+     "ఆఫ్రికన్ పలక",
+     "పసిఫిక్ పలక",
+     "A మరియు B రెండూ"
+    ],
+    "en": [
+     "Eurasian Plate",
+     "African Plate",
+     "Pacific Plate",
+     "Both A and B"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మధ్య అట్లాంటిక్ రిడ్జ్ అనేది అమెరికన్ పలకలను యూరేషియన్ మరియు ఆఫ్రికన్ పలకల నుండి వేరు చేసే అపసరణ సరిహద్దు.",
+    "en": "The Mid-Atlantic Ridge is a divergent boundary separating the American plates from the Eurasian and African plates."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T12-0066",
+   "section": {
+    "te": "Colorado Plateau area",
+    "en": "Colorado Plateau area"
+   },
+   "q": {
+    "te": "నైరుతి యునైటెడ్ స్టేట్స్‌లోని కొలరాడో పీఠభూమి సుమారు ఎంత విస్తీర్ణంలో విస్తరించి ఉంది?",
+    "en": "What is the approximate area covered by the Colorado Plateau in the southwestern United States?"
+   },
+   "options": {
+    "te": [
+     "5,00,000 చదరపు కి.మీ. కంటే ఎక్కువ",
+     "1,50,000 చదరపు కి.మీ. కంటే ఎక్కువ",
+     "2,20,000 చదరపు కి.మీ. కంటే ఎక్కువ",
+     "3,30,000 చదరపు కి.మీ. కంటే ఎక్కువ"
+    ],
+    "en": [
+     "Over 5,00,000 square km",
+     "Over 1,50,000 square km",
+     "Over 2,20,000 square km",
+     "Over 3,30,000 square km"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "కొలరాడో పీఠభూమి 3,30,000 చదరపు కిలోమీటర్లకు పైగా విస్తీర్ణంలో విస్తరించి ఉన్న ఒక పెద్ద ఉన్నత ప్రాంతం.",
+    "en": "The Colorado Plateau is a large highland region covering over 3,30,000 square km."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T12-0034",
+   "section": {
+    "te": "Edelweiss flower classification",
+    "en": "Edelweiss flower classification"
+   },
+   "q": {
+    "te": "ఆల్ప్స్ పర్వతాలలో కనిపించే ప్రసిద్ధ పుష్పం మరియు ఆస్ట్రియా జాతీయ పుష్పమైన ఎడెల్విస్ (Edelweiss) ఏ మొక్కల కుటుంబానికి చెందినది?",
+    "en": "Edelweiss, a well-known flower of the Alps and the national flower of Austria, belongs to which plant family?"
+   },
+   "options": {
+    "te": [
+     "లిల్లీ కుటుంబం",
+     "పొద్దుతిరుగుడు (Sunflower) కుటుంబం",
+     "గులాబీ కుటుంబం",
+     "ఆర్కిడ్ కుటుంబం"
+    ],
+    "en": [
+     "Lily family",
+     "Sunflower family",
+     "Rose family",
+     "Orchid family"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఎడెల్విస్ అనేది ఆస్ట్రియా జాతీయ పుష్పం మరియు ఇది పొద్దుతిరుగుడు (sunflowers) కుటుంబానికి చెందినది.",
+    "en": "Edelweiss is the national flower of Austria and belongs to the family of sunflowers."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T12-0124",
+   "section": {
+    "te": "Minor Plates",
+    "en": "Minor Plates"
+   },
+   "q": {
+    "te": "క్రింది చిన్న పలకలను వాటి స్థానాలతో జతపరచండి:\n1. నజ్కా పలక - i. సౌదీ అరేబియా భూభాగం\n2. అరేబియన్ పలక - ii. దక్షిణ అమెరికా మరియు పసిఫిక్ పలకల మధ్య\n3. ఫిలిప్పీన్ పలక - iii. ఆసియా మరియు పసిఫిక్ పలకల మధ్య",
+    "en": "Match the following minor plates with their locations:\n1. Nazca Plate - i. Saudi Arabian landmass\n2. Arabian Plate - ii. Between South America and Pacific plate\n3. Philippine Plate - iii. Between Asiatic and Pacific plate"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-i, 3-iii",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-iii, 3-i"
+    ],
+    "en": [
+     "1-ii, 2-i, 3-iii",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-iii, 3-i"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నజ్కా దక్షిణ అమెరికా మరియు పసిఫిక్ మధ్య ఉంది; అరేబియన్ సౌదీ భూభాగం; ఫిలిప్పీన్ ఆసియా మరియు పసిఫిక్ పలకల మధ్య ఉంది.",
+    "en": "Nazca is between South America and Pacific; Arabian is Saudi landmass; Philippine is between Asiatic and Pacific plates."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T12-0117",
+   "section": {
+    "te": "Indian Subcontinent",
+    "en": "Indian Subcontinent"
+   },
+   "q": {
+    "te": "వివిధ కాలాల్లో భారత ఉపఖండం యొక్క భౌగోళిక స్థానాన్ని ఏ ప్రాంతం నుండి విశ్లేషించిన శిలల సహాయంతో గుర్తించారు?",
+    "en": "The geological position of the Indian subcontinent in different periods is traced using rocks analyzed from which area?"
+   },
+   "options": {
+    "te": [
+     "దక్కన్ పీఠభూమి",
+     "హిమాలయ ప్రాంతం",
+     "పశ్చిమ కనుమలు",
+     "నాగ్‌పూర్ ప్రాంతం"
+    ],
+    "en": [
+     "Deccan Plateau",
+     "Himalayan region",
+     "Western Ghats",
+     "Nagpur area"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారత ఉపఖండం యొక్క చారిత్రక స్థానాలను గుర్తించడానికి శాస్త్రవేత్తలు నాగ్‌పూర్ ప్రాంతం నుండి విశ్లేషించిన శిలలను ఉపయోగిస్తారు.",
+    "en": "Scientists use rocks analyzed from the Nagpur area to trace the historical positions of the Indian subcontinent."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T12-0008",
+   "section": {
+    "te": "Continent Counts",
+    "en": "Continent Counts"
+   },
+   "q": {
+    "te": "'ఆరు ఖండాల' లెక్కింపుకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఉత్తర అమెరికా మరియు దక్షిణ అమెరికా విడివిడిగా జాబితా చేయబడ్డాయి.\n2. యూరప్ మరియు ఆసియా 'యూరేషియా' అనే ఒకే ఖండంగా జాబితా చేయబడ్డాయి.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the 'Six continents' count:\n1. North America and South America are listed separately.\n2. Europe and Asia are listed as a single continent called Eurasia.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఆరు ఖండాల నమూనాలో, ఉత్తర మరియు దక్షిణ అమెరికాలు విడివిడిగా ఉంటాయి, కానీ యూరప్ మరియు ఆసియాలు కలిసి యూరేషియాగా ఉంటాయి.",
+    "en": "In the six-continent model, North and South America are separate, but Europe and Asia are combined into Eurasia."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T12-0059",
+   "section": {
+    "te": "Moon Valley formation",
+    "en": "Moon Valley formation"
+   },
+   "q": {
+    "te": "అటకామా ఎడారిలోని 'మూన్ వ్యాలీ' (Moon Valley) చంద్రుని ఉపరితలం వంటి భూస్వరూపం ఏర్పడటానికి క్రింది వాటిలో ఏది కారణం?",
+    "en": "The formation of the Moon Valley in the Atacama Desert is attributed to which of the following phenomena?"
+   },
+   "options": {
+    "te": [
+     "భూపటలంలో ఏర్పడిన కదలికలు (Movements in the Earth’s crust)",
+     "అగ్నిపర్వత లావా ప్రవాహాలు",
+     "ఉల్కాపాతం సంభవించడం",
+     "హిమానీనద క్రమక్షయం"
+    ],
+    "en": [
+     "Movements in the Earth's crust",
+     "Volcanic lava flows",
+     "Meteorite impact",
+     "Glacial erosion"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూమి యొక్క పైపెంకు లేదా భూపటలంలో సంభవించిన కదలికల వలన మూన్ వ్యాలీలోని చంద్రుని వంటి నిర్మాణాలు ఏర్పడ్డాయి.",
+    "en": "The moon-like formation of Moon Valley occurred due to movements in the Earth's crust."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T12-0077",
+   "section": {
+    "te": "Camels in Australia origin",
+    "en": "Camels in Australia origin"
+   },
+   "q": {
+    "te": "19వ శతాబ్దంలో అన్వేషణ మరియు వలస పాలనకు సహాయపడటానికి ఒంటెలను క్రింది ఏ ప్రాంతాల నుండి ఆస్ట్రేలియాకు రవాణా చేశారు?",
+    "en": "During the 19th century, camels were transported to Australia to assist in exploration and colonisation from which of the following places?"
+   },
+   "options": {
+    "te": [
+     "భారతదేశం",
+     "ఆఫ్ఘనిస్తాన్",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "India",
+     "Afghanistan",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "19వ శతాబ్దంలో అన్వేషణకు తోడ్పడటానికి భారతదేశం మరియు ఆఫ్ఘనిస్తాన్ వంటి ప్రాంతాల నుండి ఒంటెలను ఆస్ట్రేలియాకు తీసుకువచ్చారు.",
+    "en": "Camels were transported to Australia from places like India and Afghanistan during the 19th century."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T12-0149",
+   "section": {
+    "te": "Aw climate natural vegetation",
+    "en": "Aw climate natural vegetation"
+   },
+   "q": {
+    "te": "ఉష్ణమండల తడి మరియు పొడి శీతోష్ణస్థితి (Aw) ప్రాంతంలో ప్రధానంగా కనిపించే వృక్షసంపద ఏది?",
+    "en": "Which type of vegetation is characteristically found in the Tropical Wet and Dry Climate (Aw) region?"
+   },
+   "options": {
+    "te": [
+     "ఆకురాల్చే అడవులు మరియు చెట్లతో కూడిన గడ్డిభూములు",
+     "శృంగాకార (కోనిఫెరస్) అడవులు",
+     "శాశ్వత నాచు మరియు లైకెన్లు",
+     "దట్టమైన పైకప్పు గల ఉష్ణమండల సతతహరిత అడవులు"
+    ],
+    "en": [
+     "Deciduous forest and tree-shredded grasslands",
+     "Coniferous forest",
+     "Perennial mosses and lichens",
+     "Tropical evergreen forests with dense canopy cover"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "Aw శీతోష్ణస్థితి ప్రాంతంలో ఆకురాల్చే అడవులు మరియు చెట్లతో కూడిన గడ్డిభూములు పెరుగుతాయి.",
+    "en": "In the Aw climate, deciduous forest and tree-shredded grasslands occur."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T12-0014",
+   "section": {
+    "te": "Antarctica Research Focus",
+    "en": "Antarctica Research Focus"
+   },
+   "q": {
+    "te": "అంటార్కిటికాలో భారతీయ శాస్త్రవేత్తలు నిర్వహించే పరిశోధనల ప్రధాన అంశం ఏమిటి?",
+    "en": "What is the primary focus of research conducted by Indian scientists in Antarctica?"
+   },
+   "options": {
+    "te": [
+     "అగ్నిపర్వత కార్యకలాపాలు",
+     "లోతైన సముద్ర తవ్వకాలు",
+     "వాతావరణం మరియు పర్యావరణ పరిణామం",
+     "అంతరిక్ష అన్వేషణ"
+    ],
+    "en": [
+     "Volcanic activity",
+     "Deep sea mining",
+     "Evolution of climate and environment",
+     "Space exploration"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అంటార్కిటికాలోని భారతీయ శాస్త్రవేత్తలు ప్రధానంగా వాతావరణం మరియు పర్యావరణ పరిణామంపై పరిశోధనలు చేస్తారు.",
+    "en": "Indian scientists in Antarctica primarily conduct research on the evolution of climate and the environment."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T12-0111",
+   "section": {
+    "te": "Sea Floor Spreading Mechanism",
+    "en": "Sea Floor Spreading Mechanism"
+   },
+   "q": {
+    "te": "సముద్ర గర్భ విస్తరణ పరికల్పన ప్రకారం, సముద్రపు క్రస్ట్ ఇరువైపులా నెట్టబడటానికి కారణం ఏమిటి?",
+    "en": "According to the sea floor spreading hypothesis, what causes the oceanic crust to push on either side?"
+   },
+   "options": {
+    "te": [
+     "చంద్రుని గురుత్వాకర్షణ శక్తి",
+     "అబిసల్ మైదానాలలో అవక్షేపాల చేరిక",
+     "పగిలిన క్రస్ట్‌లోకి కొత్త లావా చొచ్చుకురావడం",
+     "భూభాగాల గుండా లెమూర్ల కదలిక"
+    ],
+    "en": [
+     "The pull of the moon's gravity",
+     "The accumulation of sediments on abyssal plains",
+     "New lava wedging into the ruptured crust",
+     "The movement of lemurs across landmasses"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పర్వత శ్రేణి శిఖరం వద్ద పేలుళ్లు క్రస్ట్ పగిలిపోవడానికి కారణమవుతాయని, మరియు దానిలోకి కొత్త లావా చొచ్చుకురావడం వల్ల క్రస్ట్ పక్కకు నెట్టబడుతుందని హెస్ వాదించారు.",
+    "en": "Hess argued that eruptions at the ridge crest cause the crust to rupture, and new lava wedging into it pushes the crust aside."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T12-0012",
+   "section": {
+    "te": "Continent Grouping",
+    "en": "Continent Grouping"
+   },
+   "q": {
+    "te": "కొన్ని లెక్కింపు పద్ధతుల్లో ఈ క్రింది ఏ భూభాగాలను కొన్నిసార్లు ఒకే ఖండంగా పరిగణిస్తారు?\nA. ఉత్తర అమెరికా మరియు దక్షిణ అమెరికా\nB. యూరప్ మరియు ఆసియా\nC. ఆఫ్రికా మరియు యూరేషియా",
+    "en": "Which of the following landmasses are sometimes regarded as a single continent in certain counting methods?\nA. North America and South America\nB. Europe and Asia\nC. Africa and Eurasia"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఉత్తర మరియు దక్షిణ అమెరికాలను ఒకటిగా (అమెరికా), యూరప్ మరియు ఆసియాలను ఒకటిగా (యూరేషియా), మరియు ఆఫ్రికా మరియు యూరేషియాలను ఒకటిగా (ఆఫ్రికా-యూరేషియా) చూడవచ్చని పాఠ్యభాగం పేర్కొంది.",
+    "en": "North and South America can be seen as one (America), Europe and Asia as one (Eurasia), and Africa and Eurasia as one (Africa-Eurasia)."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T12-0169",
+   "section": {
+    "te": "Marine West Coast Climate",
+    "en": "Marine West Coast Climate"
+   },
+   "q": {
+    "te": "కింది వాటిలో ఏ ప్రాంతాలలో మెరైన్ వెస్ట్ కోస్ట్ (Marine West Coast) శీతోష్ణస్థితి కనిపిస్తుంది?",
+    "en": "In which of the following regions is the Marine West Coast climate found?"
+   },
+   "options": {
+    "te": [
+     "దక్షిణ చిలీ",
+     "ఆగ్నేయ ఆస్ట్రేలియా",
+     "న్యూజిలాండ్",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Southern Chile",
+     "Southeastern Australia",
+     "New Zealand",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, మెరైన్ వెస్ట్ కోస్ట్ శీతోష్ణస్థితి వాయువ్య యూరప్, ఉత్తర అమెరికా పశ్చిమ తీరం, దక్షిణ చిలీ, ఆగ్నేయ ఆస్ట్రేలియా మరియు న్యూజిలాండ్‌లలో కనిపిస్తుంది.",
+    "en": "The Marine West Coast climate is found in Northwestern Europe, the west coast of North America, southern Chile, southeastern Australia, and New Zealand."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T12-0120",
+   "section": {
+    "te": "Plate Movement Rates",
+    "en": "Plate Movement Rates"
+   },
+   "q": {
+    "te": "పలకల కదలిక రేటును నిర్ణయించడానికి శాస్త్రవేత్తలకు ఏది సహాయపడుతుంది?",
+    "en": "What helps scientists determine the rates of plate movement?"
+   },
+   "options": {
+    "te": [
+     "సాధారణ మరియు వ్యతిరేక అయస్కాంత క్షేత్ర పట్టీలు",
+     "ఖండ భూపటలం యొక్క మందం",
+     "భూమి యొక్క భ్రమణ వేగం",
+     "సముద్ర గర్భం యొక్క లోతు"
+    ],
+    "en": [
+     "Strips of normal and reverse magnetic field",
+     "The thickness of the continental crust",
+     "The rotation speed of the earth",
+     "The depth of the ocean floor"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మధ్య-మహాసముద్రపు రిడ్జ్‌లకు సమాంతరంగా ఉండే అయస్కాంత క్షేత్ర పట్టీలు (సాధారణ మరియు వ్యతిరేక) పలకలు ఎంత వేగంగా కదులుతాయో లెక్కించడానికి ఉపయోగించబడతాయి.",
+    "en": "Magnetic field strips (normal and reverse) parallel to mid-oceanic ridges are used to calculate how fast plates move."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T12-0033",
+   "section": {
+    "te": "Alps mountain peaks",
+    "en": "Alps mountain peaks"
+   },
+   "q": {
+    "te": "ప్రసిద్ధ పర్వత శిఖరాలలో ఒకటైన 'మాంట్ బ్లాంక్' ఏ పర్వత శ్రేణిలో ఉంది?",
+    "en": "Mont Blanc, one of the most famous mountain peaks, is located in which mountain range?"
+   },
+   "options": {
+    "te": [
+     "ఆండీస్",
+     "హిమాలయాలు",
+     "యూరల్స్",
+     "ఆల్ప్స్"
+    ],
+    "en": [
+     "The Andes",
+     "The Himalayas",
+     "The Urals",
+     "The Alps"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, దక్షిణ-మధ్య ఐరోపాలో సహజ సరిహద్దుగా ఉన్న ఆల్ప్స్ పర్వతాలలో మాంట్ బ్లాంక్ వంటి ప్రసిద్ధ శిఖరాలు ఉన్నాయి.",
+    "en": "The Alps form a natural barrier in south-central Europe and contain famous peaks such as Mont Blanc."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T12-0175",
+   "section": {
+    "te": "Iceberg Formation",
+    "en": "Iceberg Formation"
+   },
+   "q": {
+    "te": "ప్రతిపాదన (A): ఐస్ క్యాప్ శీతోష్ణస్థితులలో, మంచు పలకలు విరిగి ఆర్కిటిక్ మరియు అంటార్కిటిక్ జలాల్లో మంచు పర్వతాలుగా (icebergs) కదులుతాయి.\nకారణం (R): మంచు పేరుకుపోవడం వల్ల కలిగే ఒత్తిడి మంచు పలకల రూపమార్పుకు (deformation) మరియు అవి విరగడానికి కారణమవుతుంది.",
+    "en": "Assertion (A): In Ice Cap climates, ice sheets break and move as icebergs in Arctic and Antarctic waters.\nReason (R): The accumulation of snow and ice creates mounting pressure that causes the deformation of ice sheets."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ సరైనవి మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ సరైనవి కానీ A కి R సరైన వివరణ కాదు",
+     "A సరైనది కానీ R తప్పు",
+     "A తప్పు కానీ R సరైనది"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పేరుకుపోయిన మంచు నుండి వచ్చే ఒత్తిడి మంచు పలకలను విరూపణం చేసి విచ్ఛిన్నం చేయడం వల్ల మంచు పర్వతాలు ఏర్పడతాయని పాఠ్యభాగం వివరిస్తుంది.",
+    "en": "Icebergs are formed because the pressure from accumulated snow and ice deforms and breaks the ice sheets."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T12-0069",
+   "section": {
+    "te": "Rocky Mountains length",
+    "en": "Rocky Mountains length"
+   },
+   "q": {
+    "te": "ఉత్తర అమెరికాలోని రాకీ పర్వతాలు మొత్తం ఎంత పొడవునా విస్తరించి ఉన్నాయి?",
+    "en": "What is the total length over which the Rocky Mountains stretch in North America?"
+   },
+   "options": {
+    "te": [
+     "6,500 కి.మీ. కంటే ఎక్కువ",
+     "4,800 కి.మీ. కంటే ఎక్కువ",
+     "4,000 కి.మీ. కంటే ఎక్కువ",
+     "3,200 కి.మీ. కంటే ఎక్కువ"
+    ],
+    "en": [
+     "Over 6,500 km",
+     "Over 4,800 km",
+     "Over 4,000 km",
+     "Over 3,200 km"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "రాకీ పర్వతాలు దాదాపు 4,800 కిలోమీటర్లకు పైగా విస్తరించి ఉన్నాయి.",
+    "en": "The Rocky Mountains stretch over a distance of more than 4,800 km."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T12-0129",
+   "section": {
+    "te": "Indian Plate Boundary",
+    "en": "Indian Plate Boundary"
+   },
+   "q": {
+    "te": "భారతీయ ఫలకం యొక్క ఉత్తర సరిహద్దుకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది హిమాలయాల వెంబడి సబ్డక్షన్ జోన్ (subduction zone) ద్వారా గుర్తించబడింది.\n2. ఇది ఖండ-ఖండ అభిసరణ (continent-continent convergence) ద్వారా వర్గీకరించబడుతుంది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the northern boundary of the Indian plate:\n1. It is marked by a subduction zone along the Himalayas.\n2. It is characterized by continent-continent convergence.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతీయ ఫలకం యొక్క ఉత్తర సరిహద్దు హిమాలయాల వెంబడి ఉన్న సబ్డక్షన్ జోన్, ఇది ఖండ-ఖండ అభిసరణను కలిగి ఉంటుంది.",
+    "en": "The northern boundary of the Indian plate is a subduction zone along the Himalayas involving continent-continent convergence."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T12-0161",
+   "section": {
+    "te": "Polar Climates (E)",
+    "en": "Polar Climates (E)"
+   },
+   "q": {
+    "te": "సాధారణంగా ఏ అక్షాంశానికి ఆవల ధ్రువ శీతోష్ణస్థితులు (E) ఉంటాయి?",
+    "en": "Beyond which latitude do Polar climates (E) typically exist?"
+   },
+   "options": {
+    "te": [
+     "50° అక్షాంశం",
+     "60° అక్షాంశం",
+     "70° అక్షాంశం",
+     "80° అక్షాంశం"
+    ],
+    "en": [
+     "50° latitude",
+     "60° latitude",
+     "70° latitude",
+     "80° latitude"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ధ్రువ శీతోష్ణస్థితులు 70° అక్షాంశానికి ఆవల ధ్రువాల వైపు కనిపిస్తాయి.",
+    "en": "Polar climates are found poleward beyond the 70° latitude mark."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T12-0135",
+   "section": {
+    "te": "Koeppen Small Letters",
+    "en": "Koeppen Small Letters"
+   },
+   "q": {
+    "te": "కొప్పెన్ వర్గీకరణలో, చిన్న అక్షరం 'f' పొడి కాలానికి (season of dryness) సంబంధించి దేనిని సూచిస్తుంది?",
+    "en": "In Koeppen's classification, what does the small letter 'f' indicate regarding the season of dryness?"
+   },
+   "options": {
+    "te": [
+     "రుతుపవన రకం",
+     "పొడి వేసవి",
+     "పొడి శీతాకాలం",
+     "పొడి కాలం లేదు"
+    ],
+    "en": [
+     "Monsoon type",
+     "Dry summer",
+     "Dry winter",
+     "No dry season"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "చిన్న అక్షరం 'f' అంటే 'పొడి కాలం లేదు' అని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text specifies that the small letter 'f' corresponds to 'no dry season'."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T12-0013",
+   "section": {
+    "te": "Continent Count Usage",
+    "en": "Continent Count Usage"
+   },
+   "q": {
+    "te": "ఖండాల లెక్కింపుకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఖండాలను నాలుగు నుండి ఏడు మధ్య ఏ సంఖ్యలోనైనా జాబితా చేయవచ్చు.\n2. ఏడు ఖండాల జాబితా ఆచరణలో అత్యంత విస్తృతంగా ఆమోదించబడినది మరియు ఉపయోగించబడుతున్నది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements about the count of continents:\n1. Continents can be listed in any number between four and seven.\n2. The list of seven continents is the most widely adopted and used in practice.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఖండాలను అనేక విధాలుగా (4 నుండి 7 వరకు) లెక్కించవచ్చని, అయితే 7-ఖండాల నమూనా ప్రామాణికమని పాఠ్యభాగం వివరిస్తుంది.",
+    "en": "Continents can be counted in multiple ways (4 to 7) but the 7-continent model is the standard practice."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T12-0021",
+   "section": {
+    "te": "Desert geography facts",
+    "en": "Desert geography facts"
+   },
+   "q": {
+    "te": "ఎడారులకు సంబంధించి క్రింది ప్రకటనలను పరిగణించండి:\n1. ఎడారులు భూమి యొక్క భూభాగంలో దాదాపు ఐదవ వంతును ఆక్రమించాయి.\n2. యూరప్ మినహా ప్రతి ఖండంలోనూ ఎడారులు ఉన్నాయి.\n3. ప్రపంచ జనాభాలో దాదాపు ఎనిమిదవ వంతు ప్రజలు ఎడారులలో నివసిస్తున్నారు.\nపై ప్రకటనలలో సరైనవి ఏవి?",
+    "en": "Consider the following statements regarding deserts:\n1. Deserts cover approximately one-fifth of the Earth's land area.\n2. Deserts are found on every continent except Europe.\n3. Around one-eighth of the world's population lives in deserts.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "1 and 3 only",
+     "2 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రతి ఖండంలోనూ ఎడారులు ఉన్నాయని పాఠ్యాంశం పేర్కొంది, కాబట్టి ప్రకటన 2 తప్పు. 1 మరియు 3 ప్రకటనలు సరైనవి.",
+    "en": "Statement 2 is incorrect because the text explicitly states that deserts are found on every continent. Statements 1 and 3 are correct."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T12-0110",
+   "section": {
+    "te": "Abyssal Plains Sedimentation",
+    "en": "Abyssal Plains Sedimentation"
+   },
+   "q": {
+    "te": "అబిసల్ మైదానాలలో ప్రధానంగా ఏ రకమైన పదార్థం నిక్షిప్తమవుతుంది?",
+    "en": "What type of material is primarily deposited in the abyssal plains?"
+   },
+   "options": {
+    "te": [
+     "మాంటిల్ నుండి వచ్చే రేడియోధార్మిక మూలకాలు",
+     "పర్వత శ్రేణుల నుండి వచ్చే అగ్నిపర్వత బూడిద",
+     "ఖండాల అవక్షేపాలు (Continental sediments)",
+     "ఘనా తీరం నుండి వచ్చే బంగారం"
+    ],
+    "en": [
+     "Radioactive elements from the mantle",
+     "Volcanic ash from the ridges",
+     "Continental sediments",
+     "Gold from the Ghana coast"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అబిసల్ మైదానాలు ఖండాల అంచుల దాటి వెళ్ళే ఖండ అవక్షేపాలు నిక్షిప్తమయ్యే ప్రాంతాలు.",
+    "en": "The abyssal plains are areas where continental sediments that move beyond the margins are deposited."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T12-0139",
+   "section": {
+    "te": "Western Margin of Indian Plate",
+    "en": "Western Margin of Indian Plate"
+   },
+   "q": {
+    "te": "భారతీయ ఫలకం యొక్క పశ్చిమ అంచుతో (western margin) క్రింది ఏ భౌగోళిక లక్షణాలు సంబంధం కలిగి ఉన్నాయి?",
+    "en": "Which of the following geographical features are associated with the western margin of the Indian plate?"
+   },
+   "options": {
+    "te": [
+     "కిర్తార్ పర్వతం",
+     "మకరానా తీరం",
+     "ఎర్ర సముద్రపు చీలిక (Red Sea rift)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Kirthar Mountain",
+     "Makrana coast",
+     "Red Sea rift",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతీయ ఫలకం యొక్క పశ్చిమ అంచులో భాగంగా కిర్తార్ పర్వతం, మకరానా తీరం మరియు ఎర్ర సముద్రపు చీలికలను పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text lists Kirthar Mountain, Makrana coast, and the Red Sea rift as parts of the western margin of the Indian plate."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T12-0108",
+   "section": {
+    "te": "Convectional Current Theory Purpose",
+    "en": "Convectional Current Theory Purpose"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): ఆర్థర్ హోమ్స్ 1930లలో మాంటిల్‌లో సంవహన ప్రవాహాల సంభావ్యతను చర్చించారు.\nకారణం (R): ఇది ఖండాల కదలిక వెనుక ఉన్న శక్తికి వివరణ ఇచ్చే ప్రయత్నం, దీనిని అప్పటి శాస్త్రవేత్తలు ప్రశ్నించారు.",
+    "en": "Assertion (A): Arthur Holmes discussed the possibility of convection currents in the mantle in the 1930s.\nReason (R): It was an attempt to provide an explanation for the force behind continental movement, which contemporary scientists had questioned."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఖండాలను కదిలించే శక్తిని వివరించడానికి హోమ్స్ సంవహన ప్రవాహాలను ప్రతిపాదించారు, ఇది ఖండ చలన సిద్ధాంతంపై ఉన్న ప్రధాన విమర్శను పరిష్కరించింది.",
+    "en": "Holmes proposed convection currents to explain the force moving continents, addressing the main criticism of the continental drift theory."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T12-0097",
+   "section": {
+    "te": "Ghana Gold Deposits",
+    "en": "Ghana Gold Deposits"
+   },
+   "q": {
+    "te": "ఘనా తీరంలో లభించే సమృద్ధిగా ఉన్న బంగారు నిక్షేపాలు (placer deposits) కింది ఏ ప్రాంతం నుండి ఉద్భవించాయని నమ్ముతారు?",
+    "en": "The rich placer deposits of gold found on the Ghana coast are believed to have originated from which of the following regions?"
+   },
+   "options": {
+    "te": [
+     "మడగాస్కర్ పీఠభూమి",
+     "బ్రెజిల్ పీఠభూమి",
+     "ఇరావర్ ఫార్మేషన్స్",
+     "దక్షిణ కేప్ ప్రావిన్స్"
+    ],
+    "en": [
+     "The Madagascar plateau",
+     "The Brazil plateau",
+     "The Iraver formations",
+     "The Southern Cape province"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, బంగారు సిరలు బ్రెజిల్‌లో ఉన్నాయి మరియు ఖండాలు కలిసి ఉన్నప్పుడు ఘనా నిక్షేపాలు అక్కడి నుండే వచ్చాయి.",
+    "en": "The gold-bearing veins are located in Brazil, and the Ghana deposits were derived from there when the continents were joined."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T12-0017",
+   "section": {
+    "te": "Third Pole designation",
+    "en": "Third Pole designation"
+   },
+   "q": {
+    "te": "శాస్త్రవేత్తలు టిబెట్ పీఠభూమిని మరియు దాని పర్వతాలను 'మూడవ ధ్రువం' (Third Pole) అని ఎందుకు పిలుస్తారు?",
+    "en": "Why do scientists refer to the Tibetan Plateau and its surrounding mountains as the 'Third Pole'?"
+   },
+   "options": {
+    "te": [
+     "ఇక్కడ ఆరు నెలల పగలు మరియు ఆరు నెలల రాత్రి నిరంతరం ఉంటాయి",
+     "ఇది భూమిపైనే అత్యల్ప ఉష్ణోగ్రతలను నమోదు చేస్తుంది",
+     "ఇది ఖచ్చితంగా ఉత్తర మరియు దక్షిణ ధ్రువాల మధ్య ఉంది",
+     "ఇది ధ్రువ ప్రాంతాల వెలుపల అతిపెద్ద మంచినీటి నిల్వలను కలిగి ఉంది"
+    ],
+    "en": [
+     "It experiences continuous six-month daylight and darkness",
+     "It has the lowest recorded temperatures on Earth",
+     "It lies exactly between the North and South Poles",
+     "It contains the largest reserves of freshwater outside the polar regions"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ధ్రువ ప్రాంతాల వెలుపల ప్రపంచంలోనే అతిపెద్ద మంచినీటి నిల్వలు ఉండటం వల్ల టిబెట్ పీఠభూమిని 'మూడవ ధ్రువం' అని పిలుస్తారు.",
+    "en": "Scientists designate the Tibetan Plateau as the 'Third Pole' because it holds the largest freshwater reserves outside the polar regions."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T12-0132",
+   "section": {
+    "te": "Climate Classification Approaches",
+    "en": "Climate Classification Approaches"
+   },
+   "q": {
+    "te": "క్రింది వాతావరణ వర్గీకరణ విధానాలను వాటి ప్రాతిపదికతో జతపరచండి:\n1. అనుభవాత్మక (Empirical) - i. నిర్దిష్ట ప్రయోజనం\n2. జన్యుపరమైన (Genetic) - ii. గమనించిన డేటా (ఉష్ణోగ్రత/వర్షపాతం)\n3. అనువర్తిత (Applied) - iii. కారణాలు",
+    "en": "Match the following climate classification approaches with their basis:\n1. Empirical - i. Specific purpose\n2. Genetic - ii. Observed data (temp/precip)\n3. Applied - iii. Causes"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-iii, 3-i",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-i, 3-iii"
+    ],
+    "en": [
+     "1-ii, 2-iii, 3-i",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-i, 3-iii"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అనుభవాత్మక వర్గీకరణ గమనించిన డేటాపై, జన్యుపరమైనది కారణాలపై మరియు అనువర్తిత వర్గీకరణ నిర్దిష్ట ప్రయోజనాలపై ఆధారపడి ఉంటుంది.",
+    "en": "Empirical is based on observed data, Genetic on causes, and Applied is for specific purposes."
+   }
+  }
+ ]
+}

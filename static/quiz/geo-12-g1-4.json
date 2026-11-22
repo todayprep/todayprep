@@ -1,0 +1,942 @@
+{
+ "id": "geo-12-g1-4",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Continents and World Physical Geography – క్విజ్ 4",
+  "en": "Continents and World Physical Geography – Quiz 4"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T12-0060",
+   "section": {
+    "te": "Rainbow Valley features",
+    "en": "Rainbow Valley features"
+   },
+   "q": {
+    "te": "అటకామా ఎడారిలోని 'రెయిన్‌బో వ్యాలీ' (Rainbow Valley) లో కనిపించే వివిధ రంగులకు కారణం ఏమిటి?",
+    "en": "In the Rainbow Valley of the Atacama Desert, what gives rise to the diverse colors seen in the landforms?"
+   },
+   "options": {
+    "te": [
+     "నేలలోని వివిధ ఖనిజాలు",
+     "ఎడారి సూర్యకాంతి ప్రతిబింబం",
+     "సీజనల్ నాచు/ఆల్గే పెరుగుదల",
+     "కుళ్ళిన వృక్షసంపద"
+    ],
+    "en": [
+     "Different minerals in the soil",
+     "Reflection of desert sunlight",
+     "Seasonal growth of algae",
+     "Decaying vegetation"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నేలలో ఉండే వివిధ రకాల ఖనిజాల వలన రెయిన్‌బో వ్యాలీలో రకరకాల రంగులు కనిపిస్తాయి.",
+    "en": "The distinct colors of Rainbow Valley in the Atacama Desert originate from different minerals present in the soil."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T12-0039",
+   "section": {
+    "te": "Alps river drainage",
+    "en": "Alps river drainage"
+   },
+   "q": {
+    "te": "ఆల్ప్స్ పర్వతాలు ఈ క్రింది ఏ యూరోపియన్ నదీ వ్యవస్థలకు నీటిని అందిస్తాయి?",
+    "en": "The Alps provide water to which of the following European river systems?"
+   },
+   "options": {
+    "te": [
+     "రైన్ నది",
+     "డాన్యూబ్ ఉపనదులు",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "The Rhine",
+     "Tributaries of the Danube",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఆల్ప్స్ పర్వతాలు రైన్ నది మరియు డాన్యూబ్ నది యొక్క ఉపనదులకు నీటిని అందిస్తాయి.",
+    "en": "The Alps supply water to major European rivers including the Rhine and the tributaries of the Danube."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T12-0139",
+   "section": {
+    "te": "Western Margin of Indian Plate",
+    "en": "Western Margin of Indian Plate"
+   },
+   "q": {
+    "te": "భారతీయ ఫలకం యొక్క పశ్చిమ అంచుతో (western margin) క్రింది ఏ భౌగోళిక లక్షణాలు సంబంధం కలిగి ఉన్నాయి?",
+    "en": "Which of the following geographical features are associated with the western margin of the Indian plate?"
+   },
+   "options": {
+    "te": [
+     "కిర్తార్ పర్వతం",
+     "మకరానా తీరం",
+     "ఎర్ర సముద్రపు చీలిక (Red Sea rift)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Kirthar Mountain",
+     "Makrana coast",
+     "Red Sea rift",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతీయ ఫలకం యొక్క పశ్చిమ అంచులో భాగంగా కిర్తార్ పర్వతం, మకరానా తీరం మరియు ఎర్ర సముద్రపు చీలికలను పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text lists Kirthar Mountain, Makrana coast, and the Red Sea rift as parts of the western margin of the Indian plate."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T12-0002",
+   "section": {
+    "te": "Continent Counts",
+    "en": "Continent Counts"
+   },
+   "q": {
+    "te": "ఖండాలను కేవలం నాలుగుగా లెక్కించే వర్గీకరణలో, ఈ క్రింది వాటిలో ఏది ఒకే ఖండంగా జాబితా చేయబడింది?",
+    "en": "In the classification where only four continents are counted, which of the following is listed as a single continent?"
+   },
+   "options": {
+    "te": [
+     "ఉత్తర అమెరికా",
+     "యూరప్",
+     "ఆఫ్రికా-యూరేషియా (Africa-Eurasia)",
+     "ఆసియా"
+    ],
+    "en": [
+     "North America",
+     "Europe",
+     "Africa-Eurasia",
+     "Asia"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నాలుగు ఖండాల నమూనాలో, ఆఫ్రికా, యూరప్ మరియు ఆసియాలను కలిపి ఆఫ్రికా-యూరేషియా అనే ఒకే భూభాగంగా పిలుస్తారు.",
+    "en": "In the four-continent model, Africa, Europe, and Asia are combined into one landmass called Africa-Eurasia."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T12-0155",
+   "section": {
+    "te": "Mediterranean Climate",
+    "en": "Mediterranean Climate"
+   },
+   "q": {
+    "te": "మెడిటరేనియన్ శీతోష్ణస్థితి (Cs) కి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఈ ప్రాంతాలు వేసవిలో ఉపఉష్ణమండల అధిక పీడనం (subtropical high) ప్రభావంలో ఉంటాయి.\n2. ఈ ప్రాంతాలు శీతాకాలంలో పశ్చిమ పవనాల (westerly winds) ప్రభావంలో ఉంటాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the Mediterranean climate (Cs):\n1. These areas are influenced by the subtropical high in summer.\n2. These areas are influenced by westerly winds in winter.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మెడిటరేనియన్ శీతోష్ణస్థితి వేసవిలో ఉపఉష్ణమండల అధిక పీడనం (పొడి పరిస్థితులకు కారణం) మరియు శీతాకాలంలో పశ్చిమ పవనాల (వర్షపాతానికి కారణం) ప్రభావంతో ఉంటుంది.",
+    "en": "The Mediterranean climate is characterized by the influence of the subtropical high in summer (causing dry conditions) and westerly winds in winter (causing rainfall)."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T12-0026",
+   "section": {
+    "te": "Steppes as carbon sink",
+    "en": "Steppes as carbon sink"
+   },
+   "q": {
+    "te": "ఈ క్రింది రెండు ప్రకటనలను పరిశీలించండి:\nనిశ్చిత వాక్యం (A): యురేషియన్ స్టెప్పీలు ప్రపంచ కార్బన్ సింక్ (carbon sink) గా పనిచేస్తాయి.\nకారణం (R): ఇవి గాలిలోని కార్బన్‌ను గ్రహించి భూగర్భంలో నిల్వ చేస్తాయి, తద్వారా గ్రీన్‌హౌస్ ప్రభావాన్ని తగ్గించడంలో సహాయపడతాయి.\nపై ప్రకటనల సందర్భంలో, క్రింది వాటిలో ఏది సరైనది?",
+    "en": "Given below are two statements:\nAssertion (A): The Eurasian Steppes function as a global carbon sink.\nReason (R): They absorb carbon from the air and store it underground, helping reduce greenhouse effects.\nIn the context of the statements above, which one of the following is correct?"
+   },
+   "options": {
+    "te": [
+     "(A) మరియు (R) రెండూ సరైనవి, మరియు (A) కి (R) సరైన వివరణ.",
+     "(A) మరియు (R) రెండూ సరైనవి, కానీ (A) కి (R) సరైన వివరణ కాదు.",
+     "(A) సరైనది, కానీ (R) తప్పు.",
+     "(A) తప్పు, కానీ (R) సరైనది."
+    ],
+    "en": [
+     "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+     "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+     "(A) is true, but (R) is false.",
+     "(A) is false, but (R) is true."
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "స్టెప్పీలు గాలిలోని కార్బన్‌ను పీల్చుకుని భూమిలో భద్రపరచడం ద్వారా గ్రీన్‌హౌస్ ప్రభావాన్ని తగ్గిస్తాయి కాబట్టి వాటిని కార్బన్ సింక్ అంటారు.",
+    "en": "The steppes act as a global carbon sink precisely because they take in carbon dioxide from the atmosphere and lock it away underground."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T12-0046",
+   "section": {
+    "te": "Savannah location",
+    "en": "Savannah location"
+   },
+   "q": {
+    "te": "భౌగోళికంగా, సవన్నా పర్యావరణ వ్యవస్థ ప్రధానంగా ఈ క్రింది ఏ ప్రాంతాల మధ్య విస్తరించి ఉంది?",
+    "en": "Geographically, between which of the following regions does the savannah ecosystem primarily lie?"
+   },
+   "options": {
+    "te": [
+     "టైగా అడవులు మరియు తీర మైదానాలు",
+     "ఉష్ణమండల వర్షారణ్యాలు మరియు ఎడారులు",
+     "సమశీతోష్ణ గడ్డిభూములు మరియు టండ్రా",
+     "ఆకురాల్చే అడవులు మరియు ధ్రువ మంచు పలకలు"
+    ],
+    "en": [
+     "Taiga forests and coastal plains",
+     "Tropical rainforests and deserts",
+     "Temperate grasslands and tundra",
+     "Deciduous forests and polar ice caps"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సవన్నా పర్యావరణ వ్యవస్థ ప్రధానంగా ఉష్ణమండల వర్షారణ్యాలు మరియు ఎడారుల మధ్య విస్తరించి ఉందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The savannah ecosystem lies mainly between tropical rainforests and deserts."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T12-0114",
+   "section": {
+    "te": "Minor Plates",
+    "en": "Minor Plates"
+   },
+   "q": {
+    "te": "చిన్న పలక అయిన 'కోకోస్ పలక' (Cocos plate) క్రింది వాటిలో దేని మధ్య ఉంది?",
+    "en": "The minor plate 'Cocos plate' is located between which of the following?"
+   },
+   "options": {
+    "te": [
+     "దక్షిణ అమెరికా మరియు పసిఫిక్ పలక",
+     "ఆసియా మరియు పసిఫిక్ పలక",
+     "మధ్య అమెరికా మరియు పసిఫిక్ పలక",
+     "ఫిలిప్పీన్ మరియు భారతీయ పలక"
+    ],
+    "en": [
+     "South America and Pacific plate",
+     "Asiatic and Pacific plate",
+     "Central America and Pacific plate",
+     "Philippine and Indian plate"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కోకోస్ పలక అనేది మధ్య అమెరికా మరియు పసిఫిక్ పలకల మధ్య ఉన్న ఒక చిన్న పలక.",
+    "en": "The Cocos plate is a minor plate situated between Central America and the Pacific plate."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T12-0106",
+   "section": {
+    "te": "Ocean Floor Consumption",
+    "en": "Ocean Floor Consumption"
+   },
+   "q": {
+    "te": "హెస్ ప్రకారం, సముద్రపు అడుగుభాగం ఎక్కడ మునిగిపోయి వినియోగించబడుతుంది (consumed)?",
+    "en": "According to Hess, where does the ocean floor sink and get consumed?"
+   },
+   "options": {
+    "te": [
+     "మహాసముద్ర కందకాల (oceanic trenches) వద్ద",
+     "ఖండాల అంచుల వద్ద",
+     "అబిసల్ మైదానాల వద్ద",
+     "మధ్య మహాసముద్ర పర్వత శ్రేణుల వద్ద"
+    ],
+    "en": [
+     "At the oceanic trenches",
+     "At the continental margins",
+     "At the abyssal plains",
+     "At the mid-oceanic ridges"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సముద్రపు అడుగుభాగం మహాసముద్ర కందకాల వద్ద మునిగిపోయి వినియోగించబడుతుందని హెస్ పేర్కొన్నారు.",
+    "en": "Hess maintained that the ocean floor sinks down and is consumed at the oceanic trenches."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T12-0103",
+   "section": {
+    "te": "Sea Floor Spreading",
+    "en": "Sea Floor Spreading"
+   },
+   "q": {
+    "te": "1961లో 'సముద్ర గర్భ విస్తరణ' (Sea Floor Spreading) పరికల్పనను ఎవరు ప్రతిపాదించారు?",
+    "en": "Who proposed the hypothesis of 'Sea Floor Spreading' in 1961?"
+   },
+   "options": {
+    "te": [
+     "ఆర్థర్ హోమ్స్",
+     "మెకెంజీ మరియు పార్కర్",
+     "హెస్ (Hess)",
+     "మోర్గాన్"
+    ],
+    "en": [
+     "Arthur Holmes",
+     "McKenzie and Parker",
+     "Hess",
+     "Morgan"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అయస్కాంత ధర్మాలు మరియు ఇతర వాస్తవాల విశ్లేషణ ఆధారంగా 1961లో హెస్ సముద్ర గర్భ విస్తరణ పరికల్పనను ప్రతిపాదించారు.",
+    "en": "Hess proposed the sea floor spreading hypothesis in 1961 based on the analysis of magnetic properties and other facts."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T12-0102",
+   "section": {
+    "te": "Rock Age Comparison",
+    "en": "Rock Age Comparison"
+   },
+   "q": {
+    "te": "శిలల వయస్సు గురించి కింది ప్రకటనలను పరిశీలించండి:\n1. సముద్రపు క్రస్ట్ శిలలు ఖండ శిలల కంటే గణనీయంగా తక్కువ వయస్సు గలవి.\n2. సముద్రపు క్రస్ట్‌లోని శిలల గరిష్ట వయస్సు సుమారు 3,200 మిలియన్ సంవత్సరాలు.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the age of rocks:\n1. Oceanic crust rocks are significantly younger than continental rocks.\n2. The maximum age of rocks in the oceanic crust is approximately 3,200 million years.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సముద్రపు శిలలు తక్కువ వయస్సు గలవి కాబట్టి ప్రకటన 1 సరైనది. సముద్రపు క్రస్ట్ శిలల వయస్సు 200 మిలియన్ సంవత్సరాల కంటే ఎక్కువ ఉండదు కాబట్టి ప్రకటన 2 తప్పు; 3,200 మిలియన్ సంవత్సరాలు అనేది ఖండ శిలలకు సంబంధించినది.",
+    "en": "Statement 1 is correct as oceanic rocks are younger. Statement 2 is incorrect because oceanic crust rocks are no more than 200 million years old; 3,200 million years refers to continental rocks."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T12-0027",
+   "section": {
+    "te": "Migratory birds in Steppes",
+    "en": "Migratory birds in Steppes"
+   },
+   "q": {
+    "te": "స్టెప్పీలు మరియు సమీపంలోని నీటి వనరులను విశ్రాంతి స్థావరాలుగా ఉపయోగించుకునే వలస పక్షిగా పాఠ్యాంశంలో ఏది పేర్కొనబడింది?",
+    "en": "Which migratory bird is specifically mentioned as using the steppes and nearby water bodies as resting spots?"
+   },
+   "options": {
+    "te": [
+     "బార్-హెడెడ్ గూస్",
+     "సైబీరియన్ కొంగ (Siberian crane)",
+     "ఫ్లెమింగో",
+     "పెలికాన్"
+    ],
+    "en": [
+     "Bar-headed goose",
+     "Siberian crane",
+     "Flamingo",
+     "Pelican"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సైబీరియన్ కొంగ వంటి వలస పక్షులు స్టెప్పీలను, వాటి సమీపంలోని నీటి వనరులను విశ్రాంతి స్థలాలుగా ఉపయోగిస్తాయి.",
+    "en": "The steppes and nearby water bodies serve as resting spots for migratory birds such as the Siberian crane."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T12-0066",
+   "section": {
+    "te": "Colorado Plateau area",
+    "en": "Colorado Plateau area"
+   },
+   "q": {
+    "te": "నైరుతి యునైటెడ్ స్టేట్స్‌లోని కొలరాడో పీఠభూమి సుమారు ఎంత విస్తీర్ణంలో విస్తరించి ఉంది?",
+    "en": "What is the approximate area covered by the Colorado Plateau in the southwestern United States?"
+   },
+   "options": {
+    "te": [
+     "1,50,000 చదరపు కి.మీ. కంటే ఎక్కువ",
+     "2,20,000 చదరపు కి.మీ. కంటే ఎక్కువ",
+     "3,30,000 చదరపు కి.మీ. కంటే ఎక్కువ",
+     "5,00,000 చదరపు కి.మీ. కంటే ఎక్కువ"
+    ],
+    "en": [
+     "Over 1,50,000 square km",
+     "Over 2,20,000 square km",
+     "Over 3,30,000 square km",
+     "Over 5,00,000 square km"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కొలరాడో పీఠభూమి 3,30,000 చదరపు కిలోమీటర్లకు పైగా విస్తీర్ణంలో విస్తరించి ఉన్న ఒక పెద్ద ఉన్నత ప్రాంతం.",
+    "en": "The Colorado Plateau is a large highland region covering over 3,30,000 square km."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T12-0025",
+   "section": {
+    "te": "Eurasian Steppes extent",
+    "en": "Eurasian Steppes extent"
+   },
+   "q": {
+    "te": "యురేషియన్ స్టెప్పీలు పడమర నుండి తూర్పుకు ఎంత దూరానికి పైగా విస్తరించి ఉన్నాయి?",
+    "en": "The Eurasian Steppes stretch from west to east over a distance of:"
+   },
+   "options": {
+    "te": [
+     "4,500 కి.మీ పైగా",
+     "దాదాపు 5,000 కి.మీ",
+     "దాదాపు 2,500 కి.మీ",
+     "8,000 కి.మీ పైగా"
+    ],
+    "en": [
+     "Over 4,500 km",
+     "About 5,000 km",
+     "About 2,500 km",
+     "Over 8,000 km"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "స్టెప్పీ గడ్డి మైదానాలు పశ్చిమం నుండి తూర్పుకు 8,000 కి.మీ కంటే ఎక్కువ విస్తీర్ణంలో వ్యాపించి ఉన్నాయి.",
+    "en": "The Eurasian Steppes spread from west to east for more than 8,000 km."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T12-0051",
+   "section": {
+    "te": "Largest salt flat location",
+    "en": "Largest salt flat location"
+   },
+   "q": {
+    "te": "భూమిపైనే అతిపెద్ద ఉప్పు మైదానంగా (salt flat) గుర్తింపు పొందిన 'ఉయుని సాల్ట్ ఫ్లాట్స్' ఏ దేశంలో ఉంది?",
+    "en": "The Uyuni Salt Flats, recognized as the largest salt flat on Earth, is located in which country?"
+   },
+   "options": {
+    "te": [
+     "అర్జెంటీనా",
+     "బొలీవియా",
+     "చిలీ",
+     "పెరూ"
+    ],
+    "en": [
+     "Argentina",
+     "Bolivia",
+     "Chile",
+     "Peru"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భూమిపైనే అతిపెద్ద ఉప్పు మైదానమైన ఉయుని సాల్ట్ ఫ్లాట్స్ బొలీవియా దేశంలో ఉంది.",
+    "en": "The text identifies Bolivia's Uyuni Salt Flats as the largest salt flat on Earth."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T12-0064",
+   "section": {
+    "te": "Atacama Desert NASA rovers",
+    "en": "Atacama Desert NASA rovers"
+   },
+   "q": {
+    "te": "నాసా (NASA) రోవర్లను పరీక్షించడానికి ఏ ఎడారి యొక్క రాతితో కూడిన, అంగారక గ్రహం (Mars) లాంటి ప్రకృతి దృశ్యాన్ని ఉపయోగించింది?",
+    "en": "Which desert's rocky, Mars-like landscape has been used by NASA to test rovers?"
+   },
+   "options": {
+    "te": [
+     "అటకామా ఎడారి",
+     "సహారా ఎడారి",
+     "కలహరి ఎడారి",
+     "గోబీ ఎడారి"
+    ],
+    "en": [
+     "Atacama Desert",
+     "Sahara Desert",
+     "Kalahari Desert",
+     "Gobi Desert"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, నాసా తన రోవర్లను పరీక్షించడానికి అటకామా ఎడారిలోని రాతితో కూడిన, అంగారక గ్రహం లాంటి భూభాగాన్ని ఉపయోగించింది.",
+    "en": "The Atacama Desert's rocky, Mars-like landscape has been used by NASA to test rovers."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T12-0088",
+   "section": {
+    "te": "Antonio Pellegrini map",
+    "en": "Antonio Pellegrini map"
+   },
+   "q": {
+    "te": "క్రింది వారిలో మూడు ఖండాలను (అమెరికాలు, ఐరోపా మరియు ఆఫ్రికా) కలిపి చూపుతూ ఒక మ్యాప్‌ను గీసినది ఎవరు?",
+    "en": "Who among the following drew a map showing the three continents (the Americas, Europe, and Africa) joined together?"
+   },
+   "options": {
+    "te": [
+     "ఆంటోనియో పెల్లెగ్రిని",
+     "అబ్రహం ఓర్టీలియస్",
+     "ఎడ్వర్డ్ బుల్లార్డ్",
+     "ఆల్ఫ్రెడ్ వెజెనర్"
+    ],
+    "en": [
+     "Antonio Pellegrini",
+     "Abraham Ortelius",
+     "Edward Bullard",
+     "Alfred Wegener"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఆంటోనియో పెల్లెగ్రిని మూడు ఖండాలను కలిపి చూపే మ్యాప్‌ను చిత్రీకరించారు.",
+    "en": "Antonio Pellegrini drew a map showing the three continents together."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T12-0019",
+   "section": {
+    "te": "Tibetan Plateau elevation",
+    "en": "Tibetan Plateau elevation"
+   },
+   "q": {
+    "te": "సముద్ర మట్టానికి టిబెట్ పీఠభూమి సగటు ఎత్తు ఎంత?",
+    "en": "What is the average height of the Tibetan Plateau above sea level?"
+   },
+   "options": {
+    "te": [
+     "5,500 మీటర్లకు పైగా",
+     "3,000 మీటర్లకు పైగా",
+     "4,500 మీటర్లకు పైగా",
+     "2,500 మీటర్లకు పైగా"
+    ],
+    "en": [
+     "Over 5,500 metres",
+     "Over 3,000 metres",
+     "Over 4,500 metres",
+     "Over 2,500 metres"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "టిబెట్ పీఠభూమి సముద్ర మట్టం నుండి సగటున 4,500 మీటర్ల కంటే ఎక్కువ ఎత్తును కలిగి ఉంది.",
+    "en": "The Tibetan Plateau has an average elevation of over 4,500 metres above sea level."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T12-0013",
+   "section": {
+    "te": "Continent Count Usage",
+    "en": "Continent Count Usage"
+   },
+   "q": {
+    "te": "ఖండాల లెక్కింపుకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఖండాలను నాలుగు నుండి ఏడు మధ్య ఏ సంఖ్యలోనైనా జాబితా చేయవచ్చు.\n2. ఏడు ఖండాల జాబితా ఆచరణలో అత్యంత విస్తృతంగా ఆమోదించబడినది మరియు ఉపయోగించబడుతున్నది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements about the count of continents:\n1. Continents can be listed in any number between four and seven.\n2. The list of seven continents is the most widely adopted and used in practice.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఖండాలను అనేక విధాలుగా (4 నుండి 7 వరకు) లెక్కించవచ్చని, అయితే 7-ఖండాల నమూనా ప్రామాణికమని పాఠ్యభాగం వివరిస్తుంది.",
+    "en": "Continents can be counted in multiple ways (4 to 7) but the 7-continent model is the standard practice."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T12-0134",
+   "section": {
+    "te": "Koeppen Climatic Groups",
+    "en": "Koeppen Climatic Groups"
+   },
+   "q": {
+    "te": "కొప్పెన్ వాతావరణ సమూహాలకు సంబంధించి, క్రింది ప్రకటనలను పరిశీలించండి:\n1. పెద్ద అక్షరాలు A, C, D మరియు E ఆర్ద్ర (humid) వాతావరణాలను సూచిస్తాయి.\n2. పెద్ద అక్షరం B పొడి (dry) వాతావరణాలను సూచిస్తుంది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Regarding Koeppen's climatic groups, consider the following statements:\n1. The capital letters A, C, D, and E represent humid climates.\n2. The capital letter B represents dry climates.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, కొప్పెన్ ఆర్ద్ర వాతావరణాలకు A, C, D మరియు E అక్షరాలను, పొడి వాతావరణాలకు B అక్షరాన్ని ఉపయోగించారు.",
+    "en": "Koeppen used A, C, D, and E for humid climates and B for dry climates."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T12-0054",
+   "section": {
+    "te": "Andean condor features",
+    "en": "Andean condor features"
+   },
+   "q": {
+    "te": "ఆండియన్ కాండోర్ (Andean condor) పక్షికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది పలు దక్షిణ అమెరికా దేశాల జాతీయ చిహ్నం.\n2. ఇది సగటున 3.2 మీటర్ల రెక్కల విస్తీర్ణాన్ని (wingspan) కలిగి ఉంటుంది.\n3. పురాణాలలో ఇది చంద్ర దేవుడికి ప్రాతినిధ్యం వహిస్తుంది.\nపై ప్రకటనలలో సరైనవి ఏవి?",
+    "en": "With reference to the Andean condor, consider the following statements:\n1. It is a national symbol of several South American countries.\n2. It has an average wingspan of 3.2 metres.\n3. In regional mythology, it represents the moon deity.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 2 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 only",
+     "2 and 3 only",
+     "1 and 2 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "1 మరియు 2 సరైనవి. ప్రకటన 3 తప్పు, ఎందుకంటే ఆండియన్ కాండోర్ పురాణాలలో సూర్య భగవానుడిని (sun deity) సూచిస్తుంది.",
+    "en": "Statements 1 and 2 are correct. Statement 3 is incorrect because the Andean condor represents the sun deity, not the moon deity."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T12-0110",
+   "section": {
+    "te": "Abyssal Plains Sedimentation",
+    "en": "Abyssal Plains Sedimentation"
+   },
+   "q": {
+    "te": "అబిసల్ మైదానాలలో ప్రధానంగా ఏ రకమైన పదార్థం నిక్షిప్తమవుతుంది?",
+    "en": "What type of material is primarily deposited in the abyssal plains?"
+   },
+   "options": {
+    "te": [
+     "పర్వత శ్రేణుల నుండి వచ్చే అగ్నిపర్వత బూడిద",
+     "మాంటిల్ నుండి వచ్చే రేడియోధార్మిక మూలకాలు",
+     "ఘనా తీరం నుండి వచ్చే బంగారం",
+     "ఖండాల అవక్షేపాలు (Continental sediments)"
+    ],
+    "en": [
+     "Volcanic ash from the ridges",
+     "Radioactive elements from the mantle",
+     "Gold from the Ghana coast",
+     "Continental sediments"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అబిసల్ మైదానాలు ఖండాల అంచుల దాటి వెళ్ళే ఖండ అవక్షేపాలు నిక్షిప్తమయ్యే ప్రాంతాలు.",
+    "en": "The abyssal plains are areas where continental sediments that move beyond the margins are deposited."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T12-0092",
+   "section": {
+    "te": "Forces for drifting",
+    "en": "Forces for drifting"
+   },
+   "q": {
+    "te": "ఆల్ఫ్రెడ్ వెజెనర్ ప్రకారం, ఖండాల చలనానికి క్రింది వాటిలో ఏ బలాలు కారణం?\nA: ధ్రువ వికర్షణ బలం (Pole-fleeing force)\nB: పోటుపాటు బలం (Tidal force)",
+    "en": "According to Alfred Wegener, which of the following forces were responsible for the drifting of continents?\nItem A: Pole-fleeing force\nItem B: Tidal force"
+   },
+   "options": {
+    "te": [
+     "A మాత్రమే",
+     "B మాత్రమే",
+     "Both A and B",
+     "None of these"
+    ],
+    "en": [
+     "Item A only",
+     "Item B only",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఖండాల కదలికకు ధ్రువ వికర్షణ బలం మరియు పోటుపాటు బలాలు కారణమని వెజెనర్ సూచించారు.",
+    "en": "Wegener suggested that the continental drift was caused by the pole-fleeing force (related to Earth's rotation) and the tidal force (due to the attraction of the moon and the sun)."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T12-0032",
+   "section": {
+    "te": "Ural ecosystems distribution",
+    "en": "Ural ecosystems distribution"
+   },
+   "q": {
+    "te": "ఉరల్ పర్వతాల పర్యావరణ వ్యవస్థలకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిగణించండి:\n1. పశ్చిమ మరియు తూర్పు భాగాలలో శంఖాకార తైగా (taiga) అడవులు అధికంగా ఉన్నాయి.\n2. పర్వత శ్రేణి దక్షిణ భాగంలో ఆకురాల్చే అడవులు విస్తరించి ఉన్నాయి.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "With reference to the ecosystems of the Ural Mountains, consider the following statements:\n1. Coniferous taiga forests dominate the western and eastern slopes.\n2. Deciduous forests prevail in the southern part of the range.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 కాదు 2 కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఉరల్ పర్వతాల పశ్చిమ, తూర్పు ప్రాంతాలలో తైగా అడవులు మరియు దక్షిణ భాగంలో ఆకురాల్చే అడవులు ఉంటాయి. కాబట్టి రెండు ప్రకటనలూ సరైనవే.",
+    "en": "Both statements are correct. Taiga forests dominate the western and eastern parts, while deciduous forests prevail in the south."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T12-0076",
+   "section": {
+    "te": "Great Victoria Desert division",
+    "en": "Great Victoria Desert division"
+   },
+   "q": {
+    "te": "గ్రేట్ విక్టోరియా ఎడారి క్రింది ఏ ప్రధాన ఎడారి ప్రాంతంలో అంతర్భాగంగా ఉంది?",
+    "en": "The Great Victoria Desert is a constituent part of which of the following larger desert regions?"
+   },
+   "options": {
+    "te": [
+     "అటకామా ఎడారి",
+     "కొలరాడో పీఠభూమి",
+     "గ్రేట్ ఆస్ట్రేలియన్ ఎడారి",
+     "సహారా ఎడారి"
+    ],
+    "en": [
+     "Atacama Desert",
+     "Colorado Plateau",
+     "Great Australian Desert",
+     "Sahara Desert"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "గ్రేట్ ఆస్ట్రేలియన్ ఎడారిలోని అనేక ఎడారి ప్రాంతాలలో గ్రేట్ విక్టోరియా ఎడారి కూడా ఒకటి.",
+    "en": "The Great Victoria Desert is one of several desert areas comprising the Great Australian Desert."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T12-0173",
+   "section": {
+    "te": "Marine West Coast Temperature",
+    "en": "Marine West Coast Temperature"
+   },
+   "q": {
+    "te": "మెరైన్ వెస్ట్ కోస్ట్ శీతోష్ణస్థితిలో వేసవి మరియు శీతాకాలపు సగటు ఉష్ణోగ్రత పరిధులు ఏమిటి?",
+    "en": "What are the mean temperature ranges for summer and winter in the Marine West Coast climate?"
+   },
+   "options": {
+    "te": [
+     "వేసవి: ఘనీభవన స్థానం కంటే తక్కువ; శీతాకాలం: 4°-10°C",
+     "వేసవి: 15°-20°C; శీతాకాలం: 4°-10°C",
+     "వేసవి: 10°-15°C; శీతాకాలం: 0°-5°C",
+     "వేసవి: 20°-25°C; శీతాకాలం: 10°-15°C"
+    ],
+    "en": [
+     "Summer: Below freezing; Winter: 4°-10°C",
+     "Summer: 15°-20°C; Winter: 4°-10°C",
+     "Summer: 10°-15°C; Winter: 0°-5°C",
+     "Summer: 20°-25°C; Winter: 10°-15°C"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మెరైన్ వెస్ట్ కోస్ట్ శీతోష్ణస్థితిలో సగటు వేసవి ఉష్ణోగ్రతలు 15°-20°C మరియు శీతాకాలపు ఉష్ణోగ్రతలు 4°-10°C మధ్య ఉంటాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "In the Marine West Coast climate, mean summer temperatures range from 15°-20°C and winter temperatures range from 4°-10°C."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T12-0133",
+   "section": {
+    "te": "Koeppen's Classification Basis",
+    "en": "Koeppen's Classification Basis"
+   },
+   "q": {
+    "te": "V. కొప్పెన్ తన వాతావరణ వర్గీకరణ పథకాన్ని వాతావరణం మరియు క్రింది వాటిలో దేని మధ్య ఉన్న సన్నిహిత సంబంధం ఆధారంగా అభివృద్ధి చేశారు?",
+    "en": "V. Koeppen developed his climate classification scheme based on the close relationship between climate and which of the following?"
+   },
+   "options": {
+    "te": [
+     "వాయు పీడనం",
+     "సముద్ర ప్రవాహాలు",
+     "నేల రకాలు",
+     "వృక్షసంపద విస్తరణ"
+    ],
+    "en": [
+     "Atmospheric pressure",
+     "Ocean currents",
+     "Soil types",
+     "Distribution of vegetation"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "కొప్పెన్ పథకం వృక్షసంపద విస్తరణ మరియు వాతావరణం మధ్య సంబంధంపై ఆధారపడి ఉంటుంది, దీని కోసం ఉష్ణోగ్రత మరియు వర్షపాత డేటాను ఉపయోగిస్తారు.",
+    "en": "Koeppen's scheme is based on the relationship between vegetation distribution and climate, using temperature and precipitation data."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T12-0031",
+   "section": {
+    "te": "Tundra definition",
+    "en": "Tundra definition"
+   },
+   "q": {
+    "te": "నేల ఎక్కువ సమయం ఘనీభవించి ఉండే చెట్లు లేని చల్లని మైదానాన్ని ఏమని పిలుస్తారు?",
+    "en": "A treeless, cold plain where the subsoil remains frozen most of the time is called a:"
+   },
+   "options": {
+    "te": [
+     "చిత్తడి నేల (Swamp)",
+     "స్టెప్పీ (Steppe)",
+     "టIGA (Taiga)",
+     "టండ్రా (Tundra)"
+    ],
+    "en": [
+     "Swamp",
+     "Steppe",
+     "Taiga",
+     "Tundra"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నేల దాదాపు అన్ని వేళలా గడ్డకట్టి ఉండి, చెట్లు లేని చల్లని మైదాన ప్రాంతాన్ని 'టండ్రా' అంటారు.",
+    "en": "A tundra is defined as a cold, treeless plain where soil stays frozen for most of the year."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T12-0111",
+   "section": {
+    "te": "Sea Floor Spreading Mechanism",
+    "en": "Sea Floor Spreading Mechanism"
+   },
+   "q": {
+    "te": "సముద్ర గర్భ విస్తరణ పరికల్పన ప్రకారం, సముద్రపు క్రస్ట్ ఇరువైపులా నెట్టబడటానికి కారణం ఏమిటి?",
+    "en": "According to the sea floor spreading hypothesis, what causes the oceanic crust to push on either side?"
+   },
+   "options": {
+    "te": [
+     "చంద్రుని గురుత్వాకర్షణ శక్తి",
+     "పగిలిన క్రస్ట్‌లోకి కొత్త లావా చొచ్చుకురావడం",
+     "భూభాగాల గుండా లెమూర్ల కదలిక",
+     "అబిసల్ మైదానాలలో అవక్షేపాల చేరిక"
+    ],
+    "en": [
+     "The pull of the moon's gravity",
+     "New lava wedging into the ruptured crust",
+     "The movement of lemurs across landmasses",
+     "The accumulation of sediments on abyssal plains"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పర్వత శ్రేణి శిఖరం వద్ద పేలుళ్లు క్రస్ట్ పగిలిపోవడానికి కారణమవుతాయని, మరియు దానిలోకి కొత్త లావా చొచ్చుకురావడం వల్ల క్రస్ట్ పక్కకు నెట్టబడుతుందని హెస్ వాదించారు.",
+    "en": "Hess argued that eruptions at the ridge crest cause the crust to rupture, and new lava wedging into it pushes the crust aside."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T12-0082",
+   "section": {
+    "te": "Antarctica polar desert",
+    "en": "Antarctica polar desert"
+   },
+   "q": {
+    "te": "14 మిలియన్ చదరపు కిలోమీటర్లకు పైగా విస్తీర్ణంలో విస్తరించి, భూమిపైనే అతిపెద్ద మరియు అత్యంత శీతల ఎడారిగా ఉన్నది ఏది?",
+    "en": "Which of the following is the largest and coldest desert on Earth, covering an area of over 14 million square kilometres?"
+   },
+   "options": {
+    "te": [
+     "గోబీ ఎడారి",
+     "ఆర్కిటిక్",
+     "అంటార్కిటికా",
+     "థార్ ఎడారి"
+    ],
+    "en": [
+     "Gobi Desert",
+     "Arctic",
+     "Antarctica",
+     "Thar Desert"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అంటార్కిటికా 14 మిలియన్ చదరపు కిలోమీటర్లకు పైగా విస్తీర్ణంలో (భారతదేశ విస్తీర్ణానికి నాలుగు రెట్లకు పైగా) విస్తరించి భూమిపై అత్యంత పెద్ద మరియు శీతల ఎడారిగా ఉంది.",
+    "en": "Antarctica covers over 14 million square kilometres (more than four times the area of India) and is both the largest and coldest desert on Earth."
+   }
+  }
+ ]
+}

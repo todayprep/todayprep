@@ -1,0 +1,942 @@
+{
+ "id": "geo-12-g1-3",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Continents and World Physical Geography – క్విజ్ 3",
+  "en": "Continents and World Physical Geography – Quiz 3"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T12-0094",
+   "section": {
+    "te": "Gondwana tillite landmasses",
+    "en": "Gondwana tillite landmasses"
+   },
+   "q": {
+    "te": "భారతదేశంలో కనిపించే గోండ్వానా వ్యవస్థకు చెందిన హిమానీనద టిల్లైట్ నిక్షేపాలు క్రింది ఏ దక్షిణ అర్ధగోళ భూభాగాలలో కూడా కనిపిస్తాయి?\nA: ఆఫ్రికా\nB: ఫాక్‌లాండ్ దీవులు\nC: మడగాస్కర్",
+    "en": "Counterparts of the Gondwana system glacial tillite succession found in India are present in which of the following southern landmasses?\nItem A: Africa\nItem B: Falkland Island\nItem C: Madagascar"
+   },
+   "options": {
+    "te": [
+     "ఆఫ్రికా మాత్రమే",
+     "మడగాస్కర్ మాత్రమే",
+     "A మరియు B రెండూ",
+     "All of the above"
+    ],
+    "en": [
+     "Africa only",
+     "Madagascar only",
+     "Both A and B",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశ గోండ్వానా టిల్లైట్ నిక్షేపాలకు సమానమైన శిలా శ్రేణులు ఆఫ్రికా, ఫాక్‌లాండ్ దీవులు, మడగాస్కర్, అంటార్కిటికా మరియు ఆస్ట్రేలియాలలో కనిపిస్తాయి.",
+    "en": "Counterparts of the Gondwana tillite succession of India are found in Africa, Falkland Island, Madagascar, Antarctica, and Australia."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T12-0033",
+   "section": {
+    "te": "Alps mountain peaks",
+    "en": "Alps mountain peaks"
+   },
+   "q": {
+    "te": "ప్రసిద్ధ పర్వత శిఖరాలలో ఒకటైన 'మాంట్ బ్లాంక్' ఏ పర్వత శ్రేణిలో ఉంది?",
+    "en": "Mont Blanc, one of the most famous mountain peaks, is located in which mountain range?"
+   },
+   "options": {
+    "te": [
+     "ఆండీస్",
+     "యూరల్స్",
+     "ఆల్ప్స్",
+     "హిమాలయాలు"
+    ],
+    "en": [
+     "The Andes",
+     "The Urals",
+     "The Alps",
+     "The Himalayas"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, దక్షిణ-మధ్య ఐరోపాలో సహజ సరిహద్దుగా ఉన్న ఆల్ప్స్ పర్వతాలలో మాంట్ బ్లాంక్ వంటి ప్రసిద్ధ శిఖరాలు ఉన్నాయి.",
+    "en": "The Alps form a natural barrier in south-central Europe and contain famous peaks such as Mont Blanc."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T12-0124",
+   "section": {
+    "te": "Minor Plates",
+    "en": "Minor Plates"
+   },
+   "q": {
+    "te": "క్రింది చిన్న పలకలను వాటి స్థానాలతో జతపరచండి:\n1. నజ్కా పలక - i. సౌదీ అరేబియా భూభాగం\n2. అరేబియన్ పలక - ii. దక్షిణ అమెరికా మరియు పసిఫిక్ పలకల మధ్య\n3. ఫిలిప్పీన్ పలక - iii. ఆసియా మరియు పసిఫిక్ పలకల మధ్య",
+    "en": "Match the following minor plates with their locations:\n1. Nazca Plate - i. Saudi Arabian landmass\n2. Arabian Plate - ii. Between South America and Pacific plate\n3. Philippine Plate - iii. Between Asiatic and Pacific plate"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-i, 3-iii",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-iii, 3-i"
+    ],
+    "en": [
+     "1-ii, 2-i, 3-iii",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-iii, 3-i"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నజ్కా దక్షిణ అమెరికా మరియు పసిఫిక్ మధ్య ఉంది; అరేబియన్ సౌదీ భూభాగం; ఫిలిప్పీన్ ఆసియా మరియు పసిఫిక్ పలకల మధ్య ఉంది.",
+    "en": "Nazca is between South America and Pacific; Arabian is Saudi landmass; Philippine is between Asiatic and Pacific plates."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T12-0067",
+   "section": {
+    "te": "Colorado Plateau rock composition",
+    "en": "Colorado Plateau rock composition"
+   },
+   "q": {
+    "te": "కొలరాడో పీఠభూమి ప్రధానంగా ఏ రకమైన రాతి పొరలతో కూడి ఉంది?",
+    "en": "The Colorado Plateau is composed mostly of layers of which type of rock?"
+   },
+   "options": {
+    "te": [
+     "రూపాంతర శిల (Metamorphic rock)",
+     "అగ్ని శిల (Igneous rock)",
+     "అవక్షేప శిల (Sedimentary rock)",
+     "బసాల్ట్ శిల (Basaltic rock)"
+    ],
+    "en": [
+     "Metamorphic rock",
+     "Igneous rock",
+     "Sedimentary rock",
+     "Basaltic rock"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కొలరాడో పీఠభూమి ప్రధానంగా టెక్టానిక్ శక్తుల ద్వారా నెమ్మదిగా పైకి లేపబడిన అవక్షేప శిలల పొరలతో నిర్మితమైంది.",
+    "en": "The Colorado Plateau is mostly composed of layers of sedimentary rock uplifted by tectonic forces."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T12-0169",
+   "section": {
+    "te": "Marine West Coast Climate",
+    "en": "Marine West Coast Climate"
+   },
+   "q": {
+    "te": "కింది వాటిలో ఏ ప్రాంతాలలో మెరైన్ వెస్ట్ కోస్ట్ (Marine West Coast) శీతోష్ణస్థితి కనిపిస్తుంది?",
+    "en": "In which of the following regions is the Marine West Coast climate found?"
+   },
+   "options": {
+    "te": [
+     "దక్షిణ చిలీ",
+     "ఆగ్నేయ ఆస్ట్రేలియా",
+     "న్యూజిలాండ్",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Southern Chile",
+     "Southeastern Australia",
+     "New Zealand",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, మెరైన్ వెస్ట్ కోస్ట్ శీతోష్ణస్థితి వాయువ్య యూరప్, ఉత్తర అమెరికా పశ్చిమ తీరం, దక్షిణ చిలీ, ఆగ్నేయ ఆస్ట్రేలియా మరియు న్యూజిలాండ్‌లలో కనిపిస్తుంది.",
+    "en": "The Marine West Coast climate is found in Northwestern Europe, the west coast of North America, southern Chile, southeastern Australia, and New Zealand."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T12-0120",
+   "section": {
+    "te": "Plate Movement Rates",
+    "en": "Plate Movement Rates"
+   },
+   "q": {
+    "te": "పలకల కదలిక రేటును నిర్ణయించడానికి శాస్త్రవేత్తలకు ఏది సహాయపడుతుంది?",
+    "en": "What helps scientists determine the rates of plate movement?"
+   },
+   "options": {
+    "te": [
+     "సముద్ర గర్భం యొక్క లోతు",
+     "భూమి యొక్క భ్రమణ వేగం",
+     "సాధారణ మరియు వ్యతిరేక అయస్కాంత క్షేత్ర పట్టీలు",
+     "ఖండ భూపటలం యొక్క మందం"
+    ],
+    "en": [
+     "The depth of the ocean floor",
+     "The rotation speed of the earth",
+     "Strips of normal and reverse magnetic field",
+     "The thickness of the continental crust"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మధ్య-మహాసముద్రపు రిడ్జ్‌లకు సమాంతరంగా ఉండే అయస్కాంత క్షేత్ర పట్టీలు (సాధారణ మరియు వ్యతిరేక) పలకలు ఎంత వేగంగా కదులుతాయో లెక్కించడానికి ఉపయోగించబడతాయి.",
+    "en": "Magnetic field strips (normal and reverse) parallel to mid-oceanic ridges are used to calculate how fast plates move."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T12-0097",
+   "section": {
+    "te": "Ghana Gold Deposits",
+    "en": "Ghana Gold Deposits"
+   },
+   "q": {
+    "te": "ఘనా తీరంలో లభించే సమృద్ధిగా ఉన్న బంగారు నిక్షేపాలు (placer deposits) కింది ఏ ప్రాంతం నుండి ఉద్భవించాయని నమ్ముతారు?",
+    "en": "The rich placer deposits of gold found on the Ghana coast are believed to have originated from which of the following regions?"
+   },
+   "options": {
+    "te": [
+     "బ్రెజిల్ పీఠభూమి",
+     "ఇరావర్ ఫార్మేషన్స్",
+     "మడగాస్కర్ పీఠభూమి",
+     "దక్షిణ కేప్ ప్రావిన్స్"
+    ],
+    "en": [
+     "The Brazil plateau",
+     "The Iraver formations",
+     "The Madagascar plateau",
+     "The Southern Cape province"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, బంగారు సిరలు బ్రెజిల్‌లో ఉన్నాయి మరియు ఖండాలు కలిసి ఉన్నప్పుడు ఘనా నిక్షేపాలు అక్కడి నుండే వచ్చాయి.",
+    "en": "The gold-bearing veins are located in Brazil, and the Ghana deposits were derived from there when the continents were joined."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T12-0047",
+   "section": {
+    "te": "Fennec fox adaptation",
+    "en": "Fennec fox adaptation"
+   },
+   "q": {
+    "te": "సహారా ఫెన్నెక్ నక్క (fennec fox) యొక్క పెద్ద చెవులు క్రింది ఏ విధులకు ఉపయోగపడతాయి?",
+    "en": "What primary functions do the large ears of the Saharan fennec fox serve?"
+   },
+   "options": {
+    "te": [
+     "వేడిని వెదజల్లడానికి (శరీరాన్ని చల్లబరచడానికి)",
+     "భూగర్భంలోని ఎర శబ్దాలను వినడానికి",
+     "A మరియు B రెండూ",
+     "నీటిని నిల్వ ఉంచడానికి"
+    ],
+    "en": [
+     "Dissipating heat",
+     "Listening to sounds of underground prey",
+     "Both A and B",
+     "Storing water for hydration"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సహారా ఫెన్నెక్ నక్క యొక్క పెద్ద చెవులు వేడిని వెదజల్లడానికి మరియు భూగర్భంలో ఉండే ఎర శబ్దాలను వినడానికి రెండింటికీ సహాయపడతాయి.",
+    "en": "The large ears of the Saharan fennec fox help both to dissipate heat and to listen to the sounds of underground prey."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T12-0052",
+   "section": {
+    "te": "Andes mineral resources",
+    "en": "Andes mineral resources"
+   },
+   "q": {
+    "te": "ఆండీస్ పర్వత ప్రాంతం క్రింది ఏ ఖనిజాల యొక్క అపారమైన నిల్వలను కలిగి ఉంది?",
+    "en": "The Andes mountain region holds vast reserves of which of the following mineral resources?"
+   },
+   "options": {
+    "te": [
+     "రాగి మరియు జింక్",
+     "వెండి",
+     "లిథియం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Copper and zinc",
+     "Silver",
+     "Lithium",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఆండీస్ పర్వత ప్రాంతంలో రాగి, జింక్, వెండి మరియు లిథియంల విస్తారమైన నిల్వలు ఉన్నాయి.",
+    "en": "The Andes are among the most resource-rich regions, holding vast reserves of copper, zinc, silver, and lithium."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T12-0100",
+   "section": {
+    "te": "Mesosaurus Fossils",
+    "en": "Mesosaurus Fossils"
+   },
+   "q": {
+    "te": "దక్షిణాఫ్రికా మరియు బ్రెజిల్‌లో శిలాజాలు లభించిన మెసోసారస్ (Mesosaurus) గురించి కింది వాటిలో ఏది సరైనది?",
+    "en": "Which of the following best describes the Mesosaurus, whose fossils are found in South Africa and Brazil?"
+   },
+   "options": {
+    "te": [
+     "ఉష్ణమండల అడవులలో కనిపించే భూమిపై నివసించే క్షీరదం",
+     "లోతైన మహాసముద్రాలకు అలవాటు పడిన పెద్ద డైనోసార్",
+     "ఎత్తైన సరస్సులలో కనిపించే మంచి నీటి చేప",
+     "నిస్సారమైన ఉప్పునీటికి (brackish water) అలవాటు పడిన చిన్న సరీసృపం"
+    ],
+    "en": [
+     "A land-dwelling mammal found in tropical forests",
+     "A large dinosaur adapted to deep oceans",
+     "A freshwater fish found in high-altitude lakes",
+     "A small reptile adapted to shallow brackish water"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యాంశం మెసోసారస్‌ను నిస్సారమైన ఉప్పునీటికి ప్రత్యేకంగా అలవాటు పడిన చిన్న సరీసృపంగా నిర్వచించింది.",
+    "en": "The text defines Mesosaurus as a small reptile adapted specifically to shallow brackish water."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T12-0007",
+   "section": {
+    "te": "Indian Islands",
+    "en": "Indian Islands"
+   },
+   "q": {
+    "te": "క్రింది భారతీయ ద్వీప సమూహాలను వాటి స్థానాలతో జతపరచండి:\n1. అండమాన్ మరియు నికోబార్ దీవులు  a. అరేబియా సముద్రం\n2. లక్షద్వీప్ దీవులు                   b. బంగాళాఖాతం",
+    "en": "Match the following Indian island groups with their locations:\n1. Andaman and Nicobar Islands  a. Arabian Sea\n2. Lakshadweep Islands           b. Bay of Bengal"
+   },
+   "options": {
+    "te": [
+     "1-a, 2-b",
+     "1-b, 2-a",
+     "రెండూ బంగాళాఖాతంలో ఉన్నాయి",
+     "రెండూ అరేబియా సముద్రంలో ఉన్నాయి"
+    ],
+    "en": [
+     "1-a, 2-b",
+     "1-b, 2-a",
+     "Both are in the Bay of Bengal",
+     "Both are in the Arabian Sea"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అండమాన్ మరియు నికోబార్ దీవులు బంగాళాఖాతంలో ఉండగా, లక్షద్వీప్ దీవులు అరేబియా సముద్రంలో ఉన్నాయి.",
+    "en": "The Andaman and Nicobar Islands are located in the Bay of Bengal, while the Lakshadweep Islands are in the Arabian Sea."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T12-0062",
+   "section": {
+    "te": "Crops grown in Nile basin",
+    "en": "Crops grown in Nile basin"
+   },
+   "q": {
+    "te": "నైలు నది అందించిన సాగునీటి సౌకర్యం ద్వారా వేల సంవత్సరాలుగా పండించబడుతున్న పంటలు ఏవి?",
+    "en": "Which of the following agricultural crops have been supported for thousands of years by irrigation from the River Nile?"
+   },
+   "options": {
+    "te": [
+     "గోధుమ మరియు బార్లీ",
+     "అవిసె (Flax)",
+     "పండ్లు మరియు కూరగాయలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Wheat and barley",
+     "Flax",
+     "Fruits and vegetables",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నైలు నది ద్వారా లభించే సాగునీటితో గోధుమ, బార్లీ, అవిసె, పండ్లు మరియు కూరగాయలు వంటి పంటలు పండించబడుతున్నాయి.",
+    "en": "The Nile transformed dry lands into fertile fields supporting wheat, barley, flax, fruits, and vegetables."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T12-0005",
+   "section": {
+    "te": "Indian Antarctica Programme",
+    "en": "Indian Antarctica Programme"
+   },
+   "q": {
+    "te": "1983లో అంటార్కిటికాలో స్థాపించబడిన భారతదేశపు మొట్టమొదటి శాస్త్రీయ పరిశోధనా కేంద్రం పేరు ఏమిటి?",
+    "en": "What was the name of India's first scientific base station established in Antarctica in 1983?"
+   },
+   "options": {
+    "te": [
+     "భారతి",
+     "దక్షిణ గంగోత్రి",
+     "మైత్రి",
+     "హిమాద్రి"
+    ],
+    "en": [
+     "Bharati",
+     "Dakshin Gangotri",
+     "Maitri",
+     "Himadri"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "1983లో అంటార్కిటికాలో స్థాపించబడిన భారతదేశపు మొట్టమొదటి శాస్త్రీయ పరిశోధనా కేంద్రం పేరు దక్షిణ గంగోత్రి.",
+    "en": "India's first scientific base station in Antarctica, established in 1983, was named Dakshin Gangotri."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T12-0099",
+   "section": {
+    "te": "Lemuria Landmass",
+    "en": "Lemuria Landmass"
+   },
+   "q": {
+    "te": "ఊహాజనిత నిరంతర భూభాగం 'లెమూరియా' (Lemuria) కింది ఏ ప్రాంతాలను కలిపి ఉంచేదని ప్రతిపాదించబడింది?",
+    "en": "The hypothetical contiguous landmass 'Lemuria' was proposed to have linked which of the following regions?"
+   },
+   "options": {
+    "te": [
+     "భారతదేశం మరియు మడగాస్కర్ మాత్రమే",
+     "ఆఫ్రికా మరియు మడగాస్కర్ మాత్రమే",
+     "భారతదేశం, మడగాస్కర్ మరియు ఆఫ్రికా",
+     "భారతదేశం, బ్రెజిల్ మరియు ఆఫ్రికా"
+    ],
+    "en": [
+     "India and Madagascar only",
+     "Africa and Madagascar only",
+     "India, Madagascar and Africa",
+     "India, Brazil and Africa"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతదేశం, మడగాస్కర్ మరియు ఆఫ్రికాలో లెమూర్ల ఉనికి 'లెమూరియా' అనే అనుసంధానిత భూభాగాన్ని పరిగణనలోకి తీసుకోవడానికి దారితీసింది.",
+    "en": "The presence of Lemurs in India, Madagascar, and Africa led to the consideration of a linked landmass called 'Lemuria'."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T12-0045",
+   "section": {
+    "te": "Length of Nile",
+    "en": "Length of Nile"
+   },
+   "q": {
+    "te": "ప్రపంచంలోనే అత్యంత పొడవైన నైలు నది సుమారు ఎంత పొడవును కలిగి ఉంది?",
+    "en": "What is the approximate length of the River Nile, the longest river in the world?"
+   },
+   "options": {
+    "te": [
+     "7,200 కి.మీ.",
+     "8,100 కి.మీ.",
+     "6,650 కి.మీ.",
+     "5,550 కి.మీ."
+    ],
+    "en": [
+     "7,200 km",
+     "8,100 km",
+     "6,650 km",
+     "5,550 km"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, ప్రపంచంలోనే అత్యంత పొడవైన నైలు నది దాదాపు 6,650 కి.మీ. పొడవును కలిగి ఉంది.",
+    "en": "The Nile is the longest river in the world, stretching almost 6,650 km in length."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T12-0158",
+   "section": {
+    "te": "Humid Subtropical (Cfa) Locations",
+    "en": "Humid Subtropical (Cfa) Locations"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఏ ప్రాంతాలలో తేమతో కూడిన ఉపఉష్ణమండల (Cfa) శీతోష్ణస్థితి ఉంటుంది?\nఅంశం A: తూర్పు యునైటెడ్ స్టేట్స్ ఆఫ్ అమెరికా\nఅంశం B: దక్షిణ జపాన్\nఅంశం C: ఈశాన్య అర్జెంటీనా",
+    "en": "In which of the following regions does the Humid Subtropical (Cfa) climate occur?\nItem A: Eastern United States of America\nItem B: Southern Japan\nItem C: Northeastern Argentina"
+   },
+   "options": {
+    "te": [
+     "అంశం A మరియు B మాత్రమే",
+     "అంశం B and C మాత్రమే",
+     "A మరియు B రెండూ",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Item A and B only",
+     "Item B and C only",
+     "Both A and B",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "Cfa శీతోష్ణస్థితి సంభవించే ప్రాంతాలలో తూర్పు USA, దక్షిణ జపాన్ మరియు ఈశాన్య అర్జెంటీనా ఉన్నాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text lists the eastern USA, southern Japan, and northeastern Argentina among the regions where the Cfa climate occurs."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T12-0004",
+   "section": {
+    "te": "Greenland Size",
+    "en": "Greenland Size"
+   },
+   "q": {
+    "te": "ప్రపంచంలోనే అతిపెద్ద ద్వీపమైన గ్రీన్లాండ్ పరిమాణాన్ని చేరుకోవడానికి, భారతదేశంలోని ఎన్ని అతిపెద్ద రాష్ట్రాల వైశాల్యాలను కలపాలి?",
+    "en": "To reach the size of Greenland, the world's largest island, one would have to add the areas of how many of India's largest states?"
+   },
+   "options": {
+    "te": [
+     "5",
+     "15",
+     "10",
+     "20"
+    ],
+    "en": [
+     "5",
+     "15",
+     "10",
+     "20"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "గ్రీన్లాండ్ వైశాల్యం భారతదేశంలోని 10 అతిపెద్ద రాష్ట్రాల మొత్తం వైశాల్యానికి సమానమని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The area of Greenland is equivalent to the combined area of the 10 largest states of India."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T12-0156",
+   "section": {
+    "te": "Humid Subtropical Climate",
+    "en": "Humid Subtropical Climate"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఏ ప్రాంతంలో తేమతో కూడిన ఉపఉష్ణమండల శీతోష్ణస్థితి (Cwa) ప్రధానంగా కనిపిస్తుంది?",
+    "en": "In which of the following regions is the Humid Subtropical climate (Cwa) mainly found?"
+   },
+   "options": {
+    "te": [
+     "ఉత్తర భారత మైదానాలు మరియు దక్షిణ చైనా అంతర్గత మైదానాలు",
+     "ఈశాన్య ఆసియా",
+     "సెంట్రల్ కాలిఫోర్నియా మరియు సెంట్రల్ చిలీ",
+     "తీరప్రాంత దక్షిణాఫ్రికా మరియు తూర్పు ఆస్ట్రేలియా"
+    ],
+    "en": [
+     "North Indian plains and South China interior plains",
+     "Northeastern Asia",
+     "Central California and Central Chile",
+     "Coastal South Africa and Eastern Australia"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "Cwa రకానికి చెందిన తేమతో కూడిన ఉపఉష్ణమండల శీతోష్ణస్థితి ఉష్ణమండలాలకు ధ్రువాల వైపు, ప్రత్యేకంగా ఉత్తర భారత మైదానాలు మరియు దక్షిణ చైనా అంతర్గత మైదానాలలో సంభవిస్తుంది.",
+    "en": "The Cwa type of humid subtropical climate occurs poleward of the tropics, specifically in the North Indian plains and South China interior plains."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T12-0012",
+   "section": {
+    "te": "Continent Grouping",
+    "en": "Continent Grouping"
+   },
+   "q": {
+    "te": "కొన్ని లెక్కింపు పద్ధతుల్లో ఈ క్రింది ఏ భూభాగాలను కొన్నిసార్లు ఒకే ఖండంగా పరిగణిస్తారు?\nA. ఉత్తర అమెరికా మరియు దక్షిణ అమెరికా\nB. యూరప్ మరియు ఆసియా\nC. ఆఫ్రికా మరియు యూరేషియా",
+    "en": "Which of the following landmasses are sometimes regarded as a single continent in certain counting methods?\nA. North America and South America\nB. Europe and Asia\nC. Africa and Eurasia"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఉత్తర మరియు దక్షిణ అమెరికాలను ఒకటిగా (అమెరికా), యూరప్ మరియు ఆసియాలను ఒకటిగా (యూరేషియా), మరియు ఆఫ్రికా మరియు యూరేషియాలను ఒకటిగా (ఆఫ్రికా-యూరేషియా) చూడవచ్చని పాఠ్యభాగం పేర్కొంది.",
+    "en": "North and South America can be seen as one (America), Europe and Asia as one (Eurasia), and Africa and Eurasia as one (Africa-Eurasia)."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T12-0116",
+   "section": {
+    "te": "Plate Movement Rates",
+    "en": "Plate Movement Rates"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఏ ప్రాంతం సంవత్సరానికి 15 సెం.మీ కంటే ఎక్కువ వేగంతో అత్యంత వేగవంతమైన పలక కదలికను కలిగి ఉంది?",
+    "en": "Which of the following regions has the fastest rate of plate movement, exceeding 15 cm per year?"
+   },
+   "options": {
+    "te": [
+     "మధ్య అట్లాంటిక్ రిడ్జ్",
+     "ఆర్కిటిక్ రిడ్జ్",
+     "నజ్కా పలక",
+     "తూర్పు పసిఫిక్ రైజ్ (East Pacific Rise)"
+    ],
+    "en": [
+     "Mid-Atlantic Ridge",
+     "Arctic Ridge",
+     "Nazca Plate",
+     "East Pacific Rise"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఈస్టర్ ఐలాండ్ సమీపంలోని తూర్పు పసిఫిక్ రైజ్ 15 సెం.మీ/సంవత్సరం కంటే ఎక్కువ వేగంతో అత్యంత వేగవంతమైన పలక కదలికను కలిగి ఉంది, అయితే ఆర్కిటిక్ రిడ్జ్ అత్యంత నెమ్మదిగా ఉంటుంది.",
+    "en": "The East Pacific Rise near Easter Island has the fastest plate movement rate at more than 15 cm/yr, while the Arctic Ridge is the slowest."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T12-0137",
+   "section": {
+    "te": "Subduction Zone Definition",
+    "en": "Subduction Zone Definition"
+   },
+   "q": {
+    "te": "ఒక టెక్టోనిక్ ఫలకం మరొకదాని కిందకు మునిగిపోయి, క్రస్ట్ (crust) నాశనమయ్యే ప్రదేశాన్ని ఏమని పిలుస్తారు?",
+    "en": "What is the term used for the location where one tectonic plate sinks under another and the crust is destroyed?"
+   },
+   "options": {
+    "te": [
+     "సముద్రపు గట్టు (Oceanic ridge)",
+     "రూపాంతర భ్రంశం (Transform fault)",
+     "స్ప్రెడింగ్ సైట్",
+     "సబ్డక్షన్ జోన్ (Subduction zone)"
+    ],
+    "en": [
+     "Oceanic ridge",
+     "Transform fault",
+     "Spreading site",
+     "Subduction zone"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఫలకం మునిగిపోయే ప్రదేశాన్ని సబ్డక్షన్ జోన్ అని పాఠ్యభాగం నిర్వచించింది.",
+    "en": "The text defines a subduction zone as the location where the sinking of a plate occurs."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T12-0072",
+   "section": {
+    "te": "Cherokee indigenous community",
+    "en": "Cherokee indigenous community"
+   },
+   "q": {
+    "te": "చెరోకీ (Cherokee) కమ్యూనిటీ క్రింది ఏ పర్వత ప్రాంతానికి చెందిన స్థానిక తెగ?",
+    "en": "The Cherokee community is indigenous to which of the following mountain regions?"
+   },
+   "options": {
+    "te": [
+     "ఆల్ప్స్ పర్వతాలు",
+     "అప్పలాచియన్ పర్వతాలు",
+     "ఆండీస్ పర్వతాలు",
+     "రాకీ పర్వతాలు"
+    ],
+    "en": [
+     "Alps",
+     "Appalachian Mountains",
+     "Andes",
+     "Rocky Mountains"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "చెరోకీ కమ్యూనిటీ అప్పలాచియన్ పర్వతాలకు చెందిన స్థానిక తెగలలో ఒకటి.",
+    "en": "The Cherokee are indigenous to the Appalachian Mountains."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T12-0095",
+   "section": {
+    "te": "Polar-fleeing force cause",
+    "en": "Polar-fleeing force cause"
+   },
+   "q": {
+    "te": "ఆల్ఫ్రెడ్ వెజెనర్ ప్రకారం, 'ధ్రువ వికర్షణ బలం' (polar-fleeing force) క్రింది వాటిలో దేనికి సంబంధించినది?",
+    "en": "According to Alfred Wegener, the 'polar-fleeing force' is related to which of the following?"
+   },
+   "options": {
+    "te": [
+     "చంద్రుని గురుత్వాకర్షణ శక్తి",
+     "టెక్టోనిక్ ప్లేట్ల సబ్‌డక్షన్",
+     "భూ అయస్కాంత క్షేత్ర మార్పులు",
+     "భూభ్రమణం (Rotation of the earth)"
+    ],
+    "en": [
+     "Gravitational pull of the moon",
+     "Tectonic plate subduction",
+     "Earth's magnetic field reversals",
+     "Rotation of the earth"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ధ్రువ వికర్షణ బలం అనేది భూమి తన అక్షంపై తాను తిరగడం (భూభ్రమణం) వలన ఏర్పడుతుంది.",
+    "en": "The polar-fleeing force relates to the rotation of the earth, which causes an equatorial bulge."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T12-0029",
+   "section": {
+    "te": "Ural Mountains boundaries",
+    "en": "Ural Mountains boundaries"
+   },
+   "q": {
+    "te": "ఉరల్ పర్వతాలు ఉత్తరాన ఆర్కిటిక్ మహాసముద్రం నుండి దక్షిణాన ఏ దేశ సరిహద్దు వరకు విస్తరించి ఉన్నాయి?",
+    "en": "The Ural Mountains extend from the Arctic Ocean in the north to the border of which country in the south?"
+   },
+   "options": {
+    "te": [
+     "కజకిస్తాన్",
+     "చైనా",
+     "మంగోలియా",
+     "ఉజ్బెకిస్తాన్"
+    ],
+    "en": [
+     "Kazakhstan",
+     "China",
+     "Mongolia",
+     "Uzbekistan"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఉరల్ పర్వతాలు ఉత్తరాన ఆర్కిటిక్ మహాసముద్రం నుండి దక్షిణాన కజకిస్తాన్ సరిహద్దు వరకు సుమారు 2,500 కి.మీ మేర విస్తరించి ఉన్నాయి.",
+    "en": "The Urals stretch roughly 2,500 km from the Arctic Ocean southwards to the border of Kazakhstan."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T12-0084",
+   "section": {
+    "te": "Pangaea and Panthalassa",
+    "en": "Pangaea and Panthalassa"
+   },
+   "q": {
+    "te": "ఆల్ఫ్రెడ్ వెజెనర్ ఖండ చలన సిద్ధాంతానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. మహా ఖండానికి పాంజియా (Pangaea) అని పేరు పెట్టారు, దీని అర్థం 'సర్వ భూమి'.\n2. దాని చుట్టూ ఉన్న మహా సముద్రాన్ని పాంథలాసా (Panthalassa) అని పిలిచారు, దీని అర్థం 'సర్వ జలం'.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding Alfred Wegener's continental drift theory:\n1. The supercontinent was named Pangaea, which meant 'all earth'.\n2. The mega-ocean surrounding it was named Panthalassa, meaning 'all water'.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వెజెనర్ ప్రకారం, అన్ని ఖండాలు కలిసి పాంజియా (సర్వ భూమి) అనే ఏకైక భూభాగంగా ఏర్పడ్డాయి మరియు దాని చుట్టూ ఉన్న మహా సముద్రాన్ని పాంథలాసా (సర్వ జలం) అని పిలిచారు.",
+    "en": "According to Wegener, all continents formed a single landmass called Pangaea (meaning all earth), and the surrounding mega-ocean was called Panthalassa (meaning all water)."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T12-0091",
+   "section": {
+    "te": "Marine deposits coastline age",
+    "en": "Marine deposits coastline age"
+   },
+   "q": {
+    "te": "ఖండ చలన ఆధారాల ప్రకారం, దక్షిణ అమెరికా మరియు ఆఫ్రికా తీరప్రాంతాల్లోని తొలి సముద్ర నిక్షేపాలు (marine deposits) ఏ కాలానికి చెందినవి?",
+    "en": "According to the continental drift evidence, the earliest marine deposits found along the coastlines of South America and Africa belong to which geological age?"
+   },
+   "options": {
+    "te": [
+     "కార్బోనిఫెరస్ యుగం",
+     "క్రెటేషియస్ యుగం",
+     "జురాసిక్ యుగం",
+     "పెర్మియన్ యుగం"
+    ],
+    "en": [
+     "Carboniferous age",
+     "Cretaceous age",
+     "Jurassic age",
+     "Permian age"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "దక్షిణ అమెరికా మరియు ఆఫ్రికా తీరప్రాంతాల్లోని తొలి సముద్ర నిక్షేపాలు జురాసిక్ యుగానికి చెందినవి, అంటే అంతకు ముందు అక్కడ సముద్రం లేదని ఇది సూచిస్తుంది.",
+    "en": "The earliest marine deposits along the coastlines of South America and Africa are of the Jurassic age, suggesting the ocean did not exist prior to that time."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T12-0171",
+   "section": {
+    "te": "Tundra Climate Vegetation",
+    "en": "Tundra Climate Vegetation"
+   },
+   "q": {
+    "te": "కింది వాటిలో ఏ రకమైన వృక్షజాలం టండ్రా శీతోష్ణస్థితి (ET) యొక్క లక్షణం?",
+    "en": "Which of the following types of vegetation are characteristic of the Tundra climate (ET)?"
+   },
+   "options": {
+    "te": [
+     "తక్కువ ఎత్తులో పెరిగే నాచులు (Mosses)",
+     "లైకెన్లు (Lichens)",
+     "పుష్పించే మొక్కలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Low growing mosses",
+     "Lichens",
+     "Flowering plants",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "టండ్రా శీతోష్ణస్థితికి ఆ పేరు అక్కడ పెరిగే వృక్షజాలం వల్ల వచ్చింది, ఇందులో తక్కువ ఎత్తులో పెరిగే నాచులు, లైకెన్లు మరియు పుష్పించే మొక్కలు ఉంటాయి.",
+    "en": "The Tundra climate is named after its vegetation, which includes low growing mosses, lichens, and flowering plants."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T12-0053",
+   "section": {
+    "te": "Andes flora and fauna",
+    "en": "Andes flora and fauna"
+   },
+   "q": {
+    "te": "ఆండీస్ పర్వతాలలో అసలైన వృక్ష మరియు జంతుజాలంలో (flora and fauna) దాదాపు ఎంత భాగం మాత్రమే మిగిలి ఉండటంతో అది కీలకమైన పరిరక్షణ హాట్‌స్పాట్‌గా మారింది?",
+    "en": "Approximately what fraction of the original flora and fauna remains in the Andes, making it a critical conservation hotspot?"
+   },
+   "options": {
+    "te": [
+     "మూడవ వంతు (1/3)",
+     "సగం (1/2)",
+     "నాల్గవ వంతు (1/4)",
+     "మూడింట రెండు వంతులు (2/3)"
+    ],
+    "en": [
+     "One-third",
+     "One-half",
+     "One-fourth",
+     "Two-thirds"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఆండీస్ పర్వతాలలో అసలైన వృక్ష మరియు జంతుజాలంలో సుమారు నాల్గవ వంతు (one-fourth) మాత్రమే మిగిలి ఉంది.",
+    "en": "Due to human activities, only about one-fourth of the original flora and fauna remains in the Andes."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T12-0172",
+   "section": {
+    "te": "Ice Cap Climate",
+    "en": "Ice Cap Climate"
+   },
+   "q": {
+    "te": "ఐస్ క్యాప్ (Ice Cap) శీతోష్ణస్థితి (EF) లో, వేసవి నెలలలో ఉష్ణోగ్రత పరిస్థితి ఎలా ఉంటుంది?",
+    "en": "In the Ice Cap climate (EF), what is the temperature condition during the summer months?"
+   },
+   "options": {
+    "te": [
+     "ఇది 0°C మరియు 10°C మధ్య ఉంటుంది",
+     "ఇది ఎల్లప్పుడూ ఘనీభవన స్థానం కంటే ఎక్కువగా ఉంటుంది",
+     "ఇది ఘనీభవన స్థానం కంటే తక్కువగానే ఉంటుంది",
+     "సముద్ర ప్రభావం వల్ల ఇది మధ్యస్థంగా ఉంటుంది"
+    ],
+    "en": [
+     "It ranges between 0°C and 10°C",
+     "It is always above freezing point",
+     "It remains below freezing point",
+     "It is moderate due to marine influence"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఐస్ క్యాప్ శీతోష్ణస్థితి (EF) లో, వేసవిలో కూడా ఉష్ణోగ్రతలు ఘనీభవన స్థానం (freezing point) కంటే తక్కువగానే ఉంటాయి.",
+    "en": "In the Ice Cap climate (EF), temperatures remain below the freezing point even during the summer."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T12-0041",
+   "section": {
+    "te": "Lake Lucerne location",
+    "en": "Lake Lucerne location"
+   },
+   "q": {
+    "te": "ఆల్ప్స్ పర్వతాల సుందర దృశ్యాలను అందించే లూసర్న్ సరస్సు (Lake Lucerne) ఏ దేశంలో ఉంది?",
+    "en": "Lake Lucerne, which offers scenic views of the Alps, is located in which country?"
+   },
+   "options": {
+    "te": [
+     "జర్మనీ",
+     "ఆస్ట్రియా",
+     "ఫ్రాన్స్",
+     "స్విట్జర్లాండ్"
+    ],
+    "en": [
+     "Germany",
+     "Austria",
+     "France",
+     "Switzerland"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "స్విట్జర్లాండ్‌లోని ఒక గ్రామం ఆల్ప్స్ పర్వతాల వీక్షణతో లూసర్న్ సరస్సు పక్కన ఉందని పాఠ్యాంశంలో పేర్కొనబడింది.",
+    "en": "A village in Switzerland situated next to Lake Lucerne with views of the Alps."
+   }
+  }
+ ]
+}

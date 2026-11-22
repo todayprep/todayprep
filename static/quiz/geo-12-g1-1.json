@@ -1,0 +1,942 @@
+{
+ "id": "geo-12-g1-1",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Continents and World Physical Geography – క్విజ్ 1",
+  "en": "Continents and World Physical Geography – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T12-0104",
+   "section": {
+    "te": "Mid-Oceanic Ridge Rocks",
+    "en": "Mid-Oceanic Ridge Rocks"
+   },
+   "q": {
+    "te": "మధ్య మహాసముద్ర పర్వత శ్రేణుల శిఖరానికి సమీపంలో ఉన్న శిలలకు సంబంధించి, కింది వాటిలో ఏది సరైనది?",
+    "en": "Regarding the rocks near the crest of mid-oceanic ridges, which of the following is correct?"
+   },
+   "options": {
+    "te": [
+     "అవి రివర్స్డ్ పొలారిటీని కలిగి ఉంటాయి మరియు అత్యంత పురాతనమైనవి.",
+     "అవి సాధారణ పొలారిటీని (normal polarity) కలిగి ఉంటాయి మరియు అత్యంత పిన్న వయస్సు గలవి.",
+     "అవి సాధారణ పొలారిటీని కలిగి ఉంటాయి మరియు అత్యంత పురాతనమైనవి.",
+     "అవి రివర్స్డ్ పొలారిటీని కలిగి ఉంటాయి మరియు అత్యంత పిన్న వయస్సు గలవి."
+    ],
+    "en": [
+     "They have reversed polarity and are the oldest.",
+     "They have normal polarity and are the youngest.",
+     "They have normal polarity and are the oldest.",
+     "They have reversed polarity and are the youngest."
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మధ్య మహాసముద్ర పర్వత శ్రేణులకు దగ్గరగా ఉన్న శిలలు సాధారణ పొలారిటీని కలిగి ఉంటాయని మరియు అవి అత్యంత పిన్న వయస్సు గలవని పాఠ్యాంశం పేర్కొంది.",
+    "en": "Rocks closer to the mid-oceanic ridges have normal polarity and are the youngest, with age increasing as one moves away."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T12-0063",
+   "section": {
+    "te": "Lungs of the Earth",
+    "en": "Lungs of the Earth"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో దేనిని 'భూమి యొక్క ఊపిరితిత్తులు' (Lungs of the Earth) అని పిలుస్తారు?",
+    "en": "Which geographical feature has been traditionally called the 'Lungs of the Earth'?"
+   },
+   "options": {
+    "te": [
+     "యురల్స్ టైగా అడవులు",
+     "అమెజాన్ వర్షారణ్యం",
+     "టిబెట్ పీఠభూమి",
+     "ఆఫ్రికన్ సవన్నా"
+    ],
+    "en": [
+     "Taiga Forest of the Urals",
+     "Amazon Rainforest",
+     "Tibetan Plateau",
+     "African Savannah"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అమెజాన్ వర్షారణ్యాన్ని సాధారణంగా 'భూమి యొక్క ఊపిరితిత్తులు' అని పిలుస్తారు.",
+    "en": "The Amazon Rainforest has been referred to as the 'Lungs of the Earth'."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T12-0021",
+   "section": {
+    "te": "Desert geography facts",
+    "en": "Desert geography facts"
+   },
+   "q": {
+    "te": "ఎడారులకు సంబంధించి క్రింది ప్రకటనలను పరిగణించండి:\n1. ఎడారులు భూమి యొక్క భూభాగంలో దాదాపు ఐదవ వంతును ఆక్రమించాయి.\n2. యూరప్ మినహా ప్రతి ఖండంలోనూ ఎడారులు ఉన్నాయి.\n3. ప్రపంచ జనాభాలో దాదాపు ఎనిమిదవ వంతు ప్రజలు ఎడారులలో నివసిస్తున్నారు.\nపై ప్రకటనలలో సరైనవి ఏవి?",
+    "en": "Consider the following statements regarding deserts:\n1. Deserts cover approximately one-fifth of the Earth's land area.\n2. Deserts are found on every continent except Europe.\n3. Around one-eighth of the world's population lives in deserts.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "1 and 3 only",
+     "2 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రతి ఖండంలోనూ ఎడారులు ఉన్నాయని పాఠ్యాంశం పేర్కొంది, కాబట్టి ప్రకటన 2 తప్పు. 1 మరియు 3 ప్రకటనలు సరైనవి.",
+    "en": "Statement 2 is incorrect because the text explicitly states that deserts are found on every continent. Statements 1 and 3 are correct."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T12-0093",
+   "section": {
+    "te": "Tillite rock definition",
+    "en": "Tillite rock definition"
+   },
+   "q": {
+    "te": "ప్రాచీన శీతోష్ణస్థితులు (palaeoclimates) మరియు ఖండాల చలనానికి స్పష్టమైన ఆధారాలను అందించే 'టిల్లైట్' (Tillite) అంటే ఏమిటి?",
+    "en": "What is 'Tillite', which provides unambiguous evidence of palaeoclimates and the drifting of continents?"
+   },
+   "options": {
+    "te": [
+     "ఎండిపోయిన సరస్సులలో ఏర్పడిన భాష్పీభవన ఖనిజం",
+     "బసాల్ట్ లావా చల్లబడటం వల్ల ఏర్పడిన అగ్నిశిల",
+     "తీవ్రమైన పీడనం వల్ల రూపాంతరం చెందిన రూపాంతర శిల",
+     "హిమానీనదాల నిక్షేపాల నుండి ఏర్పడిన అవక్షేప శిల"
+    ],
+    "en": [
+     "An evaporite mineral formed in dried lake basins",
+     "An igneous rock formed from cooling basaltic lava",
+     "A metamorphic rock formed under extreme mantle pressure",
+     "A sedimentary rock formed out of deposits of glaciers"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "టిల్లైట్ అనేది హిమానీనదాల నిక్షేపాల వల్ల ఏర్పడిన అవక్షేప శిల (sedimentary rock).",
+    "en": "Tillite is a sedimentary rock formed out of deposits of glaciers, providing clear evidence of ancient glaciations and continental drift."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T12-0078",
+   "section": {
+    "te": "Spinifex indigenous population",
+    "en": "Spinifex indigenous population"
+   },
+   "q": {
+    "te": "25,000 సంవత్సరాలకు పైగా ఎడారిలో నివసిస్తున్న స్థానిక ప్రజలైన 'స్పినిఫెక్స్' (Spinifex) ఏ ఖండానికి చెందినవారు?",
+    "en": "The Spinifex, an indigenous population who have lived in the desert for over 25,000 years, belong to which continent?"
+   },
+   "options": {
+    "te": [
+     "దక్షిణ అమెరికా",
+     "ఉత్తర అమెరికా",
+     "ఆస్ట్రేలియా",
+     "ఆఫ్రికా"
+    ],
+    "en": [
+     "South America",
+     "North America",
+     "Australia",
+     "Africa"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "స్పినిఫెక్స్ ప్రజలు ఆస్ట్రేలియాలోని ఎడారిలో 25,000 సంవత్సరాలకు పైగా నివసిస్తున్న స్థానిక జనాభా.",
+    "en": "The Spinifex are an indigenous population of Australia who have lived in the desert for more than 25,000 years."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T12-0069",
+   "section": {
+    "te": "Rocky Mountains length",
+    "en": "Rocky Mountains length"
+   },
+   "q": {
+    "te": "ఉత్తర అమెరికాలోని రాకీ పర్వతాలు మొత్తం ఎంత పొడవునా విస్తరించి ఉన్నాయి?",
+    "en": "What is the total length over which the Rocky Mountains stretch in North America?"
+   },
+   "options": {
+    "te": [
+     "4,800 కి.మీ. కంటే ఎక్కువ",
+     "4,000 కి.మీ. కంటే ఎక్కువ",
+     "6,500 కి.మీ. కంటే ఎక్కువ",
+     "3,200 కి.మీ. కంటే ఎక్కువ"
+    ],
+    "en": [
+     "Over 4,800 km",
+     "Over 4,000 km",
+     "Over 6,500 km",
+     "Over 3,200 km"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "రాకీ పర్వతాలు దాదాపు 4,800 కిలోమీటర్లకు పైగా విస్తరించి ఉన్నాయి.",
+    "en": "The Rocky Mountains stretch over a distance of more than 4,800 km."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T12-0001",
+   "section": {
+    "te": "Eurasia Definition",
+    "en": "Eurasia Definition"
+   },
+   "q": {
+    "te": "యూరప్ మరియు ఆసియా కలిసి ఏర్పడిన ఒకే భూభాగాన్ని భూవిజ్ఞాన శాస్త్రవేత్తలు తరచుగా ఏ పేరుతో పిలుస్తారు?",
+    "en": "What name do geologists often use to refer to the single landmass formed by Europe and Asia?"
+   },
+   "options": {
+    "te": [
+     "అమెరికాస్",
+     "పాంజియా",
+     "యూరేషియా (Eurasia)",
+     "ఆఫ్రో-యూరేషియా"
+    ],
+    "en": [
+     "Americas",
+     "Pangea",
+     "Eurasia",
+     "Afro-Eurasia"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, సాంస్కృతిక కారణాల వల్ల యూరప్ మరియు ఆసియాలను తరచుగా రెండు ఖండాలుగా చూసినప్పటికీ, భూవిజ్ఞాన శాస్త్రవేత్తలు వాటిని 'యూరేషియా' అనే ఒకే ఖండంగా పరిగణిస్తారు.",
+    "en": "While Europe and Asia are often seen as two continents for cultural reasons, geologists regard them as a single continent called Eurasia."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T12-0115",
+   "section": {
+    "te": "Transform Boundaries",
+    "en": "Transform Boundaries"
+   },
+   "q": {
+    "te": "రూపాంతర సరిహద్దులకు (Transform Boundaries) సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఈ సరిహద్దుల వద్ద భూపటలం (crust) ఉత్పత్తి చేయబడదు లేదా నాశనం చేయబడదు.\n2. పలకలు ఒకదానికొకటి అడ్డంగా (horizontally) జారిపోతాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding Transform Boundaries:\n1. The crust is neither produced nor destroyed at these boundaries.\n2. Plates slide horizontally past each other.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రూపాంతర సరిహద్దుల వద్ద, పలకలు ఒకదానికొకటి అడ్డంగా జారిపోతాయి మరియు ఫలితంగా, భూపటలం సృష్టించబడదు లేదా నాశనం చేయబడదు.",
+    "en": "At transform boundaries, plates slide horizontally past each other, and as a result, crust is neither created nor destroyed."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T12-0071",
+   "section": {
+    "te": "Yellowstone ecosystem restoration",
+    "en": "Yellowstone ecosystem restoration"
+   },
+   "q": {
+    "te": "1995లో, ఎల్క్ (ఒక రకమైన జింక) జనాభాను నియంత్రించి పర్యావరణ సమతుల్యతను పునరుద్ధరించడానికి ఎల్లోస్టోన్ నేషనల్ పార్క్‌లోకి ఏ మాంసాహార జంతువును ప్రవేశపెట్టారు?",
+    "en": "In 1995, which predator was introduced into Yellowstone National Park to restore ecological balance by controlling the elk population?"
+   },
+   "options": {
+    "te": [
+     "తోడేళ్ళు (Wolves)",
+     "పర్వత సింహాలు",
+     "ఎలుగుబంట్లు",
+     "కోయోట్‌లు"
+    ],
+    "en": [
+     "Wolves",
+     "Mountain lions",
+     "Bears",
+     "Coyotes"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "1995లో ఎల్లోస్టోన్ నేషనల్ పార్క్‌లో తోడేళ్ళను ప్రవేశపెట్టడం ద్వారా ఎల్క్ జనాభా తగ్గి, పర్యావరణ సమతుల్యత పునరుద్ధరించబడింది.",
+    "en": "Wolves were introduced to Yellowstone National Park in 1995 to hunt the elk and restore ecological balance."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T12-0130",
+   "section": {
+    "te": "Indian Plate Margins",
+    "en": "Indian Plate Margins"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఏది భారతీయ ఫలకం యొక్క తూర్పు అంచులో (eastern margin) భాగం కాదు?",
+    "en": "Which of the following is NOT part of the eastern margin of the Indian plate?"
+   },
+   "options": {
+    "te": [
+     "పాకిస్థాన్‌లోని కిర్తార్ పర్వతం",
+     "నైరుతి పసిఫిక్‌లోని స్ప్రెడింగ్ సైట్",
+     "మయన్మార్‌లోని రాకిన్యోమా పర్వతాలు",
+     "జావా ట్రెంచ్ (Java Trench)"
+    ],
+    "en": [
+     "Kirthar Mountain of Pakistan",
+     "Spreading site in SW Pacific",
+     "Rakinyoma Mountains of Myanmar",
+     "Java Trench"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, పాకిస్థాన్‌లోని కిర్తార్ పర్వతం పశ్చిమ అంచులో భాగం, తూర్పు అంచులో కాదు.",
+    "en": "Kirthar Mountain of Pakistan is part of the western margin, not the eastern margin."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T12-0144",
+   "section": {
+    "te": "Koeppen small letters meaning",
+    "en": "Koeppen small letters meaning"
+   },
+   "q": {
+    "te": "కొప్పెన్ శీతోష్ణస్థితి వర్గీకరణ విధానంలో, చిన్న అక్షరాలు (small letters) a, b, c, మరియు d వేటిని సూచిస్తాయి?",
+    "en": "In Koeppen's scheme of climate classification, what do the small letters a, b, c, and d refer to?"
+   },
+   "options": {
+    "te": [
+     "పొడి కాలం యొక్క స్వభావం",
+     "సహజ వృక్షసంపద రకం",
+     "సముద్ర మట్టం నుండి ఎత్తు",
+     "ఉష్ణోగ్రత తీవ్రత స్థాయి (Degree of severity of temperature)"
+    ],
+    "en": [
+     "Season of dryness",
+     "Type of natural vegetation",
+     "Altitude above sea level",
+     "Degree of severity of temperature"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "కొప్పెన్ విధానంలో చిన్న అక్షరాలు a, b, c మరియు d లు ఉష్ణోగ్రత యొక్క తీవ్రత స్థాయిని సూచిస్తాయి.",
+    "en": "In Koeppen's classification, the small letters a, b, c, and d indicate the degree of severity of temperature."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T12-0077",
+   "section": {
+    "te": "Camels in Australia origin",
+    "en": "Camels in Australia origin"
+   },
+   "q": {
+    "te": "19వ శతాబ్దంలో అన్వేషణ మరియు వలస పాలనకు సహాయపడటానికి ఒంటెలను క్రింది ఏ ప్రాంతాల నుండి ఆస్ట్రేలియాకు రవాణా చేశారు?",
+    "en": "During the 19th century, camels were transported to Australia to assist in exploration and colonisation from which of the following places?"
+   },
+   "options": {
+    "te": [
+     "భారతదేశం",
+     "ఆఫ్ఘనిస్తాన్",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "India",
+     "Afghanistan",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "19వ శతాబ్దంలో అన్వేషణకు తోడ్పడటానికి భారతదేశం మరియు ఆఫ్ఘనిస్తాన్ వంటి ప్రాంతాల నుండి ఒంటెలను ఆస్ట్రేలియాకు తీసుకువచ్చారు.",
+    "en": "Camels were transported to Australia from places like India and Afghanistan during the 19th century."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T12-0101",
+   "section": {
+    "te": "Abyssal Plains",
+    "en": "Abyssal Plains"
+   },
+   "q": {
+    "te": "సముద్రపు అడుగుభాగంలో అబిసల్ మైదానాలు (Abyssal Plains) ఎక్కడ ఉన్నాయి?",
+    "en": "Where are the Abyssal Plains located on the ocean floor?"
+   },
+   "options": {
+    "te": [
+     "ఖండ తీర అంచులలో (continental shelves)",
+     "మధ్య మహాసముద్ర పర్వత శ్రేణుల పైభాగంలో",
+     "ఖండాల అంచులు మరియు మధ్య మహాసముద్ర పర్వత శ్రేణుల మధ్య",
+     "బ్రెజిల్ తీరం వెంట మాత్రమే"
+    ],
+    "en": [
+     "Within the continental shelves",
+     "At the very top of mid-oceanic ridges",
+     "Between continental margins and mid-oceanic ridges",
+     "Only along the coastline of Brazil"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అబిసల్ మైదానాలు ఖండాల అంచులు మరియు మధ్య మహాసముద్ర పర్వత శ్రేణుల మధ్య ఉన్న విశాలమైన మైదానాలు.",
+    "en": "Abyssal plains are extensive plains situated between the continental margins and the mid-oceanic ridges."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T12-0143",
+   "section": {
+    "te": "Subdivisions of dry climates",
+    "en": "Subdivisions of dry climates"
+   },
+   "q": {
+    "te": "కొప్పెన్ వర్గీకరణలో, 'B - శుష్క శీతోష్ణస్థితులు' (Dry Climates) ను స్టెప్పీ మరియు ఎడారిగా ఉపవిభజన చేయడానికి ఏ పెద్ద అక్షరాలను (capital letters) ఉపయోగిస్తారు?",
+    "en": "In Koeppen's classification, which capital letters are used to subdivide 'B - Dry Climates' into steppe and desert?"
+   },
+   "options": {
+    "te": [
+     "శుష్క ప్రాంతాలకు A మరియు అత్యంత శుష్క ప్రాంతాలకు H",
+     "అడవులకు F మరియు గడ్డిభూములకు G",
+     "స్టెప్పీ కోసం S మరియు ఎడారుల కోసం W",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "A for arid and H for hyper-arid",
+     "F for forest and G for grassland",
+     "S for steppe and W for deserts",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మూల గ్రంథం ప్రకారం, B-శుష్క శీతోష్ణస్థితులను స్టెప్పీ లేదా అర్ధ-శుష్క ప్రాంతాల కోసం 'S' మరియు ఎడారుల కోసం 'W' అనే పెద్ద అక్షరాలతో ఉపవిభజన చేస్తారు.",
+    "en": "Group B (Dry Climates) is subdivided using the capital letters S for steppe (semi-arid) and W for deserts."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T12-0123",
+   "section": {
+    "te": "Plate Movement Theory",
+    "en": "Plate Movement Theory"
+   },
+   "q": {
+    "te": "నిశ్చయం (A): ఆధునిక సిద్ధాంతం ప్రకారం, కేవలం ఖండం మాత్రమే కాదు, టెక్టోనిక్ పలక కదులుతుంది.\nకారణం (R): ఖండాలు ఒక పలకలో భాగంగా ఉంటాయి మరియు మొత్తం పలక ఆస్తెనోస్పియర్ (asthenosphere) పై కదులుతుంది.",
+    "en": "Assertion (A): According to modern theory, it is the tectonic plate that moves, not just the continent.\nReason (R): Continents are part of a plate, and the entire plate moves over the asthenosphere."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఆధునిక ప్లేట్ టెక్టోనిక్స్ ఖండాలు పలకలలో పొందుపరచబడి ఉన్నాయని మరియు పలకలే కదులుతాయని స్పష్టం చేస్తుంది.",
+    "en": "Modern plate tectonics clarifies that continents are embedded in plates, and it is the plates themselves that move."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T12-0127",
+   "section": {
+    "te": "Plate Convergence Types",
+    "en": "Plate Convergence Types"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఏయే మార్గాల్లో ప్లేట్ అభిసరణ (convergence) సంభవించవచ్చు?",
+    "en": "In which of the following ways can plate convergence occur?"
+   },
+   "options": {
+    "te": [
+     "సముద్ర మరియు ఖండ ఫలకాల మధ్య",
+     "రెండు సముద్ర ఫలకాల మధ్య",
+     "రెండు ఖండ ఫలకాల మధ్య",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Between an oceanic and continental plate",
+     "Between two oceanic plates",
+     "Between two continental plates",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అభిసరణ మూడు విధాలుగా జరుగుతుందని పాఠ్యభాగం గుర్తిస్తుంది: సముద్ర-ఖండ, సముద్ర-సముద్ర మరియు ఖండ-ఖండ ఫలకాల మధ్య.",
+    "en": "The text identifies three ways for convergence: oceanic-continental, oceanic-oceanic, and continental-continental."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T12-0150",
+   "section": {
+    "te": "Af climate daily temperatures",
+    "en": "Af climate daily temperatures"
+   },
+   "q": {
+    "te": "ఉష్ణమండల తడి శీతోష్ణస్థితి (Af) లో సాధారణ రోజువారీ గరిష్ట మరియు కనిష్ట ఉష్ణోగ్రతలు ఎంత ఉంటాయి?",
+    "en": "In the Tropical Wet Climate (Af), what are the typical daily maximum and minimum temperatures?"
+   },
+   "options": {
+    "te": [
+     "గరిష్టం సుమారు 38°C మరియు కనిష్టం సుమారు 15°C",
+     "గరిష్టం సుమారు 30°C మరియు కనిష్టం సుమారు 20°C",
+     "గరిష్టం సుమారు 45°C మరియు కనిష్టం సుమారు 30°C",
+     "గరిష్టం సుమారు 25°C మరియు కనిష్టం సుమారు 5°C"
+    ],
+    "en": [
+     "Maximum around 38°C and minimum around 15°C",
+     "Maximum around 30°C while minimum around 20°C",
+     "Maximum around 45°C and minimum around 30°C",
+     "Maximum around 25°C and minimum around 5°C"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "Af శీతోష్ణస్థితిలో ఏ రోజైనా గరిష్ట ఉష్ణోగ్రత దాదాపు 30°C మరియు కనిష్ట ఉష్ణోగ్రత దాదాపు 20°C గా ఉంటుంది.",
+    "en": "In the Af climate, the maximum temperature on any day is around 30°C while the minimum temperature is around 20°C."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T12-0129",
+   "section": {
+    "te": "Indian Plate Boundary",
+    "en": "Indian Plate Boundary"
+   },
+   "q": {
+    "te": "భారతీయ ఫలకం యొక్క ఉత్తర సరిహద్దుకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది హిమాలయాల వెంబడి సబ్డక్షన్ జోన్ (subduction zone) ద్వారా గుర్తించబడింది.\n2. ఇది ఖండ-ఖండ అభిసరణ (continent-continent convergence) ద్వారా వర్గీకరించబడుతుంది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the northern boundary of the Indian plate:\n1. It is marked by a subduction zone along the Himalayas.\n2. It is characterized by continent-continent convergence.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతీయ ఫలకం యొక్క ఉత్తర సరిహద్దు హిమాలయాల వెంబడి ఉన్న సబ్డక్షన్ జోన్, ఇది ఖండ-ఖండ అభిసరణను కలిగి ఉంటుంది.",
+    "en": "The northern boundary of the Indian plate is a subduction zone along the Himalayas involving continent-continent convergence."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T12-0160",
+   "section": {
+    "te": "Cold Climate with Dry Winters (Dw)",
+    "en": "Cold Climate with Dry Winters (Dw)"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): పొడి శీతాకాలంతో కూడిన చల్లని శీతోష్ణస్థితి (Dw) రుతుపవనాల వంటి గాలి మళ్లింపును (reversal of wind) అనుభవిస్తుంది.\nకారణం (R): శీతాకాలంలో బలమైన ప్రతిచక్రవాతం (anticyclone) అభివృద్ధి చెందడం మరియు వేసవిలో అది బలహీనపడటం వల్ల ఈ మళ్లింపు సంభవిస్తుంది.",
+    "en": "Assertion (A): The Cold Climate with Dry Winters (Dw) experiences a monsoon-like reversal of wind.\nReason (R): This reversal is caused by the development of a pronounced winter anticyclone and its weakening in summer."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "Dw శీతోష్ణస్థితి ప్రాంతంలో శీతాకాలపు ప్రతిచక్రవాతం అభివృద్ధి చెందడం మరియు బలహీనపడటం వల్ల రుతుపవనాల వంటి గాలి మళ్లింపుకు దారితీస్తుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The development and weakening of a winter anticyclone leads to a monsoon-like wind reversal in the Dw climate region."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T12-0056",
+   "section": {
+    "te": "Sahara dust nutrients",
+    "en": "Sahara dust nutrients"
+   },
+   "q": {
+    "te": "సహారా ఎడారి నుండి అమెజాన్ వర్షారణ్యాలకు ప్రయాణించే ధూళి మొక్కలకు అవసరమైన ఏ పోషకాన్ని మోసుకెళ్తుంది?",
+    "en": "Which essential nutrient is carried by atmospheric dust traveling from the Sahara to the Amazon rainforest?"
+   },
+   "options": {
+    "te": [
+     "భాస్వరం (Phosphorus)",
+     "నత్రజని (Nitrogen)",
+     "పొటాషియం (Potassium)",
+     "ఇనుము (Iron)"
+    ],
+    "en": [
+     "Phosphorus",
+     "Nitrogen",
+     "Potassium",
+     "Iron"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సహారా నుండి అమెజాన్ అడవులకు ప్రయాణించే ధూళి మొక్కల పెరుగుదలకు అవసరమైన భాస్వరాన్ని (phosphorus) అందిస్తుంది.",
+    "en": "Dust traveling from the Sahara Desert carries phosphorus, which is needed by plants in the Amazon rainforest."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T12-0138",
+   "section": {
+    "te": "Climate Classification Types",
+    "en": "Climate Classification Types"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): జన్యుపరమైన (Genetic) వర్గీకరణ వాతావరణాలను వాటి కారణాల ఆధారంగా నిర్వహిస్తుంది.\nకారణం (R): అనుభవాత్మక (Empirical) వర్గీకరణ ఉష్ణోగ్రత మరియు వర్షపాతం వంటి గమనించిన డేటాపై ఆధారపడి ఉంటుంది.",
+    "en": "Assertion (A): Genetic classification organizes climates based on their causes.\nReason (R): Empirical classification is based on observed data like temperature and precipitation."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "రెండు ప్రకటనలు పాఠ్యభాగం నుండి వచ్చిన సరైన నిర్వచనాలే, కానీ అనుభవాత్మక వర్గీకరణ యొక్క నిర్వచనం జన్యుపరమైన వర్గీకరణ ఎందుకు కారణాలపై ఆధారపడి ఉంటుందో వివరించదు.",
+    "en": "Both statements are true definitions from the text, but the definition of empirical classification does not explain why genetic classification is based on causes."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T12-0087",
+   "section": {
+    "te": "Abraham Ortelius proposal 1596",
+    "en": "Abraham Ortelius proposal 1596"
+   },
+   "q": {
+    "te": "1596 లోనే అమెరికా ఖండాలు, ఐరోపా మరియు ఆఫ్రికాలు ఒకప్పుడు కలిసి ఉండేవనే సంభావ్యతను మొదటగా ప్రతిపాదించిన డచ్ మ్యాప్ తయారీదారు ఎవరు?",
+    "en": "Who among the following was the Dutch map maker who first proposed the possibility that the Americas, Europe, and Africa were once joined together, as early as 1596?"
+   },
+   "options": {
+    "te": [
+     "ఆల్ఫ్రెడ్ వెజెనర్",
+     "అబ్రహం ఓర్టీలియస్",
+     "ఆంటోనియో పెల్లెగ్రిని",
+     "ఎడ్వర్డ్ బుల్లార్డ్"
+    ],
+    "en": [
+     "Alfred Wegener",
+     "Abraham Ortelius",
+     "Antonio Pellegrini",
+     "Edward Bullard"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "1596 లో డచ్ మ్యాప్ తయారీదారు అబ్రహం ఓర్టీలియస్ రెండు అమెరికాలు, ఐరోపా మరియు ఆఫ్రికాలు ఒకప్పుడు కలిసి ఉండేవని మొట్టమొదటగా ప్రతిపాదించారు.",
+    "en": "Abraham Ortelius, a Dutch map maker, first proposed in 1596 that the two Americas, Europe, and Africa were once joined together."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T12-0023",
+   "section": {
+    "te": "Steppe tortoise space travel",
+    "en": "Steppe tortoise space travel"
+   },
+   "q": {
+    "te": "1968లో చంద్రుడి వద్దకు ప్రయాణించిన భూమి యొక్క మొట్టమొదటి జీవులలో స్టెప్పీలకు చెందిన ఏ జంతువులు ఉన్నాయి?",
+    "en": "Which animal from the steppes was among the first inhabitants of the Earth to travel to the moon in 1968?"
+   },
+   "options": {
+    "te": [
+     "సైబీరియన్ కొంగ",
+     "సేబుల్",
+     "స్టెప్పీ తాబేలు",
+     "స్టెప్పీ మార్మోట్"
+    ],
+    "en": [
+     "Siberian crane",
+     "Sable",
+     "Steppe tortoise",
+     "Steppe marmot"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "1968లో చంద్రుని వద్దకు పంపబడిన మొదటి భూజీవులలో రెండు స్టెప్పీ తాబేళ్లు (steppe tortoises) ఉన్నాయి.",
+    "en": "Two steppe tortoises were among the first living creatures from Earth to travel to the moon in 1968."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T12-0068",
+   "section": {
+    "te": "Colorado Plateau plant life",
+    "en": "Colorado Plateau plant life"
+   },
+   "q": {
+    "te": "కొలరాడో పీఠభూమిలోని విభిన్న వృక్ష సంపదలో క్రింది వాటిలో ఏ రకమైన చెట్లు ఉన్నాయి?",
+    "en": "Which of the following types of trees are included in the diverse plant life of the Colorado Plateau?"
+   },
+   "options": {
+    "te": [
+     "శంఖాకార వృక్షాలు (Coniferous trees)",
+     "ఆకురాల్చే వృక్షాలు (Deciduous trees)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Coniferous trees",
+     "Deciduous trees",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కొలరాడో పీఠభూమిలోని వృక్ష సంపదలో శంఖాకార మరియు ఆకురాల్చే వృక్షాలు రెండూ ఉన్నాయని పాఠ్యాంశం పేర్కొంది.",
+    "en": "The source specifies that the plant life of the Colorado Plateau includes both coniferous and deciduous trees."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T12-0075",
+   "section": {
+    "te": "Great Lakes environmental challenges",
+    "en": "Great Lakes environmental challenges"
+   },
+   "q": {
+    "te": "గ్రేట్ లేక్స్ ఎదుర్కొంటున్న పర్యావరణ సవాళ్లకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. సరస్సులోని అవక్షేపాలలో రసాయన కాలుష్యం ఏర్పడటం\n2. వ్యవసాయ ప్రవాహాలు మరియు పారిశ్రామిక ప్రక్రియల వల్ల నీటి కాలుష్యం జరగడం\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the environmental challenges faced by the Great Lakes:\n1. Chemical contamination of sediments in the lakes\n2. Water contamination due to agricultural run-off and industrial processes\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సరస్సులలోని అవక్షేపాలు రసాయన కాలుష్యానికి గురికావడం మరియు వ్యవసాయ, పారిశ్రామిక వ్యర్థాల వల్ల నీరు కలుషితమవడం రెండూ కూడా గ్రేట్ లేక్స్ ఎదుర్కొంటున్న సవాళ్లు.",
+    "en": "Both statements are correct as the Great Lakes face challenges from sediment chemical contamination and water pollution from agricultural run-off and industries."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T12-0170",
+   "section": {
+    "te": "Cold Snow Forest Climates",
+    "en": "Cold Snow Forest Climates"
+   },
+   "q": {
+    "te": "కోల్డ్ స్నో ఫారెస్ట్ (Cold Snow Forest) శీతోష్ణస్థితి (D) కి సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి ఉత్తర మరియు దక్షిణ అర్ధగోళాలలోని పెద్ద ఖండ ప్రాంతాలలో సంభవిస్తాయి.\n2. ఇవి యూరప్, ఆసియా మరియు ఉత్తర అమెరికాలో 40°-70° ఉత్తర అక్షాంశాల మధ్య కనిపిస్తాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding Cold Snow Forest climates (D):\n1. They occur in the large continental areas of both the Northern and Southern hemispheres.\n2. They are found between 40°-70° north latitudes in Europe, Asia, and North America.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రకటన 1 తప్పు ఎందుకంటే ఈ శీతోష్ణస్థితులు కేవలం ఉత్తర అర్ధగోళంలో మాత్రమే సంభవిస్తాయని పాఠ్యభాగం పేర్కొంది. ప్రకటన 2 పేర్కొన్న అక్షాంశ పరిధి మరియు ఖండాల ప్రకారం సరైనది.",
+    "en": "Statement 1 is incorrect because the text specifies these climates occur in the northern hemisphere. Statement 2 is correct as per the latitudinal range and continents mentioned."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T12-0044",
+   "section": {
+    "te": "Sahara hot desert",
+    "en": "Sahara hot desert"
+   },
+   "q": {
+    "te": "ప్రపంచంలోనే అతిపెద్ద వేడి ఎడారి (hot desert) ఏది?",
+    "en": "Which of the following is identified as the largest hot desert in the world?"
+   },
+   "options": {
+    "te": [
+     "అటకామా ఎడారి",
+     "థార్ ఎడారి",
+     "సహారా ఎడారి",
+     "కలహరి ఎడారి"
+    ],
+    "en": [
+     "Atacama Desert",
+     "Thar Desert",
+     "Sahara Desert",
+     "Kalahari Desert"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సహారా ఎడారి ప్రపంచంలోనే అతిపెద్ద వేడి ఎడారిగా గుర్తించబడింది.",
+    "en": "The Sahara Desert is the largest hot desert in the world."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T12-0017",
+   "section": {
+    "te": "Third Pole designation",
+    "en": "Third Pole designation"
+   },
+   "q": {
+    "te": "శాస్త్రవేత్తలు టిబెట్ పీఠభూమిని మరియు దాని పర్వతాలను 'మూడవ ధ్రువం' (Third Pole) అని ఎందుకు పిలుస్తారు?",
+    "en": "Why do scientists refer to the Tibetan Plateau and its surrounding mountains as the 'Third Pole'?"
+   },
+   "options": {
+    "te": [
+     "ఇది భూమిపైనే అత్యల్ప ఉష్ణోగ్రతలను నమోదు చేస్తుంది",
+     "ఇది ఖచ్చితంగా ఉత్తర మరియు దక్షిణ ధ్రువాల మధ్య ఉంది",
+     "ఇది ధ్రువ ప్రాంతాల వెలుపల అతిపెద్ద మంచినీటి నిల్వలను కలిగి ఉంది",
+     "ఇక్కడ ఆరు నెలల పగలు మరియు ఆరు నెలల రాత్రి నిరంతరం ఉంటాయి"
+    ],
+    "en": [
+     "It has the lowest recorded temperatures on Earth",
+     "It lies exactly between the North and South Poles",
+     "It contains the largest reserves of freshwater outside the polar regions",
+     "It experiences continuous six-month daylight and darkness"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ధ్రువ ప్రాంతాల వెలుపల ప్రపంచంలోనే అతిపెద్ద మంచినీటి నిల్వలు ఉండటం వల్ల టిబెట్ పీఠభూమిని 'మూడవ ధ్రువం' అని పిలుస్తారు.",
+    "en": "Scientists designate the Tibetan Plateau as the 'Third Pole' because it holds the largest freshwater reserves outside the polar regions."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T12-0166",
+   "section": {
+    "te": "Humid Subtropical (Cfa) Precipitation",
+    "en": "Humid Subtropical (Cfa) Precipitation"
+   },
+   "q": {
+    "te": "తేమతో కూడిన ఉపఉష్ణమండల (Cfa) శీతోష్ణస్థితిలో ఏ రకమైన వర్షపాతం సాధారణం?\nఅంశం A: వేసవిలో ఉరుములతో కూడిన వర్షాలు (Thunderstorms)\nఅంశం B: శీతాకాలంలో ఫ్రంటల్ వర్షపాతం (Frontal precipitation)\nఅంశం C: వేసవిలో రుతుపవన వర్షపాతం",
+    "en": "Which types of precipitation are common in the Humid Subtropical (Cfa) climate?\nItem A: Thunderstorms in summer\nItem B: Frontal precipitation in winter\nItem C: Monsoon rainfall in summer"
+   },
+   "options": {
+    "te": [
+     "అంశం A మరియు C మాత్రమే",
+     "అంశం B మరియు C మాత్రమే",
+     "A మరియు B రెండూ",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Item A and C only",
+     "Item B and C only",
+     "Both A and B",
+     "All of the above"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, Cfa శీతోష్ణస్థితిలో సాధారణంగా వేసవిలో ఉరుములతో కూడిన వర్షాలు మరియు శీతాకాలంలో ఫ్రంటల్ వర్షపాతం సంభవిస్తాయి.",
+    "en": "The Cfa climate commonly experiences thunderstorms in summer and frontal precipitation in winter."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T12-0018",
+   "section": {
+    "te": "Rivers originating in Tibet",
+    "en": "Rivers originating in Tibet"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఏ ప్రధాన నదులు టిబెట్ పీఠభూమి ప్రాంతంలో ఉద్భవిస్తున్నాయి?",
+    "en": "Which of the following major rivers have their source in the Tibetan Plateau region?"
+   },
+   "options": {
+    "te": [
+     "సింధు",
+     "బ్రహ్మపుత్ర",
+     "యాంగ్జీ",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Indus",
+     "Brahmaputra",
+     "Yangtze",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సింధు, బ్రహ్మపుత్ర మరియు యాంగ్జీ వంటి అనేక ప్రధాన నదులకు టిబెట్ పీఠభూమి మూలస్థానంగా ఉంది.",
+    "en": "The Tibetan Plateau is the source of many major Asian rivers, including the Indus, Brahmaputra, and Yangtze."
+   }
+  }
+ ]
+}
