@@ -1,0 +1,942 @@
+{
+ "id": "geo-27-g1-7",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Transport – క్విజ్ 7",
+  "en": "Transport – Quiz 7"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T27-0288",
+   "section": {
+    "te": "NRSC Location",
+    "en": "NRSC Location"
+   },
+   "q": {
+    "te": "ఉపగ్రహ డేటా సేకరణ మరియు ప్రాసెసింగ్ కోసం సౌకర్యాలను అందించే నేషనల్ రిమోట్ సెన్సింగ్ సెంటర్ (NRSC) ఎక్కడ ఉంది?",
+    "en": "Where is the National Remote Sensing Centre (NRSC), which provides facilities for satellite data acquisition and processing, located?"
+   },
+   "options": {
+    "te": [
+     "చెన్నై",
+     "అహ్మదాబాద్",
+     "బెంగళూరు",
+     "హైదరాబాద్"
+    ],
+    "en": [
+     "Chennai",
+     "Ahmedabad",
+     "Bengaluru",
+     "Hyderabad"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నేషనల్ రిమోట్ సెన్సింగ్ సెంటర్ (NRSC) హైదరాబాద్‌లో ఉంది.",
+    "en": "The National Remote Sensing Centre (NRSC) is located in Hyderabad."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T27-0092",
+   "section": {
+    "te": "First Public Railway",
+    "en": "First Public Railway"
+   },
+   "q": {
+    "te": "మొదటి పబ్లిక్ రైల్వే లైన్ ఏ సంవత్సరంలో మరియు ఏ రెండు ప్రాంతాల మధ్య ప్రారంభించబడింది?",
+    "en": "In which year and between which two places was the first public railway line opened?"
+   },
+   "options": {
+    "te": [
+     "1825, స్టాక్టన్ మరియు డార్లింగ్టన్ మధ్య",
+     "1853, ముంబై మరియు థానే మధ్య",
+     "1830, లండన్ మరియు మాంచెస్టర్ మధ్య",
+     "1820, లివర్పూల్ మరియు డార్లింగ్టన్ మధ్య"
+    ],
+    "en": [
+     "1825, between Stockton and Darlington",
+     "1853, between Mumbai and Thane",
+     "1830, between London and Manchester",
+     "1820, between Liverpool and Darlington"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఉత్తర ఇంగ్లాండ్‌లోని స్టాక్టన్ మరియు డార్లింగ్టన్ మధ్య 1825లో మొదటి పబ్లిక్ రైల్వే లైన్ ప్రారంభించబడిందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The first public railway line was opened in 1825 between Stockton and Darlington in northern England."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T27-0040",
+   "section": {
+    "te": "National Waterways Act 2016",
+    "en": "National Waterways Act 2016"
+   },
+   "q": {
+    "te": "నేషనల్ వాటర్‌వేస్ చట్టం, 2016 ద్వారా మొత్తం ఎన్ని అంతర్గత జలమార్గాలను జాతీయ జలమార్గాలు (NWs)గా ప్రకటించారు?",
+    "en": "How many inland waterways in total were declared as National Waterways (NWs) by the National Waterways Act, 2016?"
+   },
+   "options": {
+    "te": [
+     "5",
+     "111",
+     "121",
+     "106"
+    ],
+    "en": [
+     "5",
+     "111",
+     "121",
+     "106"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "నేషనల్ వాటర్‌వేస్ చట్టం, 2016 ప్రకారం గతంలో ప్రకటించిన 5 జలమార్గాలతో కలిపి మొత్తం 111 జలమార్గాలను జాతీయ జలమార్గాలుగా గుర్తించారు.",
+    "en": "Under the National Waterways Act, 2016, a total of 111 inland waterways (including 5 previously declared) were declared as National Waterways."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T27-0021",
+   "section": {
+    "te": "Golden Quadrilateral Project",
+    "en": "Golden Quadrilateral Project"
+   },
+   "q": {
+    "te": "స్వర్ణ చతుర్భుజి సూపర్ హైవేస్ (Golden Quadrilateral Super Highways) ప్రాజెక్ట్ ఆరు వరుసల సూపర్ హైవేల ద్వారా క్రింది ఏ మెగా నగరాలను అనుసంధానిస్తుంది?",
+    "en": "The Golden Quadrilateral Super Highways project links which of the following sets of mega cities by six-lane Super Highways?"
+   },
+   "options": {
+    "te": [
+     "ఢిల్లీ మరియు కోల్‌కతా",
+     "చెన్నై మరియు ముంబై",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Delhi and Kolkata",
+     "Chennai and Mumbai",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "స్వర్ణ చతుర్భుజి సూపర్ హైవేస్ ప్రాజెక్ట్ ఢిల్లీ-కోల్‌కతా-చెన్నై-ముంబై నగరాలను ఆరు వరుసల సూపర్ హైవేలతో కలుపుతుంది.",
+    "en": "The Golden Quadrilateral links Delhi-Kolkata-Chennai-Mumbai and Delhi by six-lane Super Highways, so both sets of cities are linked."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T27-0195",
+   "section": {
+    "te": "Himalayan air travel",
+    "en": "Himalayan air travel"
+   },
+   "q": {
+    "te": "ప్రకటన (A): హిమాలయ ప్రాంతంలో, ఒక ప్రదేశానికి చేరుకోవడానికి వాయు ప్రయాణం తరచుగా ఏకైక ప్రత్యామ్నాయం.\nకారణం (R): హిమాలయ ప్రాంతంలో కొండచరియలు విరిగిపడటం, మంచు తుఫానులు లేదా భారీ హిమపాతం కారణంగా మార్గాలు తరచుగా మూసుకుపోతాయి.",
+    "en": "Assertion (A): In the Himalayan region, air travel is often the only alternative to reach a place.\nReason (R): Routes in the Himalayan region are often obstructed due to landslides, avalanches or heavy snow fall."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "కొండచరియలు విరిగిపడటం మరియు మంచు వంటి ప్రకృతి వైపరీత్యాల వల్ల ఉపరితల మార్గాలు తరచుగా మూసుకుపోవడం వల్ల హిమాలయాలలో వాయు ప్రయాణం ఏకైక ప్రత్యామ్నాయంగా మారుతుంది.",
+    "en": "Air travel is the only alternative in the Himalayas because surface routes are frequently blocked by natural events like landslides and snow."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T27-0275",
+   "section": {
+    "te": "Radio History",
+    "en": "Radio History"
+   },
+   "q": {
+    "te": "1923లో భారతదేశంలో రేడియో ప్రసారాలు ఈ క్రింది వాటిలో దేని ద్వారా ప్రారంభించబడ్డాయి?",
+    "en": "Radio broadcasting in India was started in 1923 by which of the following?"
+   },
+   "options": {
+    "te": [
+     "ఆల్ ఇండియా రేడియో",
+     "ఆకాశవాణి",
+     "రేడియో క్లబ్ ఆఫ్ బాంబే",
+     "ఇండియన్ బ్రాడ్‌కాస్టింగ్ సిస్టమ్"
+    ],
+    "en": [
+     "All India Radio",
+     "Akashwani",
+     "Radio Club of Bombay",
+     "Indian Broadcasting System"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రేడియో క్లబ్ ఆఫ్ బాంబే ప్రయత్నాల ద్వారా 1923లో భారతదేశంలో రేడియో ప్రసారాలు ప్రారంభమయ్యాయి.",
+    "en": "Radio broadcasting began in India in 1923 through the efforts of the Radio Club of Bombay."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T27-0251",
+   "section": {
+    "te": "National Waterway 3",
+    "en": "National Waterway 3"
+   },
+   "q": {
+    "te": "జాతీయ జలమార్గం 3 (NW 3) ఈ క్రింది ఏ కాలువ వ్యవస్థలను కలిగి ఉంటుంది?",
+    "en": "National Waterway 3 (NW 3) consists of which of the following canal systems?"
+   },
+   "options": {
+    "te": [
+     "పశ్చిమ తీర కాలువ (West coast canal)",
+     "చంపాకర కాలువ (Champakara canal)",
+     "ఉద్యోగమండల్ కాలువ (Udyogmandal canal)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "West coast canal",
+     "Champakara canal",
+     "Udyogmandal canal",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "NW 3 (కొట్టాపురం-కొల్లాం స్ట్రెచ్) పశ్చిమ తీర కాలువ, చంపాకర కాలువ మరియు ఉద్యోగమండల్ కాలువలను కలిగి ఉంటుంది.",
+    "en": "NW 3 (Kottapuram-Kollam stretch) includes the west coast canal, Champakara canal, and Udyogmandal canal."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T27-0160",
+   "section": {
+    "te": "South Pacific Sea Route",
+    "en": "South Pacific Sea Route"
+   },
+   "q": {
+    "te": "దక్షిణ పసిఫిక్ సముద్ర మార్గం పశ్చిమ యూరప్ మరియు ఉత్తర అమెరికాలను ఆస్ట్రేలియా, న్యూజిలాండ్‌లతో ఏ కాలువ ద్వారా కలుపుతుంది?",
+    "en": "The South Pacific Sea Route connects Western Europe and North America with Australia, New Zealand, and Pacific islands via which canal?"
+   },
+   "options": {
+    "te": [
+     "కీల్ కాలువ",
+     "పనామా కాలువ",
+     "సూయజ్ కాలువ",
+     "ఎరీ కాలువ"
+    ],
+    "en": [
+     "Kiel Canal",
+     "Panama Canal",
+     "Suez Canal",
+     "Erie Canal"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "దక్షిణ పసిఫిక్ సముద్ర మార్గం పనామా కాలువ గుండా పశ్చిమ యూరప్, ఉత్తర అమెరికాలను ఆస్ట్రేలియా, న్యూజిలాండ్ మరియు పసిఫిక్ దీవులతో అనుసంధానిస్తుంది.",
+    "en": "The South Pacific Sea Route connects Western Europe and North America with Australia, New Zealand, and scattered Pacific islands via the Panama Canal."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T27-0005",
+   "section": {
+    "te": "Swadesh Darshan 2.0",
+    "en": "Swadesh Darshan 2.0"
+   },
+   "q": {
+    "te": "స్వదేశీ దర్శన్ 2.0 పథకం యొక్క ప్రాథమిక లక్ష్యం ఏమిటి?",
+    "en": "What is the primary objective of the Swadesh Darshan 2.0 Scheme?"
+   },
+   "options": {
+    "te": [
+     "మతపరమైన ప్రదేశాలకు ఉచిత ప్రయాణాన్ని అందించడం",
+     "పర్యాటక రంగం కోసం కొత్త విమానాశ్రయాలను నిర్మించడం",
+     "చారిత్రక కట్టడాలన్నింటినీ ప్రైవేటీకరించడం",
+     "స్థిరమైన పర్యాటక గమ్యస్థానాలను (sustainable tourism destinations) అభివృద్ధి చేయడం"
+    ],
+    "en": [
+     "To provide free travel to religious sites",
+     "To build new airports for tourism",
+     "To privatize all historical monuments",
+     "To develop sustainable tourism destinations"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "స్వదేశీ దర్శన్ 2.0 పథకం పరిరక్షణ మరియు స్థానిక సమాజ భాగస్వామ్యంపై దృష్టి సారించి స్థిరమైన పర్యాటక గమ్యస్థానాలను అభివృద్ధి చేయడమే లక్ష్యంగా పెట్టుకుంది.",
+    "en": "The Swadesh Darshan 2.0 Scheme aims to develop sustainable tourism destinations with a focus on conservation and local community involvement."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T27-0086",
+   "section": {
+    "te": "Overland transport in Asia",
+    "en": "Overland transport in Asia"
+   },
+   "q": {
+    "te": "భారతదేశం మరియు చైనాల్లోని జనసాంద్రత అధికంగా ఉండే జిల్లాలలో నేలమీద రవాణా ఇప్పటికీ వేటి ద్వారా జరుగుతోంది?",
+    "en": "In the densely populated districts of India and China, overland transport still takes place by which of the following?"
+   },
+   "options": {
+    "te": [
+     "కూలీలు (హ్యూమన్ పోర్టర్స్)",
+     "మనుషులు లాగే లేదా నెట్టే బండ్లు",
+     "A మరియు B రెండూ",
+     "బరువులు మోసే జంతువులు మాత్రమే"
+    ],
+    "en": [
+     "Human porters",
+     "Carts drawn or pushed by humans",
+     "Both A and B",
+     "Pack animals only"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారత్, చైనాలలోని జనసాంద్రత గల జిల్లాలలో మనుషులు మోసే కూలీలు మరియు మనుషులు లాగే లేదా నెట్టే బండ్ల ద్వారా ఇప్పటికీ రవాణా సాగుతోంది.",
+    "en": "Overland transport in densely populated districts of India and China still takes place by human porters and carts drawn or pushed by humans."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T27-0214",
+   "section": {
+    "te": "Ports of Call",
+    "en": "Ports of Call"
+   },
+   "q": {
+    "te": "ఇంధనం నింపుకోవడానికి మరియు నీటి కోసం 'పోర్ట్స్ ఆఫ్ కాల్' (Ports of Call) గా అభివృద్ధి చెందిన ఓడరేవులు ఏవి?",
+    "en": "Which of the following ports developed as 'Ports of Call' for refuelling and watering?"
+   },
+   "options": {
+    "te": [
+     "ఏడెన్",
+     "హోノルలు",
+     "సింగపూర్",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Aden",
+     "Honolulu",
+     "Singapore",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఏడెన్, హోノルలు మరియు సింగపూర్ అన్నీ ఓడలు ఇంధనం, నీరు మరియు ఆహారం కోసం ఆగే పోర్ట్స్ ఆఫ్ కాల్‌లుగా అభివృద్ధి చెందాయి.",
+    "en": "Aden, Honolulu, and Singapore all developed as ports of call where ships anchored for refuelling, watering, and food."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T27-0128",
+   "section": {
+    "te": "Trans-Siberian Railway terminals",
+    "en": "Trans-Siberian Railway terminals"
+   },
+   "q": {
+    "te": "రష్యాలోని ట్రాన్స్-సైబీరియన్ రైల్వే పశ్చిమాన సెయింట్ పీటర్స్‌బర్గ్ నుండి తూర్పున పసిఫిక్ తీరంలోని ఏ నగరం వరకు నడుస్తుంది?",
+    "en": "The Trans-Siberian Railway in Russia runs from St. Petersburg in the west to which city on the Pacific Coast in the east?"
+   },
+   "options": {
+    "te": [
+     "నొవోసిబిర్స్క్",
+     "ఖబరోవ్స్క్",
+     "ఇర్కుట్స్క్",
+     "వ్లాడివోస్టాక్"
+    ],
+    "en": [
+     "Novosibirsk",
+     "Khabarovsk",
+     "Irkutsk",
+     "Vladivostok"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ట్రాన్స్-సైబీరియన్ రైలు మార్గం పశ్చిమాన సెయింట్ పీటర్స్‌బర్గ్ నుండి తూర్పున పసిఫిక్ తీరంలోని వ్లాడివోస్టాక్ వరకు విస్తరించి ఉంది.",
+    "en": "The Trans-Siberian Railway runs from St. Petersburg in the west to Vladivostok on the Pacific Coast in the east."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T27-0239",
+   "section": {
+    "te": "Bharatmala Pariyojana",
+    "en": "Bharatmala Pariyojana"
+   },
+   "q": {
+    "te": "నగర ట్రాఫిక్‌ను తగ్గించడానికి భారత్‌మాల పరియోజన ఈ క్రింది వాటిలో దేని అభివృద్ధిపై దృష్టి పెడుతుంది?\nA. రింగ్ రోడ్లు\nB. బైపాస్‌లు\nC. ఎలివేటెడ్ కారిడార్లు",
+    "en": "The Bharatmala Pariyojana focuses on the development of which of the following to decongest city traffic?\nA. Ring roads\nB. Bypasses\nC. Elevated corridors"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నగర ట్రాఫిక్ రద్దీని తగ్గించడానికి మరియు లాజిస్టిక్స్ మెరుగుపరచడానికి భారత్‌మాల పరియోజన రింగ్ రోడ్లు, బైపాస్‌లు మరియు ఎలివేటెడ్ కారిడార్లపై దృష్టి పెడుతుంది.",
+    "en": "The Bharatmala Pariyojana focuses on ring roads, bypasses, and elevated corridors to reduce city traffic congestion and improve logistics."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T27-0222",
+   "section": {
+    "te": "Grand Trunk Road History",
+    "en": "Grand Trunk Road History"
+   },
+   "q": {
+    "te": "షేర్ షా సూరి నిర్మించిన షాహీ (రాయల్) రోడ్డు మొదట ఏ రెండు ప్రాంతాలను అనుసంధానించింది?",
+    "en": "The Shahi (Royal) road built by Sher Shah Suri originally connected which two regions?"
+   },
+   "options": {
+    "te": [
+     "అమృత్‌సర్ నుండి కోల్‌కతా వరకు",
+     "పెషావర్ నుండి కోల్‌కతా వరకు",
+     "సింధు లోయ నుండి సోనార్ లోయ వరకు",
+     "ఢిల్లీ నుండి పాట్నా వరకు"
+    ],
+    "en": [
+     "Amritsar to Kolkata",
+     "Peshawar to Kolkata",
+     "Indus Valley to Sonar Valley",
+     "Delhi to Patna"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "షేర్ షా సూరి తన సామ్రాజ్యాన్ని ఏకీకృతం చేయడానికి బెంగాల్‌లోని సింధు లోయను సోనార్ లోయతో అనుసంధానించడానికి షాహీ రహదారిని నిర్మించాడు.",
+    "en": "Sher Shah Suri built the Shahi road to connect the Indus Valley to the Sonar Valley in Bengal to consolidate his empire."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T27-0156",
+   "section": {
+    "te": "Fresh-water Canal to Suez",
+    "en": "Fresh-water Canal to Suez"
+   },
+   "q": {
+    "te": "పోర్ట్ సెయిడ్ మరియు సూయజ్ నగరాలకు మంచినీటిని సరఫరా చేయడానికి ఇస్మాయిలియా వద్ద సూయజ్ కాలువతో కలిసే మంచి నీటి కాలువ ఏ నది నుండి తీయబడింది?",
+    "en": "A navigable fresh-water canal from which river joins the Suez Canal at Ismailia to supply fresh water to Port Said and Suez?"
+   },
+   "options": {
+    "te": [
+     "నైజర్",
+     "జాంబేజీ",
+     "కాంగో",
+     "నైలు"
+    ],
+    "en": [
+     "Niger",
+     "Zambezi",
+     "Congo",
+     "Nile"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నైలు నది నుండి తీసిన నావిగేట్ చేయగల మంచినీటి కాలువ ఇస్మాయిలియా వద్ద సూయజ్ కాలువతో కలిసి పోర్ట్ సెయిడ్ మరియు సూయజ్ లకు మంచినీటిని అందిస్తుంది.",
+    "en": "A navigable fresh-water canal from the Nile joins the Suez Canal in Ismailia to supply fresh water to Port Said and Suez."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T27-0185",
+   "section": {
+    "te": "Southern hemisphere air",
+    "en": "Southern hemisphere air"
+   },
+   "q": {
+    "te": "దక్షిణార్ధగోళంలోని వాయు సేవల గురించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. 10-35 అక్షాంశాల మధ్య పరిమిత వాయు సేవలు ఉన్నాయి.\n2. ఇది తక్కువ జనాభా మరియు పరిమిత భూభాగం కారణంగా ఉంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding air services in the Southern Hemisphere:\n1. There are limited air services between 10-35 latitudes.\n2. This is due to sparser population and limited landmass.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "తక్కువ జనాభా, పరిమిత భూభాగం మరియు ఆర్థిక అభివృద్ధి కారణంగా దక్షిణార్ధగోళంలో 10-35 అక్షాంశాల మధ్య వాయు సేవలు పరిమితంగా ఉన్నాయని పాఠ్యభాగం ధృవీకరిస్తుంది.",
+    "en": "The text confirms that air services are limited between 10-35 latitudes in the Southern Hemisphere due to sparse population, limited landmass, and economic development."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T27-0077",
+   "section": {
+    "te": "Modes of transportation",
+    "en": "Modes of transportation"
+   },
+   "q": {
+    "te": "కింది వాటిలో ప్రయాణికులను కాకుండా కేవలం సరుకులను (Freight) మాత్రమే రవాణా చేసే ప్రధాన రవాణా మార్గం ఏది?",
+    "en": "Which of the following principal modes of transportation carries ONLY freight and does NOT carry passengers?"
+   },
+   "options": {
+    "te": [
+     "రోప్‌వేలు",
+     "పైప్‌లైన్లు",
+     "వాయుమార్గాలు",
+     "అంతర్గత జలమార్గాలు"
+    ],
+    "en": [
+     "Ropeways",
+     "Pipelines",
+     "Airways",
+     "Inland waterways"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, పైప్‌లైన్లు మినహా ప్రపంచంలోని అన్ని ప్రధాన రవాణా మార్గాలు ప్రయాణికులను మరియు సరుకులను రవాణా చేస్తాయి; పైప్‌లైన్లు కేవలం సరుకులను మాత్రమే రవాణా చేస్తాయి.",
+    "en": "Each principal mode of world transportation carries both passengers and freight, except pipelines which carry only freight."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T27-0171",
+   "section": {
+    "te": "Mississippi Waterways",
+    "en": "Mississippi Waterways"
+   },
+   "q": {
+    "te": "మిసిసిపీ-ఓహియో జలమార్గంలో, పెద్ద స్టీమర్లు ఎంత దూరం ప్రయాణించగలవు?",
+    "en": "On the Mississippi-Ohio waterway, how far inland can large steamers travel?"
+   },
+   "options": {
+    "te": [
+     "దులుత్",
+     "మాంట్రియల్",
+     "బఫెలో",
+     "మిన్నియాపాలిస్"
+    ],
+    "en": [
+     "Duluth",
+     "Montreal",
+     "Buffalo",
+     "Minneapolis"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మిసిసిపీ-ఓహియో మార్గం పెద్ద స్టీమర్లను USA లోపలి భాగంలోని మిన్నియాపాలిస్ వరకు చేరుకోవడానికి అనుమతిస్తుంది.",
+    "en": "The Mississippi-Ohio route allows large steamers to reach as far as Minneapolis in the interior of the USA."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T27-0164",
+   "section": {
+    "te": "Rhine Waterway Navigation",
+    "en": "Rhine Waterway Navigation"
+   },
+   "q": {
+    "te": "రైన్ జలమార్గం ఏ రెండు ప్రాంతాల మధ్య 700 కిలోమీటర్ల మేర నౌకాయానానికి అనుకూలంగా ఉంది?",
+    "en": "The Rhine waterway is navigable for 700 km between which two locations?"
+   },
+   "options": {
+    "te": [
+     "కొలోన్ మరియు స్విట్జర్లాండ్",
+     "రోటర్‌డ్యామ్ మరియు కొలోన్",
+     "రోటర్‌డ్యామ్ మరియు బాసెల్",
+     "డ్యూసెల్డార్ఫ్ మరియు బాసెల్"
+    ],
+    "en": [
+     "Cologne and Switzerland",
+     "Rotterdam and Cologne",
+     "Rotterdam and Basel",
+     "Dusseldorf and Basel"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రైన్ నది నెదర్లాండ్స్‌లోని రోటర్‌డ్యామ్ నుండి స్విట్జర్లాండ్‌లోని బాసెల్ వరకు నౌకాయానానికి అనుకూలంగా ఉంటుంది.",
+    "en": "The Rhine is navigable from Rotterdam in the Netherlands to Basel in Switzerland."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T27-0140",
+   "section": {
+    "te": "Orient Express journey time",
+    "en": "Orient Express journey time"
+   },
+   "q": {
+    "te": "ఓరియంట్ ఎక్స్‌ప్రెస్ ద్వారా లండన్ నుండి ఇస్తాంబుల్‌కు ప్రయాణ సమయం సముద్ర మార్గంలో పట్టే 10 రోజుల నుండి ఎన్ని గంటలకు తగ్గించబడింది?",
+    "en": "By using the Orient Express, the journey time from London to Istanbul was reduced from 10 days by sea to how many hours?"
+   },
+   "options": {
+    "te": [
+     "96 గంటలు",
+     "144 గంటలు",
+     "120 గంటలు",
+     "72 గంటలు"
+    ],
+    "en": [
+     "96 hours",
+     "144 hours",
+     "120 hours",
+     "72 hours"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఓరియంట్ ఎక్స్‌ప్రెస్ వల్ల లండన్ నుండి ఇస్తాంబుల్‌కు సముద్ర మార్గం పట్టే 10 రోజుల సమయం కాస్తా 96 గంటలకు తగ్గింది.",
+    "en": "The journey time from London to Istanbul via the Orient Express was reduced to 96 hours, compared to 10 days by the sea route."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T27-0136",
+   "section": {
+    "te": "Trans-Asiatic Railway proposal",
+    "en": "Trans-Asiatic Railway proposal"
+   },
+   "q": {
+    "te": "ఇరాన్, పాకిస్తాన్, భారతదేశం, బంగ్లాదేశ్ మరియు మయన్మార్‌ల మీదుగా ఇస్తాంబుల్‌ను బ్యాంకాక్‌తో కలపడానికి ప్రతిపాదించబడిన రైలు మార్గం ఏది?",
+    "en": "Which proposed international railway route is planned to link Istanbul with Bangkok via countries including Iran, Pakistan, India, Bangladesh, and Myanmar?"
+   },
+   "options": {
+    "te": [
+     "ట్రాన్స్-యురేషియన్ రైల్వే",
+     "సిల్క్ రూట్ రైల్వే",
+     "ఓరియంట్ ఎక్స్‌ప్రెస్",
+     "ట్రాన్స్-ఆసియాటిక్ రైల్వే (Trans–Asiatic Railway)"
+    ],
+    "en": [
+     "Trans–Eurasian Railway",
+     "Silk Route Railway",
+     "Orient Express",
+     "Trans–Asiatic Railway"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఇస్తాంబుల్ నుండి బ్యాంకాక్ వరకు ఇరాన్, పాకిస్తాన్, భారత్, బంగ్లాదేశ్ మరియు మయన్మార్ల ద్వారా ట్రాన్స్-ఆసియాటిక్ రైల్వేను నిర్మించడానికి ప్రతిపాదన ఉంది.",
+    "en": "The proposed Trans-Asiatic Railway aims to link Istanbul with Bangkok through Iran, Pakistan, India, Bangladesh, and Myanmar."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T27-0345",
+   "section": {
+    "te": "Major Airports Count",
+    "en": "Major Airports Count"
+   },
+   "q": {
+    "te": "వార్షిక నివేదిక 2016-17 ప్రకారం, భారతదేశంలో ఎన్ని ప్రధాన విమానాశ్రయాలు పనిచేస్తున్నాయి?",
+    "en": "According to the Annual Report 2016-17, how many major airports were functioning in India?"
+   },
+   "options": {
+    "te": [
+     "73",
+     "128",
+     "25",
+     "12"
+    ],
+    "en": [
+     "73",
+     "128",
+     "25",
+     "12"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "2016-17 వార్షిక నివేదిక ప్రకారం భారతదేశంలో 25 ప్రధాన విమానాశ్రయాలు పనిచేస్తున్నాయని మూలం పేర్కొంది.",
+    "en": "There were 25 major airports functioning in India as per the 2016-17 Annual Report."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T27-0286",
+   "section": {
+    "te": "INSAT System",
+    "en": "INSAT System"
+   },
+   "q": {
+    "te": "1983లో స్థాపించబడిన ఇండియన్ నేషనల్ శాటిలైట్ సిస్టమ్ (INSAT), ఈ క్రింది ఏ ప్రయోజనాల కోసం ఉపయోగించబడుతుంది?",
+    "en": "The Indian National Satellite System (INSAT), established in 1983, is used for which of the following purposes?"
+   },
+   "options": {
+    "te": [
+     "టెలికమ్యూనికేషన్",
+     "వాతావరణ పరిశీలన (Meteorological observation)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Telecommunication",
+     "Meteorological observation",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "INSAT అనేది టెలికమ్యూనికేషన్, వాతావరణ పరిశీలన మరియు ఇతర డేటా ప్రోగ్రామ్‌ల కోసం ఉపయోగించే బహుళ-ప్రయోజన వ్యవస్థ.",
+    "en": "INSAT is a multi-purpose system used for telecommunication, weather (meteorological) observation, and other data programs."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T27-0249",
+   "section": {
+    "te": "Konkan Railway Engineering",
+    "en": "Konkan Railway Engineering"
+   },
+   "q": {
+    "te": "ఇంజనీరింగ్ అద్భుతంగా పరిగణించబడే కొంకణ్ రైల్వేలో ఈ క్రింది ఏ లక్షణాలు ఉన్నాయి?",
+    "en": "The Konkan Railway, considered an engineering marvel, includes which of the following features?"
+   },
+   "options": {
+    "te": [
+     "91 నదులు మరియు 2000 సొరంగాలు",
+     "200 నదులు మరియు 146 సొరంగాలు",
+     "146 నదులు మరియు 91 సొరంగాలు",
+     "146 నదులు మరియు 200 సొరంగాలు"
+    ],
+    "en": [
+     "91 rivers and 2000 tunnels",
+     "200 rivers and 146 tunnels",
+     "146 rivers and 91 tunnels",
+     "146 rivers and 200 tunnels"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కొంకణ్ రైల్వే మార్గం 146 నదులు/వాగులు, దాదాపు 2000 వంతెనలు మరియు ఆసియాలోనే అతిపెద్ద సొరంగంతో సహా 91 సొరంగాలను దాటుతుంది.",
+    "en": "The Konkan Railway route crosses 146 rivers/streams, nearly 2000 bridges, and 91 tunnels, including Asia's largest tunnel."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T27-0331",
+   "section": {
+    "te": "Vadinar Terminal",
+    "en": "Vadinar Terminal"
+   },
+   "q": {
+    "te": "వాడినార్ వద్ద ఉన్న ఆఫ్ షోర్ టెర్మినల్ ఏ ఓడరేవు వద్ద ఒత్తిడిని తగ్గించడానికి అభివృద్ధి చేయబడింది?",
+    "en": "The offshore terminal at Vadinar was developed to reduce pressure at which port?"
+   },
+   "options": {
+    "te": [
+     "న్యూ మంగళూరు పోర్ట్",
+     "దీన్ దయాల్ పోర్ట్",
+     "ముంబై పోర్ట్",
+     "మర్మగోవా పోర్ట్"
+    ],
+    "en": [
+     "New Mangalore Port",
+     "Deendayal Port",
+     "Mumbai Port",
+     "Mormugao Port"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "దీన్ దయాల్ పోర్ట్ (కాండ్లా) పై ఒత్తిడిని తగ్గించడానికి వాడినార్ ఆఫ్ షోర్ టెర్మినల్ గురించి పాఠ్య భాగం పేర్కొంది.",
+    "en": "Vadinar offshore terminal in the context of Deendayal Port (Kandla) to reduce its pressure."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T27-0278",
+   "section": {
+    "te": "Coastline and Ports",
+    "en": "Coastline and Ports"
+   },
+   "q": {
+    "te": "భారతదేశ సముద్ర మౌలిక సదుపాయాలకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిగణించండి:\n1. భారతదేశం ద్వీపాలతో కలిపి సుమారు 7,517 కిలోమీటర్ల తీరప్రాంతాన్ని కలిగి ఉంది.\n2. సముద్ర మార్గాలకు మద్దతునిచ్చే 12 ప్రధాన మరియు 200 చిన్న ఓడరేవులు ఉన్నాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding India's oceanic infrastructure:\n1. India has a coastline of approximately 7,517 km including islands.\n2. There are 12 major and 200 minor ports providing support to oceanic routes.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 లేదా 2 ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "తీరప్రాంతం పొడవు మరియు ప్రధాన మరియు చిన్న ఓడరేవుల సంఖ్యకు సంబంధించి వనరుల పాఠం ప్రకారం రెండు ప్రకటనలు సరైనవి.",
+    "en": "Both statements are correct as per the source text regarding the coastline length and the number of major and minor ports."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T27-0182",
+   "section": {
+    "te": "Pipeline milk supply",
+    "en": "Pipeline milk supply"
+   },
+   "q": {
+    "te": "ఏ దేశంలో పొలాల నుండి కర్మాగారాలకు పైప్‌లైన్‌ల ద్వారా పాలు సరఫరా చేయబడుతున్నాయి?",
+    "en": "In which country is milk supplied through pipelines from farms to factories?"
+   },
+   "options": {
+    "te": [
+     "భారత్",
+     "తుర్క్మెనిస్తాన్",
+     "న్యూజిలాండ్",
+     "అమెరికా"
+    ],
+    "en": [
+     "India",
+     "Turkmenistan",
+     "New Zealand",
+     "USA"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "న్యూజిలాండ్ పొలాల నుండి నేరుగా కర్మాగారాలకు పాలను రవాణా చేయడానికి పైప్‌లైన్‌లను ఉపయోగిస్తుంది.",
+    "en": "New Zealand uses pipelines to transport milk from farms directly to factories."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T27-0328",
+   "section": {
+    "te": "Cochin Port",
+    "en": "Cochin Port"
+   },
+   "q": {
+    "te": "భారతదేశంలోని ఏ ఓడరేవును 'అరేబియా సముద్రపు రాణి' (Queen of the Arabian Sea) అని పిలుస్తారు?",
+    "en": "Which Indian port is popularly known as the 'Queen of the Arabian Sea'?"
+   },
+   "options": {
+    "te": [
+     "మర్మగోవా పోర్ట్",
+     "ముంబై పోర్ట్",
+     "కొచ్చిన్ పోర్ట్",
+     "కాండ్లా పోర్ట్"
+    ],
+    "en": [
+     "Mormugao Port",
+     "Mumbai Port",
+     "Cochin Port",
+     "Kandla Port"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వెంబనాడ్ కాయల్ వద్ద ఉన్న కొచ్చిన్ పోర్ట్‌ను 'అరేబియా సముద్రపు రాణి' అని పిలుస్తారు.",
+    "en": "Cochin Port, situated at the head of Vembanad Kayal, is known as the 'Queen of the Arabian Sea'."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T27-0048",
+   "section": {
+    "te": "Jawaharlal Nehru port purpose",
+    "en": "Jawaharlal Nehru port purpose"
+   },
+   "q": {
+    "te": "జవహర్‌లాల్ నెహ్రూ ఓడరేవును క్రింది ఏ ఉద్దేశ్యాలతో ప్రణాళిక చేశారు?",
+    "en": "The Jawaharlal Nehru port was planned with which of the following objectives?"
+   },
+   "options": {
+    "te": [
+     "ముంబై ఓడరేవు రద్దీని తగ్గించడానికి",
+     "ఈ ప్రాంతానికి హబ్ పోర్ట్‌గా సేవలు అందించడానికి",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "To decongest the Mumbai port",
+     "To serve as a hub port for this region",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ముంబై పోర్ట్ యొక్క రద్దీని తగ్గించడానికి మరియు ఈ ప్రాంతానికి హబ్ పోర్ట్‌గా వ్యవహరించడానికి జవహర్‌లాల్ నెహ్రూ పోర్ట్‌ను రూపొందించారు.",
+    "en": "Jawaharlal Nehru port was planned both to decongest Mumbai port and to serve as a hub port for the region."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T27-0178",
+   "section": {
+    "te": "Rhine Waterway Usage",
+    "en": "Rhine Waterway Usage"
+   },
+   "q": {
+    "te": "రైన్ జలమార్గానికి సంబంధించి ఈ క్రింది ప్రకటనలను పరిగణించండి:\n1. ఇది ప్రపంచంలోనే అత్యధికంగా ఉపయోగించబడే జలమార్గం.\n2. ఏటా 2,00,000 కంటే ఎక్కువ సముద్ర నౌకలు దీనిని ఉపయోగిస్తాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the Rhine waterway:\n1. It is the world's most heavily used waterway.\n2. More than 2,00,000 ocean-going ships use it annually.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రకటన 1 సరైనది. ప్రకటన 2 తప్పు ఎందుకంటే 20,000 సముద్ర నౌకలు మరియు 2,00,000 అంతర్గత నౌకలు ఉన్నాయి.",
+    "en": "Statement 1 is correct. Statement 2 is incorrect because there are 20,000 ocean-going ships and 2,00,000 inland vessels."
+   }
+  }
+ ]
+}

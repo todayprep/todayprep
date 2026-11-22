@@ -1,0 +1,942 @@
+{
+ "id": "geo-07-c-1",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Climate Elements – క్విజ్ 1",
+  "en": "Climate Elements – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T07-0077",
+   "section": {
+    "te": "Atmospheric Layers",
+    "en": "Atmospheric Layers"
+   },
+   "q": {
+    "te": "భౌగోళిక శాస్త్రవేత్తలు (Geographers) ప్రధానంగా వాతావరణంలోని ఏ పొరలకు సంబంధించిన అంశాలపై దృష్టి పెడతారు?",
+    "en": "Geographers are primarily concerned with which layers of the atmosphere?"
+   },
+   "options": {
+    "te": [
+     "అన్ని పొరలు",
+     "మొదటి రెండు పొరలు",
+     "కేవలం ఎక్సోస్పియర్ (Exosphere)",
+     "కేవలం స్ట్రాటోస్పియర్ (Stratosphere)"
+    ],
+    "en": [
+     "All layers",
+     "First two layers",
+     "Only the exosphere",
+     "Only the stratosphere"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అన్ని పొరలు మనపై ప్రభావాన్ని చూపినప్పటికీ, భౌగోళిక శాస్త్రవేత్తలు వాతావరణంలోని మొదటి రెండు పొరలకు సంబంధించిన అంశాలపై దృష్టి పెడతారని పాఠ్యాంశం పేర్కొంది.",
+    "en": "While all layers influence us, geographers focus on the first two layers of the atmosphere."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T07-0119",
+   "section": {
+    "te": "Heat Budget Units",
+    "en": "Heat Budget Units"
+   },
+   "q": {
+    "te": "ఉష్ణ బడ్జెట్‌లోని ఈ క్రింది అంశాలను వాటి సంబంధిత యూనిట్లతో జతపరచండి:\n1. సౌర వికిరణం నుండి వాతావరణంలో గ్రహించబడినవి - a. 17 యూనిట్లు\n2. భూమి ఉపరితలం ద్వారా గ్రహించబడినవి - b. 14 యూనిట్లు\n3. భూమి నుండి నేరుగా అంతరిక్షంలోకి వికిరణం చెందినవి - c. 51 యూనిట్లు",
+    "en": "Match the following components of the heat budget with their respective units:\n1. Absorbed within the atmosphere from insolation - a. 17 units\n2. Absorbed by the earth’s surface - b. 14 units\n3. Radiated from earth directly to space - c. 51 units"
+   },
+   "options": {
+    "te": [
+     "1-b, 2-c, 3-a",
+     "1-a, 2-b, 3-c",
+     "1-c, 2-a, 3-b",
+     "1-b, 2-a, 3-c"
+    ],
+    "en": [
+     "1-b, 2-c, 3-a",
+     "1-a, 2-b, 3-c",
+     "1-c, 2-a, 3-b",
+     "1-b, 2-a, 3-c"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఉష్ణ బడ్జెట్ ప్రకారం, సౌర వికిరణం నుండి 14 యూనిట్లు వాతావరణం ద్వారా, 51 యూనిట్లు భూమి ఉపరితలం ద్వారా గ్రహించబడతాయి మరియు 17 యూనిట్లు నేరుగా అంతరిక్షంలోకి వికిరణం చెందుతాయి.",
+    "en": "According to the heat budget, 14 units are absorbed by the atmosphere from insolation, 51 units are absorbed by the Earth's surface, and 17 units are radiated directly to space."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T07-0128",
+   "section": {
+    "te": "Air Drainage",
+    "en": "Air Drainage"
+   },
+   "q": {
+    "te": "కొండలు మరియు పర్వత లోయలలో 'గాలి పారుదల' (air drainage) వల్ల కలిగే ముఖ్యమైన ప్రయోజనం ఏమిటి?",
+    "en": "What is a significant benefit of 'air drainage' in hills and mountain valleys?"
+   },
+   "options": {
+    "te": [
+     "ఇది నేల సారవంతాన్ని పెంచుతుంది",
+     "ఇది నేల కోతను నివారిస్తుంది",
+     "ఇది మొక్కలను మంచు (frost) నష్టం నుండి రక్షిస్తుంది",
+     "ఇది బాష్పీభవన రేటును పెంచుతుంది"
+    ],
+    "en": [
+     "It increases soil fertility",
+     "It prevents soil erosion",
+     "It protects plants from frost damages",
+     "It increases the rate of evaporation"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "చల్లని గాలి వాలుల నుండి లోయలలోకి కదలడం (గాలి పారుదల) వల్ల మొక్కలు మంచు నష్టం నుండి రక్షించబడతాయి.",
+    "en": "Air drainage, where cold air moves down slopes into valleys, is beneficial because it protects plants from frost damages."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T07-0079",
+   "section": {
+    "te": "Wind Effects",
+    "en": "Wind Effects"
+   },
+   "q": {
+    "te": "కింది వాటిలో 'బలమైన గాలి' (Strong breeze - 39–49 కి.మీ/గం) యొక్క ప్రభావం ఏది?",
+    "en": "Which of the following is an effect of a 'Strong breeze' (39–49 km/hr)?"
+   },
+   "options": {
+    "te": [
+     "విస్తృతమైన నష్టం",
+     "గొడుగులు వాడటం కష్టమవుతుంది",
+     "ఆకులు గలగలలాడతాయి",
+     "పొగ నిలువుగా పైకి లేస్తుంది"
+    ],
+    "en": [
+     "Widespread damage",
+     "Umbrellas are difficult to use",
+     "Leaves rustle",
+     "Smoke rises vertically"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పట్టిక 3.1 ప్రకారం, బలమైన గాలి వీచినప్పుడు గొడుగులు వాడటం కష్టమవుతుంది మరియు పెద్ద కొమ్మలు ఊగుతాయి.",
+    "en": "According to Table 3.1, a strong breeze makes umbrellas difficult to use and causes large branches to sway."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T07-0058",
+   "section": {
+    "te": "Effect of Rain",
+    "en": "Effect of Rain"
+   },
+   "q": {
+    "te": "ఒక ప్రాంతం యొక్క ఉష్ణోగ్రతపై వర్షం యొక్క సాధారణ ప్రభావం ఏమిటి?",
+    "en": "What is the general effect of rain on the temperature of a place?"
+   },
+   "options": {
+    "te": [
+     "ఇది ఉష్ణోగ్రతను పెంచుతుంది",
+     "ఇది ఉష్ణోగ్రతను తగ్గిస్తుంది",
+     "ఇది ఉష్ణోగ్రతపై ఎటువంటి ప్రభావాన్ని చూపదు",
+     "ఇది ఉష్ణోగ్రత వేగంగా హెచ్చుతగ్గులకు గురయ్యేలా చేస్తుంది"
+    ],
+    "en": [
+     "It increases the temperature",
+     "It lowers the temperature",
+     "It has no effect on temperature",
+     "It makes the temperature fluctuate rapidly"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వర్షం, అవపాతం యొక్క అత్యంత సాధారణ రూపం, ఇది ఒక ప్రాంతం యొక్క ఉష్ణోగ్రతను తగ్గించే ప్రభావాన్ని కలిగి ఉంటుంది.",
+    "en": "Rain, being the most common form of precipitation, has the effect of lowering the temperature of a location."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T07-0170",
+   "section": {
+    "te": "Sea Breeze Mechanism",
+    "en": "Sea Breeze Mechanism"
+   },
+   "q": {
+    "te": "పగటిపూట, సముద్రపు గాలి సముద్రం నుండి భూమికి ఎందుకు వీస్తుంది?",
+    "en": "During the day, why does a sea breeze blow from the sea to the land?"
+   },
+   "options": {
+    "te": [
+     "భూ ఉపరితలంపై గాలి క్రిందికి దిగుతుంది",
+     "భూమి సముద్రం కంటే చల్లగా ఉంటుంది",
+     "భూమిపై పీడనం సముద్రం కంటే ఎక్కువగా ఉంటుంది",
+     "సముద్రం నుండి భూమికి పీడన ప్రవణత (pressure gradient) ఏర్పడుతుంది"
+    ],
+    "en": [
+     "Air sinks over the land surface",
+     "Land is cooler than the sea",
+     "Pressure over land is higher than the sea",
+     "A pressure gradient is created from sea to land"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పగటిపూట, భూమి వేగంగా వేడెక్కి అల్పపీడనాన్ని సృష్టిస్తుంది. సముద్రంపై ఉన్న అధిక పీడనం భూమి వైపు పీడన ప్రవణతను సృష్టిస్తుంది, ఫలితంగా సముద్రపు గాలి వీస్తుంది.",
+    "en": "During the day, land heats up faster, creating low pressure. The higher pressure over the sea creates a pressure gradient towards the land, resulting in a sea breeze."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T07-0094",
+   "section": {
+    "te": "Atmospheric Heating - Convection",
+    "en": "Atmospheric Heating - Convection"
+   },
+   "q": {
+    "te": "సంవహనం ద్వారా వాతావరణం నిలువుగా వేడెక్కడం ఏ పొరకు పరిమితం చేయబడింది?",
+    "en": "The vertical heating of the atmosphere through convection is confined to which layer?"
+   },
+   "options": {
+    "te": [
+     "అయానో ఆవరణం",
+     "ట్రోపో ఆవరణం",
+     "మెసో ఆవరణం",
+     "స్ట్రాటో ఆవరణం"
+    ],
+    "en": [
+     "Ionosphere",
+     "Troposphere",
+     "Mesosphere",
+     "Stratosphere"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వేడెక్కిన గాలి నిలువుగా పెరగడం ద్వారా జరిగే శక్తి యొక్క సంవహన బదిలీ ట్రోపో ఆవరణానికి మాత్రమే పరిమితమని పాఠ్య భాగం పేర్కొంది.",
+    "en": "The convective transfer of energy, which involves the vertical rise of heated air, is limited to the troposphere."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T07-0002",
+   "section": {
+    "te": "States of Precipitation",
+    "en": "States of Precipitation"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఘన స్థితిలో ఉండే అవపాత రూపాలు ఏవి?",
+    "en": "Which of the following are forms of precipitation in a solid state?"
+   },
+   "options": {
+    "te": [
+     "మంచు (Snow)",
+     "వడగళ్ళు (Hailstones)",
+     "A మరియు B రెండూ",
+     "వర్షం"
+    ],
+    "en": [
+     "Snow",
+     "Hailstones",
+     "Both A and B",
+     "Rain"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, మంచు మరియు వడగళ్ళు ఘన స్థితిలో ఉండే నీటి అవపాతాలు.",
+    "en": "Snow and hailstones are precipitation of water in a solid state."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T07-0054",
+   "section": {
+    "te": "Temperature Zones",
+    "en": "Temperature Zones"
+   },
+   "q": {
+    "te": "క్రింది ఉష్ణోగ్రత మండలాలను (Temperature Zones) అవి పొందే సూర్యకాంతి లక్షణాలతో జతపరచండి:\n1. ఉష్ణ మండలం (Torrid Zone) - i. తక్కువ కోణంలో వచ్చే సూర్యకాంతి\n2. శీతల మండలం (Frigid Zone) - ii. సూర్యకాంతి అత్యంత నేరుగా పడుతుంది",
+    "en": "Match the following Temperature Zones with the characteristics of sunlight they receive:\n1. Torrid Zone - i. Low angle of incoming sunlight\n2. Frigid Zone - ii. Sunlight strikes most directly"
+   },
+   "options": {
+    "te": [
+     "1-i, 2-ii",
+     "1-ii, 2-i",
+     "1-i, 2-i",
+     "1-ii, 2-ii"
+    ],
+    "en": [
+     "1-i, 2-ii",
+     "1-ii, 2-i",
+     "1-i, 2-i",
+     "1-ii, 2-ii"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పటం ప్రకారం, ఉష్ణ మండలం (Torrid Zone) సూర్యకాంతిని అత్యంత నేరుగా పొందుతుంది, అయితే శీతల మండలాలు (Frigid Zones) తక్కువ కోణంలో సూర్యకాంతిని పొందుతాయి.",
+    "en": "According to the diagram, the Torrid Zone receives sunlight most directly, while the Frigid Zones receive sunlight at a low angle."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T07-0001",
+   "section": {
+    "te": "Precipitation Definition",
+    "en": "Precipitation Definition"
+   },
+   "q": {
+    "te": "వాతావరణం నుండి ఏ రూపంలోనైనా భూమిని చేరుకునే నీటిని ఏమని పిలుస్తారు?",
+    "en": "What is the term used for water reaching the ground from the atmosphere in any form?"
+   },
+   "options": {
+    "te": [
+     "అవపాతం (Precipitation)",
+     "భాష్పీభవనం (Evaporation)",
+     "ఆర్ద్రత (Humidity)",
+     "సాంద్రీకరణం (Condensation)"
+    ],
+    "en": [
+     "Precipitation",
+     "Evaporation",
+     "Humidity",
+     "Condensation"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వర్షం, మంచు మరియు వడగళ్ళు వంటి ఏ రూపంలోనైనా వాతావరణం నుండి భూమిని చేరుకునే నీటిని అవపాతం అంటారు.",
+    "en": "Precipitation is defined as water from the atmosphere reaching the ground in any form, with rain, snow, and hail being common examples."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T07-0125",
+   "section": {
+    "te": "Temperature Inversion",
+    "en": "Temperature Inversion"
+   },
+   "q": {
+    "te": "ఉష్ణోగ్రత విలోమం (temperature inversion) సంభవించడానికి ఈ క్రింది వాటిలో ఏ పరిస్థితులు అనువైనవి?",
+    "en": "Which of the following conditions are ideal for the occurrence of temperature inversion?"
+   },
+   "options": {
+    "te": [
+     "సుదీర్ఘ శీతాకాలపు రాత్రులు",
+     "నిర్మలమైన ఆకాశం మరియు నిశ్చలమైన గాలి",
+     "మేఘావృతమైన ఆకాశంతో కూడిన చిన్న వేసవి పగళ్లు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Long winter nights",
+     "Clear skies and still air",
+     "Short summer days with cloudy skies",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నిర్మలమైన ఆకాశం మరియు నిశ్చలమైన గాలితో కూడిన సుదీర్ఘ శీతాకాలపు రాత్రి ఉష్ణోగ్రత విలోమానికి అనువైన పరిస్థితి అని పాఠ్యాంశం పేర్కొంది.",
+    "en": "A long winter night with clear skies and still air provides the ideal situation for temperature inversion."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T07-0162",
+   "section": {
+    "te": "Coriolis Force Origin",
+    "en": "Coriolis Force Origin"
+   },
+   "q": {
+    "te": "1844లో కొరియాలిస్ బలాన్ని వివరించిన ఏ దేశ భౌతిక శాస్త్రవేత్త పేరు మీద దీనికి ఆ పేరు పెట్టారు?",
+    "en": "The Coriolis force is named after a physicist from which country who described it in 1844?"
+   },
+   "options": {
+    "te": [
+     "జర్మనీ",
+     "ఫ్రాన్స్",
+     "యునైటెడ్ కింగ్‌డమ్",
+     "యునైటెడ్ స్టేట్స్"
+    ],
+    "en": [
+     "Germany",
+     "France",
+     "United Kingdom",
+     "United States"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కొరియాలిస్ బలానికి 1844లో దాని వివరణను అందించిన ఫ్రెంచ్ భౌతిక శాస్త్రవేత్త పేరు పెట్టారు.",
+    "en": "The Coriolis force was named after a French physicist who provided its description in 1844."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T07-0022",
+   "section": {
+    "te": "Rain Gauge Placement",
+    "en": "Rain Gauge Placement"
+   },
+   "q": {
+    "te": "వర్షమాపకం (Rain gauge) ఏర్పాటుకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. దీనిని బహిరంగ ప్రదేశంలో ఉంచాలి.\n2. వర్షానికి అడ్డుగా ఉండే వస్తువులకు దూరంగా ఉంచాలి.\n3. అది వంగిపోకుండా ఉండటానికి చదునైన ఉపరితలంపై ఉంచాలి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the placement of a rain gauge:\n1. It should be placed in an open area.\n2. It should be kept away from objects that might obstruct rain.\n3. It must be placed on a flat surface to prevent tilting.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వర్షమాపకాన్ని బహిరంగ ప్రదేశంలో, అడ్డంకులకు దూరంగా మరియు అది పడిపోకుండా ఉండటానికి చదునైన ఉపరితలంపై ఉంచాలని వచనం పేర్కొంది.",
+    "en": "The text specifies that a rain gauge should be in an open area, away from obstructions, and on a flat surface to ensure it does not tilt or topple."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T07-0044",
+   "section": {
+    "te": "Seasons in India",
+    "en": "Seasons in India"
+   },
+   "q": {
+    "te": "నాలుగు ప్రధాన ప్రపంచ ఋతువులతో (వసంత, వేసవి, శరదృతువు, శీతాకాలం) పాటు భారతదేశం అదనంగా ఏ నిర్దిష్ట ఋతువును అనుభవిస్తుంది?",
+    "en": "Which specific season does India experience in addition to the four main global seasons (spring, summer, autumn, winter)?"
+   },
+   "options": {
+    "te": [
+     "తుఫాను కాలం",
+     "టొర్నాడో కాలం",
+     "పొడి కాలం",
+     "రుతుపవనాలు (Monsoon)"
+    ],
+    "en": [
+     "Cyclone season",
+     "Tornado season",
+     "Dry season",
+     "Monsoon"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నాలుగు ప్రధాన ఋతువులతో పాటు, భారతదేశం రుతుపవనాలు లేదా వర్షాకాలం అని పిలువబడే నిర్దిష్ట కాలంలో వర్షపాతాన్ని పొందుతుంది.",
+    "en": "In addition to the four main seasons, India receives rainfall during a specific period called the monsoon or rainy season."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T07-0189",
+   "section": {
+    "te": "Cumulus Clouds",
+    "en": "Cumulus Clouds"
+   },
+   "q": {
+    "te": "ఏ రకమైన మేఘాలు 'పత్తి' (cotton wool) వలె కనిపిస్తాయి మరియు చదునైన పునాదిని (flat base) కలిగి ఉంటాయి?",
+    "en": "Which type of clouds are characterized by a 'cotton wool' appearance and a flat base?"
+   },
+   "options": {
+    "te": [
+     "సిరస్ (Cirrus)",
+     "స్ట్రాటస్ (Stratus)",
+     "నింబస్ (Nimbus)",
+     "క్యుములస్ (Cumulus)"
+    ],
+    "en": [
+     "Cirrus",
+     "Stratus",
+     "Nimbus",
+     "Cumulus"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "క్యుములస్ మేఘాలు పత్తి వలె కనిపిస్తాయని, చదునైన పునాదిని కలిగి ఉంటాయని మరియు 4,000-7,000 మీటర్ల ఎత్తులో ఏర్పడతాయని వివరించబడింది.",
+    "en": "Cumulus clouds are described as looking like cotton wool, having a flat base, and forming at heights of 4,000-7,000 m."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T07-0011",
+   "section": {
+    "te": "Thermometer Mechanism",
+    "en": "Thermometer Mechanism"
+   },
+   "q": {
+    "te": "ఉష్ణోగ్రత పెరిగినప్పుడు థర్మామీటర్‌లోని రంగు ద్రవం ఏమవుతుంది?",
+    "en": "What happens to the coloured liquid in a thermometer when the temperature increases?"
+   },
+   "options": {
+    "te": [
+     "సంకోచిస్తుంది",
+     "రంగు మారుతుంది",
+     "వ్యాపిస్తుంది (Expands)",
+     "ఘనీభవిస్తుంది"
+    ],
+    "en": [
+     "It contracts",
+     "It changes colour",
+     "It expands",
+     "It solidifies"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఉష్ణోగ్రత పెరిగినప్పుడు థర్మామీటర్లలో ఉపయోగించే ద్రవాలు వ్యాపిస్తాయి.",
+    "en": "Thermometers use liquids that expand as the temperature rises to indicate the measurement."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T07-0165",
+   "section": {
+    "te": "ENSO Definition",
+    "en": "ENSO Definition"
+   },
+   "q": {
+    "te": "ఎల్ నినో మరియు ఏ ఇతర పరిస్థితి యొక్క ఉమ్మడి దృగ్విషయాన్ని ENSO అని పిలుస్తారు?",
+    "en": "The combined phenomenon of El Nino and which other condition is known as ENSO?"
+   },
+   "options": {
+    "te": [
+     "దక్షిణ డోలనం (Southern Oscillation)",
+     "ఉత్తర డోలనం (Northern Oscillation)",
+     "పసిఫిక్ డోలనం (Pacific Oscillation)",
+     "హిందూ మహాసముద్ర డైపోల్"
+    ],
+    "en": [
+     "Southern Oscillation",
+     "Northern Oscillation",
+     "Pacific Oscillation",
+     "Indian Ocean Dipole"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ENSO అంటే ఎల్ నినో సదరన్ ఆసిలేషన్ (దక్షిణ డోలనం), ఇది పసిఫిక్ మరియు ఎల్ నినోలో ఒత్తిడి మార్పుల ఉమ్మడి ప్రభావం.",
+    "en": "ENSO stands for El Nino Southern Oscillation, which is the combined effect of pressure changes in the Pacific and El Nino."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T07-0124",
+   "section": {
+    "te": "Temperature Variation",
+    "en": "Temperature Variation"
+   },
+   "q": {
+    "te": "భూమిపై ఏ అక్షాంశాల మధ్య అతి తక్కువ ఉష్ణోగ్రత వ్యత్యాసం (3°C) కనిపిస్తుంది?",
+    "en": "Between which latitudes is the least range of temperature (3°C) found on Earth?"
+   },
+   "options": {
+    "te": [
+     "0° మరియు 10° S మధ్య",
+     "40° N మరియు 40° S మధ్య",
+     "20° S మరియు 15° N మధ్య",
+     "60° N మరియు 90° N మధ్య"
+    ],
+    "en": [
+     "Between 0° and 10° S",
+     "Between 40° N and 40° S",
+     "Between 20° S and 15° N",
+     "Between 60° N and 90° N"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "20° S మరియు 15° N మధ్య ప్రాంతంలో అతి తక్కువ ఉష్ణోగ్రత వ్యత్యాసం (3°C) ఉంటుందని పాఠ్యాంశం పేర్కొంది.",
+    "en": "The text identifies the region between 20° S and 15° N as having the least range of temperature, which is 3°C."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T07-0133",
+   "section": {
+    "te": "Air Drainage Mechanism",
+    "en": "Air Drainage Mechanism"
+   },
+   "q": {
+    "te": "నిశ్చయం (A): కొండలు మరియు పర్వతాలలో రాత్రి సమయంలో, చల్లని గాలి వాలు నుండి కిందికి కదిలి లోయ అడుగుభాగంలో పేరుకుపోతుంది.\nకారణం (R): చల్లని గాలి బరువుగా మరియు సాంద్రత ఎక్కువగా ఉంటుంది, ఇది గురుత్వాకర్షణ ప్రభావంతో దాదాపు నీటిలా పనిచేస్తుంది.",
+    "en": "Assertion (A): During the night in hills and mountains, cold air moves down the slope to pile up in valley bottoms.\nReason (R): Cold air is heavy and dense, acting almost like water under the influence of gravity."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "చల్లని గాలి సాంద్రత ఎక్కువగా మరియు బరువుగా ఉంటుంది, దీనివల్ల అది గురుత్వాకర్షణ కారణంగా నీటిలా వాలుల నుండి కిందికి ప్రవహిస్తుంది. ఇది లోయలలో ఎందుకు పేరుకుపోతుందో వివరిస్తుంది.",
+    "en": "Cold air is denser and heavier, causing it to flow down slopes like water due to gravity, which explains why it piles up in valleys."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T07-0034",
+   "section": {
+    "te": "Pressure and Altitude",
+    "en": "Pressure and Altitude"
+   },
+   "q": {
+    "te": "వాతావరణ పీడనం గురించి క్రింది ప్రకటనలలో ఏది సరైనది?",
+    "en": "Which of the following statements about atmospheric pressure is correct?"
+   },
+   "options": {
+    "te": [
+     "పర్వతాల కంటే సముద్ర తీరంలో ఇది తక్కువగా ఉంటుంది",
+     "సముద్ర తీరం కంటే పర్వతాలలో ఇది ఎక్కువగా ఉంటుంది",
+     "సముద్ర తీరంలో ఇది ఎక్కువగా ఉంటుంది మరియు పర్వతాలలో తక్కువగా ఉంటుంది",
+     "ఎత్తుతో సంబంధం లేకుండా ఇది స్థిరంగా ఉంటుంది"
+    ],
+    "en": [
+     "It is lower near the sea coast than in the mountains",
+     "It is higher in the mountains than at the sea coast",
+     "It is higher near the sea coast and lower in the mountains",
+     "It remains constant regardless of altitude"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వాతావరణ పీడనం సముద్ర మట్టం (తీరం) వద్ద ఎక్కువగా ఉంటుంది మరియు ఎత్తు పెరిగేకొద్దీ (పర్వతాలు) తగ్గుతుంది.",
+    "en": "Atmospheric pressure is highest at sea level (coast) and decreases as altitude increases (mountains)."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T07-0127",
+   "section": {
+    "te": "Plank's Law",
+    "en": "Plank's Law"
+   },
+   "q": {
+    "te": "ప్లాంక్ నియమం (Plank’s law) ప్రకారం, ఒక వస్తువు యొక్క ఉష్ణోగ్రతకు మరియు దాని వికిరణ తరంగదైర్ఘ్యానికి (wavelength) మధ్య సంబంధం ఏమిటి?",
+    "en": "According to Plank’s law, what is the relationship between the temperature of a body and the wavelength of its radiation?"
+   },
+   "options": {
+    "te": [
+     "తరంగదైర్ఘ్యంపై ఉష్ణోగ్రతకు ఎటువంటి ప్రభావం ఉండదు",
+     "వస్తువు ఎంత వేడిగా ఉంటే, తరంగదైర్ఘ్యం అంత ఎక్కువగా ఉంటుంది",
+     "వస్తువు ఎంత వేడిగా ఉంటే, తరంగదైర్ఘ్యం అంత తక్కువగా ఉంటుంది",
+     "చల్లని వస్తువులు తక్కువ తరంగదైర్ఘ్యాలను విడుదల చేస్తాయి"
+    ],
+    "en": [
+     "Temperature has no effect on wavelength",
+     "The hotter the body, the longer the wavelength",
+     "The hotter the body, the shorter the wavelength",
+     "Colder bodies radiate shorter wavelengths"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్లాంక్ నియమం ప్రకారం, వేడిగా ఉన్న వస్తువు ఎక్కువ శక్తిని విడుదల చేస్తుంది మరియు ఆ వికిరణం యొక్క తరంగదైర్ఘ్యం తక్కువగా ఉంటుంది.",
+    "en": "Plank’s law states that a hotter body radiates more energy and the wavelength of that radiation is shorter."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T07-0053",
+   "section": {
+    "te": "Insolation Distribution",
+    "en": "Insolation Distribution"
+   },
+   "q": {
+    "te": "భూమి ఉపరితలంపై ఇన్సోలేషన్ (సౌరపుటం) పరిమాణం ఎలా మారుతుంది?",
+    "en": "How does the amount of insolation change across the Earth's surface?"
+   },
+   "options": {
+    "te": [
+     "ఇది అన్ని అక్షాంశాలలో స్థిరంగా ఉంటుంది",
+     "ఇది భూమధ్యరేఖ నుండి ధ్రువాల వైపు పెరుగుతుంది",
+     "ఇది భూమధ్యరేఖ నుండి ధ్రువాల వైపు తగ్గుతుంది",
+     "ఇది ధ్రువాల వద్ద అత్యధికంగా మరియు భూమధ్యరేఖ వద్ద అత్యల్పంగా ఉంటుంది"
+    ],
+    "en": [
+     "It remains constant across all latitudes",
+     "It increases from the equator towards the poles",
+     "It decreases from the equator towards the poles",
+     "It is highest at the poles and lowest at the equator"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూమి గ్రహించే సౌర శక్తి (ఇన్సోలేషన్) భూమధ్యరేఖ నుండి ధ్రువాల వైపు వెళ్లేకొద్దీ తగ్గుతుంది.",
+    "en": "The amount of solar energy (insolation) intercepted by the Earth decreases as one moves from the equator toward the poles."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T07-0092",
+   "section": {
+    "te": "Angle of Inclination",
+    "en": "Angle of Inclination"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): నిలువు కిరణాలతో పోలిస్తే వాలుగా ఉండే సూర్యకిరణాలు యూనిట్ వైశాల్యానికి తక్కువ వేడిని కలిగిస్తాయి.\nకారణం (R): వాలుగా ఉండే కిరణాలు పెద్ద వైశాల్యాన్ని ఆక్రమిస్తాయి, దీనివల్ల శక్తి మరింత విస్తృతంగా పంపిణీ చేయబడుతుంది.",
+    "en": "Assertion (A): Slant sun rays result in less heating per unit area compared to vertical rays.\nReason (R): Slant rays cover a larger area, causing the energy to be distributed more widely."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వాలుగా ఉండే కిరణాలు నిలువు కిరణాల కంటే ఎక్కువ వైశాల్యాన్ని ఆక్రమిస్తాయి, ఇది ఒకే పరిమాణంలో ఉన్న శక్తిని పెద్ద ప్రదేశంలో పంపిణీ చేస్తుంది, తద్వారా యూనిట్ వైశాల్యానికి నికర శక్తి తగ్గుతుంది.",
+    "en": "Slant rays cover more area than vertical rays, which distributes the same amount of energy over a larger space, thereby decreasing the net energy per unit area."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T07-0040",
+   "section": {
+    "te": "Indian Ritus",
+    "en": "Indian Ritus"
+   },
+   "q": {
+    "te": "ఈ క్రింది భారతీయ ఋతువులను వాటి ఆంగ్ల సమానార్థకాలతో జతపరచండి:\n1. వసంత - i. శరదృతువు (Autumn)\n2. వర్ష - ii. వసంతకాలం (Spring)\n3. శరద్ - iii. వర్షాకాలం (Rainy season)\n4. శిశిర - iv. శీతాకాలం (Winter)",
+    "en": "Match the following Indian seasons (Ritus) with their English equivalents:\n1. Vasanta - i. Autumn\n2. Varsha - ii. Spring\n3. Sharad - iii. Rainy season\n4. Shishir - iv. Winter"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-iii, 3-i, 4-iv",
+     "1-ii, 2-i, 3-iii, 4-iv",
+     "1-iv, 2-iii, 3-i, 4-ii",
+     "1-i, 2-ii, 3-iii, 4-iv"
+    ],
+    "en": [
+     "1-ii, 2-iii, 3-i, 4-iv",
+     "1-ii, 2-i, 3-iii, 4-iv",
+     "1-iv, 2-iii, 3-i, 4-ii",
+     "1-i, 2-ii, 3-iii, 4-iv"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వసంత అంటే స్ప్రింగ్, వర్ష అంటే వర్షాకాలం, శరద్ అంటే ఆటం (శరదృతువు), మరియు శిశిర అంటే వింటర్ (శీతాకాలం).",
+    "en": "Vasanta is Spring, Varsha is Rainy season, Sharad is Autumn, and Shishir is Winter."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T07-0193",
+   "section": {
+    "te": "Rainfall Distribution",
+    "en": "Rainfall Distribution"
+   },
+   "q": {
+    "te": "ప్రపంచ వర్షపాత విస్తరణకు సంబంధించి కింది ప్రకటనలను పరిగణించండి:\n1. 35° మరియు 40° ఉత్తర మరియు దక్షిణ అక్షాంశాల మధ్య, తూర్పు తీరాలలో వర్షపాతం ఎక్కువగా ఉంటుంది.\n2. 45° మరియు 65° ఉత్తర మరియు దక్షిణ అక్షాంశాల మధ్య, వర్షపాతం మొదట పశ్చిమ అంచులలో సంభవిస్తుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding world rainfall distribution:\n1. Between 35° and 40° N and S latitudes, rain is heavier on the eastern coasts.\n2. Between 45° and 65° N and S latitudes, rain is first received on the western margins.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వనరుల ప్రకారం రెండు ప్రకటనలు సరైనవే. 35°-40° పరిధిలో, తూర్పు తీరాలకు ఎక్కువ వర్షం వస్తుంది, అయితే 45°-65° పరిధిలో (పశ్చిమ పవనాల మండలం), పశ్చిమ అంచులు మొదట వర్షాన్ని పొందుతాయి.",
+    "en": "Both statements are correct according to the source. In the 35°-40° range, eastern coasts get more rain, while in the 45°-65° range (westerlies zone), western margins receive it first."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T07-0121",
+   "section": {
+    "te": "January Isotherms",
+    "en": "January Isotherms"
+   },
+   "q": {
+    "te": "జనవరిలో ఉత్తర అట్లాంటిక్ ప్రాంతంలో సమోష్ణ రేఖల (isotherms) ప్రవర్తనకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. సముద్రంపై సమోష్ణ రేఖలు ఉత్తరం వైపుకు తప్పుకుంటాయి.\n2. ఖండంపై సమోష్ణ రేఖలు దక్షిణం వైపుకు తప్పుకుంటాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the behavior of isotherms in the North Atlantic region during January:\n1. Isotherms deviate to the north over the ocean.\n2. Isotherms deviate to the south over the continent.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "జనవరిలో, ఉత్తర అట్లాంటిక్ మహాసముద్రంలో గమనించినట్లుగా, సమోష్ణ రేఖలు సముద్రంపై ఉత్తరం వైపుకు మరియు ఖండంపై దక్షిణం వైపుకు తప్పుకుంటాయి.",
+    "en": "In January, isotherms deviate to the north over the ocean and to the south over the continent, as seen in the North Atlantic Ocean."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T07-0059",
+   "section": {
+    "te": "Atmospheric Pressure Distribution",
+    "en": "Atmospheric Pressure Distribution"
+   },
+   "q": {
+    "te": "ఈ క్రింది ఏ స్థాయిలో వాతావరణ పీడనం అత్యధికంగా నమోదవుతుంది?",
+    "en": "At which of the following levels is atmospheric pressure recorded as being the highest?"
+   },
+   "options": {
+    "te": [
+     "ఆర్కిటిక్ వలయం",
+     "సముద్ర మట్టం",
+     "పర్వత శిఖరాలు",
+     "స్ట్రాటో ఆవరణం (Stratosphere)"
+    ],
+    "en": [
+     "The Arctic Circle",
+     "Sea level",
+     "Mountain peaks",
+     "The Stratosphere"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వాతావరణ పీడనం సముద్ర మట్టం వద్ద అత్యధికంగా ఉంటుంది మరియు ఎత్తు పెరిగేకొద్దీ తగ్గుతుంది.",
+    "en": "Atmospheric pressure is highest at sea level and decreases as altitude increases."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T07-0015",
+   "section": {
+    "te": "Weather Forecasting",
+    "en": "Weather Forecasting"
+   },
+   "q": {
+    "te": "వాతావరణానికి సంబంధించి 'ఫోర్కాస్ట్' (Forecast) అంటే ఏమిటి?",
+    "en": "What does the term 'Forecast' mean in relation to weather?"
+   },
+   "options": {
+    "te": [
+     "ముందుగానే వాతావరణాన్ని అంచనా వేయడం",
+     "ప్రస్తుత తేమను కొలవడం",
+     "గత వాతావరణ డేటాను రికార్డ్ చేయడం",
+     "వాతావరణాన్ని మార్చడం"
+    ],
+    "en": [
+     "To predict weather in advance",
+     "To measure current humidity",
+     "To record past weather data",
+     "To change the weather"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఫోర్కాస్ట్ అంటే వాతావరణ పరిస్థితులను ముందుగానే అంచనా వేయడం లేదా తెలుసుకోవడం.",
+    "en": "A forecast is the act of predicting or finding out the weather conditions in advance."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T07-0157",
+   "section": {
+    "te": "Planetary Wind Patterns",
+    "en": "Planetary Wind Patterns"
+   },
+   "q": {
+    "te": "గ్రహ పవనాల (planetary winds) నమూనాకు సంబంధించి ఈ క్రింది అంశాలను పరిగణించండి:\n1. వాతావరణ వేడిలో అక్షాంశ వైవిధ్యం.\n2. ఖండాలు మరియు మహాసముద్రాల విస్తరణ.\n3. భూమి భ్రమణం.\nపైన పేర్కొన్న వాటిలో ఏవి సరైనవి?",
+    "en": "Consider the following factors regarding the pattern of planetary winds:\n1. Latitudinal variation of atmospheric heating.\n2. Distribution of continents and oceans.\n3. Rotation of the earth.\nWhich of the factors given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "గ్రహ పవనాల నమూనా వాతావరణ వేడి, పీడన మండలాలు, మండలాల వలస, భూమి-సముద్ర విస్తరణ మరియు భూమి భ్రమణంపై ఆధారపడి ఉంటుంది.",
+    "en": "The pattern of planetary winds depends on atmospheric heating, pressure belts, migration of belts, land-ocean distribution, and earth's rotation."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T07-0171",
+   "section": {
+    "te": "Air Mass Definition",
+    "en": "Air Mass Definition"
+   },
+   "q": {
+    "te": "ఉష్ణోగ్రత మరియు తేమలో తక్కువ క్షితిజ సమాంతర వైవిధ్యం కలిగిన పెద్ద గాలి రాశిని ఏమని పిలుస్తారు?",
+    "en": "What is a large body of air with little horizontal variation in temperature and moisture called?"
+   },
+   "options": {
+    "te": [
+     "ఫ్రంట్ (Front)",
+     "జెట్ స్ట్రీమ్ (Jet stream)",
+     "చక్రవాతం (Cyclone)",
+     "వాయురాశి (Air mass)"
+    ],
+    "en": [
+     "Front",
+     "Jet stream",
+     "Cyclone",
+     "Air mass"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వాయురాశి అనేది దాని మూల ప్రాంతం నుండి ఉష్ణోగ్రత మరియు తేమ యొక్క ఏకరీతి లక్షణాలను పొందిన పెద్ద గాలి రాశిగా నిర్వచించబడింది.",
+    "en": "An air mass is defined as a large body of air that has acquired homogenous characteristics of temperature and humidity from its source region."
+   }
+  }
+ ]
+}

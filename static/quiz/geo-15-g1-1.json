@@ -1,0 +1,942 @@
+{
+ "id": "geo-15-g1-1",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Northern Plains – క్విజ్ 1",
+  "en": "Northern Plains – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T15-0096",
+   "section": {
+    "te": "Andaman and Nicobar Peaks",
+    "en": "Andaman and Nicobar Peaks"
+   },
+   "q": {
+    "te": "కింది పర్వత శిఖరాలను వాటి నిర్దిష్ట ద్వీప ప్రాంతాలతో జతపరచండి:\n1. సాడిల్ పీక్ - i. గ్రేట్ నికోబార్\n2. మౌంట్ థుయిలియర్ - ii. నార్త్ అండమాన్\n3. మౌంట్ కోయోబ్ - iii. సౌత్ అండమాన్",
+    "en": "Match the following mountain peaks with their specific island locations:\n1. Saddle peak - i. Great Nicobar\n2. Mount Thuiller - ii. North Andaman\n3. Mount Koyob - iii. South Andaman"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-i, 3-iii",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-iii, 3-i"
+    ],
+    "en": [
+     "1-ii, 2-i, 3-iii",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-iii, 3-i"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సాడిల్ పీక్ నార్త్ అండమాన్‌లో, మౌంట్ థుయిలియర్ గ్రేట్ నికోబార్‌లో మరియు మౌంట్ కోయోబ్ సౌత్ అండమాన్‌లో ఉన్నాయి.",
+    "en": "Saddle peak is in North Andaman, Mount Thuiller is in Great Nicobar, and Mount Koyob is in South Andaman."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T15-0009",
+   "section": {
+    "te": "Peninsular Plateau Waters",
+    "en": "Peninsular Plateau Waters"
+   },
+   "q": {
+    "te": "భారత ద్వీపకల్పాన్ని ఈ క్రింది ఏ జలభాగాలు చుట్టుముట్టి ఉన్నాయి?",
+    "en": "Which of the following water bodies surround the Indian Peninsula?"
+   },
+   "options": {
+    "te": [
+     "అరేబియా సముద్రం",
+     "బంగాళాఖాతం",
+     "హిందూ మహాసముద్రం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Arabian Sea",
+     "Bay of Bengal",
+     "Indian Ocean",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారత ద్వీపకల్పం మూడు వైపులా అరేబియా సముద్రం, బంగాళాఖాతం మరియు హిందూ మహాసముద్రం చుట్టుముట్టి ఉంది.",
+    "en": "The Indian Peninsula is surrounded by the Arabian Sea, the Bay of Bengal, and the Indian Ocean on its three sides."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T15-0104",
+   "section": {
+    "te": "Bay of Bengal Islets",
+    "en": "Bay of Bengal Islets"
+   },
+   "q": {
+    "te": "రిచీస్ ద్వీపసమూహం (Ritchie’s archipelago) మరియు లాబ్రింత్ ద్వీపం (Labrynth island) ఏ ద్వీప సమూహంలోని ప్రధాన భాగాలు?",
+    "en": "Ritchie’s archipelago and the Labrynth island are principal groups of islets located in which island group?"
+   },
+   "options": {
+    "te": [
+     "అండమాన్ మరియు నికోబార్",
+     "లక్షద్వీప్",
+     "మినికాయ్",
+     "డామన్ మరియు డయ్యూ"
+    ],
+    "en": [
+     "Andaman and Nicobar",
+     "Lakshadweep",
+     "Minicoy",
+     "Daman and Diu"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం రిచీస్ ద్వీపసమూహం మరియు లాబ్రింత్ ద్వీపాన్ని బంగాళాఖాతంలోని ద్వీప సమూహంలో (అండమాన్ మరియు నికోబార్) ప్రధాన భాగాలుగా పేర్కొంది.",
+    "en": "The text lists Ritchie’s archipelago and the Labrynth island as principal groups within the Bay of Bengal island group (Andaman and Nicobar)."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T15-0082",
+   "section": {
+    "te": "Ghats Junction",
+    "en": "Ghats Junction"
+   },
+   "q": {
+    "te": "తూర్పు మరియు పశ్చిమ కనుమలు ఈ క్రింది ఏ ప్రదేశంలో కలుస్తాయి?",
+    "en": "At which of the following locations do the Eastern and Western Ghats meet?"
+   },
+   "options": {
+    "te": [
+     "నీలగిరి కొండలు",
+     "పాలకొండ శ్రేణి",
+     "ఏలకుల (Cardamom) కొండలు",
+     "అనైమలై కొండలు"
+    ],
+    "en": [
+     "Nilgiri hills",
+     "Palconda range",
+     "Cardamom hills",
+     "Anaimalai hills"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నీలగిరి కొండలు తూర్పు మరియు పశ్చిమ కనుమల పర్వత శ్రేణులకు కలయిక ప్రాంతంగా పనిచేస్తాయి.",
+    "en": "The Nilgiri hills serve as the meeting point for the Eastern and Western Ghats mountain ranges."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T15-0005",
+   "section": {
+    "te": "Ganga Plain Challenges",
+    "en": "Ganga Plain Challenges"
+   },
+   "q": {
+    "te": "గంగా మైదానాలను ప్రభావితం చేసే సమస్యలుగా ఈ క్రింది వాటిలో ఏవి పేర్కొనబడ్డాయి?\n1. అధిక జనాభా\n2. కాలుష్యం\n3. భూగర్భ జలాలు తగ్గిపోవడం\nసరైన సమాధానాన్ని ఎంచుకోండి:",
+    "en": "Which of the following are mentioned as problems affecting the Ganga plains?\n1. High population\n2. Pollution\n3. Depletion of groundwater\nSelect the correct answer:"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అధిక జనాభా, కాలుష్యం మరియు భూగర్భ జలాలు తగ్గిపోవడం ఈ ప్రాంతంలోని సవాళ్లు/సమస్యలుగా పాఠ్యాంశంలో స్పష్టంగా పేర్కొనబడ్డాయి.",
+    "en": "High population, pollution, and the depletion of groundwater as challenges/problems in the region."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T15-0065",
+   "section": {
+    "te": "Bhabar Width",
+    "en": "Bhabar Width"
+   },
+   "q": {
+    "te": "భాబర్ బెల్ట్ యొక్క సుమారు వెడల్పు ఎంత?",
+    "en": "What is the approximate width of the Bhabar belt?"
+   },
+   "options": {
+    "te": [
+     "10-20 కి.మీ.",
+     "8-10 కి.మీ.",
+     "2-5 కి.మీ.",
+     "20-30 కి.మీ."
+    ],
+    "en": [
+     "10-20 km",
+     "8-10 km",
+     "2-5 km",
+     "20-30 km"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భాబర్ అనేది శివాలిక్ పాదాల వద్ద 8 నుండి 10 కి.మీ వెడల్పు గల ఇరుకైన బెల్ట్.",
+    "en": "The Bhabar is a narrow belt ranging between 8 and 10 km in width, parallel to the Shiwalik foothills."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T15-0076",
+   "section": {
+    "te": "Indian Desert",
+    "en": "Indian Desert"
+   },
+   "q": {
+    "te": "థార్ ఎడారిని ప్రధానంగా ఏ లక్షణం కారణంగా 'మరుస్థలి' అని కూడా పిలుస్తారు?",
+    "en": "The Great Indian desert is also known as 'Marusthali' primarily due to which characteristic?"
+   },
+   "options": {
+    "te": [
+     "చెక్క శిలాజాల ఉనికి",
+     "అధిక ఎత్తు",
+     "రూపాంతర శిలల ఉనికి",
+     "తక్కువ వర్షపాతం మరియు వృక్షసంపదతో కూడిన శుష్క వాతావరణం"
+    ],
+    "en": [
+     "Presence of wood fossils",
+     "High elevation",
+     "Presence of metamorphic rocks",
+     "Arid climate with low rainfall and vegetation"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఏటా 150 మి.మీ కంటే తక్కువ వర్షపాతం నమోదవుతూ, శుష్క వాతావరణం మరియు తక్కువ వృక్షసంపద కలిగి ఉండటం వల్ల ఈ ఎడారిని మరుస్థలి అని పిలుస్తారు.",
+    "en": "The desert is called Marusthali because it receives less than 150 mm of rainfall annually, leading to an arid climate and low vegetation."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T15-0100",
+   "section": {
+    "te": "Island Climate and Vegetation",
+    "en": "Island Climate and Vegetation"
+   },
+   "q": {
+    "te": "అండమాన్ మరియు నికోబార్ ద్వీపాల వాతావరణం మరియు వృక్షజాలం యొక్క లక్షణాలు కింది వాటిలో ఏవి?\nA. సంవహన వర్షపాతం\nB. భూమధ్యరేఖ రకపు వృక్షజాలం",
+    "en": "Which of the following features characterize the climate and vegetation of the Andaman and Nicobar islands?\nA. Convectional rainfall\nB. Equatorial type of vegetation"
+   },
+   "options": {
+    "te": [
+     "A మాత్రమే",
+     "B మాత్రమే",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Item A only",
+     "Item B only",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, ఈ ద్వీపాలు సంవహన వర్షపాతాన్ని పొందుతాయి మరియు భూమధ్యరేఖ రకపు వృక్షజాలాన్ని కలిగి ఉంటాయి.",
+    "en": "The islands receive convectional rainfall and possess equatorial type of vegetation as per the source."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T15-0063",
+   "section": {
+    "te": "Bhangar and Khadar",
+    "en": "Bhangar and Khadar"
+   },
+   "q": {
+    "te": "భాంగర్ మరియు ఖాదర్‌లకు సంబంధించి క్రింది వాటిలో ఏ ప్రకటన సరైనది?\n1. భాంగర్ కొత్త ఒండ్రు నిక్షేపాలను సూచిస్తుంది.\n2. ఖాదర్ పాత ఒండ్రు నిక్షేపాలను సూచిస్తుంది.\n3. రెండూ తరాయ్ బెల్ట్‌కు దక్షిణాన ఉన్నాయి.",
+    "en": "Which of the following statements is correct regarding Bhangar and Khadar?\n1. Bhangar represents new alluvial deposits.\n2. Khadar represents old alluvial deposits.\n3. Both are located to the south of the Tarai belt."
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "3 మాత్రమే",
+     "1 మరియు 2 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 only",
+     "3 only",
+     "1 and 2 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రకటన 1 మరియు 2 పరస్పరం మార్చబడ్డాయి; భాంగర్ పాత ఒండ్రు మరియు ఖాదర్ కొత్త ఒండ్రు. అవి తరాయ్‌కు దక్షిణాన ఉన్నందున ప్రకటన 3 సరైనది.",
+    "en": "Statement 1 and 2 are swapped; Bhangar is old alluvium and Khadar is new alluvium. Statement 3 is correct as they are located south of the Tarai."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T15-0002",
+   "section": {
+    "te": "Ganga Plain Crops",
+    "en": "Ganga Plain Crops"
+   },
+   "q": {
+    "te": "గంగా మైదానంలో ఈ క్రింది పీచు పంటలలో (fibre crops) ఏవి పండుతాయి?",
+    "en": "Which of the following fibre crops are grown in the Ganga plain?"
+   },
+   "options": {
+    "te": [
+     "పత్తి",
+     "జనపనార",
+     "హెంప్",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Cotton",
+     "Jute",
+     "Hemp",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "గంగా మైదానంలో పత్తి, జనపనార మరియు హెంప్ వంటి పీచు పంటలు పండుతాయని పాఠ్యాంశం పేర్కొంది.",
+    "en": "Cotton, jute, and hemp are fibre crops grown in the Ganga plain."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T15-0070",
+   "section": {
+    "te": "Highest Peak",
+    "en": "Highest Peak"
+   },
+   "q": {
+    "te": "ద్వీపకల్ప పీఠభూమిలో అత్యంత ఎత్తైన శిఖరం ఏది?",
+    "en": "Which of the following is the highest peak of the Peninsular plateau?"
+   },
+   "options": {
+    "te": [
+     "జావాడి",
+     "మహేంద్రగిరి",
+     "అనైముడి",
+     "దొడబెట్ట"
+    ],
+    "en": [
+     "Javadi",
+     "Mahendragiri",
+     "Anaimudi",
+     "Dodabetta"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "2,695 మీటర్ల ఎత్తుతో అనైముడి ద్వీపకల్ప పీఠభూమిలో అత్యంత ఎత్తైన శిఖరం. ఇది అనైమలై కొండలలో ఉంది.",
+    "en": "Anaimudi, with an elevation of 2,695 m, is the highest peak of the Peninsular plateau and is located on the Anaimalai hills."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T15-0049",
+   "section": {
+    "te": "Andaman and Nicobar Islands",
+    "en": "Andaman and Nicobar Islands"
+   },
+   "q": {
+    "te": "అండమాన్ మరియు నికోబార్ ద్వీపసమూహంలో సుమారు ఎన్ని దీవులు ఉన్నాయి?",
+    "en": "The Andaman and Nicobar archipelago comprises approximately how many islands?"
+   },
+   "options": {
+    "te": [
+     "ఖచ్చితంగా 300",
+     "500 కంటే ఎక్కువ",
+     "ఖచ్చితంగా 100",
+     "50 కంటే తక్కువ"
+    ],
+    "en": [
+     "Exactly 300",
+     "More than 500",
+     "Exactly 100",
+     "Less than 50"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఈ ద్వీపసమూహంలో 500 కంటే ఎక్కువ పెద్ద మరియు చిన్న అగ్నిపర్వత దీవులు ఉన్నాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The archipelago comprises more than 500 large and small volcanic islands."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T15-0004",
+   "section": {
+    "te": "River Features",
+    "en": "River Features"
+   },
+   "q": {
+    "te": "రెండు లేదా అంతకంటే ఎక్కువ నదులు కలిసే ప్రదేశాన్ని ఏమని పిలుస్తారు, దీనిని భారతదేశంలో తరచుగా పవిత్రంగా భావిస్తారు?",
+    "en": "What is the term used for the meeting point of two or more rivers, which is often considered sacred in India?"
+   },
+   "options": {
+    "te": [
+     "ఎస్ట్యూరీ",
+     "ఉపనది",
+     "డెల్టా",
+     "సంగమం (Confluence)"
+    ],
+    "en": [
+     "Estuary",
+     "Tributary",
+     "Delta",
+     "Confluence"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రెండు లేదా అంతకంటే ఎక్కువ నదులు కలిసే ప్రదేశాన్ని సంగమం అని అంటారు.",
+    "en": "A confluence is defined as the meeting point of two or more rivers."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T15-0044",
+   "section": {
+    "te": "Peninsular Rigidity",
+    "en": "Peninsular Rigidity"
+   },
+   "q": {
+    "te": "నిశ్చయం (A): కాంబ్రియన్ కాలం నుండి, ద్వీపకల్పం ఒక దృఢమైన బ్లాక్ వలె నిలిచి ఉంది.\nకారణం (R): టెక్టోనిక్ కార్యకలాపాలు లేదా నిలువు కదలికల వల్ల ఇది ఎటువంటి మార్పులకు లోనుకాలేదు.",
+    "en": "Assertion (A): Since the Cambrian period, the Peninsula has been standing like a rigid block.\nReason (R): It has undergone no changes due to tectonic activity or vertical movements."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ.",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు.",
+     "A నిజం కానీ R తప్పు.",
+     "A తప్పు కానీ R నిజం."
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A.",
+     "Both A and R are true but R is not the correct explanation of A.",
+     "A is true but R is false.",
+     "A is false but R is true."
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం నిశ్చయం (A) నిజం. అయితే, కొన్ని భాగాలలో నిలువు కదలికలు మరియు టెక్టోనిక్ కార్యకలాపాలకు లోనైందని పాఠ్యభాగం పేర్కొన్నందున కారణం (R) తప్పు.",
+    "en": "Assertion A is true as per the text. However, Reason R is false because the text mentions it was subjected to vertical movements and tectonic activity in some parts."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T15-0018",
+   "section": {
+    "te": "Coastline length",
+    "en": "Coastline length"
+   },
+   "q": {
+    "te": "భారతీయ తీరప్రాంతం సుమారు ఎంత పొడవు ఉంటుంది?",
+    "en": "What is the approximate length of the Indian coastline?"
+   },
+   "options": {
+    "te": [
+     "9000 కి.మీ కంటే ఎక్కువ",
+     "7500 కి.మీ కంటే ఎక్కువ",
+     "6000 కి.మీ కంటే ఎక్కువ",
+     "5000 కి.మీ కంటే ఎక్కువ"
+    ],
+    "en": [
+     "Over 9000 km",
+     "Over 7500 km",
+     "Over 6000 km",
+     "Over 5000 km"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారతీయ తీరప్రాంతం 7500 కి.మీ కంటే ఎక్కువ పొడవు ఉందని మూల పాఠ్యం స్పష్టంగా పేర్కొంది.",
+    "en": "The Indian coastline is over 7500 km long."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T15-0045",
+   "section": {
+    "te": "Northeast Hills Features",
+    "en": "Northeast Hills Features"
+   },
+   "q": {
+    "te": "ఈశాన్య కొండలు (మేఘాలయ పీఠభూమి) ఈ క్రింది ఏ లక్షణాలకు ప్రసిద్ధి చెందాయి?",
+    "en": "The hills of the Northeast (Meghalaya Plateau) are known for which of the following features?"
+   },
+   "options": {
+    "te": [
+     "పచ్చని ప్రకృతి",
+     "భారీ వర్షపాతం",
+     "అద్భుతమైన జలపాతాలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Lush greenery",
+     "Heavy rainfall",
+     "Breathtaking waterfalls",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మేఘాలయ పీఠభూమిలోని కొండలు పచ్చని ప్రకృతి, భారీ వర్షపాతం మరియు జలపాతాలకు ప్రసిద్ధి చెందాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The hills of the Meghalaya Plateau are known for lush greenery, heavy rainfall, and waterfalls."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T15-0035",
+   "section": {
+    "te": "Peninsular Block Boundary",
+    "en": "Peninsular Block Boundary"
+   },
+   "q": {
+    "te": "ద్వీపకల్ప బ్లాక్ (Peninsular Block) యొక్క ఉత్తర సరిహద్దులో ఈ క్రింది వాటిలో ఏవి భాగంగా ఉన్నాయి?",
+    "en": "Which of the following features form part of the northern boundary of the Peninsular Block?"
+   },
+   "options": {
+    "te": [
+     "ఆరావళి శ్రేణి",
+     "రాజ్‌మహల్ కొండలు",
+     "కచ్ (Kachchh)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Aravali Range",
+     "Rajmahal Hills",
+     "Kachchh",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఉత్తర సరిహద్దు కచ్, ఆరావళి శ్రేణి యొక్క పశ్చిమ భాగం మరియు రాజ్‌మహల్ కొండల వరకు విస్తరించి ఉన్న ఒక క్రమరహిత రేఖ.",
+    "en": "The northern boundary is an irregular line passing through Kachchh, the western flank of the Aravali Range, and extending to the Rajmahal Hills."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T15-0014",
+   "section": {
+    "te": "Western Ghats naming",
+    "en": "Western Ghats naming"
+   },
+   "q": {
+    "te": "పశ్చిమ కనుమల ఉత్తర భాగాన్ని సాధారణంగా ఏమని పిలుస్తారు?",
+    "en": "What is the northern part of the Western Ghats commonly called?"
+   },
+   "options": {
+    "te": [
+     "అనైమలై కొండలు",
+     "నీలగిరి కొండలు",
+     "కార్డమమ్ కొండలు",
+     "సహ్యాద్రి కొండలు"
+    ],
+    "en": [
+     "Anaimalai Hills",
+     "Nilgiri Hills",
+     "Cardamom Hills",
+     "Sahyadri Hills"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, పశ్చిమ కనుమల ఉత్తర భాగాన్ని సహ్యాద్రి కొండలు అని పిలుస్తారు.",
+    "en": "The northern portion of the Western Ghats is known as the Sahyadri Hills."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T15-0047",
+   "section": {
+    "te": "Geographical Matches",
+    "en": "Geographical Matches"
+   },
+   "q": {
+    "te": "ఈ క్రింది ప్రాంతాలను వాటి ప్రాముఖ్యతతో జతపరచండి:\n1. బారెన్ ద్వీపం - i. ఆసియాలోనే అత్యంత పరిశుభ్రమైన గ్రామం\n2. సెల్యులార్ జైలు - ii. భారతదేశంలోని ఏకైక క్రియాశీల అగ్నిపర్వతం\n3. మావ్లిన్నాంగ్ - iii. రాయల్ బెంగాల్ టైగర్‌కు నివాసం\n4. సుందర్బన్స్ - iv. స్వాతంత్ర్య సమరయోధులను బంధించిన జైలు",
+    "en": "Match the following locations with their significance:\n1. Barren Island - i. Cleanest village in Asia\n2. Cellular Jail - ii. Only active volcano in India\n3. Mawlynnong - iii. Home to Royal Bengal Tiger\n4. Sundarbans - iv. Jailed freedom fighters"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-iv, 3-i, 4-iii",
+     "1-ii, 2-i, 3-iv, 4-iii",
+     "1-iii, 2-iv, 3-i, 4-ii",
+     "1-iv, 2-ii, 3-iii, 4-i"
+    ],
+    "en": [
+     "1-ii, 2-iv, 3-i, 4-iii",
+     "1-ii, 2-i, 3-iv, 4-iii",
+     "1-iii, 2-iv, 3-i, 4-ii",
+     "1-iv, 2-ii, 3-iii, 4-i"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "బారెన్ ద్వీపం క్రియాశీల అగ్నిపర్వతం, సెల్యులార్ జైలులో స్వాతంత్ర్య సమరయోధులు ఉండేవారు, మావ్లిన్నాంగ్ అత్యంత పరిశుభ్రమైన గ్రామం మరియు సుందర్బన్స్ పులులకు నివాసం.",
+    "en": "Barren Island is an active volcano, Cellular Jail held freedom fighters, Mawlynnong is the cleanest village, and Sundarbans is home to tigers."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T15-0078",
+   "section": {
+    "te": "Desert Fossils",
+    "en": "Desert Fossils"
+   },
+   "q": {
+    "te": "భారతీయ ఎడారి ప్రాంతంలోని ఆకల్ (Aakal) వద్ద లభించిన చెక్క శిలాజాల సుమారు వయస్సు ఎంత?",
+    "en": "What is the estimated approximate age of the wood fossils found at Aakal in the Indian desert region?"
+   },
+   "options": {
+    "te": [
+     "300 మిలియన్ సంవత్సరాలు",
+     "180 మిలియన్ సంవత్సరాలు",
+     "150 మిలియన్ సంవత్సరాలు",
+     "64 మిలియన్ సంవత్సరాలు"
+    ],
+    "en": [
+     "300 million years",
+     "180 million years",
+     "150 million years",
+     "64 million years"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రాంతం యొక్క భౌగోళిక చరిత్రకు ఆధారాలను అందించే ఆకల్ వద్ద ఉన్న చెక్క శిలాజాల వయస్సు సుమారు 180 మిలియన్ సంవత్సరాలుగా అంచనా వేయబడింది.",
+    "en": "The wood fossils at Aakal, which provide evidence of the region's geological history, are estimated to be about 180 million years old."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T15-0073",
+   "section": {
+    "te": "Northeastern Plateau",
+    "en": "Northeastern Plateau"
+   },
+   "q": {
+    "te": "ఈ క్రింది కొండలలో ఏది మేఘాలయ పీఠభూమిలో ఉపవిభాగం కాదు?",
+    "en": "Which of the following hills is NOT a sub-division of the Meghalaya plateau?"
+   },
+   "options": {
+    "te": [
+     "ఖాసీ కొండలు",
+     "జైంతియా కొండలు",
+     "గారో కొండలు",
+     "మికిర్ కొండలు"
+    ],
+    "en": [
+     "Khasi Hills",
+     "Jaintia Hills",
+     "Garo Hills",
+     "Mikir Hills"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మేఘాలయ పీఠభూమి గారో, ఖాసీ మరియు జైంతియా కొండలుగా విభజించబడింది. మికిర్ కొండలు ఈ పీఠభూమి యొక్క ఉపవిభాగంగా వచనంలో పేర్కొనబడలేదు.",
+    "en": "The Meghalaya plateau is sub-divided into the Garo, Khasi, and Jaintia hills. Mikir hills are not listed as a sub-division of this plateau in the text."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T15-0101",
+   "section": {
+    "te": "Western Coastal Plain Width",
+    "en": "Western Coastal Plain Width"
+   },
+   "q": {
+    "te": "పశ్చిమ తీర మైదానాల వెడల్పు వైవిధ్యాన్ని కింది వాటిలో ఏది సరిగ్గా వివరిస్తుంది?",
+    "en": "Which of the following correctly describes the width variation of the western coastal plains?"
+   },
+   "options": {
+    "te": [
+     "మొత్తం పొడవునా ఒకే విధమైన వెడల్పు ఉంటుంది",
+     "ఉత్తరాన వెడల్పుగా ఉండి క్రమంగా దక్షిణం వైపు ఇరుకుగా మారుతుంది",
+     "మధ్యలో వెడల్పుగా మరియు ఉత్తర, దక్షిణాల వైపు ఇరుకుగా ఉంటుంది",
+     "మధ్యలో ఇరుకుగా మరియు ఉత్తర, దక్షిణాల వైపు వెడల్పుగా ఉంటుంది"
+    ],
+    "en": [
+     "Uniform width throughout the entire length",
+     "Broader in the north and gradually narrowing towards the south",
+     "Broad in the middle and narrow towards north and south",
+     "Narrow in the middle and broader towards north and south"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పశ్చిమ తీర మైదానాలు మధ్యలో ఇరుకుగా ఉంటాయని, కానీ ఉత్తర మరియు దక్షిణ దిశల వైపు వెడల్పుగా మారుతాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The western coastal plains are narrow in the middle but become broader as they extend towards the north and south."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T15-0022",
+   "section": {
+    "te": "Lakshadweep composition",
+    "en": "Lakshadweep composition"
+   },
+   "q": {
+    "te": "లక్షద్వీప్ ద్వీపసమూహంలో ఎన్ని ద్వీపాలు ఉన్నాయి?",
+    "en": "How many islands make up the Lakshadweep archipelago?"
+   },
+   "options": {
+    "te": [
+     "36",
+     "48",
+     "52",
+     "24"
+    ],
+    "en": [
+     "36",
+     "48",
+     "52",
+     "24"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "లక్షద్వీప్ 36 ద్వీపాలతో నిర్మితమైందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Lakshadweep is made up of 36 islands."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T15-0016",
+   "section": {
+    "te": "Eastern Ghats features",
+    "en": "Eastern Ghats features"
+   },
+   "q": {
+    "te": "భారతదేశంలోని కనుమలకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. పశ్చిమ కనుమలు యునెస్కో (UNESCO) ప్రపంచ వారసత్వ ప్రదేశంగా ప్రకటించబడ్డాయి.\n2. తూర్పు కనుమలు తక్కువ ఎత్తులో ఉండి, చిన్న కొండలుగా విడిపోయి ఉంటాయి.\n3. దక్కన్ పీఠభూమి పశ్చిమ మరియు తూర్పు కనుమల మధ్య ఉంది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the Ghats of India:\n1. The Western Ghats have been declared a UNESCO World Heritage Site.\n2. The Eastern Ghats are lower and broken into smaller hills.\n3. The Deccan Plateau lies between the Western and Eastern Ghats.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మూడు ప్రకటనలు కూడా పాఠ్యభాగం ద్వారా నేరుగా ధృవీకరించబడ్డాయి: పశ్చిమ కనుమలు యునెస్కో సైట్, తూర్పు కనుమలు తక్కువ ఎత్తులో/విడిపోయి ఉంటాయి మరియు దక్కన్ పీఠభూమి వాటి మధ్య ఉంది.",
+    "en": "All three statements are directly supported by the text: Western Ghats are a UNESCO site, Eastern Ghats are lower/broken, and the Deccan Plateau lies between them."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T15-0051",
+   "section": {
+    "te": "Northern Plains Alluvium",
+    "en": "Northern Plains Alluvium"
+   },
+   "q": {
+    "te": "ఇండో-గంగా-బ్రహ్మపుత్ర మైదానాలలో ఒండ్రు మట్టి నిక్షేపాల సగటు లోతు ఎంత?",
+    "en": "What is the average depth of alluvial deposits in the Indo-Ganga-Brahmaputra plains?"
+   },
+   "options": {
+    "te": [
+     "1,000-2,000 మీటర్లు",
+     "500-1,000 మీటర్లు",
+     "2,000-3,000 మీటర్లు",
+     "3,000-4,000 మీటర్లు"
+    ],
+    "en": [
+     "1,000-2,000 m",
+     "500-1,000 m",
+     "2,000-3,000 m",
+     "3,000-4,000 m"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, ఇండో-గంగా-బ్రహ్మపుత్ర మైదానాలలో ఒండ్రు నిక్షేపాల సగటు లోతు 1,000 నుండి 2,000 మీటర్ల మధ్య ఉంటుంది.",
+    "en": "The average depth of alluvial deposits in the Indo-Ganga-Brahmaputra plains ranges between 1,000 and 2,000 meters."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T15-0026",
+   "section": {
+    "te": "Island locations",
+    "en": "Island locations"
+   },
+   "q": {
+    "te": "అండమాన్ మరియు నికోబార్ ద్వీపాలు ఏ జలభాగంలో ఉన్నాయి?",
+    "en": "In which water body are the Andaman and Nicobar Islands located?"
+   },
+   "options": {
+    "te": [
+     "అరేబియా సముద్రం",
+     "మన్నార్ సింధుశాఖ",
+     "హిందూ మహాసముద్రం",
+     "బంగాళాఖాతం"
+    ],
+    "en": [
+     "Arabian Sea",
+     "Gulf of Mannar",
+     "Indian Ocean",
+     "Bay of Bengal"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అండమాన్ మరియు నికోబార్ ద్వీపాలు బంగాళాఖాతంలో ఉన్నాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The Andaman and Nicobar Islands are located in the Bay of Bengal."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T15-0053",
+   "section": {
+    "te": "Northern Plains Water Divide",
+    "en": "Northern Plains Water Divide"
+   },
+   "q": {
+    "te": "సింధు మరియు గంగా నదీ వ్యవస్థల మధ్య జల విభజన రేఖగా (water divide) పనిచేసే రాష్ట్రాలు/కేంద్రపాలిత ప్రాంతాలు ఏవి?",
+    "en": "Which of the following states/UTs form the water divide between the Indus and the Ganga river systems?"
+   },
+   "options": {
+    "te": [
+     "ఉత్తరప్రదేశ్ మరియు ఢిల్లీ",
+     "హర్యానా మరియు ఢిల్లీ",
+     "పంజాబ్ మరియు హర్యానా",
+     "పంజాబ్ మరియు రాజస్థాన్"
+    ],
+    "en": [
+     "Uttar Pradesh and Delhi",
+     "Haryana and Delhi",
+     "Punjab and Haryana",
+     "Punjab and Rajasthan"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "హర్యానా మరియు ఢిల్లీ రాష్ట్రాలు సింధు మరియు గంగా నదీ వ్యవస్థల మధ్య జల విభజనగా పనిచేస్తాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text specifically mentions that Haryana and Delhi act as the water divide between the Indus and Ganga river systems."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T15-0099",
+   "section": {
+    "te": "Andaman and Nicobar Origin",
+    "en": "Andaman and Nicobar Origin"
+   },
+   "q": {
+    "te": "అండమాన్ మరియు నికోబార్ ద్వీప సమూహం యొక్క మూలం ఏమిటని నమ్ముతారు?",
+    "en": "What is the believed origin of the Andaman and Nicobar island group?"
+   },
+   "options": {
+    "te": [
+     "పూర్తిగా పగడపు నిక్షేపాలతో నిర్మించబడింది",
+     "నదీ అవక్షేపాలతో ఏర్పడింది",
+     "సముద్రగర్భ పర్వతాల యొక్క ఎత్తైన భాగం",
+     "ద్వీపకల్ప పీఠభూమిలో భాగం"
+    ],
+    "en": [
+     "Entirely built of coral deposits",
+     "Formed by river sediments",
+     "Elevated portion of submarine mountains",
+     "Part of the Peninsular plateau"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అండమాన్ మరియు నికోబార్ ద్వీపాలు సముద్రగర్భ పర్వతాల యొక్క ఎత్తైన భాగమని నమ్ముతారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The Andaman and Nicobar islands are believed to be an elevated portion of submarine mountains."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T15-0003",
+   "section": {
+    "te": "Ganga Plain Agriculture",
+    "en": "Ganga Plain Agriculture"
+   },
+   "q": {
+    "te": "గంగా మైదానాల్లోని వ్యవసాయానికి సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. సాంప్రదాయ వ్యవసాయం ఎక్కువగా వర్షాధారంగా ఉండేది.\n2. ఇటీవలి నీటిపారుదల పద్ధతులు భూగర్భ జలాలు తగ్గిపోవడానికి కారణమయ్యాయి.\n3. నీటిపారుదల నీరు కాలువల నెట్‌వర్క్ ద్వారా లేదా భూగర్భ జలాల నుండి పంపింగ్ ద్వారా అందించబడుతుంది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding agriculture in the Ganga plains:\n1. Traditional agriculture has been mostly rainfed.\n2. Recent irrigation practices have contributed to the depletion of groundwater.\n3. Irrigation water is brought through networks of canals or pumped from groundwater.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మూడు ప్రకటనలూ సరైనవే: సాంప్రదాయ వ్యవసాయం వర్షాధారంగా ఉండేది, ఆధునిక నీటిపారుదల కాలువలు/భూగర్భ జలాలను ఉపయోగిస్తుంది మరియు ఇది భూగర్భ జలాలు తగ్గిపోవడానికి దారితీసింది.",
+    "en": "All three statements are correct: traditional farming was rainfed, modern irrigation uses canals/groundwater, and this has led to groundwater depletion."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T15-0025",
+   "section": {
+    "te": "Lakshadweep habitation",
+    "en": "Lakshadweep habitation"
+   },
+   "q": {
+    "te": "లక్షద్వీప్ గురించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఇది అరేబియా సముద్రంలో ఉన్న ఒక ద్వీపసమూహం.\n2. ఇది కేరళలోని మలబార్ తీరానికి దగ్గరగా ఉంది.\n3. దీనిలోని 36 ద్వీపాలలో ప్రతి ఒక్కదానిలోనూ ప్రజలు నివసిస్తున్నారు.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about Lakshadweep:\n1. It is an archipelago located in the Arabian Sea.\n2. It is situated close to the Malabar coast of Kerala.\n3. Every one of its 36 islands is inhabited by people.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రకటనలు 1 మరియు 2 సరైనవి. ప్రకటన 3 తప్పు ఎందుకంటే 'అన్ని ద్వీపాలలో ప్రజలు నివసించడం లేదు' అని పాఠ్యభాగం చెబుతోంది.",
+    "en": "Statements 1 and 2 are correct. Statement 3 is incorrect because the text says 'Not all islands are inhabited by people'."
+   }
+  }
+ ]
+}

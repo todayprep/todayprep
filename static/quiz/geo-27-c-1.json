@@ -1,0 +1,942 @@
+{
+ "id": "geo-27-c-1",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Transport – క్విజ్ 1",
+  "en": "Transport – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T27-0077",
+   "section": {
+    "te": "Modes of transportation",
+    "en": "Modes of transportation"
+   },
+   "q": {
+    "te": "కింది వాటిలో ప్రయాణికులను కాకుండా కేవలం సరుకులను (Freight) మాత్రమే రవాణా చేసే ప్రధాన రవాణా మార్గం ఏది?",
+    "en": "Which of the following principal modes of transportation carries ONLY freight and does NOT carry passengers?"
+   },
+   "options": {
+    "te": [
+     "అంతర్గత జలమార్గాలు",
+     "పైప్‌లైన్లు",
+     "వాయుమార్గాలు",
+     "రోప్‌వేలు"
+    ],
+    "en": [
+     "Inland waterways",
+     "Pipelines",
+     "Airways",
+     "Ropeways"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, పైప్‌లైన్లు మినహా ప్రపంచంలోని అన్ని ప్రధాన రవాణా మార్గాలు ప్రయాణికులను మరియు సరుకులను రవాణా చేస్తాయి; పైప్‌లైన్లు కేవలం సరుకులను మాత్రమే రవాణా చేస్తాయి.",
+    "en": "Each principal mode of world transportation carries both passengers and freight, except pipelines which carry only freight."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T27-0118",
+   "section": {
+    "te": "Golden Quadrilateral",
+    "en": "Golden Quadrilateral"
+   },
+   "q": {
+    "te": "భారతదేశపు స్వర్ణ చతుర్భుజి (Golden Quadrilateral) ద్వారా అనుసంధానించబడిన నాలుగు మెట్రోపాలిటన్ నగరాల్లో కింది వాటిలో ఏది లేదు?",
+    "en": "Which of the following cities is NOT one of the four metropolitan cities connected by India's Golden Quadrilateral?"
+   },
+   "options": {
+    "te": [
+     "న్యూఢిల్లీ",
+     "ముంబై",
+     "చెన్నై",
+     "హైదరాబాద్"
+    ],
+    "en": [
+     "New Delhi",
+     "Mumbai",
+     "Chennai",
+     "Hyderabad"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "స్వర్ణ చతుర్భుజి న్యూఢిల్లీ, ముంబై, చెన్నై మరియు కోల్‌కతాలను కలుపుతుంది. ఈ నాలుగింటిలో హైదరాబాద్ పేరు లేదు.",
+    "en": "The Golden Quadrilateral connects New Delhi, Mumbai, Chennai, and Kolkata. Hyderabad is not mentioned as one of the four."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T27-0190",
+   "section": {
+    "te": "Air transport importance",
+    "en": "Air transport importance"
+   },
+   "q": {
+    "te": "వాయు రవాణాకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. చేరుకోలేని ప్రాంతాలకు చేరుకోవడానికి ఇది తరచుగా ఏకైక మార్గం.\n2. ఇరాక్‌లో జరిగిన వైమానిక దాడుల్లో చూసినట్లుగా దీనికి గొప్ప వ్యూహాత్మక ప్రాముఖ్యత ఉంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding air transport:\n1. It is often the only means to reach inaccessible areas.\n2. It has great strategic importance, as seen in the air strikes in Iraq.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "చేరుకోలేని ప్రాంతాలకు చేరుకోవడానికి వాయు రవాణా చాలా ముఖ్యమైనది మరియు ఇరాక్‌లో జరిగిన వైమానిక దాడుల ద్వారా దీని వ్యూహాత్మక ప్రాముఖ్యత నిరూపితమైంది.",
+    "en": "Air transport is vital for reaching inaccessible areas and has strategic importance, exemplified by air strikes in Iraq."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T27-0173",
+   "section": {
+    "te": "Supersonic Aircraft",
+    "en": "Supersonic Aircraft"
+   },
+   "q": {
+    "te": "సూపర్‌సోనిక్ విమానం లండన్ మరియు న్యూయార్క్ మధ్య దూరాన్ని కవర్ చేయడానికి ఎంత సమయం పడుతుంది?",
+    "en": "How much time does a supersonic aircraft take to cover the distance between London and New York?"
+   },
+   "options": {
+    "te": [
+     "10 గంటలు",
+     "35 గంటలు",
+     "72 గంటలు",
+     "3.5 గంటలు"
+    ],
+    "en": [
+     "10 hours",
+     "35 hours",
+     "72 hours",
+     "3.5 hours"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సూపర్‌సోనిక్ విమానాలు ప్రయాణ సమయాన్ని గణనీయంగా తగ్గించాయి, లండన్ నుండి న్యూయార్క్‌కు 3.5 గంటల్లో చేరుకుంటాయి.",
+    "en": "Supersonic aircraft have significantly reduced travel time, covering London to New York in 3.5 hours."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T27-0174",
+   "section": {
+    "te": "Inland Waterway Factors",
+    "en": "Inland Waterway Factors"
+   },
+   "q": {
+    "te": "అంతర్గత జలమార్గాల అభివృద్ధికి సంబంధించి ఈ క్రింది అంశాలను పరిగణించండి:\n1. ఛానల్ యొక్క వెడల్పు మరియు లోతు.\n2. నీటి ప్రవాహంలో కొనసాగింపు.\n3. వాడుకలో ఉన్న రవాణా సాంకేతికత.\nపై వాటిలో ఏవి సరైనవి?",
+    "en": "Consider the following factors regarding the development of inland waterways:\n1. Width and depth of the channel.\n2. Continuity in the water flow.\n3. Transport technology in use.\nWhich of the above factors are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, నౌకాయానం అనేది ఛానల్ కొలతలు, ప్రవాహ కొనసాగింపు మరియు సాంకేతికతపై ఆధారపడి ఉంటుంది.",
+    "en": "Navigability depends on channel dimensions, flow continuity, and technology."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T27-0330",
+   "section": {
+    "te": "Mumbai Hinterland",
+    "en": "Mumbai Hinterland"
+   },
+   "q": {
+    "te": "ముంబై ఓడరేవు యొక్క ప్రధాన హింటర్ల్యాండ్ (hinterland) లో ఈ క్రింది ఏ రాష్ట్రాలు భాగంగా ఉన్నాయి?",
+    "en": "Which of the following states are part of the main hinterland of the Mumbai port?"
+   },
+   "options": {
+    "te": [
+     "మధ్యప్రదేశ్ మరియు మహారాష్ట్ర",
+     "గుజరాత్ మరియు ఉత్తరప్రదేశ్",
+     "రాజస్థాన్ లోని కొన్ని భాగాలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Madhya Pradesh and Maharashtra",
+     "Gujarat and Uttar Pradesh",
+     "Parts of Rajasthan",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ముంబై ఓడరేవు యొక్క ప్రధాన హింటర్ల్యాండ్‌లుగా మధ్యప్రదేశ్, మహారాష్ట్ర, గుజరాత్, ఉత్తరప్రదేశ్ మరియు రాజస్థాన్ లోని కొన్ని భాగాలను పాఠ్య భాగం పేర్కొంది.",
+    "en": "The text lists MP, Maharashtra, Gujarat, UP, and parts of Rajasthan as the main hinterlands of Mumbai port."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T27-0269",
+   "section": {
+    "te": "Air Transport History",
+    "en": "Air Transport History"
+   },
+   "q": {
+    "te": "1911లో, భారతదేశంలో మొదటి ఎయిర్‌మెయిల్ ఆపరేషన్ ఏ రెండు ప్రాంతాల మధ్య ప్రారంభమైంది?",
+    "en": "In 1911, the first airmail operation in India was commenced between which two locations?"
+   },
+   "options": {
+    "te": [
+     "ముంబై మరియు థానే",
+     "ఢిల్లీ మరియు ఆగ్రా",
+     "కోల్‌కతా మరియు హల్దియా",
+     "ప్రయాగ్‌రాజ్ మరియు నైని"
+    ],
+    "en": [
+     "Mumbai and Thane",
+     "Delhi and Agra",
+     "Kolkata and Haldia",
+     "Prayagraj and Naini"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశంలో విమాన రవాణా 1911లో ప్రయాగ్‌రాజ్ మరియు నైని మధ్య 10 కిలోమీటర్ల ఎయిర్‌మెయిల్ విమానంతో ప్రారంభమైంది.",
+    "en": "Air transport in India began in 1911 with a 10 km airmail flight between Prayagraj and Naini."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T27-0308",
+   "section": {
+    "te": "Import Shifts",
+    "en": "Import Shifts"
+   },
+   "q": {
+    "te": "1973 నాటి ఇంధన సంక్షోభం తర్వాత, భారతదేశ దిగుమతి బుట్టలో ఆహార ధాన్యాల దిగుమతుల స్థానంలో ప్రధానంగా ఏ వస్తువులు వచ్చాయి?",
+    "en": "Following the energy crisis of 1973, which items primarily replaced foodgrain imports in India's import basket?"
+   },
+   "options": {
+    "te": [
+     "ఎరువులు మరియు పెట్రోలియం",
+     "మూలధన వస్తువులు మరియు యంత్రాలు",
+     "ముత్యాలు మరియు విలువైన రాళ్లు",
+     "తినదగిన నూనె మరియు రసాయనాలు"
+    ],
+    "en": [
+     "Fertilisers and petroleum",
+     "Capital goods and machinery",
+     "Pearls and precious stones",
+     "Edible oil and chemicals"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "1973 ఇంధన సంక్షోభం తర్వాత, ఆహార ధాన్యాల దిగుమతుల స్థానంలో ఎరువులు మరియు పెట్రోలియం వచ్చాయని మూలం పేర్కొంది.",
+    "en": "After the 1973 energy crisis, foodgrain imports were replaced by fertilisers and petroleum."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T27-0346",
+   "section": {
+    "te": "Kolkata Port Significance",
+    "en": "Kolkata Port Significance"
+   },
+   "q": {
+    "te": "శ్యామ ప్రసాద్ ముఖర్జీ (కోల్‌కతా) ఓడరేవుకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. పారాదీప్ మరియు హల్దియా వంటి ఇతర ఓడరేవులకు ఎగుమతులు మళ్లించడం వల్ల ఇది తన ప్రాముఖ్యతను కోల్పోయింది.\n2. ఇది హుగ్లీ నదిలో పూడిక (silt) పేరుకుపోయే సమస్యను ఎదుర్కొంటోంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the Shyama Prasad Mookerjee (Kolkata) Port:\n1. It has lost significance due to diversion of exports to ports like Paradwip and Haldia.\n2. It faces the problem of silt accumulation in the Hugli river.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఇతర ఓడరేవులకు ఎగుమతులు మళ్లించడం వల్ల ఈ ఓడరేవు ప్రాముఖ్యతను కోల్పోయిందని మరియు హుగ్లీ నదిలో పూడిక సమస్యను ఎదుర్కొంటోందని పాఠ్య భాగం ధృవీకరిస్తుంది.",
+    "en": "The text confirms both that the port lost significance due to export diversion to other ports and that it faces siltation problems in the Hugli river."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T27-0271",
+   "section": {
+    "te": "Cross Country Pipeline",
+    "en": "Cross Country Pipeline"
+   },
+   "q": {
+    "te": "1,157 కిలోమీటర్ల మేర నిర్మించిన ఆసియాలోనే మొట్టమొదటి క్రాస్ కంట్రీ పైప్‌లైన్ ఏ రెండు ప్రాంతాల మధ్య నిర్మించబడింది?",
+    "en": "Asia’s first cross-country pipeline, covering 1,157 km, was constructed between which two points?"
+   },
+   "options": {
+    "te": [
+     "హజీరా మరియు జగదీష్‌పూర్",
+     "బరౌని మరియు కాన్పూర్",
+     "నహర్కటియా మరియు బరౌని",
+     "ముంబై హై మరియు బాస్సేన్"
+    ],
+    "en": [
+     "Hazira and Jagdishpur",
+     "Barauni and Kanpur",
+     "Naharkatiya and Barauni",
+     "Mumbai High and Bassein"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఆసియాలో మొట్టమొదటి క్రాస్ కంట్రీ పైప్‌లైన్‌ను అస్సాంలోని నహర్కటియా చమురు క్షేత్రం నుండి బీహార్‌లోని బరౌని రిఫైనరీ వరకు OIL నిర్మించింది.",
+    "en": "The first cross-country pipeline in Asia was built by OIL from the Naharkatiya oilfield in Assam to the Barauni refinery in Bihar."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T27-0325",
+   "section": {
+    "te": "Impact of Partition",
+    "en": "Impact of Partition"
+   },
+   "q": {
+    "te": "1947లో విభజన కారణంగా భారతదేశం ఏ రెండు ముఖ్యమైన ఓడరేవులను కోల్పోయింది?",
+    "en": "Which two important ports were lost by India due to the partition in 1947?"
+   },
+   "options": {
+    "te": [
+     "ముంబై మరియు కోల్‌కతా",
+     "కరాచీ మరియు చిట్టగాంగ్",
+     "కాండ్లా మరియు డైమండ్ హార్బర్",
+     "చెన్నై మరియు కొచ్చిన్"
+    ],
+    "en": [
+     "Mumbai and Kolkata",
+     "Karachi and Chittagong",
+     "Kandla and Diamond Harbour",
+     "Chennai and Cochin"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "విభజన ఫలితంగా కరాచీ ఓడరేవు పాకిస్తాన్‌కు, చిట్టగాంగ్ ఓడరేవు తూర్పు పాకిస్తాన్‌కు (ప్రస్తుతం బంగ్లాదేశ్) వెళ్ళాయి.",
+    "en": "Partition resulted in Karachi port going to Pakistan and Chittagong port going to East Pakistan (now Bangladesh)."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T27-0179",
+   "section": {
+    "te": "Inland Waterway Cargo",
+    "en": "Inland Waterway Cargo"
+   },
+   "q": {
+    "te": "అంతర్గత జలమార్గాల ద్వారా రవాణా చేయడానికి ఈ క్రింది ఏ భారీ సరుకులు అనువైనవి?",
+    "en": "Which of the following heavy cargoes are suitable for transport through inland waterways?"
+   },
+   "options": {
+    "te": [
+     "బొగ్గు మరియు సిమెంట్",
+     "కలప మరియు లోహ ఖనిజాలు",
+     "త్వరగా పాడైపోయే ఆహార పదార్థాలు",
+     "A మరియు B రెండూ"
+    ],
+    "en": [
+     "Coal and Cement",
+     "Timber and Metallic ores",
+     "Perishable food items",
+     "Both A and B"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "బొగ్గు, సిమెంట్, కలప మరియు ఖనిజాల వంటి భారీ పదార్థాలకు అంతర్గత జలమార్గాలు అనువైనవి.",
+    "en": "Inland waterways are ideal for bulky, heavy materials like coal, cement, timber, and ores."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T27-0127",
+   "section": {
+    "te": "Andes trans-continental route",
+    "en": "Andes trans-continental route"
+   },
+   "q": {
+    "te": "బ్యూనస్ ఎయిర్స్ (అర్జెంటీనా) మరియు వాల్పరైసో (చిలీ) లను కలిపే ట్రాన్స్-కాంటినెంటల్ రైలు మార్గం 3,900 మీటర్ల ఎత్తులో ఉన్న ఏ కనుమ గుండా వెళుతుంది?",
+    "en": "Through which mountain pass does the trans-continental rail route linking Buenos Aires (Argentina) with Valparaiso (Chile) pass at a height of 3,900 m?"
+   },
+   "options": {
+    "te": [
+     "బ్రెన్నర్ కనుమ",
+     "ఖైబర్ కనుమ",
+     "ఉస్పల్లాట్టా కనుమ (Uspallatta Pass)",
+     "బోలన్ కనుమ"
+    ],
+    "en": [
+     "Brenner Pass",
+     "Khyber Pass",
+     "Uspallatta Pass",
+     "Bolan Pass"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "బ్యూనస్ ఎయిర్స్ మరియు వాల్పరైసోలను అనుసంధానించే ఏకైక ట్రాన్స్-కాంటినెంటల్ రైలు మార్గం ఆండీస్ పర్వతాల గుండా 3,900 మీటర్ల ఎత్తులో ఉన్న ఉస్పల్లాట్టా కనుమ మీదుగా వెళుతుంది.",
+    "en": "The trans-continental rail line linking Buenos Aires with Valparaiso crosses the Andes Mountains through the Uspallatta Pass at an elevation of 3,900 m."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T27-0205",
+   "section": {
+    "te": "Types of Ports",
+    "en": "Types of Ports"
+   },
+   "q": {
+    "te": "అధిక పరిమాణంలో బల్క్ (bulk) మరియు సాధారణ సరుకును (general cargo) నిర్వహించే ఓడరేవులను ఏమని పిలుస్తారు?",
+    "en": "What type of ports are characterized by handling bulk and general cargo in large volumes?"
+   },
+   "options": {
+    "te": [
+     "వాణిజ్య ఓడరేవులు",
+     "ప్యాకెట్ స్టేషన్లు",
+     "సమగ్ర ఓడరేవులు (Comprehensive Ports)",
+     "పారిశ్రామిక ఓడరేవులు"
+    ],
+    "en": [
+     "Commercial Ports",
+     "Packet Stations",
+     "Comprehensive Ports",
+     "Industrial Ports"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అధిక పరిమాణంలో బల్క్ మరియు సాధారణ సరుకును నిర్వహించే వాటిని సమగ్ర ఓడరేవులుగా నిర్వచించారు.",
+    "en": "Comprehensive ports are defined as those that handle both bulk and general cargo in large volumes."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T27-0171",
+   "section": {
+    "te": "Mississippi Waterways",
+    "en": "Mississippi Waterways"
+   },
+   "q": {
+    "te": "మిసిసిపీ-ఓహియో జలమార్గంలో, పెద్ద స్టీమర్లు ఎంత దూరం ప్రయాణించగలవు?",
+    "en": "On the Mississippi-Ohio waterway, how far inland can large steamers travel?"
+   },
+   "options": {
+    "te": [
+     "దులుత్",
+     "మాంట్రియల్",
+     "మిన్నియాపాలిస్",
+     "బఫెలో"
+    ],
+    "en": [
+     "Duluth",
+     "Montreal",
+     "Minneapolis",
+     "Buffalo"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మిసిసిపీ-ఓహియో మార్గం పెద్ద స్టీమర్లను USA లోపలి భాగంలోని మిన్నియాపాలిస్ వరకు చేరుకోవడానికి అనుమతిస్తుంది.",
+    "en": "The Mississippi-Ohio route allows large steamers to reach as far as Minneapolis in the interior of the USA."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T27-0294",
+   "section": {
+    "te": "1950s Imports",
+    "en": "1950s Imports"
+   },
+   "q": {
+    "te": "1950లు మరియు 1960ల ఆహార కొరత సమయంలో, భారతదేశానికి ప్రధాన దిగుమతి వస్తువులు ఏవి?",
+    "en": "During the food shortages of the 1950s and 1960s, which of the following were major items of import for India?"
+   },
+   "options": {
+    "te": [
+     "ఆహార ధాన్యాలు",
+     "మూలధన వస్తువులు (Capital goods)",
+     "యంత్రాలు మరియు పరికరాలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Foodgrain",
+     "Capital goods",
+     "Machinery and equipment",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "1950లు మరియు 60లలో, భారతదేశం ఆహార కొరతను ఎదుర్కొంది మరియు మూలధన వస్తువులు మరియు యంత్రాలతో పాటు ఆహార ధాన్యాలను దిగుమతి చేసుకుంది.",
+    "en": "In the 1950s and 60s, India faced food shortages and imported foodgrains along with capital goods and machinery."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T27-0153",
+   "section": {
+    "te": "South Pacific Route Distance",
+    "en": "South Pacific Route Distance"
+   },
+   "q": {
+    "te": "దక్షిణ పసిఫిక్ సముద్ర మార్గంలో పనామా మరియు సిడ్నీల మధ్య దూరం ఎంత?",
+    "en": "On the South Pacific Sea Route, what is the distance covered between Panama and Sydney?"
+   },
+   "options": {
+    "te": [
+     "10,200 కి.మీ",
+     "12,000 కి.మీ",
+     "15,000 కి.మీ",
+     "8,500 కి.మీ"
+    ],
+    "en": [
+     "10,200 km",
+     "12,000 km",
+     "15,000 km",
+     "8,500 km"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "దక్షిణ పసిఫిక్ సముద్ర మార్గంలో పనామా మరియు సిడ్నీల మధ్య ప్రయాణించే దూరం 12,000 కి.మీ.",
+    "en": "The distance covered between Panama and Sydney on the South Pacific Sea Route is 12,000 km."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T27-0046",
+   "section": {
+    "te": "National Waterway 3",
+    "en": "National Waterway 3"
+   },
+   "q": {
+    "te": "వెస్ట్-కోస్ట్ కెనాల్ (కొట్టాపురం-కొల్లం, ఉద్యోగమండల్ మరియు చంపాకర కాలువలు) తో కూడిన జాతీయ జలమార్గం నం. 3 ఏ రాష్ట్రంలో ఉంది?",
+    "en": "National Waterway No. 3, which comprises the West-Coast Canal (Kottapuram-Kollam, Udyogamandal and Champakkara canals), is located in which state?"
+   },
+   "options": {
+    "te": [
+     "కర్ణాటక",
+     "కేరళ",
+     "తమిళనాడు",
+     "మహారాష్ట్ర"
+    ],
+    "en": [
+     "Karnataka",
+     "Kerala",
+     "Tamil Nadu",
+     "Maharashtra"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "జాతీయ జలమార్గం నం. 3 కేరళ రాష్ట్రంలోని వెస్ట్-కోస్ట్ కెనాల్‌లో ఉంది.",
+    "en": "National Waterway No. 3 comprises the West-Coast Canal located in Kerala."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T27-0291",
+   "section": {
+    "te": "Trade Balance 2021-22",
+    "en": "Trade Balance 2021-22"
+   },
+   "q": {
+    "te": "2021-22 సంవత్సరపు గణాంకాల ప్రకారం, కోట్ల రూపాయలలో భారతదేశ వాణిజ్య సమతుల్యత (trade balance) ఎంత?",
+    "en": "According to the data for the year 2021-22, what was India's trade balance in crore rupees?"
+   },
+   "options": {
+    "te": [
+     "31,47,021",
+     "14,25,753",
+     "-45,72,775",
+     "-14,25,753"
+    ],
+    "en": [
+     "31,47,021",
+     "14,25,753",
+     "-45,72,775",
+     "-14,25,753"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "2021-22లో, భారతదేశ ఎగుమతులు రూ. 31,47,021 కోట్లు మరియు దిగుమతులు రూ. 45,72,775 కోట్లు, దీని ఫలితంగా రూ. 14,25,753 కోట్ల ప్రతికూల వాణిజ్య సమతుల్యత ఏర్పడింది.",
+    "en": "In 2021-22, India's exports were Rs. 31,47,021 crore and imports were Rs. 45,72,775 crore, resulting in a negative trade balance of Rs. 14,25,753 crore."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T27-0197",
+   "section": {
+    "te": "Satellite Communication",
+    "en": "Satellite Communication"
+   },
+   "q": {
+    "te": "శాటిలైట్ కమ్యూనికేషన్ పరంగా, కమ్యూనికేషన్ యొక్క యూనిట్ ఖర్చు 'దూరంతో సంబంధం లేకుండా స్థిరంగా ఉంటుంది' (invariant in terms of distance) అంటే ఏమిటి?",
+    "en": "Regarding satellite communication, what does it mean when the unit cost of communication is 'invariant in terms of distance'?"
+   },
+   "options": {
+    "te": [
+     "దూరంతో సంబంధం లేకుండా ఖర్చు ఒకేలా ఉంటుంది",
+     "డేటా బరువును బట్టి ఖర్చు నిర్ణయించబడుతుంది",
+     "దూరంతో పాటు ఖర్చు పెరుగుతుంది",
+     "దూరం పెరిగే కొద్దీ ఖర్చు తగ్గుతుంది"
+    ],
+    "en": [
+     "The cost remains the same regardless of the distance",
+     "The cost is determined by the weight of the data",
+     "The cost increases linearly with distance",
+     "The cost decreases as distance increases"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "శాటిలైట్ కమ్యూనికేషన్ యూనిట్ ఖర్చును దూరంతో సంబంధం లేకుండా చేసింది, అంటే 500 కి.మీ దూరానికి అయ్యే ఖర్చే 5,000 కి.మీ దూరానికి కూడా అవుతుంది.",
+    "en": "Satellite communication has rendered the unit cost invariant of distance, meaning it costs the same to communicate over 500 km as it does over 5,000 km."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T27-0058",
+   "section": {
+    "te": "Software and IT",
+    "en": "Software and IT"
+   },
+   "q": {
+    "te": "భారతదేశం అంతర్జాతీయ స్థాయిలో సాఫ్ట్‌వేర్ దిగ్గజంగా అవతరించింది మరియు కింది వాటిలో దేని ఎగుమతి ద్వారా పెద్ద మొత్తంలో విదేశీ మారకద్రవ్యాన్ని ఆర్జిస్తోంది?",
+    "en": "India has emerged as a software giant at the international level and is earning large foreign exchange through the export of which of the following?"
+   },
+   "options": {
+    "te": [
+     "సమాచార సాంకేతికత (ఇన్ఫర్మేషన్ టెక్నాలజీ)",
+     "ఎలక్ట్రానిక్ హార్డ్‌వేర్",
+     "పెట్రోలియం ఉత్పత్తులు",
+     "వ్యవసాయ యంత్రాలు"
+    ],
+    "en": [
+     "Information technology",
+     "Electronic hardware",
+     "Petroleum products",
+     "Agricultural machinery"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భారతదేశం అంతర్జాతీయ స్థాయిలో సాఫ్ట్‌వేర్ రంగంలో అగ్రగామిగా నిలిచి, ఇన్ఫర్మేషన్ టెక్నాలజీ ఎగుమతి ద్వారా భారీగా విదేశీ మారకద్రవ్యాన్ని ఆర్జిస్తోంది.",
+    "en": "India has emerged as an international software giant and earns large foreign exchange through the export of information technology."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T27-0017",
+   "section": {
+    "te": "Road Network Length",
+    "en": "Road Network Length"
+   },
+   "q": {
+    "te": "2020–21 నాటి సమాచారం ప్రకారం, భారతదేశంలోని మొత్తం రోడ్డు నెట్‌వర్క్ దాదాపు ఎన్ని లక్షల కిలోమీటర్లు ఉంది?",
+    "en": "According to 2020–21 data, the total road network in India aggregates to approximately what length?"
+   },
+   "options": {
+    "te": [
+     "48.60 లక్షల కి.మీ.",
+     "71.45 లక్షల కి.మీ.",
+     "62.16 లక్షల కి.మీ.",
+     "54.82 లక్షల కి.మీ."
+    ],
+    "en": [
+     "48.60 lakh km",
+     "71.45 lakh km",
+     "62.16 lakh km",
+     "54.82 lakh km"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "2020–21 నాటికి భారతదేశం ప్రపంచంలోనే రెండవ అతిపెద్ద రోడ్డు నెట్‌వర్క్‌ను కలిగి ఉంది, ఇది దాదాపు 62.16 లక్షల కిలోమీటర్లుగా ఉంది.",
+    "en": "According to 2020–21 data, India has the second largest road network in the world, aggregating to about 62.16 lakh km."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T27-0251",
+   "section": {
+    "te": "National Waterway 3",
+    "en": "National Waterway 3"
+   },
+   "q": {
+    "te": "జాతీయ జలమార్గం 3 (NW 3) ఈ క్రింది ఏ కాలువ వ్యవస్థలను కలిగి ఉంటుంది?",
+    "en": "National Waterway 3 (NW 3) consists of which of the following canal systems?"
+   },
+   "options": {
+    "te": [
+     "పశ్చిమ తీర కాలువ (West coast canal)",
+     "చంపాకర కాలువ (Champakara canal)",
+     "ఉద్యోగమండల్ కాలువ (Udyogmandal canal)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "West coast canal",
+     "Champakara canal",
+     "Udyogmandal canal",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "NW 3 (కొట్టాపురం-కొల్లాం స్ట్రెచ్) పశ్చిమ తీర కాలువ, చంపాకర కాలువ మరియు ఉద్యోగమండల్ కాలువలను కలిగి ఉంటుంది.",
+    "en": "NW 3 (Kottapuram-Kollam stretch) includes the west coast canal, Champakara canal, and Udyogmandal canal."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T27-0247",
+   "section": {
+    "te": "First Indian Railway",
+    "en": "First Indian Railway"
+   },
+   "q": {
+    "te": "1853లో బొంబాయి మరియు థానే మధ్య నిర్మించిన మొదటి భారతీయ రైల్వే లైన్ ఎన్ని కిలోమీటర్ల దూరాన్ని కవర్ చేసింది?",
+    "en": "The first Indian Railway line constructed in 1853 between Bombay and Thane covered a distance of how many kilometres?"
+   },
+   "options": {
+    "te": [
+     "34 కి.మీ",
+     "44 కి.మీ",
+     "24 కి.మీ",
+     "54 కి.మీ"
+    ],
+    "en": [
+     "34 km",
+     "44 km",
+     "24 km",
+     "54 km"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భారతదేశంలో మొదటి రైల్వే లైన్ 1853లో ప్రవేశపెట్టబడింది, ఇది బొంబాయి నుండి థానే వరకు 34 కిలోమీటర్ల దూరాన్ని కలుపుతుంది.",
+    "en": "The first railway line in India was introduced in 1853, connecting Bombay to Thane over a distance of 34 km."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T27-0048",
+   "section": {
+    "te": "Jawaharlal Nehru port purpose",
+    "en": "Jawaharlal Nehru port purpose"
+   },
+   "q": {
+    "te": "జవహర్‌లాల్ నెహ్రూ ఓడరేవును క్రింది ఏ ఉద్దేశ్యాలతో ప్రణాళిక చేశారు?",
+    "en": "The Jawaharlal Nehru port was planned with which of the following objectives?"
+   },
+   "options": {
+    "te": [
+     "ముంబై ఓడరేవు రద్దీని తగ్గించడానికి",
+     "ఈ ప్రాంతానికి హబ్ పోర్ట్‌గా సేవలు అందించడానికి",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "To decongest the Mumbai port",
+     "To serve as a hub port for this region",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ముంబై పోర్ట్ యొక్క రద్దీని తగ్గించడానికి మరియు ఈ ప్రాంతానికి హబ్ పోర్ట్‌గా వ్యవహరించడానికి జవహర్‌లాల్ నెహ్రూ పోర్ట్‌ను రూపొందించారు.",
+    "en": "Jawaharlal Nehru port was planned both to decongest Mumbai port and to serve as a hub port for the region."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T27-0331",
+   "section": {
+    "te": "Vadinar Terminal",
+    "en": "Vadinar Terminal"
+   },
+   "q": {
+    "te": "వాడినార్ వద్ద ఉన్న ఆఫ్ షోర్ టెర్మినల్ ఏ ఓడరేవు వద్ద ఒత్తిడిని తగ్గించడానికి అభివృద్ధి చేయబడింది?",
+    "en": "The offshore terminal at Vadinar was developed to reduce pressure at which port?"
+   },
+   "options": {
+    "te": [
+     "దీన్ దయాల్ పోర్ట్",
+     "న్యూ మంగళూరు పోర్ట్",
+     "మర్మగోవా పోర్ట్",
+     "ముంబై పోర్ట్"
+    ],
+    "en": [
+     "Deendayal Port",
+     "New Mangalore Port",
+     "Mormugao Port",
+     "Mumbai Port"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "దీన్ దయాల్ పోర్ట్ (కాండ్లా) పై ఒత్తిడిని తగ్గించడానికి వాడినార్ ఆఫ్ షోర్ టెర్మినల్ గురించి పాఠ్య భాగం పేర్కొంది.",
+    "en": "Vadinar offshore terminal in the context of Deendayal Port (Kandla) to reduce its pressure."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T27-0134",
+   "section": {
+    "te": "Union and Pacific route cities",
+    "en": "Union and Pacific route cities"
+   },
+   "q": {
+    "te": "న్యూయార్క్ నుండి శాన్ ఫ్రాన్సిస్కోను కలిపే యూనియన్ అండ్ పసిఫిక్ రైల్వే మార్గంలో లేని నగరం ఏది?",
+    "en": "Which of the following cities is NOT on the route of the Union and Pacific Railway connecting New York to San Francisco?"
+   },
+   "options": {
+    "te": [
+     "కాల్గరీ (Calgary)",
+     "ఓగ్డెన్ (Ogden)",
+     "శాక్రమెంటో (Sacramento)",
+     "ఒమాహా (Omaha)"
+    ],
+    "en": [
+     "Calgary",
+     "Ogden",
+     "Sacramento",
+     "Omaha"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "కాల్గరీ కెనడాలోని ట్రాన్స్-కెనడియన్ రైలు మార్గంలో ఉంది. యూనియన్ అండ్ పసిఫిక్ రైల్వే మార్గం క్లీవ్‌ల్యాండ్, చికాగో, ఒమాహా, ఎవాన్స్, ఓగ్డెన్, శాక్రమెంటోల గుండా వెళుతుంది.",
+    "en": "Calgary is located along the Trans-Canadian Railway, whereas the Union and Pacific Railway passes through Cleveland, Chicago, Omaha, Evans, Ogden, and Sacramento."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T27-0030",
+   "section": {
+    "te": "First Train in India",
+    "en": "First Train in India"
+   },
+   "q": {
+    "te": "భారతదేశంలో నడిచిన మొదటి రైలుకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది 1853 సంవత్సరంలో ముంబై నుండి థానే వరకు నడిచింది.\n2. ఇది 34 కిలోమీటర్ల దూరాన్ని ప్రయాణించింది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the first train in India:\n1. It steamed off from Mumbai to Thane in the year 1853.\n2. It covered a distance of 34 km.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతదేశంలో మొదటి రైలు 1853 లో ముంబై నుండి థానే మధ్య 34 కి.మీ దూరం ప్రయాణించింది. కాబట్టి రెండు ప్రకటనలు సరైనవే.",
+    "en": "Both statements are correct as the first train steamed off from Mumbai to Thane in 1853 covering a distance of 34 km."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T27-0165",
+   "section": {
+    "te": "Rhine Ports",
+    "en": "Rhine Ports"
+   },
+   "q": {
+    "te": "రుర్ (Ruhr) బేసిన్ యొక్క సంపన్న ఉత్పాదక ప్రాంతానికి రైన్ నౌకాశ్రయంగా ఈ క్రింది వాటిలో ఏది పనిచేస్తుంది?",
+    "en": "Which of the following serves as the Rhine port for the prosperous manufacturing area of the Ruhr basin?"
+   },
+   "options": {
+    "te": [
+     "కొలోన్",
+     "డ్యూసెల్డార్ఫ్",
+     "బాసెల్",
+     "రోటర్‌డ్యామ్"
+    ],
+    "en": [
+     "Cologne",
+     "Dusseldorf",
+     "Basel",
+     "Rotterdam"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "డ్యూసెల్డార్ఫ్ అనేది రుర్ బొగ్గు గని మరియు ఉత్పాదక ప్రాంతానికి సేవలందించే రైన్ నదిపై ఉన్న ఓడరేవు.",
+    "en": "Dusseldorf is the specific port on the Rhine that serves the Ruhr coalfield and manufacturing region."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T27-0026",
+   "section": {
+    "te": "Border Roads Organisation",
+    "en": "Border Roads Organisation"
+   },
+   "q": {
+    "te": "సరిహద్దు ప్రాంతాల్లో వ్యూహాత్మక ప్రాముఖ్యత కలిగిన రహదారుల అభివృద్ధి కోసం బోర్డర్ రోడ్స్ ఆర్గనైజేషన్ (BRO) ఏ సంవత్సరంలో స్థాపించబడింది?",
+    "en": "In which year was the Border Roads Organisation (BRO) established?"
+   },
+   "options": {
+    "te": [
+     "1985",
+     "1950",
+     "1971",
+     "1960"
+    ],
+    "en": [
+     "1985",
+     "1950",
+     "1971",
+     "1960"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఉత్తర మరియు ఈశాన్య సరిహద్దు ప్రాంతాల్లో వ్యూహాత్మక ప్రాముఖ్యత కలిగిన రోడ్ల అభివృద్ధి కోసం బోర్డర్ రోడ్స్ ఆర్గనైజేషన్ (BRO) 1960 లో స్థాపించబడింది.",
+    "en": "The Border Roads Organisation (BRO) was established in 1960 for developing roads of strategic importance in border areas."
+   }
+  }
+ ]
+}

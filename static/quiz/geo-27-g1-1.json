@@ -1,0 +1,942 @@
+{
+ "id": "geo-27-g1-1",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Transport – క్విజ్ 1",
+  "en": "Transport – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T27-0168",
+   "section": {
+    "te": "Volga Waterway",
+    "en": "Volga Waterway"
+   },
+   "q": {
+    "te": "రష్యా యొక్క అత్యంత ముఖ్యమైన జలమార్గం అయిన వోల్గా నది ఏ సముద్రంలో కలుస్తుంది?",
+    "en": "Into which sea does the Volga river, Russia's most important waterway, drain?"
+   },
+   "options": {
+    "te": [
+     "నల్ల సముద్రం",
+     "కాస్పియన్ సముద్రం",
+     "మధ్యధరా సముద్రం",
+     "బాల్టిక్ సముద్రం"
+    ],
+    "en": [
+     "Black Sea",
+     "Caspian Sea",
+     "Mediterranean Sea",
+     "Baltic Sea"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వోల్గా నది విస్తారమైన నౌకాయాన నెట్‌వర్క్‌ను అందిస్తుంది మరియు చివరికి కాస్పియన్ సముద్రంలో కలుస్తుంది.",
+    "en": "The Volga river provides a vast navigable network and eventually flows into the Caspian Sea."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T27-0007",
+   "section": {
+    "te": "Economic Lifelines",
+    "en": "Economic Lifelines"
+   },
+   "q": {
+    "te": "దేశ అభివృద్ధికి సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. రవాణా, సమాచార మార్పిడి మరియు వాణిజ్యం ఒకదానికొకటి పరిపూరకరమైనవి.\n2. అభివృద్ధి వేగం వస్తువుల ఉత్పత్తిపై మాత్రమే ఆధారపడి ఉంటుంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the development of a country:\n1. Transport, communication, and trade are complementary to each other.\n2. The pace of development depends only on the production of goods.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్య భాగం ప్రకారం ప్రకటన 1 సరైనది. వస్తువులు మరియు సేవల ఉత్పత్తితో పాటు వాటి కదలికపై కూడా అభివృద్ధి ఆధారపడి ఉంటుంది కాబట్టి ప్రకటన 2 తప్పు.",
+    "en": "Statement 1 is correct as per the text. Statement 2 is incorrect because development depends on both the production of goods and services as well as their movement over space."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T27-0180",
+   "section": {
+    "te": "Air transport share",
+    "en": "Air transport share"
+   },
+   "q": {
+    "te": "ప్రపంచంలోని వాయుమార్గాలలో 60 శాతం ఏ దేశం కలిగి ఉంది?",
+    "en": "Which country alone accounts for 60 per cent of the airways of the world?"
+   },
+   "options": {
+    "te": [
+     "భారత్",
+     "చైనా",
+     "రష్యా",
+     "అమెరికా (U.S.A.)"
+    ],
+    "en": [
+     "India",
+     "China",
+     "Russia",
+     "U.S.A."
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మూలం ప్రకారం, ప్రపంచ వాయుమార్గాల నెట్‌వర్క్‌లో అమెరికా (U.S.A.) 60 శాతం వాటాను కలిగి ఉంది.",
+    "en": "The U.S.A. accounts for 60 per cent of the world's airways network."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T27-0270",
+   "section": {
+    "te": "Oil India Limited",
+    "en": "Oil India Limited"
+   },
+   "q": {
+    "te": "పెట్రోలియం మరియు సహజ వాయువు మంత్రిత్వ శాఖ ఆధ్వర్యంలో ముడి చమురు మరియు సహజ వాయువు అన్వేషణ, ఉత్పత్తి మరియు రవాణాలో నిమగ్నమై ఉన్న సంస్థ ఏది?",
+    "en": "Which organization is engaged in the exploration, production, and transportation of crude oil and natural gas under the Ministry of Petroleum and Natural Gas?"
+   },
+   "options": {
+    "te": [
+     "ఆయిల్ ఇండియా లిమిటెడ్ (OIL)",
+     "ఎయిర్‌పోర్ట్ అథారిటీ ఆఫ్ ఇండియా",
+     "GAIL (ఇండియా) లిమిటెడ్",
+     "పవన్ హన్స్ లిమిటెడ్"
+    ],
+    "en": [
+     "Oil India Limited (OIL)",
+     "Airport Authority of India",
+     "GAIL (India) Ltd.",
+     "Pawan Hans Limited"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ముడి చమురు మరియు సహజ వాయువు అన్వేషణ, ఉత్పత్తి మరియు రవాణాకు ఆయిల్ ఇండియా లిమిటెడ్ (OIL) బాధ్యత వహిస్తుంది.",
+    "en": "Oil India Limited (OIL) is the entity responsible for the exploration, production, and transportation of crude oil and natural gas."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T27-0047",
+   "section": {
+    "te": "National Waterway 4 length",
+    "en": "National Waterway 4 length"
+   },
+   "q": {
+    "te": "గోదావరి మరియు కృష్ణా నదులతో పాటు కాకినాడ-పుదుచ్చేరి కాలువల మార్గాలను కలిగి ఉన్న జాతీయ జలమార్గం నం. 4 మొత్తం పొడవు ఎంత?",
+    "en": "What is the total length of National Waterway No. 4 covering stretches of the Godavari and Krishna rivers along with the Kakinada-Puducherry canals?"
+   },
+   "options": {
+    "te": [
+     "588 కి.మీ",
+     "1620 కి.మీ",
+     "1078 కి.మీ",
+     "891 కి.మీ"
+    ],
+    "en": [
+     "588 km",
+     "1620 km",
+     "1078 km",
+     "891 km"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "జాతీయ జలమార్గం నం. 4 యొక్క మొత్తం పొడవు 1078 కి.మీ.",
+    "en": "National Waterway No. 4 has a specified total length of 1078 km."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T27-0002",
+   "section": {
+    "te": "Trilateral Highway",
+    "en": "Trilateral Highway"
+   },
+   "q": {
+    "te": "భారత్-మయన్మార్-థాయ్‌లాండ్ త్రైపాక్షిక రహదారి భారతదేశంలోని ఏ రాష్ట్రం నుండి ప్రారంభమవుతుంది?",
+    "en": "The India–Myanmar–Thailand Trilateral Highway starts from which Indian state?"
+   },
+   "options": {
+    "te": [
+     "మణిపూర్",
+     "అస్సాం",
+     "నాగాలాండ్",
+     "మిజోరం"
+    ],
+    "en": [
+     "Manipur",
+     "Assam",
+     "Nagaland",
+     "Mizoram"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "త్రైపాక్షిక రహదారి భారతదేశంలోని మణిపూర్ రాష్ట్రం నుండి ప్రారంభమై, మయన్మార్ గుండా వెళుతూ థాయ్‌లాండ్‌లో ముగుస్తుంది.",
+    "en": "The Trilateral Highway stretches from the Indian state of Manipur, passing through Myanmar and ending in Thailand."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T27-0252",
+   "section": {
+    "te": "Inland Waterways Authority",
+    "en": "Inland Waterways Authority"
+   },
+   "q": {
+    "te": "భారతదేశంలో జాతీయ జలమార్గాల నియంత్రణ కోసం ఇన్లాండ్ వాటర్వేస్ అథారిటీని ఏ సంవత్సరంలో ఏర్పాటు చేశారు?",
+    "en": "In which year was the Inland Waterways Authority set up for the regulation of national waterways in India?"
+   },
+   "options": {
+    "te": [
+     "1986",
+     "1853",
+     "2016",
+     "1998"
+    ],
+    "en": [
+     "1986",
+     "1853",
+     "2016",
+     "1998"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "జాతీయ జలమార్గాల అభివృద్ధి, నిర్వహణ మరియు నియంత్రణ కోసం 1986లో ఇన్లాండ్ వాటర్వేస్ అథారిటీని స్థాపించారు.",
+    "en": "The Inland Waterways Authority was established in 1986 for the development, maintenance, and regulation of national waterways."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T27-0149",
+   "section": {
+    "te": "Southern Atlantic Industries",
+    "en": "Southern Atlantic Industries"
+   },
+   "q": {
+    "te": "దక్షిణ అట్లాంటిక్ సముద్ర మార్గం వెంబడి, క్రింది ఏ ప్రాంతాలలో మాత్రమే భారీ తరహా పరిశ్రమలు ఉన్నాయి?\n1. ఆగ్నేయ బ్రెజిల్\n2. ప్లాటా ఎస్ట్యువరీ (Plata estuary)\n3. దక్షిణ ఆఫ్రికాలోని కొన్ని భాగాలు\nసరైన సమాధానాన్ని ఎంచుకోండి:",
+    "en": "Along the Southern Atlantic Sea Route, large-scale industries are found only in which of the following regions?\n1. South-eastern Brazil\n2. Plata estuary\n3. Parts of South Africa\nSelect the correct answer using the codes given below:"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం ఆగ్నేయ బ్రెజిల్, ప్లాటా ఎస్ట్యువరీ మరియు దక్షిణ ఆఫ్రికాలోని కొన్ని ప్రాంతాలలో మాత్రమే భారీ పరిశ్రమలు ఉన్నాయి.",
+    "en": "Along this route, only southeastern Brazil, the Plata estuary, and parts of South Africa have large-scale industries."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T27-0309",
+   "section": {
+    "te": "Principal Commodities Import",
+    "en": "Principal Commodities Import"
+   },
+   "q": {
+    "te": "పట్టిక 8.5 ప్రకారం, 2021-22లో భారతదేశం దిగుమతి చేసుకున్న 'తినదగిన నూనెల' విలువ (కోట్ల రూపాయలలో) ఎంత?",
+    "en": "What was the value of 'Edible oils' imported by India in 2021-22 according to Table 8.5 (in crore rupees)?"
+   },
+   "options": {
+    "te": [
+     "1,05,796",
+     "1,41,532",
+     "94,053",
+     "67,545"
+    ],
+    "en": [
+     "1,05,796",
+     "1,41,532",
+     "94,053",
+     "67,545"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పట్టిక 8.5 ప్రకారం, 2021-22 సంవత్సరానికి తినదగిన నూనెల దిగుమతి విలువ 1,41,532 కోట్ల రూపాయలుగా ఉంది.",
+    "en": "Table 8.5 lists the import value of edible oils as 1,41,532 crore rupees for the year 2021-22."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T27-0325",
+   "section": {
+    "te": "Impact of Partition",
+    "en": "Impact of Partition"
+   },
+   "q": {
+    "te": "1947లో విభజన కారణంగా భారతదేశం ఏ రెండు ముఖ్యమైన ఓడరేవులను కోల్పోయింది?",
+    "en": "Which two important ports were lost by India due to the partition in 1947?"
+   },
+   "options": {
+    "te": [
+     "చెన్నై మరియు కొచ్చిన్",
+     "కాండ్లా మరియు డైమండ్ హార్బర్",
+     "ముంబై మరియు కోల్‌కతా",
+     "కరాచీ మరియు చిట్టగాంగ్"
+    ],
+    "en": [
+     "Chennai and Cochin",
+     "Kandla and Diamond Harbour",
+     "Mumbai and Kolkata",
+     "Karachi and Chittagong"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "విభజన ఫలితంగా కరాచీ ఓడరేవు పాకిస్తాన్‌కు, చిట్టగాంగ్ ఓడరేవు తూర్పు పాకిస్తాన్‌కు (ప్రస్తుతం బంగ్లాదేశ్) వెళ్ళాయి.",
+    "en": "Partition resulted in Karachi port going to Pakistan and Chittagong port going to East Pakistan (now Bangladesh)."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T27-0132",
+   "section": {
+    "te": "Union and Pacific Railway",
+    "en": "Union and Pacific Railway"
+   },
+   "q": {
+    "te": "యూనియన్ అండ్ పసిఫిక్ రైల్వే అట్లాంటిక్ తీరంలోని న్యూయార్క్‌ను పసిఫిక్ తీరంలోని ఏ నగరంతో కలుపుతుంది?",
+    "en": "The Union and Pacific Railway connects New York on the Atlantic Coast to which city on the Pacific Coast?"
+   },
+   "options": {
+    "te": [
+     "శాన్ ఫ్రాన్సిస్కో",
+     "వాంకోవర్",
+     "సియాటెల్",
+     "లాస్ ఏంజెల్స్"
+    ],
+    "en": [
+     "San Francisco",
+     "Vancouver",
+     "Seattle",
+     "Los Angeles"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "యూనియన్ అండ్ పసిఫిక్ రైలు మార్గం అట్లాంటిక్ తీరంలోని న్యూయార్క్ నగరాన్ని పసిఫిక్ తీరంలోని శాన్ ఫ్రాన్సిస్కోతో కలుపుతుంది.",
+    "en": "The Union and Pacific Railway connects New York on the Atlantic Coast to San Francisco on the Pacific Coast."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T27-0059",
+   "section": {
+    "te": "Tourism Scheme Acronym",
+    "en": "Tourism Scheme Acronym"
+   },
+   "q": {
+    "te": "భారతదేశంలో పర్యాటకాన్ని ప్రోత్సహించడానికి ప్రారంభించబడిన పథకాలలో 'PRASHAD' యొక్క పూర్తి రూపం ఏమిటి?",
+    "en": "What does the acronym 'PRASHAD' stand for among the government initiatives launched to boost tourism in India?"
+   },
+   "options": {
+    "te": [
+     "పిల్‌గ్రిమేజ్ రెజువనేషన్ అండ్ స్పిరిచువల్ హెరిటేజ్ ఆగ్మెంటేషన్ డ్రైవ్",
+     "పిల్‌గ్రిమేజ్ రెజువనేషన్ అండ్ సస్టైనబుల్ హెరిటేజ్ యాక్షన్ డిపార్ట్‌మెంట్",
+     "పబ్లిక్ రోడ్స్ అండ్ స్పిరిచువల్ హెరిటేజ్ ఆగ్మెంటేషన్ డివిజన్",
+     "ప్రమోషన్ ఆఫ్ రూరల్ ఏరియాస్ అండ్ స్పిరిచువల్ హెరిటేజ్ ఆగ్మెంటేషన్ డ్రైవ్"
+    ],
+    "en": [
+     "Pilgrimage Rejuvenation and Spiritual Heritage Augmentation Drive",
+     "Pilgrimage Rejuvenation and Sustainable Heritage Action Department",
+     "Public Roads and Spiritual Heritage Augmentation Division",
+     "Promotion of Rural Areas and Spiritual Heritage Augmentation Drive"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, ప్రసాద్ (PRASHAD) అంటే 'Pilgrimage Rejuvenation and Spiritual Heritage Augmentation Drive'.",
+    "en": "As given in the text, PRASHAD stands for Pilgrimage Rejuvenation and Spiritual Heritage Augmentation Drive."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T27-0240",
+   "section": {
+    "te": "Border Roads",
+    "en": "Border Roads"
+   },
+   "q": {
+    "te": "చండీగఢ్‌ను మనాలి మరియు లేహ్‌లతో కలుపుతూ BRO నిర్మించిన రహదారి సముద్ర మట్టానికి సగటున ఎంత ఎత్తులో ఉంది?",
+    "en": "The road constructed by BRO joining Chandigarh with Manali and Leh runs at what average altitude above the mean sea level?"
+   },
+   "options": {
+    "te": [
+     "4,076 మీటర్లు",
+     "5,150 మీటర్లు",
+     "3,000 మీటర్లు",
+     "4,270 మీటర్లు"
+    ],
+    "en": [
+     "4,076 metres",
+     "5,150 metres",
+     "3,000 metres",
+     "4,270 metres"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "BRO నిర్మించిన చండీగఢ్, మనాలి మరియు లేహ్‌లను కలిపే రహదారి సముద్ర మట్టానికి సగటున 4,270 మీటర్ల ఎత్తులో ఉంది.",
+    "en": "The road joining Chandigarh with Manali and Leh, constructed by the BRO, runs at an average altitude of 4,270 metres above mean sea level."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T27-0289",
+   "section": {
+    "te": "World Trade Share",
+    "en": "World Trade Share"
+   },
+   "q": {
+    "te": "ప్రపంచ వాణిజ్యం యొక్క మొత్తం పరిమాణంలో భారతదేశం యొక్క సుమారు వాటా ఎంత?",
+    "en": "What is India's approximate contribution to the total volume of world trade?"
+   },
+   "options": {
+    "te": [
+     "5 శాతం",
+     "1 శాతం",
+     "15 శాతం",
+     "10 శాతం"
+    ],
+    "en": [
+     "5 per cent",
+     "1 per cent",
+     "15 per cent",
+     "10 per cent"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రపంచ వాణిజ్యం యొక్క మొత్తం పరిమాణంలో భారతదేశం యొక్క వాటా సుమారు ఒక శాతం.",
+    "en": "India's share in the total volume of world trade is approximately one per cent."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T27-0134",
+   "section": {
+    "te": "Union and Pacific route cities",
+    "en": "Union and Pacific route cities"
+   },
+   "q": {
+    "te": "న్యూయార్క్ నుండి శాన్ ఫ్రాన్సిస్కోను కలిపే యూనియన్ అండ్ పసిఫిక్ రైల్వే మార్గంలో లేని నగరం ఏది?",
+    "en": "Which of the following cities is NOT on the route of the Union and Pacific Railway connecting New York to San Francisco?"
+   },
+   "options": {
+    "te": [
+     "ఒమాహా (Omaha)",
+     "కాల్గరీ (Calgary)",
+     "శాక్రమెంటో (Sacramento)",
+     "ఓగ్డెన్ (Ogden)"
+    ],
+    "en": [
+     "Omaha",
+     "Calgary",
+     "Sacramento",
+     "Ogden"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కాల్గరీ కెనడాలోని ట్రాన్స్-కెనడియన్ రైలు మార్గంలో ఉంది. యూనియన్ అండ్ పసిఫిక్ రైల్వే మార్గం క్లీవ్‌ల్యాండ్, చికాగో, ఒమాహా, ఎవాన్స్, ఓగ్డెన్, శాక్రమెంటోల గుండా వెళుతుంది.",
+    "en": "Calgary is located along the Trans-Canadian Railway, whereas the Union and Pacific Railway passes through Cleveland, Chicago, Omaha, Evans, Ogden, and Sacramento."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T27-0057",
+   "section": {
+    "te": "Communication Integration",
+    "en": "Communication Integration"
+   },
+   "q": {
+    "te": "భారతదేశం అంతటా ఏకరూప ఎస్‌టీడీ (STD) రేట్ల సౌకర్యం అంతరిక్ష సాంకేతికతను కింది వాటిలో దేనితో అనుసంధానించడం ద్వారా సాధ్యమైంది?",
+    "en": "The uniform rate of STD facilities all over India has been made possible by integrating development in space technology with which of the following?"
+   },
+   "options": {
+    "te": [
+     "అణు సాంకేతికత",
+     "కమ్యూనికేషన్ టెక్నాలజీ",
+     "రక్షణ సాంకేతికత",
+     "బయోటెక్నాలజీ"
+    ],
+    "en": [
+     "Nuclear technology",
+     "Communication technology",
+     "Defense technology",
+     "Biotechnology"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అంతరిక్ష సాంకేతిక పరిజ్ఞానాన్ని కమ్యూనికేషన్ టెక్నాలజీతో అనుసంధానించడం ద్వారా భారతదేశం అంతటా ఒకే విధమైన ఎస్‌టీడీ రేట్లను అందించడం సాధ్యమైంది.",
+    "en": "A uniform rate of STD facilities across India was achieved by integrating developments in space technology with communication technology."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T27-0272",
+   "section": {
+    "te": "GAIL Establishment",
+    "en": "GAIL Establishment"
+   },
+   "q": {
+    "te": "GAIL (ఇండియా) లిమిటెడ్ ఏ సంవత్సరంలో ప్రభుత్వ రంగ సంస్థగా స్థాపించబడింది?",
+    "en": "In which year was GAIL (India) Ltd. set up as a public sector undertaking?"
+   },
+   "options": {
+    "te": [
+     "1984",
+     "1966",
+     "1959",
+     "1911"
+    ],
+    "en": [
+     "1984",
+     "1966",
+     "1959",
+     "1911"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సహజ వాయువు రవాణా, ప్రాసెసింగ్ మరియు మార్కెటింగ్‌ను నిర్వహించడానికి 1984లో GAIL (ఇండియా) లిమిటెడ్ స్థాపించబడింది.",
+    "en": "GAIL (India) Ltd. was established in 1984 to handle the transport, processing, and marketing of natural gas."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T27-0146",
+   "section": {
+    "te": "Mediterranean-Indian Ocean Route",
+    "en": "Mediterranean-Indian Ocean Route"
+   },
+   "q": {
+    "te": "ప్రాచీన ప్రపంచం (Old World) గుండా వెళుతూ, ఏ ఇతర మార్గం కంటే కూడా ఎక్కువ దేశాలకు మరియు ప్రజలకు సేవలందిస్తున్న సముద్ర మార్గం ఏది?",
+    "en": "Which sea route passes through the heart of the Old World and serves more countries and people than any other route?"
+   },
+   "options": {
+    "te": [
+     "దక్షిణ అట్లాంటిక్ సముద్ర మార్గం",
+     "మధ్యధరా-హిందూ మహాసముద్ర మార్గం",
+     "ఉత్తర పసిఫిక్ సముద్ర మార్గం",
+     "కేప్ ఆఫ్ గుడ్ హోప్ సముద్ర మార్గం"
+    ],
+    "en": [
+     "The Southern Atlantic Sea Route",
+     "The Mediterranean–Indian Ocean Sea Route",
+     "The North Pacific Sea Route",
+     "The Cape of Good Hope Sea Route"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మధ్యధరా-హిందూ మహాసముద్ర సముద్ర మార్గం ప్రాచీన ప్రపంచం గుండా వెళుతూ అన్ని ఇతర మార్గాల కంటే ఎక్కువ దేశాలకు, ప్రజలకు రవాణా సేవలు అందిస్తుంది.",
+    "en": "The Mediterranean–Indian Ocean Sea Route passes through the heart of the Old World and serves more countries and people than any other route."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T27-0151",
+   "section": {
+    "te": "Great Circle Route",
+    "en": "Great Circle Route"
+   },
+   "q": {
+    "te": "ఉత్తర పసిఫిక్ సముద్ర మార్గంలో, ప్రయాణ దూరాన్ని సగానికి తగ్గించే 'గ్రేట్ సర్కిల్' ప్రత్యక్ష మార్గం ఏ రెండు నౌకాశ్రయాలను కలుపుతుంది?",
+    "en": "On the North Pacific Sea Route, the direct route on the Great Circle links which two ports, reducing the travelling distance by half?"
+   },
+   "options": {
+    "te": [
+     "లాస్ ఏంజెల్స్ మరియు కోబ్",
+     "వాంకూవర్ మరియు యొకహోమా",
+     "శాన్ ఫ్రాన్సిస్కో మరియు షాంఘై",
+     "సియాటెల్ మరియు మనీలా"
+    ],
+    "en": [
+     "Los Angeles and Kobe",
+     "Vancouver and Yokohama",
+     "San Francisco and Shanghai",
+     "Seattle and Manila"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "గ్రేట్ సర్కిల్ పై ఉండే ప్రత్యక్ష మార్గం వాంకూవర్ మరియు యొకహోమాలను కలుపుతూ ప్రయాణ దూరాన్ని (2,480 కి.మీ) సగానికి తగ్గిస్తుంది.",
+    "en": "The direct route on the Great Circle links Vancouver and Yokohama, reducing the travelling distance (2,480 km) by half."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T27-0118",
+   "section": {
+    "te": "Golden Quadrilateral",
+    "en": "Golden Quadrilateral"
+   },
+   "q": {
+    "te": "భారతదేశపు స్వర్ణ చతుర్భుజి (Golden Quadrilateral) ద్వారా అనుసంధానించబడిన నాలుగు మెట్రోపాలిటన్ నగరాల్లో కింది వాటిలో ఏది లేదు?",
+    "en": "Which of the following cities is NOT one of the four metropolitan cities connected by India's Golden Quadrilateral?"
+   },
+   "options": {
+    "te": [
+     "న్యూఢిల్లీ",
+     "హైదరాబాద్",
+     "ముంబై",
+     "చెన్నై"
+    ],
+    "en": [
+     "New Delhi",
+     "Hyderabad",
+     "Mumbai",
+     "Chennai"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "స్వర్ణ చతుర్భుజి న్యూఢిల్లీ, ముంబై, చెన్నై మరియు కోల్‌కతాలను కలుపుతుంది. ఈ నాలుగింటిలో హైదరాబాద్ పేరు లేదు.",
+    "en": "The Golden Quadrilateral connects New Delhi, Mumbai, Chennai, and Kolkata. Hyderabad is not mentioned as one of the four."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T27-0339",
+   "section": {
+    "te": "Paradwip Port Location",
+    "en": "Paradwip Port Location"
+   },
+   "q": {
+    "te": "పారాదీప్ ఓడరేవు ఈ క్రింది ఏ నది డెల్టాలో ఉంది?",
+    "en": "In which of the following river deltas is the Paradwip Port situated?"
+   },
+   "options": {
+    "te": [
+     "గోదావరి డెల్టా",
+     "కృష్ణా డెల్టా",
+     "గంగా డెల్టా",
+     "మహానది డెల్టా"
+    ],
+    "en": [
+     "Godavari delta",
+     "Krishna delta",
+     "Ganga delta",
+     "Mahanadi delta"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పారాదీప్ ఓడరేవు కటక్ నుండి సుమారు 100 కిలోమీటర్ల దూరంలో ఉన్న మహానది డెల్టాలో ఉంది.",
+    "en": "Paradwip Port is located in the Mahanadi delta, approximately 100 km away from Cuttack."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T27-0202",
+   "section": {
+    "te": "Port Importance",
+    "en": "Port Importance"
+   },
+   "q": {
+    "te": "ఓడరేవులకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఓడరేవు ప్రాముఖ్యత అది నిర్వహించే సరుకు (cargo) పరిమాణం ఆధారంగా నిర్ణయించబడుతుంది.\n2. నిర్వహించబడే ఓడల సంఖ్య ఓడరేవు ప్రాముఖ్యతకు సూచిక.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding ports:\n1. The importance of a port is judged by the size of cargo handled.\n2. The number of ships handled is an indicator of a port's importance.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 లేదా 2 ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఓడరేవు ప్రాముఖ్యతను అది నిర్వహించే సరుకు పరిమాణం మరియు ఓడల సంఖ్య రెండింటి ద్వారా అంచనా వేస్తారని పాఠ్య భాగం పేర్కొంది.",
+    "en": "Both the size of cargo and the number of ships handled are used to judge the importance of a port."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T27-0235",
+   "section": {
+    "te": "East-West Corridor",
+    "en": "East-West Corridor"
+   },
+   "q": {
+    "te": "తూర్పు-పడమర కారిడార్ అస్సాంలోని సిల్చార్‌ను గుజరాత్‌లోని ఏ ఓడరేవు పట్టణంతో అనుసంధానించడానికి ప్రణాళిక చేయబడింది?",
+    "en": "The East-West Corridor is planned to connect Silchar in Assam with which port town in Gujarat?"
+   },
+   "options": {
+    "te": [
+     "సూరత్",
+     "కాండ్లా",
+     "పోర్‌బందర్",
+     "భావ్‌నగర్"
+    ],
+    "en": [
+     "Surat",
+     "Kandla",
+     "Porbandar",
+     "Bhavnagar"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "తూర్పు-పడమర కారిడార్ అస్సాంలోని సిల్చార్‌ను గుజరాత్‌లోని పోర్‌బందర్ ఓడరేవు పట్టణంతో కలుపుతుంది, దీని మొత్తం పొడవు 3,640 కి.మీ.",
+    "en": "The East-West Corridor connects Silchar in Assam to the port town of Porbandar in Gujarat with a total length of 3,640 km."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T27-0262",
+   "section": {
+    "te": "National Waterways Act 2016",
+    "en": "National Waterways Act 2016"
+   },
+   "q": {
+    "te": "జాతీయ జలమార్గాల చట్టం, 2016 కి సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది మొత్తం 111 అంతర్గత జలమార్గాలను జాతీయ జలమార్గాలుగా ప్రకటించింది.\n2. ఈ సంఖ్యలో అంతకుముందు ప్రకటించిన 5 జాతీయ జలమార్గాలు కూడా ఉన్నాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the National Waterways Act, 2016:\n1. It declared a total of 111 inland waterways as National Waterways.\n2. This count includes 5 national waterways that were declared earlier.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "జాతీయ జలమార్గాల చట్టం, 2016 మొత్తం 111 జలమార్గాలను జాతీయ జలమార్గాలుగా ప్రకటించింది, ఇందులో గతంలో ప్రకటించిన 5 జలమార్గాలు కూడా ఉన్నాయి.",
+    "en": "The National Waterways Act, 2016 declared 111 waterways as National Waterways, which includes the 5 previously declared ones."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T27-0080",
+   "section": {
+    "te": "Air transport suitability",
+    "en": "Air transport suitability"
+   },
+   "q": {
+    "te": "అధిక విలువైనవి, తేలికపాటివి మరియు త్వరగా పాడైపోయే వస్తువులను రవాణా చేయడానికి అత్యంత అనువైన రవాణా మార్గం ఏది?",
+    "en": "High-value, light, and perishable goods are best moved by which of the following modes of transport?"
+   },
+   "options": {
+    "te": [
+     "రైల్వేలు",
+     "వాయుమార్గాలు (ఎయిర్‌వేస్)",
+     "రోడ్డు రవాణా",
+     "సముద్ర సరుకు రవాణా నౌకలు"
+    ],
+    "en": [
+     "Railways",
+     "Airways",
+     "Road transport",
+     "Ocean freighters"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, ఎక్కువ విలువైన, తక్కువ బరువుగల మరియు త్వరగా పాడైపోయే సరుకుల రవాణాకు వాయు రవాణా ఉత్తమమైనది.",
+    "en": "The text specifies that high-value, light, and perishable goods are best moved by airways."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T27-0138",
+   "section": {
+    "te": "The Orient Express route",
+    "en": "The Orient Express route"
+   },
+   "q": {
+    "te": "ప్రసిద్ధ ఓరియంట్ ఎక్స్‌ప్రెస్ (Orient Express) రైలు మార్గం ఏ రెండు యూరోపియన్ నగరాలను కలుపుతుంది?",
+    "en": "The famous Orient Express rail line connects which two European cities?"
+   },
+   "options": {
+    "te": [
+     "లండన్ నుండి రోమ్",
+     "పారిస్ నుండి ఇస్తాంబుల్",
+     "మాడ్రిడ్ నుండి ఏథెన్స్",
+     "బెర్లిన్ నుండి మాస్కో"
+    ],
+    "en": [
+     "London to Rome",
+     "Paris to Istanbul",
+     "Madrid to Athens",
+     "Berlin to Moscow"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఓరియంట్ ఎక్స్‌ప్రెస్ రైలు మార్గం పారిస్ నుండి ఇస్తాంబుల్ వరకు నడుస్తుంది.",
+    "en": "The Orient Express runs from Paris to Istanbul, passing through cities like Strasbourg, Munich, Vienna, Budapest, and Belgrade."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T27-0172",
+   "section": {
+    "te": "Air Transport History",
+    "en": "Air Transport History"
+   },
+   "q": {
+    "te": "కమర్షియల్ జెట్ రవాణా వినియోగాన్ని ఏ దేశం ప్రారంభించింది?",
+    "en": "Which country pioneered the use of commercial jet transport?"
+   },
+   "options": {
+    "te": [
+     "U.S.A.",
+     "U.K.",
+     "ఫ్రాన్స్",
+     "జర్మనీ"
+    ],
+    "en": [
+     "U.S.A.",
+     "U.K.",
+     "France",
+     "Germany"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "యునైటెడ్ కింగ్‌డమ్ కమర్షియల్ జెట్ రవాణాలో అగ్రగామిగా ఉంది, అయితే అమెరికా యుద్ధానంతర పౌర విమానయానానికి నాయకత్వం వహించింది.",
+    "en": "The United Kingdom was the pioneer in commercial jet transport, while the USA led post-war civil aviation."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T27-0109",
+   "section": {
+    "te": "Stuart Highway",
+    "en": "Stuart Highway"
+   },
+   "q": {
+    "te": "ఆస్ట్రేలియాలోని ట్రాన్స్-కాంటినెంటల్ స్టువర్ట్ హైవే కింది ఏ నగరాలను కలుపుతుంది?",
+    "en": "Which of the following cities are connected by the Trans-Continental Stuart Highway in Australia?"
+   },
+   "options": {
+    "te": [
+     "పెర్త్ మరియు సిడ్నీ",
+     "డార్విన్ మరియు మెల్బోర్న్",
+     "వాంకోవర్ మరియు సెయింట్ జాన్స్ సిటీ",
+     "ఎడ్మంటన్ మరియు యాంకరేజ్"
+    ],
+    "en": [
+     "Perth and Sydney",
+     "Darwin and Melbourne",
+     "Vancouver and St. John’s City",
+     "Edmonton and Anchorage"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ట్రాన్స్-కాంటినెంటల్ స్టువర్ట్ హైవే ఆస్ట్రేలియా ఉత్తర తీరంలోని డార్విన్‌ను దక్షిణాన ఉన్న మెల్బోర్న్‌తో కలుపుతుంది.",
+    "en": "The Trans-Continental Stuart Highway connects Darwin on the north coast to Melbourne in the south of Australia."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T27-0123",
+   "section": {
+    "te": "China Highways",
+    "en": "China Highways"
+   },
+   "q": {
+    "te": "చైనాలో, చెంగ్డూను కింది ఏ ప్రాంతంతో కలపడానికి కొత్త హైవే నిర్మించబడింది?",
+    "en": "In China, a new highway has been constructed to link Chengdu with which of the following locations?"
+   },
+   "options": {
+    "te": [
+     "లాసా",
+     "షాంఘై",
+     "గ్వాంగ్జౌ",
+     "బీజింగ్"
+    ],
+    "en": [
+     "Lhasa",
+     "Shanghai",
+     "Guangzhou",
+     "Beijing"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "టిబెట్‌లోని లాసాతో చెంగ్డూను కలిపే కొత్త హైవే గురించి పాఠ్య భాగం పేర్కొంది.",
+    "en": "A new highway linking Chengdu with Lhasa in Tibet."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T27-0016",
+   "section": {
+    "te": "Trilateral Highway Benefits",
+    "en": "Trilateral Highway Benefits"
+   },
+   "q": {
+    "te": "భారత్-మయన్మార్-థాయ్‌లాండ్ త్రైపాక్షిక రహదారి కింది వాటిలో దేనిని సాధించడానికి ఉద్దేశించబడింది?",
+    "en": "The India–Myanmar–Thailand Trilateral Highway is intended to achieve which of the following?"
+   },
+   "options": {
+    "te": [
+     "భూమార్గ అనుసంధానాన్ని మెరుగుపరచడం",
+     "ప్రాంతీయ వాణిజ్యాన్ని పెంపొందించడం",
+     "మరింత సహకారాన్ని అందించడం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Improve overland connectivity",
+     "Enhance regional trade",
+     "Support greater cooperation",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఈ రహదారి భారత్, మయన్మార్ మరియు థాయ్‌లాండ్ మధ్య అనుసంధానాన్ని మెరుగుపరచడం, వాణిజ్యాన్ని పెంపొందించడం మరియు సహకారాన్ని అందించడం లక్ష్యంగా పెట్టుకుంది.",
+    "en": "The highway aims to improve connectivity, enhance trade, and support cooperation among India, Myanmar, and Thailand."
+   }
+  }
+ ]
+}

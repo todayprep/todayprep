@@ -1,0 +1,942 @@
+{
+ "id": "geo-21-c-4",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Mineral and Energy Resources – క్విజ్ 4",
+  "en": "Mineral and Energy Resources – Quiz 4"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T21-0100",
+   "section": {
+    "te": "Tidal Energy Regions",
+    "en": "Tidal Energy Regions"
+   },
+   "q": {
+    "te": "భారతదేశంలోని ఈ క్రింది ప్రాంతాలను పరిశీలించండి:\n1. ఖంభాత్ సింధుశాఖ\n2. కచ్ సింధుశాఖ\n3. సుందర్బన్ ప్రాంతంలోని గంగా డెల్టా\nవీటిలో ఏవి తరంగ శక్తిని (tidal energy) వినియోగించుకోవడానికి అనువైన పరిస్థితులను అందిస్తాయి?",
+    "en": "Consider the following regions in India:\n1. Gulf of Khambhat\n2. Gulf of Kuchchh\n3. Gangetic delta in Sunderbans\nWhich of these provide ideal conditions for utilizing tidal energy?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఖంభాత్ సింధుశాఖ, కచ్ సింధుశాఖ మరియు సుందర్బన్లలోని గంగా డెల్టా తరంగ శక్తికి అనువైన ప్రాంతాలుగా పాఠ్య భాగంలో గుర్తించబడ్డాయి.",
+    "en": "The text identifies the Gulf of Khambhat, the Gulf of Kuchchh, and the Gangetic delta in the Sunderbans as ideal locations for tidal energy."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T21-0098",
+   "section": {
+    "te": "Geothermal Energy Projects",
+    "en": "Geothermal Energy Projects"
+   },
+   "q": {
+    "te": "భూఉష్ణ శక్తిని (geothermal energy) వినియోగించుకోవడానికి భారతదేశంలో ఈ క్రింది ఏ ప్రాంతాలలో ప్రయోగాత్మక ప్రాజెక్టులు ఏర్పాటు చేయబడ్డాయి?",
+    "en": "In which of the following locations have experimental projects been set up in India to harness geothermal energy?"
+   },
+   "options": {
+    "te": [
+     "పార్వతి లోయ, హిమాచల్ ప్రదేశ్",
+     "పుగా లోయ, లడఖ్",
+     "A మరియు B రెండూ",
+     "ఖంభాత్ సింధుశాఖ, గుజరాత్"
+    ],
+    "en": [
+     "Parvati valley, Himachal Pradesh",
+     "Puga Valley, Ladakh",
+     "Both A and B",
+     "Gulf of Khambhat, Gujarat"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతదేశంలో రెండు ప్రయోగాత్మక భూఉష్ణ ప్రాజెక్టులు హిమాచల్ ప్రదేశ్‌లోని పార్వతి లోయ (మణికరణ్) మరియు లడఖ్‌లోని పుగా లోయలో ఉన్నాయి.",
+    "en": "Two experimental geothermal projects in India are located in the Parvati valley (Manikaran, Himachal Pradesh) and the Puga Valley (Ladakh)."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T21-0047",
+   "section": {
+    "te": "Manganese Production",
+    "en": "Manganese Production"
+   },
+   "q": {
+    "te": "ఒక టన్ను ఉక్కును తయారు చేయడానికి సుమారుగా ఎంత మాంగనీస్ అవసరం?",
+    "en": "Approximately how much manganese is required to manufacture one tonne of steel?"
+   },
+   "options": {
+    "te": [
+     "1 కిలో",
+     "20 కిలోలు",
+     "5 కిలోలు",
+     "10 కిలోలు"
+    ],
+    "en": [
+     "1 kg",
+     "20 kg",
+     "5 kg",
+     "10 kg"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఒక టన్ను ఉక్కు తయారీకి దాదాపు 10 కిలోల మాంగనీస్ అవసరమని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Nearly 10 kg of manganese is needed for the production of one tonne of steel."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T21-0145",
+   "section": {
+    "te": "Chhattisgarh Iron Mines",
+    "en": "Chhattisgarh Iron Mines"
+   },
+   "q": {
+    "te": "దల్లి మరియు రాజహరా ఇనుప ఖనిజ గనులు ఛత్తీస్‌గఢ్‌లోని ఏ జిల్లాలో ఉన్నాయి?",
+    "en": "The Dalli and Rajhara iron ore mines are located in which district of Chhattisgarh?"
+   },
+   "options": {
+    "te": [
+     "బస్తర్",
+     "దంతెవాడ",
+     "దుర్గ్",
+     "బైలాడిలా"
+    ],
+    "en": [
+     "Bastar",
+     "Dantewara",
+     "Durg",
+     "Bailadila"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "దల్లి మరియు రాజహరా దుర్గ్ జిల్లాలో ఉన్న ముఖ్యమైన ఇనుప ఖనిజ గనులు.",
+    "en": "Dalli and Rajhara are important iron ore mines located in the Durg district."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T21-0064",
+   "section": {
+    "te": "Mica properties",
+    "en": "Mica properties"
+   },
+   "q": {
+    "te": "అభ్రకం (Mica) యొక్క క్రింది లక్షణాలను పరిశీలించండి:\n1. అద్భుతమైన డై-ఎలక్ట్రిక్ స్ట్రెంత్ (di-electric strength)\n2. తక్కువ పవర్ లాస్ ఫ్యాక్టర్ (low power loss factor)\n3. అధిక వోల్టేజీకి నిరోధకత\nపైన పేర్కొన్న ఏ లక్షణాలు దీనిని ఎలక్ట్రానిక్ పరిశ్రమలో అనివార్యమైనవిగా చేస్తాయి?",
+    "en": "Consider the following properties of Mica:\n1. Excellent di-electric strength\n2. Low power loss factor\n3. Resistance to high voltage\nWhich of the above properties make it indispensable in the electronic industry?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అభ్రకం యొక్క డై-ఎలక్ట్రిక్ స్ట్రెంత్, తక్కువ పవర్ లాస్, ఇన్సులేటింగ్ లక్షణాలు మరియు అధిక వోల్టేజ్ నిరోధకత అన్నీ కలిసి దీనిని ఎలక్ట్రానిక్స్‌లో ముఖ్యమైనవిగా చేస్తాయి.",
+    "en": "Mica's di-electric strength, low power loss, insulating properties, and high voltage resistance collectively make it vital for electronics."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T21-0022",
+   "section": {
+    "te": "Rock composition",
+    "en": "Rock composition"
+   },
+   "q": {
+    "te": "కేవలం ఒకే ఒక ఖనిజంతో కూడిన శిలకు ఈ క్రింది వాటిలో ఏది ఉదాహరణ?",
+    "en": "Which of the following is an example of a rock that consists of only a single mineral?"
+   },
+   "options": {
+    "te": [
+     "గ్రానైట్",
+     "సున్నపురాయి",
+     "ఇసుక రాయి",
+     "బసాల్ట్"
+    ],
+    "en": [
+     "Granite",
+     "Limestone",
+     "Sandstone",
+     "Basalt"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "చాలా శిలలు అనేక ఖనిజాల కలయికతో ఉన్నప్పటికీ, సున్నపురాయిని మాత్రం ఒకే ఖనిజంతో కూడిన శిలగా ప్రత్యేకంగా పేర్కొన్నారు.",
+    "en": "While most rocks are combinations of several minerals, limestone is specifically mentioned as a rock consisting of a single mineral."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T21-0166",
+   "section": {
+    "te": "Tertiary Coal Distribution",
+    "en": "Tertiary Coal Distribution"
+   },
+   "q": {
+    "te": "భారతదేశంలో టెర్షియరీ బొగ్గు లభ్యతకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి నాగాలాండ్ రాష్ట్రంలో కనిపిస్తాయి.\n2. ఇవి అరుణాచల్ ప్రదేశ్‌లో లభిస్తాయి.\n3. ఇవి జమ్మూ కాశ్మీర్‌లో కూడా కనిపిస్తాయి.\nపైన ఇచ్చిన ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding the occurrence of Tertiary coals in India:\n1. They are found in the state of Nagaland.\n2. They occur in Arunachal Pradesh.\n3. They are also found in Jammu and Kashmir.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "టెర్షియరీ బొగ్గు అస్సాం, అరుణాచల్ ప్రదేశ్, మేఘాలయ, నాగాలాండ్ మరియు ప్రత్యేకంగా జమ్మూ కాశ్మీర్‌లోని కాలాకోట్‌లో లభిస్తుంది.",
+    "en": "Tertiary coals occur in Assam, Arunachal Pradesh, Meghalaya, Nagaland, and specifically at Kalakot in Jammu and Kashmir."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T21-0031",
+   "section": {
+    "te": "Veins and Lodes",
+    "en": "Veins and Lodes"
+   },
+   "q": {
+    "te": "పగుళ్లు మరియు సందులలో ఖనిజాలు లభించే సందర్భంలో, పెద్ద పరిమాణంలో లభించే వాటిని ఏమని పిలుస్తారు?",
+    "en": "In the context of mineral occurrences in cracks and crevices, what are the larger occurrences called?"
+   },
+   "options": {
+    "te": [
+     "బెడ్స్ (Beds)",
+     "లోడ్స్ (Lodes)",
+     "వీన్స్ (Veins)",
+     "పొరలు (Layers)"
+    ],
+    "en": [
+     "Beds",
+     "Lodes",
+     "Veins",
+     "Layers"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పగుళ్లు మరియు కీళ్లలో కనిపించే ఖనిజాలను వాటి పరిమాణాన్ని బట్టి వర్గీకరిస్తారు: చిన్న వాటిని వీన్స్ అని, పెద్ద వాటిని లోడ్స్ అని పిలుస్తారు.",
+    "en": "Minerals found in cracks and joints are classified by size: smaller occurrences are veins, while larger ones are called lodes."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T21-0055",
+   "section": {
+    "te": "Manganese Uses",
+    "en": "Manganese Uses"
+   },
+   "q": {
+    "te": "ఉక్కు తయారీతో పాటు, మాంగనీస్‌ను ఈ క్రింది వాటిలో దేని ఉత్పత్తిలో ఉపయోగిస్తారు?",
+    "en": "Apart from steel manufacturing, manganese is used in the production of which of the following?"
+   },
+   "options": {
+    "te": [
+     "బ్లీచింగ్ పౌడర్",
+     "కీటక సంహారకాలు (Insecticides)",
+     "పెయింట్లు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Bleaching powder",
+     "Insecticides",
+     "Paints",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మాంగనీస్‌ను బ్లీచింగ్ పౌడర్, కీటక సంహారకాలు మరియు పెయింట్ల తయారీలో ఉపయోగిస్తారు.",
+    "en": "Manganese has multiple industrial uses including the manufacture of bleaching powder, insecticides, and paints."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T21-0002",
+   "section": {
+    "te": "Solar Alliance founders",
+    "en": "Solar Alliance founders"
+   },
+   "q": {
+    "te": "2015లో ఇంటర్నేషనల్ అలయన్స్ ఫర్ సోలార్ ఎనర్జీ (IASE)ని ఏ రెండు దేశాలు ప్రారంభించాయి?",
+    "en": "Which two countries launched the International Alliance for Solar Energy (IASE) in 2015?"
+   },
+   "options": {
+    "te": [
+     "భారతదేశం మరియు జర్మనీ",
+     "భారతదేశం మరియు అమెరికా",
+     "భారతదేశం మరియు ఫ్రాన్స్",
+     "భారతదేశం మరియు జపాన్"
+    ],
+    "en": [
+     "India and Germany",
+     "India and the USA",
+     "India and France",
+     "India and Japan"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సౌరశక్తిని వినియోగించుకోవడానికి 2015లో భారతదేశం మరియు ఫ్రాన్స్ కలిసి ఇంటర్నేషనల్ అలయన్స్ ఫర్ సోలార్ ఎనర్జీని ప్రారంభించాయి.",
+    "en": "India and France jointly launched the International Alliance for Solar Energy (IASE) in 2015 as a coalition of sunshine-rich countries."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T21-0070",
+   "section": {
+    "te": "Mineral conservation",
+    "en": "Mineral conservation"
+   },
+   "q": {
+    "te": "ఖనిజ వనరులు 'పరిమితమైనవి మరియు పునరుద్ధరించలేనివి' (finite and non-renewable) అని ఎందుకు పరిగణించబడతాయి?",
+    "en": "Mineral resources are considered 'finite and non-renewable' primarily because:"
+   },
+   "options": {
+    "te": [
+     "అవి చోటా నాగ్‌పూర్‌లో మాత్రమే కనిపిస్తాయి",
+     "అవి వేగంగా ఎగుమతి చేయబడుతున్నాయి",
+     "వాటి ఏర్పడే భౌగోళిక ప్రక్రియలు అనంతమైన నెమ్మదిగా ఉంటాయి",
+     "అవి భూమి క్రస్ట్‌లో 1% మాత్రమే ఉన్నాయి"
+    ],
+    "en": [
+     "They are found only in Chota Nagpur",
+     "They are being exported rapidly",
+     "Geological processes of formation are infinitely slow",
+     "They are only 1% of the earth's crust"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఖనిజాలు ఏర్పడటానికి మిలియన్ల సంవత్సరాలు పడుతుంది, కాబట్టి వాటి పునరుద్ధరణ రేటు వినియోగ రేటుతో పోలిస్తే చాలా తక్కువ.",
+    "en": "The rate of replenishment is infinitely small compared to the rate of consumption because geological formation takes millions of years."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T21-0094",
+   "section": {
+    "te": "Peat Coal",
+    "en": "Peat Coal"
+   },
+   "q": {
+    "te": "పీట్ (Peat) కు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఇది చిత్తడి నేలల్లో కుళ్ళిపోతున్న మొక్కల ద్వారా ఉత్పత్తి అవుతుంది.\n2. ఇది అధిక కార్బన్ కంటెంట్ మరియు అధిక తాపన సామర్థ్యాన్ని కలిగి ఉంటుంది.\n3. ఇది అధిక తేమను కలిగి ఉండటం దీని లక్షణం.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding Peat:\n1. It is produced by decaying plants in swamps.\n2. It has high carbon content and high heating capacity.\n3. It is characterized by high moisture content.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పీట్ తక్కువ కార్బన్ మరియు తక్కువ తాపన సామర్థ్యాన్ని కలిగి ఉంటుంది, కానీ అధిక తేమను కలిగి ఉంటుంది. ఇది చిత్తడి నేలల్లో కుళ్ళిపోతున్న మొక్కల నుండి ఏర్పడుతుంది.",
+    "en": "Peat has low carbon and low heating capacity, but high moisture content. It is formed from decaying plants in swamps."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T21-0083",
+   "section": {
+    "te": "Oil Production",
+    "en": "Oil Production"
+   },
+   "q": {
+    "te": "భారతదేశంలో అత్యంత పురాతనమైన చమురు ఉత్పత్తి రాష్ట్రం ఏది?",
+    "en": "Which state is the oldest oil-producing state in India?"
+   },
+   "options": {
+    "te": [
+     "తమిళనాడు",
+     "మహారాష్ట్ర",
+     "గుజరాత్",
+     "అస్సాం"
+    ],
+    "en": [
+     "Tamil Nadu",
+     "Maharashtra",
+     "Gujarat",
+     "Assam"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "దేశంలో అస్సాం అత్యంత పురాతనమైన చమురు ఉత్పత్తి రాష్ట్రమని పాఠ్యాంశం స్పష్టంగా పేర్కొంది.",
+    "en": "Assam is the oldest oil-producing state in the country."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T21-0158",
+   "section": {
+    "te": "Bauxite rock association",
+    "en": "Bauxite rock association"
+   },
+   "q": {
+    "te": "భారతదేశంలోని బాక్సైట్ నిక్షేపాలు ప్రాథమికంగా ఏ రకమైన శిలలతో సంబంధం కలిగి ఉంటాయి?",
+    "en": "Bauxite deposits in India are primarily associated with which of the following types of rocks?"
+   },
+   "options": {
+    "te": [
+     "అగ్ని శిలలు (Igneous rocks)",
+     "లాటరైట్ శిలలు (Laterite rocks)",
+     "రూపాంతర శిలలు (Metamorphic rocks)",
+     "ఇసుకరాతి శిలలు (Sandstone rocks)"
+    ],
+    "en": [
+     "Igneous rocks",
+     "Laterite rocks",
+     "Metamorphic rocks",
+     "Sandstone rocks"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "బాక్సైట్ తృతీయ (tertiary) నిక్షేపాలలో కనిపిస్తుంది మరియు ద్వీపకల్ప భారతదేశం మరియు తీర ప్రాంతాలలోని లాటరైట్ శిలలతో ప్రత్యేకంగా సంబంధం కలిగి ఉంటుంది.",
+    "en": "Bauxite is found in tertiary deposits and is specifically associated with laterite rocks in peninsular India and coastal tracts."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T21-0065",
+   "section": {
+    "te": "Mica production",
+    "en": "Mica production"
+   },
+   "q": {
+    "te": "భారతదేశంలో అభ్రకం (Mica) ఉత్పత్తిలో అగ్రగామిగా ఉన్న బెల్ట్ ఏది?",
+    "en": "Which of the following belts is the leading producer of mica in India?"
+   },
+   "options": {
+    "te": [
+     "నెల్లూరు బెల్ట్",
+     "అజ్మీర్ బెల్ట్",
+     "బైలాడిలా బెల్ట్",
+     "కోడెర్మా గయ - హజారీబాగ్ బెల్ట్"
+    ],
+    "en": [
+     "Nellore belt",
+     "Ajmer belt",
+     "Bailadila belt",
+     "Koderma Gaya – Hazaribagh belt"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జార్ఖండ్‌లోని కోడెర్మా గయ - హజారీబాగ్ బెల్ట్ అభ్రకం ఉత్పత్తిలో అగ్రగామిగా గుర్తించబడింది.",
+    "en": "The Koderma Gaya – Hazaribagh belt in Jharkhand is identified as the leading producer of mica."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T21-0146",
+   "section": {
+    "te": "Kerala Minerals",
+    "en": "Kerala Minerals"
+   },
+   "q": {
+    "te": "కేరళలో ఈ క్రింది ఏ ఖనిజ నిక్షేపాలు ఉన్నాయి?",
+    "en": "Which of the following mineral deposits are found in Kerala?"
+   },
+   "options": {
+    "te": [
+     "మోనాజైట్ మరియు థోరియం",
+     "బాక్సైట్ క్లే",
+     "A మరియు B రెండూ",
+     "పెట్రోలియం"
+    ],
+    "en": [
+     "Monazite and Thorium",
+     "Bauxite clay",
+     "Both A and B",
+     "Petroleum"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కేరళలో మోనాజైట్, థోరియం మరియు బాక్సైట్ క్లే నిక్షేపాలు ఉన్నాయి.",
+    "en": "Kerala has deposits of monazite, thorium, and bauxite clay."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T21-0130",
+   "section": {
+    "te": "Co-operative Farming",
+    "en": "Co-operative Farming"
+   },
+   "q": {
+    "te": "సహకార వ్యవసాయ సంఘంలో వ్యక్తిగత పొలాలకు సంబంధించి కింది వాటిలో ఏది నిజం?",
+    "en": "Which of the following is true regarding individual farms in a co-operative farming society?"
+   },
+   "options": {
+    "te": [
+     "అవి ఒకే ప్రభుత్వ యాజమాన్య ఆస్తిగా విలీనం చేయబడతాయి",
+     "వ్యవసాయం సహకార చొరవతో జరుగుతున్నప్పుడు అవి యథాతథంగా (intact) ఉంటాయి",
+     "అవి భూమి లేని కూలీల మధ్య తిరిగి పంపిణీ చేయబడతాయి",
+     "అవి పారిశ్రామిక మైనింగ్ సైట్లుగా మార్చబడతాయి"
+    ],
+    "en": [
+     "They are merged into a single state-owned property",
+     "They remain intact while farming is done through cooperative initiative",
+     "They are redistributed among landless labourers",
+     "They are converted into industrial mining sites"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సహకార వ్యవసాయంలో, రైతులు వనరులను సమీకరించినప్పటికీ, వారి వ్యక్తిగత పొలాలు యథాతథంగా ఉంటాయి మరియు అవి విలీనం చేయబడవు.",
+    "en": "In co-operative farming, while farmers pool resources, their individual farms remain intact and are not merged or taken over."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T21-0128",
+   "section": {
+    "te": "Metallic Minerals",
+    "en": "Metallic Minerals"
+   },
+   "q": {
+    "te": "ఫెర్రస్ మరియు నాన్-ఫెర్రస్ లోహ ఖనిజాల మధ్య ప్రాథమిక వ్యత్యాసం ఏమిటి?",
+    "en": "What is the primary difference between ferrous and non-ferrous metallic minerals?"
+   },
+   "options": {
+    "te": [
+     "ఫెర్రస్ ఖనిజాలు సేంద్రీయమైనవి, నాన్-ఫెర్రస్ అకర్బనమైనవి",
+     "ఫెర్రస్ ఖనిజాలు మైదానాల్లో, నాన్-ఫెర్రస్ పీఠభూముల్లో కనిపిస్తాయి",
+     "ఫెర్రస్ ఖనిజాలు ఇనుమును కలిగి ఉంటాయి, నాన్-ఫెర్రస్ కలిగి ఉండవు",
+     "ఫెర్రస్ ఖనిజాలు అలోహాలు, నాన్-ఫెర్రస్ లోహాలు"
+    ],
+    "en": [
+     "Ferrous minerals are organic, non-ferrous are inorganic",
+     "Ferrous minerals are found in plains, non-ferrous in plateaus",
+     "Ferrous minerals contain iron, non-ferrous do not",
+     "Ferrous minerals are non-metallic, non-ferrous are metallic"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఇనుమును కలిగి ఉన్న లోహ ఖనిజాలను ఫెర్రస్ అని, ఇనుము లేని వాటిని నాన్-ఫెర్రస్ అని పిలుస్తారు.",
+    "en": "Metallic minerals with iron content are called ferrous, while those without iron content are called non-ferrous."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T21-0171",
+   "section": {
+    "te": "Nuclear Power Projects",
+    "en": "Nuclear Power Projects"
+   },
+   "q": {
+    "te": "కింది అణు విద్యుత్ ప్రాజెక్టులను వాటి రాష్ట్రాలతో జతపరచండి:\n1. నరోరా - i. కర్ణాటక\n2. కైగా - ii. ఉత్తరప్రదేశ్\n3. కాకరాపార - iii. గుజరాత్",
+    "en": "Match the following nuclear power projects with their states:\n1. Narora - i. Karnataka\n2. Kaiga - ii. Uttar Pradesh\n3. Kakarapara - iii. Gujarat"
+   },
+   "options": {
+    "te": [
+     "1-i, 2-ii, 3-iii",
+     "1-ii, 2-i, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-iii, 3-i"
+    ],
+    "en": [
+     "1-i, 2-ii, 3-iii",
+     "1-ii, 2-i, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-iii, 3-i"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "నరోరా ఉత్తరప్రదేశ్‌లో, కైగా కర్ణాటకలో మరియు కాకరాపార గుజరాత్‌లో ఉన్నాయి.",
+    "en": "Narora is in Uttar Pradesh, Kaiga is in Karnataka, and Kakarapara is in Gujarat."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T21-0176",
+   "section": {
+    "te": "Thorium Sources",
+    "en": "Thorium Sources"
+   },
+   "q": {
+    "te": "బీచ్ ఇసుకలో కనిపించే కింది ఏ ఖనిజాల నుండి థోరియం ప్రధానంగా పొందబడుతుంది?",
+    "en": "Thorium is mainly obtained from which of the following minerals found in beach sands?"
+   },
+   "options": {
+    "te": [
+     "లిగ్నైట్ మరియు బొగ్గు",
+     "యురేనియం మరియు మైకా",
+     "మోనజైట్ మరియు ఇల్మెనైట్",
+     "బాక్సైట్ మరియు మాంగనీస్"
+    ],
+    "en": [
+     "Lignite and Coal",
+     "Uranium and Mica",
+     "Monazite and Ilmenite",
+     "Bauxite and Manganese"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కేరళ మరియు తమిళనాడు తీరప్రాంత బీచ్ ఇసుకలో కనిపించే మోనజైట్ మరియు ఇల్మెనైట్ నుండి థోరియం ప్రధానంగా సంగ్రహించబడుతుంది.",
+    "en": "Thorium is primarily extracted from monazite and ilmenite found in the beach sands of Kerala and Tamil Nadu."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T21-0105",
+   "section": {
+    "te": "Geothermal Energy Reason",
+    "en": "Geothermal Energy Reason"
+   },
+   "q": {
+    "te": "భూఉష్ణ శక్తి (Geothermal energy) ప్రాథమికంగా దేనివల్ల ఏర్పడుతుంది?",
+    "en": "Geothermal energy exists primarily because the Earth grows progressively hotter with:"
+   },
+   "options": {
+    "te": [
+     "లోతు పెరిగేకొద్దీ భూమి వేడెక్కడం వల్ల",
+     "సూర్యరశ్మి ప్రభావం వల్ల",
+     "పీడనం తగ్గడం వల్ల",
+     "ఎత్తు పెరిగేకొద్దీ"
+    ],
+    "en": [
+     "Increasing depth",
+     "Exposure to sunlight",
+     "Decreasing pressure",
+     "Increasing altitude"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూమి లోపలికి వెళ్లేకొద్దీ ఉష్ణోగ్రత పెరుగుతుంది కాబట్టి భూఉష్ణ శక్తి లభిస్తుంది.",
+    "en": "Geothermal energy is available because the temperature of the Earth increases as we go deeper into its interior."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T21-0078",
+   "section": {
+    "te": "Lignite Characteristics",
+    "en": "Lignite Characteristics"
+   },
+   "q": {
+    "te": "లిగ్నైట్ బొగ్గుకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఇది తక్కువ రకానికి చెందిన గోధుమ రంగు బొగ్గు.\n2. ఇది మెత్తగా ఉంటుంది మరియు అధిక తేమను కలిగి ఉంటుంది.\n3. దీనిని ప్రాథమికంగా బ్లాస్ట్ ఫర్నేస్‌లలో ఇనుమును కరిగించడానికి ఉపయోగిస్తారు.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding Lignite coal:\n1. It is a low-grade brown coal.\n2. It is soft and has high moisture content.\n3. It is primarily used for smelting iron in blast furnaces.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 only",
+     "1 and 2 only",
+     "2 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "లిగ్నైట్ అనేది అధిక తేమ కలిగిన తక్కువ రకపు గోధుమ బొగ్గు. ఇనుమును కరిగించడానికి లిగ్నైట్ కాదు, మెటలర్జికల్ బొగ్గు (బిటుమినస్) ఉపయోగించబడుతుంది.",
+    "en": "Lignite is a low-grade brown coal with high moisture. Metallurgical coal (high-grade bituminous), not lignite, is used for smelting iron."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T21-0179",
+   "section": {
+    "te": "Uranium Rock Type",
+    "en": "Uranium Rock Type"
+   },
+   "q": {
+    "te": "భారతదేశంలోని యురేనియం నిక్షేపాలు ప్రాథమికంగా ఈ క్రింది ఏ శిలా వ్యవస్థలతో సంబంధం కలిగి ఉన్నాయి?",
+    "en": "Uranium deposits in India are primarily associated with which of the following rock systems?"
+   },
+   "options": {
+    "te": [
+     "టెర్షియరీ శిలలు",
+     "కడప శిలలు",
+     "ధార్వార్ శిలలు",
+     "గోండ్వానా శిలలు"
+    ],
+    "en": [
+     "Tertiary rocks",
+     "Cuddapah rocks",
+     "Dharwar rocks",
+     "Gondwana rocks"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, భారతదేశంలోని యురేనియం నిక్షేపాలు ధార్వార్ శిలలలో కనిపిస్తాయి.",
+    "en": "Uranium deposits in India occur in the Dharwar rocks."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T21-0004",
+   "section": {
+    "te": "Rajasthan solar park",
+    "en": "Rajasthan solar park"
+   },
+   "q": {
+    "te": "రాజస్థాన్‌లో ఉన్న ప్రపంచంలోనే అతిపెద్ద సౌర పార్కులలో ఒకటి, ఆ రాష్ట్ర ప్రస్తుత విద్యుత్ అవసరాలలో సుమారు ఎంత శాతాన్ని తీర్చగలదు?",
+    "en": "One of the largest solar parks in the world located in Rajasthan can generate enough electricity to power about what percentage of the state's current needs?"
+   },
+   "options": {
+    "te": [
+     "సుమారు 5%",
+     "సుమారు 25%",
+     "సుమారు 15%",
+     "సుమారు 50%"
+    ],
+    "en": [
+     "About 5%",
+     "About 25%",
+     "About 15%",
+     "About 50%"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రాజస్థాన్‌లోని ఈ సోలార్ పార్క్ ఆ రాష్ట్ర ప్రస్తుత విద్యుత్ అవసరాలలో సుమారు 15% విద్యుత్‌ను ఉత్పత్తి చేయగలదు.",
+    "en": "The solar park located in Rajasthan can generate enough electricity to power about 15% of the current needs of Rajasthan."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T21-0165",
+   "section": {
+    "te": "Gujarat Oilfields",
+    "en": "Gujarat Oilfields"
+   },
+   "q": {
+    "te": "కింది చమురు క్షేత్రాలను వాటి సంబంధిత ప్రాంతాలతో జతపరచండి:\n1. అంకలేశ్వర్ - i. అస్సాం\n2. నహర్కటియా - ii. గుజరాత్\n3. ముంబై హై - iii. ముంబైకి 160 కి.మీ దూరంలో",
+    "en": "Match the following oilfields with their respective locations:\n1. Ankaleshwar - i. Assam\n2. Naharkatiya - ii. Gujarat\n3. Mumbai High - iii. 160 km off Mumbai"
+   },
+   "options": {
+    "te": [
+     "1-i, 2-ii, 3-iii",
+     "1-ii, 2-i, 3-iii",
+     "1-ii, 2-iii, 3-i",
+     "1-iii, 2-ii, 3-i"
+    ],
+    "en": [
+     "1-i, 2-ii, 3-iii",
+     "1-ii, 2-i, 3-iii",
+     "1-ii, 2-iii, 3-i",
+     "1-iii, 2-ii, 3-i"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, అంకలేశ్వర్ గుజరాత్‌లో ఉంది, నహర్కటియా అస్సాంలో ఉంది మరియు ముంబై హై ముంబైకి 160 కి.మీ దూరంలో ఉంది.",
+    "en": "Ankaleshwar is in Gujarat, Naharkatiya is in Assam, and Mumbai High is located 160 km off Mumbai."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T21-0015",
+   "section": {
+    "te": "India's solar leadership",
+    "en": "India's solar leadership"
+   },
+   "q": {
+    "te": "సౌర కూటమి ద్వారా వర్ధమాన దేశాలలోని సోలార్ ప్రాజెక్టులకు భారతదేశం ఏ విధంగా సహాయం అందించింది?",
+    "en": "How has India supported solar projects across developing nations under the solar alliance?"
+   },
+   "options": {
+    "te": [
+     "పునరుత్పాదకం కాని ముడి ఖనిజాలను మాత్రమే సరఫరా చేయడం ద్వారా",
+     "స్వదేశీ సౌర విద్యుత్ ప్రాజెక్టులను పూర్తిగా నిలిపివేయడం ద్వారా",
+     "బిలియన్ల డాలర్లను సమకూర్చడం, సాంకేతిక పరిజ్ఞానాన్ని పంచుకోవడం మరియు చౌకైన ఆర్థిక సహాయ ఎంపికలను సృష్టించడం ద్వారా",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "By supplying non-renewable raw minerals only",
+     "By completely replacing domestic solar installations",
+     "By channeling billions of dollars, sharing technical expertise, and creating affordable financing options",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతదేశం బిలియన్ల కొద్దీ డాలర్లను అందించడంలో, సాంకేతిక నైపుణ్యాన్ని పంచుకోవడంలో మరియు సరసమైన ఆర్థిక అవకాశాలను కల్పించడంలో వర్ధమాన దేశాలకు సహాయపడింది.",
+    "en": "India has channeled billions of dollars, shared technical expertise, and created affordable financing options for solar projects across developing nations."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T21-0089",
+   "section": {
+    "te": "Geological Age of Coal",
+    "en": "Geological Age of Coal"
+   },
+   "q": {
+    "te": "భారతదేశంలోని బొగ్గు యొక్క భౌగోళిక యుగాలకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. గోండ్వానా బొగ్గు 200 మిలియన్ సంవత్సరాల కంటే కొంచెం ఎక్కువ పురాతనమైనది.\n2. టెర్షియరీ బొగ్గు నిక్షేపాలు సుమారు 55 మిలియన్ సంవత్సరాల పురాతనమైనవి.\n3. టెర్షియరీ బొగ్గు ప్రధానంగా దామోదర్ లోయలో కనిపిస్తుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about the geological ages of coal in India:\n1. Gondwana coal is a little over 200 million years old.\n2. Tertiary coal deposits are approximately 55 million years old.\n3. Tertiary coals are primarily found in the Damodar valley.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "గోండ్వానా బొగ్గు (200 మిలియన్ ఏళ్లు) దామోదర్ లోయలో ఉండగా, టెర్షియరీ బొగ్గు (55 మిలియన్ ఏళ్లు) ఈశాన్య రాష్ట్రాల్లో కనిపిస్తుంది.",
+    "en": "Gondwana coal (200m years) is in the Damodar valley, while Tertiary coal (55m years) is found in North Eastern states."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T21-0138",
+   "section": {
+    "te": "Odisha Iron Mines",
+    "en": "Odisha Iron Mines"
+   },
+   "q": {
+    "te": "గురుమహిసాని, సులైపేట్ మరియు బాదాంపహార్ ఇనుప ఖనిజ గనులు ఏ రాష్ట్రంలో ఉన్నాయి?",
+    "en": "In which state are the iron ore mines of Gurumahisani, Sulaipet, and Badampahar located?"
+   },
+   "options": {
+    "te": [
+     "ఛత్తీస్‌గఢ్",
+     "కర్ణాటక",
+     "జార్ఖండ్",
+     "ఒడిశా"
+    ],
+    "en": [
+     "Chhattisgarh",
+     "Karnataka",
+     "Jharkhand",
+     "Odisha"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఈ గనులు ఒడిశాలోని మయూర్ భంజ్ జిల్లాలో ఉన్నాయి.",
+    "en": "These mines are located in the Mayurbhanj district of Odisha."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T21-0152",
+   "section": {
+    "te": "Coal types in India",
+    "en": "Coal types in India"
+   },
+   "q": {
+    "te": "భారతదేశంలోని బొగ్గు నిల్వల్లో సుమారు 80 శాతం ఏ రకానికి చెందినవి?",
+    "en": "About 80 per cent of the coal deposits in India belong to which of the following types?"
+   },
+   "options": {
+    "te": [
+     "ఆంత్రాసైట్ రకం మరియు కోకింగ్ గ్రేడ్",
+     "బిటుమినస్ రకం మరియు నాన్-కోకింగ్ గ్రేడ్",
+     "పీట్ రకం మరియు కోకింగ్ గ్రేడ్",
+     "లిగ్నైట్ రకం మరియు నాన్-కోకింగ్ గ్రేడ్"
+    ],
+    "en": [
+     "Anthracite type and coking grade",
+     "Bituminous type and non-coking grade",
+     "Peat type and coking grade",
+     "Lignite type and non-coking grade"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారతదేశంలోని బొగ్గు నిల్వల్లో సుమారు 80 శాతం బిటుమినస్ రకానికి మరియు నాన్-కోకింగ్ గ్రేడ్‌కు చెందినవని వనరు పేర్కొంది.",
+    "en": "The source specifies that approximately 80% of India's coal is of the bituminous type and is of non-coking grade."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T21-0093",
+   "section": {
+    "te": "Electricity and Development",
+    "en": "Electricity and Development"
+   },
+   "q": {
+    "te": "నేటి ప్రపంచంలో విస్తృతమైన అప్లికేషన్ల కారణంగా దేనిని 'అభివృద్ధి సూచిక' (index of development) గా పరిగణిస్తారు?",
+    "en": "What is considered as an 'index of development' in today's world due to its wide range of applications?"
+   },
+   "options": {
+    "te": [
+     "చమురు శుద్ధి కర్మాగారాల సంఖ్య",
+     "తలసరి విద్యుత్ వినియోగం",
+     "తలసరి బొగ్గు వినియోగం",
+     "గ్యాస్ పైప్‌లైన్ల పొడవు"
+    ],
+    "en": [
+     "Number of oil refineries",
+     "Per capita consumption of electricity",
+     "Per capita consumption of coal",
+     "Length of gas pipelines"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "విద్యుత్ తలసరి వినియోగం దేశ అభివృద్ధికి కొలమానంగా లేదా సూచికగా ఉపయోగించబడుతుంది.",
+    "en": "The per capita consumption of electricity is used as a measure or index of a country's development."
+   }
+  }
+ ]
+}

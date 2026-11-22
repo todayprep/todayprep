@@ -1,0 +1,942 @@
+{
+ "id": "geo-10-g1-3",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Oceans – క్విజ్ 3",
+  "en": "Oceans – Quiz 3"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T10-0028",
+   "section": {
+    "te": "Ocean Water Percentage",
+    "en": "Ocean Water Percentage"
+   },
+   "q": {
+    "te": "భూమిపై ఉన్న మొత్తం నీటిలో మహాసముద్రాలు ఎంత శాతం కలిగి ఉన్నాయి?",
+    "en": "What percentage of the Earth's total water is held by the oceans?"
+   },
+   "options": {
+    "te": [
+     "3 శాతం",
+     "97 శాతం",
+     "50 శాతం",
+     "71 శాతం"
+    ],
+    "en": [
+     "3 per cent",
+     "97 per cent",
+     "50 per cent",
+     "71 per cent"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మహాసముద్రాలు ఉపరితలంలో 71% ఆక్రమించినప్పటికీ, భూమిపై ఉన్న మొత్తం నీటిలో 97% ఇవే కలిగి ఉన్నాయి.",
+    "en": "While oceans cover 71% of the surface, they contain 97% of all water found on Earth."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T10-0098",
+   "section": {
+    "te": "Mid-oceanic Ridges",
+    "en": "Mid-oceanic Ridges"
+   },
+   "q": {
+    "te": "భూమి ఉపరితలంపై ఉన్న అతి పొడవైన పర్వత శ్రేణి ఏది?",
+    "en": "Which of the following is the longest mountain chain on the surface of the Earth?"
+   },
+   "options": {
+    "te": [
+     "మధ్య-మహాసముద్ర పర్వత శ్రేణులు",
+     "ఆల్ప్స్",
+     "ఆండీస్",
+     "హిమాలయాలు"
+    ],
+    "en": [
+     "The Mid-oceanic ridges",
+     "The Alps",
+     "The Andes",
+     "The Himalayas"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మధ్య-మహాసముద్ర పర్వత శ్రేణి భూమిపై ఉన్న అతి పొడవైన పర్వత శ్రేణి, అయితే ఇది సముద్రపు నీటిలో మునిగి ఉంటుంది.",
+    "en": "The mid-oceanic ridge system is the longest mountain chain on Earth, although it is mostly submerged underwater."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T10-0177",
+   "section": {
+    "te": "Vertical Motion",
+    "en": "Vertical Motion"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఏవి సముద్రపు నీటిలో నిలువు కదలిక రూపాలుగా పరిగణించబడతాయి?\nA. పోటుపాట్లు (Tides)\nB. చల్లని నీటి ఉద్గమనం (Upwelling)\nC. ఉపరితల నీరు కిందకు మునగడం (Sinking)",
+    "en": "Which of the following are considered forms of vertical motion in ocean water?\nA. Tides\nB. Upwelling of cold water\nC. Sinking of surface water"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "A and C only",
+     "B and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పోటుపాట్లు (పెరుగుదల మరియు తగ్గుదల), ఉద్గమనం మరియు మునగడం వంటివి సముద్రాలలో నిలువు కదలిక యొక్క ప్రాథమిక రూపాలని మూలం పేర్కొంది.",
+    "en": "The source identifies tides (rise and fall), upwelling, and sinking as the primary forms of vertical motion in the oceans."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T10-0156",
+   "section": {
+    "te": "Indian Ocean salinity",
+    "en": "Indian Ocean salinity"
+   },
+   "q": {
+    "te": "హిందూ మహాసముద్రం యొక్క సగటు లవణీయత ఎంత?",
+    "en": "What is the average salinity of the Indian Ocean?"
+   },
+   "options": {
+    "te": [
+     "36 o/oo",
+     "33 o/oo",
+     "31 o/oo",
+     "35 o/oo"
+    ],
+    "en": [
+     "36 o/oo",
+     "33 o/oo",
+     "31 o/oo",
+     "35 o/oo"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "హిందూ మహాసముద్రపు సగటు లవణీయత 35 o/oo.",
+    "en": "The average salinity of the Indian Ocean is 35 o/oo."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T10-0109",
+   "section": {
+    "te": "Continental Shelf Gradient",
+    "en": "Continental Shelf Gradient"
+   },
+   "q": {
+    "te": "మహాసముద్రంలో అత్యంత నిస్సారమైన (లోతు తక్కువ) భాగమైన ఖండతీర అంచు (కాంటినెంటల్ షెల్ఫ్) యొక్క సగటు వాలు ఎంత?",
+    "en": "What is the average gradient shown by the continental shelf, which is the shallowest part of the ocean?"
+   },
+   "options": {
+    "te": [
+     "1° లేదా అంతకంటే తక్కువ",
+     "2° నుండి 5°",
+     "5° నుండి 10°",
+     "10° కంటే ఎక్కువ"
+    ],
+    "en": [
+     "1° or even less",
+     "2° to 5°",
+     "5° to 10°",
+     "Above 10°"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఖండతీర అంచు అనేది మహాసముద్రంలో చాలా తక్కువ లోతు గల ప్రాంతం, ఇది సగటున 1° లేదా అంతకంటే తక్కువ వాలును కలిగి ఉంటుంది.",
+    "en": "The continental shelf is the shallowest part of the ocean showing an average gradient of 1° or even less."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T10-0146",
+   "section": {
+    "te": "Polar ocean temperature",
+    "en": "Polar ocean temperature"
+   },
+   "q": {
+    "te": "ఆర్కిటిక్ మరియు అంటార్కిటిక్ వలయాల సమీపంలో సముద్ర ఉష్ణోగ్రత నిర్మాణానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఉపరితల నీటి ఉష్ణోగ్రతలు 0° C కి దగ్గరగా ఉంటాయి.\n2. లోతు పెరిగే కొద్దీ ఉష్ణోగ్రతలో మార్పు చాలా స్వల్పంగా ఉంటుంది.\n3. ఉపరితలం నుండి లోతైన సముద్ర గర్భం వరకు చల్లటి నీటి పొర ఒక్కటే ఉంటుంది.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "With reference to the oceanic temperature structure near the Arctic and Antarctic circles, consider the following statements:\n1. Surface water temperatures are close to 0° C.\n2. The temperature change with depth is very slight.\n3. Only one layer of cold water exists from the surface to the deep ocean floor.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ధ్రువ వలయాల వద్ద ఉపరితల ఉష్ణోగ్రతలు 0° C కి దగ్గరగా ఉంటాయి, లోతుతో పాటు ఉష్ణోగ్రత మార్పు స్వల్పంగా ఉంటుంది మరియు ఉపరితలం నుండి సముద్ర గర్భం వరకు ఒకే శీతల నీటి పొర ఉంటుంది.",
+    "en": "Near the polar circles, surface temperatures are close to 0° C, temperature change with depth is very slight, and only one cold water layer extends from surface to deep ocean floor."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T10-0118",
+   "section": {
+    "te": "Deep Sea Plain Sediments",
+    "en": "Deep Sea Plain Sediments"
+   },
+   "q": {
+    "te": "3,000 నుండి 6,000 మీటర్ల లోతులో ఉండే అగాధ సముద్ర మైదానాలు ప్రధానంగా ఏ విధమైన అవక్షేపాలతో కప్పబడి ఉంటాయి?",
+    "en": "Deep sea plains, lying at depths between 3,000 and 6,000 meters, are primarily covered with which type of sediments?"
+   },
+   "options": {
+    "te": [
+     "పగడపు శకలాలు మరియు ముతక ఇసుక",
+     "ముతక గులకరాళ్ళు మరియు కంకర",
+     "పెద్ద రాతి బండలు",
+     "బంకమట్టి మరియు ఒండ్రు వంటి సూక్ష్మ కణాల అవక్షేపాలు"
+    ],
+    "en": [
+     "Coral rubble and coarse sand",
+     "Coarse pebbles and gravel",
+     "Boulders and cobbles",
+     "Fine-grained sediments like clay and silt"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అగాధ సముద్ర మైదానాలు బంకమట్టి (క్లే) మరియు ఒండ్రు (సిల్ట్) వంటి సూక్ష్మ కణాలతో కూడిన అవక్షేపాలతో కప్పబడి ఉంటాయి.",
+    "en": "Deep sea plains are covered with fine-grained sediments like clay and silt."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T10-0145",
+   "section": {
+    "te": "Ocean temperature decrease rate",
+    "en": "Ocean temperature decrease rate"
+   },
+   "q": {
+    "te": "భూమధ్యరేఖ నుండి ధ్రువాల వైపు అక్షాంశం పెరిగే కొద్దీ సముద్ర ఉపరితల నీటి ఉష్ణోగ్రత తగ్గే సాధారణ రేటు ఎంత?",
+    "en": "What is the general rate of decrease of ocean surface water temperature with increasing latitude?"
+   },
+   "options": {
+    "te": [
+     "ప్రతి అక్షాంశానికి 0.2° C",
+     "ప్రతి అక్షాంశానికి 1.5° C",
+     "ప్రతి అక్షాంశానికి 1.0° C",
+     "ప్రతి అక్షాంశానికి 0.5° C"
+    ],
+    "en": [
+     "0.2° C per latitude",
+     "1.5° C per latitude",
+     "1.0° C per latitude",
+     "0.5° C per latitude"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అక్షాంశం పెరిగే కొద్దీ సముద్ర ఉపరితల ఉష్ణోగ్రత తగ్గే రేటు సాధారణంగా ప్రతి అక్షాంశానికి 0.5° C గా ఉంటుంది.",
+    "en": "The rate of decrease of ocean surface temperature with increasing latitude is generally 0.5° C per latitude."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T10-0077",
+   "section": {
+    "te": "High Seas Coverage",
+    "en": "High Seas Coverage"
+   },
+   "q": {
+    "te": "ప్రపంచ మహాసముద్రాలలో బహిరంగ సముద్రాలు (high seas/అంతర్జాతీయ జలాలు) ఎంత శాతం విస్తరించి ఉన్నాయి?",
+    "en": "What percentage of the world's oceans is covered by the high seas (international waters)?"
+   },
+   "options": {
+    "te": [
+     "50 శాతం",
+     "75 శాతం",
+     "64 శాతం",
+     "40 శాతం"
+    ],
+    "en": [
+     "50 per cent",
+     "75 per cent",
+     "64 per cent",
+     "40 per cent"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "బహిరంగ సముద్రాలు ప్రపంచ మహాసముద్రాలలో సుమారు 64 శాతాన్ని ఆక్రమిస్తాయి మరియు వీటిని గ్లోబల్ కామన్స్ (global commons) లో భాగంగా పరిగణిస్తారు.",
+    "en": "The high seas cover approximately 64 per cent of the world's oceans and are considered part of the global commons."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T10-0008",
+   "section": {
+    "te": "Hemispheric Distribution",
+    "en": "Hemispheric Distribution"
+   },
+   "q": {
+    "te": "భూమిపై సముద్రాలు మరియు ఖండాల విస్తరణకు సంబంధించి కింది వాటిలో ఏది నిజం?",
+    "en": "Which of the following is true regarding the distribution of oceans and continents on Earth?"
+   },
+   "options": {
+    "te": [
+     "అవి ఉత్తర మరియు దక్షిణ గోళార్ధాల మధ్య సమానంగా పంపిణీ చేయబడ్డాయి",
+     "అవి ఉత్తర మరియు దక్షిణ గోళార్ధాల మధ్య సమానంగా పంపిణీ చేయబడలేదు",
+     "సముద్రాలు దక్షిణ గోళార్ధంలో మాత్రమే కనిపిస్తాయి",
+     "ఖండాలు ఉత్తర గోళార్ధంలో మాత్రమే కనిపిస్తాయి"
+    ],
+    "en": [
+     "They are distributed equally between the Northern and Southern Hemispheres",
+     "They are not distributed equally between the Northern and Southern Hemispheres",
+     "Oceans are only found in the Southern Hemisphere",
+     "Continents are only found in the Northern Hemisphere"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సముద్రాలు మరియు ఖండాలు ఉత్తర మరియు దక్షిణ గోళార్ధాల మధ్య సమానంగా పంపిణీ చేయబడలేదని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Oceans and continents are not distributed equally between the Northern and Southern Hemispheres."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T10-0149",
+   "section": {
+    "te": "Water bodies salinity match",
+    "en": "Water bodies salinity match"
+   },
+   "q": {
+    "te": "జాబితా I లోని జలాశయాలను జాబితా II లోని వాటి లవణీయత స్థాయులతో జతపరచండి:\nజాబితా I (జలాశయం)\nA. వాన్ సరస్సు (Lake Van)\nB. మృత సముద్రం (Dead Sea)\nC. గ్రేట్ సాల్ట్ లేక్ (Great Salt Lake)\n\nజాబితా II (లవణీయత)\n1. 220 o/oo\n2. 330 o/oo\n3. 238 o/oo\n\nసరైన కోడ్‌ను ఎంచుకోండి:",
+    "en": "Match the water bodies in List I with their respective salinity levels in List II:\nList I (Water Body)\nA. Lake Van\nB. Dead Sea\nC. Great Salt Lake\n\nList II (Salinity)\n1. 220 o/oo\n2. 330 o/oo\n3. 238 o/oo\n\nChoose the correct code:"
+   },
+   "options": {
+    "te": [
+     "A-2, B-3, C-1",
+     "A-3, B-2, C-1",
+     "A-1, B-3, C-2",
+     "A-2, B-1, C-3"
+    ],
+    "en": [
+     "A-2, B-3, C-1",
+     "A-3, B-2, C-1",
+     "A-1, B-3, C-2",
+     "A-2, B-1, C-3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వాన్ సరస్సు లవణీయత 330 o/oo, మృత సముద్రం లవణీయత 238 o/oo, మరియు గ్రేట్ సాల్ట్ లేక్ లవణీయత 220 o/oo.",
+    "en": "Lake Van has a salinity of 330 o/oo, Dead Sea has 238 o/oo, and Great Salt Lake has 220 o/oo."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T10-0160",
+   "section": {
+    "te": "Salinity and water stratification",
+    "en": "Salinity and water stratification"
+   },
+   "q": {
+    "te": "లవణీయత మరియు సముద్రపు నీటి సాంద్రత మధ్య సంబంధానికి సంబంధించి క్రింది ప్రకటనలలో ఏది/ఏవి సరైనది/సరైనవి?\nA. లవణీయత పెరిగే కొద్దీ సముద్రపు నీటి సాంద్రత పెరుగుతుంది.\nB. అధిక లవణీయత కలిగిన సముద్రపు నీరు సాధారణంగా తక్కువ లవణీయత కలిగిన నీటి క్రిందికి చేరుతుంది.",
+    "en": "Which of the following statements is/are correct regarding the relationship between salinity and seawater density?\nA. Increasing salinity causes the density of seawater to increase.\nB. High salinity seawater generally sinks below lower salinity water."
+   },
+   "options": {
+    "te": [
+     "A మాత్రమే",
+     "B మాత్రమే",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "A only",
+     "B only",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "లవణీయత పెరిగితే నీటి సాంద్రత పెరుగుతుంది, దీనివల్ల అధిక లవణీయత గల నీరు తక్కువ లవణీయత గల నీటి కిందకు మునిగి పొరలుగా ఏర్పడుతుంది. కాబట్టి A మరియు B రెండూ సరైనవే.",
+    "en": "Increasing salinity increases the density of seawater, and denser high-salinity water generally sinks below lower-salinity water."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T10-0192",
+   "section": {
+    "te": "Neap Tide Forces",
+    "en": "Neap Tide Forces"
+   },
+   "q": {
+    "te": "కింద రెండు ప్రకటనలు ఇవ్వబడ్డాయి, ఒకటి ప్రతిపాదన (A) మరియు మరొకటి కారణం (R):\nప్రతిపాదన (A): నీప్ పోటుపాట్ల సమయంలో, చంద్రుని గురుత్వాకర్షణ శక్తి తగ్గుతుంది.\nకారణం (R): సూర్యుడు మరియు చంద్రుడు లంబ కోణంలో ఉంటారు మరియు సూర్యుని గురుత్వాకర్షణ శక్తి వ్యతిరేక శక్తిగా పనిచేస్తుంది.\nపై ప్రకటనల సందర్భంలో, కింది వాటిలో ఏది సరైనది?",
+    "en": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R):\nAssertion (A): During neap tides, the Moon's gravitational attraction is diminished.\nReason (R): The sun and moon are at right angles, and the sun's gravitational pull acts as a counteracting force.\nIn the context of the above statements, which of the following is correct?"
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నీప్ పోటుపాట్లలో, సూర్యుడు మరియు చంద్రుడు లంబ కోణంలో ఉండటం వల్ల, సూర్యుని గురుత్వాకర్షణ చంద్రుని గురుత్వాకర్షణకు వ్యతిరేకంగా పనిచేస్తుంది, దీనివల్ల మొత్తం టైడల్ ప్రభావం తగ్గుతుంది.",
+    "en": "In neap tides, because the sun and moon are at right angles, the sun's gravity works against the moon's gravity, reducing the overall tidal effect."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T10-0108",
+   "section": {
+    "te": "Divisions of Ocean Floors",
+    "en": "Divisions of Ocean Floors"
+   },
+   "q": {
+    "te": "సముద్ర ఉపరితల నైసర్గిక స్వరూపాల వర్గీకరణ ప్రకారం మహాసముద్రాల భూతలాన్ని ఎన్ని ప్రధాన విభాగాలుగా విభజించవచ్చు?",
+    "en": "Into how many major divisions can the ocean floor be divided according to the relief classification?"
+   },
+   "options": {
+    "te": [
+     "మూడు",
+     "నాలుగు",
+     "ఆరు",
+     "ఐదు"
+    ],
+    "en": [
+     "Three",
+     "Four",
+     "Six",
+     "Five"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మహాసముద్ర భూతలాన్ని ఖండతీర అంచు, ఖండతీర వాలు, అగాధ సముద్ర మైదానం మరియు సముద్రపు అగాధాలు అనే నాలుగు ప్రధాన విభాగాలుగా విభజించవచ్చు.",
+    "en": "The ocean floors can be divided into four major divisions: Continental Shelf, Continental Slope, Deep Sea Plain, and Oceanic Deeps."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T10-0078",
+   "section": {
+    "te": "High Seas Rights",
+    "en": "High Seas Rights"
+   },
+   "q": {
+    "te": "బహిరంగ సముద్రాలలో (high seas) అన్ని దేశాలు ఈ క్రింది ఏ హక్కులను కలిగి ఉంటాయి?",
+    "en": "Which of the following rights are enjoyed by all countries on the high seas?"
+   },
+   "options": {
+    "te": [
+     "నౌకాయానం మరియు చేపల వేట",
+     "సముద్రగర్భ కేబుల్స్ వేయడం",
+     "ఖనిజాల కోసం అన్వేషణ",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Navigation and Fishing",
+     "Laying undersea cables",
+     "Exploring for minerals",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అంతర్జాతీయ చట్టం ప్రకారం, బహిరంగ సముద్రాలలో నౌకాయానం, చేపల వేట, కేబుల్స్ వేయడం మరియు ఖనిజ అన్వేషణ కోసం అన్ని దేశాలకు సమాన హక్కులు ఉన్నాయి.",
+    "en": "According to international law, all countries have equal rights on the high seas for navigation, fishing, laying cables, and mineral exploration."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T10-0034",
+   "section": {
+    "te": "Pacific Ocean Features",
+    "en": "Pacific Ocean Features"
+   },
+   "q": {
+    "te": "ఏ మహాసముద్రం అతిపెద్దది మరియు లోతైనదిగా గుర్తించబడింది మరియు తిమింగలాలు, ట్యూనా చేపలకు ప్రసిద్ధి చెందింది?",
+    "en": "Which ocean is identified as the largest and deepest, and is known for whales and tuna?"
+   },
+   "options": {
+    "te": [
+     "అట్లాంటిక్ మహాసముద్రం",
+     "హిందూ మహాసముద్రం",
+     "ఆర్కిటిక్ మహాసముద్రం",
+     "పసిఫిక్ మహాసముద్రం"
+    ],
+    "en": [
+     "Atlantic Ocean",
+     "Indian Ocean",
+     "Arctic Ocean",
+     "Pacific Ocean"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పసిఫిక్ మహాసముద్రం అన్ని మహాసముద్రాలలో అతిపెద్దది మరియు లోతైనది మరియు తిమింగలాలు వంటి పెద్ద సముద్ర జీవులకు మద్దతు ఇస్తుంది.",
+    "en": "The Pacific Ocean is the largest and deepest of all oceans and supports large marine life like whales."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T10-0154",
+   "section": {
+    "te": "North Sea salinity cause",
+    "en": "North Sea salinity cause"
+   },
+   "q": {
+    "te": "ఉత్తర సముద్రం (North Sea) అధిక అక్షాంశాలలో ఉన్నప్పటికీ ఎక్కువ లవణీయతను నమోదు చేయడానికి కారణం ఏమిటి?",
+    "en": "Why does the North Sea record higher salinity despite being located in higher latitudes?"
+   },
+   "options": {
+    "te": [
+     "ఆర్కిటిక్ ప్రాంతంలో మంచు కరగడం",
+     "వేసవిలో అధిక భాష్పీభవనం",
+     "మంచినీటి నదుల ప్రవాహం లేకపోవడం",
+     "ఉత్తర అట్లాంటిక్ డ్రిఫ్ట్ ద్వారా ఎక్కువ లవణీయత కలిగిన నీరు చేరడం"
+    ],
+    "en": [
+     "Melting of ice in the Arctic region",
+     "High rate of evaporation in summer",
+     "Absence of fresh water river discharge",
+     "More saline water brought by the North Atlantic Drift"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఉత్తర అట్లాంటిక్ డ్రిఫ్ట్ ద్వారా ఎక్కువ లవణీయత కలిగిన నీరు చేరడం వల్ల ఉత్తర సముద్రంలో అధిక లవణీయత నమోదవుతుంది.",
+    "en": "The North Sea records higher salinity due to more saline water brought by the North Atlantic Drift."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T10-0121",
+   "section": {
+    "te": "Hydrological Cycle Phases",
+    "en": "Hydrological Cycle Phases"
+   },
+   "q": {
+    "te": "భూమి యొక్క జలావరణంలో (హైడ్రోస్పియర్) జలచక్రం అనేది నీటిని క్రింది ఏ రూపాలలో ప్రసరణ చేస్తుంది?",
+    "en": "Within the Earth's hydrosphere, the hydrological cycle involves the circulation of water in which of the following phases?"
+   },
+   "options": {
+    "te": [
+     "ద్రవ రూపంలో మాత్రమే",
+     "ద్రవ మరియు వాయు రూపాలలో మాత్రమే",
+     "ఘన మరియు ద్రవ రూపాలలో మాత్రమే",
+     "ద్రవ, ఘన మరియు వాయు రూపాలలో"
+    ],
+    "en": [
+     "Liquid phase only",
+     "Liquid and gaseous phases only",
+     "Solid and liquid phases only",
+     "Liquid, solid and gaseous phases"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జలచక్రం అనేది భూమి జలావరణంలో నీరు ఘన, ద్రవ మరియు వాయు రూపాలలో నిరంతరం ప్రసరణ చెందడాన్ని సూచిస్తుంది.",
+    "en": "The hydrological cycle is the circulation of water within the hydrosphere in liquid, solid, and gaseous phases."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T10-0106",
+   "section": {
+    "te": "Coastal Features Match",
+    "en": "Coastal Features Match"
+   },
+   "q": {
+    "te": "క్రింది తీరప్రాంత లక్షణాలను వాటి వివరణలతో జతపరచండి:\nI. బార్‌లు - a. తీరానికి సమాంతరంగా ఉండే పొడవైన ఇసుక తిన్నెలు\nII. స్పిట్ - b. అఖాతం యొక్క అగ్రభాగానికి అనుసంధానించబడిన బారియర్ బార్\nIII. లాగూన్ - c. బారియర్ బార్‌లు మరియు స్పిట్‌లు అఖాతాన్ని అడ్డుకున్నప్పుడు ఏర్పడేది",
+    "en": "Match the following coastal features with their descriptions:\nI. Bars - a. Long ridges of sand parallel to the coast\nII. Spit - b. Barrier bar keyed up to the headland of a bay\nIII. Lagoon - c. Formed when barrier bars and spits block a bay"
+   },
+   "options": {
+    "te": [
+     "I-a, II-b, III-c",
+     "I-b, II-a, III-c",
+     "I-c, II-b, III-a",
+     "I-a, II-c, III-b"
+    ],
+    "en": [
+     "I-a, II-b, III-c",
+     "I-b, II-a, III-c",
+     "I-c, II-b, III-a",
+     "I-a, II-c, III-b"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "బార్‌లు తీరానికి సమాంతరంగా ఉండే ఇసుక తిన్నెలు. స్పిట్ అనేది అగ్రభాగానికి అతుక్కొని ఉండే బార్. ఇవి అఖాతాన్ని అడ్డుకున్నప్పుడు లాగూన్ ఏర్పడుతుంది.",
+    "en": "Bars are sand ridges parallel to the coast. A spit is a bar attached to a headland. A lagoon is formed when these block a bay."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T10-0165",
+   "section": {
+    "te": "Tides and Surges",
+    "en": "Tides and Surges"
+   },
+   "q": {
+    "te": "గాలులు మరియు వాతావరణ పీడన మార్పుల వంటి వాతావరణ ప్రభావాల వల్ల కలిగే నీటి కదలికను ఏమని పిలుస్తారు?",
+    "en": "What is the movement of water caused specifically by meteorological effects such as winds and atmospheric pressure changes called?"
+   },
+   "options": {
+    "te": [
+     "పోటు ప్రవాహాలు (Tidal currents)",
+     "సర్జెస్ (Surges)",
+     "పోటుపాట్లు (Tides)",
+     "తరంగ శ్రేణులు (Wave trains)"
+    ],
+    "en": [
+     "Tidal currents",
+     "Surges",
+     "Tides",
+     "Wave trains"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సూర్యచంద్రుల ఆకర్షణ వల్ల పోటుపాట్లు ఏర్పడగా, గాలులు మరియు పీడన మార్పుల వల్ల కలిగే నీటి కదలికలను ప్రత్యేకంగా 'సర్జెస్' అని పిలుస్తారు.",
+    "en": "While tides are caused by the attraction of the sun and moon, water movements caused by winds and pressure changes are specifically termed surges."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T10-0026",
+   "section": {
+    "te": "Mariana Trench Depth",
+    "en": "Mariana Trench Depth"
+   },
+   "q": {
+    "te": "మరియానా ట్రెంచ్ లోతు మౌంట్ ఎవరెస్ట్ ఎత్తుతో పోలిస్తే ఎలా ఉంటుంది?",
+    "en": "How does the depth of the Mariana Trench compare to the height of Mount Everest?"
+   },
+   "options": {
+    "te": [
+     "ఇది మౌంట్ ఎవరెస్ట్ ఎత్తుకు రెట్టింపు ఉంటుంది",
+     "ఇది మౌంట్ ఎవరెస్ట్ ఎత్తుతో సమానంగా ఉంటుంది",
+     "ఇది మౌంట్ ఎవరెస్ట్ కంటే 1,000 మీటర్లు తక్కువ లోతులో ఉంటుంది",
+     "ఇది మౌంట్ ఎవరెస్ట్ ఎత్తు కంటే 2,000 మీటర్ల కంటే ఎక్కువ లోతులో ఉంటుంది"
+    ],
+    "en": [
+     "It is twice the height of Mount Everest",
+     "It is exactly the same as the height of Mount Everest",
+     "It is about 1,000 metres shallower than Mount Everest",
+     "It is over 2,000 metres deeper than the height of Mount Everest"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మరియానా ట్రెంచ్ చాలా లోతైనది, ఇది మౌంట్ ఎవరెస్ట్ ఎత్తు కంటే 2,000 మీటర్ల కంటే ఎక్కువ లోతును కలిగి ఉంది.",
+    "en": "The Mariana Trench is significantly deep, exceeding the height of Mount Everest by more than 2,000 metres."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T10-0027",
+   "section": {
+    "te": "Life in Ocean Trenches",
+    "en": "Life in Ocean Trenches"
+   },
+   "q": {
+    "te": "సూర్యరశ్మి లేని లోతైన సముద్రపు ట్రెంచ్‌లలోని జీవులు ఆహారాన్ని ఎలా ఉత్పత్తి చేస్తాయి?",
+    "en": "How do life forms in the complete darkness of deep ocean trenches produce food without sunlight?"
+   },
+   "options": {
+    "te": [
+     "అవి లోతైన నీటిలోకి చొచ్చుకుపోయే వెన్నెలను ఉపయోగిస్తాయి",
+     "అవి నీటిలోని రసాయనాల నుండి శక్తిని ఉపయోగిస్తాయి",
+     "అవి ఉపరితలం నుండి పడిపోయే చనిపోయిన జంతువులను మాత్రమే తింటాయి",
+     "కఠినమైన పరిస్థితుల్లో జీవించడానికి వాటికి ఆహారం అవసరం లేదు"
+    ],
+    "en": [
+     "They use moonlight that penetrates the deep water",
+     "They use energy from chemicals in the water",
+     "They only feed on dead animals falling from the surface",
+     "They do not need food to survive in harsh conditions"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కిరణజన్య సంయోగక్రియకు సూర్యరశ్మి లేనప్పుడు, లోతైన ట్రెంచ్‌లలోని జీవులు ఆహారాన్ని ఉత్పత్తి చేయడానికి రసాయన శక్తిని (chemosynthesis) ఉపయోగిస్తాయి.",
+    "en": "In the absence of sunlight for photosynthesis, organisms in deep trenches use chemical energy (chemosynthesis) to produce food."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T10-0001",
+   "section": {
+    "te": "Earth's Water Coverage",
+    "en": "Earth's Water Coverage"
+   },
+   "q": {
+    "te": "భూమి ఉపరితలంలో సుమారు ఎంత భాగం నీటితో కప్పబడి ఉంది?",
+    "en": "Approximately what proportion of the Earth's surface is covered with water?"
+   },
+   "options": {
+    "te": [
+     "నాల్గవ వంతు",
+     "సగం",
+     "ముప్పావు వంతు",
+     "మూడింట రెండు వంతులు"
+    ],
+    "en": [
+     "One-fourth",
+     "One-half",
+     "Three-fourths",
+     "Two-thirds"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, భూమి ఉపరితలంలో దాదాపు ముప్పావు వంతు నీరు ఆక్రమించి ఉంది.",
+    "en": "Water covers almost three-fourths of the Earth's surface."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T10-0043",
+   "section": {
+    "te": "Tide Types",
+    "en": "Tide Types"
+   },
+   "q": {
+    "te": "స్ప్రింగ్ పోటులు (Spring tides) ఏ నిర్దిష్ట రోజులలో సంభవిస్తాయి?",
+    "en": "On which specific days do spring tides occur?"
+   },
+   "options": {
+    "te": [
+     "మొదటి త్రైమాసిక చంద్రుని రోజులలో మాత్రమే",
+     "మూడవ త్రైమాసిక చంద్రుని రోజులలో మాత్రమే",
+     "పౌర్ణమి మరియు అమావాస్య రోజులలో",
+     "ప్రతిరోజూ మధ్యాహ్నం"
+    ],
+    "en": [
+     "First-quarter moon days only",
+     "Third-quarter moon days only",
+     "Full moon and new moon days",
+     "Every day at noon"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సూర్యుడు, భూమి మరియు చంద్రుడు ఒకే సరళరేఖలో ఉన్నప్పుడు స్ప్రింగ్ పోటులు సంభవిస్తాయి, ఇది పౌర్ణమి మరియు అమావాస్య రోజులలో జరుగుతుంది.",
+    "en": "Spring tides occur when the Sun, Earth, and Moon are aligned, which happens on full moon and new moon days."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T10-0186",
+   "section": {
+    "te": "Mixed Tides",
+    "en": "Mixed Tides"
+   },
+   "q": {
+    "te": "మిశ్రమ పోటుపాట్ల (Mixed tides)కు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి వరుసగా వచ్చే పోటుపాట్ల ఎత్తులో గణనీయమైన వైవిధ్యాలను కలిగి ఉంటాయి.\n2. ఇవి సాధారణంగా ఉత్తర అమెరికా పశ్చిమ తీరంలో కనిపిస్తాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding mixed tides:\n1. They are characterized by significant variations in the height of successive tides.\n2. They are commonly observed along the west coast of North America.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మిశ్రమ పోటుపాట్లు ఎత్తులో వైవిధ్యాలను చూపుతాయి మరియు ఇవి సాధారణంగా ఉత్తర అమెరికా పశ్చిమ తీరం మరియు వివిధ పసిఫిక్ ద్వీపాలలో కనిపిస్తాయి.",
+    "en": "Mixed tides show variations in height and are typically found on the west coast of North America and various Pacific islands."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T10-0067",
+   "section": {
+    "te": "Blue Economy",
+    "en": "Blue Economy"
+   },
+   "q": {
+    "te": "ఏ ఐక్యరాజ్యసమితి సుస్థిర అభివృద్ధి లక్ష్యం (SDG) ప్రత్యేకంగా 'నీటి క్రింద జీవం' (Life Below Water) కోసం కేటాయించబడింది?",
+    "en": "Which United Nations Sustainable Development Goal (SDG) is specifically dedicated to 'Life Below Water'?"
+   },
+   "options": {
+    "te": [
+     "SDG 14",
+     "SDG 15",
+     "SDG 17",
+     "SDG 12"
+    ],
+    "en": [
+     "SDG 14",
+     "SDG 15",
+     "SDG 17",
+     "SDG 12"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "SDG 14 అనేది 'నీటి క్రింద జీవం' మరియు సముద్ర వనరుల సుస్థిర వినియోగంపై దృష్టి సారించే UN లక్ష్యం.",
+    "en": "SDG 14 is the UN goal that focuses on 'Life Below Water' and the sustainable use of ocean resources."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T10-0150",
+   "section": {
+    "te": "Factors affecting salinity",
+    "en": "Factors affecting salinity"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో సముద్ర జలాల ఉపరితల లవణీయతను ప్రభావితం చేసే అంశాలు ఏవి?",
+    "en": "Which of the following factors influence the surface salinity of ocean waters?"
+   },
+   "options": {
+    "te": [
+     "భాష్పీభవనం మరియు అవపాతం",
+     "నదుల నుండి మంచినీటి ప్రవాహం",
+     "ధ్రువ ప్రాంతాలలో మంచు గడ్డకట్టడం మరియు కరగడం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Evaporation and precipitation",
+     "Influx of fresh water from rivers",
+     "Freezing and thawing of ice in polar regions",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భాష్పీభవనం, అవపాతం, నదుల మంచినీటి ప్రవాహం, మంచు గడ్డకట్టడం మరియు కరగడం అన్నీ సముద్ర లవణీయతను ప్రభావితం చేస్తాయి.",
+    "en": "Ocean surface salinity depends on evaporation, precipitation, fresh water inflow from rivers, and freezing and thawing of ice."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T10-0054",
+   "section": {
+    "te": "Coastal Landforms",
+    "en": "Coastal Landforms"
+   },
+   "q": {
+    "te": "కింది తరంగ సంబంధిత అంశాలను జతపరచండి:\nI. శృంగం (Crest) - a. తరంగం యొక్క దిగువ లోయ\nII. ద్రోణి (Trough) - b. తరంగం యొక్క ఎగువ శిఖరం\nIII. బీచ్ (Beach) - c. నిక్షేపణ రూపం\nIV. సముద్ర గుహ (Sea Cave) - d. క్రమక్షయ రూపం",
+    "en": "Match the following wave-related features:\nI. Crest - a. Lower valley of a wave\nII. Trough - b. High peak of a wave\nIII. Beach - c. Depositional feature\nIV. Sea Cave - d. Erosional feature"
+   },
+   "options": {
+    "te": [
+     "I-b, II-a, III-c, IV-d",
+     "I-a, II-b, III-d, IV-c",
+     "I-b, II-a, III-d, IV-c",
+     "I-a, II-b, III-c, IV-d"
+    ],
+    "en": [
+     "I-b, II-a, III-c, IV-d",
+     "I-a, II-b, III-d, IV-c",
+     "I-b, II-a, III-d, IV-c",
+     "I-a, II-b, III-c, IV-d"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "శృంగాలు శిఖరాలు, ద్రోణులు లోయలు, బీచ్‌లు నిక్షేపణ రూపాలు మరియు సముద్ర గుహలు క్రమక్షయ రూపాలు.",
+    "en": "Crests are peaks, troughs are valleys, beaches are depositional, and sea caves are erosional features."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T10-0188",
+   "section": {
+    "te": "Ocean Current Movement",
+    "en": "Ocean Current Movement"
+   },
+   "q": {
+    "te": "సముద్ర ప్రవాహాల కదలికకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. శీతల నీటి ప్రవాహాలు ధృవాల వద్ద పుట్టి, లోతులో భూమధ్యరేఖ వైపు కదులుతాయి.\n2. ఉష్ణ నీటి ప్రవాహాలు ఉపరితలం వెంట భూమధ్యరేఖ నుండి ధృవాల వైపు ప్రవహిస్తాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about the movement of ocean currents:\n1. Cold-water currents originate at the poles and move towards the equator at depth.\n2. Warm-water currents flow along the surface from the equator towards the poles.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "చల్లని నీరు సాంద్రత ఎక్కువగా ఉండటం వల్ల ధృవాల వద్ద మునిగి భూమధ్యరేఖ వైపు కదులుతుంది, అయితే వెచ్చని, తేలికపాటి నీరు ఉపరితలంపై భూమధ్యరేఖ నుండి ధృవాల వైపు కదులుతుంది.",
+    "en": "Cold water is denser and sinks at the poles, moving toward the equator, while warmer, lighter water moves from the equator toward the poles along the surface."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T10-0075",
+   "section": {
+    "te": "Contiguous Zone Extent",
+    "en": "Contiguous Zone Extent"
+   },
+   "q": {
+    "te": "సముద్ర మండలాల వర్గీకరణ ప్రకారం, బేస్‌లైన్ (baseline) నుండి ఆనుకొని ఉన్న మండలం (contiguous zone) గరిష్ట పరిధి ఎంత?",
+    "en": "According to the maritime zones classification, what is the maximum extent of the contiguous zone from the baseline?"
+   },
+   "options": {
+    "te": [
+     "24 నాటికల్ మైళ్లు",
+     "200 నాటికల్ మైళ్లు",
+     "12 నాటికల్ మైళ్లు",
+     "100 నాటికల్ మైళ్లు"
+    ],
+    "en": [
+     "24 nautical miles",
+     "200 nautical miles",
+     "12 nautical miles",
+     "100 nautical miles"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఆనుకొని ఉన్న మండలం (contiguous zone) బేస్‌లైన్ నుండి 24 నాటికల్ మైళ్ల దూరం వరకు విస్తరించి ఉంటుంది.",
+    "en": "The contiguous zone extends from the baseline up to a distance of 24 nautical miles."
+   }
+  }
+ ]
+}

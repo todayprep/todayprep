@@ -1,0 +1,942 @@
+{
+ "id": "geo-25-c-5",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Agriculture – క్విజ్ 5",
+  "en": "Agriculture – Quiz 5"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T25-0164",
+   "section": {
+    "te": "Horticulture regions",
+    "en": "Horticulture regions"
+   },
+   "q": {
+    "te": "ఈ క్రింది పండ్లను వాటి ప్రసిద్ధ ఉత్పత్తి ప్రాంతాలు/రాష్ట్రాలతో జతపరచండి:\nజాబితా I: A. నారింజ, B. అరటి, C. అనాస (Pineapple), D. జామ\nజాబితా II: I. నాగ్‌పూర్, II. మిజోరం, III. మేఘాలయ, IV. బీహార్",
+    "en": "Match the following fruits with their famous producing regions/states:\nList I: A. Orange, B. Banana, C. Pineapple, D. Guava\nList II: I. Nagpur, II. Mizoram, III. Meghalaya, IV. Bihar"
+   },
+   "options": {
+    "te": [
+     "A-I, B-II, C-III, D-IV",
+     "A-III, B-I, C-IV, D-II",
+     "A-II, B-IV, C-I, D-III",
+     "A-IV, B-III, C-II, D-I"
+    ],
+    "en": [
+     "A-I, B-II, C-III, D-IV",
+     "A-III, B-I, C-IV, D-II",
+     "A-II, B-IV, C-I, D-III",
+     "A-IV, B-III, C-II, D-I"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, నారింజకు నాగ్‌పూర్, అరటికి మిజోరం, అనాసకు మేఘాలయ మరియు జామకు బీహార్ ప్రసిద్ధి.",
+    "en": "Nagpur is famous for oranges, Mizoram for bananas, Meghalaya for pineapples, and Bihar for guava."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T25-0364",
+   "section": {
+    "te": "Monsoon Breaks Impact",
+    "en": "Monsoon Breaks Impact"
+   },
+   "q": {
+    "te": "పశ్చిమ బెంగాల్ మరియు బీహార్ వంటి సమృద్ధిగా వర్షపాతం నమోదయ్యే ప్రాంతాలలో కూడా వ్యవసాయానికి నీటిపారుదల అవసరం కావడానికి ప్రధాన కారణం ఏమిటి?",
+    "en": "Even in areas of ample rainfall like West Bengal and Bihar, irrigation is often required for agriculture primarily due to:"
+   },
+   "options": {
+    "te": [
+     "పారిశ్రామిక వినియోగం వల్ల నీరు వేగంగా ఖర్చవడం",
+     "రుతుపవనాల విరామాలు లేదా వైఫల్యం వల్ల బెట్ట పరిస్థితులు (డ్రై స్పెల్స్) ఏర్పడటం",
+     "భూభాగం యొక్క అధిక ఎత్తు",
+     "భూగర్భ జలాలు లవణీయంగా మారడం"
+    ],
+    "en": [
+     "Rapid industrial water absorption",
+     "Breaks in monsoon or its failure creating dry spells",
+     "Excessive elevation of the terrain",
+     "Salinisation of groundwater"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఎక్కువ వర్షపాతం ఉన్న ప్రాంతాల్లో కూడా రుతుపవనాలు విరామం ఇవ్వడం వల్ల లేదా విఫలం కావడం వల్ల పంటలకు హానికరమైన బెట్ట పరిస్థితులు ఏర్పడతాయి.",
+    "en": "Even in areas of ample rainfall like West Bengal and Bihar, breaks in monsoon or its failure creates dry spells detrimental to agriculture, making irrigation necessary."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T25-0147",
+   "section": {
+    "te": "Pulses nitrogen fixation",
+    "en": "Pulses nitrogen fixation"
+   },
+   "q": {
+    "te": "ఈ క్రింది లెగ్యుమినస్ పంటలలో ఏది గాలి నుండి నత్రజనిని గ్రహించి నేల సారవంతాన్ని పునరుద్ధరించడానికి సహాయపడదు?",
+    "en": "Which of the following leguminous crops does NOT help in restoring soil fertility by fixing nitrogen from the air?"
+   },
+   "options": {
+    "te": [
+     "మినుములు (Urad)",
+     "మసూర్ (Masur)",
+     "పెసలు (Moong)",
+     "కందులు (Arhar)"
+    ],
+    "en": [
+     "Urad",
+     "Masur",
+     "Moong",
+     "Arhar"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "చాలా పప్పుధాన్యాలు లెగ్యుమినస్ జాతికి చెందినవి మరియు నేల సారాన్ని పెంచడానికి నత్రజనిని స్థాపిస్తాయి, అయితే కందులు (అర్హర్) దీనికి మినహాయింపు అని పాఠ్యభాగంలో పేర్కొనబడింది.",
+    "en": "While most pulses are leguminous and fix nitrogen to restore soil fertility, arhar (tur) is the exception mentioned in the text."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T25-0307",
+   "section": {
+    "te": "Soyabean Leading Producers",
+    "en": "Soyabean Leading Producers"
+   },
+   "q": {
+    "te": "భారతదేశంలో సోయాబీన్ మొత్తం ఉత్పత్తిలో దాదాపు 90 శాతాన్ని ఏ రెండు రాష్ట్రాలు కలిసి ఉత్పత్తి చేస్తున్నాయి?",
+    "en": "Which two states together produce about 90 per cent of the total output of soyabean in India?"
+   },
+   "options": {
+    "te": [
+     "గుజరాత్ మరియు రాజస్థాన్",
+     "మధ్యప్రదేశ్ మరియు మహారాష్ట్ర",
+     "ఆంధ్రప్రదేశ్ మరియు మహారాష్ట్ర",
+     "కర్ణాటక మరియు తెలంగాణ"
+    ],
+    "en": [
+     "Gujarat and Rajasthan",
+     "Madhya Pradesh and Maharashtra",
+     "Andhra Pradesh and Maharashtra",
+     "Karnataka and Telangana"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సోయాబీన్ ప్రధానంగా మధ్యప్రదేశ్ మరియు మహారాష్ట్రలలో పండుతుంది, ఈ రెండు రాష్ట్రాలు కలిసి దేశంలోని మొత్తం ఉత్పత్తిలో దాదాపు 90 శాతాన్ని ఉత్పత్తి చేస్తాయి.",
+    "en": "Soyabean is mostly grown in Madhya Pradesh and Maharashtra, and together these two states produce about 90 per cent of the country's total output."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T25-0233",
+   "section": {
+    "te": "Geographical Area Measurement",
+    "en": "Geographical Area Measurement"
+   },
+   "q": {
+    "te": "భారతదేశంలోని పరిపాలనా విభాగాల భౌగోళిక విస్తీర్ణాన్ని కొలవడానికి క్రింది ఏ సంస్థ బాధ్యత వహిస్తుంది?",
+    "en": "Which of the following organisations is responsible for measuring the geographical area of administrative units in India?"
+   },
+   "options": {
+    "te": [
+     "భూ రెవెన్యూ శాఖ",
+     "సర్వే ఆఫ్ ఇండియా",
+     "సెంట్రల్ స్టాటిస్టికల్ ఆఫీస్",
+     "నేషనల్ రిమోట్ సెన్సింగ్ సెంటర్"
+    ],
+    "en": [
+     "Land Revenue Department",
+     "Survey of India",
+     "Central Statistical Office",
+     "National Remote Sensing Centre"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, భారతదేశంలోని పరిపాలనా విభాగాల భౌగోళిక వైశాల్యాన్ని కొలిచే బాధ్యత సర్వే ఆఫ్ ఇండియాకు ఉంది.",
+    "en": "The Survey of India is responsible for measuring the geographical area of administrative units in India."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T25-0190",
+   "section": {
+    "te": "Agricultural Development",
+    "en": "Agricultural Development"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): భారతదేశంలో వ్యవసాయ అభివృద్ధి వేగం కుంటుపడింది.\nకారణం (R): తగిన సాంకేతిక-సంస్థాగత మార్పులు లేకుండా భూమిని నిరంతరం ఉపయోగించడం జరిగింది.",
+    "en": "Assertion (A): The pace of agricultural development in India has been hindered.\nReason (R): Sustained use of land has occurred without compatible techno-institutional changes."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అవసరమైన సాంకేతిక మరియు సంస్థాగత సంస్కరణలు లేకుండా వేల సంవత్సరాలుగా భూమిని ఉపయోగించడం వల్ల వ్యవసాయ అభివృద్ధి కుంటుపడిందని పాఠ్యాంశం పేర్కొంది.",
+    "en": "Agricultural development was hindered because land was used for thousands of years without necessary technical and institutional reforms."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T25-0312",
+   "section": {
+    "te": "Cotton Climatic Conditions",
+    "en": "Cotton Climatic Conditions"
+   },
+   "q": {
+    "te": "పత్తి పూత దశలో క్రింది ఏ వాతావరణ పరిస్థితి అవసరం?",
+    "en": "Cotton requires which of the following weather conditions during its flowering stage?"
+   },
+   "options": {
+    "te": [
+     "నిరంతర చినుకులు",
+     "తీవ్రమైన పొగమంచు",
+     "నిర్మలమైన ఆకాశం",
+     "అధిక తేమ"
+    ],
+    "en": [
+     "Continuous drizzle",
+     "Heavy frost",
+     "Clear sky",
+     "High humidity"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పత్తి పూత దశలో నిర్మలమైన ఆకాశం అవసరమని మూలంలో స్పష్టంగా పేర్కొనబడింది.",
+    "en": "Cotton requires a clear sky during its flowering stage."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T25-0021",
+   "section": {
+    "te": "Grafting in Brihatsamhita",
+    "en": "Grafting in Brihatsamhita"
+   },
+   "q": {
+    "te": "నేటికీ వాడుకలో ఉన్న అంటుకట్టే (grafting) పద్ధతిని వివరించిన ప్రాచీన భారతీయ గ్రంథం ఏది?",
+    "en": "Which ancient Indian text describes a method of grafting that is still in use today?"
+   },
+   "options": {
+    "te": [
+     "కృషిపరాశర",
+     "అర్థశాస్త్రం",
+     "అమరకోశం",
+     "బృహత్సంహిత"
+    ],
+    "en": [
+     "Krishiparashara",
+     "Arthashastra",
+     "Amarakosha",
+     "Brihatsamhita"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వరాహమిహిరుని బృహత్సంహిత నేటికీ ఉపయోగంలో ఉన్న అంటుకట్టే పద్ధతిని వివరిస్తుంది.",
+    "en": "Varāhamihira's Bṛihatsamhitā describes a grafting technique that continues to be practiced even today."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T25-0134",
+   "section": {
+    "te": "Plantation Crops",
+    "en": "Plantation Crops"
+   },
+   "q": {
+    "te": "ఈ క్రింది తోట పంటలను (plantation crops) వాటి ప్రాథమిక సాగు ప్రాంతాలతో జతపరచండి:\n1. టీ - i. కర్ణాటక\n2. కాఫీ - ii. అస్సాం మరియు ఉత్తర బెంగాల్",
+    "en": "Match the following plantation crops with their primary growing regions:\n1. Tea - i. Karnataka\n2. Coffee - ii. Assam and North Bengal"
+   },
+   "options": {
+    "te": [
+     "1-i, 2-ii",
+     "1-ii, 2-i",
+     "1-i, 2-i",
+     "1-ii, 2-ii"
+    ],
+    "en": [
+     "1-i, 2-ii",
+     "1-ii, 2-i",
+     "1-i, 2-i",
+     "1-ii, 2-ii"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, అస్సాం మరియు ఉత్తర బెంగాల్‌లో టీ ముఖ్యమైన తోట పంట, కర్ణాటకలో కాఫీ ముఖ్యమైనది.",
+    "en": "Tea is an important plantation crop in Assam and North Bengal, while coffee is important in Karnataka."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T25-0269",
+   "section": {
+    "te": "Cropping Intensity",
+    "en": "Cropping Intensity"
+   },
+   "q": {
+    "te": "భారతదేశం వంటి దేశానికి అధిక పంట తీవ్రత (cropping intensity) ఎందుకు అవసరమని భావిస్తారు?",
+    "en": "Why is high cropping intensity considered desirable for a country like India?"
+   },
+   "options": {
+    "te": [
+     "భూ వనరులను పూర్తిస్థాయిలో వినియోగించుకోవడం కోసం",
+     "గ్రామీణ ఆర్థిక వ్యవస్థలో నిరుద్యోగాన్ని తగ్గించడం కోసం",
+     "A మరియు B రెండూ",
+     "నీటి పారుదల అవసరాన్ని తగ్గించడం కోసం"
+    ],
+    "en": [
+     "Fuller utilisation of land resource",
+     "Reducing unemployment in the rural economy",
+     "Both A and B",
+     "Reducing the need for irrigation"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అధిక పంట తీవ్రత భూమిని మెరుగ్గా వినియోగించుకోవడానికి సహాయపడుతుంది మరియు శ్రమకు డిమాండ్‌ను పెంచుతుంది, తద్వారా గ్రామీణ నిరుద్యోగాన్ని తగ్గిస్తుంది.",
+    "en": "High cropping intensity helps in better land utilization and creates more demand for labour, thereby reducing rural unemployment."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T25-0247",
+   "section": {
+    "te": "Land use change categories",
+    "en": "Land use change categories"
+   },
+   "q": {
+    "te": "1950–51 మరియు 2019–20 మధ్య భారతదేశంలో భూవినియోగ వర్గాలలో వరుసగా ఎన్ని పెరిగాయి మరియు ఎన్ని తగ్గాయి?",
+    "en": "Between 1950–51 and 2019–20, how many land-use categories in India registered an increase and a decline respectively?"
+   },
+   "options": {
+    "te": [
+     "6 పెరిగాయి, 3 తగ్గాయి",
+     "5 పెరిగాయి, 4 తగ్గాయి",
+     "3 పెరిగాయి, 6 తగ్గాయి",
+     "4 పెరిగాయి, 5 తగ్గాయి"
+    ],
+    "en": [
+     "6 increased, 3 declined",
+     "5 increased, 4 declined",
+     "3 increased, 6 declined",
+     "4 increased, 5 declined"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "1950–51 మరియు 2019–20 మధ్య కాలంలో ఐదు భూవినియోగ విభాగాలు పెరుగుదలను నమోదు చేయగా, నాలుగు తగ్గుదలను నమోదు చేశాయి.",
+    "en": "Between 1950–51 and 2019–20, five land-use categories registered increases while four registered declines."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T25-0158",
+   "section": {
+    "te": "Sesamum cropping season",
+    "en": "Sesamum cropping season"
+   },
+   "q": {
+    "te": "భారతదేశంలో నువ్వుల (Sesamum) సాగుకు సంబంధించి, ఈ క్రింది వాటిలో ఏది సరైనది?",
+    "en": "Regarding the cultivation of Sesamum in India, which of the following statements is correct?"
+   },
+   "options": {
+    "te": [
+     "ఇది ఉత్తర భారతదేశంలో రబీ పంట మరియు దక్షిణ భారతదేశంలో ఖరీఫ్ పంట",
+     "ఇది ఉత్తర భారతదేశంలో ఖరీఫ్ పంట మరియు దక్షిణ భారతదేశంలో రబీ పంట",
+     "ఇది భారతదేశం అంతటా ఖరీఫ్ పంటగా మాత్రమే పండుతుంది",
+     "ఇది భారతదేశం అంతటా రబీ పంటగా మాత్రమే పండుతుంది"
+    ],
+    "en": [
+     "It is a rabi crop in North India and kharif in South India",
+     "It is a kharif crop in North India and rabi in South India",
+     "It is grown only as a kharif crop across India",
+     "It is grown only as a rabi crop across India"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, నువ్వులు ఉత్తర భారతదేశంలో ఖరీఫ్ పంటగా మరియు దక్షిణ భారతదేశంలో రబీ పంటగా వర్గీకరించబడ్డాయి.",
+    "en": "Sesamum is classified as a kharif crop in the northern part of India and a rabi crop in the southern part."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T25-0001",
+   "section": {
+    "te": "Etymology of Agriculture",
+    "en": "Etymology of Agriculture"
+   },
+   "q": {
+    "te": "'అగ్రికల్చర్' (Agriculture) అనే పదం ఏ భాష నుండి ఉద్భవించింది?",
+    "en": "The term 'Agriculture' is derived from which language?"
+   },
+   "options": {
+    "te": [
+     "సంస్కృతం",
+     "లాటిన్",
+     "ఫ్రెంచ్",
+     "గ్రీకు"
+    ],
+    "en": [
+     "Sanskrit",
+     "Latin",
+     "French",
+     "Greek"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అగ్రికల్చర్ అనే పదం లాటిన్ పదాలైన 'అగ్రి' (పొలం) మరియు 'కల్చర్' (సాగు చేయడం) నుండి వచ్చింది.",
+    "en": "The word agriculture originates from the Latin words 'Agri' meaning field and 'culture' meaning to cultivate."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T25-0327",
+   "section": {
+    "te": "Partition Agricultural Impact",
+    "en": "Partition Agricultural Impact"
+   },
+   "q": {
+    "te": "దేశ విభజన సమయంలో, ఉమ్మడి భారతదేశంలోని సాగునీటి వసతి కలిగిన భూమిలో సుమారు ఎంత భాగం పాకిస్తాన్‌కు వెళ్ళింది?",
+    "en": "During the partition of India, what proportion of the irrigated land of undivided India went to Pakistan?"
+   },
+   "options": {
+    "te": [
+     "సుమారు సగం",
+     "సుమారు మూడింట రెండు వంతులు",
+     "సుమారు మూడింట ఒక వంతు",
+     "సుమారు నాలుగింట ఒక వంతు"
+    ],
+    "en": [
+     "About one-half",
+     "About two-third",
+     "About one-third",
+     "About one-fourth"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "విభజన సమయంలో ఉమ్మడి భారతదేశంలోని సాగునీటి సౌకర్యం ఉన్న భూమిలో సుమారు మూడింట ఒక వంతు పాకిస్తాన్‌కు వెళ్ళింది.",
+    "en": "About one-third of the irrigated land of undivided India went to Pakistan during partition."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T25-0101",
+   "section": {
+    "te": "Land Use Data",
+    "en": "Land Use Data"
+   },
+   "q": {
+    "te": "భారతదేశం యొక్క మొత్తం భౌగోళిక వైశాల్యంలో కేవలం 93 శాతం భూ వినియోగ గణాంకాలు మాత్రమే ఎందుకు అందుబాటులో ఉన్నాయి?",
+    "en": "Why is land use data available for only 93 per cent of India's total geographical area?"
+   },
+   "options": {
+    "te": [
+     "దక్షిణ రాష్ట్రాల్లో సాంకేతికత లేకపోవడం వల్ల",
+     "అస్సాం మినహా మిగిలిన ఈశాన్య రాష్ట్రాల్లో నివేదికలు పూర్తి కాకపోవడం వల్ల",
+     "మధ్య భారతదేశంలో జరుగుతున్న పట్టణీకరణ వల్ల",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Due to lack of technology in southern states",
+     "Incomplete reporting in most North-East states except Assam",
+     "Ongoing urbanisation in central India",
+     "None of these"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అస్సాం మినహా మిగిలిన ఈశాన్య రాష్ట్రాల్లో భూ వినియోగ నివేదికలు పూర్తి కాకపోవడం వల్ల కేవలం 93 శాతం ప్రాంతానికి మాత్రమే డేటా అందుబాటులో ఉందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Land use reporting for most North-East states, with the exception of Assam, has not been fully completed, leading to data for only 93% of the area."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T25-0145",
+   "section": {
+    "te": "Ragi soil types",
+    "en": "Ragi soil types"
+   },
+   "q": {
+    "te": "రాగి సాగుకు సంబంధించి ఈ క్రింది నేల రకాలను పరిశీలించండి:\n1. ఎర్ర నేలలు\n2. లోమీ (Loamy) నేలలు\n3. లోతు తక్కువగా ఉండే నల్ల రేగడి నేలలు\nపైన పేర్కొన్న వాటిలో ఏవి సరైనవి?",
+    "en": "Consider the following soil types for Ragi cultivation:\n1. Red soil\n2. Loamy soil\n3. Shallow black soil\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రాగి పొడి ప్రాంతాల పంట, ఇది ఎర్ర, నల్ల, ఇసుక, లోమీ మరియు లోతు తక్కువగా ఉండే నల్ల రేగడి నేలల్లో బాగా పెరుగుతుంది.",
+    "en": "Ragi is a crop of dry regions that grows well on red, black, sandy, loamy, and shallow black soils."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T25-0188",
+   "section": {
+    "te": "Price Support",
+    "en": "Price Support"
+   },
+   "q": {
+    "te": "వ్యాపారులు మరియు మధ్యవర్తుల నుండి రైతుల దోపిడీని అరికట్టడానికి, ముఖ్యమైన పంటలకు ప్రభుత్వం ఈ క్రింది వాటిలో దేనిని ప్రకటిస్తుంది?",
+    "en": "To check the exploitation of farmers by speculators and middlemen, the government announces which of the following for important crops?"
+   },
+   "options": {
+    "te": [
+     "ఎగుమతి ధర",
+     "దిగుమతి సుంకం",
+     "గరిష్ట విక్రయ ధర (MRP)",
+     "కనీస మద్దతు ధర (MSP)"
+    ],
+    "en": [
+     "Export Price",
+     "Import Duty",
+     "Maximum Retail Price",
+     "Minimum Support Price"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రైతులను దోపిడీ నుండి రక్షించడానికి ప్రభుత్వం కనీస మద్దతు ధర (MSP), గిట్టుబాటు ధర మరియు సేకరణ ధరలను ప్రకటిస్తుంది.",
+    "en": "The government announces Minimum Support Price (MSP), remunerative, and procurement prices to protect farmers from exploitation."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T25-0153",
+   "section": {
+    "te": "Ragi nutritional value",
+    "en": "Ragi nutritional value"
+   },
+   "q": {
+    "te": "రాగి అనేది ఈ క్రింది వాటిలో దేనితో సమృద్ధిగా ఉన్న అత్యంత పోషకమైన ముతక ధాన్యం?",
+    "en": "Ragi is a highly nutritional coarse grain rich in which of the following?"
+   },
+   "options": {
+    "te": [
+     "ఇనుము",
+     "కాల్షియం",
+     "పీచు పదార్థం (Roughage)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Iron",
+     "Calcium",
+     "Roughage",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రాగిలో ఇనుము, కాల్షియం, ఇతర సూక్ష్మ పోషకాలు మరియు పీచు పదార్థం పుష్కలంగా ఉంటాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Ragi is very rich in iron, calcium, other micro nutrients, and roughage."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T25-0166",
+   "section": {
+    "te": "Tea processing",
+    "en": "Tea processing"
+   },
+   "q": {
+    "te": "తేయాకును సాధారణంగా టీ తోటలోనే ఎందుకు ప్రాసెస్ చేస్తారు?",
+    "en": "Why is tea typically processed within the tea garden itself?"
+   },
+   "options": {
+    "te": [
+     "దాని తాజాదనాన్ని పునరుద్ధరించడానికి",
+     "రవాణా ఖర్చులను తగ్గించడానికి",
+     "దీనికి భారీ యంత్రాలు అవసరం కాబట్టి",
+     "పన్నులను నివారించడానికి"
+    ],
+    "en": [
+     "To restore its freshness",
+     "To reduce transportation costs",
+     "Because it requires heavy machinery",
+     "To avoid taxes"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "తేయాకు తాజాదనాన్ని పునరుద్ధరించడానికి మరియు కాపాడటానికి దానిని టీ తోటలోనే ప్రాసెస్ చేస్తారు.",
+    "en": "Tea is processed within the tea garden to ensure that its freshness is restored and maintained."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T25-0204",
+   "section": {
+    "te": "Wet Paddy Cultivation Features",
+    "en": "Wet Paddy Cultivation Features"
+   },
+   "q": {
+    "te": "వరి పంట ప్రధానంగా ఉండే సాంద్ర జీవనాధార వ్యవసాయానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. వ్యవసాయ పనుల్లో అత్యధిక భాగం భారీ యంత్రాల సహాయంతోనే జరుగుతాయి.\n2. రైతులు కుటుంబ శ్రమ సహాయంతో పనిచేస్తూ భూమిని సాంద్రంగా వినియోగిస్తారు.\n3. నేల సారవంతాన్ని కాపాడేందుకు పశువుల ఎరువులను (Farm yard manure) ఉపయోగిస్తారు.\nపై ప్రకటనలలో సరైనవి ఏవి?",
+    "en": "Consider the following statements regarding intensive subsistence agriculture dominated by wet paddy cultivation:\n1. Most of the agricultural operations are carried out using heavy machinery.\n2. Farmers work with the help of family labour leading to intensive use of land.\n3. Farm yard manure is used to maintain the fertility of the soil.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఈ వ్యవసాయంలో యంత్రాల వాడకం పరిమితంగా ఉండి చాలా పనులు మనుషులే చేస్తారు, కాబట్టి ప్రకటన 1 తప్పు. 2 మరియు 3 సరైనవి.",
+    "en": "Statement 1 is incorrect because the use of machinery is limited and operations are done by manual labour. Statements 2 and 3 are directly confirmed by the text."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T25-0022",
+   "section": {
+    "te": "Ancient seed treatment",
+    "en": "Ancient seed treatment"
+   },
+   "q": {
+    "te": "సురపాలుని వృక్షాయుర్వేదం ప్రకారం, విత్తనాలు తప్పక మొలకెత్తడానికి వాటికి కింది వేటిని పూయాలని సూచించబడింది?",
+    "en": "According to Surapāla’s Vṛikṣhāyurveda, which of the following substances are smeared on seeds to ensure that they sprout?"
+   },
+   "options": {
+    "te": [
+     "తేనె (మాక్షిక)",
+     "వాయువిడంగాలు / ఫాల్స్ బ్లాక్ పెప్పర్ (విడంగ)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Honey (maksika)",
+     "False black pepper (bidanga)",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "విత్తనాలు ఖచ్చితంగా మొలకెత్తడానికి తేనె (మాక్షిక) మరియు విడంగ (ఫాల్స్ బ్లాక్ పెప్పర్) రెండింటినీ పూయాలని వృక్షాయుర్వేదం పేర్కొంది.",
+    "en": "Smearing seeds with both honey (maksika) and false black pepper (bidanga) along with milk and cow dung to ensure sprouting."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T25-0174",
+   "section": {
+    "te": "Cotton Cultivation",
+    "en": "Cotton Cultivation"
+   },
+   "q": {
+    "te": "ప్రత్తి పంట విజయవంతంగా పెరగడానికి ఎన్ని మంచు లేని రోజులు (frost-free days) అవసరం?",
+    "en": "How many frost-free days are required for the successful growth of a cotton crop?"
+   },
+   "options": {
+    "te": [
+     "210 రోజులు",
+     "100 రోజులు",
+     "150 రోజులు",
+     "300 రోజులు"
+    ],
+    "en": [
+     "210 days",
+     "100 days",
+     "150 days",
+     "300 days"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రత్తి సాగుకు 210 మంచు లేని రోజులు మరియు ప్రకాశవంతమైన సూర్యరశ్మి వంటి నిర్దిష్ట వాతావరణ పరిస్థితులు అవసరం.",
+    "en": "Cotton cultivation requires specific climatic conditions including 210 frost-free days and bright sunshine."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T25-0345",
+   "section": {
+    "te": "NMSA objectives",
+    "en": "NMSA objectives"
+   },
+   "q": {
+    "te": "నేషనల్ మిషన్ ఫర్ సస్టైనబుల్ అగ్రికల్చర్ (NMSA) కి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. వ్యవసాయాన్ని మరింత ఉత్పాదక, సుస్థిర, లాభదాయక మరియు వాతావరణాన్ని తట్టుకునేలా చేయడం దీని లక్ష్యం.\n2. ఇది ప్రాంతీయ నిర్దిష్ట సమీకృత/మిశ్రమ వ్యవసాయ విధానాలను ప్రోత్సహిస్తుంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the National Mission for Sustainable Agriculture (NMSA):\n1. It aims to make agriculture more productive, sustainable, remunerative and climate resilient.\n2. It promotes location-specific integrated/composite farming systems.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 కాదు 2 కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "NMSA వ్యవసాయాన్ని మరింత ఉత్పాదకంగా, స్థిరంగా మరియు వాతావరణ అనుకూలంగా మార్చడానికి, అలాగే ప్రాంతీయ నిర్దిష్ట సమగ్ర వ్యవసాయ పద్ధతులను ప్రోత్సహించడానికి ఉద్దేశించబడింది.",
+    "en": "Both statements correctly outline the objectives of NMSA, which focuses on productivity, sustainability, climate resilience, and integrated farming systems."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T25-0222",
+   "section": {
+    "te": "Commercial Dairy Belts",
+    "en": "Commercial Dairy Belts"
+   },
+   "q": {
+    "te": "ప్రపంచంలోని వాణిజ్య పాడి వ్యవసాయానికి చెందిన మూడు ప్రధాన ప్రాంతాలలో అతిపెద్ద ప్రాంతం ఏది?",
+    "en": "Which of the following is the largest of the three main regions of commercial dairy farming in the world?"
+   },
+   "options": {
+    "te": [
+     "ఆగ్నేయ ఆస్ట్రేలియా",
+     "వాయవ్య యూరప్",
+     "కెనడా",
+     "న్యూజిలాండ్"
+    ],
+    "en": [
+     "South Eastern Australia",
+     "North Western Europe",
+     "Canada",
+     "New Zealand"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వాణిజ్య పాడి వ్యవసాయం జరిగే మూడు ప్రధాన ప్రాంతాలలో వాయవ్య యూరప్ అతిపెద్దది కాగా, కెనడా రెండవ స్థానంలో ఉంది.",
+    "en": "There are three main belts of commercial dairy farming, of which the largest is North Western Europe, followed by Canada."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T25-0020",
+   "section": {
+    "te": "Ancient tree watering",
+    "en": "Ancient tree watering"
+   },
+   "q": {
+    "te": "సురపాలుని వృక్షాయుర్వేదం ప్రకారం, శుష్క భూములలో (arid land) కొత్తగా నాటిన చెట్లకు ఎన్ని రోజుల పాటు ప్రతి ఉదయం మరియు సాయంత్రం నీరు పోయాలి?",
+    "en": "According to Surapāla’s Vṛikṣhāyurveda, newly planted trees in arid land should be watered every morning and evening for what period?"
+   },
+   "options": {
+    "te": [
+     "పది రోజులు",
+     "ఇరవై ఒక్క రోజులు",
+     "పదిహేను రోజులు",
+     "ఏడు రోజులు"
+    ],
+    "en": [
+     "Ten days",
+     "Twenty-one days",
+     "Fifteen days",
+     "Seven days"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వృక్షాయుర్వేదం ప్రకారం శుష్క భూమిలో నాటిన కొత్త చెట్లకు నేల పూర్తిగా తడిసే వరకు 15 రోజుల పాటు ఉదయం, సాయంత్రం నీరు పోయాలి.",
+    "en": "Vṛikṣhāyurveda states that newly planted trees in arid land should be watered morning and evening for fifteen days until the soil is soaked."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T25-0110",
+   "section": {
+    "te": "Land Use Statistics",
+    "en": "Land Use Statistics"
+   },
+   "q": {
+    "te": "ప్రస్తుత సాగులో లేని భూములు (తక్కువ నాణ్యత లేదా ఎక్కువ ఖర్చుతో కూడినవి) నికర సాగు భూమిలో (NSA) చేర్చబడితే, భారతదేశంలో మొత్తం NSA శాతం ఎంత అవుతుంది?",
+    "en": "If lands other than current fallow lands (which are of poor quality or high cost) are included in the Net Sown Area (NSA), what would be the total percentage of NSA in India?"
+   },
+   "options": {
+    "te": [
+     "54 శాతం",
+     "80 శాతం",
+     "33 శాతం",
+     "43 శాతం"
+    ],
+    "en": [
+     "54 per cent",
+     "80 per cent",
+     "33 per cent",
+     "43 per cent"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "తక్కువ తరచుగా సాగు చేయబడే ఈ భూములను చేర్చినట్లయితే, నికర సాగు భూమి మొత్తం రిపోర్టింగ్ ఏరియాలో సుమారు 54 శాతానికి చేరుకుంటుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Including these low-frequency cultivated lands would bring the NSA to about 54% of the total reporting area."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T25-0157",
+   "section": {
+    "te": "Pulses production and consumption",
+    "en": "Pulses production and consumption"
+   },
+   "q": {
+    "te": "భారతదేశంలోని పప్పుధాన్యాల గురించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ప్రపంచంలో పప్పుధాన్యాల ఉత్పత్తిలో భారతదేశం అతిపెద్ద దేశం.\n2. ప్రపంచంలో పప్పుధాన్యాల వినియోగంలో భారతదేశం అతిపెద్ద దేశం.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about pulses in India:\n1. India is the largest producer of pulses in the world.\n2. India is the largest consumer of pulses in the world.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రపంచవ్యాప్తంగా పప్పుధాన్యాల ఉత్పత్తిలోనూ మరియు వినియోగంలోనూ భారతదేశం అగ్రస్థానంలో ఉంది.",
+    "en": "India holds the position of being both the largest producer and the largest consumer of pulses globally."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T25-0108",
+   "section": {
+    "te": "Historical Irrigation",
+    "en": "Historical Irrigation"
+   },
+   "q": {
+    "te": "క్రీ.శ. 800 మరియు 1200 మధ్య కాలంలో, బుందేల్‌ఖండ్ ప్రాంతంలో చందేలా మరియు బుందేలా రాజులు సుమారు ఎన్ని చెరువులను నిర్మించారు?",
+    "en": "Between 800 and 1200 CE, approximately how many tanks were built by the Chandella and Bundela kings in the Bundelkhand region?"
+   },
+   "options": {
+    "te": [
+     "8,000 చెరువులు",
+     "5,000 చెరువులు",
+     "1,500 చెరువులు",
+     "15 లక్షల చెరువులు"
+    ],
+    "en": [
+     "8,000 tanks",
+     "5,000 tanks",
+     "1,500 tanks",
+     "15 lakh tanks"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఆ కాలంలో బుందేల్‌ఖండ్ ప్రాంతంలో చందేలా మరియు బుందేలా రాజులు సుమారు 8,000 చెరువులను నిర్మించారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The Chandella and Bundela kings built around 8,000 tanks in the Bundelkhand region during that period."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T25-0116",
+   "section": {
+    "te": "Bamboo Drip Irrigation",
+    "en": "Bamboo Drip Irrigation"
+   },
+   "q": {
+    "te": "మేఘాలయలోని 200 ఏళ్ల నాటి వెదురు బిందు సేద్యం (bamboo drip irrigation) పద్ధతిలో, మొక్క వద్ద నిమిషానికి ఎన్ని చుక్కల నీరు అందుతుంది?",
+    "en": "In the 200-year-old bamboo drip irrigation system of Meghalaya, how many drops of water per minute are finally delivered at the site of the plant?"
+   },
+   "options": {
+    "te": [
+     "100-120 చుక్కలు",
+     "80-100 చుక్కలు",
+     "20-80 చుక్కలు",
+     "10-20 చుక్కలు"
+    ],
+    "en": [
+     "100-120 drops",
+     "80-100 drops",
+     "20-80 drops",
+     "10-20 drops"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఈ వ్యవస్థ 18-20 లీటర్ల నీటిని రవాణా చేస్తుంది, ఇది చివరకు మొక్క వద్ద నిమిషానికి 20-80 చుక్కలకు తగ్గుతుంది.",
+    "en": "The system transports 18-20 litres of water which eventually reduces to 20-80 drops per minute at the plant site."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T25-0234",
+   "section": {
+    "te": "Reporting vs Geographical Area",
+    "en": "Reporting vs Geographical Area"
+   },
+   "q": {
+    "te": "భారతదేశంలో భూ వినియోగ సమాచారానికి సంబంధించి, 'రిపోర్టింగ్ ఏరియా' మరియు 'భౌగోళిక విస్తీర్ణం' గురించిన క్రింది ప్రకటనలను పరిశీలించండి:\n1. రిపోర్టింగ్ ఏరియా భూ రెవెన్యూ రికార్డుల అంచనాలపై ఆధారపడి కొంతవరకు మారుతుంది.\n2. సర్వే ఆఫ్ ఇండియా కొలతల ప్రకారం భౌగోళిక విస్తీర్ణం మారదు, స్థిరంగా ఉంటుంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "With reference to land-use data in India, consider the following statements regarding 'Reporting Area' and 'Geographical Area':\n1. Reporting area changes somewhat depending on the estimates of the land revenue records.\n2. Geographical area does not change and stays fixed as per Survey of India measurements.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూ రెవెన్యూ రికార్డుల అంచనాల ఆధారంగా రిపోర్టింగ్ ఏరియా కొంత మార్పు చెందుతుంది, అయితే సర్వే ఆఫ్ ఇండియా కొలతల ప్రకారం భౌగోళిక విస్తీర్ణం స్థిరంగా ఉంటుంది.",
+    "en": "Reporting area is compiled from land revenue records and changes somewhat, while geographical area remains fixed as measured by the Survey of India."
+   }
+  }
+ ]
+}

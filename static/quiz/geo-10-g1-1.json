@@ -1,0 +1,942 @@
+{
+ "id": "geo-10-g1-1",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Oceans – క్విజ్ 1",
+  "en": "Oceans – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T10-0189",
+   "section": {
+    "te": "Tidal Power in India",
+    "en": "Tidal Power in India"
+   },
+   "q": {
+    "te": "పశ్చిమ బెంగాల్‌లోని సుందర్బన్స్‌లో ఏ నిర్దిష్ట ప్రదేశంలో 3 మెగావాట్ల టైడల్ పవర్ ప్రాజెక్ట్ నిర్మాణంలో ఉంది?",
+    "en": "In which specific location in the Sunderbans of West Bengal is a 3 MW tidal power project currently under way?"
+   },
+   "options": {
+    "te": [
+     "హల్దియా",
+     "దుర్గాదువాని",
+     "డైమండ్ హార్బర్",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Haldia",
+     "Durgaduani",
+     "Diamond Harbour",
+     "None of these"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పశ్చిమ బెంగాల్‌లోని సుందర్బన్స్‌లోని దుర్గాదువాని వద్ద 3 మెగావాట్ల టైడల్ పవర్ ప్రాజెక్ట్ అభివృద్ధి చేయబడుతోందని వనరు పేర్కొంది.",
+    "en": "A 3 MW tidal power project is being developed at Durgaduani in the Sunderbans, West Bengal."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T10-0084",
+   "section": {
+    "te": "Territorial Waters Control",
+    "en": "Territorial Waters Control"
+   },
+   "q": {
+    "te": "ప్రాదేశిక జలాలలో (territorial waters), ప్రభుత్వం ఈ క్రింది వాటిలో దేనికి సంబంధించిన చట్టాలను చేయవచ్చు?",
+    "en": "In its territorial waters, a government can make laws relating to which of the following?"
+   },
+   "options": {
+    "te": [
+     "కస్టమ్స్",
+     "వలసలు (Immigration)",
+     "కాలుష్య నియంత్రణ",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Customs",
+     "Immigration",
+     "Pollution control",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ప్రాదేశిక జలాలలో, ఒక దేశం దాదాపు పూర్తి నియంత్రణను కలిగి ఉంటుంది మరియు కస్టమ్స్, వలసలు మరియు కాలుష్య నియంత్రణపై చట్టాలు చేయవచ్చు.",
+    "en": "In territorial waters, a country has near-complete control and can legislate on customs, immigration, and pollution control."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T10-0174",
+   "section": {
+    "te": "Coastal Influence on Tides",
+    "en": "Coastal Influence on Tides"
+   },
+   "q": {
+    "te": "పోటుపాట్ల పరిమాణాన్ని (tidal magnitudes) బాగా మార్చడంలో ఏ రకమైన తీరప్రాంత లక్షణం ప్రసిద్ధి చెందింది?",
+    "en": "What type of coastal feature is noted for greatly changing tidal magnitudes?"
+   },
+   "options": {
+    "te": [
+     "మునిగిపోయిన పగడపు దిబ్బలు",
+     "నేరుగా ఉండే తీరప్రాంతాలు",
+     "మధ్య-సముద్ర పర్వత శ్రేణులు",
+     "గరాటు ఆకారపు అఖాతాలు (Funnel-shaped bays)"
+    ],
+    "en": [
+     "Submerged reefs",
+     "Straight coastlines",
+     "Mid-oceanic ridges",
+     "Funnel-shaped bays"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అఖాతాల ఆకారం, ప్రత్యేకించి గరాటు ఆకారంలో ఉన్నవి, పోటుపాట్ల తీవ్రతను పెంచుతాయి మరియు వాటి పరిమాణాన్ని మారుస్తాయి.",
+    "en": "The shape of bays, specifically funnel-shaped ones, can magnify the intensity and change the magnitude of tides."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T10-0052",
+   "section": {
+    "te": "Tide Terminology",
+    "en": "Tide Terminology"
+   },
+   "q": {
+    "te": "అధిక పోటు మరియు అల్ప పోటులకు గల ప్రత్యామ్నాయ పేర్లు వరుసగా ఏమిటి?",
+    "en": "What are the alternative names for high tide and low tide respectively?"
+   },
+   "options": {
+    "te": [
+     "ఫ్లడ్ టైడ్ (Flood tide) మరియు ఎబ్ టైడ్ (Ebb tide)",
+     "హైడ్రాలిక్ పోటు మరియు స్టాటిక్ పోటు",
+     "శృంగ పోటు మరియు ద్రోణి పోటు",
+     "స్ప్రింగ్ పోటు మరియు నీప్ పోటు"
+    ],
+    "en": [
+     "Flood tide and Ebb tide",
+     "Hydraulic tide and Static tide",
+     "Crest tide and Trough tide",
+     "Spring tide and Neap tide"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అధిక పోటును ఫ్లడ్ టైడ్ అని, అల్ప పోటును ఎబ్ టైడ్ అని కూడా పిలుస్తారు.",
+    "en": "High tide is also known as flood tide, and low tide is also known as ebb tide."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T10-0194",
+   "section": {
+    "te": "Surface currents proportion",
+    "en": "Surface currents proportion"
+   },
+   "q": {
+    "te": "లోతు ఆధారంగా సముద్ర ప్రవాహాల వర్గీకరణ ప్రకారం, సముద్రంలోని మొత్తం నీటిలో ఉపరితల ప్రవాహాలు సుమారుగా ఎంత శాతాన్ని కలిగి ఉంటాయి?",
+    "en": "According to the classification of ocean currents based on depth, surface currents constitute approximately what percentage of all the water in the ocean?"
+   },
+   "options": {
+    "te": [
+     "25 శాతం",
+     "90 శాతం",
+     "10 శాతం",
+     "50 శాతం"
+    ],
+    "en": [
+     "25 per cent",
+     "90 per cent",
+     "10 per cent",
+     "50 per cent"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఉపరితల ప్రవాహాలు సముద్రంలోని మొత్తం నీటిలో దాదాపు 10 శాతాన్ని కలిగి ఉంటాయి, ఇవి సముద్రం యొక్క ఎగువ 400 మీటర్ల లోతు వరకు విస్తరించి ఉంటాయి.",
+    "en": "Surface currents constitute about 10 per cent of all ocean water and comprise the upper 400 m of the ocean."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T10-0138",
+   "section": {
+    "te": "Ocean Volume Below Thermocline",
+    "en": "Ocean Volume Below Thermocline"
+   },
+   "q": {
+    "te": "మహాసముద్రాలలోని మొత్తం నీటి పరిమాణంలో దాదాపు ఎంత శాతం థర్మోక్లైన్ క్రింద లోతైన సముద్రంలో ఉంది?",
+    "en": "What percentage of the total volume of oceanic water is found below the thermocline in the deep ocean?"
+   },
+   "options": {
+    "te": [
+     "దాదాపు 80 శాతం",
+     "దాదాపు 70 శాతం",
+     "దాదాపు 90 శాతం",
+     "దాదాపు 50 శాతం"
+    ],
+    "en": [
+     "About 80 per cent",
+     "About 70 per cent",
+     "About 90 per cent",
+     "About 50 per cent"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మహాసముద్రాల్లోని మొత్తం నీటి పరిమాణంలో దాదాపు 90 శాతం థర్మోక్లైన్ దిగువన లోతైన సముద్రంలోనే ఉంటుంది.",
+    "en": "About 90 per cent of the total volume of water is located below the thermocline in the deep ocean, where temperatures approach 0° C."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T10-0199",
+   "section": {
+    "te": "Deep currents speed",
+    "en": "Deep currents speed"
+   },
+   "q": {
+    "te": "సముద్ర ప్రవాహాలు ఉపరితలం వద్ద బలంగా ఉంటాయి, అయితే సముద్రపు లోతుల్లో ప్రవాహాల సాధారణ వేగం ఎంత ఉంటుంది?",
+    "en": "While ocean currents are strongest near the surface, what is the typical speed of currents at ocean depths?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 నాట్ల మధ్య",
+     "0.5 నాట్ల కంటే తక్కువ",
+     "5 నాట్లకు సమానం",
+     "10 నాట్ల కంటే ఎక్కువ"
+    ],
+    "en": [
+     "Between 1 and 2 knots",
+     "Less than 0.5 knots",
+     "Equal to 5 knots",
+     "Greater than 10 knots"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "లోతుల్లో సముద్ర ప్రవాహాలు సాధారణంగా చాలా నెమ్మదిగా కదులుతాయి, వీటి వేగం 0.5 నాట్ల కంటే తక్కువగా ఉంటుంది.",
+    "en": "Ocean currents decrease in speed with depth; at depths, they are generally slow with speeds less than 0.5 knots."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T10-0134",
+   "section": {
+    "te": "Ocean Water Heating Rate",
+    "en": "Ocean Water Heating Rate"
+   },
+   "q": {
+    "te": "భూభాగంతో పోలిస్తే మహాసముద్రాల నీరు వేడెక్కే మరియు చల్లబడే ప్రక్రియ ఎలా ఉంటుంది?",
+    "en": "How does the process of heating and cooling of oceanic water compare with that of land?"
+   },
+   "options": {
+    "te": [
+     "భూమితో సమానమైన వేగంతో జరుగుతుంది",
+     "వేగంగా వేడెక్కి, నెమ్మదిగా చల్లబడుతుంది",
+     "భూమి కంటే నెమ్మదిగా ఉంటుంది",
+     "భూమి కంటే చాలా వేగంగా ఉంటుంది"
+    ],
+    "en": [
+     "It occurs at the exact same rate as land",
+     "Oceanic water heats faster but cools slower than land",
+     "It is slower than land",
+     "It is much faster than land"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నేల లేదా భూభాగంతో పోల్చినప్పుడు మహాసముద్రాల నీరు వేడెక్కడం మరియు చల్లబడడం అనే ప్రక్రియ చాలా నెమ్మదిగా జరుగుతుంది.",
+    "en": "The process of heating and cooling of oceanic water is slower compared to land."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T10-0099",
+   "section": {
+    "te": "UNCLOS",
+    "en": "UNCLOS"
+   },
+   "q": {
+    "te": "మహాసముద్రాలకు సంబంధించి UNCLOS వంటి అంతర్జాతీయ చట్టాల ప్రాథమిక పాత్ర ఏమిటి?",
+    "en": "What is the primary role of international laws like UNCLOS in relation to the oceans?"
+   },
+   "options": {
+    "te": [
+     "భూమి ఆధారిత ఖనిజ వనరులను నిర్వహించడం",
+     "అన్ని అంతర్జాతీయ షిప్పింగ్ కంపెనీలను నియంత్రించడం",
+     "ప్రపంచ వాతావరణ నమూనాలను నియంత్రించడం",
+     "సముద్ర మండలాలను (maritime zones) నిర్వచించడం మరియు దేశాల మధ్య వివాదాలను పరిష్కరించడం"
+    ],
+    "en": [
+     "To manage land-based mineral resources",
+     "To control all international shipping companies",
+     "To regulate global weather patterns",
+     "To define maritime zones and settle disputes among countries"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "UNCLOS వంటి అంతర్జాతీయ చట్టాలు సముద్ర మండలాలను నిర్వచించడానికి మరియు దేశాల మధ్య వివాదాలను పరిష్కరించడానికి సహాయపడతాయి.",
+    "en": "UNCLOS is an international law that helps define maritime boundaries and settle disputes between nations regarding ocean zones."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T10-0152",
+   "section": {
+    "te": "Red Sea salinity",
+    "en": "Red Sea salinity"
+   },
+   "q": {
+    "te": "భూపరివేష్టిత ఎర్ర సముద్రంలో (Red Sea) నమోదైన లవణీయత ఎంతవరకు ఉంటుంది?",
+    "en": "What is the salinity recorded in the landlocked Red Sea?"
+   },
+   "options": {
+    "te": [
+     "24.7 o/oo",
+     "35 o/oo",
+     "41 o/oo",
+     "37 o/oo"
+    ],
+    "en": [
+     "24.7 o/oo",
+     "35 o/oo",
+     "41 o/oo",
+     "37 o/oo"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూపరివేష్టిత ఎర్ర సముద్రంలో లవణీయత 41 o/oo వరకు అధికంగా ఉంటుంది.",
+    "en": "In the landlocked Red Sea, the salinity reaches as high as 41 o/oo."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T10-0021",
+   "section": {
+    "te": "Hemispheric Land Distribution",
+    "en": "Hemispheric Land Distribution"
+   },
+   "q": {
+    "te": "భూమిపై భూభాగం పంపిణీకి సంబంధించి కింది వాటిలో ఏది సరైనది?",
+    "en": "Which of the following statements is correct regarding the distribution of land on Earth?"
+   },
+   "options": {
+    "te": [
+     "దక్షిణార్ధగోళంలో ఉత్తరార్ధగోళం కంటే ఎక్కువ భూమి ఉంది",
+     "ఉత్తరార్ధగోళంలో దక్షిణార్ధగోళం కంటే ఎక్కువ భూమి ఉంది",
+     "రెండు అర్ధగోళాల్లో సమానమైన భూమి ఉంది",
+     "దక్షిణార్ధగోళంలో భూభాగాలే లేవు"
+    ],
+    "en": [
+     "The Southern Hemisphere has more land than the Northern Hemisphere",
+     "The Northern Hemisphere has more land than the Southern Hemisphere",
+     "Both hemispheres have an equal amount of land",
+     "The Southern Hemisphere has no landmasses"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "దక్షిణార్ధగోళంతో పోలిస్తే ఉత్తరార్ధగోళంలో ఎక్కువ భూమి ఉందని పాఠ్యభాగం స్పష్టంగా పేర్కొంది.",
+    "en": "The Northern Hemisphere contains more land compared to the Southern Hemisphere."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T10-0095",
+   "section": {
+    "te": "Lagoon Formation",
+    "en": "Lagoon Formation"
+   },
+   "q": {
+    "te": "తీరం వెంబడి లాగూన్ (lagoon) ఏ పరిస్థితులలో ఏర్పడుతుంది?",
+    "en": "Under what conditions does a lagoon form along a coast?"
+   },
+   "options": {
+    "te": [
+     "బారియర్ బార్‌లు మరియు స్పిట్‌లు ఒక అఖాతం యొక్క ముఖద్వారాన్ని అడ్డుకున్నప్పుడు",
+     "తరంగాలు కొండపైకి గొప్ప శక్తితో విరుచుకుపడినప్పుడు",
+     "భూమి నుండి వచ్చే అవక్షేపాలు తీర మైదానాన్ని నింపినప్పుడు",
+     "తరంగ-కోత వేదిక సముద్రంలోకి వెనక్కి తగ్గినప్పుడు"
+    ],
+    "en": [
+     "When barrier bars and spits block the mouth of a bay",
+     "When waves break with great force against a cliff",
+     "When sediments from the land fill up a coastal plain",
+     "When a wave-cut platform recedes into the sea"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "బారియర్ బార్‌లు మరియు స్పిట్‌లు ఒక అఖాతం యొక్క ముఖద్వారాన్ని అడ్డుకున్నప్పుడు లాగూన్ ఏర్పడుతుంది.",
+    "en": "A lagoon is formed when the mouth of a bay is blocked by the formation of barrier bars and spits."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T10-0032",
+   "section": {
+    "te": "Climate Regulation",
+    "en": "Climate Regulation"
+   },
+   "q": {
+    "te": "మహాసముద్రాలు భూమి యొక్క వాతావరణాన్ని నియంత్రించడంలో ఎలా సహాయపడతాయి?",
+    "en": "How do oceans help regulate the Earth's climate?"
+   },
+   "options": {
+    "te": [
+     "సూర్యరశ్మిని తిరిగి అంతరిక్షంలోకి ప్రతిబింబించడం ద్వారా",
+     "మేఘాలు ఏర్పడకుండా నిరోధించడం ద్వారా",
+     "గాలిని పూర్తిగా పొడిగా ఉంచడం ద్వారా",
+     "వేడిని గ్రహించి, నెమ్మదిగా విడుదల చేయడం ద్వారా"
+    ],
+    "en": [
+     "By reflecting all sunlight back into space",
+     "By preventing the formation of clouds",
+     "By keeping the air completely dry",
+     "By absorbing heat and slowly releasing it"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మహాసముద్రాలు వేడిని గ్రహించి, నెమ్మదిగా విడుదల చేయడం ద్వారా మరియు వర్షపాతం కోసం తేమను అందించడం ద్వారా వాతావరణాన్ని నియంత్రిస్తాయి.",
+    "en": "Oceans regulate climate by absorbing heat, releasing it slowly, and contributing moisture for rainfall."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T10-0013",
+   "section": {
+    "te": "Land Coverage",
+    "en": "Land Coverage"
+   },
+   "q": {
+    "te": "భూగోళంలో ఎంత భాగం భూమి (land) ఆక్రమించి ఉంది?",
+    "en": "What proportion of the globe is covered by land?"
+   },
+   "options": {
+    "te": [
+     "ఖచ్చితంగా సగం",
+     "పదింట ఒక వంతు కంటే తక్కువ",
+     "నాల్గవ వంతు కంటే కొంచెం ఎక్కువ",
+     "ముప్పావు వంతు"
+    ],
+    "en": [
+     "Exactly one-half",
+     "Less than one-tenth",
+     "A little over one-fourth",
+     "Three-fourths"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూగోళంలో భూమి నాల్గవ వంతు కంటే కొంచెం ఎక్కువ భాగం ఆక్రమించి ఉందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Land covers a little over one-fourth of the globe."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T10-0142",
+   "section": {
+    "te": "Rapid Temperature Fall Depth",
+    "en": "Rapid Temperature Fall Depth"
+   },
+   "q": {
+    "te": "మహాసముద్రాలలో లోతు పెరుగుతున్నప్పుడు, ఉష్ణోగ్రత తగ్గే వేగం మందగించడానికి ముందు ఏ లోతు వరకు చాలా వేగంగా పడిపోతుంది?",
+    "en": "With increasing ocean depth, up to what depth does the temperature fall very rapidly before the rate of decrease slows down?"
+   },
+   "options": {
+    "te": [
+     "100 మీటర్ల వరకు",
+     "200 మీటర్ల వరకు",
+     "50 మీటర్ల వరకు",
+     "500 మీటర్ల వరకు"
+    ],
+    "en": [
+     "Up to 100 m",
+     "Up to 200 m",
+     "Up to 50 m",
+     "Up to 500 m"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సముద్రాలలో ఉష్ణోగ్రత 200 మీటర్ల లోతు వరకు చాలా వేగంగా పడిపోతుంది, ఆ తర్వాత తగ్గుదల రేటు మందగిస్తుంది.",
+    "en": "The rate of temperature decrease is not uniform; temperature falls very rapidly up to a depth of 200 m, after which the rate slows down."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T10-0191",
+   "section": {
+    "te": "Aphelion and Tides",
+    "en": "Aphelion and Tides"
+   },
+   "q": {
+    "te": "భూమి సూర్యునికి అత్యంత దూరంగా ఉండే బిందువు (అఫీలియన్) ఏ తేదీన సంభవిస్తుంది, దీనివల్ల టైడల్ పరిధులు సగటు కంటే తక్కువగా ఉంటాయి?",
+    "en": "On which date does the earth reach its farthest point from the sun (aphelion), causing tidal ranges to be much less than average?"
+   },
+   "options": {
+    "te": [
+     "డిసెంబర్ 22",
+     "జూలై 4",
+     "జనవరి 3",
+     "జూన్ 21"
+    ],
+    "en": [
+     "December 22nd",
+     "July 4th",
+     "January 3rd",
+     "June 21st"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "జూలై 4 ప్రాంతంలో భూమి సూర్యుడి నుండి గరిష్ట దూరంలో ఉన్నప్పుడు అఫీలియన్ సంభవిస్తుంది, ఇది తక్కువ టైడల్ పరిధికి దారితీస్తుంది.",
+    "en": "Aphelion occurs around July 4th when the earth is at its maximum distance from the sun, leading to reduced tidal ranges."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T10-0065",
+   "section": {
+    "te": "Marine Trade",
+    "en": "Marine Trade"
+   },
+   "q": {
+    "te": "ప్రపంచ వాణిజ్యంలో పరిమాణం (volume) పరంగా ఎంత శాతం సముద్రం ద్వారా జరుగుతుంది?",
+    "en": "What percentage of global trade by volume is carried by sea?"
+   },
+   "options": {
+    "te": [
+     "95%",
+     "50%",
+     "90%",
+     "75%"
+    ],
+    "en": [
+     "95%",
+     "50%",
+     "90%",
+     "75%"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రపంచ వాణిజ్యంలో పరిమాణం పరంగా 90% సముద్ర మార్గాల ద్వారా రవాణా చేయబడుతుందని మూలం పేర్కొంది.",
+    "en": "90% of global trade by volume is transported via sea routes."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T10-0128",
+   "section": {
+    "te": "Submarine Canyons",
+    "en": "Submarine Canyons"
+   },
+   "q": {
+    "te": "ప్రపంచంలో అత్యంత ప్రసిద్ధి చెందిన సముద్రాంతర్గత కాన్యన్ (Submarine Canyon) ఏది?",
+    "en": "Which of the following is considered the best known submarine canyon in the world?"
+   },
+   "options": {
+    "te": [
+     "గ్రాండ్ కాన్యన్",
+     "హడ్సన్ కాన్యన్",
+     "సింధు కాన్యన్",
+     "కాంగో కాన్యన్"
+    ],
+    "en": [
+     "Grand Canyon",
+     "Hudson Canyon",
+     "Indus Canyon",
+     "Congo Canyon"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రపంచంలో అత్యంత ప్రసిద్ధి చెందిన సముద్రాంతర్గత కాన్యన్ హడ్సన్ కాన్యన్.",
+    "en": "The Hudson Canyon is explicitly mentioned as the best known submarine canyon in the world."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T10-0017",
+   "section": {
+    "te": "Marine Flora Components",
+    "en": "Marine Flora Components"
+   },
+   "q": {
+    "te": "కింది వాటిలో ఏవి సముద్ర వృక్షజాలంలో (marine flora) చేర్చబడ్డాయి?",
+    "en": "Which of the following are included in marine flora?"
+   },
+   "options": {
+    "te": [
+     "ఆల్గే",
+     "సముద్రపు పాచి (Seaweeds)",
+     "A మరియు B రెండూ",
+     "డాల్ఫిన్లు"
+    ],
+    "en": [
+     "Algae",
+     "Seaweeds",
+     "Both A and B",
+     "Dolphins"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సముద్ర వృక్షజాలంలో ఆల్గే మరియు వివిధ రకాల సముద్రపు పాచీలు ఉంటాయి.",
+    "en": "Marine flora includes both tiny plants called algae and various seaweeds."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T10-0059",
+   "section": {
+    "te": "Gulf Stream",
+    "en": "Gulf Stream"
+   },
+   "q": {
+    "te": "నార్వే తీర ప్రాంత జలాలు సాపేక్షంగా వెచ్చగా ఉండటానికి మరియు సముద్రపు మంచు సులభంగా ఏర్పడకుండా నిరోధించడానికి ఏ సముద్ర ప్రవాహం కారణం?",
+    "en": "Which ocean current is responsible for keeping the waters of Norway relatively warm, preventing the easy formation of sea ice?"
+   },
+   "options": {
+    "te": [
+     "లాబ్రడార్ ప్రవాహం",
+     "కొరియోలిస్ ప్రవాహం",
+     "బెంగ్యులా ప్రవాహం",
+     "గల్ఫ్ స్ట్రీమ్"
+    ],
+    "en": [
+     "Labrador Current",
+     "Coriolis Current",
+     "Benguela Current",
+     "Gulf Stream"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "గల్ఫ్ స్ట్రీమ్ అనేది వెచ్చని ప్రవాహం, ఇది నార్వే వైపు ప్రవహిస్తుంది, అధిక అక్షాంశం ఉన్నప్పటికీ అక్కడి జలాలను వెచ్చగా ఉంచుతుంది.",
+    "en": "The Gulf Stream is a warm current that flows towards Norway, keeping its waters warm despite the high latitude."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T10-0190",
+   "section": {
+    "te": "Bay of Fundy Tide Rate",
+    "en": "Bay of Fundy Tide Rate"
+   },
+   "q": {
+    "te": "ఫండీ అఖాతం అంచనాల ప్రకారం, గంటకు సుమారు ఎన్ని సెంటీమీటర్ల మేర పోటు (tide) పెరుగుతుంది?",
+    "en": "Based on the estimates for the Bay of Fundy, approximately how many centimeters does the tide rise per hour?"
+   },
+   "options": {
+    "te": [
+     "480 సెం.మీ",
+     "120 సెం.మీ",
+     "240 సెం.మీ",
+     "600 సెం.మీ"
+    ],
+    "en": [
+     "480 cm",
+     "120 cm",
+     "240 cm",
+     "600 cm"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఫండీ అఖాతంలో, 6 గంటల వ్యవధిలో మొత్తం 1,440 సెం.మీ పెరుగుదల ఉంటుంది, అంటే గంటకు సుమారు 240 సెం.మీ చొప్పున నీరు పెరుగుతుంది.",
+    "en": "In the Bay of Fundy, with a total rise of about 1,440 cm over a 6-hour period, the tide rises at an estimated rate of 240 cm per hour."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T10-0082",
+   "section": {
+    "te": "EEZ and UNCLOS",
+    "en": "EEZ and UNCLOS"
+   },
+   "q": {
+    "te": "తీరం నుండి 200 నాటికల్ మైళ్ల వరకు విస్తరించి ఉన్న ప్రత్యేక ఆర్థిక మండలాలను (EEZs) ఏ అంతర్జాతీయ ఒప్పందం నిర్వచిస్తుంది?",
+    "en": "Which international convention defines the Exclusive Economic Zones (EEZs) that extend up to 200 nautical miles from the coast?"
+   },
+   "options": {
+    "te": [
+     "MARPOL",
+     "IMO కన్వెన్షన్",
+     "COLREGs",
+     "UNCLOS"
+    ],
+    "en": [
+     "MARPOL",
+     "IMO Convention",
+     "COLREGs",
+     "UNCLOS"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ప్రత్యేక ఆర్థిక మండలాలు (EEZs) ఐక్యరాజ్యసమితి సముద్ర చట్టం (UNCLOS) కింద నిర్వచించబడ్డాయి.",
+    "en": "The Exclusive Economic Zones (EEZs) are defined under the United Nations Convention on the Law of the Sea (UNCLOS)."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T10-0042",
+   "section": {
+    "te": "Erosion Processes",
+    "en": "Erosion Processes"
+   },
+   "q": {
+    "te": "కదిలే నీటి శక్తి వల్ల కలిగే శిలలు మరియు నేల క్రమక్షయ ప్రక్రియను ఏమని పిలుస్తారు?",
+    "en": "What is the process of rock and soil erosion caused specifically by the force of moving water called?"
+   },
+   "options": {
+    "te": [
+     "పోటు బలప్రయోగం (Tidal forcing)",
+     "హైడ్రాలిక్ చర్య (Hydraulic action)",
+     "నిక్షేపణ (Deposition)",
+     "అవక్షేప రవాణా (Sediment transport)"
+    ],
+    "en": [
+     "Tidal forcing",
+     "Hydraulic action",
+     "Deposition",
+     "Sediment transport"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "హైడ్రాలిక్ చర్య అంటే కదిలే నీటి శక్తి వల్ల శిలలు మరియు నేల పదార్థాలు వదులై, తొలగించబడే క్రమక్షయ ప్రక్రియ.",
+    "en": "Hydraulic action refers to the erosion caused by the physical force of moving water as it loosens and removes rock and soil material."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T10-0157",
+   "section": {
+    "te": "Atlantic Ocean salinity",
+    "en": "Atlantic Ocean salinity"
+   },
+   "q": {
+    "te": "అట్లాంటిక్ మహాసముద్ర లవణీయతకు సంబంధించి క్రింది ప్రకటనలలో ఏది/ఏవి సరైనది/సరైనవి?\nA. దీని సగటు లవణీయత సుమారు 36 o/oo.\nB. దీనిలో అత్యధిక లవణీయత 15° మరియు 20° అక్షాంశాల మధ్య నమోదవుతుంది.",
+    "en": "Which of the following statements about the salinity of the Atlantic Ocean is/are correct?\nA. Its average salinity is around 36 o/oo.\nB. Its highest salinity is recorded between 15° and 20° latitudes."
+   },
+   "options": {
+    "te": [
+     "A మాత్రమే",
+     "B మాత్రమే",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "A only",
+     "B only",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అట్లాంటిక్ మహాసముద్ర సగటు లవణీయత 36 o/oo మరియు అత్యధిక లవణీయత 15° మరియు 20° అక్షాంశాల మధ్య ఉంటుంది. కాబట్టి A మరియు B రెండూ సరైనవే.",
+    "en": "The average salinity of the Atlantic Ocean is around 36 o/oo, and its highest salinity is recorded between 15° and 20° latitudes."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T10-0120",
+   "section": {
+    "te": "Ocean Floor Relief Factors",
+    "en": "Ocean Floor Relief Factors"
+   },
+   "q": {
+    "te": "మహాసముద్ర భూతలంపై కనిపించే సంక్లిష్ట నైసర్గిక స్వరూపాలు క్రింది ఏ ప్రక్రియల ద్వారా ఏర్పడతాయి?",
+    "en": "The complex relief features of the ocean floors are formed by which of the following processes?"
+   },
+   "options": {
+    "te": [
+     "విరూపకారక (టెక్టానిక్) ప్రక్రియలు",
+     "అగ్నిపర్వత ప్రక్రియలు",
+     "నిక్షేపణ ప్రక్రియలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Tectonic processes",
+     "Volcanic processes",
+     "Depositional processes",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఖండాల మాదిరిగానే సముద్ర గర్భంలోని నైసర్గిక స్వరూపాలు కూడా టెక్టానిక్, అగ్నిపర్వత మరియు నిక్షేపణ ప్రక్రియల ద్వారా ఏర్పడతాయి.",
+    "en": "Features of the ocean floors are formed by tectonic, volcanic, and depositional processes."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T10-0037",
+   "section": {
+    "te": "Great Barrier Reef dimensions",
+    "en": "Great Barrier Reef dimensions"
+   },
+   "q": {
+    "te": "గ్రేట్ బారియర్ రీఫ్ (Great Barrier Reef) సుమారుగా ఎంత పొడవు మరియు వైశాల్యాన్ని కలిగి ఉంది?",
+    "en": "What is the approximate length and area covered by the Great Barrier Reef?"
+   },
+   "options": {
+    "te": [
+     "2000 కి.మీ మరియు 350,000 చదరపు కిలోమీటర్లు",
+     "1000 కి.మీ మరియు 200,000 చదరపు కిలోమీటర్లు",
+     "3000 కి.మీ మరియు 500,000 చదరపు కిలోమీటర్లు",
+     "1500 కి.మీ మరియు 250,000 చదరపు కిలోమీటర్లు"
+    ],
+    "en": [
+     "2000 km and 350,000 square kilometres",
+     "1000 km and 200,000 square kilometres",
+     "3000 km and 500,000 square kilometres",
+     "1500 km and 250,000 square kilometres"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, గ్రేట్ బారియర్ రీఫ్ 2,000 కి.మీ పొడవునా విస్తరించి ఉంది మరియు సుమారు 350,000 చదరపు కిలోమీటర్ల వైశాల్యాన్ని కలిగి ఉంది.",
+    "en": "The Great Barrier Reef stretches over 2,000 km and covers approximately 350,000 square kilometres."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T10-0171",
+   "section": {
+    "te": "Tidal Bulges",
+    "en": "Tidal Bulges"
+   },
+   "q": {
+    "te": "పోటు ఉబ్బెత్తులకు (tidal bulges) సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. వెడల్పైన ఖండతీర అంచుల (continental shelves) వద్ద పోటు ఉబ్బెత్తులు ఎక్కువ ఎత్తును కలిగి ఉంటాయి.\n2. మధ్య-సముద్ర దీవులను తాకినప్పుడు పోటు ఉబ్బెత్తులు మరింత ఎత్తుగా మారుతాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding tidal bulges:\n1. Tidal bulges have greater height on wide continental shelves.\n2. Tidal bulges become higher when they hit mid-oceanic islands.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మూలం ప్రకారం, వెడల్పైన ఖండతీర అంచుల వద్ద పోటు ఉబ్బెత్తులు ఎక్కువగా ఉంటాయి, కానీ మధ్య-సముద్ర దీవులను తాకినప్పుడు అవి తక్కువగా (low) మారుతాయి.",
+    "en": "Tidal bulges are higher on wide continental shelves but become low when they hit mid-oceanic islands."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T10-0135",
+   "section": {
+    "te": "Hemispheric Heat Difference",
+    "en": "Hemispheric Heat Difference"
+   },
+   "q": {
+    "te": "దక్షిణార్థగోళంలోని మహాసముద్రాల కంటే ఉత్తరార్థగోళంలోని మహాసముద్రాలు ఎక్కువ వేడిని పొందడానికి గల కారణం ఏమిటి?",
+    "en": "Why do oceans in the Northern Hemisphere receive more heat than oceans in the Southern Hemisphere?"
+   },
+   "options": {
+    "te": [
+     "బలహీనమైన పవనాలు వీయడం వల్ల",
+     "ఉత్తరార్థగోళంలో ఎక్కువ సౌర వికిరణం లభించడం వల్ల",
+     "ఎక్కువ విస్తీర్ణంలో ఉన్న భూభాగంతో సంబంధం కలిగి ఉండటం వల్ల",
+     "ఎక్కువ సంఖ్యలో అగాధాలు ఉండటం వల్ల"
+    ],
+    "en": [
+     "Due to weaker prevailing winds",
+     "Due to higher solar radiation received in the Northern Hemisphere",
+     "Due to contact with a larger extent of land",
+     "Due to a greater number of deep sea trenches"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఉత్తరార్థగోళంలోని మహాసముద్రాలు విస్తారమైన భూభాగంతో తాకిడి కలిగి ఉండటం వల్ల దక్షిణార్థగోళ మహాసముద్రాల కంటే ఎక్కువ వేడిని పొందుతాయి.",
+    "en": "The oceans in the Northern Hemisphere receive more heat because of their contact with a larger extent of land compared to the Southern Hemisphere."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T10-0195",
+   "section": {
+    "te": "Equatorial water level",
+    "en": "Equatorial water level"
+   },
+   "q": {
+    "te": "సౌరశక్తి వల్ల నీరు వ్యాకోచించడం వలన, మధ్య అక్షాంశాలతో పోలిస్తే భూమధ్యరేఖ వద్ద సముద్ర మట్టం సుమారు ఎంత ఎత్తులో ఉంటుంది?",
+    "en": "Due to heating by solar energy causing expansion, ocean water near the equator is approximately how much higher in level than in the middle latitudes?"
+   },
+   "options": {
+    "te": [
+     "15 సెం.మీ",
+     "25 సెం.మీ",
+     "2 సెం.మీ",
+     "8 సెం.మీ"
+    ],
+    "en": [
+     "15 cm",
+     "25 cm",
+     "2 cm",
+     "8 cm"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సౌరశక్తితో వేడెక్కడం వల్ల నీరు వ్యాకోచిస్తుంది, దీనివల్ల భూమధ్యరేఖ సమీపంలో సముద్రపు నీరు మధ్య అక్షాంశాల కంటే దాదాపు 8 సెం.మీ ఎత్తులో ఉంటుంది.",
+    "en": "Heating by solar energy causes water to expand, making the ocean water near the equator about 8 cm higher in level than in the middle latitudes."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T10-0061",
+   "section": {
+    "te": "Fishing Grounds",
+    "en": "Fishing Grounds"
+   },
+   "q": {
+    "te": "వెచ్చని మరియు శీతల సముద్ర ప్రవాహాలు కలిసే ప్రాంతాలను ఏమని పిలుస్తారు?",
+    "en": "What is the specific term used for regions where warm and cold ocean currents meet?"
+   },
+   "options": {
+    "te": [
+     "అబిసల్ మైదానాలు",
+     "చేపల వేట ప్రాంతాలు (Fishing grounds)",
+     "డెడ్ జోన్లు",
+     "పగడపు దిబ్బలు"
+    ],
+    "en": [
+     "Abyssal plains",
+     "Fishing grounds",
+     "Dead zones",
+     "Coral reefs"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వెచ్చని మరియు శీతల ప్రవాహాలు కలిసే ప్రాంతాలు పోషకాలతో సమృద్ధిగా ఉంటాయి మరియు ముఖ్యమైన చేపల వేట ప్రాంతాలుగా పిలువబడతాయి.",
+    "en": "Areas where warm and cold currents converge are rich in nutrients and are known as important fishing grounds."
+   }
+  }
+ ]
+}

@@ -1,0 +1,942 @@
+{
+ "id": "geo-31-c-2",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Biodiversity – క్విజ్ 2",
+  "en": "Biodiversity – Quiz 2"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T31-0098",
+   "section": {
+    "te": "Ethical Responsibility",
+    "en": "Ethical Responsibility"
+   },
+   "q": {
+    "te": "ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ప్రతి జాతికి జీవించడానికి అంతర్గత హక్కు (intrinsic right) ఉంటుంది.\n2. జీవవైవిధ్య స్థాయి అనేది ఇతర జీవ జాతులతో మన సంబంధాల స్థితికి మంచి సూచిక.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements:\n1. Each and every species has an intrinsic right to exist.\n2. The level of biodiversity is a good indicator of the state of our relationships with other living species.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రతి జాతికి జీవించడానికి అంతర్గత హక్కు ఉందని మరియు జీవవైవిధ్య స్థాయిలు ఇతర జాతులతో మన సంబంధాన్ని సూచిస్తాయని వ్యాసం పేర్కొంది.",
+    "en": "Every species has an intrinsic right to exist and that biodiversity levels indicate our relationship with other species."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T31-0013",
+   "section": {
+    "te": "Rainforests in India",
+    "en": "Rainforests in India"
+   },
+   "q": {
+    "te": "భారతదేశంలోని ఏ ప్రాంతాలలో చిన్న ఉష్ణమండల వర్షారణ్య ప్రాంతాలు ఉన్నాయి?\nA. అండమాన్ & నికోబార్ దీవులు\nB. ఈశాన్య రాష్ట్రాలు\nC. పశ్చిమ కనుమలు",
+    "en": "In which parts of India are smaller tropical rainforest regions found?\nA. Andaman & Nicobar Islands\nB. Northeastern states\nC. Western Ghats"
+   },
+   "options": {
+    "te": [
+     "A మాత్రమే",
+     "B మాత్రమే",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "A only",
+     "B only",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతదేశంలోని వర్షారణ్యాల కోసం అండమాన్ & నికోబార్ దీవులు మరియు ఈశాన్య రాష్ట్రాలను పాఠ్యభాగం ప్రత్యేకంగా పేర్కొంది.",
+    "en": "The text specifically mentions the Andaman & Nicobar Islands and the Northeastern states as locations for rainforests in India."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T31-0127",
+   "section": {
+    "te": "Sustainable Development Aspects",
+    "en": "Sustainable Development Aspects"
+   },
+   "q": {
+    "te": "సుస్థిర అభివృద్ధి ఈ క్రింది ఏ అభివృద్ధి అంశాలను పరిగణనలోకి తీసుకుంటుంది?",
+    "en": "Sustainable development takes care of which of the following aspects of development?"
+   },
+   "options": {
+    "te": [
+     "పర్యావరణ (Ecological) అంశాలు",
+     "సామాజిక అంశాలు",
+     "ఆర్థిక అంశాలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Ecological aspects",
+     "Social aspects",
+     "Economic aspects",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సుస్థిర అభివృద్ధి అనేది అభివృద్ధి యొక్క పర్యావరణ, సామాజిక మరియు ఆర్థిక అంశాలను పరిష్కరిస్తుందని పాఠ్య భాగం పేర్కొంది.",
+    "en": "Sustainable development addresses ecological, social, and economic aspects of development."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T31-0070",
+   "section": {
+    "te": "Causes of Biodiversity",
+    "en": "Causes of Biodiversity"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): సౌరశక్తి మరియు నీటి లభ్యత ఎక్కువగా ఉన్న ప్రాంతాలు విస్తృతమైన జీవవైవిధ్యాన్ని కలిగి ఉంటాయి.\nకారణం (R): సౌరశక్తి మరియు నీరు శైథిల్య వైవిధ్యాలకు ప్రాథమిక కారణాలు, ఇవి జీవవైవిధ్యానికి ఆధారమైన శైథిల్య పొరను (Weathering mantle) ఏర్పరుస్తాయి.",
+    "en": "Assertion (A): Areas rich in solar energy and water inputs are areas of wide spectrum of biodiversity.\nReason (R): Solar energy and water are the basic causes for weathering variations that create the weathering mantle, which is the basis for biodiversity."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ సరైనవి మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ సరైనవి కానీ A కి R సరైన వివరణ కాదు",
+     "A సరైనది కానీ R తప్పు",
+     "A తప్పు కానీ R సరైనది"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సౌరశక్తి మరియు నీరు శైథిల్య వైవిధ్యాలను కలిగిస్తాయని, ఇది జీవవైవిధ్యానికి ఆధారమైన శైథిల్య పొరను ఏర్పరుస్తుందని పాఠ్యభాగం వివరిస్తుంది.",
+    "en": "Solar energy and water cause weathering variations, creating the weathering mantle which supports diverse vegetation and biodiversity."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T31-0085",
+   "section": {
+    "te": "IUCN Red List",
+    "en": "IUCN Red List"
+   },
+   "q": {
+    "te": "ప్రపంచవ్యాప్తంగా ముప్పులో ఉన్న జాతుల 'రెడ్ లిస్ట్'ను ఏ సంస్థ ప్రచురిస్తుంది?",
+    "en": "Which organization publishes the 'Red List' of threatened species world-wide?"
+   },
+   "options": {
+    "te": [
+     "ఐయుసిఎన్ (IUCN)",
+     "UNEP",
+     "UNESCO",
+     "WWF"
+    ],
+    "en": [
+     "IUCN",
+     "UNEP",
+     "UNESCO",
+     "WWF"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "IUCN ప్రపంచవ్యాప్తంగా ముప్పులో ఉన్న జాతుల రెడ్ లిస్ట్‌ను ప్రచురిస్తుంది.",
+    "en": "The IUCN publishes the Red List of threatened species globally."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T31-0054",
+   "section": {
+    "te": "India's Biodiversity",
+    "en": "India's Biodiversity"
+   },
+   "q": {
+    "te": "భారతదేశ జీవ వైవిధ్యానికి సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. జీవ వైవిధ్యం పరంగా భారతదేశం ప్రపంచంలోని అత్యంత సంపన్న దేశాలలో ఒకటి.\n2. భారతదేశంలో ఇంకా కనుగొనవలసిన జాతుల సంఖ్య ప్రస్తుతం ఉన్న వాటి కంటే రెండు లేదా మూడు రెట్లు ఉండవచ్చు.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding India's biological diversity:\n1. India is one of the world’s richest countries in terms of biological diversity.\n2. The number of species yet to be discovered in India is possibly twice or thrice the current array.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 లేదా 2 ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతదేశం జీవవైవిధ్యంలో అత్యంత సంపన్నమైన దేశాలలో ఒకటి అని మరియు ఇంకా కనుగొనబడని జాతుల సంఖ్య ప్రస్తుతం తెలిసిన వాటి కంటే రెండు నుండి మూడు రెట్లు ఉండవచ్చని పాఠ్యభాగం పేర్కొంది.",
+    "en": "India is one of the richest countries in biodiversity and that the number of undiscovered species could be two to three times the current known number."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T31-0157",
+   "section": {
+    "te": "Waste Collection in Small Towns",
+    "en": "Waste Collection in Small Towns"
+   },
+   "q": {
+    "te": "భారతదేశంలోని మెట్రోపాలిటన్ నగరాలు మినహా మిగిలిన నగరాలు మరియు పట్టణాలలో, ఉత్పత్తి అయ్యే వ్యర్థాలలో ఎంత శాతం సేకరించకుండా వదిలివేయబడుతుంది?",
+    "en": "In most cities and towns in India (excluding metropolises), what percentage of generated waste is left uncollected?"
+   },
+   "options": {
+    "te": [
+     "10 నుండి 20 శాతం",
+     "90 శాతం కంటే ఎక్కువ",
+     "60 నుండి 80 శాతం",
+     "30 నుండి 50 శాతం"
+    ],
+    "en": [
+     "10 to 20 per cent",
+     "Over 90 per cent",
+     "60 to 80 per cent",
+     "30 to 50 per cent"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మిగిలిన నగరాలు మరియు పట్టణాలలో, ఉత్పత్తి అయ్యే వ్యర్థాలలో సుమారు 30 నుండి 50 శాతం సేకరించకుండా వదిలివేయబడుతుందని పాఠ్య భాగం పేర్కొంది.",
+    "en": "In most other cities and towns, about 30 to 50 per cent of the waste generated is left uncollected."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T31-0111",
+   "section": {
+    "te": "Madagascar endemic species",
+    "en": "Madagascar endemic species"
+   },
+   "q": {
+    "te": "మడగాస్కర్‌లో దాదాపు ఎంత శాతం మొక్కలు మరియు జంతువులు ప్రపంచంలో మరెక్కడా కనిపించవు?",
+    "en": "In Madagascar, what percentage of plants and animals are found nowhere else in the world?"
+   },
+   "options": {
+    "te": [
+     "దాదాపు 75 శాతం",
+     "దాదాపు 85 శాతం",
+     "దాదాపు 65 శాతం",
+     "దాదాపు 50 శాతం"
+    ],
+    "en": [
+     "About 75 per cent",
+     "About 85 per cent",
+     "About 65 per cent",
+     "About 50 per cent"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మడగాస్కర్‌లోని దాదాపు 85 శాతం మొక్కలు మరియు జంతువులు ప్రపంచంలో మరెక్కడా కనిపించవని పాఠ్యాంశంలో పేర్కొనబడింది.",
+    "en": "The text states: 'In Madagascar, for example, about 85 per cent of the plants and animals are found nowhere else in the world'."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T31-0095",
+   "section": {
+    "te": "Hotspots of Diversity",
+    "en": "Hotspots of Diversity"
+   },
+   "q": {
+    "te": "జాతుల వైవిధ్యం ఎక్కువగా ఉన్న ప్రాంతాలను ఏమని పిలుస్తారు?",
+    "en": "Areas rich in species diversity are called:"
+   },
+   "options": {
+    "te": [
+     "బయోస్పియర్లు",
+     "కోల్డ్‌స్పాట్‌లు",
+     "హాట్‌స్పాట్‌లు (Hotspots)",
+     "అభయారణ్యాలు"
+    ],
+    "en": [
+     "Biospheres",
+     "Coldspots",
+     "Hotspots",
+     "Sanctuaries"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "జాతుల వైవిధ్యం ఎక్కువగా ఉన్న ప్రాంతాలను హాట్‌స్పాట్‌లుగా వ్యాసం నిర్వచించింది.",
+    "en": "The text defines areas rich in species diversity as hotspots of diversity."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T31-0164",
+   "section": {
+    "te": "Daurala Water Supply",
+    "en": "Daurala Water Supply"
+   },
+   "q": {
+    "te": "దౌరాలాలో సమాజానికి త్రాగునీటిని సరఫరా చేయడానికి ఎంత అదనపు పైప్‌లైన్ వేయబడింది?",
+    "en": "How much extra pipeline was laid in Daurala to supply potable water to the community?"
+   },
+   "options": {
+    "te": [
+     "900 మీటర్లు",
+     "1500 మీటర్లు",
+     "500 మీటర్లు",
+     "1200 మీటర్లు"
+    ],
+    "en": [
+     "900m",
+     "1500m",
+     "500m",
+     "1200m"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "త్రాగునీటి సరఫరా కోసం 900 మీటర్ల అదనపు పైప్‌లైన్ వేసినట్లు పాఠ్య భాగం పేర్కొంది.",
+    "en": "The text specifies that a 900m extra pipeline was laid to supply potable water."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T31-0133",
+   "section": {
+    "te": "Namami Gange Programme",
+    "en": "Namami Gange Programme"
+   },
+   "q": {
+    "te": "నమామి గంగే కార్యక్రమంలో భాగంగా, ఈ క్రింది ఏ రాష్ట్రాలలో 'గంగా గ్రామాలు' (Ganga Grams) అభివృద్ధి చేయబడతాయి?",
+    "en": "Under the Namami Gange Programme, 'Ganga Grams' are to be developed in which of the following sets of states?"
+   },
+   "options": {
+    "te": [
+     "ఉత్తరప్రదేశ్, బీహార్, జార్ఖండ్, ఒడిశా మరియు పశ్చిమ బెంగాల్",
+     "ఉత్తరాఖండ్, ఢిల్లీ, ఉత్తరప్రదేశ్, బీహార్ మరియు జార్ఖండ్",
+     "ఉత్తరాఖండ్, ఉత్తరప్రదేశ్, బీహార్, జార్ఖండ్ మరియు పశ్చిమ బెంగాల్",
+     "ఉత్తరాఖండ్, ఉత్తరప్రదేశ్, హర్యానా, బీహార్ మరియు పశ్చిమ బెంగాల్"
+    ],
+    "en": [
+     "UP, Bihar, Jharkhand, Odisha and West Bengal",
+     "Uttarakhand, Delhi, UP, Bihar and Jharkhand",
+     "Uttarakhand, UP, Bihar, Jharkhand and West Bengal",
+     "Uttarakhand, UP, Haryana, Bihar and West Bengal"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నమామి గంగే కార్యక్రమంలో భాగంగా ఉత్తరాఖండ్, ఉత్తరప్రదేశ్, బీహార్, జార్ఖండ్ మరియు పశ్చిమ బెంగాల్ రాష్ట్రాల్లో 'గంగా గ్రామాల' అభివృద్ధిని చేర్చారు.",
+    "en": "The Namami Gange Programme includes the development of 'Ganga Grams' specifically in Uttarakhand, UP, Bihar, Jharkhand, and West Bengal."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T31-0083",
+   "section": {
+    "te": "Ecosystem Boundaries",
+    "en": "Ecosystem Boundaries"
+   },
+   "q": {
+    "te": "ఆవరణ వ్యవస్థ వైవిధ్యానికి సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. కమ్యూనిటీలు మరియు ఆవరణ వ్యవస్థల సరిహద్దులు కచ్చితంగా (rigidly) నిర్వచించబడ్డాయి.\n2. ఆవరణ వ్యవస్థ ఎంత వైవిధ్యంగా ఉంటే, ప్రతికూల పరిస్థితుల్లో జాతులు మనుగడ సాగించే అవకాశాలు అంత మెరుగ్గా ఉంటాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding ecosystem diversity:\n1. The boundaries of communities and ecosystems are rigidly defined.\n2. The more diverse an ecosystem, the better the chances for species to survive adversities.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సరిహద్దులు కచ్చితంగా నిర్వచించబడలేదు కాబట్టి ప్రకటన 1 తప్పు. వైవిధ్యం మనుగడ అవకాశాలను పెంచుతుంది కాబట్టి ప్రకటన 2 సరైనది.",
+    "en": "Statement 1 is incorrect because boundaries are not rigidly defined. Statement 2 is correct as diversity increases survival chances."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T31-0155",
+   "section": {
+    "te": "Solid Waste Health Hazards",
+    "en": "Solid Waste Health Hazards"
+   },
+   "q": {
+    "te": "ఘన వ్యర్థాల వల్ల కలిగే ఆరోగ్య ప్రమాదాలకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. అవి అసహ్యకరమైన వాసనలను సృష్టిస్తాయి.\n2. అవి వ్యాధి వాహకాలుగా పనిచేసే ఈగలు మరియు ఎలుకలకు ఆవాసంగా ఉంటాయి.\n3. అవి టైఫాయిడ్ మరియు మలేరియా వంటి వ్యాధులకు దారితీస్తాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding health hazards caused by solid wastes:\n1. They create obnoxious smells.\n2. They harbour flies and rodents which act as disease carriers.\n3. They can lead to diseases like typhoid and malaria.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఘన వ్యర్థాలు అసహ్యకరమైన వాసనలు, ఈగలు మరియు ఎలుకలకు ఆవాసం కల్పించడం మరియు టైఫాయిడ్, మలేరియా వంటి వ్యాధులను వ్యాప్తి చేయడం ద్వారా ఆరోగ్య ప్రమాదాలను కలిగిస్తాయని పాఠ్య భాగం ధృవీకరిస్తుంది.",
+    "en": "The text confirms that solid wastes cause health hazards through obnoxious smells, harbouring flies and rodents, and spreading diseases like typhoid, malaria, etc."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T31-0115",
+   "section": {
+    "te": "Community role in conservation",
+    "en": "Community role in conservation"
+   },
+   "q": {
+    "te": "నిశ్చితార్థం (A): జీవవైవిధ్య సంరక్షణ కోసం స్థానిక స్థాయిలలో సంస్థాగత నిర్మాణాలను అభివృద్ధి చేయడం అవసరం.\nహేతువు (R): స్థానిక సమాజాలు మరియు వ్యక్తుల ప్రమేయం, సహకారంతో మాత్రమే స్థిరమైన వినియోగంతో కూడిన సంరక్షణ సాధ్యమవుతుంది.\nసరైన ఎంపికను ఎంచుకోండి:",
+    "en": "Assertion (A): For conservation of biodiversity, the development of institutional structures at local levels is necessary.\nReason (R): Conservation with sustainable use is possible only with the involvement and cooperation of local communities and individuals.\nSelect the correct option:"
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ సరైనవి మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ సరైనవి కానీ A కి R సరైన వివరణ కాదు",
+     "A సరైనది కానీ R తప్పు",
+     "A తప్పు కానీ R సరైనది"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "స్థానిక ప్రజల సహకారంతోనే జీవవైవిధ్య సంరక్షణ సాధ్యమని, అందుకోసమే స్థానిక స్థాయిలలో సంస్థాగత నిర్మాణాలు అవసరమని పాఠ్యాంశంలో స్పష్టంగా వివరించబడింది.",
+    "en": "Sustainable conservation is possible only with the cooperation of local communities and individuals, and for this reason, local institutional structures are necessary."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T31-0012",
+   "section": {
+    "te": "Human oxygen needs",
+    "en": "Human oxygen needs"
+   },
+   "q": {
+    "te": "ఒక మనిషికి ప్రతిరోజూ సుమారు ఎన్ని లీటర్ల ఆక్సిజన్ అవసరం?",
+    "en": "Approximately how many litres of oxygen does a human being need every day?"
+   },
+   "options": {
+    "te": [
+     "300 లీటర్లు",
+     "350 లీటర్లు",
+     "275 లీటర్లు",
+     "450 లీటర్లు"
+    ],
+    "en": [
+     "300 litres",
+     "350 litres",
+     "275 litres",
+     "450 litres"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఒక మనిషికి ప్రతిరోజూ సుమారు 350 లీటర్ల ఆక్సిజన్ అవసరమని పాఠ్యభాగం పేర్కొంది, అయితే ఇది వ్యక్తిని బట్టి మారుతుంది.",
+    "en": "A human being requires about 350 litres of oxygen daily, though this varies by individual."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T31-0072",
+   "section": {
+    "te": "Air Pollution Control",
+    "en": "Air Pollution Control"
+   },
+   "q": {
+    "te": "గాలిలోని ధూళి కణాలను (Particulate matter) తగ్గించడానికి పొగ గొట్టాలకు ఈ క్రింది ఏ పరికరాలను అమర్చవచ్చు?\n1. ఎలెక్ట్రోస్టాటిక్ ప్రెసిపిటేటర్లు\n2. ఫాబ్రిక్ ఫిల్టర్లు\n3. స్క్రబ్బర్లు\n4. ఇనర్షియల్ సెపరేటర్లు",
+    "en": "Which of the following equipment can be fitted to smoke stacks to reduce particulate matter in the air?\n1. Electrostatic precipitators\n2. Fabric filters\n3. Scrubbers\n4. Inertial separators"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3 మాత్రమే",
+     "1, 2, 3 మరియు 4"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1, 2 and 3 only",
+     "1, 2, 3 and 4"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ధూళి కణాలను తగ్గించడానికి ఎలెక్ట్రోస్టాటిక్ ప్రెసిపిటేటర్లు, ఫాబ్రిక్ ఫిల్టర్లు, స్క్రబ్బర్లు మరియు ఇనర్షియల్ సెపరేటర్లు అనే నాలుగింటిని పాఠ్యభాగం పేర్కొంది.",
+    "en": "All four—electrostatic precipitators, fabric filters, scrubbers, and inertial separators—as means to reduce particulate matter."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T31-0161",
+   "section": {
+    "te": "Groundwater Contamination",
+    "en": "Groundwater Contamination"
+   },
+   "q": {
+    "te": "దౌరాలా గ్రామంలో భూగర్భ జలాలు భార లోహాలతో (heavy metals) కలుషితం కావడానికి ప్రాథమిక కారణం ఏమిటి?",
+    "en": "What was the primary cause of groundwater contamination with heavy metals in Daurala village?"
+   },
+   "options": {
+    "te": [
+     "సహజ భౌగోళిక నిక్షేపాలు",
+     "రసాయన ఎరువుల అధిక వినియోగం",
+     "పరిశ్రమల నుండి శుద్ధి చేయని మురుగునీరు భూగర్భ జలాల్లోకి చేరడం",
+     "గృహ ఘన వ్యర్థాలను బహిరంగంగా పారవేయడం"
+    ],
+    "en": [
+     "Natural geological deposits",
+     "Excessive use of chemical fertilizers",
+     "Untreated wastewater of industries leaching to the groundwater",
+     "Open dumping of household solid waste"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "దౌరాలాలో భార లోహాల కాలుష్యానికి కారణం శుద్ధి చేయని పారిశ్రామిక మురుగునీరు భూగర్భ జలమట్టంలోకి చేరడమేనని పాఠ్య భాగం గుర్తిస్తుంది.",
+    "en": "The text identifies the leaching of untreated industrial wastewater into the groundwater table as the reason for heavy metal contamination in Daurala."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T31-0016",
+   "section": {
+    "te": "Resource treatment consequences",
+    "en": "Resource treatment consequences"
+   },
+   "q": {
+    "te": "శాస్త్రవేత్తల ప్రకారం, సహజ వనరుల పట్ల బాధ్యతారహితమైన ప్రవర్తన క్రింది వాటిలో దేనికి దారితీసింది?\nA. కాలుష్యం\nB. జీవవైవిధ్య నష్టం\nC. వాతావరణ మార్పు",
+    "en": "According to scientists, the irresponsible treatment of natural resources has led to which of the following?\nA. Pollution\nB. Biodiversity loss\nC. Climate change"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వనరుల పట్ల బాధ్యతారహితమైన ప్రవర్తన కాలుష్యం, జీవవైవిధ్య నష్టం మరియు వాతావరణ మార్పులకు దారితీస్తుందని పాఠ్యభాగం స్పష్టంగా పేర్కొంది.",
+    "en": "Irresponsible treatment of resources leads to pollution, biodiversity loss, and climate change."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T31-0008",
+   "section": {
+    "te": "Biome survival factors",
+    "en": "Biome survival factors"
+   },
+   "q": {
+    "te": "బయోమ్‌లో వృద్ధి చెందే జీవరాశుల రకాలను క్రింది వాటిలో ఏ అంశాలు నిర్ణయిస్తాయి?\nA. ఉష్ణోగ్రత\nB. అవపాతం (Precipitation) నమూనాలు\nC. వృక్షసంపద పెరుగుదల రూపాలు",
+    "en": "Which of the following factors determine the types of life forms that thrive in a biome?\nA. Temperature\nB. Precipitation patterns\nC. Growth forms of vegetation"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, ఉష్ణోగ్రత, అవపాతం, ప్రధాన వృక్ష జాతులు మరియు వృక్షసంపద పెరుగుదల రూపాలు అన్నీ బయోమ్‌లో మనుగడను నిర్ణయించే కారకాలు.",
+    "en": "Temperature, precipitation, dominant plant species, and growth forms of vegetation are all factors that determine survival in a biome."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T31-0023",
+   "section": {
+    "te": "Aquatic Biomes",
+    "en": "Aquatic Biomes"
+   },
+   "q": {
+    "te": "జలచర బయోమ్‌ల (Aquatic biomes) యొక్క రెండు ప్రధాన విభాగాలు ఏవి?",
+    "en": "Which of the following are the two broad divisions of aquatic biomes?"
+   },
+   "options": {
+    "te": [
+     "సరస్సులు మరియు మహాసముద్రాలు",
+     "నదులు మరియు సముద్రాలు",
+     "మంచినీటి మరియు సముద్రపు బయోమ్‌లు",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Lakes and Oceans",
+     "Rivers and Seas",
+     "Freshwater and marine biomes",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "జలచర బయోమ్‌లు మంచినీటి మరియు సముద్రపు బయోమ్‌లుగా విభజించబడ్డాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Aquatic biomes are divided into freshwater and marine biomes."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T31-0090",
+   "section": {
+    "te": "Unclassified Species",
+    "en": "Unclassified Species"
+   },
+   "q": {
+    "te": "దక్షిణ అమెరికాలోని మంచినీటి చేపలలో సుమారు ఎంత శాతం ఇంకా వర్గీకరించబడలేదని అంచనా వేయబడింది?",
+    "en": "What percentage of fresh water fishes from South America are estimated to be unclassified yet?"
+   },
+   "options": {
+    "te": [
+     "50 శాతం",
+     "30 శాతం",
+     "40 శాతం",
+     "20 శాతం"
+    ],
+    "en": [
+     "50 per cent",
+     "30 per cent",
+     "40 per cent",
+     "20 per cent"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "దక్షిణ అమెరికా మంచినీటి చేపలలో సుమారు 40 శాతం ఇంకా వర్గీకరించబడలేదని వ్యాసం పేర్కొంది.",
+    "en": "An estimate that about 40 per cent of South American fresh water fishes remain unclassified."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T31-0146",
+   "section": {
+    "te": "Namami Gange Objectives",
+    "en": "Namami Gange Objectives"
+   },
+   "q": {
+    "te": "'నమామి గంగే కార్యక్రమం' యొక్క లక్ష్యాలు ఈ క్రింది వాటిలో ఏవి?\n1. పారిశ్రామిక వ్యర్థాల పర్యవేక్షణ\n2. జీవవైవిధ్యాన్ని పెంచడానికి నదీ తీరం వెంట అటవీకరణ\n3. నది ఉపరితలాన్ని శుభ్రపరచడం\n4. నదీ తీర అభివృద్ధి (River front development)",
+    "en": "Which of the following are objectives of the 'Namami Gange Programme'?\n1. Monitoring of industrial effluents\n2. Afforestation along the bank to increase biodiversity\n3. Cleaning of the river surface\n4. Development of river front"
+   },
+   "options": {
+    "te": [
+     "1, 2 మరియు 3 మాత్రమే",
+     "2, 3 మరియు 4 మాత్రమే",
+     "1 మరియు 4 మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "1, 2 and 3 only",
+     "2, 3 and 4 only",
+     "1 and 4 only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జాబితా చేయబడిన అన్ని పాయింట్లు నమామి గంగే కార్యక్రమం యొక్క లక్ష్యాలుగా పాఠ్యభాగంలో స్పష్టంగా పేర్కొనబడ్డాయి.",
+    "en": "All the listed points are explicitly mentioned in the text as objectives of the Namami Gange Programme."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T31-0046",
+   "section": {
+    "te": "Human-Environment Interaction",
+    "en": "Human-Environment Interaction"
+   },
+   "q": {
+    "te": "మైదాన ప్రాంతాల కోసం ప్రత్యేకంగా పేర్కొనబడిన స్థిరమైన పద్ధతి (Sustainable practice) క్రింది వాటిలో ఏది?",
+    "en": "Which of the following is mentioned as a sustainable practice specifically for the plains?"
+   },
+   "options": {
+    "te": [
+     "అగ్రోఫారెస్ట్రీ (Agroforestry)",
+     "ఆదిమ వేట",
+     "మాస్ టూరిజం",
+     "మెట్ల వ్యవసాయం (Terrace farming)"
+    ],
+    "en": [
+     "Agroforestry",
+     "Primitive hunting",
+     "Mass tourism",
+     "Terrace farming"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం భూగోళశాస్త్రం ఆధారంగా స్థిరమైన పద్ధతులకు ఉదాహరణలను ఇచ్చింది: కొండల కోసం మెట్ల వ్యవసాయం మరియు మైదానాల కోసం అగ్రోఫారెస్ట్రీ.",
+    "en": "The text provides examples of sustainable practices based on geography: terrace farming for hills and agroforestry for plains."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T31-0041",
+   "section": {
+    "te": "Sacred Groves Features",
+    "en": "Sacred Groves Features"
+   },
+   "q": {
+    "te": "పవిత్ర వనాలకు (Sacred Groves) సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి స్థానిక సంఘాలచే రక్షించబడే చిన్న అటవీ ప్రాంతాలు.\n2. భారతదేశం అంతటా 1,00,000 కంటే ఎక్కువ పవిత్ర వనాలు ఉన్నాయి.\n3. ఇవి తరచుగా అరుదైన మొక్కలను మరియు ఔషధ జాతులను సంరక్షిస్తాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding Sacred Groves:\n1. They are small forest patches protected by local communities.\n2. There are over 1,00,000 sacred groves across India.\n3. They often preserve rare plants and medicinal species.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, పవిత్ర వనాలు సమాజం చేత రక్షించబడే అటవీ ప్రాంతాలు, భారతదేశంలో వీటి సంఖ్య 1,00,000 కంటే ఎక్కువ, మరియు ఇవి అరుదైన మరియు ఔషధ మొక్కలకు నిలయాలుగా పనిచేస్తాయి.",
+    "en": "Sacred groves are community-protected forest patches, numbering over 1,00,000 in India, and they serve as hotspots for rare and medicinal plants."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T31-0073",
+   "section": {
+    "te": "Thermal Pollution",
+    "en": "Thermal Pollution"
+   },
+   "q": {
+    "te": "పరిశ్రమల నుండి వచ్చే వేడి నీటిని వేటికంటే ముందు జలవనరులలోకి వదిలినప్పుడు ఉష్ణ కాలుష్యం (Thermal pollution) ఏర్పడుతుంది?",
+    "en": "Thermal pollution of water occurs when hot water from factories is drained into water bodies before:"
+   },
+   "options": {
+    "te": [
+     "రీసైక్లింగ్ చేయడం",
+     "వేడి చేయడం",
+     "చల్లబరచడం",
+     "వడపోయడం"
+    ],
+    "en": [
+     "Recycling",
+     "Heating",
+     "Cooling",
+     "Filtering"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వేడి నీటిని చల్లబరచడానికి ముందే నదులు లేదా చెరువులలోకి వదిలినప్పుడు ఉష్ణ కాలుష్యం సంభవిస్తుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Thermal pollution happens when hot water is discharged into rivers or ponds before it has been cooled."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T31-0018",
+   "section": {
+    "te": "Biome categories",
+    "en": "Biome categories"
+   },
+   "q": {
+    "te": "పర్యావరణం ఆధారంగా బయోమ్‌లను ఏ రెండు విస్తృత వర్గాలుగా విభజించవచ్చు?",
+    "en": "Into which two broad categories can biomes be divided based on their environment?"
+   },
+   "options": {
+    "te": [
+     "ఉష్ణమండల మరియు ధ్రువ",
+     "గడ్డి భూమి మరియు తుండ్రా",
+     "అడవి మరియు ఎడారి",
+     "భూసంబంధిత (Terrestrial) మరియు జలసంబంధిత (Aquatic)"
+    ],
+    "en": [
+     "Tropical and Polar",
+     "Grassland and Tundra",
+     "Forest and Desert",
+     "Terrestrial and Aquatic"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "బయోమ్‌లు భూసంబంధిత (భూమి ఆధారిత) మరియు జలసంబంధిత (నీటి ఆధారిత) రకాలుగా వర్గీకరించబడ్డాయి.",
+    "en": "Biomes are categorized into terrestrial (land-based) and aquatic (water-based) types."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T31-0131",
+   "section": {
+    "te": "Water-borne Diseases",
+    "en": "Water-borne Diseases"
+   },
+   "q": {
+    "te": "ప్రపంచ ఆరోగ్య సంస్థ (WHO) ప్రకారం, భారతదేశంలోని అంటువ్యాధులలో ఎంత వంతు నీటి ద్వారా సంక్రమిస్తాయి?",
+    "en": "According to the World Health Organization (WHO), what proportion of communicable diseases in India are water-borne?"
+   },
+   "options": {
+    "te": [
+     "మూడవ వంతు (One-third)",
+     "ఐదవ వంతు (One-fifth)",
+     "సగం (One-half)",
+     "నాల్గవ వంతు (One-fourth)"
+    ],
+    "en": [
+     "One-third",
+     "One-fifth",
+     "One-half",
+     "One-fourth"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశంలోని అంటువ్యాధులలో సుమారు నాల్గవ వంతు కలుషిత నీటి వల్ల వస్తాయని WHO గణాంకాలు సూచిస్తున్నాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "WHO data indicates approximately one-fourth of communicable diseases in India are caused by contaminated water."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T31-0048",
+   "section": {
+    "te": "Population Pressure",
+    "en": "Population Pressure"
+   },
+   "q": {
+    "te": "పెరుగుతున్న జనాభా కారణంగా అడవులపై పెరుగుతున్న ఒత్తిడి వల్ల కలిగే పరిణామాలు ఏమిటి?",
+    "en": "What are the consequences of increasing pressure on forests due to a growing population?"
+   },
+   "options": {
+    "te": [
+     "మానవ-వన్యప్రాణుల సంఘర్షణ",
+     "వనరుల తరుగుదల",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Human–wildlife conflict",
+     "Depletion of resources",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "జనాభా పెరుగుదల అడవులపై ఒత్తిడిని కలిగిస్తుందని, ఇది మానవ-వన్యప్రాణుల సంఘర్షణలకు మరియు సహజ వనరుల తరుగుదలకు దారితీస్తుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Population growth puts pressure on forests, leading to both human-wildlife conflicts and the depletion of natural resources."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T31-0134",
+   "section": {
+    "te": "Water Pollution Chemicals",
+    "en": "Water Pollution Chemicals"
+   },
+   "q": {
+    "te": "ఈ క్రింది ఏ వ్యవసాయ ఉత్పాదకం ఉపరితల జలాల్లో నైట్రేట్ పరిమాణం పెరగడానికి కారణమవుతుంది?",
+    "en": "Which of the following agricultural inputs induces an increase in the nitrate content of surface waters?"
+   },
+   "options": {
+    "te": [
+     "రసాయన ఎరువులు (Fertiliser)",
+     "పురుగుమందులు (Pesticides)",
+     "కలుపు సంహారకాలు (Herbicides)",
+     "సేంద్రీయ ఎరువులు (Organic manure)"
+    ],
+    "en": [
+     "Fertiliser",
+     "Pesticides",
+     "Herbicides",
+     "Organic manure"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఉపరితల జల వనరులలో నైట్రేట్ కంటెంట్ పెరగడానికి రసాయన ఎరువులు కారణమని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Fertilisers are responsible for increasing the nitrate content in surface water bodies."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T31-0011",
+   "section": {
+    "te": "Terrestrial biomes",
+    "en": "Terrestrial biomes"
+   },
+   "q": {
+    "te": "శీతోష్ణస్థితి ఆధారంగా భూసంబంధిత బయోమ్‌ల (terrestrial biomes) నాలుగు ప్రధాన వర్గీకరణలలో క్రింది వాటిలో ఏది లేదు?",
+    "en": "Which of the following is NOT one of the four main classifications of terrestrial biomes based on climate?"
+   },
+   "options": {
+    "te": [
+     "తుండ్రా",
+     "అడవులు",
+     "జల బయోమ్‌లు (Aquatic biomes)",
+     "గడ్డి భూములు"
+    ],
+    "en": [
+     "Tundra",
+     "Forests",
+     "Aquatic biomes",
+     "Grasslands"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూసంబంధిత బయోమ్‌లలో అడవులు, గడ్డి భూములు, ఎడారులు మరియు తుండ్రా ఉన్నాయి. జల బయోమ్‌లు ఒక ప్రత్యేక వర్గం (నీటి ఆధారిత).",
+    "en": "Terrestrial biomes include forests, grasslands, deserts, and tundra. Aquatic biomes are a separate category (water-based)."
+   }
+  }
+ ]
+}

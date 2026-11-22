@@ -1,0 +1,942 @@
+{
+ "id": "geo-24-g1-1",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Urbanisation – క్విజ్ 1",
+  "en": "Urbanisation – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T24-0021",
+   "section": {
+    "te": "IT and BPO hub",
+    "en": "IT and BPO hub"
+   },
+   "q": {
+    "te": "1990ల నుండి జాతీయ రాజధాని ప్రాంతం (NCR) లో ప్రధాన ఐటీ (IT) మరియు బిపిఓ (BPO) కేంద్రంగా మారిన నగరం ఏది?",
+    "en": "Since the 1990s, which city has become a major IT and BPO hub in the National Capital Region?"
+   },
+   "options": {
+    "te": [
+     "గురుగ్రామ్",
+     "ఘజియాబాద్",
+     "ఫరీదాబాద్",
+     "మీరట్"
+    ],
+    "en": [
+     "Gurugram",
+     "Ghaziabad",
+     "Faridabad",
+     "Meerut"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "1990ల నుండి గురుగ్రామ్ ప్రధాన ఐటీ మరియు బిపిఓ కేంద్రంగా మారి అంతర్జాతీయ కంపెనీలను ఆకర్షిస్తోంది.",
+    "en": "Gurugram has emerged as a major IT and BPO hub since the 1990s."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T24-0003",
+   "section": {
+    "te": "Migration and urban pressure",
+    "en": "Migration and urban pressure"
+   },
+   "q": {
+    "te": "వలసలు మరియు పట్టణ ప్రాంతాలకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. వలసల కారణంగా ఢిల్లీ, ముంబై మరియు బెంగళూరు వంటి నగరాలు గణనీయమైన జనాభా వృద్ధిని చవిచూశాయి.\n2. పరిమిత ప్రాంతంలో అత్యధిక జనాభా కేంద్రీకృతం కావడం రవాణా మరియు గృహనిర్మాణం వంటి సేవలను ఒత్తిడికి గురిచేస్తుంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding migration and urban areas:\n1. Cities like Delhi, Mumbai, and Bengaluru have experienced significant population growth due to migration.\n2. Concentration of a very large population in a limited area strains services like transportation and housing.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "Both 1 and 2",
+     "2 only",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "రెండు ప్రకటనలూ సరైనవే. వలసల వల్ల ఢిల్లీ, ముంబై, బెంగళూరు నగరాల జనాభా పెరిగింది మరియు ఎక్కువ జనాభా వల్ల రవాణా, గృహ వసతులపై ఒత్తిడి పడుతుంది.",
+    "en": "Both statements are correct. Cities such as Delhi, Mumbai, and Bengaluru grew significantly due to migration, and high population concentrations strain transportation and housing services."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T24-0038",
+   "section": {
+    "te": "Lake Revival Methods",
+    "en": "Lake Revival Methods"
+   },
+   "q": {
+    "te": "బెంగళూరు సరస్సులను పునరుద్ధరించడానికి సంఘాలు ఈ క్రింది ఏ పద్ధతులను ఉపయోగిస్తున్నాయి?",
+    "en": "Which of the following methods are being used by communities to revive Bengaluru's lakes?"
+   },
+   "options": {
+    "te": [
+     "పూడిక తీయడం (Desilting) మరియు కట్టలను మరమ్మతు చేయడం",
+     "డ్రైనేజీ కాలువలను శుభ్రం చేయడం",
+     "స్థానిక మొక్కల జాతులను నాటడం మరియు చేపలను తిరిగి పెంచడం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Desilting and repairing bunds",
+     "Clearing drainage channels",
+     "Planting native plant species and restocking fish",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పూడిక తీయడం, కట్టల మరమ్మత్తు, కాలువలను శుభ్రం చేయడం, స్థానిక జాతులను నాటడం మరియు చేపలను తిరిగి పెంచడం వంటివి పునరుద్ధరణ పద్ధతులుగా పాఠ్యభాగం పేర్కొంది.",
+    "en": "Desilting, bund repair, clearing channels, planting native species, and restocking fish as revival methods."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T24-0087",
+   "section": {
+    "te": "Map Interpretation",
+    "en": "Map Interpretation"
+   },
+   "q": {
+    "te": "టోపోగ్రాఫికల్ షీట్ యొక్క ఇండెక్స్ నంబర్ నుండి ఏ సమాచారాన్ని పొందవచ్చు?",
+    "en": "What information can be derived from the index number of a topographical sheet?"
+   },
+   "options": {
+    "te": [
+     "ప్రాంతం యొక్క జనాభా సాంద్రత",
+     "భారతదేశంలో ఆ ప్రాంతం యొక్క స్థానం",
+     "ఆ ప్రాంతంలో పండించే నిర్దిష్ట పంటలు",
+     "స్థానిక నివాసితుల ఖచ్చితమైన పేర్లు"
+    ],
+    "en": [
+     "The population density of the area",
+     "The location of the area in India",
+     "The specific crops grown in the area",
+     "The exact names of local residents"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఇండెక్స్ నంబర్ భారతదేశంలోని ప్రాంతం యొక్క స్థానాన్ని కనుగొనడంలో సహాయపడుతుందని పాఠ్యం పేర్కొంది.",
+    "en": "The index number helps find the location of the area within India."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T24-0120",
+   "section": {
+    "te": "Modern Industrial Towns Evolution",
+    "en": "Modern Industrial Towns Evolution"
+   },
+   "q": {
+    "te": "భారతదేశంలో ఆధునిక పరిశ్రమల ఆధారంగా పట్టణాలు ఏ సంవత్సరం తర్వాత ఆవిర్భవించడం ప్రారంభించాయి?",
+    "en": "In India, towns based on modern industries began to evolve after which year?"
+   },
+   "options": {
+    "te": [
+     "1757",
+     "1850",
+     "1901",
+     "1947"
+    ],
+    "en": [
+     "1757",
+     "1850",
+     "1901",
+     "1947"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం భారతదేశంలో ఆధునిక పరిశ్రమల ఆధారిత పట్టణాలు 1850 తర్వాత అభివృద్ధి చెందాయి; ఇందుకు జంషెడ్‌పూర్ ఒక ఉదాహరణ.",
+    "en": "Towns based on modern industries evolved after 1850, with Jamshedpur cited as an example."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T24-0105",
+   "section": {
+    "te": "Compact settlements cause",
+    "en": "Compact settlements cause"
+   },
+   "q": {
+    "te": "రాజస్థాన్‌లో, క్రింది ఏ అంశం కేంద్రీకృత (కాంపాక్ట్) నివాసాలు ఏర్పడటానికి దారితీసింది?",
+    "en": "In Rajasthan, which of the following factors has necessitated the formation of compact settlements?"
+   },
+   "options": {
+    "te": [
+     "భూభాగం యొక్క విచ్ఛిన్న స్వభావం",
+     "కఠినమైన కుల ఆధారిత విభజన",
+     "దొంగతనాలు మరియు దోపిడీల నుండి రక్షణ",
+     "అందుబాటులో ఉన్న నీటి వనరులను గరిష్టంగా వినియోగించుకోవడానికి నీటి కొరత"
+    ],
+    "en": [
+     "Fragmented nature of terrain",
+     "Strict caste-based segregation",
+     "Defence against thefts and robberies",
+     "Scarcity of water for maximum utilisation of available resources"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అందుబాటులో ఉన్న నీటి వనరులను గరిష్టంగా వినియోగించుకోవడానికి నీటి కొరత కారణంగా రాజస్థాన్‌లో కేంద్రీకృత నివాసాలు ఏర్పడ్డాయి.",
+    "en": "In Rajasthan, scarcity of water has necessitated compact settlement for maximum utilisation of available water resources."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T24-0010",
+   "section": {
+    "te": "Growth factors of urban centres",
+    "en": "Growth factors of urban centres"
+   },
+   "q": {
+    "te": "చరిత్రలో అనేక ప్రాంతాలు ప్రముఖ పట్టణ కేంద్రాలుగా అభివృద్ధి చెందడానికి కింది ఏ భౌగోళిక అనుకూలతలు దోహదపడ్డాయి?",
+    "en": "Throughout history, which of the following locational advantages contributed to places growing into prominent urban centres?"
+   },
+   "options": {
+    "te": [
+     "సులభతర రవాణా సౌకర్యాన్ని అందించే నదుల సమీపంలో ఉండటం",
+     "మార్కెట్ల అభివృద్ధికి తోడ్పడే వ్యాపార మార్గాల కూడళ్లలో ఉండటం",
+     "వ్యవసాయ ఉత్పత్తులు మరియు ముడి పదార్థాలు సులభంగా లభించడం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Location near rivers affording ease of transportation",
+     "Crossroads of trade routes facilitating market development",
+     "Access to agricultural produce and raw materials",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నదుల సామీప్యత, వాణిజ్య మార్గాల కూడళ్లు మరియు ముడిసరుకుల లభ్యత నగరాలు ఆర్థిక కేంద్రాలుగా ఎదగడానికి దోహదపడ్డాయి.",
+    "en": "The source identifies proximity to rivers, crossroads of trade routes, and access to raw materials and produce as key historical factors driving the rise of urban centres."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T24-0011",
+   "section": {
+    "te": "Location of Electronic City",
+    "en": "Location of Electronic City"
+   },
+   "q": {
+    "te": "ఉపగ్రహ చిత్రాల ద్వారా పట్టణ విస్తరణ అధ్యయనానికి పాఠ్యాంశంలో ఉదహరించబడిన 'ఎలక్ట్రానిక్ సిటీ' ఏ నగరంలో ఉంది?",
+    "en": "In which city is 'Electronic City', referenced for studying urban expansion through satellite images, situated?"
+   },
+   "options": {
+    "te": [
+     "హైదరాబాద్",
+     "బెంగళూరు",
+     "గురుగ్రామ్",
+     "పుణె"
+    ],
+    "en": [
+     "Hyderabad",
+     "Bengaluru",
+     "Gurugram",
+     "Pune"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగంలో ఇచ్చిన శాటిలైట్ చిత్రాలు బెంగళూరులోని ఎలక్ట్రానిక్ సిటీకి చెందినవి.",
+    "en": "The satellite imagery in the source specifically depicts Electronic City in Bengaluru."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T24-0005",
+   "section": {
+    "te": "Urban definition thresholds",
+    "en": "Urban definition thresholds"
+   },
+   "q": {
+    "te": "ఒక ప్రాంతాన్ని 'పట్టణ' ప్రాంతంగా పరిగణించడానికి అవసరమైన కనీస జనాభా ప్రమాణాలతో సంబంధిత దేశాలను జతపరచండి:\nజాబితా-I (దేశం) : జాబితా-II (జనాభా పరిమితి)\nA. డెన్మార్క్ : 1. 50,000\nB. భారతదేశం : 2. 220\nC. జపాన్ : 3. 5,000\nసరైన సమాధానం కోడ్‌ను ఎంచుకోండి:",
+    "en": "Match the following countries with their minimum population criteria to define a place as urban:\nList-I (Country) : List-II (Population threshold)\nA. Denmark : 1. 50,000\nB. India : 2. 220\nC. Japan : 3. 5,000\nSelect the correct answer code:"
+   },
+   "options": {
+    "te": [
+     "A-1, B-3, C-2",
+     "A-2, B-3, C-1",
+     "A-3, B-2, C-1",
+     "A-2, B-1, C-3"
+    ],
+    "en": [
+     "A-1, B-3, C-2",
+     "A-2, B-3, C-1",
+     "A-3, B-2, C-1",
+     "A-2, B-1, C-3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వనరు ప్రకారం జనాభా పరిమితి డెన్మార్క్‌లో 220, భారతదేశంలో 5,000, మరియు జపాన్‌లో 50,000 దాటితే పట్టణంగా గుర్తిస్తారు.",
+    "en": "A place becomes urban if its population exceeds 220 in Denmark, 5,000 in India, and 50,000 in Japan."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T24-0066",
+   "section": {
+    "te": "Nature of Cities",
+    "en": "Nature of Cities"
+   },
+   "q": {
+    "te": "నగరాల స్వభావానికి సంబంధించి కింది ప్రకటనలను పరిగణించండి:\n1. నగరాలు కాలక్రమేణా రూపాంతరం చెందే జీవుల వంటివి.\n2. నగరాలు వినియోగం మరియు ఉత్పత్తి రెండింటికీ కేంద్రాలు.\n3. నగరాలు సంప్రదాయాలు ఆధునికతను కలిసే ప్రదేశాలు.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding the nature of cities:\n1. Cities are like living organisms that adapt and transform over time.\n2. Cities are centers of both consumption and production.\n3. Cities are spaces where traditions meet modernity.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1, 2 మరియు 3",
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే"
+    ],
+    "en": [
+     "1, 2 and 3",
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "టెక్స్ట్ నగరాలను జీవులుగా, వినియోగం మరియు ఉత్పత్తి కేంద్రాలుగా మరియు సంప్రదాయాలు ఆధునికతను కలిసే ప్రదేశాలుగా వివరిస్తుంది.",
+    "en": "The text describes cities as living organisms, centers of consumption and production, and spaces where traditions meet modernity."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T24-0041",
+   "section": {
+    "te": "Kolkata Institutions",
+    "en": "Kolkata Institutions"
+   },
+   "q": {
+    "te": "బ్రిటిష్ కాలం నాటి ఈ క్రింది ఏ సంస్థలు కోల్‌కతాలో ఉన్నాయి?",
+    "en": "Which of the following institutions from the British era are located in Kolkata?"
+   },
+   "options": {
+    "te": [
+     "ఇండియన్ మ్యూజియం",
+     "విక్టోరియా మెమోరియల్",
+     "A మరియు B రెండూ",
+     "ప్రధానమంత్రి సంగ్రహాలయ"
+    ],
+    "en": [
+     "Indian Museum",
+     "Victoria Memorial",
+     "Both A and B",
+     "Pradhanmantri Sangrahalay"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కోల్‌కతాలోని బ్రిటిష్ కాలం నాటి సంస్థలుగా ఇండియన్ మ్యూజియం మరియు విక్టోరియా మెమోరియల్ రెండింటినీ పాఠ్యభాగం పేర్కొంది.",
+    "en": "Both the Indian Museum and Victoria Memorial as British-era institutions in Kolkata."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T24-0077",
+   "section": {
+    "te": "Transport and Communication",
+    "en": "Transport and Communication"
+   },
+   "q": {
+    "te": "ఒక ప్రాంతంలోని రవాణా మరియు సమాచార సాధనాలు మరియు వాటి సాంద్రతను ఈ క్రింది ఏ అంశాలు నేరుగా ప్రభావితం చేస్తాయి?",
+    "en": "Which of the following factors directly influence the means and density of transport and communication in an area?"
+   },
+   "options": {
+    "te": [
+     "భూస్వరూపం (Relief) మరియు జనాభా",
+     "ప్రాంతం యొక్క పరిమాణం",
+     "వనరుల అభివృద్ధి నమూనా",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Relief and population",
+     "Size of the area",
+     "Resource development pattern",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూస్వరూపం, జనాభా, పరిమాణం మరియు వనరుల అభివృద్ధి నమూనా అన్నీ రవాణా మరియు సమాచార ప్రసారాన్ని నేరుగా ప్రభావితం చేస్తాయని పాఠ్యం పేర్కొంది.",
+    "en": "Relief, population, size, and resource development pattern all directly influence transport and communication."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T24-0050",
+   "section": {
+    "te": "Singapore Planning Documents",
+    "en": "Singapore Planning Documents"
+   },
+   "q": {
+    "te": "సింగపూర్‌లోని పట్టణ ప్రణాళికకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. భూ వినియోగం కోసం కాన్సెప్ట్ ప్లాన్ (Concept Plan) 40 సంవత్సరాల ముందు చూపుతో ఉంటుంది.\n2. మౌలిక సదుపాయాల అవసరాలను ప్రతిబింబించడానికి మాస్టర్ ప్లాన్ (Master Plan) ప్రతి 10 సంవత్సరాలకు ఒకసారి నవీకరించబడుతుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding urban planning in Singapore:\n1. The Concept Plan for land use looks up to 40 years ahead.\n2. The Master Plan is updated every 10 years to reflect infrastructure needs.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "కాన్సెప్ట్ ప్లాన్ 40 సంవత్సరాల ముందు చూపుతో ఉన్నందున ప్రకటన 1 సరైనది. మాస్టర్ ప్లాన్ ప్రతి 5 సంవత్సరాలకు ఒకసారి నవీకరించబడుతుంది (10 కాదు), కాబట్టి ప్రకటన 2 తప్పు.",
+    "en": "Statement 1 is correct as the Concept Plan looks 40 years ahead. Statement 2 is incorrect because the Master Plan is updated every 5 years, not 10."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T24-0037",
+   "section": {
+    "te": "Bengaluru Water Crisis Causes",
+    "en": "Bengaluru Water Crisis Causes"
+   },
+   "q": {
+    "te": "బెంగళూరులోని నీటి సంక్షోభానికి సంబంధించి ఈ క్రింది అంశాలను పరిశీలించండి:\n1. భూగర్భ జలాల మితిమీరిన వినియోగం\n2. వర్షపు నీటి నిల్వ (rainwater harvesting) లేకపోవడం\n3. సరస్సు గర్భాల ఆక్రమణ\nపైన పేర్కొన్న వాటిలో ఏ అంశాలు సంక్షోభాన్ని తీవ్రతరం చేశాయి?",
+    "en": "Consider the following factors regarding the water crisis in Bengaluru:\n1. Overuse of groundwater\n2. Lack of rainwater harvesting\n3. Encroachment of lake beds\nWhich of the above factors have worsened the crisis?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూగర్భ జలాల మితిమీరిన వినియోగం, వర్షపు నీటి సంరక్షణ లేకపోవడం మరియు ఆక్రమణలు - ఈ మూడు అంశాలు బెంగళూరులో నీటి సంక్షోభం తీవ్రతరం కావడానికి కారణాలుగా పేర్కొనబడ్డాయి.",
+    "en": "All three factors—groundwater overuse, lack of harvesting, and encroachment—are listed as causes for the worsening water crisis in Bengaluru."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T24-0028",
+   "section": {
+    "te": "Kolkata Cultural Heritage",
+    "en": "Kolkata Cultural Heritage"
+   },
+   "q": {
+    "te": "కోల్‌కతాలోని దుర్గాపూజ ఏ సంవత్సరంలో యునెస్కో (UNESCO) యొక్క 'మానవత్వం యొక్క అసంకల్పిత సాంస్కృతిక వారసత్వ' (Intangible Cultural Heritage of Humanity) జాబితాలో చేర్చబడింది?",
+    "en": "In which year was Kolkata's Durga Puja inscribed on UNESCO's list of Intangible Cultural Heritage of Humanity?"
+   },
+   "options": {
+    "te": [
+     "2022",
+     "2019",
+     "2020",
+     "2021"
+    ],
+    "en": [
+     "2022",
+     "2019",
+     "2020",
+     "2021"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "కోల్‌కతా దుర్గాపూజకు 2021 సంవత్సరంలో యునెస్కో అసంకల్పిత సాంస్కృతిక వారసత్వ హోదా లభించింది.",
+    "en": "Kolkata's Durga Puja received the UNESCO Intangible Cultural Heritage of Humanity status in the year 2021."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T24-0016",
+   "section": {
+    "te": "Early hospital in Sakchi",
+    "en": "Early hospital in Sakchi"
+   },
+   "q": {
+    "te": "ఉక్కు ఉత్పత్తి ప్రారంభం కావడానికి చాలా కాలం ముందే సాక్షి గ్రామంలో ఆసుపత్రిని నిర్మించినది ఎవరు?",
+    "en": "Who built a hospital in the village of Sakchi long before steel production began?"
+   },
+   "options": {
+    "te": [
+     "జమ్‌సెట్జీ టాటా",
+     "జె.ఆర్.డి. టాటా",
+     "రతన్ టాటా",
+     "సర్ దొరాబ్జీ టాటా"
+    ],
+    "en": [
+     "Jamsetji Tata",
+     "J.R.D. Tata",
+     "Ratan Tata",
+     "Sir Dorabji Tata"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఉక్కు ఉత్పత్తి ప్రారంభం కావడానికి ముందే సర్ దొరాబ్జీ టాటా ఆ గ్రామంలో ఒక ఆసుపత్రిని నిర్మించారు.",
+    "en": "Sir Dorabji Tata built a hospital in the village of Sakchi well before steel production started."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T24-0004",
+   "section": {
+    "te": "Urbanist quote on cities",
+    "en": "Urbanist quote on cities"
+   },
+   "q": {
+    "te": "\"నగరాలు అందరిచేత నిర్మించబడినప్పుడు మాత్రమే అవి ప్రతి ఒక్కరికీ ఏదో ఒకదాన్ని అందించే సామర్థ్యాన్ని కలిగి ఉంటాయి\" — ఈ వ్యాఖ్య చేసిన అమెరికన్ అర్బనిస్ట్ ఎవరు?",
+    "en": "\"Cities have the capability of providing something for everybody, only because, and only when, they are created by everybody.\" Who made this statement?"
+   },
+   "options": {
+    "te": [
+     "పాట్రిక్ గెడ్డెస్",
+     "జేన్ జాకబ్స్",
+     "లూయిస్ మమ్‌ఫోర్డ్",
+     "డేవిడ్ హార్వే"
+    ],
+    "en": [
+     "Patrick Geddes",
+     "Jane Jacobs",
+     "Lewis Mumford",
+     "David Harvey"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అమెరికన్ నగర ప్రణాళికా నిపుణురాలు (అర్బనిస్ట్) జేన్ జాకబ్స్ ఈ వ్యాఖ్య చేశారు.",
+    "en": "American Urbanist Jane Jacobs stated that cities have the capability of providing something for everybody only because, and only when, they are created by everybody."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T24-0052",
+   "section": {
+    "te": "Singapore Vertical Gardens",
+    "en": "Singapore Vertical Gardens"
+   },
+   "q": {
+    "te": "నిశ్చయం (A): సింగపూర్ దాని నిలువు తోటలతో (vertical gardens) కూడిన స్థిరమైన ఎత్తైన భవనాల కారణంగా 'గార్డెన్ సిటీ'గా పిలువబడుతుంది.\nకారణం (R): నిలువు తోటలు వేసవిలో వేడిని తగ్గించడంలో సహాయపడతాయి మరియు దట్టమైన పట్టణ ప్రాంతాలలో జీవవైవిధ్యానికి మద్దతు ఇస్తాయి.",
+    "en": "Assertion (A): Singapore is known as a 'garden city' due to its sustainable high-rise buildings with vertical gardens.\nReason (R): Vertical gardens help in reducing heat during summers and support biodiversity in dense urban areas."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సింగపూర్ దాని నిలువు తోటల కారణంగా 'గార్డెన్ సిటీ' అనే బిరుదును పొందింది, ఇవి వేడి తగ్గింపు మరియు జీవవైవిధ్య మద్దతు వంటి విధులను నిర్వహిస్తాయి.",
+    "en": "Singapore earned the title 'garden city' because of its vertical gardens, which serve the functional purpose of heat reduction and biodiversity support."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T24-0078",
+   "section": {
+    "te": "Rural Settlement Types",
+    "en": "Rural Settlement Types"
+   },
+   "q": {
+    "te": "నదీ లోయ, రహదారి లేదా తీరప్రాంతం వెంట విస్తరించి ఉన్న గ్రామ నివాసాలను ఏమని పిలుస్తారు?",
+    "en": "What are village settlements called when they are spread along a river valley, road, or coastline?"
+   },
+   "options": {
+    "te": [
+     "విస్తరించిన నివాసాలు (Dispersed settlements)",
+     "సమ్మేళన నివాసాలు (Compact settlements)",
+     "రేఖీయ నివాసాలు (Linear settlements)",
+     "నోడల్ నివాసాలు (Nodal settlements)"
+    ],
+    "en": [
+     "Dispersed settlements",
+     "Compact settlements",
+     "Linear settlements",
+     "Nodal settlements"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నదులు, రోడ్లు లేదా తీరప్రాంతాల వంటి లక్షణాల వెంట అమరికలను ఏర్పరిచే నివాసాలను రేఖీయ నివాసాలుగా నిర్వచించారు.",
+    "en": "Settlements that form alignments along features like rivers, roads, or coastlines are defined as linear settlements."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T24-0049",
+   "section": {
+    "te": "Jaipur Security",
+    "en": "Jaipur Security"
+   },
+   "q": {
+    "te": "భద్రతను నిర్ధారించడానికి, జైపూర్ నగరం ఎంత ఎత్తు గల గోడతో చుట్టబడింది?",
+    "en": "To ensure security, the city of Jaipur was enclosed by a wall of what height?"
+   },
+   "options": {
+    "te": [
+     "15 అడుగులు",
+     "25 అడుగులు",
+     "10 అడుగులు",
+     "20 అడుగులు"
+    ],
+    "en": [
+     "15-foot",
+     "25-foot",
+     "10-foot",
+     "20-foot"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "చారిత్రక జైపూర్ నగరం భద్రతా ప్రయోజనాల కోసం ఏడు ద్వారాలతో కూడిన 20 అడుగుల గోడతో చుట్టబడింది.",
+    "en": "The historical city of Jaipur was enclosed by a 20-foot wall with seven gates for security purposes."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T24-0079",
+   "section": {
+    "te": "Urban Settlement Patterns",
+    "en": "Urban Settlement Patterns"
+   },
+   "q": {
+    "te": "ఏ రకమైన పట్టణ నివాసంలో రోడ్లు అన్ని దిశలలో విస్తరించి (radiate) ఉంటాయి?",
+    "en": "In which type of urban settlement do the roads radiate in all directions?"
+   },
+   "options": {
+    "te": [
+     "ఫ్యాన్-షేప్డ్ టౌన్",
+     "లీనియర్ టౌన్",
+     "క్రాస్-రోడ్ టౌన్",
+     "నోడల్ టౌన్"
+    ],
+    "en": [
+     "Fan-shaped town",
+     "Linear town",
+     "Cross-road town",
+     "Nodal town"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రోడ్లు అన్ని దిశలలో విస్తరించి ఉండే పట్టణాన్ని నోడల్ టౌన్ అని పాఠ్యం నిర్వచించింది.",
+    "en": "The text defines a nodal town as one where the roads radiate in all directions."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T24-0099",
+   "section": {
+    "te": "Rural-Urban Migration Areas",
+    "en": "Rural-Urban Migration Areas"
+   },
+   "q": {
+    "te": "కింది ఏ పారిశ్రామిక ప్రాంతాలలో గ్రామీణ-పట్టణ వలసలు 'స్పష్టంగా' (conspicuous) ఉన్నాయని వర్ణించబడింది?",
+    "en": "In which of the following industrial areas is rural-urban migration described as 'conspicuous'?"
+   },
+   "options": {
+    "te": [
+     "బెంగళూరు - మైసూర్",
+     "మదురై - కోయంబత్తూర్",
+     "అహ్మదాబాద్ - సూరత్",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Bengaluru – Mysuru",
+     "Madurai – Coimbatore",
+     "Ahmedabad – Surat",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "బెంగళూరు-మైసూర్, మదురై-కోయంబత్తూర్ మరియు అహ్మదాబాద్-సూరత్ వంటి అనేక పారిశ్రామిక కారిడార్లలో గ్రామీణ-పట్టణ వలసలు ప్రముఖంగా ఉన్నాయని పాఠ్య భాగం పేర్కొంది.",
+    "en": "The text lists several industrial corridors, including Bengaluru-Mysuru, Madurai-Coimbatore, and Ahmedabad-Surat, where rural-urban migration is prominent."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T24-0140",
+   "section": {
+    "te": "Rural-urban migration share",
+    "en": "Rural-urban migration share"
+   },
+   "q": {
+    "te": "భారతదేశంలో 1961 తర్వాత పట్టణ జనాభా పెరుగుదలలో గ్రామాల నుండి నగరాలకు జరిగిన వలసల వాటా సుమారు ఎంత శాతం?",
+    "en": "In India, approximately what percentage of urban growth after 1961 has been attributed to rural to urban migration?"
+   },
+   "options": {
+    "te": [
+     "సుమారు 15 శాతం",
+     "సుమారు 55 శాతం",
+     "సుమారు 29 శాతం",
+     "సుమారు 68 శాతం"
+    ],
+    "en": [
+     "About 15 per cent",
+     "About 55 per cent",
+     "About 29 per cent",
+     "About 68 per cent"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "1961 తర్వాత భారతదేశ పట్టణ పెరుగుదలలో దాదాపు 29 శాతం గ్రామాల నుండి పట్టణాలకు జరిగిన వలసల వల్లనే అని అంచనా.",
+    "en": "In India, after 1961, about 29 per cent of urban growth has been attributed to migration from rural to urban areas."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T24-0045",
+   "section": {
+    "te": "Jaipur Architect",
+    "en": "Jaipur Architect"
+   },
+   "q": {
+    "te": "1727లో జైపూర్ నగరాన్ని రూపొందించడానికి ప్రధాన ఆర్కిటెక్ట్ మరియు అర్బన్ ప్లానర్‌గా ఎవరు నియమించబడ్డారు?",
+    "en": "Who was appointed as the chief architect and urban planner to design the city of Jaipur in 1727?"
+   },
+   "options": {
+    "te": [
+     "సవాయ్ మాన్ సింగ్",
+     "విద్యాధర్ భట్టాచార్య",
+     "మహారాజా సవాయ్ జై సింగ్ II",
+     "వాస్తు శాస్త్రం"
+    ],
+    "en": [
+     "Sawai Man Singh",
+     "Vidyadhar Bhattacharya",
+     "Maharaja Sawai Jai Singh II",
+     "Vastu Shastra"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "1727లో జైపూర్‌ను రూపొందించడానికి మహారాజా సవాయ్ జై సింగ్ II చేత విద్యాధర్ భట్టాచార్య ప్రధాన ఆర్కిటెక్ట్‌గా నియమించబడ్డారు.",
+    "en": "Vidyadhar Bhattacharya was the chief architect appointed by Maharaja Sawai Jai Singh II to design Jaipur in 1727."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T24-0036",
+   "section": {
+    "te": "Polluted Bengaluru Lakes",
+    "en": "Polluted Bengaluru Lakes"
+   },
+   "q": {
+    "te": "బెంగళూరులోని ఏ సరస్సులు నురుగుతో నిండిపోయి, మంటలు కూడా అంటుకున్నాయని ప్రత్యేకంగా పేర్కొనబడ్డాయి?",
+    "en": "Which of the following Bengaluru lakes are specifically mentioned for being covered in foam and even catching fire?"
+   },
+   "options": {
+    "te": [
+     "యలహంక మరియు బెల్లందూర్",
+     "వర్తూర్ మరియు యలహంక",
+     "బెల్లందూర్ మరియు వర్తూర్",
+     "అల్సూర్ మరియు వర్తూర్"
+    ],
+    "en": [
+     "Yelahanka and Bellandur",
+     "Varthur and Yelahanka",
+     "Bellandur and Varthur",
+     "Ulsoor and Varthur"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "బెల్లందూర్ మరియు వర్తూర్ సరస్సులు విపరీతమైన కాలుష్యానికి ఉదాహరణలుగా పేర్కొనబడ్డాయి, ఇక్కడ అవి మంటలు అంటుకుని విష వాయువులను విడుదల చేశాయి.",
+    "en": "Bellandur and Varthur lakes are cited as examples of extreme pollution where they caught fire and released toxic gases."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T24-0116",
+   "section": {
+    "te": "British Principal Nodes",
+    "en": "British Principal Nodes"
+   },
+   "q": {
+    "te": "బ్రిటిషర్లు భారతదేశంలో తమ పట్టును ఏ మూడు ప్రధాన కేంద్రాల (నోడ్స్) చుట్టూ బలోపేతం చేసుకుని, వాటిని బ్రిటిష్ శైలిలో నిర్మించారు?",
+    "en": "Around which three principal nodes did the British consolidate their hold in India and build them in the British style?"
+   },
+   "options": {
+    "te": [
+     "సూరత్, గోవా మరియు పాండిచ్చేరి",
+     "ముంబై, చెన్నై మరియు కోల్‌కతా",
+     "ఢిల్లీ, ఆగ్రా మరియు లాహోర్",
+     "కొచ్చి, కోజికోడ్ మరియు మంగళూరు"
+    ],
+    "en": [
+     "Surat, Goa, and Pondicherry",
+     "Mumbai, Chennai, and Kolkata",
+     "Delhi, Agra, and Lahore",
+     "Kochi, Kozhikode, and Mangalore"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "బ్రిటిషర్లు ముంబై, చెన్నై మరియు కోల్‌కతా అనే మూడు ప్రధాన కేంద్రాల చుట్టూ తమ పట్టును బలోపేతం చేసుకుని, వాటిని బ్రిటిష్ శైలిలో నిర్మించారు.",
+    "en": "The British consolidated their hold around three principal nodes – Mumbai (Bombay), Chennai (Madras), and Kolkata (Calcutta) – and built them in the British style."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T24-0055",
+   "section": {
+    "te": "Singapore Mixed-use Spaces",
+    "en": "Singapore Mixed-use Spaces"
+   },
+   "q": {
+    "te": "సింగపూర్ పట్టణ ప్రణాళికలో, ఇళ్లు, కార్యాలయాలు మరియు వినోద ప్రదేశాలు సమీపంలో ఉండే ప్రాంతాలకు ఏ పదాన్ని ఉపయోగిస్తారు?",
+    "en": "In Singapore's urban planning, what term is used for areas where homes, offices, and recreational spaces exist nearby?"
+   },
+   "options": {
+    "te": [
+     "మిశ్రమ వినియోగ ప్రదేశాలు (mixed-use spaces)",
+     "చౌక్రీలు",
+     "నిలువు తోటలు",
+     "బ్లూ జోన్‌లు"
+    ],
+    "en": [
+     "Mixed-use spaces",
+     "Chowkris",
+     "Vertical gardens",
+     "Blue zones"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నివాస, వాణిజ్య మరియు వినోద ప్రాంతాలు ఒకదానికొకటి దగ్గరగా ఉండేలా చూడటానికి సింగపూర్ మిశ్రమ వినియోగ ప్రదేశాలను ప్రోత్సహిస్తుంది.",
+    "en": "Singapore promotes mixed-use spaces to ensure that residential, commercial, and recreational areas are located close to each other."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T24-0103",
+   "section": {
+    "te": "Factors influencing settlements",
+    "en": "Factors influencing settlements"
+   },
+   "q": {
+    "te": "భారతదేశంలో వివిధ రకాల గ్రామీణ నివాసాలు ఏర్పడటానికి దోహదపడే క్రింది అంశాలను పరిశీలించండి:\n1. భూభాగ స్వభావం, ఎత్తు, వాతావరణం మరియు నీటి లభ్యత వంటి భౌతిక లక్షణాలు\n2. సామాజిక నిర్మాణం, కులం మరియు మతం వంటి సాంస్కృతిక, జాతిపరమైన అంశాలు\n3. దొంగతనాలు మరియు దోపిడీల నుండి రక్షణ వంటి భద్రతా అంశాలు\nపై పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following factors responsible for the diverse types of rural settlements in India:\n1. Physical features like nature of terrain, altitude, climate, and water availability\n2. Cultural and ethnic factors like social structure, caste, and religion\n3. Security factors such as defence against thefts and robberies\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భౌతిక లక్షణాలు, సాంస్కృతిక-జాతిపరమైన అంశాలు మరియు భద్రతా అంశాలు అనే మూడు అంశాలూ గ్రామీణ నివాసాల రకాలకు కారణమని పాఠ్యాంశంలో స్పష్టంగా పేర్కొనబడింది.",
+    "en": "All three factors—physical features, cultural and ethnic factors, and security factors—are cited in the text as responsible for having different types of rural settlements."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T24-0117",
+   "section": {
+    "te": "1991 Census Urban Definition",
+    "en": "1991 Census Urban Definition"
+   },
+   "q": {
+    "te": "భారత జనాభా లెక్కలు 1991 ప్రకారం, పట్టణ నివాసాన్ని (అర్బన్ సెటిల్‌మెంట్) నిర్వచించే కింది జనాభా మరియు ఆర్థిక ప్రమాణాలను పరిశీలించండి:\n1. కనీసం 5,000 మంది జనాభా ఉండాలి.\n2. కనీసం 75 శాతం మంది పురుష కార్మికులు వ్యవసాయేతర పనులలో నిమగ్నమై ఉండాలి.\n3. చదరపు కిలోమీటరుకు కనీసం 400 మంది జనాభా సాంద్రత ఉండాలి.\nపై ప్రమాణాలలో ఏవి సరైనవి?",
+    "en": "According to the Census of India 1991, consider the following demographic and economic criteria to define an urban settlement:\n1. A minimum population of 5,000 persons.\n2. At least 75 per cent of male workers engaged in non-agricultural pursuits.\n3. A population density of at least 400 persons per square kilometre.\nWhich of the criteria given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "1991 జనాభా లెక్కల ప్రకారం కనీసం 5,000 జనాభా, 75% పురుష కార్మికులు వ్యవసాయేతర రంగాలలో ఉండటం మరియు కనీసం చదరపు కి.మీ.కు 400 మంది సాంద్రత ఉండటం అనే మూడు ప్రమాణాలు సరైనవి.",
+    "en": "The 1991 Census definition requires a minimum population of 5,000, at least 75% of male workers in non-agricultural pursuits, and a density of at least 400 persons per sq km."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T24-0002",
+   "section": {
+    "te": "Push factors of migration",
+    "en": "Push factors of migration"
+   },
+   "q": {
+    "te": "కింది వాటిలో ఏ అంశాలు ఒక ప్రాంతం నుండి ప్రజలు వలస వెళ్ళేలా పురికొల్పుతాయి (పుష్ చేస్తాయి)?",
+    "en": "Which of the following factors can push people to migrate from an area?"
+   },
+   "options": {
+    "te": [
+     "సహజ విపత్తులు",
+     "రాజకీయ అస్థిరత",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Natural disasters",
+     "Political instability",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వనరు ప్రకారం, ఒక ప్రాంతంలోని సహజ విపత్తులు మరియు రాజకీయ అస్థిరత ప్రజలు వలస వెళ్ళేలా చేయగలవు.",
+    "en": "Natural disasters and political instability in an area can push people to migrate."
+   }
+  }
+ ]
+}

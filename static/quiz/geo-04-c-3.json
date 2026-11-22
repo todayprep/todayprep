@@ -1,0 +1,942 @@
+{
+ "id": "geo-04-c-3",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Landforms – క్విజ్ 3",
+  "en": "Landforms – Quiz 3"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T04-0205",
+   "section": {
+    "te": "Lapies formation",
+    "en": "Lapies formation"
+   },
+   "q": {
+    "te": "కార్స్ట్ ప్రాంతాలలో, గట్లు లేదా లాపీస్ (lapies) ప్రధానంగా దేని వలన ఏర్పడతాయి?",
+    "en": "In karst regions, ridges or lapies are formed primarily due to which of the following?"
+   },
+   "options": {
+    "te": [
+     "శైథిల్యం చెందని రాళ్లపై హిమానీనద ప్లక్కింగ్ వలన",
+     "పుటాకార ఒడ్డు వెంట నదీ కోత వలన",
+     "సమాంతర మరియు ఉప-సమాంతర కీళ్ల వెంబడి జరిగే అవకలన ద్రావణ చర్య వలన",
+     "గుహలలో కారే నీటి నుండి కాల్షియం కార్బోనేట్ నిక్షేపణ వలన"
+    ],
+    "en": [
+     "Glacial plucking of un-weathered rocks",
+     "Stream undercutting along concave banks",
+     "Differential solution activity along parallel to sub-parallel joints",
+     "Deposition of calcium carbonate from dripping cave water"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సమాంతర మరియు ఉప-సమాంతర కీళ్ల (joints) వెంబడి జరిగే అవకలన ద్రావణ చర్య (differential solution activity) కారణంగా లాపీలు ఏర్పడతాయి.",
+    "en": "Ridges or lapies form due to differential solution activity along parallel to sub-parallel joints in limestone."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T04-0180",
+   "section": {
+    "te": "Alluvial fan climatic shapes",
+    "en": "Alluvial fan climatic shapes"
+   },
+   "q": {
+    "te": "వివిధ శీతోష్ణస్థితులలో ఒండలి విసనకర్రల (Alluvial fans) ఆకారం మరియు వాలుకు సంబంధించి క్రింది వాటిలో ఏది/వి సరైనది/వి?\nA. తేమతో కూడిన ప్రాంతాలలో, ఇవి సాధారణంగా సున్నితమైన వాలుతో తక్కువ ఎత్తు గల శంకువులుగా ఉంటాయి\nB. శుష్క మరియు పాక్షిక శుష్క శీతోష్ణస్థితులలో, ఇవి నిటారైన వాలుతో ఎత్తైన శంకువులుగా కనిపిస్తాయి",
+    "en": "Regarding the shape and slope of alluvial fans under different climates, which of the following statements is/are correct?\nA. In humid areas, they normally show low cones with gentle slopes from head to toe\nB. In arid and semi-arid climates, they appear as high cones with steep slopes"
+   },
+   "options": {
+    "te": [
+     "ప్రకటన A మాత్రమే",
+     "ప్రకటన B మాత్రమే",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Statement A only",
+     "Statement B only",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "తేమతో కూడిన ప్రాంతాలలో ఒండలి విసనకర్రలు తక్కువ ఎత్తుతో సున్నితమైన వాలును కలిగి ఉంటాయి, అలాగే శుష్క/పాక్షిక శుష్క ప్రాంతాలలో నిటారైన వాలుతో ఎత్తైన శంకువులుగా ఏర్పడతాయి.",
+    "en": "Alluvial fans in humid areas form low cones with gentle slopes, while in arid and semi-arid areas they form high cones with steep slopes."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T04-0181",
+   "section": {
+    "te": "Delta deposits sorting",
+    "en": "Delta deposits sorting"
+   },
+   "q": {
+    "te": "ఒండలి విసనకర్రలతో పోలిస్తే, డెల్టాలను ఏర్పరిచే నిక్షేపాల ప్రధాన విశిష్ట లక్షణం ఏమిటి?",
+    "en": "Unlike alluvial fans, the deposits making up deltas are characterized by being:"
+   },
+   "options": {
+    "te": [
+     "ఎటువంటి పొరలు లేదా స్తరీకరణ లేకుండా మిశ్రమంగా ఉండటం",
+     "స్పష్టమైన స్తరీకరణతో చక్కగా వర్గీకరించబడి (sorted) ఉండటం",
+     "కేవలం గులకరాయి శంకువులను మాత్రమే కలిగి ఉండటం",
+     "భారీ బండరాళ్లతో కూడి ఎటువంటి విభజన లేకపోవడం"
+    ],
+    "en": [
+     "Mixed without any layering or stratification",
+     "Very well sorted with clear stratification",
+     "Dominated solely by gravel cones",
+     "Completely unsorted with coarse boulders"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఒండలి విసనకర్రల వలె కాకుండా, డెల్టాలను ఏర్పరిచే నిక్షేపాలు స్పష్టమైన పొరలతో (stratification) చక్కగా వర్గీకరించబడి ఉంటాయి.",
+    "en": "Deposits making up deltas are very well sorted with clear stratification, unlike the unstratified and less sorted deposits of alluvial fans."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T04-0059",
+   "section": {
+    "te": "Earth Layers",
+    "en": "Earth Layers"
+   },
+   "q": {
+    "te": "శిలావరణం క్రింద ఉండి, టెక్టోనిక్ ఫలకలు కదలడానికి అనుమతించే పాక్షిక ద్రవ రూప (semi-molten) పొర ఏది?",
+    "en": "Which semi-molten layer lies beneath the lithosphere and allows tectonic plates to move?"
+   },
+   "options": {
+    "te": [
+     "భూపటలం",
+     "అంతర భూకేంద్ర మండలం",
+     "దుర్బలావరణం (Asthenosphere)",
+     "బాహ్య భూకేంద్ర మండలం"
+    ],
+    "en": [
+     "Crust",
+     "Inner Core",
+     "Asthenosphere",
+     "Outer Core"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "దుర్బలావరణం (Asthenosphere) అనేది శిలావరణం క్రింద ఉన్న పాక్షిక ద్రవ రూప పొర, ఇది ఫలకల కదలికకు సహాయపడుతుంది.",
+    "en": "The asthenosphere is the semi-molten layer located below the lithosphere that facilitates plate movement."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T04-0174",
+   "section": {
+    "te": "Entrenched meanders",
+    "en": "Entrenched meanders"
+   },
+   "q": {
+    "te": "కఠినమైన శిలలలో లోతుగా మరియు వెడల్పుగా కోయబడిన నదీ వంపులను ఏమని పిలుస్తారు?",
+    "en": "Very deep and wide meanders that are cut into hard rocks are referred to as:"
+   },
+   "options": {
+    "te": [
+     "పాయింట్ బార్లు",
+     "గుర్రపునాడా సరస్సులు (Oxbow lakes)",
+     "డెల్టా పాయలు",
+     "లోతుగా కోసుకుపోయిన లేదా స్థిరపడిన వంపులు (Incised or entrenched meanders)"
+    ],
+    "en": [
+     "Point bars",
+     "Oxbow lakes",
+     "Delta distributaries",
+     "Incised or entrenched meanders"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "కఠిన శిలలలో లోతుగా ఏర్పడిన విస్తారమైన నదీ వంపులను ఇన్‌సైజ్డ్ లేదా ఎంట్రెంచ్డ్ మియాండర్లు అని పిలుస్తారు.",
+    "en": "While meanders normally form on gentle plains, very deep and wide meanders cut into hard rocks are called incised or entrenched meanders."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T04-0208",
+   "section": {
+    "te": "Cave formation path",
+    "en": "Cave formation path"
+   },
+   "q": {
+    "te": "దట్టమైన సున్నపురాయి పొరలలో గుహలు ఏర్పడటానికి నీరు క్షితిజ సమాంతరంగా వేటి వెంబడి ప్రవహిస్తూ రాయిని కరిగిస్తుంది?",
+    "en": "In thick limestone formations, water dissolves rock to form caves by moving horizontally along:"
+   },
+   "options": {
+    "te": [
+     "రంపం వంటి గట్లు",
+     "సంస్తర తలాలు (Bedding planes)",
+     "మొరైన్ రేఖలు",
+     "అవుట్‌వాష్ మైదానాలు"
+    ],
+    "en": [
+     "Serrated ridges",
+     "Bedding planes",
+     "Moraine lines",
+     "Outwash plains"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "నీరు బీటలు మరియు కీళ్ల ద్వారా క్రిందికి చేరి, సంస్తర తలాల (bedding planes) వెంబడి సమాంతరంగా కదులుతూ గుహలను ఏర్పరుస్తుంది.",
+    "en": "Water percolates down through cracks and joints and moves horizontally along bedding planes, dissolving the limestone to form caves."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T04-0198",
+   "section": {
+    "te": "Sinkhole shape",
+    "en": "Sinkhole shape"
+   },
+   "q": {
+    "te": "కార్స్ట్ ప్రాంతాలలో కనిపించే సింక్‌హోల్ (sinkhole) యొక్క సాధారణ ఆకృతి ఏమిటి?",
+    "en": "In karst areas, a sinkhole is typically characterised by being:"
+   },
+   "options": {
+    "te": [
+     "పైభాగంలో త్రిభుజాకారంగా మరియు అడుగుభాగంలో మెట్లలా ఉంటుంది",
+     "పైభాగంలో దాదాపు వృత్తాకారంగా మరియు అడుగుభాగం వైపు గరాటు ఆకారంలో ఉంటుంది",
+     "పైభాగంలో చతురస్రాకారంగా మరియు దిగువన చదునుగా ఉంటుంది",
+     "పైభాగంలో ఇరుకుగా మరియు దిగువన గుమ్మటంలా ఉంటుంది"
+    ],
+    "en": [
+     "Triangular at the top and step-like at the bottom",
+     "More or less circular at the top and funnel-shaped towards the bottom",
+     "Square at the top and flat at the bottom",
+     "Narrow at the top and dome-shaped at the bottom"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సింక్‌హోల్ పైభాగంలో దాదాపు వృత్తాకారంగా ఉంటూ, అడుగుభాగం వైపు గరాటు (funnel) ఆకారంలో విస్తరించి ఉంటుంది.",
+    "en": "A sinkhole is described as an opening that is more or less circular at the top and funnel-shaped towards the bottom."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T04-0284",
+   "section": {
+    "te": "Denudation Components",
+    "en": "Denudation Components"
+   },
+   "q": {
+    "te": "సాధారణంగా 'వికోషీకరణం' (denudation) అనే పదం కింద ఈ క్రింది ఏ ప్రక్రియలు చేర్చబడ్డాయి?",
+    "en": "Which of the following processes are included under the general term 'denudation'?"
+   },
+   "options": {
+    "te": [
+     "శైథిల్యం మరియు ద్రవ్యరాశి వృధా మాత్రమే",
+     "క్రమక్షయం మరియు రవాణా మాత్రమే",
+     "శైథిల్యం, ద్రవ్యరాశి వృధా, క్రమక్షయం మరియు రవాణా",
+     "అగ్నిపర్వత ప్రక్రియ మరియు టెక్టోనిక్ కదలికలు"
+    ],
+    "en": [
+     "Weathering and mass wasting only",
+     "Erosion and transportation only",
+     "Weathering, mass wasting, erosion and transportation",
+     "Volcanism and tectonic movements"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, వికోషీకరణం అనేది శైథిల్యం, ద్రవ్యరాశి వృధా/కదలికలు, క్రమక్షయం మరియు రవాణాను కవర్ చేసే ఒక సాధారణ పదం.",
+    "en": "Denudation is a general term that covers weathering, mass wasting/movements, erosion, and transportation."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T04-0004",
+   "section": {
+    "te": "Hills vs Mountains",
+    "en": "Hills vs Mountains"
+   },
+   "q": {
+    "te": "తక్కువ ఎత్తు, తక్కువ నిటారుగా ఉండే వాలులు మరియు గుండ్రని శిఖరాలు కలిగిన ఎత్తైన ప్రాంతాలను ఏమని పిలుస్తారు?",
+    "en": "Highlands that have a lower height, less steep slopes, and rounded tops are specifically called:"
+   },
+   "options": {
+    "te": [
+     "మైదానాలు",
+     "శిఖరాలు",
+     "కొండలు (Hills)",
+     "పీఠభూములు"
+    ],
+    "en": [
+     "Plains",
+     "Summits",
+     "Hills",
+     "Plateaus"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "తక్కువ ఎత్తు, తక్కువ వాలు మరియు గుండ్రని పైభాగం కలిగిన ఎత్తైన ప్రాంతాలను కొండలు అని పిలుస్తారు.",
+    "en": "The text distinguishes hills from mountains by their lower height, less steep slopes, and rounded tops."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T04-0186",
+   "section": {
+    "te": "Natural levees features",
+    "en": "Natural levees features"
+   },
+   "q": {
+    "te": "పెద్ద నదుల ఒడ్డున ముతక నిక్షేపాలతో ఏర్పడే తక్కువ ఎత్తుగల, సమాంతర రేఖీయ గట్లను ఏమని పిలుస్తారు?",
+    "en": "Low, linear and parallel ridges of coarse deposits found along the banks of large rivers are known as:"
+   },
+   "options": {
+    "te": [
+     "నదీ వేదికలు",
+     "పాయింట్ బార్లు",
+     "సహజ కరకట్టలు (నేచురల్ లెవీస్)",
+     "ఒండలి విసనకర్రలు"
+    ],
+    "en": [
+     "River terraces",
+     "Point bars",
+     "Natural levees",
+     "Alluvial fans"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పెద్ద నదుల ఒడ్డున ముతక నిక్షేపాలతో సమాంతరంగా ఏర్పడే పొడవైన గట్లను సహజ కరకట్టలు (నేచురల్ లెవీస్) అంటారు.",
+    "en": "Natural levees are low, linear and parallel ridges composed of coarse deposits found along the banks of large rivers."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T04-0072",
+   "section": {
+    "te": "River upper course",
+    "en": "River upper course"
+   },
+   "q": {
+    "te": "నది తన ఎగువ భాగంలో (upper course) సాధారణంగా క్రింది ఏ భూస్వరూపాలను ఏర్పరుస్తుంది?\n1. V-ఆకారపు లోయలు\n2. రాపిడ్స్ (Rapids)\n3. డెల్టాలు\nక్రింద ఇచ్చిన కోడ్‌ని ఉపయోగించి సరైన సమాధానాన్ని ఎంచుకోండి:",
+    "en": "Which of the following landforms are typically formed by a river at its upper course?\n1. V-shaped valleys\n2. Rapids\n3. Deltas\nSelect the correct answer using the code given below:"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నది తన ఎగువ భాగంలో నిటారైన వాలు మరియు తీవ్రమైన కోత కారణంగా V-ఆకారపు లోయలు, జలపాతాలు మరియు రాపిడ్స్‌లను ఏర్పరుస్తుంది, కాగా డెల్టాలు దిగువ భాగంలో ఏర్పడతాయి.",
+    "en": "In its upper course, a river forms V-shaped valleys, waterfalls, and rapids due to steep slopes and intense erosion, while deltas are formed in its lower course."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T04-0140",
+   "section": {
+    "te": "Enrichment concept",
+    "en": "Enrichment concept"
+   },
+   "q": {
+    "te": "లీచింగ్ (leaching) ద్వారా కొన్ని పదార్థాలు తొలగించబడి, మిగిలిన విలువైన ఖనిజాల సాంద్రత పెరిగే దృగ్విషయాన్ని ఏమంటారు?",
+    "en": "The phenomenon where leaching removes certain materials, thereby increasing the concentration of remaining valuable minerals to economically viable levels, is termed:"
+   },
+   "options": {
+    "te": [
+     "సుసంపన్నం కావడం (Enrichment)",
+     "కార్బోనేషన్",
+     "ఎక్స్‌ఫోలియేషన్",
+     "జలీకరణం (Hydration)"
+    ],
+    "en": [
+     "Enrichment",
+     "Carbonation",
+     "Exfoliation",
+     "Hydration"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూగర్భ జలాల లీచింగ్ ద్వారా ఇతర పదార్థాలు తొలగింపబడి, విలువైన ఖనిజాల గాఢత పెరగడాన్ని 'ఎన్‌రిచ్‌మెంట్' (Enrichment) అంటారు.",
+    "en": "Enrichment occurs when leaching removes some materials, increasing the concentration of remaining valuable materials."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T04-0189",
+   "section": {
+    "te": "Meander bank dynamics",
+    "en": "Meander bank dynamics"
+   },
+   "q": {
+    "te": "పెద్ద నదులలోని మియాండర్ల (వంకరల) ప్రక్రియకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. కుంభాకార (కాన్వెక్స్) గట్టు వెంట చురుకైన నిక్షేపణ జరుగుతుంది.\n2. పుటాకార (కాన్‌కేవ్) గట్టు వెంట కోత (అండర్‌కటింగ్) జరుగుతుంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the dynamics of meanders in large rivers:\n1. Active deposition takes place along the convex bank.\n2. Undercutting and erosion take place along the concave bank.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నదీ మియాండర్లలో కుంభాకార ఒడ్డున నిక్షేపణ జరుగుతుంది మరియు పుటాకార ఒడ్డున తీవ్రమైన కోత జరుగుతుంది.",
+    "en": "In meanders of large rivers, there is active deposition along the convex bank while undercutting (erosion) occurs along the concave bank."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T04-0122",
+   "section": {
+    "te": "Exogenic Processes",
+    "en": "Exogenic Processes"
+   },
+   "q": {
+    "te": "ఈ క్రింది వాటిలో ఏది బహిర్జనిత భూస్వరూప ప్రక్రియగా (exogenic geomorphic process) వర్గీకరించబడలేదు?",
+    "en": "Which of the following is NOT classified as an exogenic geomorphic process?"
+   },
+   "options": {
+    "te": [
+     "శైథిల్యం (Weathering)",
+     "నిక్షేపణ (Deposition)",
+     "అగ్నిపర్వత ప్రక్రియ (Volcanism)",
+     "ద్రవ్యరాశి వృధా (Mass wasting)"
+    ],
+    "en": [
+     "Weathering",
+     "Deposition",
+     "Volcanism",
+     "Mass wasting"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అగ్నిపర్వత ప్రక్రియ అనేది అంతర్జనిత ప్రక్రియ, కాగా శైథిల్యం, ద్రవ్యరాశి వృధా మరియు నిక్షేపణలు బహిర్జనిత ప్రక్రియలు.",
+    "en": "Volcanism is an endogenic process, while weathering, mass wasting, and deposition are exogenic processes."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T04-0005",
+   "section": {
+    "te": "Mountain Ranges",
+    "en": "Mountain Ranges"
+   },
+   "q": {
+    "te": "పర్వత శ్రేణులను వాటి ఖండాలతో జతపరచండి:\n1. హిమాలయాలు - i. యూరప్\n2. ఆల్ప్స్ - ii. దక్షిణ అమెరికా\n3. ఆండీస్ - iii. ఆసియా",
+    "en": "Match the mountain ranges with their respective continents:\n1. Himalayas - i. Europe\n2. Alps - ii. South America\n3. Andes - iii. Asia"
+   },
+   "options": {
+    "te": [
+     "1-iii, 2-i, 3-ii",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-ii, 3-i",
+     "1-ii, 2-i, 3-iii"
+    ],
+    "en": [
+     "1-iii, 2-i, 3-ii",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-ii, 3-i",
+     "1-ii, 2-i, 3-iii"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "హిమాలయాలు ఆసియాలో, ఆల్ప్స్ యూరప్‌లో మరియు ఆండీస్ దక్షిణ అమెరికాలో ఉన్నాయి.",
+    "en": "The Himalayas are in Asia, the Alps are in Europe, and the Andes are in South America."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T04-0131",
+   "section": {
+    "te": "Exogenic Processes",
+    "en": "Exogenic Processes"
+   },
+   "q": {
+    "te": "సాధారణ పరంగా, బహిర్జనిత ప్రక్రియలు (exogenic processes) ప్రధానంగా:",
+    "en": "In general terms, exogenic processes are mainly:"
+   },
+   "options": {
+    "te": [
+     "భూమిని నిర్మించే శక్తులు",
+     "టెక్టోనిక్ శక్తులు",
+     "భూమిని క్షీణింపజేసే శక్తులు (Land wearing forces)",
+     "అగ్నిపర్వత శక్తులు"
+    ],
+    "en": [
+     "Land building forces",
+     "Tectonic forces",
+     "Land wearing forces",
+     "Volcanic forces"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "బహిర్జనిత ప్రక్రియలు భూమి ఉపరితల వ్యత్యాసాలను తగ్గించే లేదా క్షీణింపజేసే శక్తులుగా వర్ణించబడ్డాయి.",
+    "en": "Exogenic processes are described as land wearing forces that even out relief variations."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T04-0173",
+   "section": {
+    "te": "Youth stage stream divides",
+    "en": "Youth stage stream divides"
+   },
+   "q": {
+    "te": "ప్రవహించే నీటి ద్వారా భూస్వరూప పరిణామంలో తారుణ్య దశ (youth stage) లో జలవిభాజకాల లక్షణం క్రింది వాటిలో ఏది?",
+    "en": "During the youth stage of running water landscapes, which of the following is a characteristic feature of stream divides?"
+   },
+   "options": {
+    "te": [
+     "విస్తృతమైన వరద మైదానాల వల్ల అవి అసలు ఉండవు",
+     "అవి పూర్తిగా పెనెప్లెయిన్‌గా చదును చేయబడతాయి",
+     "అవి ఇరుకైన మరియు పదునైన కత్తి అంచు వంటి గట్లుగా ఉంటాయి",
+     "అవి చిత్తడి నేలలు, బురద ప్రాంతాలు మరియు సరస్సులతో వెడల్పుగా మరియు చదునుగా ఉంటాయి"
+    ],
+    "en": [
+     "They are absent due to extensive floodplains",
+     "They are almost completely flattened into a peneplain",
+     "They are narrow and sharp knife-edge ridges",
+     "They are broad and flat with marshes, swamps and lakes"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "తారుణ్య దశలో జలవిభాజకాలు వెడల్పుగా, చదునుగా ఉండి చిత్తడి నేలలు, సరస్సులతో కూడి ఉంటాయి.",
+    "en": "In the youthful stage of landform evolution, stream divides are broad and flat with marshes, swamps, and lakes."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T04-0012",
+   "section": {
+    "te": "Bachendri Pal",
+    "en": "Bachendri Pal"
+   },
+   "q": {
+    "te": "బచేంద్రి పాల్ గురించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. మౌంట్ ఎవరెస్ట్ అధిరోహించిన మొదటి భారతీయ మహిళ ఆమె.\n2. ఆమె 1984లో మౌంట్ ఎవరెస్ట్ అధిరోహించారు.\n3. ఆమెకు 1984లో పద్మశ్రీ మరియు 2019లో పద్మభూషణ్ లభించాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements about Bachendri Pal:\n1. She was the first Indian woman to climb Mount Everest.\n2. She climbed Mount Everest in 1984.\n3. She was awarded Padma Shri in 1984 and Padma Bhushan in 2019.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "బచేంద్రి పాల్ 1984లో ఎవరెస్ట్‌ను అధిరోహించిన మొదటి భారతీయ మహిళ. ఆమెకు 1984లో పద్మశ్రీ, 2019లో పద్మభూషణ్ లభించాయి.",
+    "en": "Bachendri Pal climbed Everest in 1984, becoming the first Indian woman to do so, and received Padma Shri in 1984 and Padma Bhushan in 2019."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T04-0030",
+   "section": {
+    "te": "Nohkalikai Falls Location",
+    "en": "Nohkalikai Falls Location"
+   },
+   "q": {
+    "te": "340 మీటర్ల ఎత్తు నుండి కిందకు దూకే నోహ్కలికై జలపాతం ఏ పీఠభూమి నుండి జాలువారుతుంది?",
+    "en": "The Nohkalikai Falls, which plunge 340 metres, drop down from which plateau?"
+   },
+   "options": {
+    "te": [
+     "ఛోటానాగ్‌పూర్ పీఠభూమి",
+     "చిరపుంజి పీఠభూమి",
+     "మాల్వా పీఠభూమి",
+     "దక్కన్ పీఠభూమి"
+    ],
+    "en": [
+     "Chhota Nagpur Plateau",
+     "Cherrapunji Plateau",
+     "Malwa Plateau",
+     "Deccan Plateau"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "నోహ్కలికై జలపాతం మేఘాలయలోని చిరపుంజి పీఠభూమి నుండి 340 మీటర్ల ఎత్తు నుండి క్రిందికి పడుతుంది.",
+    "en": "The Nohkalikai Falls drop down 340 metres from the Cherrapunji Plateau in Meghalaya."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T04-0242",
+   "section": {
+    "te": "Off-shore Bar",
+    "en": "Off-shore Bar"
+   },
+   "q": {
+    "te": "తీరానికి దాదాపు సమాంతరంగా సముద్రపు బహిర్గత (ఆఫ్-షోర్) మండలంలో ఏర్పడే ఇసుక మరియు గులకరాళ్ళ గట్టును ఏమని పిలుస్తారు?",
+    "en": "A ridge of sand and shingle formed in the sea in the off-shore zone lying approximately parallel to the coast is called an:"
+   },
+   "options": {
+    "te": [
+     "తరంగ కోత వేదిక",
+     "ఆఫ్-షోర్ బార్ (తీర బాహ్య గట్టు)",
+     "సముద్ర గుహ",
+     "ఒండలి శంకువు"
+    ],
+    "en": [
+     "Wave-cut terrace",
+     "Off-shore bar",
+     "Sea cave",
+     "Alluvial cone"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "తీరానికి సమాంతరంగా సముద్రపు ఆఫ్-షోర్ ప్రాంతంలో ఏర్పడిన ఇసుక మరియు గులకరాళ్ళ వరుసను ఆఫ్-షోర్ బార్ అంటారు.",
+    "en": "An off-shore bar is defined as a ridge of sand and shingle formed in the off-shore zone lying approximately parallel to the coast."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T04-0031",
+   "section": {
+    "te": "Plains Altitude Limit",
+    "en": "Plains Altitude Limit"
+   },
+   "q": {
+    "te": "మైదానాలు సాధారణంగా సముద్ర మట్టానికి ఎన్ని మీటర్ల కంటే ఎక్కువ ఎత్తులో ఉండవు?",
+    "en": "Plains are extensive flat landforms that are generally NOT more than how many metres above sea level?"
+   },
+   "options": {
+    "te": [
+     "150 మీటర్లు",
+     "300 మీటర్లు",
+     "800 మీటర్లు",
+     "500 మీటర్లు"
+    ],
+    "en": [
+     "150 metres",
+     "300 metres",
+     "800 metres",
+     "500 metres"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, మైదానాలు సాధారణంగా సముద్ర మట్టం నుండి 300 మీటర్ల కంటే ఎక్కువ ఎత్తులో ఉండవు.",
+    "en": "Plains are generally not more than 300 metres above sea level."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T04-0138",
+   "section": {
+    "te": "Exfoliation nature",
+    "en": "Exfoliation nature"
+   },
+   "q": {
+    "te": "శైథిల్యానికి సంబంధించి, 'ఎక్స్‌ఫోలియేషన్' (పొరలు ఊడిపోవడం) గురించి క్రింది వాటిలో ఏది సరైనది?",
+    "en": "With reference to weathering, which of the following statements is correct regarding 'exfoliation'?"
+   },
+   "options": {
+    "te": [
+     "ఎక్స్‌ఫోలియేషన్ కేవలం జీవుల కార్యకలాపాల వల్ల మాత్రమే జరుగుతుంది",
+     "ఎక్స్‌ఫోలియేషన్ అనేది రవాణా ప్రక్రియతో సమానమైనది",
+     "ఎక్స్‌ఫోలియేషన్ అనేది ఒక ఫలితమే తప్ప ప్రక్రియ కాదు",
+     "ఎక్స్‌ఫోలియేషన్ అనేది ఫలితం కాదు, ఒక రసాయన శైథిల్య ప్రక్రియ"
+    ],
+    "en": [
+     "Exfoliation occurs exclusively due to biological organisms",
+     "Exfoliation is synonymous with transportation",
+     "Exfoliation is a result but not a process",
+     "Exfoliation is a chemical weathering process rather than a result"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఎక్స్‌ఫోలియేషన్ అనేది వివిధ భౌతిక శైథిల్య చర్యల వల్ల ఏర్పడే ఫలితమే తప్ప, అది స్వయంగా ఒక ప్రక్రియ కాదు.",
+    "en": "Exfoliation is an outcome or result, not a process itself."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T04-0003",
+   "section": {
+    "te": "Mountain Characteristics",
+    "en": "Mountain Characteristics"
+   },
+   "q": {
+    "te": "పర్వతాలకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి వెడల్పైన పునాదిని (base) కలిగి ఉంటాయి.\n2. ఇవి నిటారుగా ఉండే వాలులను (steep slopes) కలిగి ఉంటాయి.\n3. ఇవి ఇరుకైన శిఖరాన్ని (summit) కలిగి ఉంటాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding mountains:\n1. They have a broad base.\n2. They have steep slopes.\n3. They have a narrow summit.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పర్వతాలు వెడల్పైన పునాది, నిటారుగా ఉండే వాలులు మరియు ఇరుకైన శిఖరం ద్వారా గుర్తించబడతాయి.",
+    "en": "Mountains are recognized by three main features: a broad base, steep slopes, and a narrow summit."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T04-0128",
+   "section": {
+    "te": "Diastrophism Components",
+    "en": "Diastrophism Components"
+   },
+   "q": {
+    "te": "ఈ క్రింది వాటిలో ఏది డయాస్ట్రోఫిజం (diastrophism) పరిధిలోకి వస్తుంది?",
+    "en": "Which of the following is included under diastrophism?"
+   },
+   "options": {
+    "te": [
+     "ఓరోజెనిక్ ప్రక్రియలు",
+     "ఎపిరోజెనిక్ ప్రక్రియలు",
+     "ప్లేట్ టెక్టోనిక్స్",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Orogenic processes",
+     "Epeirogenic processes",
+     "Plate tectonics",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "డయాస్ట్రోఫిజంలో ఓరోజెనిక్, ఎపిరోజెనిక్, భూకంపాలు మరియు ప్లేట్ టెక్టోనిక్ ప్రక్రియలు ఉంటాయి.",
+    "en": "Diastrophism includes orogenic, epeirogenic, earthquake, and plate tectonic processes."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T04-0097",
+   "section": {
+    "te": "Wave-cut Platforms",
+    "en": "Wave-cut Platforms"
+   },
+   "q": {
+    "te": "తీరప్రాంత కొండలు (cliffs) కోతకు గురై వెనక్కి తగ్గినప్పుడు వెనుక మిగిలిపోయే చదునైన ప్రాంతాలను ఏమంటారు?",
+    "en": "Flat areas left behind as coastal cliffs retreat due to wave erosion are called:"
+   },
+   "options": {
+    "te": [
+     "బ్లోఅవుట్‌లు",
+     "వెంటిఫాక్ట్‌లు",
+     "వేవ్-కట్ ప్లాట్‌ఫారమ్‌లు",
+     "మొరైన్‌లు"
+    ],
+    "en": [
+     "Blowouts",
+     "Ventifacts",
+     "Wave-cut platforms",
+     "Moraines"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సముద్రపు కొండలు వెనక్కి తగ్గే క్రమంలో వాటి అడుగున ఏర్పడే చదునైన భాగాన్ని వేవ్-కట్ ప్లాట్‌ఫారమ్ అంటారు.",
+    "en": "Wave-cut platforms are flat areas left behind as coastal cliffs retreat."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T04-0121",
+   "section": {
+    "te": "Geomorphic Agents",
+    "en": "Geomorphic Agents"
+   },
+   "q": {
+    "te": "భూస్వరూప కారకాలకు (geomorphic agents) సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి ప్రవహించే నీరు లేదా గాలి వంటి మొబైల్ మాధ్యమాలు.\n2. ఇవి భూమిలోని పదార్థాలను సేకరించి రవాణా చేయగలవు.\nపైన పేర్కొన్న వాటిలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding geomorphic agents:\n1. They are mobile mediums like running water or wind.\n2. They are capable of acquiring and transporting earth materials.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూస్వరూప కారకం అనేది భూమిలోని పదార్థాలను సేకరించి, రవాణా చేసి, నిక్షేపించే మొబైల్ మాధ్యమంగా నిర్వచించబడింది.",
+    "en": "A geomorphic agent is defined as a mobile medium that can acquire, transport, and deposit earth materials."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T04-0022",
+   "section": {
+    "te": "Sagarmatha Meaning",
+    "en": "Sagarmatha Meaning"
+   },
+   "q": {
+    "te": "ఎవరెస్ట్ పర్వతానికి నేపాలీలు పెట్టిన 'సాగరమాత' అనే పేరుకు అర్థం ఏమిటి?",
+    "en": "What is the literal meaning of 'Sagarmatha', the Nepali name for Mount Everest?"
+   },
+   "options": {
+    "te": [
+     "ప్రపంచ జగన్మాత",
+     "మంచు నిలయం",
+     "ఆకాశ దేవత",
+     "ప్రపంచ పైకప్పు"
+    ],
+    "en": [
+     "Mother Goddess of the World",
+     "Abode of Snow",
+     "Goddess of the Sky",
+     "Roof of the World"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నేపాలీలు ఎవరెస్ట్ పర్వతాన్ని 'సాగరమాత' అని పిలుస్తారు, దీని అర్థం 'ఆకాశ దేవత' (Goddess of the Sky).",
+    "en": "Nepalis call Mount Everest 'Sagarmatha', which means 'Goddess of the Sky'."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T04-0271",
+   "section": {
+    "te": "Dune stabilization",
+    "en": "Dune stabilization"
+   },
+   "q": {
+    "te": "ఎడారులలోని కొన్ని ఇసుక దిబ్బలు సాధారణంగా ఎక్కడ స్థిరపడతాయి?",
+    "en": "Where do a few sand dunes in deserts typically get stabilized?"
+   },
+   "options": {
+    "te": [
+     "ప్లాయాస్ మధ్యలో",
+     "మానవ నివాసాల దగ్గర",
+     "పర్వత ముఖభాగాల దగ్గర",
+     "ఇన్సెల్ బర్గ్స్ పైన"
+    ],
+    "en": [
+     "In the middle of playas",
+     "Near human habitations",
+     "Near mountain fronts",
+     "On top of inselbergs"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "చాలా దిబ్బలు కదులుతుంటాయి, కానీ కొన్ని మానవ నివాసాల దగ్గర స్థిరపడతాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "While most dunes shift, some get stabilized near human habitations."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T04-0118",
+   "section": {
+    "te": "Endogenic Energy Sources",
+    "en": "Endogenic Energy Sources"
+   },
+   "q": {
+    "te": "అంతర్జనిత భూస్వరూప ప్రక్రియలకు (endogenic geomorphic processes) ఈ క్రింది వాటిలో ఏవి శక్తి వనరులు?",
+    "en": "Which of the following are sources of energy for endogenic geomorphic processes?"
+   },
+   "options": {
+    "te": [
+     "రేడియోధార్మికత",
+     "ప్రాథమిక ఉష్ణం (Primordial heat)",
+     "భ్రమణ మరియు అలల ఘర్షణ",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Radioactivity",
+     "Primordial heat",
+     "Rotational and tidal friction",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అంతర్జనిత ప్రక్రియలకు అవసరమైన శక్తి రేడియోధార్మికత, భ్రమణ మరియు అలల ఘర్షణ మరియు భూమి పుట్టుక నాటి ప్రాథమిక ఉష్ణం నుండి లభిస్తుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Energy for endogenic processes is generated by radioactivity, rotational and tidal friction, and primordial heat."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T04-0063",
+   "section": {
+    "te": "Divergent Boundaries",
+    "en": "Divergent Boundaries"
+   },
+   "q": {
+    "te": "అపసరణ సరిహద్దు (divergent boundary) వద్ద మాగ్మా పైకి వచ్చి కొత్త భూపటలాన్ని ఏర్పరిచినప్పుడు సాధారణంగా ఏ భౌగోళిక స్వరూపం ఏర్పడుతుంది?",
+    "en": "What geological feature is typically created at a divergent boundary where magma rises to form new crust?"
+   },
+   "options": {
+    "te": [
+     "తీరప్రాంత శిఖరాలు",
+     "ముడత పర్వతాలు",
+     "మధ్య మహాసముద్ర గట్లు (Mid-ocean ridges)",
+     "లోతైన సముద్ర అగాధాలు"
+    ],
+    "en": [
+     "Coastal cliffs",
+     "Fold mountains",
+     "Mid-ocean ridges",
+     "Deep sea trenches"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అపసరణ సరిహద్దుల వద్ద, ఫలకలు విడిపోతాయి, దీనివల్ల మాగ్మా పైకి వచ్చి కొత్త భూపటలాన్ని ఏర్పరుస్తుంది, ఇది మధ్య మహాసముద్ర గట్లను సృష్టిస్తుంది.",
+    "en": "At divergent boundaries, plates move apart, allowing magma to rise and form new crust, which creates mid-ocean ridges."
+   }
+  }
+ ]
+}

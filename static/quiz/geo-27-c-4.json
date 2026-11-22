@@ -1,0 +1,942 @@
+{
+ "id": "geo-27-c-4",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Transport – క్విజ్ 4",
+  "en": "Transport – Quiz 4"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T27-0172",
+   "section": {
+    "te": "Air Transport History",
+    "en": "Air Transport History"
+   },
+   "q": {
+    "te": "కమర్షియల్ జెట్ రవాణా వినియోగాన్ని ఏ దేశం ప్రారంభించింది?",
+    "en": "Which country pioneered the use of commercial jet transport?"
+   },
+   "options": {
+    "te": [
+     "U.S.A.",
+     "జర్మనీ",
+     "ఫ్రాన్స్",
+     "U.K."
+    ],
+    "en": [
+     "U.S.A.",
+     "Germany",
+     "France",
+     "U.K."
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "యునైటెడ్ కింగ్‌డమ్ కమర్షియల్ జెట్ రవాణాలో అగ్రగామిగా ఉంది, అయితే అమెరికా యుద్ధానంతర పౌర విమానయానానికి నాయకత్వం వహించింది.",
+    "en": "The United Kingdom was the pioneer in commercial jet transport, while the USA led post-war civil aviation."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T27-0316",
+   "section": {
+    "te": "Principal Commodities Import",
+    "en": "Principal Commodities Import"
+   },
+   "q": {
+    "te": "పట్టిక 8.5 ప్రకారం, 2021-22లో భారతదేశం దిగుమతి చేసుకున్న 'రసాయన ఉత్పత్తుల' (Chemical products) విలువ (కోట్ల రూపాయలలో) ఎంత?",
+    "en": "What was the value of 'Chemical products' imported by India in 2021-22 as per Table 8.5 (in crore rupees)?"
+   },
+   "options": {
+    "te": [
+     "67,545",
+     "1,05,796",
+     "3,08,882",
+     "4,99,766"
+    ],
+    "en": [
+     "67,545",
+     "1,05,796",
+     "3,08,882",
+     "4,99,766"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పట్టిక 8.5 ప్రకారం, 2021-22లో రసాయన ఉత్పత్తుల దిగుమతి విలువ 3,08,882 కోట్ల రూపాయలుగా ఉంది.",
+    "en": "Table 8.5 shows that the import value of chemical products in 2021-22 was 3,08,882 crore rupees."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T27-0255",
+   "section": {
+    "te": "Konkan Railway Partners",
+    "en": "Konkan Railway Partners"
+   },
+   "q": {
+    "te": "కొంకణ్ రైల్వే ప్రాజెక్టులో భాగస్వాములుగా ఉన్న రాష్ట్రాలు ఏవి?",
+    "en": "Which of the following states are partners in the Konkan Railway undertaking?"
+   },
+   "options": {
+    "te": [
+     "మహారాష్ట్ర, గోవా మరియు కర్ణాటక",
+     "మహారాష్ట్ర, గుజరాత్ మరియు గోవా",
+     "కర్ణాటక, కేరళ మరియు గోవా",
+     "మహారాష్ట్ర, కర్ణాటక మరియు కేరళ"
+    ],
+    "en": [
+     "Maharashtra, Goa and Karnataka",
+     "Maharashtra, Gujarat and Goa",
+     "Karnataka, Kerala and Goa",
+     "Maharashtra, Karnataka and Kerala"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "కొంకణ్ రైల్వే అనేది మహారాష్ట్ర, గోవా మరియు కర్ణాటక రాష్ట్రాలతో కూడిన ఉమ్మడి సంస్థ.",
+    "en": "The Konkan Railway is a joint undertaking involving the states of Maharashtra, Goa, and Karnataka."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T27-0075",
+   "section": {
+    "te": "Post office mail volume",
+    "en": "Post office mail volume"
+   },
+   "q": {
+    "te": "ఆధునిక టెలికమ్యూనికేషన్ అభివృద్ధి చెందినప్పటికీ, ప్రపంచవ్యాప్తంగా పోస్టాఫీసులు ఇప్పటికీ పెద్ద పరిమాణంలో మెయిల్‌ను నిర్వహించడానికి కారణం ఏమిటి?",
+    "en": "Despite recent telecommunication developments, why do very large volumes of mail continue to be handled by post offices worldwide?"
+   },
+   "options": {
+    "te": [
+     "పాత వ్యవస్థలు చౌకగా ఉండటం వల్ల",
+     "మొబైల్ టెలిఫోనీ పట్టణ కేంద్రాలకు చేరుకోలేకపోవడం వల్ల",
+     "అన్ని సందేశాలకు భౌతిక ఉత్తరాలు తప్పనిసరి అని అంతర్జాతీయ చట్టం పేర్కొనడం వల్ల",
+     "ఆధునిక ఉపగ్రహాలు ఏమాత్రం నమ్మదగినవి కాకపోవడం వల్ల"
+    ],
+    "en": [
+     "Because of the cheapness of the older systems",
+     "Because mobile telephony cannot reach urban centres",
+     "Because international law mandates physical letters for all messages",
+     "Because modern satellites have proved completely unreliable"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాత వ్యవస్థలు చౌకగా ఉండటం వల్ల సమాచార మార్పిడి రవాణా నుండి పూర్తిగా వేరుపడలేదని, అందుకే ప్రపంచవ్యాప్తంగా పోస్టాఫీసులు ఇప్పటికీ పెద్ద సంఖ్యలో ఉత్తరాలను నిర్వహిస్తున్నాయని పాఠ్యాంశం వివరిస్తుంది.",
+    "en": "Communications are not fully disassociated from transport because of the cheapness of the older systems, so post offices still handle large volumes of mail."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T27-0300",
+   "section": {
+    "te": "Trade Competitors",
+    "en": "Trade Competitors"
+   },
+   "q": {
+    "te": "ఎగుమతి మార్కెట్‌లో భారతదేశానికి ప్రధాన పోటీదారులుగా ఈ క్రింది వాటిలో ఏవి గుర్తించబడ్డాయి?",
+    "en": "Which of the following are identified as India's major competitors in the export market?"
+   },
+   "options": {
+    "te": [
+     "ఆఫ్రికా దేశాలు",
+     "చైనా మరియు తూర్పు ఆసియా దేశాలు",
+     "బ్రెజిల్ మరియు రష్యా",
+     "USA మరియు UK"
+    ],
+    "en": [
+     "African countries",
+     "China and East Asian countries",
+     "Brazil and Russia",
+     "USA and UK"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారతదేశ ఎగుమతులకు చైనా మరియు ఇతర తూర్పు ఆసియా దేశాలు ప్రధాన పోటీదారులుగా పాఠ్యభాగం పేర్కొంది.",
+    "en": "China and other East Asian countries as major competitors for India's exports."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T27-0045",
+   "section": {
+    "te": "National Waterway 2",
+    "en": "National Waterway 2"
+   },
+   "q": {
+    "te": "సాదియా మరియు ధుబ్రి మధ్య ఉన్న బ్రహ్మపుత్ర నదీ మార్గాన్ని (891 కి.మీ) ఏ జాతీయ జలమార్గంగా ప్రకటించారు?",
+    "en": "The stretch of the Brahmaputra river between Sadiya and Dhubri (891 km) is designated as which National Waterway?"
+   },
+   "options": {
+    "te": [
+     "N.W. నం. 2",
+     "N.W. నం. 1",
+     "N.W. నం. 4",
+     "N.W. నం. 3"
+    ],
+    "en": [
+     "N.W. No. 2",
+     "N.W. No. 1",
+     "N.W. No. 4",
+     "N.W. No. 3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సాదియా మరియు ధుబ్రి మధ్య గల బ్రహ్మపుత్ర నదిని జాతీయ జలమార్గం నం. 2గా గుర్తించారు.",
+    "en": "The Brahmaputra river stretch between Sadiya and Dhubri (891 km) is designated as National Waterway No. 2."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T27-0320",
+   "section": {
+    "te": "Port Capacity",
+    "en": "Port Capacity"
+   },
+   "q": {
+    "te": "2016లో భారతీయ ఓడరేవుల సరుకు రవాణా సామర్థ్యం ఎంత?",
+    "en": "What was the cargo handling capacity of Indian ports in 2016?"
+   },
+   "options": {
+    "te": [
+     "20 మిలియన్ టన్నుల కంటే ఎక్కువ",
+     "1000 మిలియన్ టన్నుల కంటే ఎక్కువ",
+     "837 మిలియన్ టన్నుల కంటే ఎక్కువ",
+     "500 మిలియన్ టన్నుల కంటే ఎక్కువ"
+    ],
+    "en": [
+     "More than 20 million tonnes",
+     "More than 1000 million tonnes",
+     "More than 837 million tonnes",
+     "More than 500 million tonnes"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతీయ ఓడరేవుల సామర్థ్యం 1951లో 20 మిలియన్ టన్నుల నుండి 2016లో 837 మిలియన్ టన్నుల కంటే ఎక్కువకు పెరిగింది.",
+    "en": "The capacity of Indian ports grew from 20 million tonnes in 1951 to over 837 million tonnes in 2016."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T27-0221",
+   "section": {
+    "te": "National Highways Traffic",
+    "en": "National Highways Traffic"
+   },
+   "q": {
+    "te": "భారతదేశంలోని జాతీయ రహదారులకు (NH) సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. జాతీయ రహదారులు మొత్తం రోడ్డు పొడవులో సుమారు 2 శాతం ఉన్నాయి.\n2. జాతీయ రహదారులు మొత్తం రోడ్డు ట్రాఫిక్‌లో 40 శాతాన్ని మోస్తాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding National Highways (NH) in India:\n1. National Highways constitute about 2 per cent of the total road length.\n2. National Highways carry 40 per cent of the total road traffic.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 లేదా 2 ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్య భాగం ప్రకారం, జాతీయ రహదారులు రోడ్డు పొడవులో కేవలం 2% మాత్రమే ఉన్నప్పటికీ, 40% ట్రాఫిక్‌ను నిర్వహిస్తాయి.",
+    "en": "National Highways make up only 2% of the road length but handle a significant 40% of the traffic."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T27-0236",
+   "section": {
+    "te": "Border Road Organisation",
+    "en": "Border Road Organisation"
+   },
+   "q": {
+    "te": "బోర్డర్ రోడ్ ఆర్గనైజేషన్ (BRO) కి సంబంధించి క్రింది ప్రకటనలను పరిగణనలోకి తీసుకోండి:\n1. ఇది మే 1960లో స్థాపించబడింది.\n2. దీని ప్రాథమిక లక్ష్యం ఉత్తర మరియు ఈశాన్య సరిహద్దుల వెంబడి రక్షణ సంసిద్ధతను బలోపేతం చేయడం.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the Border Road Organisation (BRO):\n1. It was established in May 1960.\n2. Its primary objective is to strengthen defence preparedness along the northern and north-eastern boundaries.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఆర్థికాభివృద్ధిని వేగవంతం చేయడానికి మరియు ఉత్తర మరియు ఈశాన్య సరిహద్దుల వెంబడి రక్షణ సంసిద్ధతను బలోపేతం చేయడానికి మే 1960లో BRO స్థాపించబడింది.",
+    "en": "The BRO was established in May 1960 to accelerate economic development and strengthen defence preparedness along the northern and north-eastern boundaries."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T27-0092",
+   "section": {
+    "te": "First Public Railway",
+    "en": "First Public Railway"
+   },
+   "q": {
+    "te": "మొదటి పబ్లిక్ రైల్వే లైన్ ఏ సంవత్సరంలో మరియు ఏ రెండు ప్రాంతాల మధ్య ప్రారంభించబడింది?",
+    "en": "In which year and between which two places was the first public railway line opened?"
+   },
+   "options": {
+    "te": [
+     "1825, స్టాక్టన్ మరియు డార్లింగ్టన్ మధ్య",
+     "1853, ముంబై మరియు థానే మధ్య",
+     "1830, లండన్ మరియు మాంచెస్టర్ మధ్య",
+     "1820, లివర్పూల్ మరియు డార్లింగ్టన్ మధ్య"
+    ],
+    "en": [
+     "1825, between Stockton and Darlington",
+     "1853, between Mumbai and Thane",
+     "1830, between London and Manchester",
+     "1820, between Liverpool and Darlington"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఉత్తర ఇంగ్లాండ్‌లోని స్టాక్టన్ మరియు డార్లింగ్టన్ మధ్య 1825లో మొదటి పబ్లిక్ రైల్వే లైన్ ప్రారంభించబడిందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The first public railway line was opened in 1825 between Stockton and Darlington in northern England."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T27-0332",
+   "section": {
+    "te": "Kamarajar Port",
+    "en": "Kamarajar Port"
+   },
+   "q": {
+    "te": "ఓడరేవు ఒత్తిడిని తగ్గించడానికి కామరాజర్ (ఎన్నూర్) ఓడరేవు ఏ నగరానికి ఉత్తరాన 25 కి.మీ దూరంలో నిర్మించబడింది?",
+    "en": "Kamarajar (Ennore) port was constructed 25 km north of which city to relieve port pressure?"
+   },
+   "options": {
+    "te": [
+     "చెన్నై",
+     "మంగళూరు",
+     "తూత్తుకుడి",
+     "కొచ్చి"
+    ],
+    "en": [
+     "Chennai",
+     "Mangalore",
+     "Tuticorin",
+     "Kochi"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "చెన్నై ఓడరేవు వద్ద ఒత్తిడిని తగ్గించడానికి చెన్నైకి ఉత్తరాన 25 కి.మీ దూరంలో కామరాజర్ ఓడరేవు నిర్మించబడింది.",
+    "en": "Kamarajar port was built 25 km north of Chennai to relieve the pressure at Chennai port."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T27-0094",
+   "section": {
+    "te": "Road Transport Advantage",
+    "en": "Road Transport Advantage"
+   },
+   "q": {
+    "te": "ఇతర రవాణా మార్గాలతో పోలిస్తే రోడ్డు ద్వారా సరుకు రవాణా ఎందుకు ప్రాధాన్యత సంతరించుకుంటోంది?",
+    "en": "Why is freight transport by road gaining importance compared to other modes of transport?"
+   },
+   "options": {
+    "te": [
+     "ఇది ఇంటి వద్దకే సేవలను (door-to-door service) అందిస్తుంది",
+     "దీనికి నిర్వహణ ఖర్చు చాలా తక్కువ",
+     "ఇది భారీ వర్షాల వల్ల ప్రభావితం కాదు",
+     "ఇది సుదూర ప్రాంతాలకు అత్యంత వేగవంతమైన మార్గం"
+    ],
+    "en": [
+     "It offers door-to-door service",
+     "It has the lowest maintenance cost",
+     "It is unaffected by heavy rains",
+     "It is the fastest mode for long distances"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "రోడ్డు రవాణా ఇంటి వద్దకే సేవలను అందించే ప్రత్యేక ప్రయోజనాన్ని కలిగి ఉన్నందున సరుకు రవాణాలో ప్రాధాన్యత సంతరించుకుంటోంది.",
+    "en": "Road transport is gaining importance in freight because it provides the unique advantage of door-to-door service."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T27-0296",
+   "section": {
+    "te": "Satellite Systems",
+    "en": "Satellite Systems"
+   },
+   "q": {
+    "te": "భారతీయ ఉపగ్రహ వ్యవస్థలకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. టెలికమ్యూనికేషన్ వంటి బహుళ-ప్రయోజన వినియోగం కోసం 1983లో INSAT వ్యవస్థ స్థాపించబడింది.\n2. IRS-IA ప్రయోగంతో 1988లో IRS వ్యవస్థ పని చేయడం ప్రారంభించింది.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding Indian satellite systems:\n1. The INSAT system was established in 1983 for multi-purpose use like telecommunication.\n2. The IRS system became operational in 1988 with the launch of IRS-IA.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "టెలికమ్యూనికేషన్ మరియు వాతావరణ శాస్త్రం కోసం 1983లో INSAT స్థాపించబడింది, రిమోట్ సెన్సింగ్ కోసం 1988లో IRS ప్రారంభమైంది.",
+    "en": "INSAT was established in 1983 for telecommunication and meteorology, while IRS started in 1988 for remote sensing."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T27-0167",
+   "section": {
+    "te": "Danube Navigation",
+    "en": "Danube Navigation"
+   },
+   "q": {
+    "te": "డాన్యూబ్ నది రవాణా కోసం ఏ పాయింట్ వరకు నౌకాయానానికి అనుకూలంగా ఉంది?",
+    "en": "Up to which point is the Danube river navigable for transport?"
+   },
+   "options": {
+    "te": [
+     "బాసెల్",
+     "మిన్నియాపాలిస్",
+     "టౌర్నా సెవెరిన్",
+     "రోటర్‌డ్యామ్"
+    ],
+    "en": [
+     "Basel",
+     "Minneapolis",
+     "Taurna Severin",
+     "Rotterdam"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "డాన్యూబ్ నది టౌర్నా సెవెరిన్ వరకు నౌకాయానానికి అనుకూలంగా ఉంటుంది.",
+    "en": "The Danube river is navigable as far as Taurna Severin."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T27-0275",
+   "section": {
+    "te": "Radio History",
+    "en": "Radio History"
+   },
+   "q": {
+    "te": "1923లో భారతదేశంలో రేడియో ప్రసారాలు ఈ క్రింది వాటిలో దేని ద్వారా ప్రారంభించబడ్డాయి?",
+    "en": "Radio broadcasting in India was started in 1923 by which of the following?"
+   },
+   "options": {
+    "te": [
+     "రేడియో క్లబ్ ఆఫ్ బాంబే",
+     "ఆకాశవాణి",
+     "ఆల్ ఇండియా రేడియో",
+     "ఇండియన్ బ్రాడ్‌కాస్టింగ్ సిస్టమ్"
+    ],
+    "en": [
+     "Radio Club of Bombay",
+     "Akashwani",
+     "All India Radio",
+     "Indian Broadcasting System"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "రేడియో క్లబ్ ఆఫ్ బాంబే ప్రయత్నాల ద్వారా 1923లో భారతదేశంలో రేడియో ప్రసారాలు ప్రారంభమయ్యాయి.",
+    "en": "Radio broadcasting began in India in 1923 through the efforts of the Radio Club of Bombay."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T27-0338",
+   "section": {
+    "te": "Kolkata Port Hinterland",
+    "en": "Kolkata Port Hinterland"
+   },
+   "q": {
+    "te": "శ్యామ ప్రసాద్ ముఖర్జీ (కోల్‌కతా) ఓడరేవు ఈ క్రింది ఏ భూపరివేష్టిత (land-locked) దేశాలకు ఓడరేవు సౌకర్యాలను కల్పిస్తుంది?",
+    "en": "Which of the following land-locked countries are provided with port facilities by the Shyama Prasad Mookerjee (Kolkata) Port?"
+   },
+   "options": {
+    "te": [
+     "నేపాల్",
+     "భూటాన్",
+     "నేపాల్ మరియు భూటాన్ రెండూ",
+     "మయన్మార్"
+    ],
+    "en": [
+     "Nepal",
+     "Bhutan",
+     "Both Nepal and Bhutan",
+     "Myanmar"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్య భాగం ప్రకారం, కోల్‌కతా ఓడరేవు పొరుగున ఉన్న భూపరివేష్టిత దేశాలైన నేపాల్ మరియు భూటాన్‌లకు తన సౌకర్యాలను విస్తరిస్తుంది.",
+    "en": "The Kolkata port extends its facilities to neighbouring land-locked countries, specifically Nepal and Bhutan."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T27-0209",
+   "section": {
+    "te": "Oil Ports Classification",
+    "en": "Oil Ports Classification"
+   },
+   "q": {
+    "te": "కింది చమురు ఓడరేవులలో ఏది 'ట్యాంకర్ పోర్ట్' కాకుండా 'రిఫైనరీ పోర్ట్'గా వర్గీకరించబడింది?",
+    "en": "Which of the following oil ports is classified as a 'refinery port' rather than a 'tanker port'?"
+   },
+   "options": {
+    "te": [
+     "అబాదాన్",
+     "మరకైబో",
+     "త్రిపోలి",
+     "ఎస్ఖిరా"
+    ],
+    "en": [
+     "Abadan",
+     "Maracaibo",
+     "Tripoli",
+     "Esskhira"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మరకైబో, ఎస్ఖిరా మరియు త్రిపోలి ట్యాంకర్ పోర్టులు కాగా, పర్షియా గల్ఫ్‌లోని అబాదాన్ ప్రత్యేకంగా రిఫైనరీ పోర్ట్‌గా గుర్తించబడింది.",
+    "en": "While Maracaibo, Esskhira, and Tripoli are tanker ports, Abadan on the Gulf of Persia is specifically identified as a refinery port."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T27-0195",
+   "section": {
+    "te": "Himalayan air travel",
+    "en": "Himalayan air travel"
+   },
+   "q": {
+    "te": "ప్రకటన (A): హిమాలయ ప్రాంతంలో, ఒక ప్రదేశానికి చేరుకోవడానికి వాయు ప్రయాణం తరచుగా ఏకైక ప్రత్యామ్నాయం.\nకారణం (R): హిమాలయ ప్రాంతంలో కొండచరియలు విరిగిపడటం, మంచు తుఫానులు లేదా భారీ హిమపాతం కారణంగా మార్గాలు తరచుగా మూసుకుపోతాయి.",
+    "en": "Assertion (A): In the Himalayan region, air travel is often the only alternative to reach a place.\nReason (R): Routes in the Himalayan region are often obstructed due to landslides, avalanches or heavy snow fall."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "కొండచరియలు విరిగిపడటం మరియు మంచు వంటి ప్రకృతి వైపరీత్యాల వల్ల ఉపరితల మార్గాలు తరచుగా మూసుకుపోవడం వల్ల హిమాలయాలలో వాయు ప్రయాణం ఏకైక ప్రత్యామ్నాయంగా మారుతుంది.",
+    "en": "Air travel is the only alternative in the Himalayas because surface routes are frequently blocked by natural events like landslides and snow."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T27-0101",
+   "section": {
+    "te": "Human Carriers",
+    "en": "Human Carriers"
+   },
+   "q": {
+    "te": "ఉత్తర భారతదేశంలో పల్లకిని (palki/doli) మోసే నలుగురు వ్యక్తులను ఏమని పిలుస్తారు?",
+    "en": "In North India, what are the four persons who carry a palanquin (palki/doli) called?"
+   },
+   "options": {
+    "te": [
+     "బార్జ్‌లు",
+     "కహార్‌లు (Kahars)",
+     "పోర్టర్లు",
+     "షెర్పాలు"
+    ],
+    "en": [
+     "Barges",
+     "Kahars",
+     "Porters",
+     "Sherpas"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఉత్తర భారతదేశంలో పల్లకిని మోసే నలుగురు వ్యక్తులను కహార్‌లు అని పిలుస్తారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "In North India, the four persons carrying a palanquin are known as Kahars."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T27-0166",
+   "section": {
+    "te": "Danube River Origin",
+    "en": "Danube River Origin"
+   },
+   "q": {
+    "te": "తూర్పు ఐరోపాలోని ముఖ్యమైన అంతర్గత జలమార్గం అయిన డాన్యూబ్ నది ఏ ప్రాంతంలో జన్మిస్తుంది?",
+    "en": "In which region does the Danube river, an important inland waterway of Eastern Europe, rise?"
+   },
+   "options": {
+    "te": [
+     "కాకసస్ పర్వతాలు",
+     "యురల్ పర్వతాలు",
+     "ఆల్ప్స్ పర్వతాలు",
+     "బ్లాక్ ఫారెస్ట్"
+    ],
+    "en": [
+     "Caucasus Mountains",
+     "Ural Mountains",
+     "Alps Mountains",
+     "Black Forest"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "డాన్యూబ్ నది బ్లాక్ ఫారెస్ట్‌లో జన్మించి అనేక దేశాల గుండా తూర్పు వైపు ప్రవహిస్తుంది.",
+    "en": "The Danube river originates in the Black Forest and flows eastward through several countries."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T27-0029",
+   "section": {
+    "te": "Atal Tunnel Connectivity",
+    "en": "Atal Tunnel Connectivity"
+   },
+   "q": {
+    "te": "అటల్ టన్నెల్ మనాలిని ఏడాది పొడవునా ఏ లోయతో అనుసంధానిస్తుంది?",
+    "en": "The Atal Tunnel provides all-weather connectivity between Manali and which valley?"
+   },
+   "options": {
+    "te": [
+     "కాంగ్రా లోయ",
+     "కాశ్మీర్ లోయ",
+     "లాహౌల్-స్పితి లోయ",
+     "కులు లోయ"
+    ],
+    "en": [
+     "Kangra valley",
+     "Kashmir valley",
+     "Lahul-Spiti valley",
+     "Kullu valley"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అటల్ టన్నెల్ మనాలిని లాహౌల్-స్పితి లోయతో ఏడాది పొడవునా కలుపుతుంది.",
+    "en": "Atal Tunnel connects Manali to the Lahul-Spiti valley throughout the year."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T27-0039",
+   "section": {
+    "te": "Inland waterways length",
+    "en": "Inland waterways length"
+   },
+   "q": {
+    "te": "ఇచ్చిన సమాచారం ప్రకారం భారతదేశంలో అంతర్గత జల రవాణా మార్గాల మొత్తం పొడవు ఎంత?",
+    "en": "What is the total navigable length of inland waterways in India according to the provided text?"
+   },
+   "options": {
+    "te": [
+     "14,500 కి.మీ",
+     "12,200 కి.మీ",
+     "18,500 కి.మీ",
+     "16,800 కి.మీ"
+    ],
+    "en": [
+     "14,500 km",
+     "12,200 km",
+     "18,500 km",
+     "16,800 km"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భారతదేశంలో అంతర్గత జల రవాణా మార్గాల పొడవు 14,500 కి.మీ.",
+    "en": "India has an inland navigation waterways network extending over 14,500 km in length."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T27-0231",
+   "section": {
+    "te": "Rural Roads Share",
+    "en": "Rural Roads Share"
+   },
+   "q": {
+    "te": "భారతదేశంలోని మొత్తం రోడ్డు పొడవులో ఎంత శాతం గ్రామీణ రహదారులుగా వర్గీకరించబడింది?",
+    "en": "What percentage of the total road length in India is categorized as rural roads?"
+   },
+   "options": {
+    "te": [
+     "2 శాతం",
+     "40 శాతం",
+     "70 శాతం",
+     "80 శాతం"
+    ],
+    "en": [
+     "2 per cent",
+     "40 per cent",
+     "70 per cent",
+     "80 per cent"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "గ్రామీణ అనుసంధానానికి గ్రామీణ రహదారులు చాలా ముఖ్యమైనవి మరియు ఇవి భారతదేశం మొత్తం రోడ్డు పొడవులో సుమారు 80% ఉన్నాయి.",
+    "en": "Rural roads are vital for rural links and constitute about 80% of India's total road length."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T27-0207",
+   "section": {
+    "te": "Global Village Concept",
+    "en": "Global Village Concept"
+   },
+   "q": {
+    "te": "ప్రకటన (A): ఆధునిక ప్రపంచంలో గ్లోబల్ విలేజ్ (global village) అనే భావన వాస్తవమైంది.\nకారణం (R): రవాణా వ్యవస్థల కంటే ఆధునిక సమాచార వ్యవస్థలే గ్లోబల్ విలేజ్ సాకారం కావడానికి ఎక్కువ దోహదపడ్డాయి.",
+    "en": "Assertion (A): The concept of a global village has become a reality in the modern world.\nReason (R): Modern communication systems have contributed more than transportation to making the global village a reality."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "రవాణా వ్యవస్థల కంటే ఆధునిక సమాచార వ్యవస్థలే గ్లోబల్ విలేజ్ భావనను వాస్తవ రూపంలోకి తెచ్చాయని పాఠ్య భాగం పేర్కొంది.",
+    "en": "Modern communication systems have made the global village a reality, more so than transportation systems."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T27-0140",
+   "section": {
+    "te": "Orient Express journey time",
+    "en": "Orient Express journey time"
+   },
+   "q": {
+    "te": "ఓరియంట్ ఎక్స్‌ప్రెస్ ద్వారా లండన్ నుండి ఇస్తాంబుల్‌కు ప్రయాణ సమయం సముద్ర మార్గంలో పట్టే 10 రోజుల నుండి ఎన్ని గంటలకు తగ్గించబడింది?",
+    "en": "By using the Orient Express, the journey time from London to Istanbul was reduced from 10 days by sea to how many hours?"
+   },
+   "options": {
+    "te": [
+     "96 గంటలు",
+     "72 గంటలు",
+     "120 గంటలు",
+     "144 గంటలు"
+    ],
+    "en": [
+     "96 hours",
+     "72 hours",
+     "120 hours",
+     "144 hours"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఓరియంట్ ఎక్స్‌ప్రెస్ వల్ల లండన్ నుండి ఇస్తాంబుల్‌కు సముద్ర మార్గం పట్టే 10 రోజుల సమయం కాస్తా 96 గంటలకు తగ్గింది.",
+    "en": "The journey time from London to Istanbul via the Orient Express was reduced to 96 hours, compared to 10 days by the sea route."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T27-0080",
+   "section": {
+    "te": "Air transport suitability",
+    "en": "Air transport suitability"
+   },
+   "q": {
+    "te": "అధిక విలువైనవి, తేలికపాటివి మరియు త్వరగా పాడైపోయే వస్తువులను రవాణా చేయడానికి అత్యంత అనువైన రవాణా మార్గం ఏది?",
+    "en": "High-value, light, and perishable goods are best moved by which of the following modes of transport?"
+   },
+   "options": {
+    "te": [
+     "రైల్వేలు",
+     "సముద్ర సరుకు రవాణా నౌకలు",
+     "రోడ్డు రవాణా",
+     "వాయుమార్గాలు (ఎయిర్‌వేస్)"
+    ],
+    "en": [
+     "Railways",
+     "Ocean freighters",
+     "Road transport",
+     "Airways"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, ఎక్కువ విలువైన, తక్కువ బరువుగల మరియు త్వరగా పాడైపోయే సరుకుల రవాణాకు వాయు రవాణా ఉత్తమమైనది.",
+    "en": "The text specifies that high-value, light, and perishable goods are best moved by airways."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T27-0001",
+   "section": {
+    "te": "Suez Canal Opening",
+    "en": "Suez Canal Opening"
+   },
+   "q": {
+    "te": "సూయజ్ కాలువ సముద్ర రవాణా కోసం ఏ సంవత్సరంలో ప్రారంభించబడింది?",
+    "en": "In which year was the Suez Canal opened for maritime traffic?"
+   },
+   "options": {
+    "te": [
+     "1869",
+     "1859",
+     "1879",
+     "1889"
+    ],
+    "en": [
+     "1869",
+     "1859",
+     "1879",
+     "1889"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సూయజ్ కాలువ అనేది 1869లో ప్రారంభించబడిన మానవ నిర్మిత మార్గం, ఇది ఎర్ర సముద్రాన్ని మధ్యధరా సముద్రంతో కలుపుతుంది.",
+    "en": "The Suez Canal is a human-made passage that was opened in 1869, connecting the Red Sea with the Mediterranean."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T27-0268",
+   "section": {
+    "te": "Oceanic Trade",
+    "en": "Oceanic Trade"
+   },
+   "q": {
+    "te": "భారతదేశ విదేశీ వాణిజ్యంలో వరుసగా పరిమాణం (volume) మరియు విలువ (value) పరంగా ఎంత శాతం సముద్ర మార్గాల ద్వారా జరుగుతుంది?",
+    "en": "What percentage of India’s foreign trade moves through oceanic routes in terms of volume and value respectively?"
+   },
+   "options": {
+    "te": [
+     "పరిమాణంలో 85 శాతం మరియు విలువలో 60 శాతం",
+     "పరిమాణంలో 90 శాతం మరియు విలువలో 80 శాతం",
+     "పరిమాణంలో 95 శాతం మరియు విలువలో 70 శాతం",
+     "పరిమాణంలో 70 శాతం మరియు విలువలో 95 శాతం"
+    ],
+    "en": [
+     "85 per cent by volume and 60 per cent by value",
+     "90 per cent by volume and 80 per cent by value",
+     "95 per cent by volume and 70 per cent by value",
+     "70 per cent by volume and 95 per cent by value"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వనరుల ప్రకారం, సముద్ర మార్గాలు పరిమాణం పరంగా 95% మరియు విలువ పరంగా 70% విదేశీ వాణిజ్యాన్ని నిర్వహిస్తాయి.",
+    "en": "Oceanic routes handle 95% of foreign trade by volume and 70% by value."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T27-0111",
+   "section": {
+    "te": "North America Railways",
+    "en": "North America Railways"
+   },
+   "q": {
+    "te": "ప్రపంచ మొత్తం రైలు నెట్‌వర్క్‌లో ఉత్తర అమెరికా సుమారు ఎంత శాతం కలిగి ఉంది?",
+    "en": "North America accounts for approximately what percentage of the world's total rail network?"
+   },
+   "options": {
+    "te": [
+     "90 శాతం",
+     "33 శాతం",
+     "25 శాతం",
+     "40 శాతం"
+    ],
+    "en": [
+     "90 per cent",
+     "33 per cent",
+     "25 per cent",
+     "40 per cent"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్య భాగం ప్రకారం, ఉత్తర అమెరికా రైలు నెట్‌వర్క్ ప్రపంచ మొత్తంలో దాదాపు 40 శాతంగా ఉంది.",
+    "en": "North America's rail network accounts for nearly 40 per cent of the world's total."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T27-0122",
+   "section": {
+    "te": "Blue Train",
+    "en": "Blue Train"
+   },
+   "q": {
+    "te": "రిపబ్లిక్ ఆఫ్ సౌత్ ఆఫ్రికాలోని ప్రసిద్ధ 'బ్లూ ట్రైన్' ఏ రెండు నగరాల మధ్య నడుస్తుంది?",
+    "en": "The famous 'Blue Train' in the Republic of South Africa runs between which two cities?"
+   },
+   "options": {
+    "te": [
+     "అల్జీర్స్ మరియు కొనక్రీ",
+     "కైరో మరియు కేప్ టౌన్",
+     "కేప్ టౌన్ మరియు ప్రిటోరియా",
+     "జోహన్నెస్‌బర్గ్ మరియు డర్బన్"
+    ],
+    "en": [
+     "Algiers and Conakry",
+     "Cairo and Cape Town",
+     "Cape Town and Pretoria",
+     "Johannesburg and Durban"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "బ్లూ ట్రైన్ అనేది కేప్ టౌన్‌ను ప్రిటోరియాతో కలిపే ఒక నిర్దిష్ట మార్గం అని పాఠ్య భాగంలో పేర్కొనబడింది.",
+    "en": "The Blue Train is a specific route mentioned in the text that connects Cape Town to Pretoria."
+   }
+  }
+ ]
+}

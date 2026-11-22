@@ -1,0 +1,942 @@
+{
+ "id": "geo-32-g1-2",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Economic Activities and Sectors – క్విజ్ 2",
+  "en": "Economic Activities and Sectors – Quiz 2"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T32-0056",
+   "section": {
+    "te": "KPO vs BPO",
+    "en": "KPO vs BPO"
+   },
+   "q": {
+    "te": "నాలెడ్జ్ ప్రాసెస్ ఔట్‌సోర్సింగ్ (KPO) పరిశ్రమ బిజినెస్ ప్రాసెస్ ఔట్‌సోర్సింగ్ (BPO) కంటే భిన్నమైనదిగా ఉండటానికి ప్రధాన కారణం, ఇది వేటిని కలిగి ఉండటం వల్ల?",
+    "en": "The Knowledge Process Outsourcing (KPO) industry is distinct from Business Process Outsourcing (BPO) primarily because it involves which of the following?"
+   },
+   "options": {
+    "te": [
+     "అత్యున్నత నైపుణ్యం కలిగిన కార్మికులు (Highly skilled workers)",
+     "తక్కువ మూలధన పెట్టుబడి",
+     "నైపుణ్యం లేని శ్రామికులు",
+     "కేవలం ప్రభుత్వ రంగ సంస్థలు మాత్రమే"
+    ],
+    "en": [
+     "Highly skilled workers",
+     "Low capital investment",
+     "Unskilled manual labour",
+     "Only public sector undertakings"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నాలెడ్జ్ ప్రాసెస్ ఔట్‌సోర్సింగ్ (KPO) పరిశ్రమలో అత్యున్నత నైపుణ్యం కలిగిన కార్మికులు (highly skilled workers) పనిచేయడం వల్ల ఇది BPO కంటే భిన్నంగా పరిగణించబడుతుంది.",
+    "en": "The KPO industry is distinct from Business Process Outsourcing (BPO) because it involves highly skilled workers."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T32-0016",
+   "section": {
+    "te": "Gathering Low Latitudes",
+    "en": "Gathering Low Latitudes"
+   },
+   "q": {
+    "te": "సేకరణ నిర్వహించబడే 'అల్ప అక్షాంశ ప్రాంతాల' జాబితాలో క్రింది వాటిలో ఏది చేర్చబడలేదు?",
+    "en": "Which of the following is NOT listed as a low latitude zone where gathering is practised?"
+   },
+   "options": {
+    "te": [
+     "అమెజాన్ బేసిన్",
+     "ఉష్ణమండల ఆఫ్రికా",
+     "ఉత్తర యురేషియా",
+     "ఆగ్నేయాసియా అంతర్భాగాలు"
+    ],
+    "en": [
+     "Amazon Basin",
+     "Tropical Africa",
+     "Northern Eurasia",
+     "Interior parts of Southeast Asia"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఉత్తర యురేషియా అనేది అధిక అక్షాంశ ప్రాంతం (high latitude zone), అల్ప అక్షాంశ ప్రాంతం కాదు.",
+    "en": "Northern Eurasia is explicitly categorized as a high latitude zone of gathering, not a low latitude zone."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T32-0093",
+   "section": {
+    "te": "Standard of living demand",
+    "en": "Standard of living demand"
+   },
+   "q": {
+    "te": "క్రింద రెండు ప్రకటనలు ఇవ్వబడ్డాయి, ఒకటి నిశ్చితార్థం (A) మరియు రెండవది కారణం (R):\nనిశ్చితార్థం (A): ప్రజల జీవన ప్రమాణం తక్కువగా ఉన్న దేశాలలో ఖరీదైన దిగుమతి వస్తువులకు డిమాండ్ తక్కువగా ఉంటుంది.\nకారణం (R): జీవన ప్రమాణం నాణ్యమైన దిగుమతి వస్తువుల డిమాండ్‌ను నిర్ణయిస్తుంది, ఎందుకంటే తక్కువ జీవన ప్రమాణం ఉన్నప్పుడు కొద్దిమంది మాత్రమే ఖరీదైన వస్తువులను కొనుగోలు చేయగలరు.\nసరైన ఎంపికను ఎంచుకోండి:",
+    "en": "Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):\nAssertion (A): Countries where the general population has a low standard of living exhibit limited demand for costly imported goods.\nReason (R): The standard of living determines the demand for quality imported products because with a low standard of living only a few people can afford expensive imports.\nSelect the correct option:"
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ సరైనవి మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ సరైనవి కానీ A కి R సరైన వివరణ కాదు",
+     "A సరైనది కానీ R తప్పు",
+     "A తప్పు కానీ R సరైనది"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం తక్కువ జీవన ప్రమాణాలు ఉన్నప్పుడు ఖరీదైన వస్తువులను కొనే స్తోమత కొద్దిమందికే ఉండటం వలన దిగుమతి వస్తువుల డిమాండ్ పరిమితంగా ఉంటుంది; కావున A మరియు R రెండూ సరైనవి.",
+    "en": "Both statements are correct and R accurately explains why a lower living standard curtails the demand for expensive imported items."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T32-0075",
+   "section": {
+    "te": "Late 19th century trade shift",
+    "en": "Late 19th century trade shift"
+   },
+   "q": {
+    "te": "పంతొమ్మిదవ శతాబ్దం ద్వితీయార్థంలో అంతర్జాతీయ వాణిజ్యంలో చోటుచేసుకున్న ప్రధాన మార్పు ఏమిటి?",
+    "en": "What major pattern emerged in international trade during the later half of the nineteenth century?"
+   },
+   "options": {
+    "te": [
+     "ఐరోపా మార్కెట్లలో వస్తు మార్పిడి పద్ధతి అధికారికంగా తిరిగి ప్రవేశపెట్టబడింది",
+     "పారిశ్రామిక మరియు పారిశ్రామికేతర దేశాల మధ్య వాణిజ్యం గరిష్ట స్థాయికి చేరింది",
+     "పారిశ్రామిక దేశాలే ఒకదానికొకటి ప్రధాన వినియోగదారులుగా మారాయి",
+     "విలాస వస్తువుల వ్యాపారం ప్రాథమిక వస్తువుల వాణిజ్యాన్ని పూర్తిగా భర్తీ చేసింది"
+    ],
+    "en": [
+     "Barter system was formally re-introduced across European markets",
+     "Trade between industrialised and non-industrialised nations reached its absolute peak",
+     "Industrial nations became each other's principal customers",
+     "Trade in luxury goods completely replaced all primary goods trade"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పంతొమ్మిదవ శతాబ్దం ద్వితీయార్థంలో ప్రాథమిక వస్తువులను ఉత్పత్తి చేసే ప్రాంతాల ప్రాముఖ్యత తగ్గి, పారిశ్రామిక దేశాలే పరస్పరం ఒకదానికొకటి ప్రధాన వినియోగదారులుగా మారాయి.",
+    "en": "In the later half of the nineteenth century, primary producing regions were no longer important, and industrial nations became each other's principal customers."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T32-0020",
+   "section": {
+    "te": "Secondary Activities",
+    "en": "Secondary Activities"
+   },
+   "q": {
+    "te": "ద్వితీయ శ్రేణి కార్యకలాపాలు (Secondary activities) ప్రధానంగా కింది ఏ పరిశ్రమలకు సంబంధించినవి?",
+    "en": "Secondary activities are primarily concerned with which of the following industries?"
+   },
+   "options": {
+    "te": [
+     "తయారీ (Manufacturing)",
+     "ప్రాసెసింగ్ (Processing)",
+     "నిర్మాణం (Construction)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Manufacturing",
+     "Processing",
+     "Construction",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ద్వితీయ శ్రేణి కార్యకలాపాలు తయారీ, ప్రాసెసింగ్ మరియు నిర్మాణ (మౌలిక సదుపాయాల) పరిశ్రమలకు సంబంధించినవని పాఠ్యభాగం స్పష్టంగా పేర్కొంది.",
+    "en": "Secondary activities are concerned with manufacturing, processing, and construction (infrastructure) industries."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T32-0006",
+   "section": {
+    "te": "Characteristics of Gathering",
+    "en": "Characteristics of Gathering"
+   },
+   "q": {
+    "te": "జీవనాధార సేకరణ (subsistence gathering) కు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. దీనికి పెద్ద మొత్తంలో మూలధన పెట్టుబడి అవసరం.\n2. ఇది చాలా తక్కువ స్థాయి సాంకేతికతతో నిర్వహించబడుతుంది.\n3. తలసరి దిగుబడి చాలా తక్కువగా ఉంటుంది మరియు మిగులు దాదాపు ఉండదు.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding subsistence gathering:\n1. It requires a large amount of capital investment.\n2. It operates at a very low level of technology.\n3. The yield per person is very low with little or no surplus.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సేకరణ కార్యకలాపానికి తక్కువ మూలధనం సరిపోతుంది (ఎక్కువ కాదు). తక్కువ సాంకేతికతతో పనిచేస్తుంది మరియు దిగుబడి చాలా తక్కువగా ఉండి మిగులు ఉండదు.",
+    "en": "Gathering requires a small amount of capital investment (not large), operates at a low level of technology, and yields little or no surplus."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T32-0086",
+   "section": {
+    "te": "Stages of development",
+    "en": "Stages of development"
+   },
+   "q": {
+    "te": "ఆర్థికాభివృద్ధి దశల ఆధారంగా జరిగే వాణిజ్య వస్తువుల స్వభావానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. వ్యవసాయ ఆధారిత దేశాలు వ్యవసాయ ఉత్పత్తులను ఇచ్చి పారిశ్రామిక వస్తువులను మార్పిడి చేసుకుంటాయి.\n2. పారిశ్రామిక దేశాలు యంత్రాలు మరియు తయారీ వస్తువులను ఎగుమతి చేసి, ఆహార ధాన్యాలు మరియు ముడి పదార్థాలను దిగుమతి చేసుకుంటాయి.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the nature of traded goods at different stages of economic development:\n1. Agriculturally important countries exchange agro products for manufactured goods.\n2. Industrialised nations export machinery and finished products while importing food grains and raw materials.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 కాదు 2 కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఆర్థికాభివృద్ధి వివిధ దశల్లో ఉన్నప్పుడు వాణిజ్య వస్తువుల స్వభావం మారుతుంది; రెండు ప్రకటనలు కూడా పాఠ్యాంశం ప్రకారం సరైనవి.",
+    "en": "Both statements are correct according to the text describing trade patterns at different stages of economic development."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T32-0057",
+   "section": {
+    "te": "Home shoring trend",
+    "en": "Home shoring trend"
+   },
+   "q": {
+    "te": "పంచమ రంగ సేవలలోని నూతన పోకడల ప్రకారం, 'హోమ్ షోరింగ్' (Home shoring) అనేది దేనికి ప్రత్యామ్నాయంగా ఉద్భవించింది?",
+    "en": "In the context of new trends in quinary services, 'home shoring' has emerged as:"
+   },
+   "options": {
+    "te": [
+     "ప్రాథమిక వ్యవసాయానికి ప్రత్యామ్నాయంగా",
+     "ఔట్‌సోర్సింగ్‌కు ప్రత్యామ్నాయంగా",
+     "ముడిసరుకు రవాణా పద్ధతిగా",
+     "సాంప్రదాయ రిటైల్ వ్యాపార విధానంగా"
+    ],
+    "en": [
+     "A replacement for primary agriculture",
+     "An alternative to outsourcing",
+     "A method of raw material transportation",
+     "A traditional retailing practice"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పంచమ రంగ సేవలలో 'హోమ్ షోరింగ్' అనేది ఔట్‌సోర్సింగ్‌కు ఒక బలమైన ప్రత్యామ్నాయంగా (alternative to outsourcing) అభివృద్ధి చెందింది.",
+    "en": "The text identifies 'home shoring' as a new trend in quinary services acting as an alternative to outsourcing."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T32-0026",
+   "section": {
+    "te": "Retailing Innovations",
+    "en": "Retailing Innovations"
+   },
+   "q": {
+    "te": "రిటైలింగ్ రంగంలో మొట్టమొదటి భారీ స్థాయి ఆవిష్కరణ కింది వాటిలో ఏది?",
+    "en": "Which of the following was the first large-scale innovation in the field of retailing?"
+   },
+   "options": {
+    "te": [
+     "చైన్ స్టోర్స్",
+     "డిపార్ట్‌మెంటల్ స్టోర్స్",
+     "ఇంటర్నెట్ వ్యాపారం",
+     "వినియోగదారుల సహకార సంఘాలు (Consumer cooperatives)"
+    ],
+    "en": [
+     "Chain stores",
+     "Departmental stores",
+     "Internet trading",
+     "Consumer cooperatives"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రిటైలింగ్ రంగంలో వినియోగదారుల సహకార సంఘాలను మొట్టమొదటి ప్రధాన భారీ స్థాయి ఆవిష్కరణగా పాఠ్యభాగం గుర్తించింది.",
+    "en": "The text identifies consumer cooperatives as the first major large-scale innovation in the retailing sector."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T32-0078",
+   "section": {
+    "te": "Slave trade pricing",
+    "en": "Slave trade pricing"
+   },
+   "q": {
+    "te": "1829 నాటి అమెరికన్ బానిసల వేలం ప్రకటన వివరాల ప్రకారం, నైపుణ్యం మరియు ఆరోగ్యం కలిగిన బానిస కోసం కొనుగోలుదారులు ఎంతవరకు చెల్లించేవారు?",
+    "en": "According to the advertisement details of an American slave auction in 1829, how much did buyers often pay for a skilled, healthy slave?"
+   },
+   "options": {
+    "te": [
+     "$2,000",
+     "$500",
+     "$1,000",
+     "$5,000"
+    ],
+    "en": [
+     "$2,000",
+     "$500",
+     "$1,000",
+     "$5,000"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నైపుణ్యం మరియు మంచి ఆరోగ్యం ఉన్న బానిస కోసం కొనుగోలుదారులు తరచుగా $2,000 వరకు చెల్లించేవారని పాఠంలో పేర్కొనబడింది.",
+    "en": "Buyers often paid as much as $2,000 for a skilled, healthy slave at American auctions."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T32-0012",
+   "section": {
+    "te": "Tundra Migration Direction",
+    "en": "Tundra Migration Direction"
+   },
+   "q": {
+    "te": "టుండ్రా ప్రాంతాలలో సంచార పశువుల కాపరులు రుతువుల ప్రకారం ఎలా వలస వెళతారు?",
+    "en": "In the tundra regions, how do nomadic herders migrate during the seasons?"
+   },
+   "options": {
+    "te": [
+     "వేసవిలో ఉత్తరం నుండి దక్షిణానికి మరియు శీతాకాలంలో దక్షిణం నుండి ఉత్తరానికి",
+     "వేసవిలో దక్షిణం నుండి ఉత్తరానికి మరియు శీతాకాలంలో ఉత్తరం నుండి దక్షిణానికి",
+     "వేసవిలో తూర్పు నుండి పశ్చిమానికి మరియు శీతాకాలంలో పశ్చిమం నుండి తూర్పునకు",
+     "వేసవిలో పశ్చిమం నుండి తూర్పునకు మరియు శీతాకాలంలో తూర్పు నుండి పశ్చిమానికి"
+    ],
+    "en": [
+     "From north to south in summers and south to north in winters",
+     "From south to north in summers and from north to south in winters",
+     "From east to west in summers and west to east in winters",
+     "From west to east in summers and east to west in winters"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "టుండ్రా ప్రాంతాల్లో వేసవి కాలంలో దక్షిణం నుండి ఉత్తరానికి, శీతాకాలంలో ఉత్తరం నుండి దక్షిణానికి వలస వెళ్తారు.",
+    "en": "In tundra regions, nomadic herders migrate from south to north during summers and from north to south during winters."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T32-0089",
+   "section": {
+    "te": "Unfavourable trade balance",
+    "en": "Unfavourable trade balance"
+   },
+   "q": {
+    "te": "ఒక దేశం ప్రతికూల లేదా అనుకూలము కాని వాణిజ్య సమతుల్యతను (Negative balance of trade) కలిగి ఉందని ఎప్పుడు అంటారు?",
+    "en": "A country is said to have a negative or unfavourable balance of trade when:"
+   },
+   "options": {
+    "te": [
+     "అంతర్గత వాణిజ్య పరిమాణం విదేశీ వాణిజ్య పరిమాణం కంటే ఎక్కువైనప్పుడు",
+     "దిగుమతుల విలువ ఎగుమతుల విలువ కంటే ఎక్కువగా ఉన్నప్పుడు",
+     "ఎగుమతుల విలువ దిగుమతుల విలువ కంటే ఎక్కువగా ఉన్నప్పుడు",
+     "ఎగుమతుల విలువ దిగుమతుల విలువకు సమానంగా ఉన్నప్పుడు"
+    ],
+    "en": [
+     "The volume of internal trade exceeds the volume of external trade",
+     "The value of imports is more than the value of exports",
+     "The value of exports is more than the value of imports",
+     "The value of exports equals the value of imports"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఒక దేశం యొక్క దిగుమతుల విలువ ఎగుమతుల విలువ కంటే ఎక్కువగా ఉన్నప్పుడు ఆ దేశం ప్రతికూల వాణిజ్య సమతుల్యతను కలిగి ఉంటుంది.",
+    "en": "A negative or unfavourable balance of trade occurs when the total monetary value of imports exceeds the value of exports."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T32-0051",
+   "section": {
+    "te": "Gold collar professions",
+    "en": "Gold collar professions"
+   },
+   "q": {
+    "te": "సీనియర్ వ్యాపార నిర్వాహకులు మరియు పరిశోధక శాస్త్రవేత్తల యొక్క ప్రత్యేకమైన, అత్యధిక వేతనం పొందే నైపుణ్యాలను సూచించే పంచమ రంగ కార్యకలాపాలను (Quinary activities) సాధారణంగా ఏ వృత్తులుగా పిలుస్తారు?",
+    "en": "Quinary activities, which represent the special and highly paid skills of senior business executives and research scientists, are often referred to as which of the following?"
+   },
+   "options": {
+    "te": [
+     "వైట్ కాలర్ వృత్తులు",
+     "రెడ్ కాలర్ వృత్తులు",
+     "గోల్డ్ కాలర్ వృత్తులు",
+     "బ్లూ కాలర్ వృత్తులు"
+    ],
+    "en": [
+     "White collar professions",
+     "Red collar professions",
+     "Gold collar professions",
+     "Blue collar professions"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పంచమ రంగ కార్యకలాపాలు ఉన్నత వ్యాపార నిర్వాహకులు, ప్రభుత్వ అధికారులు, పరిశోధకుల వంటి వారి ప్రత్యేక నైపుణ్యాలను సూచిస్తాయి కాబట్టి వీటిని తరచుగా 'గోల్డ్ కాలర్' వృత్తులు అని పిలుస్తారు.",
+    "en": "Quinary activities represent special and highly paid skills of senior business executives, government officials, research scientists, etc., and are often referred to as 'gold collar' professions."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T32-0033",
+   "section": {
+    "te": "Tertiary Activities",
+    "en": "Tertiary Activities"
+   },
+   "q": {
+    "te": "కింది వారిలో తృతీయ శ్రేణి కార్యకలాపాలలో నిమగ్నమై ఉన్న నిపుణులు ఎవరు?",
+    "en": "Which of the following professionals are engaged in tertiary activities?"
+   },
+   "options": {
+    "te": [
+     "ప్లంబర్ మరియు ఎలక్ట్రీషియన్",
+     "ఉపాధ్యాయుడు మరియు డాక్టర్",
+     "లాయర్ మరియు డ్రైవర్",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Plumber and Electrician",
+     "Teacher and Doctor",
+     "Lawyer and Driver",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "తృతీయ శ్రేణి కార్యకలాపాలలో నిమగ్నమై ఉన్న వ్యక్తులకు ఉదాహరణలుగా ప్లంబర్, ఎలక్ట్రీషియన్, టీచర్, డాక్టర్, లాయర్, డ్రైవర్ వంటి వారందరినీ పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text lists all these professionals (plumber, electrician, teacher, doctor, lawyer, driver) as examples of people engaged in tertiary activities."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T32-0082",
+   "section": {
+    "te": "Cultural handicrafts",
+    "en": "Cultural handicrafts"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఏ హస్తకళ దాని ఉత్పత్తి ప్రాంతం/దేశంతో సరిగ్గా జతపరచబడింది?",
+    "en": "Which of the following prized handicrafts is correctly matched with its native country or region?"
+   },
+   "options": {
+    "te": [
+     "ఉత్తర ఆఫ్రికా - తోలు పని (Leather work)",
+     "చైనా - తోలు పని (Leather work)",
+     "ఇరాన్ - బాటిక్ వస్త్రం (Batik cloth)",
+     "ఇండోనేషియా - తివాచీలు (Carpets)"
+    ],
+    "en": [
+     "North Africa - Leather work",
+     "China - Leather work",
+     "Iran - Batik cloth",
+     "Indonesia - Carpets"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఉత్తర ఆఫ్రికా తోలు పని, ఇరాన్ తివాచీలు మరియు ఇండోనేషియా బాటిక్ వస్త్రం ప్రపంచవ్యాప్తంగా ప్రసిద్ధి చెందిన కళాత్మక వస్తువులు.",
+    "en": "North African leather work, Iranian carpets, and Indonesian batik cloth are prized handicrafts."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T32-0096",
+   "section": {
+    "te": "Multilateral Trade",
+    "en": "Multilateral Trade"
+   },
+   "q": {
+    "te": "ఏ రకమైన అంతర్జాతీయ వాణిజ్యం కింద ఒక దేశం తన వాణిజ్య భాగస్వాములకు 'అత్యంత ప్రాధాన్యత కలిగిన దేశం' (MFN) హోదాను మంజూరు చేయవచ్చు?",
+    "en": "Under which type of international trade can a country grant the status of 'Most Favoured Nation' (MFN) to its trading partners?"
+   },
+   "options": {
+    "te": [
+     "బహుపాక్షిక వాణిజ్యం",
+     "ద్వైపాక్షిక వాణిజ్యం",
+     "స్వేచ్ఛా వాణిజ్యం",
+     "అంతర్గత వాణిజ్యం"
+    ],
+    "en": [
+     "Multilateral trade",
+     "Bilateral trade",
+     "Free trade",
+     "Internal trade"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "బహుపాక్షిక వాణిజ్యంలో, ఒక దేశం అనేక ఇతర దేశాలతో వాణిజ్యం చేయవచ్చు మరియు కొంతమంది భాగస్వాములకు MFN హోదాను మంజూరు చేయవచ్చు.",
+    "en": "In multilateral trade, a country can trade with many others and may grant MFN status to some partners."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T32-0034",
+   "section": {
+    "te": "Transport Network Nodes",
+    "en": "Transport Network Nodes"
+   },
+   "q": {
+    "te": "రవాణా నెట్‌వర్క్‌లో రెండు లేదా అంతకంటే ఎక్కువ మార్గాలు కలిసే ప్రదేశం, ప్రారంభ స్థానం, గమ్యస్థానం లేదా మార్గంలోని ఏదైనా ముఖ్యమైన పట్టణాన్ని ఏమని పిలుస్తారు?",
+    "en": "In a transport network, what is the meeting point of two or more routes, a point of origin, a point of destination, or any sizeable town along a route called?"
+   },
+   "options": {
+    "te": [
+     "హబ్ (Hub)",
+     "నోడ్ (Node)",
+     "టెర్మినల్ (Terminal)",
+     "లింక్ (Link)"
+    ],
+    "en": [
+     "Hub",
+     "Node",
+     "Terminal",
+     "Link"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "రవాణా నెట్‌వర్క్‌లో రెండు లేదా అంతకంటే ఎక్కువ మార్గాలు కలిసే ప్రదేశం, ప్రారంభ స్థానం లేదా మార్గంలోని పట్టణాన్ని 'నోడ్' అంటారు.",
+    "en": "A node is the meeting point of two or more routes, a point of origin, a point of destination or any sizeable town along a route."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T32-0028",
+   "section": {
+    "te": "Secondary Activities",
+    "en": "Secondary Activities"
+   },
+   "q": {
+    "te": "ద్వితీయ శ్రేణి కార్యకలాపాలు ప్రధానంగా సహజ వనరుల విలువను ఎలా పెంచుతాయి?",
+    "en": "How do secondary activities primarily increase the worth of natural resources?"
+   },
+   "options": {
+    "te": [
+     "వాటిని భూమి నుండి వెలికితీయడం ద్వారా",
+     "వాటిని ప్రపంచ మార్కెట్లకు రవాణా చేయడం ద్వారా",
+     "ముడి పదార్థాలను విలువైన ఉత్పత్తులుగా మార్చడం ద్వారా",
+     "వాటిని సేకరించడానికి వృత్తిపరమైన నైపుణ్యాలను అందించడం ద్వారా"
+    ],
+    "en": [
+     "By extracting them from the earth",
+     "By transporting them to world markets",
+     "By transforming raw materials into valuable products",
+     "By providing professional skills to collect them"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ముడి పదార్థాలను (పత్తి లేదా ఇనుప ధాతువు వంటివి) మరింత విలువైన తుది ఉత్పత్తులుగా (నూలు లేదా ఉక్కు వంటివి) మార్చడం ద్వారా ద్వితీయ శ్రేణి కార్యకలాపాలు విలువను జోడిస్తాయి.",
+    "en": "Secondary activities add value by transforming raw materials (like cotton or iron ore) into more valuable finished products (like yarn or steel)."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T32-0023",
+   "section": {
+    "te": "Retail Trading",
+    "en": "Retail Trading"
+   },
+   "q": {
+    "te": "కింది వాటిలో స్టోర్-యేతర రిటైల్ వ్యాపారానికి (non-store retail trading) ఉదాహరణలు ఏవి?",
+    "en": "Which of the following are examples of non-store retail trading?"
+   },
+   "options": {
+    "te": [
+     "మెయిల్-ఆర్డర్ మరియు ఇంటర్నెట్",
+     "ఆటోమేటిక్ వెండింగ్ మెషీన్లు",
+     "వీధి వ్యాపారం మరియు ఇంటింటికీ తిరగడం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Mail-order and Internet",
+     "Automatic vending machines",
+     "Street peddling and door-to-door",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వీధి వ్యాపారం, తోపుడు బండ్లు, ట్రక్కులు, ఇంటింటికీ తిరగడం, మెయిల్-ఆర్డర్, టెలిఫోన్, ఆటోమేటిక్ వెండింగ్ మెషీన్లు మరియు ఇంటర్నెట్లను స్టోర్-యేతర రిటైల్ వ్యాపారానికి ఉదాహరణలుగా పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text lists street peddling, handcarts, trucks, door-to-door, mail-order, telephone, automatic vending machines, and internet as examples of non-store retail trading."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T32-0068",
+   "section": {
+    "te": "Jon Beel Mela",
+    "en": "Jon Beel Mela"
+   },
+   "q": {
+    "te": "భారతదేశంలో బార్టర్ పద్ధతి (వస్తు మార్పిడి విధానం) ఇప్పటికీ సజీవంగా ఉన్న ఏకైక ఉత్సవంగా భావించబడే 'జోన్ బీల్ మేళా' ఎక్కడ జరుగుతుంది?",
+    "en": "In which place does the 'Jon Beel Mela' take place, which is possibly the only fair in India where the barter system is still alive?"
+   },
+   "options": {
+    "te": [
+     "తేజ్‌పూర్",
+     "సిల్చార్",
+     "మజులి",
+     "జాగీరోడ్"
+    ],
+    "en": [
+     "Tezpur",
+     "Silchar",
+     "Majuli",
+     "Jagiroad"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జోన్ బీల్ మేళా ప్రతి సంవత్సరం జనవరిలో పంట కోతల తర్వాత గౌహతికి 35 కి.మీ దూరంలోని జాగీరోడ్‌లో జరుగుతుంది.",
+    "en": "Jon Beel Mela takes place every January after the harvest season in Jagiroad, 35 km away from Guwahati."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T32-0003",
+   "section": {
+    "te": "Oldest Economic Activity",
+    "en": "Oldest Economic Activity"
+   },
+   "q": {
+    "te": "మానవునికి సంబంధించి అత్యంత ప్రాచీనమైన ఆర్థిక కార్యకలాపంగా దేనిని పరిగణిస్తారు?",
+    "en": "Which of the following is known as the oldest economic activity of human beings?"
+   },
+   "options": {
+    "te": [
+     "సంచార పశుపోషణ",
+     "గనుల తవ్వకం",
+     "జీవనాధార వ్యవసాయం",
+     "సేకరణ మరియు వేట"
+    ],
+    "en": [
+     "Nomadic pastoralism",
+     "Mining",
+     "Subsistence agriculture",
+     "Gathering and hunting"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, సేకరణ మరియు వేట మానవజాతికి తెలిసిన అత్యంత పురాతన ఆర్థిక కార్యకలాపాలు.",
+    "en": "Gathering and hunting are the oldest known economic activities."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T32-0008",
+   "section": {
+    "te": "Gathered Forest Products",
+    "en": "Gathered Forest Products"
+   },
+   "q": {
+    "te": "వాణిజ్య సేకరణలో రబ్బరు, బలాటా, జిగురులు మరియు రెసిన్‌లను మొక్కలోని ఏ భాగం అందిస్తుంది?",
+    "en": "Which part of the plant yields rubber, balata, gums, and resins in commercial gathering?"
+   },
+   "options": {
+    "te": [
+     "చెట్టు కాండం (Tree trunk)",
+     "గింజలు (కాయలు)",
+     "ఆకులు",
+     "బెరడు"
+    ],
+    "en": [
+     "Tree trunk",
+     "Nuts",
+     "Leaves",
+     "Bark"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "చెట్ల కాండం రబ్బరు, బలాటా, జిగుర్లు మరియు రెసిన్‌లను ఉత్పత్తి చేస్తుంది.",
+    "en": "The tree trunk yields rubber, balata, gums, and resins."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T32-0014",
+   "section": {
+    "te": "Nomadic Herding Regions",
+    "en": "Nomadic Herding Regions"
+   },
+   "q": {
+    "te": "సంచార పశుపోషణ యొక్క ప్రధాన ప్రాంతం ఉత్తర ఆఫ్రికాలోని అట్లాంటిక్ తీరాల నుండి అరేబియా ద్వీపకల్పం మీదుగా తూర్పువైపు ఏ ప్రాంతం వరకు విస్తరించి ఉంది?",
+    "en": "The core region of pastoral nomadism extends from the Atlantic shores of North Africa eastwards across the Arabian Peninsula into:"
+   },
+   "options": {
+    "te": [
+     "మంగోలియా మరియు మధ్య చైనా",
+     "స్కాండినేవియా మరియు పశ్చిమ ఐరోపా",
+     "దక్షిణ అమెరికా మరియు అమెజాన్ బేసిన్",
+     "ఆస్ట్రేలియా మరియు న్యూజిలాండ్"
+    ],
+    "en": [
+     "Mongolia and Central China",
+     "Scandinavia and Western Europe",
+     "South America and Amazon Basin",
+     "Australia and New Zealand"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సంచార పశుపోషణ ముఖ్య కేంద్రం ఉత్తర ఆఫ్రికా అట్లాంటిక్ తీరం నుండి అరేబియా మీదుగా మంగోలియా మరియు మధ్య చైనా వరకు విస్తరించి ఉంది.",
+    "en": "The primary core region of pastoral nomadism extends from the Atlantic shores of North Africa across the Arabian peninsula into Mongolia and Central China."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T32-0031",
+   "section": {
+    "te": "Regional Livestock",
+    "en": "Regional Livestock"
+   },
+   "q": {
+    "te": "సహారా మరియు ఆసియా ఎడారులలో ప్రధానంగా ఏ జంతువులను పెంచుతారు?",
+    "en": "Which animals are primarily reared in the Sahara and Asiatic deserts?"
+   },
+   "options": {
+    "te": [
+     "పశువులు మరియు గుర్రాలు",
+     "యాక్ మరియు లామాలు",
+     "గొర్రెలు, మేకలు మరియు ఒంటె",
+     "రెయిన్ డీర్ మాత్రమే"
+    ],
+    "en": [
+     "Cattle and Horses",
+     "Yak and Llamas",
+     "Sheep, goats and camel",
+     "Reindeer only"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సహారా మరియు ఆసియా ఎడారులలో పెంచే ప్రాథమిక పశువులు గొర్రెలు, మేకలు మరియు ఒంటెలు అని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text specifies that sheep, goats, and camels are the primary livestock reared in the Sahara and Asiatic deserts."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T32-0005",
+   "section": {
+    "te": "Gathering Zones",
+    "en": "Gathering Zones"
+   },
+   "q": {
+    "te": "సేకరణ కార్యకలాపం నిర్వహించబడే 'అధిక అక్షాంశ ప్రాంతాల' (high latitude zones) పరిధిలోకి క్రింది వాటిలో ఏది వస్తుంది?",
+    "en": "Which of the following regions is identified as a high latitude zone where gathering is practised?"
+   },
+   "options": {
+    "te": [
+     "దక్షిణ చిలీ",
+     "అమెజాన్ బేసిన్",
+     "ఆస్ట్రేలియా ఉత్తర అంచు",
+     "ఉష్ణమండల ఆఫ్రికా"
+    ],
+    "en": [
+     "Southern Chile",
+     "Amazon Basin",
+     "Northern fringe of Australia",
+     "Tropical Africa"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అధిక అక్షాంశ ప్రాంతాలలో ఉత్తర కెనడా, ఉత్తర యురేషియా మరియు దక్షిణ చిలీ ఉంటాయి; మిగిలినవి అల్ప అక్షాంశ ప్రాంతాలు.",
+    "en": "High latitude zones where gathering is practised include northern Canada, northern Eurasia, and southern Chile."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T32-0018",
+   "section": {
+    "te": "Commercial Livestock Rearing",
+    "en": "Commercial Livestock Rearing"
+   },
+   "q": {
+    "te": "వాణిజ్య పశువుల పెంపకంలో (Commercial livestock ranching), ఒక పచ్చిక బయలులో ఉంచే జంతువుల సంఖ్య దేని ఆధారంగా నిర్ణయించబడుతుంది?",
+    "en": "In commercial livestock ranching, the number of animals kept in a pasture is determined by which of the following?"
+   },
+   "options": {
+    "te": [
+     "మాంసం కోసం ఉన్న మార్కెట్ డిమాండ్",
+     "రాంచ్ యొక్క మొత్తం వైశాల్యం",
+     "పచ్చిక బయలు యొక్క మోసే సామర్థ్యం (Carrying capacity)",
+     "అందుబాటులో ఉన్న పార్శిల్స్ సంఖ్య"
+    ],
+    "en": [
+     "The market demand for meat",
+     "The total area of the ranch",
+     "The carrying capacity of the pasture",
+     "The number of parcels available"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, స్థిరమైన మేతను నిర్ధారించడానికి ఒక పచ్చిక బయలులో జంతువుల సంఖ్య ఆ పచ్చిక బయలు యొక్క మోసే సామర్థ్యం (carrying capacity) ప్రకారం ఉంచబడుతుంది.",
+    "en": "The number of animals in a pasture is strictly kept according to the carrying capacity of that specific pasture to ensure sustainable grazing."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T32-0067",
+   "section": {
+    "te": "Digital Divide concept",
+    "en": "Digital Divide concept"
+   },
+   "q": {
+    "te": "సమాచార మరియు సమాచార సాంకేతిక పరిజ్ఞానం (ICT) ప్రయోజనాలు మరియు అందుబాటులో అభివృద్ధి చెందిన దేశాలు ముందంజలో ఉండి, అభివృద్ధి చెందుతున్న దేశాలు వెనుకబడి ఉండటం వల్ల ఏర్పడే అంతరాన్ని ఏమంటారు?",
+    "en": "The wide gap between developed countries that have surged forward and developing countries that have lagged behind in ICT access and benefits is known as:"
+   },
+   "options": {
+    "te": [
+     "సైబర్ అసమానత (Cyber disparity)",
+     "డిజిటల్ డివైడ్ (Digital divide)",
+     "సమాచార అడ్డంకి (Information barrier)",
+     "సాంకేతిక అడ్డంకి (Technological barrier)"
+    ],
+    "en": [
+     "Cyber disparity",
+     "Digital divide",
+     "Information barrier",
+     "Technological barrier"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సమాచార మరియు సమాచార సాంకేతిక పరిజ్ఞానం కల్పించడంలో అభివృద్ధి చెందిన దేశాలు ముందుకు దూసుకుపోగా, అభివృద్ధి చెందుతున్న దేశాలు వెనుకబడి ఉండటాన్ని 'డిజిటల్ డివైడ్' అంటారు.",
+    "en": "The disparity where developed countries surge forward while developing countries lag behind in providing ICT access and benefits is termed the 'digital divide'."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T32-0091",
+   "section": {
+    "te": "Dumped goods impact",
+    "en": "Dumped goods impact"
+   },
+   "q": {
+    "te": "స్వేచ్ఛా వాణిజ్యంలో పాల్గొనే దేశాలు 'డంప్డ్ వస్తువుల' (Dumped goods) పట్ల ఎందుకు అప్రమత్తంగా ఉండాలి?",
+    "en": "Why do countries participating in free trade need to be cautious about 'dumped goods'?"
+   },
+   "options": {
+    "te": [
+     "చౌక ధరలకు లభించే డంప్డ్ వస్తువులు దేశీయ ఉత్పత్తిదారులను నష్టపరుస్తాయి",
+     "అవి భౌతిక రవాణా మరియు నిల్వ వ్యవస్థలను దెబ్బతీస్తాయి",
+     "అవి సేవా రంగం అంతటా విపరీతమైన ద్రవ్యోల్బణాన్ని కలిగిస్తాయి",
+     "సముద్ర సరిహద్దులను దాటకుండా అవి అంతర్జాతీయంగా నిషేధించబడ్డాయి"
+    ],
+    "en": [
+     "Dumped goods of cheaper prices can harm the domestic producers",
+     "They deplete the physical transport and storage networks",
+     "They cause rapid inflation across the entire service sector",
+     "They are strictly banned from crossing maritime borders"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "స్వేచ్ఛా వాణిజ్యంతో పాటు తక్కువ ధరలకు వచ్చే డంప్డ్ వస్తువులు దేశీయంగా వస్తువులను ఉత్పత్తి చేసేవారిని దెబ్బతీసే ప్రమాదం ఉంది.",
+    "en": "Countries must guard against dumped goods because their artificially cheaper prices can undermine and harm domestic producers."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T32-0021",
+   "section": {
+    "te": "Economic Development",
+    "en": "Economic Development"
+   },
+   "q": {
+    "te": "అభివృద్ధి చెందిన ఆర్థిక వ్యవస్థలో ఉపాధికి సంబంధించి కింది ప్రకటనలను పరిగణించండి:\n1. మెజారిటీ కార్మికులు ప్రాథమిక రంగంలో ఉపాధి పొందుతారు.\n2. మధ్యస్థ నిష్పత్తిలో కార్మికులు ద్వితీయ రంగంలో ఉపాధి పొందుతారు.\n3. మెజారిటీ కార్మికులు తృతీయ రంగ కార్యకలాపాలలో ఉపాధి పొందుతారు.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding employment in a developed economy:\n1. The majority of workers are employed in the primary sector.\n2. A moderate proportion of workers is employed in the secondary sector.\n3. The majority of workers get employment in tertiary activity.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అభివృద్ధి చెందిన ఆర్థిక వ్యవస్థలో, మెజారిటీ కార్మికులు తృతీయ రంగంలో మరియు మధ్యస్థ నిష్పత్తిలో ద్వితీయ రంగంలో ఉంటారు. అభివృద్ధి యొక్క ప్రారంభ దశలలో మాత్రమే ప్రాథమిక రంగం ఎక్కువ మందికి ఉపాధిని ఇస్తుంది.",
+    "en": "In a developed economy, the majority of workers are in the tertiary sector and a moderate proportion in the secondary sector. The primary sector employs a larger proportion only in the initial stages of development."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T32-0010",
+   "section": {
+    "te": "Transhumance Definition",
+    "en": "Transhumance Definition"
+   },
+   "q": {
+    "te": "వేసవిలో మైదానాల నుండి పర్వత పచ్చిక బయళ్లకు, శీతాకాలంలో తిరిగి మైదానాలకు జరిగే కాలానుగుణ వలస ప్రక్రియను ఏమని పిలుస్తారు?",
+    "en": "The seasonal migration of pastoral nomads from plain areas to mountain pastures in summers and back to plains in winters is called:"
+   },
+   "options": {
+    "te": [
+     "రాంచింగ్",
+     "స్థిర వ్యవసాయం",
+     "ట్రాన్స్‌హ్యూమన్స్ (Transhumance)",
+     "పట్టణీకరణ"
+    ],
+    "en": [
+     "Ranching",
+     "Sedentary farming",
+     "Transhumance",
+     "Urbanisation"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మైదాన ప్రాంతాల నుండి పర్వత పచ్చిక బయళ్ళకు వేసవిలో మరియు శీతాకాలంలో తిరిగి మైదానాలకు మారే వలస ప్రక్రియను 'ట్రాన్స్‌హ్యూమన్స్' అంటారు.",
+    "en": "The process of seasonal migration between plains and mountain pastures is known as transhumance."
+   }
+  }
+ ]
+}

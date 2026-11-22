@@ -1,0 +1,942 @@
+{
+ "id": "geo-29-c-2",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Natural Resources and Conservation – క్విజ్ 2",
+  "en": "Natural Resources and Conservation – Quiz 2"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T29-0022",
+   "section": {
+    "te": "Himalayan glaciers impact",
+    "en": "Himalayan glaciers impact"
+   },
+   "q": {
+    "te": "ప్రతిపాదన (A): హిమాలయ హిమానీనదాలు వేగంగా కరగడం మైదాన ప్రాంతాల్లోని ప్రజలపై తీవ్ర ప్రభావం చూపుతుంది.\nకారణం (R): ఈ జనాభా వారి నీటి భద్రత కోసం హిమానీనదాలపై 'వాటర్ టవర్'గా ఆధారపడి ఉంటుంది.",
+    "en": "Assertion (A): The rapid melting of Himalayan glaciers has serious implications for populations in the plains.\nReason (R): These populations are dependent on the glaciers as a 'water tower' for their water security."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "హిమానీనదాలు మైదాన ప్రాంతాల్లోని ప్రజలకు 'వాటర్ టవర్'గా పనిచేస్తాయని మరియు అవి వేగంగా కరగడం నీటి భద్రతకు ముప్పు కలిగిస్తుందని పాఠ్యం వివరిస్తుంది.",
+    "en": "Glaciers act as a 'water tower' for populations in the plains, and their rapid melting threatens water security."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T29-0182",
+   "section": {
+    "te": "Jal Kranti Abhiyan launch",
+    "en": "Jal Kranti Abhiyan launch"
+   },
+   "q": {
+    "te": "భారత ప్రభుత్వం జల్ క్రాంతి అభియాన్‌ను ఏ సంవత్సరంలో ప్రారంభించింది?",
+    "en": "In which year was the Jal Kranti Abhiyan launched by the Government of India?"
+   },
+   "options": {
+    "te": [
+     "2017-18",
+     "2016-17",
+     "2015-16",
+     "2014-15"
+    ],
+    "en": [
+     "2017-18",
+     "2016-17",
+     "2015-16",
+     "2014-15"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "దేశంలో తలసరి నీటి లభ్యత ద్వారా నీటి భద్రతను నిర్ధారించడానికి భారత ప్రభుత్వం 2015-16లో జల్ క్రాంతి అభియాన్‌ను ప్రారంభించింది.",
+    "en": "The Jal Kranti Abhiyan was launched by the Government of India in the year 2015-16."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T29-0194",
+   "section": {
+    "te": "NITI Aayog Formation",
+    "en": "NITI Aayog Formation"
+   },
+   "q": {
+    "te": "ప్రణాళికా సంఘం స్థానంలో నీతి ఆయోగ్ (NITI Aayog) ఏ తేదీన ఏర్పడింది?",
+    "en": "On which date was the NITI Aayog formed to replace the Planning Commission?"
+   },
+   "options": {
+    "te": [
+     "1 జనవరి 2015",
+     "1 ఏప్రిల్ 2015",
+     "15 ఆగస్టు 2014",
+     "26 జనవరి 2015"
+    ],
+    "en": [
+     "1 January 2015",
+     "1 April 2015",
+     "15 August 2014",
+     "26 January 2015"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, ప్రణాళికా సంఘం స్థానంలో 1 జనవరి 2015న నీతి ఆయోగ్ ఏర్పాటయింది.",
+    "en": "The NITI Aayog was formed on 1 January 2015, replacing the Planning Commission."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T29-0025",
+   "section": {
+    "te": "Paradox of Plenty",
+    "en": "Paradox of Plenty"
+   },
+   "q": {
+    "te": "సహజ వనరులు పుష్కలంగా ఉన్న ప్రాంతాలు నెమ్మదిగా ఆర్థిక వృద్ధిని సాధించే దృగ్విషయాన్ని ఆర్థికవేత్తలు ఏమని పిలుస్తారు?",
+    "en": "What term do economists use for the phenomenon where regions rich in natural resources experience slower economic growth?"
+   },
+   "options": {
+    "te": [
+     "సమృద్ధి వైపరీత్యం (Paradox of Plenty)",
+     "ఆర్థిక స్తబ్దత (Economic Stagnation)",
+     "పారిశ్రామిక వెనుకబాటు (Industrial Lag)",
+     "వనరుల క్షీణత (Resource Depletion)"
+    ],
+    "en": [
+     "Paradox of Plenty",
+     "Economic Stagnation",
+     "Industrial Lag",
+     "Resource Depletion"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వనరులు పుష్కలంగా ఉన్న ప్రాంతాలు ఆర్థికంగా నెమ్మదిగా అభివృద్ధి చెందే పరిస్థితిని 'సమృద్ధి వైపరీత్యం' (Paradox of Plenty) లేదా 'సహజ వనరుల శాపం' అని పాఠ్యం నిర్వచించింది.",
+    "en": "The text defines the 'paradox of plenty' or 'natural resource curse' as a situation where resource-rich regions grow slower economically."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T29-0164",
+   "section": {
+    "te": "Village Youth Group",
+    "en": "Village Youth Group"
+   },
+   "q": {
+    "te": "వరకట్నం, కులవివక్ష వంటి సామాజిక రుగ్మతలను నిర్మూలించడానికి రాలెగాన్ సిద్ధిలో ఏర్పాటైన యువజన సంఘం పేరు ఏమిటి?",
+    "en": "What was the name of the youth group formed in Ralegan Siddhi to fight social evils like dowry and caste discrimination?"
+   },
+   "options": {
+    "te": [
+     "యువక్ దళ్",
+     "తరుణ్ మండల్",
+     "నవ యువక్ మండల్",
+     "గ్రామ సేన"
+    ],
+    "en": [
+     "Yuvak Dal",
+     "Tarun Mandal",
+     "Nav Yuvak Mandal",
+     "Gram Sena"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వరకట్న దురాచారం, కుల వివక్ష మరియు అస్పృశ్యతను రూపుమాపడానికి 'తరుణ్ మండల్' అనే యువజన సంఘం ఏర్పాటయింది.",
+    "en": "A youth group called Tarun Mandal was formed to work against the dowry system, caste discrimination, and untouchability."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T29-0227",
+   "section": {
+    "te": "Causes of Land Degradation",
+    "en": "Causes of Land Degradation"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఏ ప్రక్రియలు భూమి క్షీణతకు దారితీస్తాయి?",
+    "en": "Which of the following processes lead to land degradation?"
+   },
+   "options": {
+    "te": [
+     "నేల కోత మరియు నీటి నిల్వ",
+     "లవణీయత (Salinisation)",
+     "క్షారత (Alkalinisation)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Soil erosion and Waterlogging",
+     "Salinisation",
+     "Alkalinisation",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నేల కోత, నీటి నిల్వ, లవణీయత మరియు క్షారత అన్నీ భూమి క్షీణతకు దోహదపడే కారకాలు.",
+    "en": "Soil erosion, waterlogging, salinisation, and alkalinisation are all factors that contribute to land degradation."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T29-0244",
+   "section": {
+    "te": "Petlawad CPR Management",
+    "en": "Petlawad CPR Management"
+   },
+   "q": {
+    "te": "ఝాబువా జిల్లాలోని పెట్లవాడ్ బ్లాక్‌లో కమ్యూనిటీ భాగస్వామ్యానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ప్రతి కుటుంబం ఉమ్మడి ఆస్తిపై ఒక చెట్టును నాటి సంరక్షించింది.\n2. పచ్చిక బయళ్ల భూములపై ఆ వర్గం కనీసం రెండేళ్లపాటు సామాజిక కంచెను (social-fencing) అమలు చేసింది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the community participation in the Petlawad block of Jhabua district:\n1. Each household planted and maintained one tree on the common property.\n2. The community adopted social-fencing of pasture lands for at least two years.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రెండు ప్రకటనలు సరైనవే. ప్రతి కుటుంబం ఉమ్మడి స్థలంలో ఒక చెట్టును నాటి పెంచింది మరియు పచ్చిక బయళ్లను కనీసం రెండేళ్లు సామాజిక కంచె ద్వారా రక్షించారు.",
+    "en": "Both statements are correct. Each household planted one tree on common property and the community enforced social-fencing of pastures for at least two years."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T29-0012",
+   "section": {
+    "te": "Definition of natural resources",
+    "en": "Definition of natural resources"
+   },
+   "q": {
+    "te": "'సహజ వనరులు' అనే పదం ఏ పదార్థాలకు వర్తిస్తుంది?",
+    "en": "The term 'natural resources' is applied to materials and substances that:"
+   },
+   "options": {
+    "te": [
+     "కర్మాగారాల్లో మానవులచే సృష్టించబడినవి",
+     "ప్రకృతిలో లభించేవి మరియు మానవులకు విలువైనవి",
+     "థార్ ఎడారిలో మాత్రమే కనిపించేవి",
+     "ఉపయోగించడానికి సాంస్కృతికంగా ఆమోదయోగ్యం కానివి"
+    ],
+    "en": [
+     "Are created by humans in factories",
+     "Occur in Nature and are valuable to humans",
+     "Are only found in the Thar Desert",
+     "Are culturally unacceptable to use"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రకృతిలో లభించే మరియు మానవులకు విలువనిచ్చే పదార్థాలను సహజ వనరులుగా నిర్వచించారు.",
+    "en": "Natural resources are defined as materials and substances occurring in nature that have value to humans."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T29-0176",
+   "section": {
+    "te": "Geothermal energy history",
+    "en": "Geothermal energy history"
+   },
+   "q": {
+    "te": "చుట్టుపక్కల భవనాలకు వేడిని అందించడానికి వేడి నీటి పైపుల నెట్‌వర్క్‌ను నిర్మించడం ద్వారా భూగర్భ వేడిని వినియోగించుకునే మొదటి విజయవంతమైన ప్రయత్నం (1890) ఏ నగరంలో జరిగింది?",
+    "en": "In which city was the first successful attempt (1890) made to tap underground heat by building a hot water pipe network to heat surrounding buildings?"
+   },
+   "options": {
+    "te": [
+     "రేక్జావిక్ (ఐస్‌లాండ్)",
+     "రెనో, నెవాడా (U.S.A.)",
+     "బోయిస్, ఇడాహో (U.S.A.)",
+     "డెన్వర్, కొలరాడో (U.S.A.)"
+    ],
+    "en": [
+     "Reykjavik (Iceland)",
+     "Reno, Nevada (U.S.A.)",
+     "Boise, Idaho (U.S.A.)",
+     "Denver, Colorado (U.S.A.)"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "1890 లో భూగర్భ వేడిని ఉపయోగించుకునే మొదటి విజయవంతమైన ప్రయత్నం అమెరికాలోని ఇడాహో రాష్ట్రానికి చెందిన బోయిస్ నగరంలో జరిగింది.",
+    "en": "The first successful attempt in 1890 to tap underground heat was made in Boise, Idaho (U.S.A.), where a hot water pipe network was built."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T29-0116",
+   "section": {
+    "te": "Rooftop rainwater harvesting rule",
+    "en": "Rooftop rainwater harvesting rule"
+   },
+   "q": {
+    "te": "సాంప్రదాయ పైకప్పు వర్షపు నీటి సంరక్షణ పద్ధతిలో సాధారణంగా మొదటి వర్షపు నీటిని ఎందుకు సేకరించేవారు కాదు?",
+    "en": "In traditional rooftop rainwater harvesting systems, why was the first spell of rain usually NOT collected?"
+   },
+   "options": {
+    "te": [
+     "భూగర్భ టంకాల్లో నిల్వ సామర్థ్యం చాలా తక్కువగా ఉండటం వల్ల",
+     "అది పైకప్పులను మరియు పైపులను శుభ్రం చేయడానికి ఉపయోగపడటం వల్ల",
+     "ఆ నీటిని నేరుగా బావుల్లోకి మళ్లించడం వల్ల",
+     "అందులో ట్యాంకును పాడుచేసే ఖనిజాలు ఎక్కువగా ఉండటం వల్ల"
+    ],
+    "en": [
+     "The capacity of underground tankas was too limited",
+     "It was used to clean the rooftops and the pipes",
+     "It was diverted directly to the open wells",
+     "It contained excessive minerals that spoiled the tank"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మొదటి వర్షపు నీరు పైకప్పులను, పైపులను శుభ్రపరుస్తుంది కాబట్టి దానిని సేకరించకుండా వదిలేసి, ఆ తర్వాత కురిసే వర్షపు నీటిని నిల్వ చేసుకునేవారు.",
+    "en": "The first spell of rain was not collected because it washed and cleaned the roofs and the pipes, while water from subsequent showers was stored."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T29-0195",
+   "section": {
+    "te": "Drought Prone Area Programme",
+    "en": "Drought Prone Area Programme"
+   },
+   "q": {
+    "te": "నాలుగో పంచవర్ష ప్రణాళిక కాలంలో కరవు పీడిత ప్రాంతాల కార్యక్రమం (DPAP) క్రింది ఏ లక్ష్యాలతో ప్రారంభించబడింది?",
+    "en": "The Drought Prone Area Programme was initiated during the Fourth Five Year Plan with which of the following objectives?"
+   },
+   "options": {
+    "te": [
+     "కరవు పీడిత ప్రాంతాల ప్రజలకు ఉపాధి కల్పించడం",
+     "ఉత్పాదక ఆస్తులను సృష్టించడం",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Providing employment to the people in drought-prone areas",
+     "Creating productive assets",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నాలుగో పంచవర్ష ప్రణాళికలో కరవు పీడిత ప్రాంతాల ప్రజలకు ఉపాధి కల్పించడం మరియు ఉత్పాదక ఆస్తులను సృష్టించడం అనే లక్ష్యాలతో ఈ కార్యక్రమం ప్రారంభించబడింది.",
+    "en": "The programme was initiated during the Fourth Five Year Plan to provide employment to people in drought-prone areas and create productive assets."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T29-0102",
+   "section": {
+    "te": "Nehru's Vision on Dams",
+    "en": "Nehru's Vision on Dams"
+   },
+   "q": {
+    "te": "ప్రతిపాదన (A): జవహర్‌లాల్ నెహ్రూ ఆనకట్టలను 'ఆధునిక భారతదేశ దేవాలయాలు' అని ప్రకటించారు.\nకారణం (R): ఆనకట్టలు వ్యవసాయం మరియు గ్రామీణ ఆర్థిక వ్యవస్థ అభివృద్ధిని వేగవంతమైన పారిశ్రామికీకరణతో అనుసంధానిస్తాయని భావించారు.",
+    "en": "Assertion (A): Jawaharlal Nehru proclaimed dams as the 'temples of modern India'.\nReason (R): Dams were expected to integrate agricultural and village economy development with rapid industrialisation."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "గ్రామీణ వ్యవసాయ వృద్ధిని పట్టణ పారిశ్రామిక వృద్ధితో అనుసంధానించే మార్గంగా ఆనకట్టలను చూసినందున నెహ్రూ వాటిని 'ఆధునిక భారతదేశ దేవాలయాలు' అని పిలిచారు.",
+    "en": "Nehru called dams 'temples of modern India' because they were seen as a way to link rural agricultural growth with urban industrial growth."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T29-0014",
+   "section": {
+    "te": "Cultural views on nature",
+    "en": "Cultural views on nature"
+   },
+   "q": {
+    "te": "ప్రపంచంలోని అనేక స్వదేశీ (indigenous) సంప్రదాయాలలో ప్రకృతిని ఎలా చూస్తారు?",
+    "en": "How is Nature viewed in many indigenous traditions of the world?"
+   },
+   "options": {
+    "te": [
+     "ఆర్థికంగా సాధ్యం కానిదిగా",
+     "సాంకేతికంగా అందుబాటులో లేనిదిగా",
+     "పవిత్రమైనదిగా (sacred)",
+     "వ్యర్థాల వనరుగా"
+    ],
+    "en": [
+     "As economically unfeasible",
+     "As technologically inaccessible",
+     "As sacred",
+     "As a source of waste"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అనేక స్వదేశీ సంప్రదాయాలలో ప్రకృతిని పవిత్రమైనదిగా మరియు పోషించేదిగా పరిగణిస్తారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "In many indigenous traditions, Nature is considered sacred and is seen as a nurturer."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T29-0045",
+   "section": {
+    "te": "Jaisalmer fort history",
+    "en": "Jaisalmer fort history"
+   },
+   "q": {
+    "te": "రాజస్థాన్‌లోని జైసల్మేర్ కోట మొదట ఏ శతాబ్దంలో మట్టి నిర్మాణంగా నిర్మించబడింది?",
+    "en": "The Jaisalmer fort in Rajasthan was originally a mud structure built in which century?"
+   },
+   "options": {
+    "te": [
+     "12వ శతాబ్దం",
+     "13వ శతాబ్దం",
+     "11వ శతాబ్దం",
+     "10వ శతాబ్దం"
+    ],
+    "en": [
+     "12th century",
+     "13th century",
+     "11th century",
+     "10th century"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "జైసల్మేర్ కోట మొదట 12వ శతాబ్దంలో మట్టి నిర్మాణంగా నిర్మించబడింది మరియు తరువాత ఇసుక రాయితో పునరుద్ధరించబడింది.",
+    "en": "The Jaisalmer fort was first built as a mud structure in the 12th century and later refurbished with sandstone."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T29-0027",
+   "section": {
+    "te": "Impact of resource distribution",
+    "en": "Impact of resource distribution"
+   },
+   "q": {
+    "te": "సహజ వనరుల అసమాన పంపిణీకి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది మానవ నివాసాల నమూనాలను ప్రభావితం చేస్తుంది.\n2. అంతర్జాతీయ సంబంధాలు లేదా సంఘర్షణలపై దీనికి ఎటువంటి ప్రభావం లేదు.\n3. ఇది ప్రపంచ వాణిజ్య నమూనాలను రూపొందిస్తుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding the uneven distribution of natural resources:\n1. It influences the patterns of human settlements.\n2. It has no impact on international relations or conflicts.\n3. It shapes global trade patterns.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అసమాన పంపిణీ నివాసాలు, వాణిజ్యం, అంతర్జాతీయ సంబంధాలు మరియు సంఘర్షణలను రూపొందిస్తుందని పాఠ్యం పేర్కొంది; కాబట్టి, ప్రకటన 2 తప్పు.",
+    "en": "Uneven distribution shapes settlements, trade, international relations, and conflicts; therefore, statement 2 is incorrect."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T29-0095",
+   "section": {
+    "te": "Groundwater Overexploitation",
+    "en": "Groundwater Overexploitation"
+   },
+   "q": {
+    "te": "దిగుబడిని పెంచుకోవడానికి రైతులు అనుసరిస్తున్న ఏ పద్ధతి వల్ల భూగర్భ జలాలు క్షీణించి, ఆహార భద్రతపై ప్రతికూల ప్రభావం పడుతోంది?",
+    "en": "What practice adopted by farmers to increase their produce is highlighted as leading to falling groundwater levels and adversely affecting food security?"
+   },
+   "options": {
+    "te": [
+     "పైకప్పు వర్షపు నీటి నిల్వ తొట్టెలను ఉపయోగించడం",
+     "పొలాల్లో సొంత బావులు మరియు బోరుబావులను కలిగి ఉండటం",
+     "కాలువల ద్వారా బిందు సేద్యం చేయడం",
+     "వ్యవసాయ భూములపై కాంటూర్ గట్లు నిర్మించడం"
+    ],
+    "en": [
+     "Utilizing rooftop rainwater harvesting tanks",
+     "Having their own wells and tube-wells for irrigation",
+     "Drip irrigation from canals",
+     "Constructing contour bunds on farmlands"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "రైతులు తమ పొలాలలో సొంత బావులు, బోరుబావులను ఏర్పాటు చేసుకోవడం భూగర్భజలాల క్షీణతకు, ఆహార భద్రత సమస్యలకు దారితీస్తోంది.",
+    "en": "Farmers having their own wells and tube-wells in their farms for irrigation leads to falling groundwater levels and impacts food security."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T29-0075",
+   "section": {
+    "te": "Culturable waste land",
+    "en": "Culturable waste land"
+   },
+   "q": {
+    "te": "భూ వినియోగ వర్గీకరణ ప్రకారం, 'సాగు చేయదగిన బీడు భూమి' (Culturable waste land) అంటే ఎన్ని సంవత్సరాలకు పైగా సాగు చేయకుండా వదిలేసిన భూమి?",
+    "en": "In the classification of land utilisation, 'Culturable waste land' refers to land left uncultivated for:"
+   },
+   "options": {
+    "te": [
+     "5 వ్యవసాయ సంవత్సరాల కంటే ఎక్కువ",
+     "ఖచ్చితంగా 10 వ్యవసాయ సంవత్సరాలు",
+     "1 నుండి 5 వ్యవసాయ సంవత్సరాలు",
+     "ఒక వ్యవసాయ సంవత్సరం కంటే తక్కువ"
+    ],
+    "en": [
+     "More than 5 agricultural years",
+     "Exactly 10 agricultural years",
+     "1 to 5 agricultural years",
+     "Less than one agricultural year"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూ వినియోగ వర్గీకరణ ప్రకారం, 5 వ్యవసాయ సంవత్సరాల కంటే ఎక్కువ కాలం సాగు చేయకుండా వదిలివేసిన భూమిని సాగు చేయదగిన బీడు భూమి అంటారు.",
+    "en": "According to the land utilisation classification, culturable waste land is land left uncultivated for more than 5 agricultural years."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T29-0093",
+   "section": {
+    "te": "Water Quality Degradation",
+    "en": "Water Quality Degradation"
+   },
+   "q": {
+    "te": "పుష్కలంగా నీరు ఉన్నప్పటికీ, క్రింది వేటి వల్ల కలుషితమై అది మానవ వినియోగానికి ప్రమాదకరంగా మారుతుంది?",
+    "en": "Even in areas with ample water to meet people's needs, water can become hazardous for human use due to pollution caused by which of the following?"
+   },
+   "options": {
+    "te": [
+     "గృహ మరియు పారిశ్రామిక వ్యర్థాలు",
+     "వ్యవసాయంలో ఉపయోగించే రసాయనాలు, పురుగుమందులు మరియు ఎరువులు",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Domestic and industrial wastes",
+     "Chemicals, pesticides and fertilisers used in agriculture",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "గృహ మరియు పారిశ్రామిక వ్యర్థాలు, అలాగే వ్యవసాయంలో వాడే రసాయనాలు, పురుగుమందులు మరియు ఎరువుల వల్ల నీరు కలుషితమై ప్రమాదకరంగా మారుతుంది.",
+    "en": "Water can become hazardous for human use when polluted by domestic and industrial wastes as well as chemicals, pesticides, and fertilisers from agriculture."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T29-0081",
+   "section": {
+    "te": "Earth water coverage",
+    "en": "Earth water coverage"
+   },
+   "q": {
+    "te": "భూ ఉపరితలంలో ఎంత భాగం నీటితో కప్పబడి ఉంది?",
+    "en": "What proportion of the earth's surface is covered with water?"
+   },
+   "options": {
+    "te": [
+     "సగం (1/2)",
+     "మూడింట రెండు వంతులు (2/3)",
+     "నాల్గవ వంతు (1/4)",
+     "మూడు వంతులు (3/4)"
+    ],
+    "en": [
+     "Half",
+     "Two-third",
+     "One-fourth",
+     "Three-fourth"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూ ఉపరితలంలో సుమారు మూడు వంతుల భాగం (మూడు-నాల్గవ వంతు) నీటితో కప్పబడి ఉంది.",
+    "en": "Three-fourth of the earth's surface is covered with water, though only a small proportion is usable freshwater."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T29-0165",
+   "section": {
+    "te": "Water Conservation Works",
+    "en": "Water Conservation Works"
+   },
+   "q": {
+    "te": "రాలెగాన్ సిద్ధిలో వాటర్‌షెడ్ అభివృద్ధి పనులు ప్రారంభంలో ఏ నిర్మాణ మరమ్మత్తుతో మొదలయ్యాయి?",
+    "en": "With the construction and repair of which structure did the watershed development work initially begin in Ralegan Siddhi?"
+   },
+   "options": {
+    "te": [
+     "వ్యవసాయ కుంట (ఫామ్ పాండ్)",
+     "చెక్ డ్యామ్",
+     "బోర్‌వెల్ రీఛార్జ్ పిట్",
+     "ఊట చెరువు (పెర్కోలేషన్ ట్యాంక్)"
+    ],
+    "en": [
+     "Farm pond",
+     "Check dam",
+     "Borewell recharge pit",
+     "Percolation tank"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రాలెగాన్ సిద్ధిలో అభివృద్ధి పనులు గ్రామంలో నిర్మించిన పెర్కోలేషన్ ట్యాంక్ (ఊట చెరువు) మరమ్మత్తుతో ప్రారంభమయ్యాయి.",
+    "en": "The transformation work in Ralegan Siddhi began with the repair of the percolation tank constructed in the village."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T29-0159",
+   "section": {
+    "te": "Watershed Management Methods",
+    "en": "Watershed Management Methods"
+   },
+   "q": {
+    "te": "వాటర్‌షెడ్ మేనేజ్‌మెంట్‌లో ఈ క్రింది ఏ పద్ధతుల ద్వారా ఉపరితల నీటి ప్రవాహాన్ని నిరోధించడం మరియు భూగర్భ జలాలను రీఛార్జ్ చేయడం జరుగుతుంది?",
+    "en": "Watershed management involves the prevention of runoff and recharge of groundwater through which of the following methods?"
+   },
+   "options": {
+    "te": [
+     "పర్కోలేషన్ ట్యాంకులు (Percolation tanks)",
+     "రీఛార్జ్ బావులు (Recharge wells)",
+     "A మరియు B రెండూ",
+     "పారిశ్రామిక వ్యర్థాల విడుదల"
+    ],
+    "en": [
+     "Percolation tanks",
+     "Recharge wells",
+     "Both A and B",
+     "Industrial effluents discharge"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వాటర్‌షెడ్ మేనేజ్‌మెంట్‌లో భూగర్భ జలాల రీఛార్జ్ కోసం పర్కోలేషన్ ట్యాంకులు మరియు రీఛార్జ్ బావులను పద్ధతులుగా పాఠ్యభాగం పేర్కొంది.",
+    "en": "Percolation tanks and recharge wells as methods for groundwater recharge in watershed management."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T29-0121",
+   "section": {
+    "te": "Shillong rainwater share",
+    "en": "Shillong rainwater share"
+   },
+   "q": {
+    "te": "మేఘాలయలోని షిల్లాంగ్‌లో, గృహాల మొత్తం నీటి అవసరాలలో దాదాపు ఎంత శాతం పైకప్పు వర్షపు నీటి సంరక్షణ ద్వారా లభిస్తుంది?",
+    "en": "In Shillong, Meghalaya, rooftop rainwater harvesting accounts for approximately what share of the total household water requirement?"
+   },
+   "options": {
+    "te": [
+     "15-25 శాతం",
+     "5-10 శాతం",
+     "35-45 శాతం",
+     "50-60 శాతం"
+    ],
+    "en": [
+     "15-25 per cent",
+     "5-10 per cent",
+     "35-45 per cent",
+     "50-60 per cent"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "షిల్లాంగ్‌లో ఇళ్ల మొత్తం నీటి అవసరాలలో దాదాపు 15-25 శాతం నీరు పైకప్పు వర్షపు నీటి నిల్వ నుంచే సమకూరుతుంది.",
+    "en": "In Shillong, nearly 15-25 per cent of the total household water requirement is met through rooftop rainwater harvesting."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T29-0112",
+   "section": {
+    "te": "Traditional water diversion channels",
+    "en": "Traditional water diversion channels"
+   },
+   "q": {
+    "te": "పశ్చిమ హిమాలయాల పర్వత మరియు కొండ ప్రాంతాలలో వ్యవసాయం కోసం నిర్మించిన సాంప్రదాయ నీటి మళ్లింపు కాలువలను ఏమని పిలుస్తారు?",
+    "en": "In the hill and mountainous regions of the Western Himalayas, what are the traditional agricultural diversion channels called?"
+   },
+   "options": {
+    "te": [
+     "టంకాలు",
+     "గుల్స్ లేదా కుల్స్",
+     "ఖదీన్లు",
+     "జోహాద్లు"
+    ],
+    "en": [
+     "Tankas",
+     "Guls or Kuls",
+     "Khadins",
+     "Johads"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పశ్చిమ హిమాలయాల కొండ ప్రాంతాలలో వ్యవసాయ నీటిపారుదల కోసం నిర్మించిన మళ్లింపు కాలువలను 'గుల్స్' లేదా 'కుల్స్' అని పిలుస్తారు.",
+    "en": "In the hill and mountainous regions of the Western Himalayas, people built diversion channels known as 'guls' or 'kuls' for agricultural purposes."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T29-0115",
+   "section": {
+    "te": "Underground drinking water tanks",
+    "en": "Underground drinking water tanks"
+   },
+   "q": {
+    "te": "సాంప్రదాయకంగా రాజస్థాన్‌లోని క్రింది ఏ ప్రాంతాలలో తాగునీటిని నిల్వ చేసుకోవడానికి ఇళ్లలో భూగర్భ ట్యాంకులు లేదా 'టంకాలు' నిర్మించేవారు?",
+    "en": "Traditionally, underground tanks or 'tankas' for storing drinking water were commonly built in households of which of the following regions of Rajasthan?"
+   },
+   "options": {
+    "te": [
+     "బికనీర్",
+     "ఫలోది మరియు బార్మర్",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Bikaner",
+     "Phalodi and Barmer",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రాజస్థాన్‌లోని శుష్క, పాక్షిక శుష్క ప్రాంతాలైన బికనీర్, ఫలోది మరియు బార్మర్‌లలో తాగునీటి నిల్వ కోసం ఇళ్లలో సాంప్రదాయకంగా భూగర్భ టంకాలు నిర్మించేవారు.",
+    "en": "Underground tanks or tankas were traditionally constructed in almost all houses in the semi-arid and arid regions of Rajasthan, particularly in Bikaner, Phalodi, and Barmer."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T29-0245",
+   "section": {
+    "te": "CPR Conflict Resolution",
+    "en": "CPR Conflict Resolution"
+   },
+   "q": {
+    "te": "పెట్లవాడ్ బ్లాక్‌లో, పొరుగు గ్రామానికి చెందిన ఒక వ్యక్తి ఉమ్మడి ఆస్తులను (CPR) ఆక్రమించినప్పుడు గ్రామస్తులు ఆ వివాదాన్ని ఎలా పరిష్కరించారు?",
+    "en": "In Petlawad block, how did the villagers resolve the conflict when a resident from an adjoining village encroached on Common Property Resources (CPR)?"
+   },
+   "options": {
+    "te": [
+     "ఆక్రమణదారుపై భారీ ఆర్థిక జరిమానా విధించడం ద్వారా",
+     "ఆక్రమణదారుని తమ వినియోగదారుల బృందంలో సభ్యునిగా చేర్చుకుని ప్రయోజనాలను పంచుకోవడం ద్వారా",
+     "పోలీసుల జోక్యంతో ఆక్రమణదారుని శాశ్వతంగా బహిష్కరించడం ద్వారా",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "By imposing a heavy financial penalty on the encroacher",
+     "By making the encroacher a member of their user group and sharing benefits",
+     "By permanently evicting the encroacher through police intervention",
+     "None of these"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఆక్రమణదారుడిని తమ వినియోగదారుల సంఘంలో సభ్యుడిగా చేర్చుకుని, పచ్చిక బయళ్ల వల్ల వచ్చే ప్రయోజనాలలో భాగం కల్పించడం ద్వారా గ్రామస్తులు వివాదాన్ని పరిష్కరించారు.",
+    "en": "The villagers resolved the conflict peacefully by offering to make the encroacher a member of their user group and sharing the benefits of pasture development."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T29-0019",
+   "section": {
+    "te": "Restoration definition",
+    "en": "Restoration definition"
+   },
+   "q": {
+    "te": "క్షీణించిన లేదా దెబ్బతిన్న దానిని దాని అసలు ఆరోగ్యకరమైన స్థితికి తిరిగి తీసుకువచ్చే ప్రక్రియను ఏమంటారు?",
+    "en": "What is the process of returning something to its original healthy state if it has been degraded or damaged called?"
+   },
+   "options": {
+    "te": [
+     "పునరుద్ధరణ (Restoration)",
+     "పునరుత్పత్తి (Regeneration)",
+     "సుస్థిరత (Sustainability)",
+     "సంరక్షణ (Conservation)"
+    ],
+    "en": [
+     "Restoration",
+     "Regeneration",
+     "Sustainability",
+     "Conservation"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, క్షీణత తర్వాత దేనినైనా దాని అసలు ఆరోగ్యకరమైన స్థితికి తీసుకువచ్చే ప్రక్రియను పునరుద్ధరణ అంటారు.",
+    "en": "Restoration is defined as the process of returning something to its original healthy state after degradation."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T29-0189",
+   "section": {
+    "te": "National Water Policy features",
+    "en": "National Water Policy features"
+   },
+   "q": {
+    "te": "జాతీయ నీటి విధానం, 2012 కు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది జాతీయ నీటి చట్ర చట్టం (national water framework law) యొక్క ఆవశ్యకతను నొక్కి చెబుతుంది.\n2. నీటి వనరుల ప్రాజెక్టులు మరియు సేవలను సమాజ భాగస్వామ్యంతో నిర్వహించాలని ఇది సిఫార్సు చేస్తుంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the National Water Policy, 2012:\n1. It emphasizes the need for a national water framework law.\n2. It recommends managing water resources projects and services with community participation.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 కాదు 2 కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "జాతీయ నీటి చట్ర చట్టం అవసరమని మరియు ప్రాజెక్టులను ప్రజల భాగస్వామ్యంతో నిర్వహించాలని జాతీయ నీటి విధానం 2012 లో స్పష్టంగా పేర్కొన్నారు.",
+    "en": "Both statements are direct recommendations of the National Water Policy 2012 as stated in the text."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T29-0059",
+   "section": {
+    "te": "Brundtland Commission Report",
+    "en": "Brundtland Commission Report"
+   },
+   "q": {
+    "te": "'సుస్థిర అభివృద్ధి' (Sustainable Development) భావనను ప్రవేశపెట్టిన 1987 నాటి బ్రండ్ట్‌ల్యాండ్ కమిషన్ నివేదిక ఆ తర్వాత ఏ పేరుతో పుస్తకంగా ప్రచురించబడింది?",
+    "en": "The 1987 Brundtland Commission Report introducing the concept of 'Sustainable Development' was subsequently published in a book entitled:"
+   },
+   "options": {
+    "te": [
+     "అవర్ కామన్ ఫ్యూచర్ (Our Common Future)",
+     "సైలెంట్ స్ప్రింగ్ (Silent Spring)",
+     "లిమిట్స్ టు గ్రోత్ (Limits to Growth)",
+     "స్మాల్ ఈజ్ బ్యూటిఫుల్ (Small is Beautiful)"
+    ],
+    "en": [
+     "Our Common Future",
+     "Silent Spring",
+     "Limits to Growth",
+     "Small is Beautiful"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "బ్రండ్ట్‌ల్యాండ్ కమిషన్ నివేదిక సుస్థిర అభివృద్ధి భావనను అందించింది, అది తర్వాత 'అవర్ కామన్ ఫ్యూచర్' అనే పుస్తకంగా ప్రచురితమైంది.",
+    "en": "The Brundtland Commission Report (1987) introduced the concept of 'Sustainable Development' and was published in the book 'Our Common Future'."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T29-0114",
+   "section": {
+    "te": "Rainfed agricultural storage",
+    "en": "Rainfed agricultural storage"
+   },
+   "q": {
+    "te": "రాజస్థాన్‌లో వర్షాధార నిల్వ నిర్మాణాల రూపంలోకి మార్చిన వ్యవసాయ క్షేత్రాలను ఏ జిల్లాలో ప్రత్యేకంగా 'ఖదీన్లు' అని పిలుస్తారు?",
+    "en": "In Rajasthan, agricultural fields converted into rain-fed storage structures are specifically known as 'Khadins' in which district?"
+   },
+   "options": {
+    "te": [
+     "బికనీర్",
+     "జైసల్మేర్",
+     "బార్మర్",
+     "ఫలోది"
+    ],
+    "en": [
+     "Bikaner",
+     "Jaisalmer",
+     "Barmer",
+     "Phalodi"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "రాజస్థాన్‌లోని జైసల్మేర్‌లో వ్యవసాయ పొలాలను వర్షపు నీటిని నిల్వ చేసే నిర్మాణాలుగా మార్చడాన్ని 'ఖదీన్లు' అని, ఇతర ప్రాంతాలలో 'జోహాద్లు' అని పిలుస్తారు.",
+    "en": "Rain-fed storage structures created by converting agricultural fields are called 'khadins' in Jaisalmer and 'Johads' in other parts of Rajasthan."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T29-0088",
+   "section": {
+    "te": "Atal Jal States",
+    "en": "Atal Jal States"
+   },
+   "q": {
+    "te": "అటల్ భూజల్ యోజన అమలు చేయబడుతున్న ఏడు రాష్ట్రాల జాబితాలో లేని రాష్ట్రం ఏది?",
+    "en": "Which of the following states is NOT among the seven states where the Atal Bhujal Yojana is being implemented?"
+   },
+   "options": {
+    "te": [
+     "ఉత్తరప్రదేశ్",
+     "మధ్యప్రదేశ్",
+     "ఆంధ్రప్రదేశ్",
+     "గుజరాత్"
+    ],
+    "en": [
+     "Uttar Pradesh",
+     "Madhya Pradesh",
+     "Andhra Pradesh",
+     "Gujarat"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అటల్ జల్ పథకం గుజరాత్, హర్యానా, కర్ణాటక, మధ్యప్రదేశ్, మహారాష్ట్ర, రాజస్థాన్ మరియు ఉత్తరప్రదేశ్‌లలో అమలు చేయబడుతోంది; ఇందులో ఆంధ్రప్రదేశ్ లేదు.",
+    "en": "The seven states under Atal Jal are Gujarat, Haryana, Karnataka, Madhya Pradesh, Maharashtra, Rajasthan, and Uttar Pradesh. Andhra Pradesh is not one of them."
+   }
+  }
+ ]
+}

@@ -1,0 +1,942 @@
+{
+ "id": "geo-04-g1-6",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Landforms – క్విజ్ 6",
+  "en": "Landforms – Quiz 6"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T04-0222",
+   "section": {
+    "te": "Hanging valleys triangular facets",
+    "en": "Hanging valleys triangular facets"
+   },
+   "q": {
+    "te": "హిమానీనద లోయలలో, ప్రధాన లోయలోకి తెరుచుకునే వేలాడే లోయల (hanging valleys) పర్వత పార్శ్వాల మొనలు కత్తిరించబడి క్రింది వాటిలో దేని వలె కనిపిస్తాయి?",
+    "en": "In glaciated valleys, the truncated faces of divides or spurs of hanging valleys opening into the main valley often resemble:"
+   },
+   "options": {
+    "te": [
+     "త్రిభుజాకార ఫాసెట్లు (Triangular facets)",
+     "వంకరటింకర గట్లు",
+     "వృత్తాకార గుంటలు",
+     "అర్ధచంద్రాకార దిబ్బలు"
+    ],
+    "en": [
+     "Triangular facets",
+     "Sinuous ridges",
+     "Circular depressions",
+     "Crescentic dunes"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రధాన హిమానీనద లోయల్లోకి తెరుచుకునే వేలాడే లోయల కొనలు కత్తిరించబడి త్రిభుజాకార ముఖాలు (త్రిభుజాకార ఫాసెట్లు) వలె కనిపిస్తాయి.",
+    "en": "The faces of divides or spurs of hanging valleys opening into main glacial valleys are truncated to give them an appearance like triangular facets."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T04-0166",
+   "section": {
+    "te": "Peneplain formation",
+    "en": "Peneplain formation"
+   },
+   "q": {
+    "te": "నదీ ప్రవాహ క్రమక్షయం ఫలితంగా ఏర్పడి, అక్కడక్కడా తక్కువ ఎత్తుగల అవశిష్ట గుట్టలతో కూడిన స్వల్ప హెచ్చుతగ్గులు గల మైదానాన్ని ఏమంటారు?",
+    "en": "A lowland of faint relief with some low resistant remnants standing out here and there, formed as a result of stream erosion, is called a:"
+   },
+   "options": {
+    "te": [
+     "పెడిప్లెయిన్",
+     "నిర్మాణాత్మక మైదానం",
+     "పెనెప్లెయిన్ (Peneplain)",
+     "కార్స్ట్ మైదానం"
+    ],
+    "en": [
+     "Pediplain",
+     "Structural plain",
+     "Peneplain",
+     "Karst plain"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నదీ ప్రవాహాల క్రమక్షయం వల్ల జలవిభాజక ప్రాంతాలు దాదాపు చదునుగా మారి ఏర్పడే స్వల్ప అసమానతలు గల మైదానాన్ని పెనెప్లెయిన్ (దాదాపు సమతల మైదానం) అంటారు.",
+    "en": "A peneplain (an almost plain) is formed when drainage divides are eroded and almost completely flattened by stream erosion, leaving a lowland of faint relief."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T04-0234",
+   "section": {
+    "te": "High rocky coasts initial features",
+    "en": "High rocky coasts initial features"
+   },
+   "q": {
+    "te": "ఎత్తైన రాతి తీరాల వెంబడి ప్రారంభ దశలో క్రింది వాటిలో ఏవి ప్రధానంగా ఆధిపత్యం చెలాయిస్తాయి?",
+    "en": "Along high rocky coasts, which of the following features typically dominate initially?"
+   },
+   "options": {
+    "te": [
+     "నిక్షేపణ భూస్వరూపాలు",
+     "విశాలమైన డెల్టాలు",
+     "క్రమక్షయ స్వరూపాలు (Erosion features)",
+     "విస్తారమైన ఇసుక దిబ్బలు"
+    ],
+    "en": [
+     "Depositional landforms",
+     "Broad deltas",
+     "Erosion features",
+     "Extensive sand dunes"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఎత్తైన రాతి తీరాలలో ప్రారంభంలో ఎలాంటి నిక్షేపణ స్వరూపాలు కనిపించవు; ప్రధానంగా క్రమక్షయ స్వరూపాలే ఆధిపత్యం వహిస్తాయి.",
+    "en": "Along high rocky coasts, shores do not initially show depositional landforms; erosion features dominate."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T04-0284",
+   "section": {
+    "te": "Denudation Components",
+    "en": "Denudation Components"
+   },
+   "q": {
+    "te": "సాధారణంగా 'వికోషీకరణం' (denudation) అనే పదం కింద ఈ క్రింది ఏ ప్రక్రియలు చేర్చబడ్డాయి?",
+    "en": "Which of the following processes are included under the general term 'denudation'?"
+   },
+   "options": {
+    "te": [
+     "శైథిల్యం మరియు ద్రవ్యరాశి వృధా మాత్రమే",
+     "క్రమక్షయం మరియు రవాణా మాత్రమే",
+     "శైథిల్యం, ద్రవ్యరాశి వృధా, క్రమక్షయం మరియు రవాణా",
+     "అగ్నిపర్వత ప్రక్రియ మరియు టెక్టోనిక్ కదలికలు"
+    ],
+    "en": [
+     "Weathering and mass wasting only",
+     "Erosion and transportation only",
+     "Weathering, mass wasting, erosion and transportation",
+     "Volcanism and tectonic movements"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, వికోషీకరణం అనేది శైథిల్యం, ద్రవ్యరాశి వృధా/కదలికలు, క్రమక్షయం మరియు రవాణాను కవర్ చేసే ఒక సాధారణ పదం.",
+    "en": "Denudation is a general term that covers weathering, mass wasting/movements, erosion, and transportation."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T04-0082",
+   "section": {
+    "te": "River middle course",
+    "en": "River middle course"
+   },
+   "q": {
+    "te": "నది యొక్క మధ్య భాగం (middle course) కు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. నది తన శక్తిని కోల్పోవడంతో మెలికలు తిరగడం (meander) ప్రారంభిస్తుంది.\n2. ఈ భాగంలో ఆక్స్‌బౌ సరస్సులు (oxbow lakes) మరియు వరద మైదానాలు ఏర్పడతాయి.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the middle course of a river:\n1. The river begins to meander as it loses energy.\n2. Oxbow lakes and floodplains are formed in this course.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ కావు",
+     "1 మరియు 2 రెండూ"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Neither 1 nor 2",
+     "Both 1 and 2"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మధ్య భాగంలో నది శక్తిని కోల్పోయి మెలికలు తిరుగుతుంది, మరియు అవక్షేపాలను నిక్షిప్తం చేయడం ప్రారంభించి ఆక్స్‌బౌ సరస్సులు మరియు వరద మైదానాలను ఏర్పరుస్తుంది.",
+    "en": "In its middle course, a river loses kinetic energy, starts to meander, and creates features such as oxbow lakes and floodplains."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T04-0176",
+   "section": {
+    "te": "River terraces origin",
+    "en": "River terraces origin"
+   },
+   "q": {
+    "te": "నదీ టెర్రస్‌లు ప్రాథమికంగా క్రమక్షయ స్వరూపాలు, ఎందుకంటే అవి దేని వలన ఏర్పడతాయి?",
+    "en": "River terraces are basically products of erosion because they result from:"
+   },
+   "options": {
+    "te": [
+     "నది తన సొంత నిక్షేపిత వరద మైదానంలో నిలువు క్రమక్షయం (vertical erosion) చేయడం వలన",
+     "వరదల సమయంలో ఒండలి నిక్షేపణ జరగడం వలన",
+     "వరద మైదానాలలో గాలి రాపిడి క్రమక్షయం వలన",
+     "పార్శ్వ క్రమక్షయం ద్వారా లోయ వైపులా విస్తరించడం వలన"
+    ],
+    "en": [
+     "Vertical erosion by the stream into its own depositional floodplain",
+     "Deposition of alluvium during unusual floods",
+     "Wind abrasion across floodplain margins",
+     "Lateral erosion widening the valley sides"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నది తన స్వంత నిక్షేపిత వరద మైదానంలో నిలువుగా క్రమక్షయం చేయడం వల్ల నదీ టెర్రస్‌లు ఏర్పడతాయి, కాబట్టి ఇవి క్రమక్షయ ఉత్పత్తులు.",
+    "en": "River terraces are erosional products resulting from vertical erosion by a stream into its own depositional floodplain."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T04-0028",
+   "section": {
+    "te": "Lava Plateaus Soil",
+    "en": "Lava Plateaus Soil"
+   },
+   "q": {
+    "te": "రాతి నేలలు ఉండే సాధారణ పీఠభూములకు భిన్నంగా, అగ్నిపర్వత చర్యల వల్ల ఏర్పడిన లావా పీఠభూములలో సాధారణంగా ఏ రకమైన నేల ఉంటుంది?",
+    "en": "Unlike plateaus with rocky soil, lava plateaus formed by volcanic activity often possess which type of soil?"
+   },
+   "options": {
+    "te": [
+     "సారవంతమైన నల్లరేగడి నేల",
+     "లవణ నేల",
+     "లేటరైట్ నేల",
+     "ఇసుక నేల"
+    ],
+    "en": [
+     "Rich black soil",
+     "Saline soil",
+     "Laterite soil",
+     "Sandy soil"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అగ్నిపర్వత చర్యల ద్వారా ఏర్పడిన లావా పీఠభూములు తరచుగా సారవంతమైన నల్లరేగడి నేలను కలిగి ఉంటాయి.",
+    "en": "Lava plateaus are an exception to rocky plateaus because they often have a rich black soil."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T04-0132",
+   "section": {
+    "te": "Geomorphic Agent Identification",
+    "en": "Geomorphic Agent Identification"
+   },
+   "q": {
+    "te": "ఈ క్రింది వాటిలో ఏది భూస్వరూప కారకం (geomorphic agent) కాదు?",
+    "en": "Which of the following is NOT a geomorphic agent?"
+   },
+   "options": {
+    "te": [
+     "హిమానీనదాలు",
+     "ప్రవహించే నీరు",
+     "గాలి",
+     "అగ్నిపర్వత ప్రక్రియ (Volcanism)"
+    ],
+    "en": [
+     "Glaciers",
+     "Running water",
+     "Wind",
+     "Volcanism"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అగ్నిపర్వత ప్రక్రియ అనేది ఒక భూస్వరూప ప్రక్రియ, కారకం కాదు. కారకాలు అంటే నీరు, గాలి మరియు హిమానీనదాల వంటి మొబైల్ మాధ్యమాలు.",
+    "en": "Volcanism is a geomorphic process, not an agent. Agents are mobile mediums like water, wind, and glaciers."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T04-0214",
+   "section": {
+    "te": "Alaknanda river source",
+    "en": "Alaknanda river source"
+   },
+   "q": {
+    "te": "ఈ క్రింది వాటిలో ఏ హిమానీనదం అలకనంద నదికి నీటిని అందిస్తుంది?",
+    "en": "Which of the following glaciers feeds waters to the Alaknanda river?"
+   },
+   "options": {
+    "te": [
+     "అలకాపురి హిమానీనదం",
+     "గంగోత్రి హిమానీనదం",
+     "బాల్టోరో హిమానీనదం",
+     "సియాచిన్ హిమానీనదం"
+    ],
+    "en": [
+     "Alkapuri glacier",
+     "Gangotri glacier",
+     "Baltoro glacier",
+     "Siachen glacier"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం అలకాపురి హిమానీనదం అలకనంద నదికి నీటిని అందిస్తుంది.",
+    "en": "The Alkapuri glacier feeds waters to the Alaknanda river."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T04-0078",
+   "section": {
+    "te": "River lower course",
+    "en": "River lower course"
+   },
+   "q": {
+    "te": "నది తన దిగువ భాగంలో (lower course) భారీ పరిమాణంలో అవక్షేపాలను నిక్షిప్తం చేయడం ద్వారా క్రింది ఏ భూస్వరూపాలను ఏర్పరుస్తుంది?",
+    "en": "Which of the following landforms are formed by a river in its lower course due to the deposition of large amounts of sediment?"
+   },
+   "options": {
+    "te": [
+     "డెల్టాలు",
+     "సహజ కట్టలు (Levees)",
+     "ఒండ్రు విసనకర్రలు (Alluvial fans)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Deltas",
+     "Levees",
+     "Alluvial fans",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "దిగువ భాగంలో నది వేగం మరింత తగ్గి భారీగా అవక్షేపాలను నిక్షేపించడం ద్వారా డెల్టాలు, సహజ కట్టలు మరియు ఒండ్రు విసనకర్రలను ఏర్పరుస్తుంది.",
+    "en": "In its lower course, a river slows down and deposits large amounts of sediment, creating deltas, levees, and alluvial fans."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T04-0121",
+   "section": {
+    "te": "Geomorphic Agents",
+    "en": "Geomorphic Agents"
+   },
+   "q": {
+    "te": "భూస్వరూప కారకాలకు (geomorphic agents) సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి ప్రవహించే నీరు లేదా గాలి వంటి మొబైల్ మాధ్యమాలు.\n2. ఇవి భూమిలోని పదార్థాలను సేకరించి రవాణా చేయగలవు.\nపైన పేర్కొన్న వాటిలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding geomorphic agents:\n1. They are mobile mediums like running water or wind.\n2. They are capable of acquiring and transporting earth materials.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూస్వరూప కారకం అనేది భూమిలోని పదార్థాలను సేకరించి, రవాణా చేసి, నిక్షేపించే మొబైల్ మాధ్యమంగా నిర్వచించబడింది.",
+    "en": "A geomorphic agent is defined as a mobile medium that can acquire, transport, and deposit earth materials."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T04-0016",
+   "section": {
+    "te": "Andes Peak",
+    "en": "Andes Peak"
+   },
+   "q": {
+    "te": "ఆండీస్ పర్వత శ్రేణిలో అత్యంత ఎత్తైన శిఖరం ఏది?",
+    "en": "Which is the highest peak of the Andes mountain range?"
+   },
+   "options": {
+    "te": [
+     "మౌంట్ అకాన్కాగువా",
+     "మౌంట్ ఎవరెస్ట్",
+     "మౌంట్ కిలిమంజారో",
+     "మౌంట్ బ్లాంక్"
+    ],
+    "en": [
+     "Mount Aconcagua",
+     "Mount Everest",
+     "Mount Kilimanjaro",
+     "Mont Blanc"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "దక్షిణ అమెరికాలోని మౌంట్ అకాన్కాగువా ఆండీస్ శ్రేణిలో అత్యంత ఎత్తైన శిఖరం.",
+    "en": "Mount Aconcagua, located in South America, is the highest peak of the Andes range."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T04-0266",
+   "section": {
+    "te": "Parabolic dunes",
+    "en": "Parabolic dunes"
+   },
+   "q": {
+    "te": "పారాబోలిక్ ఇసుక దిబ్బలకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇసుక ఉపరితలాలు పాక్షికంగా వృక్షసంపదతో కప్పబడినప్పుడు ఇవి ఏర్పడతాయి.\n2. ఇవి ప్రాథమికంగా ఒకే గాలి దిశను కలిగి ఉండే రివర్స్డ్ బార్కాన్లు.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding parabolic dunes:\n1. They form when sandy surfaces are partially covered with vegetation.\n2. They are essentially reversed barchans with the same wind direction.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం రెండు ప్రకటనలు సరైనవే; పారాబోలిక్ దిబ్బలు పాక్షికంగా వృక్షసంపద ఉన్న చోట ఏర్పడతాయి మరియు వీటిని రివర్స్డ్ బార్కాన్లుగా వర్ణిస్తారు.",
+    "en": "Both statements are correct according to the text; parabolic dunes form on partially vegetated surfaces and are described as reversed barchans."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T04-0119",
+   "section": {
+    "te": "Aggradation",
+    "en": "Aggradation"
+   },
+   "q": {
+    "te": "భూమి ఉపరితలంపై ఉన్న బేసిన్లు లేదా పల్లపు ప్రాంతాలను నింపే ప్రక్రియ ఏది?",
+    "en": "Which process involves the filling up of basins or depressions on the earth's surface?"
+   },
+   "options": {
+    "te": [
+     "అగ్రేడేషన్ (Aggradation)",
+     "శైథిల్యం (Weathering)",
+     "డిగ్రేడేషన్ (Degradation)",
+     "క్రమక్షయం (Erosion)"
+    ],
+    "en": [
+     "Aggradation",
+     "Weathering",
+     "Degradation",
+     "Erosion"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "బహిర్జనిత శక్తుల చర్య వల్ల భూమిపై ఉన్న పల్లపు ప్రాంతాలను నింపడాన్ని అగ్రేడేషన్ అంటారు.",
+    "en": "Aggradation is the process where basins or depressions on the earth's surface are filled up by the action of exogenic forces."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T04-0009",
+   "section": {
+    "te": "Old Mountains",
+    "en": "Old Mountains"
+   },
+   "q": {
+    "te": "పర్వతాల వయస్సు గురించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. హిమాలయాల వంటి ఎత్తైన మరియు పదునైన శిఖరాలు సాపేక్షంగా 'యువ' (young) పర్వతాలు.\n2. ఆరావళి శ్రేణి వంటి తక్కువ ఎత్తు మరియు గుండ్రని పర్వతాలు చాలా పురాతనమైనవి.\n3. ఆరావళి శ్రేణి క్రమక్షయం (erosion) వల్ల గుండ్రంగా మారింది.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements about mountain ages:\n1. Tall and sharp peaks like the Himalayas are relatively 'young'.\n2. Shorter and rounded mountains like the Aravalli Range are much older.\n3. The Aravalli Range has been rounded by erosion.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "హిమాలయాలు పదునైన శిఖరాలతో కూడిన యువ పర్వతాలు, అయితే ఆరావళి శ్రేణి క్రమక్షయం కారణంగా గుండ్రంగా మారిన పురాతన పర్వతాలు.",
+    "en": "Himalayas are young mountains with sharp peaks, while the Aravalli Range is older and rounded due to erosion."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T04-0180",
+   "section": {
+    "te": "Alluvial fan climatic shapes",
+    "en": "Alluvial fan climatic shapes"
+   },
+   "q": {
+    "te": "వివిధ శీతోష్ణస్థితులలో ఒండలి విసనకర్రల (Alluvial fans) ఆకారం మరియు వాలుకు సంబంధించి క్రింది వాటిలో ఏది/వి సరైనది/వి?\nA. తేమతో కూడిన ప్రాంతాలలో, ఇవి సాధారణంగా సున్నితమైన వాలుతో తక్కువ ఎత్తు గల శంకువులుగా ఉంటాయి\nB. శుష్క మరియు పాక్షిక శుష్క శీతోష్ణస్థితులలో, ఇవి నిటారైన వాలుతో ఎత్తైన శంకువులుగా కనిపిస్తాయి",
+    "en": "Regarding the shape and slope of alluvial fans under different climates, which of the following statements is/are correct?\nA. In humid areas, they normally show low cones with gentle slopes from head to toe\nB. In arid and semi-arid climates, they appear as high cones with steep slopes"
+   },
+   "options": {
+    "te": [
+     "ప్రకటన A మాత్రమే",
+     "ప్రకటన B మాత్రమే",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Statement A only",
+     "Statement B only",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "తేమతో కూడిన ప్రాంతాలలో ఒండలి విసనకర్రలు తక్కువ ఎత్తుతో సున్నితమైన వాలును కలిగి ఉంటాయి, అలాగే శుష్క/పాక్షిక శుష్క ప్రాంతాలలో నిటారైన వాలుతో ఎత్తైన శంకువులుగా ఏర్పడతాయి.",
+    "en": "Alluvial fans in humid areas form low cones with gentle slopes, while in arid and semi-arid areas they form high cones with steep slopes."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T04-0220",
+   "section": {
+    "te": "Glacial till definition",
+    "en": "Glacial till definition"
+   },
+   "q": {
+    "te": "కరగుతున్న హిమానీనదం ద్వారా నేరుగా నిక్షేపించబడే వర్గీకరించబడని ముతక మరియు సూక్ష్మ శిథిలాలను ఏమని పిలుస్తారు?",
+    "en": "The unassorted coarse and fine debris dropped directly by melting glaciers is called:"
+   },
+   "options": {
+    "te": [
+     "హిమానీనద టిల్ (Glacial till)",
+     "ఒండ్రు మట్టి (Alluvium)",
+     "ఎస్కర్ (Esker)",
+     "అవుట్‌వాష్ నిక్షేపాలు (Outwash deposits)"
+    ],
+    "en": [
+     "Glacial till",
+     "Alluvium",
+     "Esker",
+     "Outwash deposit"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "కరగుతున్న హిమానీనదాల ద్వారా పడవేయబడిన క్రమబద్ధీకరించబడని ముతక మరియు సూక్ష్మ శిథిలాలను హిమానీనద టిల్ అని పిలుస్తారు.",
+    "en": "Glacial till is the unassorted coarse and fine debris deposited directly by melting glaciers, with rock fragments being mostly angular to sub-angular."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T04-0136",
+   "section": {
+    "te": "Weathering definition",
+    "en": "Weathering definition"
+   },
+   "q": {
+    "te": "శైథిల్యాన్ని 'స్వస్థానంలోనే జరిగే ప్రక్రియ' (in-situ లేదా on-site process) అని ఎందుకు పిలుస్తారు?",
+    "en": "Why is weathering described as an 'in-situ' or 'on-site' process?"
+   },
+   "options": {
+    "te": [
+     "శిలా పదార్థాల కదలిక చాలా స్వల్పంగా లేదా అసలు జరగకపోవడం వలన",
+     "ప్రవహించే నీటి ద్వారా శిలా శకలాలు భారీ ఎత్తున రవాణా కావడం వలన",
+     "ఇది భూమి యొక్క మాంటిల్ లోపల అత్యంత లోతులో మాత్రమే సంభవించడం వలన",
+     "ఇది కేవలం అంతర్జనిత టెక్టానిక్ చర్యల వలన మాత్రమే సంభవించడం వలన"
+    ],
+    "en": [
+     "Very little or no motion of materials takes place",
+     "Large-scale transportation of rock fragments occurs through running water",
+     "It occurs exclusively at great depths within the earth's mantle",
+     "It is caused only by endogenic tectonic activity"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "శైథిల్యం సమయంలో శిలా పదార్థాల కదలిక చాలా స్వల్పంగా ఉంటుంది లేదా అసలు ఉండదు, కాబట్టి దీనిని స్వస్థానంలోనే జరిగే ప్రక్రియ (in-situ) అంటారు.",
+    "en": "Weathering is an in-situ or on-site process because very little or no motion of materials takes place during the process."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T04-0286",
+   "section": {
+    "te": "Role of Gravity",
+    "en": "Role of Gravity"
+   },
+   "q": {
+    "te": "భూస్వరూప ప్రక్రియలలో గురుత్వాకర్షణ పాత్రకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. గురుత్వాకర్షణ పదార్థం యొక్క అన్ని దిగువ కదలికలను సక్రియం చేస్తుంది.\n2. పరోక్ష గురుత్వాకర్షణ ఒత్తిళ్లు తరంగ మరియు పోటు ప్రేరిత ప్రవాహాలను సక్రియం చేస్తాయి.\n3. భూమిపై ఉన్న అన్ని ఉపరితల పదార్థాల కదలికను ప్రారంభించే శక్తి గురుత్వాకర్షణ.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding the role of gravity in geomorphic processes:\n1. Gravity activates all downslope movements of matter.\n2. Indirect gravitational stresses activate wave and tide induced currents.\n3. Gravity is the force that switches on the movement of all surface material on earth.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "గురుత్వాకర్షణ దిగువ కదలికలను సక్రియం చేస్తుందని, ఒత్తిడిని కలిగిస్తుందని, పరోక్షంగా తరంగ/పోటు ప్రవాహాలను సక్రియం చేస్తుందని మరియు అన్ని ఉపరితల పదార్థాల కదలికను ప్రారంభించే శక్తి అని పాఠ్యాంశం పేర్కొంది.",
+    "en": "Gravity activates downslope movements, causes stresses, activates wave/tide currents indirectly, and is the force that switches on all surface material movement."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T04-0153",
+   "section": {
+    "te": "Geomorphic agents in humid regions",
+    "en": "Geomorphic agents in humid regions"
+   },
+   "q": {
+    "te": "అధిక వర్షపాతం పొందే ఆర్ద్ర ప్రాంతాలలో, భూ ఉపరితల క్షీణతకు కారణమయ్యే అత్యంత ముఖ్యమైన భూస్వరూప కారకంగా దేనిని పరిగణిస్తారు?",
+    "en": "In humid regions that receive heavy rainfall, which of the following is considered the most important geomorphic agent in degrading the land surface?"
+   },
+   "options": {
+    "te": [
+     "భూగర్భ జలం (Groundwater)",
+     "ప్రవహించే నీరు (Running water)",
+     "హిమానీనదాలు (Glaciers)",
+     "గాలి (Wind)"
+    ],
+    "en": [
+     "Groundwater",
+     "Running water",
+     "Glaciers",
+     "Wind"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారీ వర్షపాతం కురిసే ఆర్ద్ర ప్రాంతాలలో భూ ఉపరితల క్షీణతకు ప్రవహించే నీరు అత్యంత ముఖ్యమైన భూస్వరూప కారకంగా పనిచేస్తుంది.",
+    "en": "In humid regions with heavy rainfall, running water is considered the most important geomorphic agent causing land surface degradation."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T04-0182",
+   "section": {
+    "te": "Middle stage valley erosion",
+    "en": "Middle stage valley erosion"
+   },
+   "q": {
+    "te": "ప్రవహించే నీటి ద్వారా లోయల అభివృద్ధి యొక్క మధ్య దశలో (middle stages) ఏమి జరుగుతుంది?",
+    "en": "In the middle stages of valley development by running water:"
+   },
+   "options": {
+    "te": [
+     "నిలువు కోత విపరీతంగా పెరిగి జలపాతాలు ఏర్పడతాయి",
+     "నదులు తమ లోయ అడుగుభాగాన్ని నెమ్మదిగా కోస్తాయి, మరియు లోయ పార్శ్వాల కోత తీవ్రమవుతుంది",
+     "జలవిభాజకాలు పూర్తిగా సముద్ర మట్టానికి చదును చేయబడతాయి",
+     "లోయలు చిన్న మరియు ఇరుకైన గీతలుగా (rills) మాత్రమే ఏర్పడతాయి"
+    ],
+    "en": [
+     "Down-cutting accelerates and waterfalls form",
+     "Streams cut their beds slower, and lateral erosion of valley sides becomes severe",
+     "Stream divides are completely flattened to sea level",
+     "Valleys develop as small and narrow rills only"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మధ్య దశలో ప్రవాహాలు తమ లోయ అడుగుతలాన్ని నెమ్మదిగా కోస్తాయి, అయితే లోయల వైపులా జరిగే పార్శ్వ క్రమక్షయం (lateral erosion) తీవ్రమవుతుంది.",
+    "en": "In the middle stage, vertical bed erosion slows down and lateral erosion of valley sides becomes severe, widening the valley."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T04-0027",
+   "section": {
+    "te": "Chhota Nagpur Minerals",
+    "en": "Chhota Nagpur Minerals"
+   },
+   "q": {
+    "te": "భారతదేశంలోని ఛోటానాగ్‌పూర్ పీఠభూమిలో క్రింది ఏ ఖనిజాల భారీ నిల్వలు ఉన్నాయి?",
+    "en": "Huge reserves of which minerals are found in the Chhota Nagpur Plateau in India?"
+   },
+   "options": {
+    "te": [
+     "పెట్రోలియం, సహజ వాయువు మరియు లిగ్నైట్",
+     "ఇనుము, బొగ్గు మరియు మాంగనీస్",
+     "బంగారం, వజ్రాలు మరియు వెండి",
+     "రాగి, జింక్ మరియు సీసం"
+    ],
+    "en": [
+     "Petroleum, natural gas and lignite",
+     "Iron, coal and manganese",
+     "Gold, diamond and silver",
+     "Copper, zinc and lead"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారతదేశంలో ఇనుము, బొగ్గు మరియు మాంగనీస్ యొక్క భారీ నిల్వలు ఛోటానాగ్‌పూర్ పీఠభూమిలో కనిపిస్తాయి.",
+    "en": "In India, huge reserves of iron, coal, and manganese are found in the Chhota Nagpur Plateau."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T04-0033",
+   "section": {
+    "te": "Sea Level Definition",
+    "en": "Sea Level Definition"
+   },
+   "q": {
+    "te": "'మహాసముద్రాల ఉపరితలం యొక్క సగటు మట్టం'ను ఏమని నిర్వచిస్తారు?",
+    "en": "What is defined as the 'average level of the surface of the oceans'?"
+   },
+   "options": {
+    "te": [
+     "భూగర్భ జలమట్టం",
+     "వరద మైదాన మట్టం",
+     "సముద్ర మట్టం (Sea level)",
+     "పోటు ఎత్తు"
+    ],
+    "en": [
+     "Water table",
+     "Flood plain level",
+     "Sea level",
+     "Tidal wave height"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సముద్రాల ఉపరితలం యొక్క సగటు మట్టాన్ని 'సముద్ర మట్టం' లేదా 'సగటు సముద్ర మట్టం' (mean sea level) అంటారు.",
+    "en": "Sea level (or mean sea level) is defined as the average level of the surface of the oceans."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T04-0255",
+   "section": {
+    "te": "Pediment formation",
+    "en": "Pediment formation"
+   },
+   "q": {
+    "te": "పెడిమెంట్స్ ఈ క్రింది ఏ ప్రక్రియల ద్వారా పర్వత ముఖభాగాల క్రమక్షయం వల్ల ఏర్పడతాయి?",
+    "en": "Pediments are formed through the erosion of mountain fronts by which of the following processes?"
+   },
+   "options": {
+    "te": [
+     "ప్రవాహాల ద్వారా పార్శ్వ క్రమక్షయం (Lateral erosion)",
+     "షీట్ ఫ్లడ్డింగ్ (Sheet flooding)",
+     "A మరియు B రెండూ",
+     "గాలి డీఫ్లేషన్ మాత్రమే"
+    ],
+    "en": [
+     "Lateral erosion by streams",
+     "Sheet flooding",
+     "Both A and B",
+     "Wind deflation only"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పర్వత ముఖభాగం వద్ద ప్రవాహాల పార్శ్వ క్రమక్షయం మరియు షీట్ ఫ్లడ్డింగ్ కలయిక ద్వారా పెడిమెంట్స్ ఏర్పడతాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Pediments form through a combination of lateral erosion by streams and sheet flooding of the mountain front."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T04-0123",
+   "section": {
+    "te": "Exogenic Energy Source",
+    "en": "Exogenic Energy Source"
+   },
+   "q": {
+    "te": "బహిర్జనిత శక్తులకు (exogenic forces) అవసరమైన శక్తి ప్రధానంగా దేని ద్వారా ప్రేరేపించబడుతుంది?",
+    "en": "The energy for exogenic forces is basically induced by:"
+   },
+   "options": {
+    "te": [
+     "అలల ఘర్షణ",
+     "భూఉష్ణ ప్రవణతలు (Geothermal gradients)",
+     "సూర్యకాంతి",
+     "రేడియోధార్మికత"
+    ],
+    "en": [
+     "Tidal friction",
+     "Geothermal gradients",
+     "Sunlight",
+     "Radioactivity"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "బాహ్య లేదా బహిర్జనిత శక్తులు ప్రధానంగా సూర్యకాంతి నుండి వచ్చే శక్తి ద్వారా నడపబడతాయి.",
+    "en": "External or exogenic forces are primarily driven by energy from sunlight."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T04-0042",
+   "section": {
+    "te": "Marudam occupation",
+    "en": "Marudam occupation"
+   },
+   "q": {
+    "te": "తిణై వర్గీకరణలో, 'మరుదం' భూభాగంతో ముడిపడి ఉన్న ప్రధాన వృత్తి ఏమిటి?",
+    "en": "In the Tiṇai classification, what is the main occupation associated with the 'Marudam' landscape?"
+   },
+   "options": {
+    "te": [
+     "వ్యవసాయం",
+     "వేట",
+     "చేపల వేట",
+     "పశువుల పెంపకం"
+    ],
+    "en": [
+     "Farming",
+     "Hunting",
+     "Fishing",
+     "Cattle rearing"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మరుదం అంటే సారవంతమైన వ్యవసాయ మైదానాలు, ఇక్కడ ప్రధాన వృత్తి వ్యవసాయం.",
+    "en": "Marudam refers to fertile agricultural plains where the main occupation is farming."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T04-0062",
+   "section": {
+    "te": "Ring of Fire",
+    "en": "Ring of Fire"
+   },
+   "q": {
+    "te": "తరచుగా భూకంపాలు మరియు అగ్నిపర్వత కార్యకలాపాలకు ప్రసిద్ధి చెందిన 'రింగ్ ఆఫ్ ఫైర్' ఏ మహాసముద్రం చుట్టూ ఉంది?",
+    "en": "The 'Ring of Fire', known for frequent earthquakes and volcanic activity, is located around which ocean?"
+   },
+   "options": {
+    "te": [
+     "హిందూ మహాసముద్రం",
+     "అట్లాంటిక్ మహాసముద్రం",
+     "పసిఫిక్ మహాసముద్రం",
+     "ఆర్కిటిక్ మహాసముద్రం"
+    ],
+    "en": [
+     "Indian Ocean",
+     "Atlantic Ocean",
+     "Pacific Ocean",
+     "Arctic Ocean"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రింగ్ ఆఫ్ ఫైర్ అనేది పసిఫిక్ మహాసముద్రం చుట్టూ ఉన్న ప్రాంతం, ఇక్కడ ప్రపంచంలోని అత్యధిక భూకంపాలు మరియు అగ్నిపర్వతాలు సంభవిస్తాయి.",
+    "en": "The Ring of Fire is an area around the Pacific Ocean where most of the world's earthquakes and volcanoes occur."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T04-0265",
+   "section": {
+    "te": "Barchans",
+    "en": "Barchans"
+   },
+   "q": {
+    "te": "అర్ధచంద్రాకార బార్కాన్ ఇసుక దిబ్బల రెక్కలు లేదా చివరలు ఏ దిశలో ఉంటాయి?",
+    "en": "In which direction do the wings or points of a crescent-shaped barchan dune face?"
+   },
+   "options": {
+    "te": [
+     "గాలి వీచే దిశ వైపు (upwind)",
+     "గాలి దిశకు లంబంగా",
+     "వాటికి రెక్కలు ఉండవు",
+     "గాలి వీచే దిశకు దూరంగా (downwind)"
+    ],
+    "en": [
+     "Towards the wind direction (upwind)",
+     "Perpendicular to the wind direction",
+     "They do not have wings",
+     "Away from the wind direction (downwind)"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "బార్కాన్లు అర్ధచంద్రాకార దిబ్బలు, వీటి రెక్కలు గాలి వీచే దిశకు దూరంగా (డౌన్ విండ్) ఉంటాయి.",
+    "en": "Barchans are crescent-shaped dunes with wings directed away from the wind direction, which is downwind."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T04-0165",
+   "section": {
+    "te": "Mechanism of deposition",
+    "en": "Mechanism of deposition"
+   },
+   "q": {
+    "te": "క్రమక్షయ కారకాలు సున్నితమైన వాలు ప్రాంతాలకు చేరుకున్నప్పుడు నిక్షేపణ ఎందుకు జరుగుతుంది?",
+    "en": "Why does deposition occur when erosional agents reach gentler slopes?"
+   },
+   "options": {
+    "te": [
+     "కారకాలు తమ వేగాన్ని, శక్తిని కోల్పోవడం వల్ల మోసుకెళ్లిన పదార్థాలు స్థిరపడటం ప్రారంభిస్తాయి",
+     "తక్కువ వాలు ఉన్న ప్రదేశాలలో గురుత్వాకర్షణ శక్తి పూర్తిగా ఆగిపోతుంది",
+     "రసాయన శైథిల్యం వల్ల పదార్థాలు తక్షణమే గట్టిపడతాయి",
+     "కారకాల వేగం పెరిగి రాతి శకలాలను ఒకదానితో ఒకటి అణిచివేస్తాయి"
+    ],
+    "en": [
+     "The agents lose their velocity and energy, causing carried materials to settle",
+     "Gravitational attraction completely ceases on gentler slopes",
+     "Chemical weathering instantly hardens all carried sediments",
+     "The agents accelerate and compact the rock fragments together"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వాలు తగ్గినప్పుడు క్రమక్షయ కారకాల వేగం తగ్గి వాటి మోసే శక్తి నశిస్తుంది, దీంతో అవి మోసుకొచ్చిన పదార్థాలు నిక్షేపించబడతాయి.",
+    "en": "Erosional agents lose their velocity and energy on gentler slopes, causing the materials carried by them to start settling."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T04-0242",
+   "section": {
+    "te": "Off-shore Bar",
+    "en": "Off-shore Bar"
+   },
+   "q": {
+    "te": "తీరానికి దాదాపు సమాంతరంగా సముద్రపు బహిర్గత (ఆఫ్-షోర్) మండలంలో ఏర్పడే ఇసుక మరియు గులకరాళ్ళ గట్టును ఏమని పిలుస్తారు?",
+    "en": "A ridge of sand and shingle formed in the sea in the off-shore zone lying approximately parallel to the coast is called an:"
+   },
+   "options": {
+    "te": [
+     "ఒండలి శంకువు",
+     "సముద్ర గుహ",
+     "తరంగ కోత వేదిక",
+     "ఆఫ్-షోర్ బార్ (తీర బాహ్య గట్టు)"
+    ],
+    "en": [
+     "Alluvial cone",
+     "Sea cave",
+     "Wave-cut terrace",
+     "Off-shore bar"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "తీరానికి సమాంతరంగా సముద్రపు ఆఫ్-షోర్ ప్రాంతంలో ఏర్పడిన ఇసుక మరియు గులకరాళ్ళ వరుసను ఆఫ్-షోర్ బార్ అంటారు.",
+    "en": "An off-shore bar is defined as a ridge of sand and shingle formed in the off-shore zone lying approximately parallel to the coast."
+   }
+  }
+ ]
+}

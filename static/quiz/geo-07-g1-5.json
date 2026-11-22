@@ -1,0 +1,942 @@
+{
+ "id": "geo-07-g1-5",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Climate Elements – క్విజ్ 5",
+  "en": "Climate Elements – Quiz 5"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T07-0033",
+   "section": {
+    "te": "Wind Vane Mechanism",
+    "en": "Wind Vane Mechanism"
+   },
+   "q": {
+    "te": "వాతావరణ దిక్సూచి (Wind vane) గాలి దిశను ఎలా సూచిస్తుంది?",
+    "en": "How does a wind vane indicate the direction of the wind?"
+   },
+   "options": {
+    "te": [
+     "తోక నిశ్చలంగా ఉన్నప్పుడు పాయింటర్ గాలి ద్వారా నెట్టబడుతుంది",
+     "లోహపు కప్పులు నిలువు షాఫ్ట్‌పై తిరుగుతాయి",
+     "విండ్ సాక్ ఉబ్బి వ్యతిరేక దిశను చూపుతుంది",
+     "తోక గాలి ద్వారా నెట్టబడుతుంది, దీనివల్ల పాయింటర్ తిరుగుతుంది"
+    ],
+    "en": [
+     "The pointer is pushed by the wind while the tail stays still",
+     "The metal cups rotate on a vertical shaft",
+     "The wind sock inflates and points to the opposite direction",
+     "The tail is pushed by the wind, causing the pointer to turn"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "విండ్ వేన్‌లో, గాలి తోకను నెట్టడం వల్ల పాయింటర్ గాలి వీచే దిశలోకి తిరుగుతుంది.",
+    "en": "In a wind vane, the wind pushes the tail, which causes the rotating arm's pointer to turn in the direction of the wind."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T07-0027",
+   "section": {
+    "te": "Wind Sock Usage",
+    "en": "Wind Sock Usage"
+   },
+   "q": {
+    "te": "గాలి దిశను నిర్ణయించడానికి క్రింది వారిలో ఎవరు 'విండ్ సాక్స్' (wind socks) ఉపయోగిస్తారు?",
+    "en": "Who among the following use 'wind socks' to determine wind direction?"
+   },
+   "options": {
+    "te": [
+     "టేకాఫ్ మరియు ల్యాండింగ్ సమయంలో పైలట్లు",
+     "బూడిద లేదా వాయువులను విడుదల చేసే పరిశ్రమలు",
+     "A మరియు B రెండూ",
+     "నేల తేమను అంచనా వేయడానికి రైతులు"
+    ],
+    "en": [
+     "Pilots during take-off and landing",
+     "Industries that release ash or gases",
+     "Both A and B",
+     "Farmers for predicting soil moisture"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "విండ్ సాక్స్‌లను టార్మాక్‌లపై పైలట్లు మరియు బూడిద లేదా వాయువులను విడుదల చేసే పరిశ్రమలు గాలి దిశను పర్యవేక్షించడానికి ఉపయోగిస్తాయి.",
+    "en": "Wind socks are used by pilots on tarmacs and also by industries that release ash or gases to monitor wind direction."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T07-0168",
+   "section": {
+    "te": "Ferrel Cell Winds",
+    "en": "Ferrel Cell Winds"
+   },
+   "q": {
+    "te": "మధ్య అక్షాంశాలలో, ఫెర్రల్ సెల్‌తో సంబంధం ఉన్న ఉపరితల పవనాలను ఏమని పిలుస్తారు?",
+    "en": "In the middle latitudes, what are the surface winds associated with the Ferrel cell called?"
+   },
+   "options": {
+    "te": [
+     "తూర్పు పవనాలు (Easterlies)",
+     "ధ్రువ పవనాలు (Polar Winds)",
+     "వ్యాపార పవనాలు (Trade Winds)",
+     "పశ్చిమ పవనాలు (Westerlies)"
+    ],
+    "en": [
+     "Easterlies",
+     "Polar Winds",
+     "Trade Winds",
+     "Westerlies"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మధ్య అక్షాంశాలలో, ఉపఉష్ణమండల అధిక పీడనం నుండి వీచే ఉపరితల పవనాలను పశ్చిమ పవనాలు (westerlies) అని పిలుస్తారు, ఇవి ఫెర్రల్ సెల్‌లో భాగంగా ఉంటాయి.",
+    "en": "In the middle latitudes, the surface winds that blow from the subtropical high are known as the westerlies, forming part of the Ferrel cell."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T07-0060",
+   "section": {
+    "te": "High Pressure Formation",
+    "en": "High Pressure Formation"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): అధిక పీడన ప్రాంతాలు స్పష్టమైన మరియు ఎండతో కూడిన ఆకాశంతో సంబంధం కలిగి ఉంటాయి.\nకారణం (R): తక్కువ ఉష్ణోగ్రతలు ఉన్న ప్రాంతాల్లో, గాలి చల్లగా, బరువుగా ఉండి క్రిందికి దిగుతుంది.",
+    "en": "Assertion (A): High-pressure areas are associated with clear and sunny skies.\nReason (R): In areas with lower temperatures, air is cold, heavy, and sinks."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "చల్లని గాలి బరువుగా ఉండి క్రిందికి దిగుతుంది, ఇది అధిక పీడనాన్ని సృష్టిస్తుంది, ఇది స్పష్టమైన మరియు ఎండ వాతావరణంతో సంబంధం కలిగి ఉంటుంది.",
+    "en": "Cold air is heavy and sinks, creating high pressure, which is associated with clear and sunny weather."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T07-0200",
+   "section": {
+    "te": "Rainfall Distribution",
+    "en": "Rainfall Distribution"
+   },
+   "q": {
+    "te": "ఖండాల కంటే మహాసముద్రాలపై వర్షపాతం సాధారణంగా ఎందుకు ఎక్కువగా ఉంటుంది?",
+    "en": "Why is rainfall generally higher over the oceans than on landmasses?"
+   },
+   "options": {
+    "te": [
+     "మహాసముద్రాలు తక్కువ ఎత్తులో ఉన్నందున",
+     "మహాసముద్రాలు నీటి యొక్క గొప్ప వనరులు కాబట్టి",
+     "మహాసముద్రాలపై గాలి చల్లగా ఉండటం వల్ల",
+     "సముద్రంలో పర్వతాలు ఉండటం వల్ల"
+    ],
+    "en": [
+     "Because oceans are at a lower altitude",
+     "Because oceans are great sources of water",
+     "Because air is colder over the oceans",
+     "Because of the presence of mountains in the sea"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మహాసముద్రాలు బాష్పీభవనం మరియు ద్రవీభవనం కోసం ప్రాథమిక మరియు విస్తారమైన నీటి వనరులుగా పనిచేస్తాయి కాబట్టి అవి ఎక్కువ వర్షపాతాన్ని పొందుతాయి.",
+    "en": "Oceans receive more rainfall because they serve as the primary and vast sources of water for evaporation and condensation."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T07-0031",
+   "section": {
+    "te": "Barometer Unit",
+    "en": "Barometer Unit"
+   },
+   "q": {
+    "te": "వాతావరణ పీడనాన్ని కొలవడానికి బేరోమీటర్ చూపే ప్రామాణిక యూనిట్ ఏమిటి?",
+    "en": "What is the standard unit displayed by a barometer to measure atmospheric pressure?"
+   },
+   "options": {
+    "te": [
+     "మిల్లీబార్ (mb)",
+     "డిగ్రీ సెల్సియస్ (°C)",
+     "మిల్లీమీటర్ (mm)",
+     "కిలోమీటర్/గంట (km/h)"
+    ],
+    "en": [
+     "Millibar (mb)",
+     "Degree Celsius (°C)",
+     "Millimetre (mm)",
+     "Kilometre per hour (km/h)"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "బేరోమీటర్లు సాధారణంగా వాతావరణ పీడనాన్ని మిల్లీబార్లలో (mb) చూపుతాయి.",
+    "en": "Barometers generally display atmospheric pressure in millibars (mb)."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T07-0152",
+   "section": {
+    "te": "Cyclones at Equator",
+    "en": "Cyclones at Equator"
+   },
+   "q": {
+    "te": "ప్రతిపాదన (A): భూమధ్యరేఖకు సమీపంలో ఉష్ణమండల తుఫానులు ఏర్పడవు.\nకారణం (R): భూమధ్యరేఖ వద్ద, కొరియాలిస్ బలం సున్నా మరియు గాలి ఐసోబార్లకు లంబంగా వీస్తుంది.",
+    "en": "Assertion (A): Tropical cyclones are NOT formed near the equator.\nReason (R): At the equator, the Coriolis force is zero and the wind blows perpendicular to the isobars."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూమధ్యరేఖ వద్ద కొరియాలిస్ బలం సున్నా కాబట్టి, అల్పపీడన ప్రాంతాలు తుఫానులుగా మారడానికి బదులుగా నిండిపోతాయి.",
+    "en": "Because the Coriolis force is zero at the equator, low-pressure areas get filled instead of intensifying into cyclones."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T07-0190",
+   "section": {
+    "te": "Fog vs Mist Visibility",
+    "en": "Fog vs Mist Visibility"
+   },
+   "q": {
+    "te": "మంచు (Fog) మరియు పొగమంచు (Mist) మధ్య తేడాను గుర్తించే క్షితిజ సమాంతర దృశ్యమానత (horizontal visibility) పరిమితి ఏమిటి?",
+    "en": "What is the specific horizontal visibility limit that distinguishes fog from mist?"
+   },
+   "options": {
+    "te": [
+     "మంచు దృశ్యమానతను 1 కి.మీ కంటే తక్కువకు తగ్గిస్తుంది; పొగమంచు దీనిని 1-2 కి.మీలకు పరిమితం చేస్తుంది",
+     "మంచు దృశ్యమానతను 2-5 కి.మీలకు తగ్గిస్తుంది; పొగమంచు దీనిని 1 కి.మీ కంటే తక్కువకు పరిమితం చేస్తుంది",
+     "మంచు దృశ్యమానతను 1-2 కి.మీలకు తగ్గిస్తుంది; పొగమంచు దీనిని 1 కి.మీ కంటే తక్కువకు పరిమితం చేస్తుంది",
+     "మంచు మరియు పొగమంచు రెండూ దృశ్యమానతను సరిగ్గా 1 కి.మీకి తగ్గిస్తాయి"
+    ],
+    "en": [
+     "Fog reduces visibility to less than 1 km; Mist limits it to 1-2 km",
+     "Fog reduces visibility to 2-5 km; Mist limits it to less than 1 km",
+     "Fog reduces visibility to 1-2 km; Mist limits it to less than 1 km",
+     "Both fog and mist reduce visibility to exactly 1 km"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యం ప్రకారం, మంచు క్షితిజ సమాంతర దృశ్యమానతను 1 కి.మీ కంటే తక్కువకు తగ్గిస్తుంది, అయితే పొగమంచు దీనిని 1 కి.మీ మరియు 2 కి.మీ మధ్య పరిమితం చేస్తుంది.",
+    "en": "Fog reduces horizontal visibility to less than 1 km, whereas mist limits it to between 1 km and 2 km."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T07-0166",
+   "section": {
+    "te": "ENSO Weather Impacts",
+    "en": "ENSO Weather Impacts"
+   },
+   "q": {
+    "te": "బలమైన ENSO ప్రభావాలకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. దక్షిణ అమెరికాలోని శుష్క పశ్చిమ తీరంలో భారీ వర్షాలు కురుస్తాయి.\n2. ఆస్ట్రేలియా మరియు భారతదేశంలో కరువు పరిస్థితులు ఏర్పడవచ్చు.\n3. చైనాలో కొన్నిసార్లు వరదలు సంభవిస్తాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding the impacts of a strong ENSO event:\n1. The arid west coast of South America receives heavy rainfall.\n2. Drought conditions may occur in Australia and India.\n3. Floods are sometimes observed in China.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "బలమైన ENSO సంవత్సరాలలో, దక్షిణ అమెరికాలో భారీ వర్షాలు, ఆస్ట్రేలియా/భారతదేశంలో కరువులు మరియు చైనాలో వరదలతో సహా భారీ స్థాయి వాతావరణ మార్పులు సంభవిస్తాయి.",
+    "en": "During strong ENSO years, large-scale weather variations occur, including heavy rain in South America, droughts in Australia/India, and floods in China."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T07-0120",
+   "section": {
+    "te": "Isotherm Deviation",
+    "en": "Isotherm Deviation"
+   },
+   "q": {
+    "te": "జనవరిలో ఉత్తరార్ధగోళంలో సమోష్ణ రేఖలు (isotherms) సాధారణ అక్షాంశ ధోరణి నుండి ఎక్కువగా ఎందుకు తప్పుకుంటాయి?",
+    "en": "Why is the deviation of isotherms from the general latitudinal trend more pronounced in the Northern Hemisphere during January?"
+   },
+   "options": {
+    "te": [
+     "ఎత్తైన పర్వత శ్రేణుల ఉనికి వల్ల",
+     "దక్షిణార్ధగోళం కంటే భూభాగం వైశాల్యం చాలా ఎక్కువగా ఉండటం వల్ల",
+     "ఉత్తరాన భూమి భ్రమణ వేగం ఎక్కువగా ఉండటం వల్ల",
+     "గ్రీన్‌హౌస్ వాయువుల సాంద్రత ఎక్కువగా ఉండటం వల్ల"
+    ],
+    "en": [
+     "Due to the presence of high mountain ranges",
+     "Because the land surface area is much larger than in the Southern Hemisphere",
+     "Due to the higher speed of the Earth's rotation in the north",
+     "Because of the higher concentration of greenhouse gases"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, ఉత్తరార్ధగోళంలో భూభాగం వైశాల్యం దక్షిణార్ధగోళం కంటే చాలా ఎక్కువగా ఉండటం వల్ల సమోష్ణ రేఖల విచలనం అక్కడ ఎక్కువగా కనిపిస్తుంది.",
+    "en": "The deviation of isotherms is more pronounced in the Northern Hemisphere because its land surface area is much larger than that of the Southern Hemisphere."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T07-0184",
+   "section": {
+    "te": "Water Vapour Volume",
+    "en": "Water Vapour Volume"
+   },
+   "q": {
+    "te": "వాతావరణంలో ఘనపరిమాణం పరంగా నీటి ఆవిరి పరిమాణం ఎంత ఉంటుంది?",
+    "en": "What is the range of water vapour content in the atmosphere by volume?"
+   },
+   "options": {
+    "te": [
+     "5 నుండి 10 శాతం",
+     "10 నుండి 15 శాతం",
+     "20 నుండి 25 శాతం",
+     "సున్నా నుండి 4 శాతం"
+    ],
+    "en": [
+     "5 to 10 percent",
+     "10 to 15 percent",
+     "20 to 25 percent",
+     "Zero to 4 percent"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వాతావరణంలోని నీటి ఆవిరి పరిమాణం ఘనపరిమాణం పరంగా సున్నా నుండి నాలుగు శాతం వరకు మారుతూ ఉంటుంది.",
+    "en": "The amount of water vapour in the atmosphere varies from zero to four per cent by volume."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T07-0053",
+   "section": {
+    "te": "Insolation Distribution",
+    "en": "Insolation Distribution"
+   },
+   "q": {
+    "te": "భూమి ఉపరితలంపై ఇన్సోలేషన్ (సౌరపుటం) పరిమాణం ఎలా మారుతుంది?",
+    "en": "How does the amount of insolation change across the Earth's surface?"
+   },
+   "options": {
+    "te": [
+     "ఇది ధ్రువాల వద్ద అత్యధికంగా మరియు భూమధ్యరేఖ వద్ద అత్యల్పంగా ఉంటుంది",
+     "ఇది అన్ని అక్షాంశాలలో స్థిరంగా ఉంటుంది",
+     "ఇది భూమధ్యరేఖ నుండి ధ్రువాల వైపు తగ్గుతుంది",
+     "ఇది భూమధ్యరేఖ నుండి ధ్రువాల వైపు పెరుగుతుంది"
+    ],
+    "en": [
+     "It is highest at the poles and lowest at the equator",
+     "It remains constant across all latitudes",
+     "It decreases from the equator towards the poles",
+     "It increases from the equator towards the poles"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూమి గ్రహించే సౌర శక్తి (ఇన్సోలేషన్) భూమధ్యరేఖ నుండి ధ్రువాల వైపు వెళ్లేకొద్దీ తగ్గుతుంది.",
+    "en": "The amount of solar energy (insolation) intercepted by the Earth decreases as one moves from the equator toward the poles."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T07-0102",
+   "section": {
+    "te": "Isotherms Definition",
+    "en": "Isotherms Definition"
+   },
+   "q": {
+    "te": "సమాన ఉష్ణోగ్రత కలిగిన ప్రాంతాలను కలిపే మ్యాప్‌లోని రేఖలను ఏమని పిలుస్తారు?",
+    "en": "What are the lines on a map that join places having equal temperature called?"
+   },
+   "options": {
+    "te": [
+     "ఐసోథర్మ్‌లు",
+     "ఐసోబార్‌లు",
+     "ఐసోహైట్లు",
+     "ఐసోనెఫ్‌లు"
+    ],
+    "en": [
+     "Isotherms",
+     "Isobars",
+     "Isohyets",
+     "Isonephs"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, సమాన ఉష్ణోగ్రత కలిగిన ప్రాంతాలను కలిపే రేఖలను ఐసోథర్మ్‌లు (సమ ఉష్ణోగ్రత రేఖలు) అని నిర్వచించారు.",
+    "en": "Isotherms are defined as lines that join places having equal temperature."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T07-0074",
+   "section": {
+    "te": "Land Breeze",
+    "en": "Land Breeze"
+   },
+   "q": {
+    "te": "భూ పవనం (Land breeze) సమయంలో గాలి వేగం సాధారణంగా ఎందుకు తక్కువగా ఉంటుంది?",
+    "en": "Why is the wind speed typically low during a land breeze?"
+   },
+   "options": {
+    "te": [
+     "అధిక ఉష్ణోగ్రత వ్యత్యాసం ఉండటం వల్ల",
+     "సముద్రం వేగంగా చల్లబడటం వల్ల",
+     "భూమిపై అధిక పీడనం ఉండటం వల్ల",
+     "ఉష్ణోగ్రత మరియు వాయు పీడనంలో తక్కువ వ్యత్యాసం ఉండటం వల్ల"
+    ],
+    "en": [
+     "High temperature difference",
+     "Fast cooling of the sea",
+     "High pressure over land",
+     "Low difference in temperature and air pressure"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రాత్రి సమయంలో సముద్రం మరియు భూమి మధ్య ఉష్ణోగ్రత మరియు వాయు పీడన వ్యత్యాసాలు తక్కువగా ఉండటం వల్ల భూ పవనం వేగం తక్కువగా ఉంటుంది.",
+    "en": "The wind speed is low during a land breeze because the difference in temperature and air pressure between the sea and the land is low at night."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T07-0149",
+   "section": {
+    "te": "Pressure Gradient Definition",
+    "en": "Pressure Gradient Definition"
+   },
+   "q": {
+    "te": "దూరానికి అనుగుణంగా వాతావరణ పీడనం మారే రేటును వివరించడానికి ఏ పదాన్ని ఉపయోగిస్తారు?",
+    "en": "What term is used to describe the rate of change of atmospheric pressure with respect to distance?"
+   },
+   "options": {
+    "te": [
+     "పీడన వేగం",
+     "పీడన విక్షేపం",
+     "పీడన ప్రవణత (Pressure Gradient)",
+     "పీడన బలం"
+    ],
+    "en": [
+     "Pressure Velocity",
+     "Pressure Deflection",
+     "Pressure Gradient",
+     "Pressure Force"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నిర్దిష్ట దూరంలో వాతావరణ పీడనం మారే రేటును పీడన ప్రవణత అంటారు.",
+    "en": "The pressure gradient is defined as the rate at which atmospheric pressure changes over a specific distance."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T07-0093",
+   "section": {
+    "te": "Atmospheric Heating - Conduction",
+    "en": "Atmospheric Heating - Conduction"
+   },
+   "q": {
+    "te": "భూమితో సంబంధం ఉన్న వాతావరణం యొక్క దిగువ పొరలను వేడి చేయడానికి ప్రధానంగా ఏ ప్రక్రియ బాధ్యత వహిస్తుంది?",
+    "en": "Which process is primarily responsible for heating the lower layers of the atmosphere in contact with the Earth?"
+   },
+   "options": {
+    "te": [
+     "సంవహనం (Convection)",
+     "భూ వికిరణం",
+     "అభివహనం (Advection)",
+     "వాహనం (Conduction)"
+    ],
+    "en": [
+     "Convection",
+     "Terrestrial radiation",
+     "Advection",
+     "Conduction"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వేడెక్కిన భూమితో సంబంధం ఉన్న గాలి నెమ్మదిగా వేడెక్కినప్పుడు వాహనం (Conduction) జరుగుతుంది మరియు వాతావరణంలోని దిగువ పొరలకు ఇది ముఖ్యమైనది.",
+    "en": "Conduction occurs when the air in contact with the heated land gets heated slowly, and it is important for the lower layers of the atmosphere."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T07-0127",
+   "section": {
+    "te": "Plank's Law",
+    "en": "Plank's Law"
+   },
+   "q": {
+    "te": "ప్లాంక్ నియమం (Plank’s law) ప్రకారం, ఒక వస్తువు యొక్క ఉష్ణోగ్రతకు మరియు దాని వికిరణ తరంగదైర్ఘ్యానికి (wavelength) మధ్య సంబంధం ఏమిటి?",
+    "en": "According to Plank’s law, what is the relationship between the temperature of a body and the wavelength of its radiation?"
+   },
+   "options": {
+    "te": [
+     "వస్తువు ఎంత వేడిగా ఉంటే, తరంగదైర్ఘ్యం అంత ఎక్కువగా ఉంటుంది",
+     "తరంగదైర్ఘ్యంపై ఉష్ణోగ్రతకు ఎటువంటి ప్రభావం ఉండదు",
+     "వస్తువు ఎంత వేడిగా ఉంటే, తరంగదైర్ఘ్యం అంత తక్కువగా ఉంటుంది",
+     "చల్లని వస్తువులు తక్కువ తరంగదైర్ఘ్యాలను విడుదల చేస్తాయి"
+    ],
+    "en": [
+     "The hotter the body, the longer the wavelength",
+     "Temperature has no effect on wavelength",
+     "The hotter the body, the shorter the wavelength",
+     "Colder bodies radiate shorter wavelengths"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్లాంక్ నియమం ప్రకారం, వేడిగా ఉన్న వస్తువు ఎక్కువ శక్తిని విడుదల చేస్తుంది మరియు ఆ వికిరణం యొక్క తరంగదైర్ఘ్యం తక్కువగా ఉంటుంది.",
+    "en": "Plank’s law states that a hotter body radiates more energy and the wavelength of that radiation is shorter."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T07-0062",
+   "section": {
+    "te": "Wind Direction Factors",
+    "en": "Wind Direction Factors"
+   },
+   "q": {
+    "te": "అధిక పీడన ప్రాంతాల నుండి అల్పపీడన ప్రాంతాలకు గాలి ప్రవహించడమే కాకుండా, గాలి దిశను ప్రభావితం చేసే ఇతర అంశం ఏమిటి?",
+    "en": "Besides the flow from high-pressure to low-pressure areas, what other factor influences the direction of the wind?"
+   },
+   "options": {
+    "te": [
+     "భూమి భ్రమణం",
+     "మానవ కార్యకలాపాలు",
+     "వర్షపాతం పరిమాణం",
+     "మేఘాల ఉనికి"
+    ],
+    "en": [
+     "The Earth's rotation",
+     "Human activities",
+     "The amount of rainfall",
+     "The presence of clouds"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పీడన ప్రాంతాల మధ్య గాలి ప్రవహించేటప్పుడు దాని దిశ భూమి భ్రమణం ద్వారా ప్రభావితమవుతుంది.",
+    "en": "The direction of wind is influenced by the rotation of the Earth as it flows between pressure areas."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T07-0040",
+   "section": {
+    "te": "Indian Ritus",
+    "en": "Indian Ritus"
+   },
+   "q": {
+    "te": "ఈ క్రింది భారతీయ ఋతువులను వాటి ఆంగ్ల సమానార్థకాలతో జతపరచండి:\n1. వసంత - i. శరదృతువు (Autumn)\n2. వర్ష - ii. వసంతకాలం (Spring)\n3. శరద్ - iii. వర్షాకాలం (Rainy season)\n4. శిశిర - iv. శీతాకాలం (Winter)",
+    "en": "Match the following Indian seasons (Ritus) with their English equivalents:\n1. Vasanta - i. Autumn\n2. Varsha - ii. Spring\n3. Sharad - iii. Rainy season\n4. Shishir - iv. Winter"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-iii, 3-i, 4-iv",
+     "1-ii, 2-i, 3-iii, 4-iv",
+     "1-iv, 2-iii, 3-i, 4-ii",
+     "1-i, 2-ii, 3-iii, 4-iv"
+    ],
+    "en": [
+     "1-ii, 2-iii, 3-i, 4-iv",
+     "1-ii, 2-i, 3-iii, 4-iv",
+     "1-iv, 2-iii, 3-i, 4-ii",
+     "1-i, 2-ii, 3-iii, 4-iv"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వసంత అంటే స్ప్రింగ్, వర్ష అంటే వర్షాకాలం, శరద్ అంటే ఆటం (శరదృతువు), మరియు శిశిర అంటే వింటర్ (శీతాకాలం).",
+    "en": "Vasanta is Spring, Varsha is Rainy season, Sharad is Autumn, and Shishir is Winter."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T07-0124",
+   "section": {
+    "te": "Temperature Variation",
+    "en": "Temperature Variation"
+   },
+   "q": {
+    "te": "భూమిపై ఏ అక్షాంశాల మధ్య అతి తక్కువ ఉష్ణోగ్రత వ్యత్యాసం (3°C) కనిపిస్తుంది?",
+    "en": "Between which latitudes is the least range of temperature (3°C) found on Earth?"
+   },
+   "options": {
+    "te": [
+     "40° N మరియు 40° S మధ్య",
+     "60° N మరియు 90° N మధ్య",
+     "20° S మరియు 15° N మధ్య",
+     "0° మరియు 10° S మధ్య"
+    ],
+    "en": [
+     "Between 40° N and 40° S",
+     "Between 60° N and 90° N",
+     "Between 20° S and 15° N",
+     "Between 0° and 10° S"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "20° S మరియు 15° N మధ్య ప్రాంతంలో అతి తక్కువ ఉష్ణోగ్రత వ్యత్యాసం (3°C) ఉంటుందని పాఠ్యాంశం పేర్కొంది.",
+    "en": "The text identifies the region between 20° S and 15° N as having the least range of temperature, which is 3°C."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T07-0010",
+   "section": {
+    "te": "Temperature Statistics",
+    "en": "Temperature Statistics"
+   },
+   "q": {
+    "te": "24 గంటల వ్యవధిలో 'ఉష్ణోగ్రత వ్యాప్తి' (Range of temperature) అంటే ఏమిటి?",
+    "en": "What is the 'Range of temperature' during a 24-hour period?"
+   },
+   "options": {
+    "te": [
+     "గరిష్ట మరియు కనిష్ట ఉష్ణోగ్రతల మొత్తం",
+     "నమోదైన అన్ని ఉష్ణోగ్రతల సగటు",
+     "మధ్యాహ్నం నమోదైన ఉష్ణోగ్రత",
+     "గరిష్ట మరియు కనిష్ట ఉష్ణోగ్రతల మధ్య వ్యత్యాసం"
+    ],
+    "en": [
+     "The sum of maximum and minimum temperatures",
+     "The average of all temperatures recorded",
+     "The temperature recorded at noon",
+     "The difference between maximum and minimum temperatures"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఉష్ణోగ్రత వ్యాప్తి అంటే ఒక నిర్దిష్ట కాలంలో నమోదైన గరిష్ట ఉష్ణోగ్రత నుండి కనిష్ట ఉష్ణోగ్రతను తీసివేయగా వచ్చే ఫలితం.",
+    "en": "The range of temperature is the maximum temperature minus the minimum temperature recorded during a specific period."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T07-0207",
+   "section": {
+    "te": "Rainfall distribution",
+    "en": "Rainfall distribution"
+   },
+   "q": {
+    "te": "ప్రపంచ వర్షపాత విస్తరణకు సంబంధించి క్రింది ప్రకటనలను గమనించండి:\n1. ఉష్ణమండల ప్రాంతాల మధ్య భాగాలు సంవత్సరానికి 50 - 100 సెం.మీ మధ్య వర్షపాతాన్ని పొందుతాయి.\n2. సమశీతోష్ణ మండలాల తూర్పు మరియు లోపలి భాగాలు సంవత్సరానికి 50 - 100 సెం.మీ మధ్య వర్షపాతాన్ని పొందుతాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the world distribution of rainfall:\n1. The central parts of the tropical land receive rainfall varying between 50 - 100 cm per annum.\n2. The eastern and interior parts of the temperate lands receive rainfall varying between 50 - 100 cm per annum.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యాంశాల ప్రకారం, ఉష్ణమండల ప్రాంతాల మధ్య భాగాలు మరియు సమశీతోష్ణ మండలాల తూర్పు/లోపలి భాగాలు రెండూ సంవత్సరానికి 50 నుండి 100 సెం.మీ వర్షపాతాన్ని పొందుతాయి.",
+    "en": "Both the central parts of tropical lands and the eastern/interior parts of temperate lands receive moderate-to-low rainfall in the range of 50 to 100 cm per year."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T07-0157",
+   "section": {
+    "te": "Planetary Wind Patterns",
+    "en": "Planetary Wind Patterns"
+   },
+   "q": {
+    "te": "గ్రహ పవనాల (planetary winds) నమూనాకు సంబంధించి ఈ క్రింది అంశాలను పరిగణించండి:\n1. వాతావరణ వేడిలో అక్షాంశ వైవిధ్యం.\n2. ఖండాలు మరియు మహాసముద్రాల విస్తరణ.\n3. భూమి భ్రమణం.\nపైన పేర్కొన్న వాటిలో ఏవి సరైనవి?",
+    "en": "Consider the following factors regarding the pattern of planetary winds:\n1. Latitudinal variation of atmospheric heating.\n2. Distribution of continents and oceans.\n3. Rotation of the earth.\nWhich of the factors given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "గ్రహ పవనాల నమూనా వాతావరణ వేడి, పీడన మండలాలు, మండలాల వలస, భూమి-సముద్ర విస్తరణ మరియు భూమి భ్రమణంపై ఆధారపడి ఉంటుంది.",
+    "en": "The pattern of planetary winds depends on atmospheric heating, pressure belts, migration of belts, land-ocean distribution, and earth's rotation."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T07-0164",
+   "section": {
+    "te": "El Nino Location",
+    "en": "El Nino Location"
+   },
+   "q": {
+    "te": "ఏ దేశ తీరంలో వెచ్చని నీరు కనిపించడాన్ని 'ఎల్ నినో' (El Nino) అని పిలుస్తారు?",
+    "en": "The appearance of warm water off the coast of which country is known as El Nino?"
+   },
+   "options": {
+    "te": [
+     "ఆస్ట్రేలియా",
+     "బ్రెజిల్",
+     "పెరూ",
+     "చిలీ"
+    ],
+    "en": [
+     "Australia",
+     "Brazil",
+     "Peru",
+     "Chile"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పెరూ తీరంలో చల్లని పెరూవియన్ ప్రవాహం స్థానంలో వెచ్చని నీరు క్రమానుగతంగా కనిపించడాన్ని ఎల్ నినో అంటారు.",
+    "en": "El Nino refers to the periodic appearance of warm water off the coast of Peru, replacing the cool Peruvian current."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T07-0182",
+   "section": {
+    "te": "Air Mass Source Regions",
+    "en": "Air Mass Source Regions"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో వాయురాశులకు ప్రధాన మూల ప్రాంతాలుగా పరిగణించబడేవి ఏవి?\nA. ఉపఉష్ణమండల వేడి ఎడారులు\nB. సాపేక్షంగా చల్లని అధిక అక్షాంశ మహాసముద్రాలు\nC. ఆర్కిటిక్‌లో శాశ్వతంగా మంచుతో కప్పబడిన ఖండాలు",
+    "en": "Which of the following are considered major source regions for air masses?\nA. Subtropical hot deserts\nB. Relatively cold high latitude oceans\nC. Permanently ice covered continents in the Arctic"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యాంశం వేడి ఎడారులు, చల్లని అధిక అక్షాంశ మహాసముద్రాలు మరియు మంచుతో కప్పబడిన ఆర్కిటిక్/అంటార్కిటిక్ ఖండాలతో సహా ఐదు ప్రధాన మూల ప్రాంతాలను జాబితా చేస్తుంది.",
+    "en": "The text lists five major source regions including hot deserts, cold high latitude oceans, and ice-covered Arctic/Antarctic continents."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T07-0002",
+   "section": {
+    "te": "States of Precipitation",
+    "en": "States of Precipitation"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఘన స్థితిలో ఉండే అవపాత రూపాలు ఏవి?",
+    "en": "Which of the following are forms of precipitation in a solid state?"
+   },
+   "options": {
+    "te": [
+     "మంచు (Snow)",
+     "వడగళ్ళు (Hailstones)",
+     "A మరియు B రెండూ",
+     "వర్షం"
+    ],
+    "en": [
+     "Snow",
+     "Hailstones",
+     "Both A and B",
+     "Rain"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, మంచు మరియు వడగళ్ళు ఘన స్థితిలో ఉండే నీటి అవపాతాలు.",
+    "en": "Snow and hailstones are precipitation of water in a solid state."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T07-0017",
+   "section": {
+    "te": "Precipitation in India",
+    "en": "Precipitation in India"
+   },
+   "q": {
+    "te": "భారతదేశంలోని మెజారిటీ ప్రాంతాలలో (హిమాలయ ప్రాంతం మినహా), అవపాతం సాధారణంగా ఏ రూపాల్లో ఉంటుంది?",
+    "en": "In most parts of India (excluding the Himalayan region), precipitation is commonly in which forms?"
+   },
+   "options": {
+    "te": [
+     "వర్షం",
+     "వడగళ్ళు",
+     "A మరియు B రెండూ",
+     "మంచు (Snow)"
+    ],
+    "en": [
+     "Rain",
+     "Hail",
+     "Both A and B",
+     "Snow"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "హిమాలయ ప్రాంతాలు కాకుండా, భారతదేశంలోని మిగిలిన ప్రాంతాలలో ఎక్కువ అవపాతం వర్షం మరియు వడగళ్ళ రూపంలో ఉంటుందని పాఠ్యాంశం పేర్కొంది.",
+    "en": "Outside the Himalayan regions, most precipitation in India occurs as rain and hail."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T07-0141",
+   "section": {
+    "te": "Low-Pressure Systems",
+    "en": "Low-Pressure Systems"
+   },
+   "q": {
+    "te": "వాతావరణ పటంలో అల్పపీడన వ్యవస్థను ఈ క్రింది ఏ లక్షణాలు నిర్వచిస్తాయి?\nA. ఇది ఒకటి లేదా అంతకంటే ఎక్కువ ఐసోబార్‌లతో చుట్టబడి ఉంటుంది.\nB. అత్యల్ప పీడనం కేంద్రంలో ఉంటుంది.",
+    "en": "Which of the following characteristics define a low-pressure system on a weather map?\nA. It is enclosed by one or more isobars.\nB. The lowest pressure is located in the centre."
+   },
+   "options": {
+    "te": [
+     "A మాత్రమే",
+     "B మాత్రమే",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Only A",
+     "Only B",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అల్పపీడన వ్యవస్థ అనేది ఐసోబార్‌లతో చుట్టబడి ఉంటుంది, ఇక్కడ పీడనం కేంద్రం వైపు తగ్గుతూ ఉంటుంది.",
+    "en": "A low-pressure system is characterized by being enclosed by isobars where the pressure value decreases towards the center."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T07-0079",
+   "section": {
+    "te": "Wind Effects",
+    "en": "Wind Effects"
+   },
+   "q": {
+    "te": "కింది వాటిలో 'బలమైన గాలి' (Strong breeze - 39–49 కి.మీ/గం) యొక్క ప్రభావం ఏది?",
+    "en": "Which of the following is an effect of a 'Strong breeze' (39–49 km/hr)?"
+   },
+   "options": {
+    "te": [
+     "గొడుగులు వాడటం కష్టమవుతుంది",
+     "విస్తృతమైన నష్టం",
+     "పొగ నిలువుగా పైకి లేస్తుంది",
+     "ఆకులు గలగలలాడతాయి"
+    ],
+    "en": [
+     "Umbrellas are difficult to use",
+     "Widespread damage",
+     "Smoke rises vertically",
+     "Leaves rustle"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పట్టిక 3.1 ప్రకారం, బలమైన గాలి వీచినప్పుడు గొడుగులు వాడటం కష్టమవుతుంది మరియు పెద్ద కొమ్మలు ఊగుతాయి.",
+    "en": "According to Table 3.1, a strong breeze makes umbrellas difficult to use and causes large branches to sway."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T07-0050",
+   "section": {
+    "te": "Climate Change Causes",
+    "en": "Climate Change Causes"
+   },
+   "q": {
+    "te": "ఇటీవలి అధ్యయనాల ప్రకారం, గత దశాబ్దాలలో ప్రపంచ శీతోష్ణస్థితిలో మార్పులకు ప్రధాన కారణం ఏమిటి?",
+    "en": "According to recent studies, what has been a major cause of changes in the world's climates in recent decades?"
+   },
+   "options": {
+    "te": [
+     "సహజ అగ్నిపర్వత కార్యకలాపాలు",
+     "మానవ చర్యలు",
+     "సౌర జ్వాలలు",
+     "భూమి కక్ష్యలో మార్పులు"
+    ],
+    "en": [
+     "Natural volcanic activity",
+     "Human actions",
+     "Solar flares",
+     "Changes in Earth's orbit"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఇటీవలి దశాబ్దాలలో ప్రపంచ శీతోష్ణస్థితిలో సంభవించిన అనేక మార్పులకు మానవ చర్యలే కారణమని అధ్యయనాలు చెబుతున్నాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Studies show many recent changes in the world's climates have been caused by human actions."
+   }
+  }
+ ]
+}

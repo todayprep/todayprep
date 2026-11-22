@@ -1,0 +1,942 @@
+{
+ "id": "geo-13-c-1",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "India – క్విజ్ 1",
+  "en": "India – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T13-0127",
+   "section": {
+    "te": "India-Indonesia Separation",
+    "en": "India-Indonesia Separation"
+   },
+   "q": {
+    "te": "భారతదేశం మరియు ఇండోనేషియా కింది ఏ జలభాగాల ద్వారా వేరు చేయబడ్డాయి?",
+    "en": "India and Indonesia are separated by which of the following bodies of water?"
+   },
+   "options": {
+    "te": [
+     "బంగాళాఖాతం",
+     "అండమాన్ సముద్రం",
+     "A మరియు B రెండూ",
+     "అరేబియా సముద్రం"
+    ],
+    "en": [
+     "Bay of Bengal",
+     "Andaman Sea",
+     "Both A and B",
+     "Arabian Sea"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతదేశం మరియు ఇండోనేషియా బంగాళాఖాతం మరియు అండమాన్ సముద్రం రెండింటి ద్వారా వేరు చేయబడ్డాయి.",
+    "en": "India and Indonesia are separated by both the Bay of Bengal and the Andaman Sea."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T13-0118",
+   "section": {
+    "te": "Singapore Demographics",
+    "en": "Singapore Demographics"
+   },
+   "q": {
+    "te": "సింగపూర్ నివాసితులలో ఎంత శాతం మంది భారతీయ సంతతికి చెందినవారు?",
+    "en": "What percentage of Singaporean residents are ethnically of Indian origin?"
+   },
+   "options": {
+    "te": [
+     "5 శాతం",
+     "7 శాతం",
+     "9 శాతం",
+     "12 శాతం"
+    ],
+    "en": [
+     "5 per cent",
+     "7 per cent",
+     "9 per cent",
+     "12 per cent"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, సింగపూర్ నివాసితులలో సుమారు 9 శాతం మంది భారతీయ సంతతికి చెందినవారు.",
+    "en": "Approximately 9 per cent of Singapore's residents are of Indian origin."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T13-0106",
+   "section": {
+    "te": "Maldives Capital",
+    "en": "Maldives Capital"
+   },
+   "q": {
+    "te": "మాల్దీవుల రాజధాని నగరం ఏది?",
+    "en": "Which city is the capital of the Maldives?"
+   },
+   "options": {
+    "te": [
+     "మినికాయ్",
+     "మాలే",
+     "జకార్తా",
+     "కొలంబో"
+    ],
+    "en": [
+     "Minicoy",
+     "Malé",
+     "Jakarta",
+     "Colombo"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం మాలేను మాల్దీవుల రాజధానిగా పేర్కొంది.",
+    "en": "The text identifies Malé as the capital of the Maldives."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T13-0139",
+   "section": {
+    "te": "India Relief Features",
+    "en": "India Relief Features"
+   },
+   "q": {
+    "te": "భారతదేశ నైసర్గిక స్వరూపాలకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. దేశ మొత్తం ఉపరితల వైశాల్యంలో పర్వతాలు 30 శాతం ఉన్నాయి.\n2. పర్వతాలు కొన్ని నదుల జీవన ప్రవాహాన్ని నిర్ధారిస్తాయి.\n3. మైదానాలు పర్యాటక మరియు పర్యావరణ అంశాలకు సౌకర్యాలను కల్పిస్తాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding the relief features of India:\n1. Mountains account for 30 per cent of the total surface area.\n2. Mountains ensure the perennial flow of some rivers.\n3. Plains provide facilities for tourism and ecological aspects.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రకటనలు 1 మరియు 2 సరైనవి. ప్రకటన 3 తప్పు ఎందుకంటే పర్యాటక మరియు పర్యావరణ అంశాలను పర్వతాలు కల్పిస్తాయి, మైదానాలు కాదు.",
+    "en": "Statements 1 and 2 are correct. Statement 3 is incorrect because tourism and ecological aspects are provided by mountains, not plains."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T13-0178",
+   "section": {
+    "te": "Himalayan Uplift",
+    "en": "Himalayan Uplift"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): హిమాలయాల ఎత్తు నేటికీ పెరుగుతోంది.\nకారణం (R): సుమారు 40 మిలియన్ సంవత్సరాల క్రితం ప్రారంభమైన హిమాలయాల నిర్మాణ ప్రక్రియ ఇప్పటికీ కొనసాగుతోంది.",
+    "en": "Assertion (A): The height of the Himalayas is rising even to this date.\nReason (R): The process of formation of the Himalayas, which started about 40 million years ago, is still continuing."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "హిమాలయాల నిర్మాణ ప్రక్రియ ఇంకా కొనసాగుతోందని శాస్త్రవేత్తలు నమ్ముతున్నారు, దీని ఫలితంగా హిమాలయాల ఎత్తు నిరంతరం పెరుగుతోంది.",
+    "en": "Scientists believe the formation process is ongoing, which results in the continuous rise of the Himalayan height."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T13-0022",
+   "section": {
+    "te": "Aravallis Extent",
+    "en": "Aravallis Extent"
+   },
+   "q": {
+    "te": "కింది భారతీయ రాష్ట్రాలు/కేంద్రపాలిత ప్రాంతాలను పరిశీలించండి:\n1. ఢిల్లీ\n2. రాజస్థాన్\n3. హర్యానా\n4. గుజరాత్\nఆరావళి పర్వత శ్రేణి పైవాటిలో వేటి గుండా విస్తరించి ఉంది?",
+    "en": "Consider the following Indian States/Union Territories:\n1. Delhi\n2. Rajasthan\n3. Haryana\n4. Gujarat\nAcross which of the above does the Aravalli range span?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 4 మాత్రమే",
+     "1, 2, 3 మరియు 4"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1, 2 and 4 only",
+     "1, 2, 3 and 4"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, ఆరావళి పర్వత శ్రేణి ఢిల్లీ, రాజస్థాన్, హర్యానా మరియు గుజరాత్ రాష్ట్రాలు/ప్రాంతాలలో విస్తరించి ఉంది.",
+    "en": "The Aravalli range spans across Delhi, Rajasthan, Haryana, and Gujarat."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T13-0005",
+   "section": {
+    "te": "Jog Falls",
+    "en": "Jog Falls"
+   },
+   "q": {
+    "te": "జోగ్ జలపాతం (Jog Falls) భారతదేశంలోని ఏ రాష్ట్రంలో ఉంది?",
+    "en": "In which Indian state are the Jog Falls located?"
+   },
+   "options": {
+    "te": [
+     "మహారాష్ట్ర",
+     "కర్ణాటక",
+     "ఆంధ్రప్రదేశ్",
+     "తమిళనాడు"
+    ],
+    "en": [
+     "Maharashtra",
+     "Karnataka",
+     "Andhra Pradesh",
+     "Tamil Nadu"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం జోగ్ జలపాతం కర్ణాటకలో ఉంది.",
+    "en": "Jog Falls is located in Karnataka."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T13-0159",
+   "section": {
+    "te": "Indian Subcontinent Countries",
+    "en": "Indian Subcontinent Countries"
+   },
+   "q": {
+    "te": "కింది వాటిలో ఏ దేశాల సమూహం 'భారత ఉపఖండం' (Indian subcontinent) అని పిలువబడే భౌగోళిక విభాగంలో చేర్చబడ్డాయి?",
+    "en": "Which of the following groups of countries are included in the geographic entity known as the 'Indian subcontinent'?"
+   },
+   "options": {
+    "te": [
+     "పాకిస్తాన్, బంగ్లాదేశ్, మయన్మార్, నేపాల్ మరియు భారతదేశం",
+     "భారతదేశం, పాకిస్తాన్, శ్రీలంక, మాల్దీవులు మరియు నేపాల్",
+     "పాకిస్తాన్, నేపాల్, భూటాన్, బంగ్లాదేశ్ మరియు భారతదేశం",
+     "భారతదేశం, ఆఫ్ఘనిస్తాన్, పాకిస్తాన్, నేపాల్ మరియు భూటాన్"
+    ],
+    "en": [
+     "Pakistan, Bangladesh, Myanmar, Nepal and India",
+     "India, Pakistan, Sri Lanka, Maldives and Nepal",
+     "Pakistan, Nepal, Bhutan, Bangladesh and India",
+     "India, Afghanistan, Pakistan, Nepal and Bhutan"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్య భాగం ప్రకారం, భారత ఉపఖండం అనేది పాకిస్తాన్, నేపాల్, భూటాన్, బంగ్లాదేశ్ మరియు భారతదేశాలను కలిగి ఉన్న ఒక గొప్ప భౌగోళిక విభాగం.",
+    "en": "The Indian subcontinent is a great geographic entity that includes Pakistan, Nepal, Bhutan, Bangladesh, and India."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T13-0080",
+   "section": {
+    "te": "Tio River boundary",
+    "en": "Tio River boundary"
+   },
+   "q": {
+    "te": "భారతదేశం (మిజోరం) మరియు మయన్మార్ మధ్య అంతర్జాతీయ సరిహద్దులో భాగంగా ఉన్న నది ఏది?",
+    "en": "Which river forms part of the international boundary between India (Mizoram) and Myanmar?"
+   },
+   "options": {
+    "te": [
+     "చింద్విన్ నది",
+     "బరాక్ నది",
+     "తియో నది (Tio River)",
+     "కలదాన్ నది"
+    ],
+    "en": [
+     "Chindwin River",
+     "Barak River",
+     "Tio River",
+     "Kaladan River"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "తియో నది భారతదేశం (మిజోరం) మరియు మయన్మార్ మధ్య అంతర్జాతీయ సరిహద్దులో భాగంగా ఉంది.",
+    "en": "The Tio River forms part of the international boundary between Myanmar and India (Mizoram)."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T13-0074",
+   "section": {
+    "te": "Theravada Buddhism",
+    "en": "Theravada Buddhism"
+   },
+   "q": {
+    "te": "'పెద్దల పాఠశాల' (స్కూల్ ఆఫ్ ది ఎల్డర్స్) గా పిలువబడే ఏ బౌద్ధ విభాగం క్రీ.పూ. 3వ శతాబ్దంలో రూపుదిద్దుకుంది మరియు బుద్ధుని అసలు బోధనలకు అత్యంత సన్నిహితమైనదిగా పరిగణించబడుతుంది?",
+    "en": "Which school of Buddhism, known as the 'School of the Elders', took shape around the 3rd century BCE and is considered closest to the Buddha's original teachings?"
+   },
+   "options": {
+    "te": [
+     "మహాయాన",
+     "తాంత్రిక బౌద్ధం",
+     "వజ్రయాన",
+     "థెరవాద"
+    ],
+    "en": [
+     "Mahāyāna",
+     "Tantric Buddhism",
+     "Vajrayāna",
+     "Theravāda"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "క్రీ.పూ. 3వ శతాబ్దంలో ఏర్పడిన థెరవాద విభాగం బుద్ధుని అసలు బోధనలకు అత్యంత సన్నిహితమైనదిగా పరిగణించబడుతుంది.",
+    "en": "Theravāda, or the 'School of the Elders', took shape around the 3rd century BCE and is considered closest to the Buddha's original teachings."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T13-0045",
+   "section": {
+    "te": "Katas Raj temple location",
+    "en": "Katas Raj temple location"
+   },
+   "q": {
+    "te": "మహాభారతంతో సంబంధం ఉండి, పవిత్రమైన చెరువును కలిగి ఉన్న కటాస్ రాజ్ ఆలయ సముదాయం పాకిస్తాన్‌లోని ఏ ప్రావిన్స్‌లో ఉంది?",
+    "en": "In which province of Pakistan is the Katas Raj temple complex, linked to the Mahābhārata, located?"
+   },
+   "options": {
+    "te": [
+     "బలూచిస్తాన్",
+     "పంజాబ్",
+     "సింధ్",
+     "ఖైబర్ పఖ్తుంఖ్వా"
+    ],
+    "en": [
+     "Balochistan",
+     "Punjab",
+     "Sindh",
+     "Khyber Pakhtunkhwa"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మహాభారతంతో సంబంధం ఉన్న కటాస్ రాజ్ ఆలయ సముదాయం పాకిస్తాన్‌లోని పంజాబ్ ప్రావిన్స్‌లో ఉంది.",
+    "en": "The Katas Raj temple complex, linked to the Mahabharata and containing a sacred pond, is located in Pakistan's Punjab."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T13-0146",
+   "section": {
+    "te": "Persian Language in India",
+    "en": "Persian Language in India"
+   },
+   "q": {
+    "te": "మొఘలుల కాలంలో భారతదేశంలో రాజభాషగా ఉపయోగించబడిన పర్షియన్ భాష, ఏ భారతీయ భాషకు చెందిన భాషా కుటుంబానికి చెందినది?",
+    "en": "The Persian language, used as a court language in India by the Mughals, belongs to the same language family as which Indian language?"
+   },
+   "options": {
+    "te": [
+     "సంస్కృతం",
+     "తమిళం",
+     "తెలుగు",
+     "కన్నడ"
+    ],
+    "en": [
+     "Sanskrit",
+     "Tamil",
+     "Telugu",
+     "Kannada"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పర్షియన్ భాష సంస్కృత భాషా కుటుంబానికి చెందినదని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The Persian language belongs to the same language family as Sanskrit."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T13-0013",
+   "section": {
+    "te": "Ladakh vs Thar",
+    "en": "Ladakh vs Thar"
+   },
+   "q": {
+    "te": "భారతీయ ఎడారుల గురించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. లడఖ్ ఒక శీతల ఎడారి, ఇక్కడ శీతాకాలపు ఉష్ణోగ్రతలు –30°C కంటే తక్కువకు పడిపోతాయి.\n2. థార్ ఎడారి ఎక్కువగా భారతదేశంలో ఉన్న ఒక విశాలమైన శుష్క ప్రాంతం.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about Indian deserts:\n1. Ladakh is a cold desert where winter temperatures can drop below –30°C.\n2. The Thar Desert is a vast arid region mostly located in India.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 లేదా 2 ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం రెండు ప్రకటనలు సరైనవే. లడఖ్ శీతల ఎడారి మరియు థార్ ఒక విశాలమైన శుష్క ప్రాంతం.",
+    "en": "Both statements are correct according to the text. Ladakh is a cold desert and Thar is a vast arid region."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T13-0060",
+   "section": {
+    "te": "India-Nepal Treaty year",
+    "en": "India-Nepal Treaty year"
+   },
+   "q": {
+    "te": "భారతదేశం మరియు నేపాల్ మధ్య దౌత్య సంబంధాలు ప్రధానంగా ఏ సంవత్సరంలో కుదిరిన 'శాంతి మరియు స్నేహ ఒప్పందం' (Treaty of Peace and Friendship) ద్వారా రూపొందాయి?",
+    "en": "Close diplomatic relations between India and Nepal have been largely shaped by the Treaty of Peace and Friendship signed in which year?"
+   },
+   "options": {
+    "te": [
+     "1950",
+     "1956",
+     "1971",
+     "1947"
+    ],
+    "en": [
+     "1950",
+     "1956",
+     "1971",
+     "1947"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భారతదేశం మరియు నేపాల్ సంబంధాలు ప్రధానంగా 1950 నాటి 'శాంతి మరియు స్నేహ ఒప్పందం' ద్వారా నిర్దేశించబడ్డాయి.",
+    "en": "India-Nepal diplomatic ties have been largely shaped by the 1950 Treaty of Peace and Friendship."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T13-0099",
+   "section": {
+    "te": "India as First Responder",
+    "en": "India as First Responder"
+   },
+   "q": {
+    "te": "మాల్దీవులకు భారతదేశం అందించిన సహాయానికి సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. 2004 సునామీ సమయంలో భారతదేశం త్వరితగతిన సహాయం అందించింది.\n2. 2014లో మాలేలో ఏర్పడిన నీటి సంక్షోభం సమయంలో భారతదేశం సహాయం చేసింది.\n3. కోవిడ్-19 మహమ్మారి సమయంలో భారతదేశం మాల్దీవులకు మద్దతు ఇచ్చింది.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding India's assistance to the Maldives:\n1. India provided quick help during the 2004 tsunami.\n2. India assisted during the 2014 water crisis in Malé.\n3. India supported the Maldives during the COVID-19 pandemic.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "2004 సునామీ, 2014 నీటి సంక్షోభం మరియు కోవిడ్-19 మహమ్మారి - ఈ మూడు సందర్భాలలోనూ భారతదేశం మాల్దీవులకు త్వరితగతిన సహాయం అందించిందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "All three events (2004 tsunami, 2014 water crisis, and COVID-19 pandemic) as instances where India provided quick assistance to the Maldives."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T13-0075",
+   "section": {
+    "te": "Vajrayana Buddhism origin",
+    "en": "Vajrayana Buddhism origin"
+   },
+   "q": {
+    "te": "'డైమండ్ వెహికల్' లేదా 'తాంత్రిక బౌద్ధం' అని పిలువబడే వజ్రయాన విభాగం, మహాయాన పొడిగింపుగా ఏ శతాబ్దంలో ఉద్భవించింది?",
+    "en": "Around which century did the Vajrayāna school, also known as the 'Diamond Vehicle' or 'Tantric Buddhism', arise as an extension of Mahāyāna?"
+   },
+   "options": {
+    "te": [
+     "క్రీ.పూ. 1వ శతాబ్దం",
+     "క్రీ.శ. 8వ శతాబ్దం",
+     "క్రీ.శ. 6వ శతాబ్దం",
+     "క్రీ.పూ. 3వ శతాబ్దం"
+    ],
+    "en": [
+     "1st century BCE",
+     "8th century CE",
+     "6th century CE",
+     "3rd century BCE"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వజ్రయాన బౌద్ధం క్రీ.శ. 6వ శతాబ్దంలో మహాయాన శాఖ విస్తరణగా ఉద్భవించింది.",
+    "en": "Vajrayāna, or the 'Diamond Vehicle', arose around the 6th century CE as an extension of Mahāyāna."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T13-0104",
+   "section": {
+    "te": "Indian Migration to Malaysia",
+    "en": "Indian Migration to Malaysia"
+   },
+   "q": {
+    "te": "మలేషియాకు భారతీయ వలసలకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. వలసలు ప్రధానంగా 19 మరియు 20వ శతాబ్దాలలో జరిగాయి.\n2. ఎక్కువ మంది కార్మికులు ఉత్తర భారతదేశం నుండి వలస వెళ్లారు.\n3. వారు ప్రాథమికంగా రబ్బరు తోటలలో పనిచేశారు.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding Indian migration to Malaysia:\n1. Migration occurred mainly in the 19th and 20th centuries.\n2. Most workers migrated from North India.\n3. They primarily worked on rubber plantations.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రకటన 2 తప్పు ఎందుకంటే కార్మికులు ప్రధానంగా దక్షిణ భారతదేశం నుండి వచ్చారు, ఉత్తర భారతదేశం నుండి కాదు. పాఠ్యభాగం ప్రకారం 1 మరియు 3 ప్రకటనలు సరైనవి.",
+    "en": "Statement 2 is incorrect because the workers were mainly from South India, not North India. Statements 1 and 3 are correct according to the text."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T13-0135",
+   "section": {
+    "te": "Oman Location",
+    "en": "Oman Location"
+   },
+   "q": {
+    "te": "ఒమన్ ఏ రెండు జలసంధుల/సముద్రాల కూడలి వద్ద ఉంది?",
+    "en": "Oman is located at the intersection of which two water bodies?"
+   },
+   "options": {
+    "te": [
+     "పర్షియన్ గల్ఫ్ మరియు అరేబియా సముద్రం",
+     "ఎర్ర సముద్రం మరియు అరేబియా సముద్రం",
+     "బంగాళాఖాతం మరియు అండమాన్ సముద్రం",
+     "పర్షియన్ గల్ఫ్ మరియు గల్ఫ్ ఆఫ్ ఏడెన్"
+    ],
+    "en": [
+     "Persian Gulf and Arabian Sea",
+     "Red Sea and Arabian Sea",
+     "Bay of Bengal and Andaman Sea",
+     "Persian Gulf and Gulf of Aden"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఒమన్ అరేబియా ద్వీపకల్పం యొక్క ఆగ్నేయ తీరంలో పర్షియన్ గల్ఫ్ మరియు అరేబియా సముద్రం కలిసే చోట ఉంది.",
+    "en": "Oman is situated on the southeastern coast of the Arabian Peninsula at the intersection of the Persian Gulf and the Arabian Sea."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T13-0166",
+   "section": {
+    "te": "Boundaries of the Indian Subcontinent",
+    "en": "Boundaries of the Indian Subcontinent"
+   },
+   "q": {
+    "te": "భారత ఉపఖండం కింది ఏ భౌగోళిక లక్షణాల ద్వారా సరిహద్దులను కలిగి ఉంది?",
+    "en": "The Indian subcontinent is bounded by which of the following physical features?"
+   },
+   "options": {
+    "te": [
+     "ఉత్తరాన హిమాలయాలు",
+     "వాయువ్యంలో హిందూకుష్ మరియు సులైమాన్ శ్రేణులు",
+     "ఈశాన్యంలో పూర్వాంచల్ కొండలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Himalayas in the north",
+     "Hindukush and Sulaiman ranges in the northwest",
+     "Purvachal hills in the northeast",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారత ఉపఖండం ఉత్తరాన హిమాలయాలు, వాయువ్యంలో హిందూకుష్ మరియు సులైమాన్ శ్రేణులు, ఈశాన్యంలో పూర్వాంచల్ కొండలు మరియు దక్షిణాన హిందూ మహాసముద్రం సరిహద్దులుగా ఉన్నాయని పాఠ్య భాగం వివరిస్తుంది.",
+    "en": "The text describes the Indian subcontinent as being bounded by the Himalayas (North), Hindukush and Sulaiman ranges (Northwest), Purvachal hills (Northeast), and the Indian Ocean (South)."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T13-0025",
+   "section": {
+    "te": "Historic Forts in Aravallis",
+    "en": "Historic Forts in Aravallis"
+   },
+   "q": {
+    "te": "ఆరావళి పర్వత ప్రాంతంలో ఉన్న చారిత్రక కోటలు ఏవి?",
+    "en": "Which of the following historic forts are located in the Aravalli Hills region?"
+   },
+   "options": {
+    "te": [
+     "చిత్తోర్‌గఢ్ కోట",
+     "కుంభల్‌గఢ్ కోట",
+     "రణథంబోర్ కోట",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Chittorgarh Fort",
+     "Kumbhalgarh Fort",
+     "Ranthambore Fort",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "చిత్తోర్‌గఢ్, కుంభల్‌గఢ్ మరియు రణథంబోర్ వంటి చారిత్రక కోటలు ఆరావళి పర్వతాలలో ఉన్నాయి.",
+    "en": "Historic forts located in the Aravallis include Chittorgarh, Kumbhalgarh, and Ranthambore."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T13-0004",
+   "section": {
+    "te": "Indian Astronaut",
+    "en": "Indian Astronaut"
+   },
+   "q": {
+    "te": "1984లో అంతరిక్షంలోకి వెళ్లిన మొదటి భారతీయ వ్యోమగామి ఎవరు?",
+    "en": "Who was the first Indian astronaut to go into space in 1984?"
+   },
+   "options": {
+    "te": [
+     "సతీష్ ధావన్",
+     "విక్రమ్ సారాభాయ్",
+     "రాకేష్ శర్మ",
+     "ఏ.పి.జె. అబ్దుల్ కలాం"
+    ],
+    "en": [
+     "Satish Dhawan",
+     "Vikram Sarabhai",
+     "Rakesh Sharma",
+     "A.P.J. Abdul Kalam"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "1984లో అంతరిక్షంలోకి వెళ్లిన మొదటి భారతీయ వ్యోమగామి రాకేష్ శర్మ.",
+    "en": "Rakesh Sharma was the first Indian astronaut to go into space in 1984."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T13-0149",
+   "section": {
+    "te": "India's Dimensions",
+    "en": "India's Dimensions"
+   },
+   "q": {
+    "te": "భారతదేశ కొలతలకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఉత్తర కొన నుండి దక్షిణ కొన వరకు దూరం 3,214 కి.మీ.\n2. తూర్పు కొన నుండి పశ్చిమ కొన వరకు దూరం 2,933 కి.మీ.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the dimensions of India:\n1. The distance from the northernmost to the southernmost extremity is 3,214 km.\n2. The distance from the easternmost to the westernmost extremity is 2,933 km.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం ఉత్తర-దక్షిణ దూరం 3,214 కి.మీ మరియు తూర్పు-పశ్చిమ దూరం 2,933 కి.మీ.",
+    "en": "The north-to-south distance is 3,214 km and the east-to-west distance is 2,933 km."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T13-0177",
+   "section": {
+    "te": "Plate Boundaries",
+    "en": "Plate Boundaries"
+   },
+   "q": {
+    "te": "హిమాలయ పర్వతాల వెంబడి భారతీయ పలక (Indian plate) యొక్క నిర్దిష్ట పలక సరిహద్దు రకం ఏమిటి?",
+    "en": "What is the specific type of plate boundary of the Indian plate along the Himalayan mountains?"
+   },
+   "options": {
+    "te": [
+     "రూపాంతర సరిహద్దు (Transform boundary)",
+     "వైవిధ్య సరిహద్దు (Divergent boundary)",
+     "ఖండ-ఖండ అభిసరణ (Continent-continent convergence)",
+     "సముద్ర-ఖండ అభిసరణ"
+    ],
+    "en": [
+     "Transform boundary",
+     "Divergent boundary",
+     "Continent-continent convergence",
+     "Ocean-continent convergence"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "హిమాలయ పర్వతాలు భారతీయ పలక మరియు యురేషియన్ పలకల కలయిక వల్ల ఏర్పడ్డాయి, ఇది ఖండ-ఖండ అభిసరణ రకానికి చెందినది.",
+    "en": "The Himalayan mountains are formed by the convergence of the Indian plate and the Eurasian plate, which is a continent-continent convergence."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T13-0180",
+   "section": {
+    "te": "Geophysical Forces",
+    "en": "Geophysical Forces"
+   },
+   "q": {
+    "te": "ఖండాల కదలిక సందర్భంలో పేర్కొన్న 'ధ్రువ పలాయన బలం' (Polar fleeing force) ఈ క్రింది వాటిలో దేనికి సంబంధించింది?",
+    "en": "The 'Polar fleeing force' mentioned in the context of continental movement relates to which of the following?"
+   },
+   "options": {
+    "te": [
+     "భూమి యొక్క పరిభ్రమణం (Revolution)",
+     "పోటుపాట్లు (Tides)",
+     "భూమి యొక్క భ్రమణం (Rotation)",
+     "గురుత్వాకర్షణ"
+    ],
+    "en": [
+     "Revolution of the Earth",
+     "Tides",
+     "Rotation of the earth",
+     "Gravitation"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వనరులోని బహుళైచ్ఛిక ప్రశ్నల ప్రకారం, ధ్రువ పలాయన బలం భూమి యొక్క భ్రమణానికి సంబంధించినది.",
+    "en": "As per the multiple-choice questions in the source, the polar fleeing force is related to the rotation of the earth."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T13-0001",
+   "section": {
+    "te": "India Size",
+    "en": "India Size"
+   },
+   "q": {
+    "te": "భౌగోళిక పరిమాణం పరంగా ప్రపంచంలో భారతదేశం ఎన్నో స్థానంలో ఉంది?",
+    "en": "What is the rank of India in the world in terms of geographical size?"
+   },
+   "options": {
+    "te": [
+     "ఎనిమిదవ",
+     "ఏడవ",
+     "ఐదవ",
+     "ఆరవ"
+    ],
+    "en": [
+     "Eighth",
+     "Seventh",
+     "Fifth",
+     "Sixth"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, భారతదేశం ప్రపంచంలో ఏడవ అతిపెద్ద దేశం.",
+    "en": "India is the seventh-largest country in the world."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T13-0081",
+   "section": {
+    "te": "Land Border Crossing Agreement",
+    "en": "Land Border Crossing Agreement"
+   },
+   "q": {
+    "te": "సరిహద్దు రాకపోకలను సులభతరం చేయడానికి మరియు వాణిజ్యాన్ని ప్రోత్సహించడానికి భారతదేశం మరియు మయన్మార్ మధ్య 'ల్యాండ్ బోర్డర్ క్రాసింగ్ ఒప్పందం' ఏ సంవత్సరంలో జరిగింది?",
+    "en": "In which year was the Land Border Crossing Agreement signed between India and Myanmar to ease cross-border movement and enhance connectivity?"
+   },
+   "options": {
+    "te": [
+     "2016",
+     "2014",
+     "2021",
+     "2018"
+    ],
+    "en": [
+     "2016",
+     "2014",
+     "2021",
+     "2018"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారత్-మయన్మార్ సరిహద్దు ప్రాంతాల ప్రజల రాకపోకలను సులభతరం చేసేందుకు 2018లో ల్యాండ్ బోర్డర్ క్రాసింగ్ ఒప్పందం కుదిరింది.",
+    "en": "The Land Border Crossing Agreement between India and Myanmar was signed in 2018."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T13-0176",
+   "section": {
+    "te": "Geological Chronology",
+    "en": "Geological Chronology"
+   },
+   "q": {
+    "te": "భారతదేశ చరిత్రలోని ఈ క్రింది భౌగోళిక సంఘటనలను కాలక్రమానుసారంగా (మొదటి నుండి ఇటీవలి వరకు) అమర్చండి:\n1. భారతదేశం ఉత్తర దిశగా ప్రయాణం ప్రారంభించడం\n2. టెథిస్ సముద్రం ద్వారా భారతదేశం ఆసియా నుండి విడిపోవడం\n3. ఆసియాతో భారతదేశం ఢీకొనడం\n4. దక్కన్ ట్రాప్స్ ఏర్పడటం ప్రారంభం",
+    "en": "Arrange the following geological events in India's history in chronological order (from earliest to most recent):\n1. Start of India's northward journey\n2. Separation of India from Asia by the Tethys Sea\n3. Collision of India with Asia\n4. Start of Deccan Traps formation"
+   },
+   "options": {
+    "te": [
+     "2-1-4-3",
+     "1-2-3-4",
+     "2-1-3-4",
+     "1-2-4-3"
+    ],
+    "en": [
+     "2-1-4-3",
+     "1-2-3-4",
+     "2-1-3-4",
+     "1-2-4-3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "టెథిస్ సముద్రం విడిపోవడం (225 మిలియన్ సంవత్సరాల క్రితం), ఉత్తర ప్రయాణం (200 మి.సం.క్రితం), దక్కన్ ట్రాప్స్ (60 మి.సం.క్రితం), మరియు ఆసియాతో ఢీకొనడం (40-50 మి.సం.క్రితం).",
+    "en": "Tethys Sea separation (225 mya), Northward journey (200 mya), Deccan Traps (60 mya), and Collision with Asia (40-50 mya)."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T13-0179",
+   "section": {
+    "te": "Ancient Indian Geography",
+    "en": "Ancient Indian Geography"
+   },
+   "q": {
+    "te": "భారతదేశం యొక్క పురాతన భౌగోళిక స్థితికి సంబంధించి ఈ క్రింది వాటిలో ఏది నిజం?\nA. భారతదేశం ఒకప్పుడు ఆస్ట్రేలియా తీరంలో ఉన్న ఒక పెద్ద ద్వీపం.\nB. సుమారు 225 మిలియన్ సంవత్సరాల క్రితం వరకు టెథిస్ సముద్రం భారతదేశాన్ని ఆసియా ఖండం నుండి వేరు చేసింది.",
+    "en": "Which of the following is/are true regarding India's ancient geographical position?\nA. India was once a large island situated off the Australian coast.\nB. The Tethys Sea separated India from the Asian continent until about 225 million years ago."
+   },
+   "options": {
+    "te": [
+     "A మాత్రమే",
+     "B మాత్రమే",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Only A",
+     "Only B",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతదేశం ఆస్ట్రేలియాకు సమీపంలో ఉన్న ఒక ద్వీపమని మరియు 225 మిలియన్ సంవత్సరాల క్రితం వరకు టెథిస్ సముద్రం ద్వారా ఆసియా నుండి వేరు చేయబడిందని వనరు ధృవీకరిస్తుంది.",
+    "en": "The source confirms that India was an island near Australia and was separated from Asia by the Tethys Sea until 225 million years ago."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T13-0126",
+   "section": {
+    "te": "India-Indonesia Shared Concerns",
+    "en": "India-Indonesia Shared Concerns"
+   },
+   "q": {
+    "te": "భారతదేశం మరియు ఇండోనేషియా కింది ఏ అంశాలకు సంబంధించి ఉమ్మడి ఆందోళనలను కలిగి ఉన్నాయి?",
+    "en": "India and Indonesia share concerns regarding which of the following issues?"
+   },
+   "options": {
+    "te": [
+     "పైరసీ (సముద్రపు దొంగతనం)",
+     "వాతావరణ మార్పు",
+     "సముద్ర మార్గాల రక్షణ",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Piracy",
+     "Climate change",
+     "Protection of sea lanes",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశం మరియు ఇండోనేషియా తమ సుదీర్ఘ తీరప్రాంతాల కారణంగా పైరసీ, వాతావరణ మార్పు మరియు సముద్ర మార్గాల రక్షణపై ఉమ్మడి ఆందోళనలను కలిగి ఉన్నాయి.",
+    "en": "India and Indonesia have shared concerns about piracy, climate change, and the protection of sea lanes due to their large coastlines."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T13-0008",
+   "section": {
+    "te": "Ladakh Culture",
+    "en": "Ladakh Culture"
+   },
+   "q": {
+    "te": "లడఖ్ ప్రాంతంలో ఈ క్రింది ఏ పండుగలను జరుపుకుంటారు?",
+    "en": "Which of the following festivals are celebrated in the Ladakh region?"
+   },
+   "options": {
+    "te": [
+     "లోసర్ (Losar)",
+     "హెమిస్ పండుగ (Hemis Festival)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Losar",
+     "Hemis Festival",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం లోసర్ మరియు హెమిస్ పండుగలను లడఖ్ యొక్క రంగుల పండుగలుగా పేర్కొంది.",
+    "en": "Both Losar and the Hemis Festival as colourful festivals of Ladakh."
+   }
+  }
+ ]
+}

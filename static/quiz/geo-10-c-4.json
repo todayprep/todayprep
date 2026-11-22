@@ -1,0 +1,942 @@
+{
+ "id": "geo-10-c-4",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Oceans – క్విజ్ 4",
+  "en": "Oceans – Quiz 4"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T10-0008",
+   "section": {
+    "te": "Hemispheric Distribution",
+    "en": "Hemispheric Distribution"
+   },
+   "q": {
+    "te": "భూమిపై సముద్రాలు మరియు ఖండాల విస్తరణకు సంబంధించి కింది వాటిలో ఏది నిజం?",
+    "en": "Which of the following is true regarding the distribution of oceans and continents on Earth?"
+   },
+   "options": {
+    "te": [
+     "అవి ఉత్తర మరియు దక్షిణ గోళార్ధాల మధ్య సమానంగా పంపిణీ చేయబడ్డాయి",
+     "అవి ఉత్తర మరియు దక్షిణ గోళార్ధాల మధ్య సమానంగా పంపిణీ చేయబడలేదు",
+     "సముద్రాలు దక్షిణ గోళార్ధంలో మాత్రమే కనిపిస్తాయి",
+     "ఖండాలు ఉత్తర గోళార్ధంలో మాత్రమే కనిపిస్తాయి"
+    ],
+    "en": [
+     "They are distributed equally between the Northern and Southern Hemispheres",
+     "They are not distributed equally between the Northern and Southern Hemispheres",
+     "Oceans are only found in the Southern Hemisphere",
+     "Continents are only found in the Northern Hemisphere"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సముద్రాలు మరియు ఖండాలు ఉత్తర మరియు దక్షిణ గోళార్ధాల మధ్య సమానంగా పంపిణీ చేయబడలేదని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Oceans and continents are not distributed equally between the Northern and Southern Hemispheres."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T10-0135",
+   "section": {
+    "te": "Hemispheric Heat Difference",
+    "en": "Hemispheric Heat Difference"
+   },
+   "q": {
+    "te": "దక్షిణార్థగోళంలోని మహాసముద్రాల కంటే ఉత్తరార్థగోళంలోని మహాసముద్రాలు ఎక్కువ వేడిని పొందడానికి గల కారణం ఏమిటి?",
+    "en": "Why do oceans in the Northern Hemisphere receive more heat than oceans in the Southern Hemisphere?"
+   },
+   "options": {
+    "te": [
+     "ఎక్కువ విస్తీర్ణంలో ఉన్న భూభాగంతో సంబంధం కలిగి ఉండటం వల్ల",
+     "ఉత్తరార్థగోళంలో ఎక్కువ సౌర వికిరణం లభించడం వల్ల",
+     "ఎక్కువ సంఖ్యలో అగాధాలు ఉండటం వల్ల",
+     "బలహీనమైన పవనాలు వీయడం వల్ల"
+    ],
+    "en": [
+     "Due to contact with a larger extent of land",
+     "Due to higher solar radiation received in the Northern Hemisphere",
+     "Due to a greater number of deep sea trenches",
+     "Due to weaker prevailing winds"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఉత్తరార్థగోళంలోని మహాసముద్రాలు విస్తారమైన భూభాగంతో తాకిడి కలిగి ఉండటం వల్ల దక్షిణార్థగోళ మహాసముద్రాల కంటే ఎక్కువ వేడిని పొందుతాయి.",
+    "en": "The oceans in the Northern Hemisphere receive more heat because of their contact with a larger extent of land compared to the Southern Hemisphere."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T10-0154",
+   "section": {
+    "te": "North Sea salinity cause",
+    "en": "North Sea salinity cause"
+   },
+   "q": {
+    "te": "ఉత్తర సముద్రం (North Sea) అధిక అక్షాంశాలలో ఉన్నప్పటికీ ఎక్కువ లవణీయతను నమోదు చేయడానికి కారణం ఏమిటి?",
+    "en": "Why does the North Sea record higher salinity despite being located in higher latitudes?"
+   },
+   "options": {
+    "te": [
+     "వేసవిలో అధిక భాష్పీభవనం",
+     "మంచినీటి నదుల ప్రవాహం లేకపోవడం",
+     "ఆర్కిటిక్ ప్రాంతంలో మంచు కరగడం",
+     "ఉత్తర అట్లాంటిక్ డ్రిఫ్ట్ ద్వారా ఎక్కువ లవణీయత కలిగిన నీరు చేరడం"
+    ],
+    "en": [
+     "High rate of evaporation in summer",
+     "Absence of fresh water river discharge",
+     "Melting of ice in the Arctic region",
+     "More saline water brought by the North Atlantic Drift"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఉత్తర అట్లాంటిక్ డ్రిఫ్ట్ ద్వారా ఎక్కువ లవణీయత కలిగిన నీరు చేరడం వల్ల ఉత్తర సముద్రంలో అధిక లవణీయత నమోదవుతుంది.",
+    "en": "The North Sea records higher salinity due to more saline water brought by the North Atlantic Drift."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T10-0139",
+   "section": {
+    "te": "Top Ocean Layer Seasonality",
+    "en": "Top Ocean Layer Seasonality"
+   },
+   "q": {
+    "te": "మహాసముద్రాల మూడు పొరల ఉష్ణోగ్రత వ్యవస్థలో, మధ్య అక్షాంశాలలో పైనున్న వెచ్చని పొర ఏ కాలంలో మాత్రమే ఏర్పడుతుంది?",
+    "en": "In the three-layer system of ocean temperature, during which season does the top warm layer develop in the mid-latitudes?"
+   },
+   "options": {
+    "te": [
+     "శరదృతువు",
+     "వేసవి కాలం",
+     "వసంత కాలం",
+     "శీతాకాలం"
+    ],
+    "en": [
+     "Autumn",
+     "Summer",
+     "Spring",
+     "Winter"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మధ్య అక్షాంశాలలో మొదటి పొర అయిన వెచ్చని నీటి పొర కేవలం వేసవి కాలంలో మాత్రమే ఏర్పడుతుంది.",
+    "en": "In tropical regions, the top warm layer is present throughout the year, but in mid-latitudes, it develops only during summer."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T10-0199",
+   "section": {
+    "te": "Deep currents speed",
+    "en": "Deep currents speed"
+   },
+   "q": {
+    "te": "సముద్ర ప్రవాహాలు ఉపరితలం వద్ద బలంగా ఉంటాయి, అయితే సముద్రపు లోతుల్లో ప్రవాహాల సాధారణ వేగం ఎంత ఉంటుంది?",
+    "en": "While ocean currents are strongest near the surface, what is the typical speed of currents at ocean depths?"
+   },
+   "options": {
+    "te": [
+     "10 నాట్ల కంటే ఎక్కువ",
+     "1 మరియు 2 నాట్ల మధ్య",
+     "0.5 నాట్ల కంటే తక్కువ",
+     "5 నాట్లకు సమానం"
+    ],
+    "en": [
+     "Greater than 10 knots",
+     "Between 1 and 2 knots",
+     "Less than 0.5 knots",
+     "Equal to 5 knots"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "లోతుల్లో సముద్ర ప్రవాహాలు సాధారణంగా చాలా నెమ్మదిగా కదులుతాయి, వీటి వేగం 0.5 నాట్ల కంటే తక్కువగా ఉంటుంది.",
+    "en": "Ocean currents decrease in speed with depth; at depths, they are generally slow with speeds less than 0.5 knots."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T10-0103",
+   "section": {
+    "te": "Mid-oceanic Ridge Crest",
+    "en": "Mid-oceanic Ridge Crest"
+   },
+   "q": {
+    "te": "మధ్య-మహాసముద్ర పర్వత శ్రేణి శిఖరం వద్ద కనిపించే కేంద్ర రిఫ్ట్ వ్యవస్థ (rift system) దేనికి ప్రసిద్ధి చెందింది?",
+    "en": "The central rift system found at the crest of a mid-oceanic ridge is known for being a zone of:"
+   },
+   "options": {
+    "te": [
+     "తీవ్రమైన అగ్నిపర్వత కార్యకలాపాలు ఉండే ప్రాంతం",
+     "అవక్షేప శిలలు పేరుకుపోయే ప్రాంతం",
+     "లోతైన సముద్ర అగాధాలు ఏర్పడే ప్రాంతం",
+     "ఎటువంటి భౌగోళిక కార్యకలాపాలు లేని ప్రాంతం"
+    ],
+    "en": [
+     "Intense volcanic activity",
+     "Sedimentary rock accumulation",
+     "Deep-sea trench formation",
+     "No geological activity"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మధ్య-మహాసముద్ర పర్వత శ్రేణి శిఖరం వద్ద ఉండే రిఫ్ట్ వ్యవస్థ తీవ్రమైన అగ్నిపర్వత కార్యకలాపాలకు కేంద్రంగా ఉంటుంది.",
+    "en": "The crest of a mid-oceanic ridge features a rift system that is a site of intense volcanic activity."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T10-0005",
+   "section": {
+    "te": "Ocean Sizes",
+    "en": "Ocean Sizes"
+   },
+   "q": {
+    "te": "కింది సముద్రాలను వాటి పరిమాణం ఆధారంగా అవరోహణ క్రమంలో (పెద్ద నుండి చిన్నది) అమర్చండి:",
+    "en": "Arrange the following oceans in descending order of their size (largest to smallest):"
+   },
+   "options": {
+    "te": [
+     "పసిఫిక్, హిందూ, అట్లాంటిక్, దక్షిణ, ఆర్కిటిక్",
+     "పసిఫిక్, అట్లాంటిక్, హిందూ, దక్షిణ, ఆర్కిటిక్",
+     "అట్లాంటిక్, పసిఫిక్, హిందూ, ఆర్కిటిక్, దక్షిణ",
+     "పసిఫిక్, అట్లాంటిక్, దక్షిణ, హిందూ, ఆర్కిటిక్"
+    ],
+    "en": [
+     "Pacific, Indian, Atlantic, Southern, Arctic",
+     "Pacific, Atlantic, Indian, Southern, Arctic",
+     "Atlantic, Pacific, Indian, Arctic, Southern",
+     "Pacific, Atlantic, Southern, Indian, Arctic"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పెద్ద నుండి చిన్న క్రమంలో సముద్రాలు: పసిఫిక్, అట్లాంటిక్, హిందూ, దక్షిణ మరియు ఆర్కిటిక్.",
+    "en": "The correct order from largest to smallest is Pacific, Atlantic, Indian, Southern, and Arctic."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T10-0165",
+   "section": {
+    "te": "Tides and Surges",
+    "en": "Tides and Surges"
+   },
+   "q": {
+    "te": "గాలులు మరియు వాతావరణ పీడన మార్పుల వంటి వాతావరణ ప్రభావాల వల్ల కలిగే నీటి కదలికను ఏమని పిలుస్తారు?",
+    "en": "What is the movement of water caused specifically by meteorological effects such as winds and atmospheric pressure changes called?"
+   },
+   "options": {
+    "te": [
+     "పోటు ప్రవాహాలు (Tidal currents)",
+     "సర్జెస్ (Surges)",
+     "పోటుపాట్లు (Tides)",
+     "తరంగ శ్రేణులు (Wave trains)"
+    ],
+    "en": [
+     "Tidal currents",
+     "Surges",
+     "Tides",
+     "Wave trains"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సూర్యచంద్రుల ఆకర్షణ వల్ల పోటుపాట్లు ఏర్పడగా, గాలులు మరియు పీడన మార్పుల వల్ల కలిగే నీటి కదలికలను ప్రత్యేకంగా 'సర్జెస్' అని పిలుస్తారు.",
+    "en": "While tides are caused by the attraction of the sun and moon, water movements caused by winds and pressure changes are specifically termed surges."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T10-0104",
+   "section": {
+    "te": "Coastal Dynamics",
+    "en": "Coastal Dynamics"
+   },
+   "q": {
+    "te": "తీరం వెంబడి అత్యంత డైనమిక్ మరియు వినాశకరమైనవిగా క్రింది వాటిలో ఏవి వర్ణించబడ్డాయి?",
+    "en": "Which of the following processes are described as the most dynamic and destructive along the coast?"
+   },
+   "options": {
+    "te": [
+     "లోతైన సముద్ర ప్రవాహాలు",
+     "పోటుపాట్ల కదలికలు",
+     "తీరప్రాంత ప్రక్రియలు (Coastal processes)",
+     "లవణీయత మార్పులు"
+    ],
+    "en": [
+     "Deep-sea currents",
+     "Tidal movements",
+     "Coastal processes",
+     "Salinity changes"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "తరంగాల ద్వారా జరిగే తీరప్రాంత ప్రక్రియలు అత్యంత డైనమిక్ మరియు వినాశకరమైనవి అని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Coastal processes (driven largely by waves) are the most dynamic and destructive."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T10-0024",
+   "section": {
+    "te": "Ocean Currents",
+    "en": "Ocean Currents"
+   },
+   "q": {
+    "te": "శీతల సముద్ర ప్రవాహాలు సాధారణంగా ఏ దిశలో ప్రవహిస్తాయి?",
+    "en": "In which direction do cold ocean currents typically flow?"
+   },
+   "options": {
+    "te": [
+     "ధ్రువాల నుండి భూమధ్యరేఖ వైపు",
+     "భూమధ్యరేఖ వెంట తూర్పు నుండి పడమర వరకు",
+     "భూమధ్యరేఖ నుండి ధ్రువాల వైపు",
+     "సముద్ర గర్భం నుండి ఉపరితలం వరకు"
+    ],
+    "en": [
+     "From the poles toward the equator",
+     "From east to west along the equator",
+     "From the equator toward the poles",
+     "From the ocean floor to the surface"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "శీతల ప్రవాహాలు ధ్రువ ప్రాంతాల నుండి వెచ్చని భూమధ్యరేఖ ప్రాంతాల వైపు చల్లని నీటిని తరలిస్తాయి.",
+    "en": "Cold currents move cold water from the polar regions toward the warmer equatorial regions."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T10-0102",
+   "section": {
+    "te": "Coastal Processes",
+    "en": "Coastal Processes"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): తీరప్రాంత ప్రక్రియలు అత్యంత డైనమిక్ మరియు అందువల్ల అత్యంత వినాశకరమైనవి.\nకారణం (R): తుఫాను తరంగాలు మరియు సునామీ తరంగాలు సాధారణ తరంగాల కంటే తక్కువ సమయంలోనే సుదూర మార్పులను కలిగిస్తాయి.",
+    "en": "Assertion (A): Coastal processes are the most dynamic and hence most destructive.\nReason (R): Storm waves and tsunami waves can cause far-reaching changes in a short period of time than normal breaking waves."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సునామీలు మరియు తుఫాను తరంగాలు వంటి శక్తివంతమైన తరంగాలు తీరప్రాంతాన్ని వేగంగా మార్చగలవు కాబట్టి తీరప్రాంత ప్రక్రియలు అత్యంత వినాశకరమైనవి.",
+    "en": "Coastal processes are highly dynamic and destructive because powerful waves like tsunamis and storm waves can rapidly alter the coastline."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T10-0188",
+   "section": {
+    "te": "Ocean Current Movement",
+    "en": "Ocean Current Movement"
+   },
+   "q": {
+    "te": "సముద్ర ప్రవాహాల కదలికకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. శీతల నీటి ప్రవాహాలు ధృవాల వద్ద పుట్టి, లోతులో భూమధ్యరేఖ వైపు కదులుతాయి.\n2. ఉష్ణ నీటి ప్రవాహాలు ఉపరితలం వెంట భూమధ్యరేఖ నుండి ధృవాల వైపు ప్రవహిస్తాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about the movement of ocean currents:\n1. Cold-water currents originate at the poles and move towards the equator at depth.\n2. Warm-water currents flow along the surface from the equator towards the poles.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "చల్లని నీరు సాంద్రత ఎక్కువగా ఉండటం వల్ల ధృవాల వద్ద మునిగి భూమధ్యరేఖ వైపు కదులుతుంది, అయితే వెచ్చని, తేలికపాటి నీరు ఉపరితలంపై భూమధ్యరేఖ నుండి ధృవాల వైపు కదులుతుంది.",
+    "en": "Cold water is denser and sinks at the poles, moving toward the equator, while warmer, lighter water moves from the equator toward the poles along the surface."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T10-0169",
+   "section": {
+    "te": "Wave Characteristics",
+    "en": "Wave Characteristics"
+   },
+   "q": {
+    "te": "క్రింది తరంగ లక్షణాలను వాటి వివరణలతో జతపరచండి:\nజాబితా I:\nA. తరంగ కాలం (Wave period)\nB. తరంగ దైర్ఘ్యం (Wavelength)\nC. తరంగ వేగం (Wave speed)\nD. తరంగ పౌనఃపున్యం (Wave frequency)\n\nజాబితా II:\n1. రెండు వరుస శిఖరాల మధ్య క్షితిజ సమాంతర దూరం\n2. రెండు వరుస శిఖరాల మధ్య సమయ విరామం\n3. ఒక సెకనులో ఒక బిందువును దాటి వెళ్ళే తరంగాల సంఖ్య\n4. నీటి ద్వారా తరంగం కదిలే రేటు",
+    "en": "Match the following wave characteristics with their descriptions:\nList I:\nA. Wave period\nB. Wavelength\nC. Wave speed\nD. Wave frequency\n\nList II:\n1. Horizontal distance between two successive crests\n2. Time interval between two successive crests\n3. Number of waves passing a point in one second\n4. Rate at which the wave moves through water"
+   },
+   "options": {
+    "te": [
+     "A-2, B-1, C-4, D-3",
+     "A-1, B-2, C-3, D-4",
+     "A-2, B-1, C-3, D-4",
+     "A-4, B-3, C-2, D-1"
+    ],
+    "en": [
+     "A-2, B-1, C-4, D-3",
+     "A-1, B-2, C-3, D-4",
+     "A-2, B-1, C-3, D-4",
+     "A-4, B-3, C-2, D-1"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "తరంగ కాలం అనేది సమయ విరామం, తరంగ దైర్ఘ్యం క్షితిజ సమాంతర దూరం, తరంగ వేగం నాట్లలో కొలిచే రేటు మరియు పౌనఃపున్యం సెకనుకు తరంగాల సంఖ్య.",
+    "en": "Wave period is the time interval, wavelength is the horizontal distance, wave speed is the rate in knots, and frequency is the number of waves per second."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T10-0002",
+   "section": {
+    "te": "Earth's Appearance",
+    "en": "Earth's Appearance"
+   },
+   "q": {
+    "te": "తొలి వ్యోమగాములు భూమిని 'నీలి గ్రహం' (blue planet) అని ఎందుకు పిలిచారు?",
+    "en": "Why did early astronauts call the Earth the 'blue planet'?"
+   },
+   "options": {
+    "te": [
+     "వాతావరణం యొక్క నీలం రంగు కారణంగా",
+     "నీటి కారణంగా అంతరిక్షం నుండి భూమి ఎక్కువగా నీలం రంగులో కనిపిస్తుంది కాబట్టి",
+     "చంద్రుని ప్రతిబింబం కారణంగా",
+     "భూభాగాల రంగు కారణంగా"
+    ],
+    "en": [
+     "Because of the blue color of the atmosphere",
+     "Because the Earth appears mostly blue from outer space due to water",
+     "Because of the reflection of the moon",
+     "Because of the color of the landmasses"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భూమి ఉపరితలం ఎక్కువ భాగం నీటితో కప్పబడి ఉండటం వల్ల అంతరిక్షం నుండి భూమి ఎక్కువగా నీలం రంగులో కనిపిస్తుంది.",
+    "en": "The Earth appears mostly blue from outer space because most of its surface is covered with water."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T10-0181",
+   "section": {
+    "te": "Neap Tides Forces",
+    "en": "Neap Tides Forces"
+   },
+   "q": {
+    "te": "కింద రెండు ప్రకటనలు ఇవ్వబడ్డాయి, ఒకటి ప్రతిపాదన (A) మరియు మరొకటి కారణం (R):\nప్రతిపాదన (A): నీప్ పోటుపాట్ల (Neap tides) సమయంలో, టైడల్ పరిధి సాధారణంగా తక్కువగా ఉంటుంది.\nకారణం (R): సూర్యుడు మరియు చంద్రుడు ఒకరికొకరు లంబ కోణంలో ఉంటారు మరియు వారి గురుత్వాకర్షణ శక్తులు ఒకదానికొకటి వ్యతిరేకంగా పనిచేస్తాయి.\nపై ప్రకటనల సందర్భంలో, కింది వాటిలో ఏది సరైనది?",
+    "en": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R):\nAssertion (A): During neap tides, the tidal range is generally lower.\nReason (R): The sun and moon are at right angles to each other, and their gravitational forces counteract one another.\nIn the context of the above statements, which of the following is correct?"
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నీప్ పోటుపాట్ల సమయంలో, సూర్యుడు మరియు చంద్రుడు లంబ కోణంలో ఉండటం వల్ల వారి గురుత్వాకర్షణ శక్తులు ఒకదానికొకటి తగ్గించుకుంటాయి, దీని ఫలితంగా పోటుపాట్ల పరిధి తక్కువగా ఉంటుంది.",
+    "en": "During neap tides, the sun and moon are at right angles, causing their gravitational pulls to partially cancel each other out, resulting in lower tidal ranges."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T10-0142",
+   "section": {
+    "te": "Rapid Temperature Fall Depth",
+    "en": "Rapid Temperature Fall Depth"
+   },
+   "q": {
+    "te": "మహాసముద్రాలలో లోతు పెరుగుతున్నప్పుడు, ఉష్ణోగ్రత తగ్గే వేగం మందగించడానికి ముందు ఏ లోతు వరకు చాలా వేగంగా పడిపోతుంది?",
+    "en": "With increasing ocean depth, up to what depth does the temperature fall very rapidly before the rate of decrease slows down?"
+   },
+   "options": {
+    "te": [
+     "200 మీటర్ల వరకు",
+     "50 మీటర్ల వరకు",
+     "100 మీటర్ల వరకు",
+     "500 మీటర్ల వరకు"
+    ],
+    "en": [
+     "Up to 200 m",
+     "Up to 50 m",
+     "Up to 100 m",
+     "Up to 500 m"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సముద్రాలలో ఉష్ణోగ్రత 200 మీటర్ల లోతు వరకు చాలా వేగంగా పడిపోతుంది, ఆ తర్వాత తగ్గుదల రేటు మందగిస్తుంది.",
+    "en": "The rate of temperature decrease is not uniform; temperature falls very rapidly up to a depth of 200 m, after which the rate slows down."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T10-0192",
+   "section": {
+    "te": "Neap Tide Forces",
+    "en": "Neap Tide Forces"
+   },
+   "q": {
+    "te": "కింద రెండు ప్రకటనలు ఇవ్వబడ్డాయి, ఒకటి ప్రతిపాదన (A) మరియు మరొకటి కారణం (R):\nప్రతిపాదన (A): నీప్ పోటుపాట్ల సమయంలో, చంద్రుని గురుత్వాకర్షణ శక్తి తగ్గుతుంది.\nకారణం (R): సూర్యుడు మరియు చంద్రుడు లంబ కోణంలో ఉంటారు మరియు సూర్యుని గురుత్వాకర్షణ శక్తి వ్యతిరేక శక్తిగా పనిచేస్తుంది.\nపై ప్రకటనల సందర్భంలో, కింది వాటిలో ఏది సరైనది?",
+    "en": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R):\nAssertion (A): During neap tides, the Moon's gravitational attraction is diminished.\nReason (R): The sun and moon are at right angles, and the sun's gravitational pull acts as a counteracting force.\nIn the context of the above statements, which of the following is correct?"
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నీప్ పోటుపాట్లలో, సూర్యుడు మరియు చంద్రుడు లంబ కోణంలో ఉండటం వల్ల, సూర్యుని గురుత్వాకర్షణ చంద్రుని గురుత్వాకర్షణకు వ్యతిరేకంగా పనిచేస్తుంది, దీనివల్ల మొత్తం టైడల్ ప్రభావం తగ్గుతుంది.",
+    "en": "In neap tides, because the sun and moon are at right angles, the sun's gravity works against the moon's gravity, reducing the overall tidal effect."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T10-0067",
+   "section": {
+    "te": "Blue Economy",
+    "en": "Blue Economy"
+   },
+   "q": {
+    "te": "ఏ ఐక్యరాజ్యసమితి సుస్థిర అభివృద్ధి లక్ష్యం (SDG) ప్రత్యేకంగా 'నీటి క్రింద జీవం' (Life Below Water) కోసం కేటాయించబడింది?",
+    "en": "Which United Nations Sustainable Development Goal (SDG) is specifically dedicated to 'Life Below Water'?"
+   },
+   "options": {
+    "te": [
+     "SDG 17",
+     "SDG 15",
+     "SDG 14",
+     "SDG 12"
+    ],
+    "en": [
+     "SDG 17",
+     "SDG 15",
+     "SDG 14",
+     "SDG 12"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "SDG 14 అనేది 'నీటి క్రింద జీవం' మరియు సముద్ర వనరుల సుస్థిర వినియోగంపై దృష్టి సారించే UN లక్ష్యం.",
+    "en": "SDG 14 is the UN goal that focuses on 'Life Below Water' and the sustainable use of ocean resources."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T10-0148",
+   "section": {
+    "te": "Hemispheric ocean temperatures",
+    "en": "Hemispheric ocean temperatures"
+   },
+   "q": {
+    "te": "ఉత్తర మరియు దక్షిణార్థ గోళాలలోని సముద్రాల సగటు వార్షిక ఉపరితల ఉష్ణోగ్రతలు వరుసగా ఎంత ఉంటాయి?",
+    "en": "What are the average annual surface temperatures of the oceans in the Northern and Southern Hemispheres, respectively?"
+   },
+   "options": {
+    "te": [
+     "16° C మరియు 19° C",
+     "27° C మరియు 22° C",
+     "19° C మరియు 16° C",
+     "22° C మరియు 14° C"
+    ],
+    "en": [
+     "16° C and 19° C",
+     "27° C and 22° C",
+     "19° C and 16° C",
+     "22° C and 14° C"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఉత్తర మరియు దక్షిణార్థ గోళాల సముద్రాల సగటు వార్షిక ఉష్ణోగ్రతలు వరుసగా 19° C మరియు 16° C గా ఉంటాయి.",
+    "en": "The average annual ocean temperatures for the Northern and Southern Hemispheres are around 19° C and 16° C respectively."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T10-0003",
+   "section": {
+    "te": "Indian Navy Motto",
+    "en": "Indian Navy Motto"
+   },
+   "q": {
+    "te": "భారత నౌకాదళం యొక్క నినాదం 'శం నో వరుణః' (Sam noh Varunah) ఏ వేద దేవతను ప్రార్థిస్తుంది?",
+    "en": "The motto of the Indian Navy, 'Sam noh Varunah', is an invocation to which Vedic deity?"
+   },
+   "options": {
+    "te": [
+     "వాయువు",
+     "అగ్ని",
+     "ఇంద్రుడు",
+     "వరుణుడు"
+    ],
+    "en": [
+     "Vayu",
+     "Agni",
+     "Indra",
+     "Varuna"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "'శం నో వరుణః' అనేది సముద్రాలు మరియు నీటికి సంబంధించిన వేద దేవత అయిన వరుణుడిని ఉద్దేశించిన ప్రార్థన.",
+    "en": "The motto 'Sam noh Varunah' is an invocation to Varuna, the Vedic deity associated with oceans and water."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T10-0036",
+   "section": {
+    "te": "Oceans and Continents",
+    "en": "Oceans and Continents"
+   },
+   "q": {
+    "te": "కింది ప్రకటనలను పరిశీలించండి:\n1. మహాసముద్రాలు ఒకదానితో ఒకటి అనుసంధానించబడి ఉన్నాయి.\n2. ఖండాల యొక్క అత్యంత సాధారణ సంఖ్య ఏడు.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements:\n1. Oceans are interconnected.\n2. The most common count of continents is seven.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 లేదా 2 ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మహాసముద్రాలన్నీ అనుసంధానించబడి ఉన్నాయని మరియు ఖండాల సంఖ్య ఏడు అనేది అత్యంత సాధారణమని పాఠ్యభాగం ధృవీకరిస్తుంది.",
+    "en": "The text confirms that all oceans are connected and that seven is the most common number of continents."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T10-0115",
+   "section": {
+    "te": "Continental Shelf Resources",
+    "en": "Continental Shelf Resources"
+   },
+   "q": {
+    "te": "సుదీర్ఘ కాలంలో ఖండతీర అంచులపై చేరిన భారీ అవక్షేప నిక్షేపాలు వేటికి ప్రధాన వనరుగా మారతాయి?",
+    "en": "Massive sedimentary deposits accumulated over long periods on continental shelves serve as a major source of which of the following?"
+   },
+   "options": {
+    "te": [
+     "శిలాజ ఇంధనాలు (Fossil fuels)",
+     "బహుళ-లోహ గుళికలు",
+     "రేడియోధార్మిక ఖనిజాలు",
+     "అగ్నిపర్వత బూడిద"
+    ],
+    "en": [
+     "Fossil fuels",
+     "Polymetallic nodules",
+     "Radioactive minerals",
+     "Volcanic ash"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఖండతీర అంచులపై దీర్ఘకాలంగా చేరిన విస్తారమైన అవక్షేప నిక్షేపాలు శిలాజ ఇంధనాల లభ్యతకు మూలంగా నిలుస్తాయి.",
+    "en": "Massive sedimentary deposits received over a long time by the continental shelves become the source of fossil fuels."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T10-0012",
+   "section": {
+    "te": "Marine Definition",
+    "en": "Marine Definition"
+   },
+   "q": {
+    "te": "'మెరైన్' (Marine) అనే పదానికి అర్థం ఏమిటి?",
+    "en": "What is the definition of the term 'Marine'?"
+   },
+   "options": {
+    "te": [
+     "పర్వత జంతువులకు సంబంధించినది",
+     "ఎడారి మొక్కలకు సంబంధించినది",
+     "మంచి నీటి సరస్సులకు సంబంధించినది",
+     "మహాసముద్రాలు మరియు సముద్రాలకు సంబంధించినది లేదా వాటిలో కనిపించేది"
+    ],
+    "en": [
+     "Related to mountain animals",
+     "Related to desert plants",
+     "Related to freshwater lakes",
+     "Related to or found in the oceans and seas"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "'మెరైన్' అంటే మహాసముద్రాలు మరియు సముద్రాలకు సంబంధించినది లేదా వాటిలో కనిపించేది అని అర్థం.",
+    "en": "The term 'Marine' refers to things related to or found in oceans and seas."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T10-0129",
+   "section": {
+    "te": "Guyots",
+    "en": "Guyots"
+   },
+   "q": {
+    "te": "దశలవారీగా క్రమంగా కుంగిపోవడం (subsidence) వల్ల చదునైన పైభాగం కలిగిన సముద్ర పర్వతంగా మారిన భూస్వరూపాన్ని ఏమని పిలుస్తారు?",
+    "en": "What type of undersea relief feature is defined as a flat-topped seamount that shows evidence of gradual subsidence?"
+   },
+   "options": {
+    "te": [
+     "గయోట్ (Guyot)",
+     "మధ్య మహాసముద్ర కటకం (Mid-Oceanic Ridge)",
+     "ఎటోల్ (Atoll)",
+     "సముద్రాంతర్గత కాన్యన్ (Submarine Canyon)"
+    ],
+    "en": [
+     "Guyot",
+     "Mid-Oceanic Ridge",
+     "Atoll",
+     "Submarine Canyon"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "చదునైన పైభాగం కలిగిన సముద్ర పర్వతాన్ని 'గయోట్' (Guyot) అంటారు. ఇవి క్రమంగా క్రిందికి కుంగిపోవడం వల్ల ఏర్పడతాయి.",
+    "en": "A guyot is a flat-topped seamount showing evidence of gradual subsidence through stages into a submerged flat-topped mountain."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T10-0113",
+   "section": {
+    "te": "Largest Continental Shelf",
+    "en": "Largest Continental Shelf"
+   },
+   "q": {
+    "te": "ప్రపంచంలోనే అతిపెద్ద ఖండతీర అంచుకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది ఆర్కిటిక్ మహాసముద్రంలో ఉంది.\n2. ఇది 1,500 కి.మీ. వెడల్పు వరకు విస్తరించి ఉంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the largest continental shelf in the world:\n1. It is located in the Arctic Ocean.\n2. It stretches up to 1,500 km in width.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 కాదు 2 కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఆర్కిటిక్ మహాసముద్రంలోని సైబీరియన్ షెల్ఫ్ ప్రపంచంలోనే అతిపెద్దది మరియు ఇది 1,500 కి.మీ. వెడల్పు వరకు విస్తరించి ఉంది.",
+    "en": "The Siberian shelf in the Arctic Ocean is the largest continental shelf in the world, extending to a width of 1,500 km."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T10-0132",
+   "section": {
+    "te": "Ocean Currents and Temperature",
+    "en": "Ocean Currents and Temperature"
+   },
+   "q": {
+    "te": "ఉత్తర అమెరికా తూర్పు తీరం మరియు ఐరోపా పశ్చిమ తీరాల వెంబడి ఉష్ణోగ్రతను పెంచే వెచ్చని సముద్ర ప్రవాహం ఏది?",
+    "en": "Which warm ocean current raises the temperature near the eastern coast of North America and the west coast of Europe?"
+   },
+   "options": {
+    "te": [
+     "కనారీస్ ప్రవాహం",
+     "లాబ్రడార్ ప్రవాహం",
+     "కాలిఫోర్నియా ప్రవాహం",
+     "గల్ఫ్ స్ట్రీమ్"
+    ],
+    "en": [
+     "Canaries Current",
+     "Labrador Current",
+     "California Current",
+     "Gulf Stream"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "గల్ఫ్ స్ట్రీమ్ అనేది ఒక వెచ్చని ప్రవాహం; ఇది ఉత్తర అమెరికా తూర్పు తీరంలో మరియు ఐరోపా పశ్చిమ తీరంలో ఉష్ణోగ్రతను పెంచుతుంది.",
+    "en": "The Gulf Stream is a warm current that increases temperatures along the eastern coast of North America and the west coast of Europe."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T10-0200",
+   "section": {
+    "te": "Middle latitude circulation",
+    "en": "Middle latitude circulation"
+   },
+   "q": {
+    "te": "మధ్య అక్షాంశాలలో సముద్రాలపై వాయు ప్రసరణకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఇది ప్రధానంగా ప్రతిచక్రవాత (anticyclonic) స్వభావాన్ని కలిగి ఉంటుంది.\n2. ఇది దక్షిణార్ధగోళంలో కంటే ఉత్తరార్ధగోళంలో మరింత స్పష్టంగా ఉంటుంది.\n\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the air circulation over oceans in the middle latitudes:\n1. It is mainly anticyclonic in nature.\n2. It is more pronounced in the northern hemisphere than in the southern hemisphere.\n\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 లేదా 2 కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మధ్య అక్షాంశాలలో సముద్రాలపై గాలి ప్రసరణ ప్రధానంగా ప్రతిచక్రవాతంగా ఉంటుంది, అయితే ఇది ఉత్తరార్ధగోళం కంటే దక్షిణార్ధగోళంలో మరింత స్పష్టంగా ఉంటుంది.",
+    "en": "Air circulation over oceans in the middle latitudes is mainly anticyclonic, but it is more pronounced in the southern hemisphere than in the northern hemisphere."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T10-0018",
+   "section": {
+    "te": "Ocean Connectivity",
+    "en": "Ocean Connectivity"
+   },
+   "q": {
+    "te": "ప్రకటన (A): ఐదు మహాసముద్రాలు నిజానికి ఒకదానికొకటి విడివిడిగా లేవు.\nకారణం (R): సముద్రపు నీరు నిరంతరం వివిధ మహాసముద్రాల గుండా ప్రవహిస్తుంది.\nసరైన ఎంపికను ఎంచుకోండి:",
+    "en": "Assertion (A): The five oceans are not really separate from each other.\nReason (R): Seawater constantly flows across different oceans.\nChoose the correct option:"
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సముద్రపు నీరు మహాసముద్రాల మధ్య ప్రవహిస్తుంది కాబట్టి అవి అనుసంధానించబడి ఉన్నాయి, వాటి సరిహద్దులు కేవలం సంప్రదాయబద్ధమైనవి మాత్రమే.",
+    "en": "The oceans are connected because seawater flows between them, making the boundaries conventional rather than natural."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T10-0028",
+   "section": {
+    "te": "Ocean Water Percentage",
+    "en": "Ocean Water Percentage"
+   },
+   "q": {
+    "te": "భూమిపై ఉన్న మొత్తం నీటిలో మహాసముద్రాలు ఎంత శాతం కలిగి ఉన్నాయి?",
+    "en": "What percentage of the Earth's total water is held by the oceans?"
+   },
+   "options": {
+    "te": [
+     "3 శాతం",
+     "71 శాతం",
+     "50 శాతం",
+     "97 శాతం"
+    ],
+    "en": [
+     "3 per cent",
+     "71 per cent",
+     "50 per cent",
+     "97 per cent"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మహాసముద్రాలు ఉపరితలంలో 71% ఆక్రమించినప్పటికీ, భూమిపై ఉన్న మొత్తం నీటిలో 97% ఇవే కలిగి ఉన్నాయి.",
+    "en": "While oceans cover 71% of the surface, they contain 97% of all water found on Earth."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T10-0149",
+   "section": {
+    "te": "Water bodies salinity match",
+    "en": "Water bodies salinity match"
+   },
+   "q": {
+    "te": "జాబితా I లోని జలాశయాలను జాబితా II లోని వాటి లవణీయత స్థాయులతో జతపరచండి:\nజాబితా I (జలాశయం)\nA. వాన్ సరస్సు (Lake Van)\nB. మృత సముద్రం (Dead Sea)\nC. గ్రేట్ సాల్ట్ లేక్ (Great Salt Lake)\n\nజాబితా II (లవణీయత)\n1. 220 o/oo\n2. 330 o/oo\n3. 238 o/oo\n\nసరైన కోడ్‌ను ఎంచుకోండి:",
+    "en": "Match the water bodies in List I with their respective salinity levels in List II:\nList I (Water Body)\nA. Lake Van\nB. Dead Sea\nC. Great Salt Lake\n\nList II (Salinity)\n1. 220 o/oo\n2. 330 o/oo\n3. 238 o/oo\n\nChoose the correct code:"
+   },
+   "options": {
+    "te": [
+     "A-2, B-3, C-1",
+     "A-3, B-2, C-1",
+     "A-1, B-3, C-2",
+     "A-2, B-1, C-3"
+    ],
+    "en": [
+     "A-2, B-3, C-1",
+     "A-3, B-2, C-1",
+     "A-1, B-3, C-2",
+     "A-2, B-1, C-3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వాన్ సరస్సు లవణీయత 330 o/oo, మృత సముద్రం లవణీయత 238 o/oo, మరియు గ్రేట్ సాల్ట్ లేక్ లవణీయత 220 o/oo.",
+    "en": "Lake Van has a salinity of 330 o/oo, Dead Sea has 238 o/oo, and Great Salt Lake has 220 o/oo."
+   }
+  }
+ ]
+}

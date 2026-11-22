@@ -1,0 +1,942 @@
+{
+ "id": "geo-10-c-2",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Oceans – క్విజ్ 2",
+  "en": "Oceans – Quiz 2"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T10-0022",
+   "section": {
+    "te": "Ocean Floor Relief",
+    "en": "Ocean Floor Relief"
+   },
+   "q": {
+    "te": "సముద్ర గర్భంలో కింది వాటిలో ఏ లక్షణాలు కనిపిస్తాయి?",
+    "en": "Which of the following features can be found on the ocean floor?"
+   },
+   "options": {
+    "te": [
+     "పర్వతాలు",
+     "లోయలు",
+     "మైదానాలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Mountains",
+     "Valleys",
+     "Plains",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సముద్ర గర్భం చదునుగా ఉండదు మరియు భూ ఉపరితలం వలె పర్వతాలు, లోయలు మరియు మైదానాలను కలిగి ఉంటుంది.",
+    "en": "The ocean floor is not flat and contains mountains, valleys, and plains, similar to land surfaces."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T10-0143",
+   "section": {
+    "te": "First Oceanic Layer",
+    "en": "First Oceanic Layer"
+   },
+   "q": {
+    "te": "మహాసముద్ర ఉష్ణోగ్రత నిర్మాణంలోని మొదటి (పై) పొరకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది దాదాపు 500 మీటర్ల మందం కలిగి ఉంటుంది.\n2. దీని ఉష్ణోగ్రత 20° C నుండి 25° C మధ్య ఉంటుంది.\n3. ఉష్ణమండల ప్రాంతంలో ఇది సంవత్సరం పొడవునా ఉంటుంది.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding the first (top) layer of the oceanic temperature structure:\n1. It is about 500 m thick.\n2. Its temperatures range between 20° C and 25° C.\n3. In the tropical region, it is present throughout the year.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మొదటి పొర 500 మీటర్ల మందం, 20°-25°C ఉష్ణోగ్రత కలిగి ఉండి ఉష్ణమండలాల్లో ఏడాది పొడవునా ఉంటుంది. కాబట్టి పై ప్రకటనలన్నీ సరైనవే.",
+    "en": "All three statements are correct: the top warm layer is about 500 m thick, has temperatures between 20° and 25° C, and remains present year-round in the tropics."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T10-0123",
+   "section": {
+    "te": "Continental Shelf Depth",
+    "en": "Continental Shelf Depth"
+   },
+   "q": {
+    "te": "సముద్ర ఉపరితల నైసర్గిక అధ్యయనం ప్రకారం, ఖండతీర అంచుల లోతు సాధారణంగా ఏ పరిధిలో ఉంటుంది?",
+    "en": "According to the study of ocean relief, the depth of continental shelves generally ranges between:"
+   },
+   "options": {
+    "te": [
+     "100 మీ. నుండి 1,000 మీ.",
+     "500 మీ. నుండి 1,500 మీ.",
+     "30 మీ. నుండి 600 మీ.",
+     "10 మీ. నుండి 100 మీ."
+    ],
+    "en": [
+     "100 m to 1,000 m",
+     "500 m to 1,500 m",
+     "30 m to 600 m",
+     "10 m to 100 m"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఖండతీర అంచుల లోతు ప్రాంతాన్ని బట్టి మారుతుంది; కొన్ని ప్రాంతాలలో 30 మీటర్ల తక్కువ లోతు ఉంటే, మరికొన్నింటిలో 600 మీటర్ల వరకు ఉంటుంది.",
+    "en": "The depth of continental shelves varies from as shallow as 30 m in some areas to as deep as 600 m in others."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T10-0020",
+   "section": {
+    "te": "World Oceans Day",
+    "en": "World Oceans Day"
+   },
+   "q": {
+    "te": "ఐక్యరాజ్యసమితి ఏ తేదీని ప్రపంచ మహాసముద్రాల దినోత్సవంగా ప్రకటించింది?",
+    "en": "On which date has the United Nations designated World Oceans Day?"
+   },
+   "options": {
+    "te": [
+     "జూన్ 5",
+     "జూన్ 8",
+     "ఏప్రిల్ 22",
+     "జూలై 8"
+    ],
+    "en": [
+     "June 5",
+     "June 8",
+     "April 22",
+     "July 8"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "రోజువారీ జీవితంలో సముద్రం పోషించే పాత్రను నొక్కి చెప్పడానికి ఐక్యరాజ్యసమితి జూన్ 8ని ప్రపంచ మహాసముద్రాల దినోత్సవంగా ప్రకటించింది.",
+    "en": "The United Nations designated June 8 as World Oceans Day to highlight the ocean's role in daily life."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T10-0097",
+   "section": {
+    "te": "Wave-cut Platform",
+    "en": "Wave-cut Platform"
+   },
+   "q": {
+    "te": "తరంగాల నిరంతర తాకిడి వల్ల సముద్రపు కొండలు వెనక్కి తగ్గినప్పుడు, వాటి ముందు ఏ లక్షణం ఏర్పడుతుంది?",
+    "en": "What feature is created in front of a sea cliff as it recedes due to the constant pounding of waves?"
+   },
+   "options": {
+    "te": [
+     "తరంగ-నిర్మిత టెర్రస్ (wave-built terrace)",
+     "బారియర్ బార్",
+     "మధ్య-మహాసముద్ర పర్వత శ్రేణి",
+     "తరంగ-కోత వేదిక (wave-cut platform)"
+    ],
+    "en": [
+     "A wave-built terrace",
+     "A barrier bar",
+     "A mid-oceanic ridge",
+     "A wave-cut platform"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "తరంగాల తాకిడి వల్ల సముద్రపు కొండలు వెనక్కి తగ్గినప్పుడు, వాటి ముందు తరంగ-కోత వేదిక ఏర్పడుతుంది.",
+    "en": "As sea cliffs recede due to wave erosion, they leave behind a flat surface known as a wave-cut platform."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T10-0180",
+   "section": {
+    "te": "Spring Tides",
+    "en": "Spring Tides"
+   },
+   "q": {
+    "te": "స్ప్రింగ్ పోటుపాట్ల (Spring tides)కు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. సూర్యుడు, చంద్రుడు మరియు భూమి సరళ రేఖలో ఉన్నప్పుడు ఇవి సంభవిస్తాయి.\n2. ఇవి నెలకు రెండుసార్లు, పౌర్ణమి మరియు అమావాస్య సమయాల్లో సంభవిస్తాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding spring tides:\n1. They occur when the sun, moon, and earth are in a straight line.\n2. They occur twice a month, during full moon and new moon periods.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సూర్యుడు మరియు చంద్రుని గురుత్వాకర్షణ శక్తులు భూమితో సరళ రేఖలో కలిసినప్పుడు స్ప్రింగ్ పోటుపాట్లు సంభవిస్తాయి. ఇవి పౌర్ణమి మరియు అమావాస్య దశలలో నెలకు రెండుసార్లు జరుగుతాయి.",
+    "en": "Spring tides occur when the gravitational forces of the sun and moon combine in a straight line with the earth, happening during both full moon and new moon phases."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T10-0193",
+   "section": {
+    "te": "Tidal Intervals",
+    "en": "Tidal Intervals"
+   },
+   "q": {
+    "te": "స్ప్రింగ్ పోటుపాట్లు మరియు నీప్ పోటుపాట్లు సంభవించడానికి మధ్య సాధారణంగా ఎంత సమయ విరామం ఉంటుంది?",
+    "en": "What is the normal time interval between the occurrence of spring tides and neap tides?"
+   },
+   "options": {
+    "te": [
+     "7 రోజులు",
+     "28 రోజులు",
+     "3 రోజులు",
+     "14 రోజులు"
+    ],
+    "en": [
+     "7 days",
+     "28 days",
+     "3 days",
+     "14 days"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, స్ప్రింగ్ పోటుపాట్లు మరియు నీప్ పోటుపాట్ల మధ్య సాధారణంగా ఏడు రోజుల విరామం ఉంటుంది.",
+    "en": "There is typically a seven-day interval between spring tides and neap tides."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T10-0040",
+   "section": {
+    "te": "Wave Landforms",
+    "en": "Wave Landforms"
+   },
+   "q": {
+    "te": "తరంగ చర్య వల్ల ఏర్పడే క్రమక్షయ రూపం (erosional feature) కానిది ఏది?",
+    "en": "Which of the following is NOT an erosional feature created by wave action?"
+   },
+   "options": {
+    "te": [
+     "స్టంప్స్ (Stumps)",
+     "సముద్ర తోరణాలు (Sea arches)",
+     "సీ స్టాక్స్ (Sea stacks)",
+     "బీచ్‌లు (Beaches)"
+    ],
+    "en": [
+     "Stumps",
+     "Sea arches",
+     "Sea stacks",
+     "Beaches"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, సముద్ర పగుళ్లు, గుహలు, తోరణాలు, స్టాక్స్ మరియు స్టంప్స్ క్రమక్షయ రూపాలు, అయితే బీచ్‌లు నిక్షేపణ రూపాలు (depositional features).",
+    "en": "Sea cracks, caves, arches, stacks, and stumps are erosional features, while beaches are depositional features."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T10-0134",
+   "section": {
+    "te": "Ocean Water Heating Rate",
+    "en": "Ocean Water Heating Rate"
+   },
+   "q": {
+    "te": "భూభాగంతో పోలిస్తే మహాసముద్రాల నీరు వేడెక్కే మరియు చల్లబడే ప్రక్రియ ఎలా ఉంటుంది?",
+    "en": "How does the process of heating and cooling of oceanic water compare with that of land?"
+   },
+   "options": {
+    "te": [
+     "భూమి కంటే చాలా వేగంగా ఉంటుంది",
+     "భూమి కంటే నెమ్మదిగా ఉంటుంది",
+     "భూమితో సమానమైన వేగంతో జరుగుతుంది",
+     "వేగంగా వేడెక్కి, నెమ్మదిగా చల్లబడుతుంది"
+    ],
+    "en": [
+     "It is much faster than land",
+     "It is slower than land",
+     "It occurs at the exact same rate as land",
+     "Oceanic water heats faster but cools slower than land"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "నేల లేదా భూభాగంతో పోల్చినప్పుడు మహాసముద్రాల నీరు వేడెక్కడం మరియు చల్లబడడం అనే ప్రక్రియ చాలా నెమ్మదిగా జరుగుతుంది.",
+    "en": "The process of heating and cooling of oceanic water is slower compared to land."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T10-0191",
+   "section": {
+    "te": "Aphelion and Tides",
+    "en": "Aphelion and Tides"
+   },
+   "q": {
+    "te": "భూమి సూర్యునికి అత్యంత దూరంగా ఉండే బిందువు (అఫీలియన్) ఏ తేదీన సంభవిస్తుంది, దీనివల్ల టైడల్ పరిధులు సగటు కంటే తక్కువగా ఉంటాయి?",
+    "en": "On which date does the earth reach its farthest point from the sun (aphelion), causing tidal ranges to be much less than average?"
+   },
+   "options": {
+    "te": [
+     "జనవరి 3",
+     "జూలై 4",
+     "జూన్ 21",
+     "డిసెంబర్ 22"
+    ],
+    "en": [
+     "January 3rd",
+     "July 4th",
+     "June 21st",
+     "December 22nd"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "జూలై 4 ప్రాంతంలో భూమి సూర్యుడి నుండి గరిష్ట దూరంలో ఉన్నప్పుడు అఫీలియన్ సంభవిస్తుంది, ఇది తక్కువ టైడల్ పరిధికి దారితీస్తుంది.",
+    "en": "Aphelion occurs around July 4th when the earth is at its maximum distance from the sun, leading to reduced tidal ranges."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T10-0035",
+   "section": {
+    "te": "Atlantic Ocean Features",
+    "en": "Atlantic Ocean Features"
+   },
+   "q": {
+    "te": "కింది మహాసముద్రాలను వాటి ముఖ్య లక్షణాలతో జతపరచండి:\nI. ఆర్కిటిక్ మహాసముద్రం - a. వాణిజ్యానికి అత్యంత రద్దీగా ఉండే జలమార్గం\nII. అట్లాంటిక్ మహాసముద్రం - b. వెచ్చని జలాలు\nIII. హిందూ మహాసముద్రం - c. అతిచిన్న మరియు లోతు తక్కువైనది",
+    "en": "Match the following oceans with their key features:\nI. Arctic Ocean - a. Busiest waterway for trade\nII. Atlantic Ocean - b. Warm waters\nIII. Indian Ocean - c. Smallest and shallowest"
+   },
+   "options": {
+    "te": [
+     "I-c, II-a, III-b",
+     "I-a, II-b, III-c",
+     "I-b, II-c, III-a",
+     "I-c, II-b, III-a"
+    ],
+    "en": [
+     "I-c, II-a, III-b",
+     "I-a, II-b, III-c",
+     "I-b, II-c, III-a",
+     "I-c, II-b, III-a"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఆర్కిటిక్ అతిచిన్నది/లోతు తక్కువైనది, అట్లాంటిక్ వాణిజ్యానికి అత్యంత రద్దీగా ఉంటుంది మరియు హిందూ మహాసముద్రం వెచ్చని జలాలను కలిగి ఉంటుంది.",
+    "en": "Arctic is the smallest/shallowest, Atlantic is the busiest for trade, and Indian Ocean has warm waters."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T10-0182",
+   "section": {
+    "te": "Perigee and Apogee",
+    "en": "Perigee and Apogee"
+   },
+   "q": {
+    "te": "చంద్రుని స్థితి మరియు పోటుపాట్లపై దాని ప్రభావానికి సంబంధించి కింది వాటిలో ఏది సరైనది?\nA. చంద్రుడు భూమికి అత్యంత సమీపంలో ఉన్నప్పుడు పెరిజీ (Perigee) సంభవిస్తుంది, ఇది అధిక టైడల్ పరిధికి దారితీస్తుంది.\nB. చంద్రుడు భూమికి అత్యంత దూరంలో ఉన్నప్పుడు అపోజీ (Apogee) సంభవిస్తుంది, ఇది తక్కువ టైడల్ పరిధికి దారితీస్తుంది.",
+    "en": "Which of the following statements is/are correct regarding the moon's position and its effect on tides?\nA. Perigee occurs when the moon is closest to the earth, leading to greater tidal ranges.\nB. Apogee occurs when the moon is farthest from the earth, leading to lower tidal ranges."
+   },
+   "options": {
+    "te": [
+     "A మాత్రమే",
+     "B మాత్రమే",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Item A only",
+     "Item B only",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "చంద్రుడు పెరిజీ (దగ్గరగా) వద్ద ఉన్నప్పుడు, దాని గురుత్వాకర్షణ శక్తి బలంగా ఉంటుంది, ఇది టైడల్ పరిధిని పెంచుతుంది. అపోజీ (దూరంగా) వద్ద, శక్తి బలహీనంగా ఉంటుంది, ఇది టైడల్ పరిధిని తగ్గిస్తుంది.",
+    "en": "When the moon is at perigee (closest), its gravitational pull is stronger, increasing tidal ranges. At apogee (farthest), the force is weaker, decreasing tidal ranges."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T10-0043",
+   "section": {
+    "te": "Tide Types",
+    "en": "Tide Types"
+   },
+   "q": {
+    "te": "స్ప్రింగ్ పోటులు (Spring tides) ఏ నిర్దిష్ట రోజులలో సంభవిస్తాయి?",
+    "en": "On which specific days do spring tides occur?"
+   },
+   "options": {
+    "te": [
+     "మొదటి త్రైమాసిక చంద్రుని రోజులలో మాత్రమే",
+     "మూడవ త్రైమాసిక చంద్రుని రోజులలో మాత్రమే",
+     "పౌర్ణమి మరియు అమావాస్య రోజులలో",
+     "ప్రతిరోజూ మధ్యాహ్నం"
+    ],
+    "en": [
+     "First-quarter moon days only",
+     "Third-quarter moon days only",
+     "Full moon and new moon days",
+     "Every day at noon"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సూర్యుడు, భూమి మరియు చంద్రుడు ఒకే సరళరేఖలో ఉన్నప్పుడు స్ప్రింగ్ పోటులు సంభవిస్తాయి, ఇది పౌర్ణమి మరియు అమావాస్య రోజులలో జరుగుతుంది.",
+    "en": "Spring tides occur when the Sun, Earth, and Moon are aligned, which happens on full moon and new moon days."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T10-0098",
+   "section": {
+    "te": "Mid-oceanic Ridges",
+    "en": "Mid-oceanic Ridges"
+   },
+   "q": {
+    "te": "భూమి ఉపరితలంపై ఉన్న అతి పొడవైన పర్వత శ్రేణి ఏది?",
+    "en": "Which of the following is the longest mountain chain on the surface of the Earth?"
+   },
+   "options": {
+    "te": [
+     "ఆండీస్",
+     "హిమాలయాలు",
+     "ఆల్ప్స్",
+     "మధ్య-మహాసముద్ర పర్వత శ్రేణులు"
+    ],
+    "en": [
+     "The Andes",
+     "The Himalayas",
+     "The Alps",
+     "The Mid-oceanic ridges"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మధ్య-మహాసముద్ర పర్వత శ్రేణి భూమిపై ఉన్న అతి పొడవైన పర్వత శ్రేణి, అయితే ఇది సముద్రపు నీటిలో మునిగి ఉంటుంది.",
+    "en": "The mid-oceanic ridge system is the longest mountain chain on Earth, although it is mostly submerged underwater."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T10-0001",
+   "section": {
+    "te": "Earth's Water Coverage",
+    "en": "Earth's Water Coverage"
+   },
+   "q": {
+    "te": "భూమి ఉపరితలంలో సుమారు ఎంత భాగం నీటితో కప్పబడి ఉంది?",
+    "en": "Approximately what proportion of the Earth's surface is covered with water?"
+   },
+   "options": {
+    "te": [
+     "నాల్గవ వంతు",
+     "ముప్పావు వంతు",
+     "సగం",
+     "మూడింట రెండు వంతులు"
+    ],
+    "en": [
+     "One-fourth",
+     "Three-fourths",
+     "One-half",
+     "Two-thirds"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, భూమి ఉపరితలంలో దాదాపు ముప్పావు వంతు నీరు ఆక్రమించి ఉంది.",
+    "en": "Water covers almost three-fourths of the Earth's surface."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T10-0081",
+   "section": {
+    "te": "Innocent Passage Restrictions",
+    "en": "Innocent Passage Restrictions"
+   },
+   "q": {
+    "te": "నిరపరాధ ప్రయాణం (Innocent Passage) హక్కు కింద ఈ క్రింది ఏ కార్యకలాపాలు అనుమతించబడవు?",
+    "en": "Which of the following activities are NOT permitted under the right of Innocent Passage?"
+   },
+   "options": {
+    "te": [
+     "చేపల వేట",
+     "సైనిక కార్యకలాపాలు",
+     "శాంతియుతం కాని చర్యలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Fishing",
+     "Military operations",
+     "Non-peaceful actions",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నిరపరాధ ప్రయాణ హక్కు కేవలం ప్రయాణానికి మాత్రమే ఉద్దేశించబడింది మరియు చేపల వేట, సైనిక కార్యకలాపాలు లేదా శాంతియుతం కాని ఏ చర్యలనైనా నిషేధిస్తుంది.",
+    "en": "The right of innocent passage is strictly for transit and prohibits fishing, military activities, or any action that is not peaceful."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T10-0111",
+   "section": {
+    "te": "Hydrological Evaporation",
+    "en": "Hydrological Evaporation"
+   },
+   "q": {
+    "te": "భూమిపై కురిసే నీటిలో దాదాపు ఎంత శాతం మహాసముద్రాలు మరియు ఇతర ప్రదేశాల నుండి బాష్పీభవనం చెంది తిరిగి వాతావరణంలోకి చేరుతుంది?",
+    "en": "What percentage of the water that falls on land returns to the atmosphere through evaporation from oceans and other surfaces?"
+   },
+   "options": {
+    "te": [
+     "దాదాపు 59 శాతం",
+     "దాదాపు 50 శాతం",
+     "దాదాపు 41 శాతం",
+     "దాదాపు 71 శాతం"
+    ],
+    "en": [
+     "Nearly 59 per cent",
+     "Nearly 50 per cent",
+     "Nearly 41 per cent",
+     "Nearly 71 per cent"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూమిపై కురిసే నీటిలో దాదాపు 59 శాతం బాష్పీభవనం ద్వారా తిరిగి వాతావరణంలోకి చేరుతుంది.",
+    "en": "According to the hydrological cycle, nearly 59 per cent of the water that falls on land returns to the atmosphere through evaporation."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T10-0162",
+   "section": {
+    "te": "Ocean Movements",
+    "en": "Ocean Movements"
+   },
+   "q": {
+    "te": "సముద్రపు నీటి కదలికకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. సముద్ర ప్రవాహాలు మరియు తరంగాలు క్షితిజ సమాంతర (horizontal) కదలికను సూచిస్తాయి.\n2. పోటుపాట్లు (Tides) నిలువు (vertical) కదలికను సూచిస్తాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the motion of ocean water:\n1. Ocean currents and waves represent horizontal motion.\n2. Tides represent vertical motion.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "క్షితిజ సమాంతర కదలిక సముద్ర ప్రవాహాలు మరియు తరంగాలను సూచిస్తుందని, నిలువు కదలిక పోటుపాట్లను (నీటి పెరుగుదల మరియు తగ్గుదల) సూచిస్తుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Horizontal motion refers to ocean currents and waves, while vertical motion refers to tides (the rise and fall of water)."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T10-0175",
+   "section": {
+    "te": "Tide Forces",
+    "en": "Tide Forces"
+   },
+   "q": {
+    "te": "'పోటును కలిగించే' (tide-generating) బలం అనేది ప్రధానంగా ఏ రెండు బలాల మధ్య వ్యత్యాసం?",
+    "en": "The 'tide-generating' force is essentially the difference between which two forces?"
+   },
+   "options": {
+    "te": [
+     "చంద్రుని గురుత్వాకర్షణ ఆకర్షణ మరియు కేంద్రత్యాగ బలం",
+     "వాతావరణ పీడనం మరియు గాలి వేగం",
+     "సౌర గురుత్వాకర్షణ మరియు చంద్ర గురుత్వాకర్షణ",
+     "సముద్ర ప్రవాహ వేగం మరియు తరంగ పౌనఃపున్యం"
+    ],
+    "en": [
+     "Gravitational attraction of the moon and Centrifugal force",
+     "Atmospheric pressure and Wind speed",
+     "Solar gravity and Lunar gravity",
+     "Ocean current speed and Wave frequency"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పోటును కలిగించే బలం అనేది చంద్రుని గురుత్వాకర్షణ శక్తి మరియు భూమిపై పనిచేసే కేంద్రత్యాగ బలం మధ్య వ్యత్యాసంగా నిర్వచించబడింది.",
+    "en": "The tide-generating force is defined as the difference between the moon's gravitational pull and the centrifugal force acting on the Earth."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T10-0171",
+   "section": {
+    "te": "Tidal Bulges",
+    "en": "Tidal Bulges"
+   },
+   "q": {
+    "te": "పోటు ఉబ్బెత్తులకు (tidal bulges) సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. వెడల్పైన ఖండతీర అంచుల (continental shelves) వద్ద పోటు ఉబ్బెత్తులు ఎక్కువ ఎత్తును కలిగి ఉంటాయి.\n2. మధ్య-సముద్ర దీవులను తాకినప్పుడు పోటు ఉబ్బెత్తులు మరింత ఎత్తుగా మారుతాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding tidal bulges:\n1. Tidal bulges have greater height on wide continental shelves.\n2. Tidal bulges become higher when they hit mid-oceanic islands.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మూలం ప్రకారం, వెడల్పైన ఖండతీర అంచుల వద్ద పోటు ఉబ్బెత్తులు ఎక్కువగా ఉంటాయి, కానీ మధ్య-సముద్ర దీవులను తాకినప్పుడు అవి తక్కువగా (low) మారుతాయి.",
+    "en": "Tidal bulges are higher on wide continental shelves but become low when they hit mid-oceanic islands."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T10-0203",
+   "section": {
+    "te": "Tropical west coasts",
+    "en": "Tropical west coasts"
+   },
+   "q": {
+    "te": "శీతల జలాల సరిహద్దు కలిగిన ఉష్ణమండల మరియు ఉపఉష్ణమండల అక్షాంశాల వద్ద ఖండాల పశ్చిమ తీరాల శీతోష్ణస్థితిపై కింది ప్రకటనలను పరిశీలించండి:\n1. వాటి సగటు ఉష్ణోగ్రతలు సాపేక్షంగా తక్కువగా ఉండి, స్వల్ప దైనిక మరియు వార్షిక ఉష్ణోగ్రత పరిధులను కలిగి ఉంటాయి.\n2. అక్కడ పొగమంచు ఉంటుంది, కానీ ఆ ప్రాంతాలు సాధారణంగా శుష్కంగా (arid) ఉంటాయి.\n\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the climate of continental west coasts in tropical and subtropical latitudes bordered by cool waters:\n1. Their average temperatures are relatively low with narrow diurnal and annual ranges.\n2. Fog is present, but the regions are generally arid.\n\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 లేదా 2 కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఈ ప్రాంతాలు చల్లటి నీటి ప్రవాహాల వలన తక్కువ సగటు ఉష్ణోగ్రతలు, స్వల్ప ఉష్ణోగ్రత పరిధులు, పొగమంచు మరియు శుష్క (ఎడారి) పరిస్థితులను కలిగి ఉంటాయి.",
+    "en": "The cool waters bordering tropical and subtropical west coasts result in relatively low average temperatures, narrow diurnal and annual ranges, fog, and arid conditions."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T10-0037",
+   "section": {
+    "te": "Great Barrier Reef dimensions",
+    "en": "Great Barrier Reef dimensions"
+   },
+   "q": {
+    "te": "గ్రేట్ బారియర్ రీఫ్ (Great Barrier Reef) సుమారుగా ఎంత పొడవు మరియు వైశాల్యాన్ని కలిగి ఉంది?",
+    "en": "What is the approximate length and area covered by the Great Barrier Reef?"
+   },
+   "options": {
+    "te": [
+     "1000 కి.మీ మరియు 200,000 చదరపు కిలోమీటర్లు",
+     "1500 కి.మీ మరియు 250,000 చదరపు కిలోమీటర్లు",
+     "3000 కి.మీ మరియు 500,000 చదరపు కిలోమీటర్లు",
+     "2000 కి.మీ మరియు 350,000 చదరపు కిలోమీటర్లు"
+    ],
+    "en": [
+     "1000 km and 200,000 square kilometres",
+     "1500 km and 250,000 square kilometres",
+     "3000 km and 500,000 square kilometres",
+     "2000 km and 350,000 square kilometres"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, గ్రేట్ బారియర్ రీఫ్ 2,000 కి.మీ పొడవునా విస్తరించి ఉంది మరియు సుమారు 350,000 చదరపు కిలోమీటర్ల వైశాల్యాన్ని కలిగి ఉంది.",
+    "en": "The Great Barrier Reef stretches over 2,000 km and covers approximately 350,000 square kilometres."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T10-0124",
+   "section": {
+    "te": "Water Cycle Processes",
+    "en": "Water Cycle Processes"
+   },
+   "q": {
+    "te": "జలచక్ర ప్రక్రియలలో, ఊటలు (స్ప్రింగ్స్) మరియు భూగర్భజల విడుదల ఏ నీటి నిల్వ విభాగానికి సంబంధించినవి?",
+    "en": "In the hydrological cycle, springs and groundwater discharge are associated with which component of water storage?"
+   },
+   "options": {
+    "te": [
+     "మంచు మరియు హిమాలలో నీటి నిల్వ",
+     "సముద్రాలలో నీటి నిల్వ",
+     "సరస్సులలోని మంచినీటి నిల్వ",
+     "భూగర్భజల నిల్వ (Groundwater storage)"
+    ],
+    "en": [
+     "Water storage in ice and snow",
+     "Water storage in oceans",
+     "Freshwater storage in lakes",
+     "Groundwater storage"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జలచక్ర విభాగాల ప్రకారం, ఊటలు మరియు భూగర్భజల ఉత్సర్గ భూగర్భజల నిల్వ ప్రక్రియకు సంబంధించినవి.",
+    "en": "Groundwater discharge and springs are the processes associated with groundwater storage in the water cycle."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T10-0042",
+   "section": {
+    "te": "Erosion Processes",
+    "en": "Erosion Processes"
+   },
+   "q": {
+    "te": "కదిలే నీటి శక్తి వల్ల కలిగే శిలలు మరియు నేల క్రమక్షయ ప్రక్రియను ఏమని పిలుస్తారు?",
+    "en": "What is the process of rock and soil erosion caused specifically by the force of moving water called?"
+   },
+   "options": {
+    "te": [
+     "అవక్షేప రవాణా (Sediment transport)",
+     "హైడ్రాలిక్ చర్య (Hydraulic action)",
+     "నిక్షేపణ (Deposition)",
+     "పోటు బలప్రయోగం (Tidal forcing)"
+    ],
+    "en": [
+     "Sediment transport",
+     "Hydraulic action",
+     "Deposition",
+     "Tidal forcing"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "హైడ్రాలిక్ చర్య అంటే కదిలే నీటి శక్తి వల్ల శిలలు మరియు నేల పదార్థాలు వదులై, తొలగించబడే క్రమక్షయ ప్రక్రియ.",
+    "en": "Hydraulic action refers to the erosion caused by the physical force of moving water as it loosens and removes rock and soil material."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T10-0091",
+   "section": {
+    "te": "Blue Planet",
+    "en": "Blue Planet"
+   },
+   "q": {
+    "te": "భూమిని 'నీలి గ్రహం' (Blue Planet) అని ఎందుకు పిలుస్తారు?",
+    "en": "Why is the Earth referred to as the 'Blue Planet'?"
+   },
+   "options": {
+    "te": [
+     "ఇది సౌర కుటుంబంలో అతిపెద్ద గ్రహం కాబట్టి",
+     "దీని ఉపరితలంపై సమృద్ధిగా నీరు ఉంది కాబట్టి",
+     "దీని వాతావరణంలో నైట్రోజన్ ఉండటం వల్ల",
+     "అగ్నిపర్వత కార్యకలాపాలు ఉన్న ఏకైక గ్రహం కాబట్టి"
+    ],
+    "en": [
+     "Because it is the largest planet in the solar system",
+     "Because it has an abundant supply of water on its surface",
+     "Due to the presence of nitrogen in its atmosphere",
+     "Because it is the only planet with volcanic activity"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భూమి ఉపరితలంపై సమృద్ధిగా నీరు ఉండటం వల్ల దీనిని 'నీలి గ్రహం' అని పిలుస్తారు, ఇది సౌర కుటుంబంలో చాలా అరుదు.",
+    "en": "Earth is called the 'Blue Planet' because it has an abundant supply of water on its surface, which is rare in the solar system."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T10-0125",
+   "section": {
+    "te": "Emperor Seamount",
+    "en": "Emperor Seamount"
+   },
+   "q": {
+    "te": "పసిఫిక్ మహాసముద్రంలో ఉన్న 'ఎంపరర్ సీమౌంట్' (Emperor seamount) క్రింది ఏ ద్వీప సమూహాల విస్తరణ?",
+    "en": "The Emperor seamount, located in the Pacific Ocean, is an undersea extension of which of the following island groups?"
+   },
+   "options": {
+    "te": [
+     "హవాయి ద్వీపాలు",
+     "గాలాపాగోస్ ద్వీపాలు",
+     "మరియానా ద్వీపాలు",
+     "అల్యూషియన్ ద్వీపాలు"
+    ],
+    "en": [
+     "Hawaiian Islands",
+     "Galapagos Islands",
+     "Mariana Islands",
+     "Aleutian Islands"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పసిఫిక్ మహాసముద్రంలోని ఎంపరర్ సీమౌంట్ అనేది హవాయి ద్వీపాల కొనసాగింపుగా ఉన్న ఒక సముద్ర పర్వతం (సీమౌంట్).",
+    "en": "The Emperor seamount in the Pacific Ocean is a prominent example of a seamount and is an extension of the Hawaiian Islands."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T10-0019",
+   "section": {
+    "te": "Ocean Oxygen Production",
+    "en": "Ocean Oxygen Production"
+   },
+   "q": {
+    "te": "మహాసముద్రాలను 'గ్రహం యొక్క ఊపిరితిత్తులు' అని ఎందుకు పిలుస్తారు?",
+    "en": "Why are the oceans referred to as 'the planet's lungs'?"
+   },
+   "options": {
+    "te": [
+     "ప్రపంచంలోని సగానికి పైగా ఆక్సిజన్ సముద్ర వృక్షజాలం (flora) ద్వారా ఉత్పత్తి అవుతుంది",
+     "అవి ప్రవాహాల ద్వారా ప్రపంచ ఉష్ణోగ్రతను నియంత్రిస్తాయి",
+     "అవి వాతావరణం నుండి కార్బన్ డయాక్సైడ్ మొత్తాన్ని గ్రహిస్తాయి",
+     "అవి నీటి చక్రం ద్వారా మంచి నీటిని అందిస్తాయి"
+    ],
+    "en": [
+     "More than half of the world's oxygen is produced by marine flora",
+     "They regulate the global temperature through currents",
+     "They absorb all the carbon dioxide from the atmosphere",
+     "They provide freshwater through the water cycle"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, సముద్ర వృక్షజాలం ప్రపంచంలోని సగానికి పైగా ఆక్సిజన్‌ను ఉత్పత్తి చేస్తుంది కాబట్టి మహాసముద్రాలను గ్రహం యొక్క ఊపిరితిత్తులు అని పిలుస్తారు.",
+    "en": "Oceans are called the planet's lungs because their flora produces more than half of the world's oxygen."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T10-0118",
+   "section": {
+    "te": "Deep Sea Plain Sediments",
+    "en": "Deep Sea Plain Sediments"
+   },
+   "q": {
+    "te": "3,000 నుండి 6,000 మీటర్ల లోతులో ఉండే అగాధ సముద్ర మైదానాలు ప్రధానంగా ఏ విధమైన అవక్షేపాలతో కప్పబడి ఉంటాయి?",
+    "en": "Deep sea plains, lying at depths between 3,000 and 6,000 meters, are primarily covered with which type of sediments?"
+   },
+   "options": {
+    "te": [
+     "పగడపు శకలాలు మరియు ముతక ఇసుక",
+     "పెద్ద రాతి బండలు",
+     "బంకమట్టి మరియు ఒండ్రు వంటి సూక్ష్మ కణాల అవక్షేపాలు",
+     "ముతక గులకరాళ్ళు మరియు కంకర"
+    ],
+    "en": [
+     "Coral rubble and coarse sand",
+     "Boulders and cobbles",
+     "Fine-grained sediments like clay and silt",
+     "Coarse pebbles and gravel"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అగాధ సముద్ర మైదానాలు బంకమట్టి (క్లే) మరియు ఒండ్రు (సిల్ట్) వంటి సూక్ష్మ కణాలతో కూడిన అవక్షేపాలతో కప్పబడి ఉంటాయి.",
+    "en": "Deep sea plains are covered with fine-grained sediments like clay and silt."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T10-0152",
+   "section": {
+    "te": "Red Sea salinity",
+    "en": "Red Sea salinity"
+   },
+   "q": {
+    "te": "భూపరివేష్టిత ఎర్ర సముద్రంలో (Red Sea) నమోదైన లవణీయత ఎంతవరకు ఉంటుంది?",
+    "en": "What is the salinity recorded in the landlocked Red Sea?"
+   },
+   "options": {
+    "te": [
+     "35 o/oo",
+     "37 o/oo",
+     "24.7 o/oo",
+     "41 o/oo"
+    ],
+    "en": [
+     "35 o/oo",
+     "37 o/oo",
+     "24.7 o/oo",
+     "41 o/oo"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూపరివేష్టిత ఎర్ర సముద్రంలో లవణీయత 41 o/oo వరకు అధికంగా ఉంటుంది.",
+    "en": "In the landlocked Red Sea, the salinity reaches as high as 41 o/oo."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T10-0121",
+   "section": {
+    "te": "Hydrological Cycle Phases",
+    "en": "Hydrological Cycle Phases"
+   },
+   "q": {
+    "te": "భూమి యొక్క జలావరణంలో (హైడ్రోస్పియర్) జలచక్రం అనేది నీటిని క్రింది ఏ రూపాలలో ప్రసరణ చేస్తుంది?",
+    "en": "Within the Earth's hydrosphere, the hydrological cycle involves the circulation of water in which of the following phases?"
+   },
+   "options": {
+    "te": [
+     "ద్రవ రూపంలో మాత్రమే",
+     "ద్రవ మరియు వాయు రూపాలలో మాత్రమే",
+     "ఘన మరియు ద్రవ రూపాలలో మాత్రమే",
+     "ద్రవ, ఘన మరియు వాయు రూపాలలో"
+    ],
+    "en": [
+     "Liquid phase only",
+     "Liquid and gaseous phases only",
+     "Solid and liquid phases only",
+     "Liquid, solid and gaseous phases"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జలచక్రం అనేది భూమి జలావరణంలో నీరు ఘన, ద్రవ మరియు వాయు రూపాలలో నిరంతరం ప్రసరణ చెందడాన్ని సూచిస్తుంది.",
+    "en": "The hydrological cycle is the circulation of water within the hydrosphere in liquid, solid, and gaseous phases."
+   }
+  }
+ ]
+}

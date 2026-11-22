@@ -1,0 +1,942 @@
+{
+ "id": "geo-26-c-1",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Industries – క్విజ్ 1",
+  "en": "Industries – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T26-0003",
+   "section": {
+    "te": "Ancient Botanical Science",
+    "en": "Ancient Botanical Science"
+   },
+   "q": {
+    "te": "వృక్షాయుర్వేదానికి సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది మొక్కలు మరియు చెట్లపై దృష్టి సారించే పురాతన భారతీయ వృక్షశాస్త్రం.\n2. ఇది క్రీ.శ. 10వ శతాబ్దంలో సురపాలుని వృక్షాయుర్వేదం వంటి గ్రంథాలలో క్రమబద్ధీకరించబడింది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding Vṛikṣhāyurveda:\n1. It is an ancient Indian botanical science focusing on plants and trees.\n2. It was formalised in texts such as Surapala’s Vṛikṣhāyurveda around the 10th century CE.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వృక్షాయుర్వేదం అనేది ఒక పురాతన వృక్షశాస్త్రం, ఇది క్రీ.శ. 10వ శతాబ్దంలో సురపాలునిచే గ్రంథస్థం చేయబడింది.",
+    "en": "Vṛikṣhāyurveda is an ancient botanical science formalised by Surapala around the 10th century CE."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T26-0089",
+   "section": {
+    "te": "Secondary Activities",
+    "en": "Secondary Activities"
+   },
+   "q": {
+    "te": "సాధారణంగా కర్మాగారాల్లో (factories) నిర్వహించబడని ద్వితీయ శ్రేణి కార్యకలాపాలకు (secondary activities) కింది వాటిలో ఏవి ఉదాహరణలు?",
+    "en": "Which of the following are examples of secondary activities that are NOT typically carried on in factories?"
+   },
+   "options": {
+    "te": [
+     "వినోద పరిశ్రమ (Entertainment industry)",
+     "పర్యాటక పరిశ్రమ (Tourism industry)",
+     "A మరియు B రెండూ",
+     "ఉక్కు పరిశ్రమ"
+    ],
+    "en": [
+     "Entertainment industry",
+     "Tourism industry",
+     "Both A and B",
+     "Steel industry"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పరిశ్రమ అనే పదం తరచుగా కర్మాగారాలను సూచించినప్పటికీ, వినోదం మరియు పర్యాటకం వంటివి కర్మాగారాల్లో నిర్వహించబడని ద్వితీయ శ్రేణి కార్యకలాపాలని మూలం స్పష్టం చేస్తోంది.",
+    "en": "The source clarifies that while the term industry often implies factories, activities like entertainment and tourism are secondary activities not conducted in factories."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T26-0007",
+   "section": {
+    "te": "Bengaluru IT Hub",
+    "en": "Bengaluru IT Hub"
+   },
+   "q": {
+    "te": "బెంగళూరు 'భారతదేశ సిలికాన్ వ్యాలీ'గా మారడానికి ఏ అంశాలు దోహదపడ్డాయి?",
+    "en": "Which factors contributed to Bengaluru becoming the 'Silicon Valley of India'?"
+   },
+   "options": {
+    "te": [
+     "సాఫ్ట్‌వేర్ సంస్థల కేంద్రీకరణ",
+     "ఉన్నత విద్యా సంస్థల ఉనికి",
+     "కొత్త స్టార్టప్‌లు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Concentration of software firms",
+     "Presence of higher education institutions",
+     "New start-ups",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సాఫ్ట్‌వేర్ సంస్థలు, స్టార్టప్‌లు మరియు విద్యా సంస్థల కేంద్రీకరణ కారణంగా బెంగళూరు ఐటి హబ్‌గా మారింది.",
+    "en": "Bengaluru's status as an IT hub is due to software firms, start-ups, and educational institutions."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T26-0002",
+   "section": {
+    "te": "Sustainable Construction Materials",
+    "en": "Sustainable Construction Materials"
+   },
+   "q": {
+    "te": "సిమెంట్ వల్ల కలిగే కాలుష్యాన్ని తగ్గించడానికి ఈ క్రింది వాటిలో వేటిని ప్రత్యామ్నాయ పదార్థాలుగా పరిగణిస్తున్నారు?",
+    "en": "Which of the following are being considered as alternative materials to reduce pollution caused by cement?"
+   },
+   "options": {
+    "te": [
+     "రాయి మరియు మట్టి",
+     "వ్యర్థ ప్లాస్టిక్ నుండి రీసైకిల్ చేసిన పదార్థాలు",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Stone and mud",
+     "Recycled materials from waste plastic",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సిమెంట్ కాలుష్యాన్ని తగ్గించడానికి రాయి, మట్టి, మొక్కల ఆధారిత పదార్థాలు మరియు రీసైకిల్ చేసిన ప్లాస్టిక్ వంటి ప్రత్యామ్నాయాలను వాడుతున్నారు.",
+    "en": "Stone, mud, plant-based materials, and recycled plastic as alternatives to reduce cement-related pollution."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T26-0114",
+   "section": {
+    "te": "Classification by Size",
+    "en": "Classification by Size"
+   },
+   "q": {
+    "te": "పరిమాణం ఆధారంగా పరిశ్రమలను క్రింది ఏ వర్గాలుగా విభజించారు?",
+    "en": "On the basis of size, industries are classified into which of the following categories?"
+   },
+   "options": {
+    "te": [
+     "ప్రాథమిక పరిశ్రమలు మరియు వినియోగ వస్తువుల పరిశ్రమలు",
+     "గృహ లేదా కుటీర, చిన్న తరహా మరియు భారీ తరహా పరిశ్రమలు",
+     "వ్యవసాయ ఆధారిత, ఖనిజ ఆధారిత మరియు రసాయన ఆధారిత పరిశ్రమలు",
+     "ప్రభుత్వ రంగ, ప్రైవేట్ రంగ మరియు ఉమ్మడి రంగ పరిశ్రమలు"
+    ],
+    "en": [
+     "Basic industries and consumer goods industries",
+     "Household or cottage, small-scale and large-scale",
+     "Agro-based, mineral-based and chemical-based",
+     "Public sector, private sector and joint sector"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పరిమాణం ప్రాతిపదికన పరిశ్రమలను కుటీర/గృహ పరిశ్రమలు, చిన్న తరహా పరిశ్రమలు మరియు భారీ తరహా పరిశ్రమలుగా వర్గీకరిస్తారు.",
+    "en": "Based on size, industries are classified into household or cottage, small-scale, and large-scale."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T26-0011",
+   "section": {
+    "te": "Sustainable Architecture",
+    "en": "Sustainable Architecture"
+   },
+   "q": {
+    "te": "మట్టి వాస్తుశిల్పం (Earthen Architecture) కోసం యునెస్కో (UNESCO) చైర్‌ను కలిగి ఉన్న మరియు ఆరోవిల్‌లో ఆధునిక మట్టి భవనాన్ని నిర్మించిన సంస్థ ఏది?",
+    "en": "Which institute holds the UNESCO Chair for Earthen Architecture and constructed a modern mud building in Auroville?"
+   },
+   "options": {
+    "te": [
+     "సెంట్రల్ పొల్యూషన్ కంట్రోల్ బోర్డ్",
+     "ఆరోవిల్ ఎర్త్ ఇన్స్టిట్యూట్",
+     "బాంబే స్టాక్ ఎక్స్ఛేంజ్",
+     "ఇండియన్ బొటానికల్ ఇన్స్టిట్యూట్"
+    ],
+    "en": [
+     "Central Pollution Control Board",
+     "Auroville Earth Institute",
+     "Bombay Stock Exchange",
+     "Indian Botanical Institute"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఆరోవిల్ ఎర్త్ ఇన్స్టిట్యూట్ మట్టి వాస్తుశిల్పం కోసం యునెస్కో చైర్‌ను కలిగి ఉంది మరియు మట్టిని ఉపయోగించి ఆధునిక భవనాలను నిర్మిస్తుంది.",
+    "en": "The Auroville Earth Institute holds the UNESCO Chair for Earthen Architecture and uses mud for modern sustainable buildings."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T26-0053",
+   "section": {
+    "te": "Partition Impact on Jute",
+    "en": "Partition Impact on Jute"
+   },
+   "q": {
+    "te": "1947 లో దేశ విభజన తర్వాత, జనపనారను ఉత్పత్తి చేసే విస్తీర్ణంలో ఎంత భాగం బంగ్లాదేశ్ (నాటి తూర్పు పాకిస్తాన్) కు వెళ్లిపోయింది?",
+    "en": "Following the Partition in 1947, what fraction of the jute producing area went to Bangladesh (erstwhile East Pakistan)?"
+   },
+   "options": {
+    "te": [
+     "రెండు వంతులు (2/3)",
+     "నాల్గవ వంతు (1/4)",
+     "సగం (1/2)",
+     "మూడు వంతులు (3/4)"
+    ],
+    "en": [
+     "Two-third",
+     "One-fourth",
+     "One-half",
+     "Three-fourth"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "1947 విభజన తర్వాత మిల్లులు భారతదేశంలోనే ఉన్నప్పటికీ, జనపనార పండించే ప్రాంతంలో మూడు వంతుల భాగం బంగ్లాదేశ్‌కు వెళ్లిపోయింది.",
+    "en": "After Partition in 1947, while the mills remained in India, three-fourth of the jute producing area went to Bangladesh."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T26-0124",
+   "section": {
+    "te": "Food processing history",
+    "en": "Food processing history"
+   },
+   "q": {
+    "te": "ఆహార ప్రాసెసింగ్ పద్ధతులకు సంబంధించి క్రింది ప్రకటనలను పరిగణించండి:\n1. ఎండబెట్టడం, పులియబెట్టడం మరియు ఊరగాయలు పెట్టడం వంటి పద్ధతులు ప్రాచీన కాలం నుండే తెలిసినవి.\n2. ప్రాచీన కాలంలో ఈ నిల్వ పద్ధతులు ఆధునిక పారిశ్రామిక స్థాయి అవసరాలను తీర్చే విస్తృత వాణిజ్య అనువర్తనాలను కలిగి ఉండేవి.\nపై ప్రకటనలలో ఏది/ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding food processing techniques:\n1. Drying, fermenting, and pickling have been known since ancient times.\n2. In ancient times, preserving techniques had widespread commercial applications catering to modern industrial demands.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఎండబెట్టడం, పులియబెట్టడం, ఊరగాయలు ప్రాచీన కాలం నుంచీ తెలిసినప్పటికీ, పారిశ్రామిక విప్లవానికి పూర్వపు అవసరాలకు మాత్రమే అవి పరిమిత ప్రయోజనాన్ని కలిగి ఉండేవి.",
+    "en": "Statement 1 is correct. Statement 2 is incorrect because the source states that ancient preserving techniques had limited applications to cater to pre-Industrial Revolution demands."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T26-0025",
+   "section": {
+    "te": "Ramban Sulai Honey origin",
+    "en": "Ramban Sulai Honey origin"
+   },
+   "q": {
+    "te": "యాంటీఆక్సిడెంట్ మరియు రోగనిరోధక శక్తిని పెంచే గుణాలకు ప్రసిద్ధి చెందిన రాంబన్ సులై తేనె (Ramban Sulai Honey) ఏ రాష్ట్రం లేదా కేంద్రపాలిత ప్రాంతానికి చెందినది?",
+    "en": "Ramban Sulai Honey, known for its high antioxidant and immuno-modulatory potential, belongs to which State or Union Territory?"
+   },
+   "options": {
+    "te": [
+     "జమ్మూ & కాశ్మీర్",
+     "హిమాచల్ ప్రదేశ్",
+     "ఉత్తరాఖండ్",
+     "లడఖ్"
+    ],
+    "en": [
+     "Jammu and Kashmir",
+     "Himachal Pradesh",
+     "Uttarakhand",
+     "Ladakh"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "రాంబన్ సులై తేనె జమ్మూ & కాశ్మీర్ కేంద్రపాలిత ప్రాంతానికి చెందిన అటవీ ఉత్పత్తి.",
+    "en": "Ramban Sulai Honey is a GI-tagged product from Jammu and Kashmir with strong antioxidant and immuno-modulatory potential."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T26-0119",
+   "section": {
+    "te": "Mineral based industries",
+    "en": "Mineral based industries"
+   },
+   "q": {
+    "te": "క్రింది ఖనిజ ఆధారిత పరిశ్రమల రకాలను వాటి ఉదాహరణలతో జతపరచండి:\nజాబితా-I (రకం)\nA. ఫెర్రస్ లోహ పరిశ్రమలు\nB. నాన్-ఫెర్రస్ లోహ పరిశ్రమలు\nC. అలోహ (Non-metallic) పరిశ్రమలు\nజాబితా-II (ఉదాహరణ)\n1. సిమెంట్ మరియు కుండల తయారీ\n2. రాగి మరియు నగల తయారీ\n3. ఇనుము మరియు ఉక్కు\nసరైన కోడ్‌ను ఎంచుకోండి:",
+    "en": "Match the following types of mineral-based industries with their examples:\nList-I (Type)\nA. Ferrous metallic\nB. Non-ferrous metallic\nC. Non-metallic\nList-II (Industry)\n1. Cement and pottery\n2. Copper and jewellery\n3. Iron and steel\nSelect the correct answer using the code below:"
+   },
+   "options": {
+    "te": [
+     "A-3, B-2, C-1",
+     "A-3, B-1, C-2",
+     "A-2, B-3, C-1",
+     "A-1, B-2, C-3"
+    ],
+    "en": [
+     "A-3, B-2, C-1",
+     "A-3, B-1, C-2",
+     "A-2, B-3, C-1",
+     "A-1, B-2, C-3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఫెర్రస్ లోహ పరిశ్రమలకు ఇనుము-ఉక్కు, నాన్-ఫెర్రస్ లోహాలకు రాగి-నగల తయారీ, అలోహ ఖనిజ పరిశ్రమలకు సిమెంట్-కుండల తయారీ ఉదాహరణలు.",
+    "en": "Ferrous metallic includes iron and steel; non-ferrous includes aluminium, copper, and jewellery; non-metallic includes cement and pottery."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T26-0117",
+   "section": {
+    "te": "Agri-business features",
+    "en": "Agri-business features"
+   },
+   "q": {
+    "te": "'అగ్రి-బిజినెస్ వ్యవసాయ క్షేత్రాల' (Agri-business farms) కు సంబంధించి క్రింది ప్రకటనలను పరిగణించండి:\n1. ఇవి యాంత్రీకరించబడినవి మరియు పరిమాణంలో పెద్దవి.\n2. ఇవి అత్యంత నిర్మాణాత్మకమైనవి మరియు రసాయనాలపై ఆధారపడతాయి.\n3. వీటిని 'ఆగ్రో-ఫ్యాక్టరీలు' (agro-factories) అని కూడా వర్ణించవచ్చు.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding 'Agri-business farms':\n1. They are mechanised and large in size.\n2. They are highly structured and reliant on chemicals.\n3. They may be described as 'agro-factories'.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అగ్రి-బిజినెస్ ఫారమ్‌లు పెద్ద పరిమాణంలో ఉండి, యాంత్రీకరణ, నిర్మాణాత్మక విధానం, రసాయనాల వినియోగం కలిగి ఉంటాయి; వీటిని ఆగ్రో-ఫ్యాక్టరీలు అని కూడా పిలుస్తారు.",
+    "en": "Agri-business farms are mechanised, large in size, highly structured, reliant on chemicals, and may be described as 'agro-factories'."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T26-0008",
+   "section": {
+    "te": "Industrial Specialization of Cities",
+    "en": "Industrial Specialization of Cities"
+   },
+   "q": {
+    "te": "క్రింది నగరాలను వాటి ప్రసిద్ధ పరిశ్రమలతో జతపరచండి:\n1. మొరాదాబాద్ - i. పట్టు చీరలు\n2. లూథియానా - ii. చెక్క బొమ్మలు\n3. చన్నపట్న - iii. వస్త్ర ఉత్పత్తి\n4. కాంచీపురం - iv. ఇత్తడి పని (Brass work)",
+    "en": "Match the following cities with their famous industries:\n1. Moradabad - i. Silk sarees\n2. Ludhiana - ii. Wooden toys\n3. Channapatna - iii. Textile production\n4. Kanchipuram - iv. Brass work"
+   },
+   "options": {
+    "te": [
+     "1-iv, 2-iii, 3-ii, 4-i",
+     "1-iv, 2-ii, 3-iii, 4-i",
+     "1-i, 2-iii, 3-ii, 4-iv",
+     "1-iii, 2-iv, 3-ii, 4-i"
+    ],
+    "en": [
+     "1-iv, 2-iii, 3-ii, 4-i",
+     "1-iv, 2-ii, 3-iii, 4-i",
+     "1-i, 2-iii, 3-ii, 4-iv",
+     "1-iii, 2-iv, 3-ii, 4-i"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మొరాదాబాద్ ఇత్తడి పనికి, లూథియానా వస్త్రాలకు, చన్నపట్న చెక్క బొమ్మలకు మరియు కాంచీపురం పట్టు చీరలకు ప్రసిద్ధి.",
+    "en": "Moradabad is known for brass, Ludhiana for textiles, Channapatna for wooden toys, and Kanchipuram for silk sarees."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T26-0063",
+   "section": {
+    "te": "Aluminium smelting ranking",
+    "en": "Aluminium smelting ranking"
+   },
+   "q": {
+    "te": "భారతదేశంలో రెండవ అత్యంత ముఖ్యమైన లోహ సంగ్రహణ (metallurgical) పరిశ్రమ ఏది?",
+    "en": "Which of the following is the second most important metallurgical industry in India?"
+   },
+   "options": {
+    "te": [
+     "జింక్ స్మెల్టింగ్",
+     "రాగి స్మెల్టింగ్",
+     "సీసం (లెడ్) స్మెల్టింగ్",
+     "అల్యూమినియం స్మెల్టింగ్"
+    ],
+    "en": [
+     "Zinc smelting",
+     "Copper smelting",
+     "Lead smelting",
+     "Aluminium smelting"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశంలో ఇనుము-ఉక్కు పరిశ్రమ తర్వాత అల్యూమినియం స్మెల్టింగ్ రెండవ అత్యంత ముఖ్యమైన లోహ సంగ్రహణ పరిశ్రమగా ఉంది.",
+    "en": "Aluminium smelting is the second most important metallurgical industry in India after iron and steel."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T26-0020",
+   "section": {
+    "te": "Channapatna toys wood",
+    "en": "Channapatna toys wood"
+   },
+   "q": {
+    "te": "కర్ణాటకకు చెందిన GI-ట్యాగ్ పొందిన అటవీ ఆధారిత హస్తకళ అయిన చెన్నపట్న బొమ్మలను సాంప్రదాయకంగా క్రింది ఏ చెట్టు కలపతో తయారు చేస్తారు?",
+    "en": "Channapatna toys, a GI-tagged forest-based craft from Karnataka, are traditionally made from the wood of which of the following trees?"
+   },
+   "options": {
+    "te": [
+     "రైటియా టింక్టోరియా (Wrightia tinctoria)",
+     "టెక్టోనా గ్రాండిస్ (Tectona grandis)",
+     "షోరియా రోబస్టా (Shorea robusta)",
+     "శాంటాలమ్ ఆల్బమ్ (Santalum album)"
+    ],
+    "en": [
+     "Wrightia tinctoria",
+     "Tectona grandis",
+     "Shorea robusta",
+     "Santalum album"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "చెన్నపట్న బొమ్మలను స్థానికంగా 'ఆలే మర' అని పిలిచే 'రైటియా టింక్టోరియా' అనే అటవీ వృక్షం కలపతో తయారు చేస్తారు.",
+    "en": "Channapatna toys are made from Wrightia tinctoria, a forest tree locally known in Karnataka as 'Aale mara'."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T26-0042",
+   "section": {
+    "te": "Spinning and weaving characteristics",
+    "en": "Spinning and weaving characteristics"
+   },
+   "q": {
+    "te": "భారతదేశంలోని పత్తి వస్త్ర రంగానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. భారతదేశంలోని అన్ని రాష్ట్రాలలో నూలు వడకడం (స్పిన్నింగ్) అధికంగా వికేంద్రీకరించబడింది.\n2. సాంప్రదాయ నైపుణ్యాలు మరియు డిజైన్లను పొందుపరచడానికి వీలుగా నేతపని (వీవింగ్) ఎక్కువగా వికేంద్రీకరించబడింది.\n3. స్పిన్నింగ్‌లో భారతదేశం ప్రపంచ స్థాయి ఉత్పత్తిని కలిగి ఉంది, కానీ దేశీయ నేత నాణ్యత తక్కువగా ఉన్న వస్త్రాన్ని సరఫరా చేస్తుంది.\nపై ప్రకటనలలో సరైనవి ఏవి?",
+    "en": "Consider the following statements regarding the cotton textile sector in India:\n1. Spinning is highly decentralised across all states in India.\n2. Weaving is highly decentralised to provide scope for incorporating traditional skills and designs.\n3. India has world-class production in spinning, but weaving supplies low quality of fabric.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "స్పిన్నింగ్ మహారాష్ట్ర, గుజరాత్, తమిళనాడులలో కేంద్రీకృతమై ఉంది (వికేంద్రీకృతం కాదు). కాబట్టి 1వ ప్రకటన తప్పు; 2 మరియు 3 సరైనవి.",
+    "en": "Statement 1 is incorrect because spinning is centralised in Maharashtra, Gujarat, and Tamil Nadu. Statements 2 and 3 are correct according to the text."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T26-0026",
+   "section": {
+    "te": "Khasi Mandarin classification",
+    "en": "Khasi Mandarin classification"
+   },
+   "q": {
+    "te": "మేఘాలయలోని అటవీ ప్రాంత కొండల నుండి లభించే ఏ నిమ్మజాతి పండు (సిట్రస్ పండు) GI-ట్యాగ్ పొందింది?",
+    "en": "Which of the following GI-tagged forest products is a citrus fruit harvested from the forest-rich hills of Meghalaya?"
+   },
+   "options": {
+    "te": [
+     "క్వీన్ పైనాపిల్",
+     "ఈరోడ్ మంజల్",
+     "ఖాసీ మాండరిన్",
+     "తేజ్‌పూర్ లిచీ"
+    ],
+    "en": [
+     "Queen Pineapple",
+     "Erode Manjal",
+     "Khasi Mandarin",
+     "Tezpur Litchi"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఖాసీ మాండరిన్ అనేది మేఘాలయలోని అడవులతో కూడిన కొండలలో పండే ఒక సిట్రస్ (నిమ్మజాతి) పండు.",
+    "en": "Khasi Mandarin is a citrus fruit grown in the forest-rich hills of Meghalaya."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T26-0122",
+   "section": {
+    "te": "Chemical industry sources",
+    "en": "Chemical industry sources"
+   },
+   "q": {
+    "te": "సహజ ఖనిజాలతో పాటు, రసాయన పరిశ్రమలు వేటి నుండి లభించే ముడిపదార్థాలపై కూడా ఆధారపడి ఉంటాయి?",
+    "en": "Besides natural minerals, chemical industries are also based on raw materials obtained from:"
+   },
+   "options": {
+    "te": [
+     "కలప (Wood)",
+     "బొగ్గు (Coal)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Wood",
+     "Coal",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కలప మరియు బొగ్గు నుండి లభించే ముడిపదార్థాలపై కూడా రసాయన పరిశ్రమలు ఆధారపడతాయని పేర్కొనబడింది.",
+    "en": "The text states: 'Chemical industries are also based on raw materials obtained from wood and coal.'"
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T26-0057",
+   "section": {
+    "te": "Sugar Mills Shift Reasons",
+    "en": "Sugar Mills Shift Reasons"
+   },
+   "q": {
+    "te": "ఇటీవలి కాలంలో చక్కెర మిల్లులు దక్షిణ మరియు పశ్చిమ రాష్ట్రాలకు, ముఖ్యంగా మహారాష్ట్రకు మారడానికి క్రింది వాటిలో ఏవి కారణాలు?",
+    "en": "Why has there been a tendency for sugar mills in India to shift and concentrate in southern and western states, especially Maharashtra?"
+   },
+   "options": {
+    "te": [
+     "ఇక్కడ పండించే చెరకులో సుక్రోజ్ శాతం ఎక్కువగా ఉండటం",
+     "చల్లని వాతావరణం వల్ల క్రషింగ్ కాలం ఎక్కువ సమయం ఉండటం",
+     "ఈ రాష్ట్రాల్లో సహకార సంఘాలు మరింత విజయవంతం కావడం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "The cane produced here has higher sucrose content",
+     "The cooler climate ensures a longer crushing season",
+     "Cooperatives are more successful in these states",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "చెరకులో అధిక సుక్రోజ్ శాతం, సుదీర్ఘమైన క్రషింగ్ కాలానికి అనుకూలమైన చల్లని వాతావరణం మరియు సహకార సంఘాల విజయం వల్ల మిల్లులు అక్కడికి కేంద్రీకృతమవుతున్నాయి.",
+    "en": "Higher sucrose content in the sugarcane, cooler climate ensuring longer crushing season, and greater success of cooperatives explain this shift."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T26-0050",
+   "section": {
+    "te": "First Jute Mill",
+    "en": "First Jute Mill"
+   },
+   "q": {
+    "te": "భారతదేశంలో మొట్టమొదటి జనపనార మిల్లు ఎక్కడ మరియు ఏ సంవత్సరంలో స్థాపించబడింది?",
+    "en": "Where and in which year was the first jute mill in India set up?"
+   },
+   "options": {
+    "te": [
+     "1859 లో కోల్‌కతా సమీపంలోని టిటాగఢ్ వద్ద",
+     "1860 లో సూరత్‌లో",
+     "1855 లో కోల్‌కతా సమీపంలోని రిష్రా వద్ద",
+     "1854 లో ముంబైలో"
+    ],
+    "en": [
+     "At Titagarh near Kolkata in 1859",
+     "In Surat in 1860",
+     "At Rishra near Kolkata in 1855",
+     "In Mumbai in 1854"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతదేశంలో మొట్టమొదటి జనపనార మిల్లు 1855 లో కోల్‌కతా సమీపంలోని రిష్రా వద్ద స్థాపించబడింది.",
+    "en": "The first jute mill in India was established near Kolkata at Rishra in the year 1855."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T26-0052",
+   "section": {
+    "te": "India Jute Status",
+    "en": "India Jute Status"
+   },
+   "q": {
+    "te": "జనపనార రంగంలో భారతదేశ స్థానానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ముడి జనపనార మరియు జనపనార వస్తువుల ఉత్పత్తిలో భారతదేశం ప్రపంచంలోనే అతిపెద్ద ఉత్పత్తిదారు.\n2. ఎగుమతిలో బంగ్లాదేశ్ తర్వాత భారతదేశం రెండవ స్థానంలో ఉంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding India's position in the jute sector:\n1. India is the largest producer of raw jute and jute goods in the world.\n2. India stands at second place as an exporter of jute goods after Bangladesh.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 కాదు 2 కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మూల సమాచారం ప్రకారం, భారతదేశం ముడి జనపనార మరియు జనపనార వస్తువుల ఉత్పత్తిలో మొదటి స్థానంలో, ఎగుమతిలో బంగ్లాదేశ్ తర్వాత రెండవ స్థానంలో ఉంది.",
+    "en": "India is the largest producer of raw jute and jute goods and stands at second place as an exporter after Bangladesh."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T26-0015",
+   "section": {
+    "te": "Soil Health in Vrikshayurveda",
+    "en": "Soil Health in Vrikshayurveda"
+   },
+   "q": {
+    "te": "వృక్షాయుర్వేదం ప్రకారం, సరైన దున్నకం పద్ధతుల ఉద్దేశ్యం ఏమిటి?",
+    "en": "According to Vṛikṣhāyurveda, proper ploughing methods are intended to:"
+   },
+   "options": {
+    "te": [
+     "నేల తేమను నిలుపుకోవడం",
+     "బ్యాక్టీరియా మరియు వానపాముల వంటి జీవుల పెరుగుదలను సులభతరం చేయడం",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Retain soil moisture",
+     "Facilitate growth of organisms like bacteria and earthworms",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వృక్షాయుర్వేదంలో సరైన దున్నకం నేల తేమను కాపాడటానికి మరియు శిలీంధ్రాలు, వానపాముల వంటి జీవుల పెరుగుదలకు సహాయపడుతుంది.",
+    "en": "Proper ploughing in Vṛikṣhāyurveda aims to keep moisture and support soil organisms like fungi and earthworms."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T26-0014",
+   "section": {
+    "te": "Hyderabad Industry",
+    "en": "Hyderabad Industry"
+   },
+   "q": {
+    "te": "హైదరాబాద్ ఈ క్రింది వాటిలో దేనికి ప్రధాన కేంద్రంగా గుర్తించబడింది?",
+    "en": "Hyderabad is recognized as a major center for which of the following?"
+   },
+   "options": {
+    "te": [
+     "వజ్రాల కోత",
+     "చెక్క బొమ్మలు",
+     "ఇత్తడి పని",
+     "సాంకేతిక ఆధారిత సంస్థలు (Technology-based enterprises)"
+    ],
+    "en": [
+     "Diamond cutting",
+     "Wooden toys",
+     "Brass work",
+     "Technology-based enterprises"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "హైదరాబాద్ సాంకేతిక ఆధారిత సంస్థలకు ప్రధాన కేంద్రంగా ఎదిగిందని పాఠ్యం పేర్కొంది.",
+    "en": "The text identifies Hyderabad as a major center for technology-based enterprises."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T26-0044",
+   "section": {
+    "te": "Cooperative sector classification",
+    "en": "Cooperative sector classification"
+   },
+   "q": {
+    "te": "యాజమాన్యం ఆధారంగా, కేరళలోని కొబ్బరి పీచు (coir) పరిశ్రమ ఏ వర్గం క్రిందికి వస్తుంది?",
+    "en": "Based on ownership, the coir industry in Kerala is classified under which category?"
+   },
+   "options": {
+    "te": [
+     "సహకార రంగ పరిశ్రమ (Cooperative sector)",
+     "ఉమ్మడి రంగ పరిశ్రమ",
+     "ప్రైవేట్ రంగ పరిశ్రమ",
+     "ప్రభుత్వ రంగ పరిశ్రమ"
+    ],
+    "en": [
+     "Cooperative sector industry",
+     "Joint sector industry",
+     "Private sector industry",
+     "Public sector industry"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "కేరళలోని కొబ్బరి పీచు పరిశ్రమ ముడిసరుకు ఉత్పత్తిదారులు లేదా కార్మికులచే నడపబడే సహకార రంగానికి చెందినది.",
+    "en": "The coir industry in Kerala is an example of a cooperative sector industry, owned and operated by producers/suppliers of raw materials, workers, or both."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T26-0093",
+   "section": {
+    "te": "Industrial Location Factors",
+    "en": "Industrial Location Factors"
+   },
+   "q": {
+    "te": "ఉక్కు, చక్కెర మరియు సిమెంట్ పరిశ్రమలు సాధారణంగా ముడి పదార్థాల వనరులకు దగ్గరగా ఎందుకు ఉంటాయి?",
+    "en": "Why are steel, sugar, and cement industries typically located close to the sources of raw materials?"
+   },
+   "options": {
+    "te": [
+     "అవి భారీ మరియు బరువు తగ్గే పదార్థాలను (weight-losing materials) ఉపయోగిస్తాయి కాబట్టి",
+     "ప్రపంచ సమాచార కేంద్రాలకు దగ్గరగా ఉండటానికి",
+     "ప్రాంతీయ ప్రభుత్వ విధానాలను నివారించడానికి",
+     "మారుమూల ప్రాంతాల్లో డిమాండ్ ఎక్కువగా ఉండటం వల్ల"
+    ],
+    "en": [
+     "Because they use bulky and weight-losing materials",
+     "To be near global communication hubs",
+     "To avoid regional government policies",
+     "Due to high demand in remote areas"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఖనిజాల వంటి భారీ మరియు బరువు తగ్గే పదార్థాలను ఉపయోగించే పరిశ్రమలు రవాణా ఖర్చులను తగ్గించడానికి ముడి పదార్థాల వనరుల దగ్గర ఉంటాయి.",
+    "en": "Industries using bulky and weight-losing materials like ores are located near raw material sources to minimize transport costs."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T26-0069",
+   "section": {
+    "te": "Cement raw materials",
+    "en": "Cement raw materials"
+   },
+   "q": {
+    "te": "సిమెంట్ పరిశ్రమకు క్రింది వాటిలో ఏ బరువైన మరియు స్థూలమైన ముడి పదార్థాలు అవసరం?",
+    "en": "The cement industry requires which of the following bulky and heavy raw materials?"
+   },
+   "options": {
+    "te": [
+     "సున్నపురాయి (లైమ్‌స్టోన్), సిలికా మరియు జిప్సం",
+     "బాక్సైట్, డోలమైట్ మరియు సున్నపురాయి",
+     "సోడా యాష్, పొటాష్ మరియు సల్ఫర్",
+     "ఇనుప ఖనిజం, కోకింగ్ బొగ్గు మరియు మాంగనీస్"
+    ],
+    "en": [
+     "Limestone, silica and gypsum",
+     "Bauxite, dolomite and limestone",
+     "Soda ash, potash and sulphur",
+     "Iron ore, coking coal and manganese"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సిమెంట్ పరిశ్రమ తయారీకి సున్నపురాయి, సిలికా మరియు జిప్సం వంటి బరువైన ముడి పదార్థాలు అవసరం.",
+    "en": "The cement industry relies on bulky and heavy raw materials specifically listed as limestone, silica, and gypsum."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T26-0128",
+   "section": {
+    "te": "Basic industries definition",
+    "en": "Basic industries definition"
+   },
+   "q": {
+    "te": "ఏ పరిశ్రమల ఉత్పత్తులు ఇతర వస్తువుల తయారీకి ముడిసరుకులుగా ఉపయోగపడతాయో వాటిని ఏమంటారు?",
+    "en": "Industries whose products are used as raw materials to manufacture other goods are defined as:"
+   },
+   "options": {
+    "te": [
+     "ఫుట్ లూస్ పరిశ్రమలు",
+     "వినియోగదారుల వస్తువుల పరిశ్రమలు",
+     "తృతీయ రంగ పరిశ్రమలు",
+     "ప్రాథమిక లేదా మూల పరిశ్రమలు (Basic industries)"
+    ],
+    "en": [
+     "Foot loose industries",
+     "Consumer goods industries",
+     "Tertiary industries",
+     "Basic industries"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఉత్పత్తి చేసిన వస్తువులను ఇతర వస్తువుల తయారీలో ముడిసరుకుగా ఉపయోగించే పరిశ్రమలను మూల లేదా ప్రాథమిక పరిశ్రమలు (Basic industries) అంటారు.",
+    "en": "Basic industries are those whose products serve as raw materials for making other goods (e.g., iron and steel)."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T26-0019",
+   "section": {
+    "te": "Innovation in Bengaluru",
+    "en": "Innovation in Bengaluru"
+   },
+   "q": {
+    "te": "ప్రతిపాదన (A): బెంగళూరులో ఆర్టిఫిషియల్ ఇంటెలిజెన్స్ వంటి సాంకేతికతలను ఉపయోగించి కొత్త ఉత్పత్తుల అభివృద్ధి జరిగింది.\nకారణం (R): బెంగళూరులో పరిశ్రమలు మరియు విద్యా సంస్థల మధ్య సన్నిహిత సంబంధం ఉంది.",
+    "en": "Assertion (A): Bengaluru has seen the development of new products using technologies like Artificial Intelligence.\nReason (R): There is a close link between industries and educational institutions in Bengaluru."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "బెంగళూరులోని పరిశ్రమలు మరియు విద్యా సంస్థల మధ్య ఉన్న సంబంధం AI వంటి రంగాలలో ఆవిష్కరణలను ప్రోత్సహించింది.",
+    "en": "The link between industry and education in Bengaluru has directly encouraged innovation in fields like AI."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T26-0078",
+   "section": {
+    "te": "First cement plant",
+    "en": "First cement plant"
+   },
+   "q": {
+    "te": "భారతదేశంలో మొట్టమొదటి సిమెంట్ కర్మాగారం ఏ నగరంలో మరియు ఏ సంవత్సరంలో స్థాపించబడింది?",
+    "en": "In which city and year was the first cement plant in India set up?"
+   },
+   "options": {
+    "te": [
+     "1904 లో చెన్నై",
+     "1854 లో ముంబై",
+     "1855 లో కోల్‌కతా",
+     "1947 లో రూపనారాయణ్‌పూర్"
+    ],
+    "en": [
+     "Chennai in 1904",
+     "Mumbai in 1854",
+     "Kolkata in 1855",
+     "Rupnarainpur in 1947"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఆధార గ్రంథం ప్రకారం, భారతదేశంలో మొట్టమొదటి సిమెంట్ కర్మాగారం 1904 లో చెన్నైలో స్థాపించబడింది.",
+    "en": "The first cement plant in India was set up in Chennai in 1904."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T26-0054",
+   "section": {
+    "te": "Steel Raw Material Ratio",
+    "en": "Steel Raw Material Ratio"
+   },
+   "q": {
+    "te": "ఇనుము మరియు ఉక్కు పరిశ్రమలో ఇనుప ఖనిజం, కోకింగ్ బొగ్గు మరియు సున్నపురాయి సుమారుగా ఏ నిష్పత్తిలో అవసరమవుతాయి?",
+    "en": "In the iron and steel industry, iron ore, coking coal, and limestone are required approximately in which of the following ratios?"
+   },
+   "options": {
+    "te": [
+     "4 : 1 : 2",
+     "2 : 4 : 1",
+     "4 : 2 : 1",
+     "3 : 2 : 1"
+    ],
+    "en": [
+     "4 : 1 : 2",
+     "2 : 4 : 1",
+     "4 : 2 : 1",
+     "3 : 2 : 1"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఉక్కు తయారీలో ఇనుప ఖనిజం, కోకింగ్ బొగ్గు మరియు సున్నపురాయి సుమారుగా 4 : 2 : 1 నిష్పత్తిలో అవసరమవుతాయి.",
+    "en": "For iron and steel production, iron ore, coking coal and limestone are required in the approximate ratio of 4 : 2 : 1."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T26-0049",
+   "section": {
+    "te": "Industries supported by textiles",
+    "en": "Industries supported by textiles"
+   },
+   "q": {
+    "te": "డిమాండ్‌ను సృష్టించడం ద్వారా వస్త్ర పరిశ్రమ క్రింది పరిశ్రమలలో వేటికి మద్దతు ఇస్తుంది?",
+    "en": "By creating demands, the textile industry supports which of the following industries?"
+   },
+   "options": {
+    "te": [
+     "రసాయనాలు మరియు రంగులు (Chemicals and dyes)",
+     "ప్యాకేజింగ్ పదార్థాలు",
+     "ఇంజనీరింగ్ పనులు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Chemicals and dyes",
+     "Packaging materials",
+     "Engineering works",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వస్త్ర పరిశ్రమ తన అవసరాల ద్వారా రసాయనాలు, రంగులు, ప్యాకేజింగ్ మరియు ఇంజనీరింగ్ పరిశ్రమలకు గిరాకీ కల్పిస్తూ మద్దతు ఇస్తుంది.",
+    "en": "The textile industry creates demand and supports chemicals and dyes, packaging materials, and engineering works."
+   }
+  }
+ ]
+}

@@ -1,0 +1,942 @@
+{
+ "id": "geo-13-g1-1",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "India – క్విజ్ 1",
+  "en": "India – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T13-0099",
+   "section": {
+    "te": "India as First Responder",
+    "en": "India as First Responder"
+   },
+   "q": {
+    "te": "మాల్దీవులకు భారతదేశం అందించిన సహాయానికి సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. 2004 సునామీ సమయంలో భారతదేశం త్వరితగతిన సహాయం అందించింది.\n2. 2014లో మాలేలో ఏర్పడిన నీటి సంక్షోభం సమయంలో భారతదేశం సహాయం చేసింది.\n3. కోవిడ్-19 మహమ్మారి సమయంలో భారతదేశం మాల్దీవులకు మద్దతు ఇచ్చింది.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding India's assistance to the Maldives:\n1. India provided quick help during the 2004 tsunami.\n2. India assisted during the 2014 water crisis in Malé.\n3. India supported the Maldives during the COVID-19 pandemic.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "2004 సునామీ, 2014 నీటి సంక్షోభం మరియు కోవిడ్-19 మహమ్మారి - ఈ మూడు సందర్భాలలోనూ భారతదేశం మాల్దీవులకు త్వరితగతిన సహాయం అందించిందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "All three events (2004 tsunami, 2014 water crisis, and COVID-19 pandemic) as instances where India provided quick assistance to the Maldives."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T13-0143",
+   "section": {
+    "te": "India-Iran Connectivity",
+    "en": "India-Iran Connectivity"
+   },
+   "q": {
+    "te": "భారతదేశం మరియు ఇరాన్‌లను కలిపే చారిత్రక మార్గాలు కింది ఏ రంగాలలో మార్పిడిని సులభతరం చేశాయి?",
+    "en": "The historical routes connecting India and Iran facilitated exchange in which of the following fields?"
+   },
+   "options": {
+    "te": [
+     "భాష మరియు సాహిత్యం",
+     "కళ మరియు వాస్తుశిల్పం",
+     "ఆహారం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Language and Literature",
+     "Art and Architecture",
+     "Food",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సిల్క్ రూట్ మరియు ఇతర మార్గాలు భారతదేశం మరియు ఇరాన్‌లను భాష, సాహిత్యం, కళ, వాస్తుశిల్పం మరియు ఆహార రంగాలలో అనుసంధానించాయి.",
+    "en": "The Silk Route and other routes connected India and Iran in the fields of language, literature, art, architecture, and food."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T13-0161",
+   "section": {
+    "te": "India-Sri Lanka Separation",
+    "en": "India-Sri Lanka Separation"
+   },
+   "q": {
+    "te": "కింది వాటిలో ఏ జలభాగాలు శ్రీలంకను భారత ప్రధాన భూభాగం నుండి వేరు చేస్తాయి?",
+    "en": "Which of the following water bodies separate Sri Lanka from the Indian mainland?"
+   },
+   "options": {
+    "te": [
+     "మన్నార్ గల్ఫ్ మరియు పాక్ జలసంధి",
+     "పాక్ జలసంధి మరియు ఖంభాత్ గల్ఫ్",
+     "పాక్ జలసంధి మరియు ఎయిట్ డిగ్రీ ఛానల్",
+     "టెన్ డిగ్రీ ఛానల్ మరియు మన్నార్ గల్ఫ్"
+    ],
+    "en": [
+     "Gulf of Mannar and Palk Strait",
+     "Palk Strait and Gulf of Khambhat",
+     "Palk Strait and Eight Degree Channel",
+     "Ten Degree Channel and Gulf of Mannar"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "శ్రీలంక భారతదేశం నుండి మన్నార్ గల్ఫ్ మరియు పాక్ జలసంధి అనే రెండు జలభాగాల ద్వారా వేరు చేయబడింది.",
+    "en": "Sri Lanka is separated from India by two specific water bodies: the Gulf of Mannar and the Palk Strait."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T13-0067",
+   "section": {
+    "te": "Sundarban heritage status",
+    "en": "Sundarban heritage status"
+   },
+   "q": {
+    "te": "భారతదేశం మరియు బంగ్లాదేశ్‌ల సంయుక్త నిర్వహణ మరియు రక్షణలో ఉన్న యునెస్కో (UNESCO) ప్రపంచ వారసత్వ ప్రదేశం ఏది?",
+    "en": "Which of the following sites shared between India and Bangladesh is recognized as a UNESCO World Heritage Site with coordinated protection and management?"
+   },
+   "options": {
+    "te": [
+     "కాజిరంగా నేషనల్ పార్క్",
+     "జిమ్ కార్బెట్ నేషనల్ పార్క్",
+     "మానస్ నేషనల్ పార్క్",
+     "సుందర్‌బన్ నేషనల్ పార్క్"
+    ],
+    "en": [
+     "Kaziranga National Park",
+     "Jim Corbett National Park",
+     "Manas National Park",
+     "Sundarban National Park"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సుందర్‌బన్ నేషనల్ పార్క్ ఒక యునెస్కో ప్రపంచ వారసత్వ ప్రదేశం. దీని రక్షణ మరియు నిర్వహణను భారత్, బంగ్లాదేశ్ సమన్వయంతో చేపడతాయి.",
+    "en": "Sundarban National Park is a UNESCO World Heritage Site whose protection and management are coordinated jointly by India and Bangladesh."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T13-0093",
+   "section": {
+    "te": "Introduction of Buddhism to Sri Lanka",
+    "en": "Introduction of Buddhism to Sri Lanka"
+   },
+   "q": {
+    "te": "సా.శ.పూ. 3వ శతాబ్దంలో శ్రీలంకకు బౌద్ధమతాన్ని పరిచయం చేసిన మహేంద్రుడు మరియు సంఘమిత్ర ఏ భారతీయ పాలకుని కుమారుడు మరియు కుమార్తె?",
+    "en": "Buddhism was introduced to Sri Lanka in the 3rd century BCE by Mahendra and Sanghamitrā, who were the children of which Indian ruler?"
+   },
+   "options": {
+    "te": [
+     "అశోక చక్రవర్తి",
+     "హర్షవర్ధనుడు",
+     "చంద్రగుప్త మౌర్యుడు",
+     "సముద్రగుప్తుడు"
+    ],
+    "en": [
+     "Emperor Aśhoka",
+     "Emperor Harsha",
+     "Emperor Chandragupta Maurya",
+     "Emperor Samudragupta"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "శ్రీలంకకు బౌద్ధాన్ని తీసుకొచ్చిన మహేంద్రుడు మరియు సంఘమిత్ర అశోక చక్రవర్తి యొక్క కుమారుడు మరియు కుమార్తె.",
+    "en": "Mahendra and Sanghamitrā, who introduced Buddhism to Sri Lanka, were the son and daughter of Emperor Aśhoka."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T13-0103",
+   "section": {
+    "te": "Malaysia Script",
+    "en": "Malaysia Script"
+   },
+   "q": {
+    "te": "మలయ్ ద్వీపకల్ప ప్రాంతం భారతదేశపు బ్రాహ్మీ లిపి ఆధారిత లిపిని సుమారు ఏ శతాబ్దంలో స్వీకరించింది?",
+    "en": "Around which century did the Malay Peninsula region adopt a script based on India’s Brāhmī script?"
+   },
+   "options": {
+    "te": [
+     "క్రీ.శ. 15వ శతాబ్దం",
+     "క్రీ.శ. 4వ శతాబ్దం",
+     "క్రీ.శ. 6వ శతాబ్దం",
+     "క్రీ.పూ. 3వ శతాబ్దం"
+    ],
+    "en": [
+     "15th century CE",
+     "4th century CE",
+     "6th century CE",
+     "3rd century BCE"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "క్రీ.శ. 4వ శతాబ్దం ప్రాంతంలో ఈ ప్రాంతం భారతదేశపు బ్రాహ్మీ లిపి ఆధారిత లిపిని స్వీకరించిందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The region adopted a script based on India's Brāhmī script around the 4th century CE."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T13-0060",
+   "section": {
+    "te": "India-Nepal Treaty year",
+    "en": "India-Nepal Treaty year"
+   },
+   "q": {
+    "te": "భారతదేశం మరియు నేపాల్ మధ్య దౌత్య సంబంధాలు ప్రధానంగా ఏ సంవత్సరంలో కుదిరిన 'శాంతి మరియు స్నేహ ఒప్పందం' (Treaty of Peace and Friendship) ద్వారా రూపొందాయి?",
+    "en": "Close diplomatic relations between India and Nepal have been largely shaped by the Treaty of Peace and Friendship signed in which year?"
+   },
+   "options": {
+    "te": [
+     "1947",
+     "1950",
+     "1971",
+     "1956"
+    ],
+    "en": [
+     "1947",
+     "1950",
+     "1971",
+     "1956"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారతదేశం మరియు నేపాల్ సంబంధాలు ప్రధానంగా 1950 నాటి 'శాంతి మరియు స్నేహ ఒప్పందం' ద్వారా నిర్దేశించబడ్డాయి.",
+    "en": "India-Nepal diplomatic ties have been largely shaped by the 1950 Treaty of Peace and Friendship."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T13-0177",
+   "section": {
+    "te": "Plate Boundaries",
+    "en": "Plate Boundaries"
+   },
+   "q": {
+    "te": "హిమాలయ పర్వతాల వెంబడి భారతీయ పలక (Indian plate) యొక్క నిర్దిష్ట పలక సరిహద్దు రకం ఏమిటి?",
+    "en": "What is the specific type of plate boundary of the Indian plate along the Himalayan mountains?"
+   },
+   "options": {
+    "te": [
+     "సముద్ర-ఖండ అభిసరణ",
+     "వైవిధ్య సరిహద్దు (Divergent boundary)",
+     "ఖండ-ఖండ అభిసరణ (Continent-continent convergence)",
+     "రూపాంతర సరిహద్దు (Transform boundary)"
+    ],
+    "en": [
+     "Ocean-continent convergence",
+     "Divergent boundary",
+     "Continent-continent convergence",
+     "Transform boundary"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "హిమాలయ పర్వతాలు భారతీయ పలక మరియు యురేషియన్ పలకల కలయిక వల్ల ఏర్పడ్డాయి, ఇది ఖండ-ఖండ అభిసరణ రకానికి చెందినది.",
+    "en": "The Himalayan mountains are formed by the convergence of the Indian plate and the Eurasian plate, which is a continent-continent convergence."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T13-0166",
+   "section": {
+    "te": "Boundaries of the Indian Subcontinent",
+    "en": "Boundaries of the Indian Subcontinent"
+   },
+   "q": {
+    "te": "భారత ఉపఖండం కింది ఏ భౌగోళిక లక్షణాల ద్వారా సరిహద్దులను కలిగి ఉంది?",
+    "en": "The Indian subcontinent is bounded by which of the following physical features?"
+   },
+   "options": {
+    "te": [
+     "ఉత్తరాన హిమాలయాలు",
+     "వాయువ్యంలో హిందూకుష్ మరియు సులైమాన్ శ్రేణులు",
+     "ఈశాన్యంలో పూర్వాంచల్ కొండలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Himalayas in the north",
+     "Hindukush and Sulaiman ranges in the northwest",
+     "Purvachal hills in the northeast",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారత ఉపఖండం ఉత్తరాన హిమాలయాలు, వాయువ్యంలో హిందూకుష్ మరియు సులైమాన్ శ్రేణులు, ఈశాన్యంలో పూర్వాంచల్ కొండలు మరియు దక్షిణాన హిందూ మహాసముద్రం సరిహద్దులుగా ఉన్నాయని పాఠ్య భాగం వివరిస్తుంది.",
+    "en": "The text describes the Indian subcontinent as being bounded by the Himalayas (North), Hindukush and Sulaiman ranges (Northwest), Purvachal hills (Northeast), and the Indian Ocean (South)."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T13-0116",
+   "section": {
+    "te": "Borobudur Design",
+    "en": "Borobudur Design"
+   },
+   "q": {
+    "te": "బోరోబుదూర్ స్తూపం యొక్క రేఖాగణిత రూపకల్పన ఏ సాంప్రదాయ చిహ్నాన్ని పోలి ఉంటుంది?",
+    "en": "The highly geometric design of the Borobudur Stūpa replicates which traditional symbol?"
+   },
+   "options": {
+    "te": [
+     "స్వస్తిక",
+     "మండల (Mandala)",
+     "చక్రం",
+     "పద్మం"
+    ],
+    "en": [
+     "Swastika",
+     "Mandala",
+     "Chakra",
+     "Lotus"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "బోరోబుదూర్ స్తూపం యొక్క రూపకల్పన 'మండల'ను పోలి ఉంటుంది, ఇది విశ్వాన్ని సూచించే హిందూ, బౌద్ధ మరియు జైన సాంప్రదాయ రేఖాగణిత చిహ్నం.",
+    "en": "The Borobudur Stūpa's design replicates a mandala, which is a traditional Hindu, Buddhist, and Jaina geometric symbol representing the cosmos."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T13-0115",
+   "section": {
+    "te": "Indonesian Currency",
+    "en": "Indonesian Currency"
+   },
+   "q": {
+    "te": "విష్ణువు వాహనాన్ని సూచించే ఏ జాతీయ చిహ్నం ఇండోనేషియా కరెన్సీ అయిన రూపయ్యపై ఉంటుంది?",
+    "en": "Which national symbol, representing the vehicle of Vishnu, is carried on the Indonesian currency, the rupiah?"
+   },
+   "options": {
+    "te": [
+     "నంది",
+     "హనుమాన్",
+     "ఐరావతం",
+     "గరుడ"
+    ],
+    "en": [
+     "Nandi",
+     "Hanuman",
+     "Airavata",
+     "Garuda"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఇండోనేషియా రూపయ్యపై విష్ణువు వాహనమైన గరుడ జాతీయ చిహ్నంగా ఉంటుంది.",
+    "en": "The Indonesian rupiah carries the national symbol Garuda, which is the vahana (vehicle) of Vishnu."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T13-0140",
+   "section": {
+    "te": "Indians in Oman",
+    "en": "Indians in Oman"
+   },
+   "q": {
+    "te": "20వ శతాబ్దం ప్రారంభంలో ఒమన్‌లోని ఏ నగరంలో మోతీశ్వర్ మందిర్ (శివాలయం) నిర్మించబడింది?",
+    "en": "In which city of Oman was the Motishwar Mandir (Shiva temple) built in the early 20th century?"
+   },
+   "options": {
+    "te": [
+     "సోహర్",
+     "సలాలా",
+     "నిజ్వా",
+     "మస్కట్"
+    ],
+    "en": [
+     "Sohar",
+     "Salalah",
+     "Nizwa",
+     "Muscat"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "చిత్రం 2.31 మరియు పాఠ్యభాగం ప్రకారం, మోతీశ్వర్ మందిర్ ఒమన్‌లోని మస్కట్‌లో ఉన్న ఒక శివాలయం.",
+    "en": "According to Figure 2.31 and the text, the Motishwar Mandir is a Shiva temple located in Muscat, Oman."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T13-0015",
+   "section": {
+    "te": "Hydroelectricity",
+    "en": "Hydroelectricity"
+   },
+   "q": {
+    "te": "'హైడ్రో ఎలక్ట్రిసిటీ' (hydroelectricity) అనే పదంలో 'హైడ్రో' అంటే అర్థం ఏమిటి?",
+    "en": "In the term 'hydroelectricity', what does the word 'hydro' mean?"
+   },
+   "options": {
+    "te": [
+     "టర్బైన్",
+     "శక్తి",
+     "విద్యుత్",
+     "నీరు"
+    ],
+    "en": [
+     "Turbine",
+     "Power",
+     "Electricity",
+     "Water"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం 'హైడ్రో' అంటే నీరు అని అర్థం.",
+    "en": "The text defines 'hydro' as meaning water."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T13-0016",
+   "section": {
+    "te": "Yaks in Himalayas",
+    "en": "Yaks in Himalayas"
+   },
+   "q": {
+    "te": "హిమాలయాలలో యాక్ (Yak)లను ఈ క్రింది ఏ అవసరాల కోసం పెంచుతారు?",
+    "en": "For which of the following purposes are Yaks reared in the Himalayas?"
+   },
+   "options": {
+    "te": [
+     "పాలు మరియు మాంసం",
+     "ఉన్ని మరియు పేడ",
+     "రవాణా",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Milk and meat",
+     "Wool and dung",
+     "Transport",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "యాక్‌లను పాలు, మాంసం, ఉన్ని, పేడ కోసం పెంచుతారు మరియు రవాణా కోసం కూడా ఉపయోగిస్తారు.",
+    "en": "Yaks are reared for milk, meat, wool, dung, and are also used for transport."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T13-0098",
+   "section": {
+    "te": "India-Maldives Relations",
+    "en": "India-Maldives Relations"
+   },
+   "q": {
+    "te": "భారతదేశం మాల్దీవులను స్వతంత్ర దేశంగా ఏ సంవత్సరంలో గుర్తించింది?",
+    "en": "In which year did India recognize the Maldives as an independent nation?"
+   },
+   "options": {
+    "te": [
+     "1965",
+     "1950",
+     "1971",
+     "1947"
+    ],
+    "en": [
+     "1965",
+     "1950",
+     "1971",
+     "1947"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "1965లో మాల్దీవులకు స్వాతంత్ర్యం వచ్చిన తర్వాత ఆ దేశాన్ని గుర్తించిన మొదటి దేశాలలో భారతదేశం ఒకటి.",
+    "en": "India was one of the first countries to recognize the Maldives after its independence in 1965."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T13-0178",
+   "section": {
+    "te": "Himalayan Uplift",
+    "en": "Himalayan Uplift"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): హిమాలయాల ఎత్తు నేటికీ పెరుగుతోంది.\nకారణం (R): సుమారు 40 మిలియన్ సంవత్సరాల క్రితం ప్రారంభమైన హిమాలయాల నిర్మాణ ప్రక్రియ ఇప్పటికీ కొనసాగుతోంది.",
+    "en": "Assertion (A): The height of the Himalayas is rising even to this date.\nReason (R): The process of formation of the Himalayas, which started about 40 million years ago, is still continuing."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "హిమాలయాల నిర్మాణ ప్రక్రియ ఇంకా కొనసాగుతోందని శాస్త్రవేత్తలు నమ్ముతున్నారు, దీని ఫలితంగా హిమాలయాల ఎత్తు నిరంతరం పెరుగుతోంది.",
+    "en": "Scientists believe the formation process is ongoing, which results in the continuous rise of the Himalayan height."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T13-0118",
+   "section": {
+    "te": "Singapore Demographics",
+    "en": "Singapore Demographics"
+   },
+   "q": {
+    "te": "సింగపూర్ నివాసితులలో ఎంత శాతం మంది భారతీయ సంతతికి చెందినవారు?",
+    "en": "What percentage of Singaporean residents are ethnically of Indian origin?"
+   },
+   "options": {
+    "te": [
+     "7 శాతం",
+     "5 శాతం",
+     "12 శాతం",
+     "9 శాతం"
+    ],
+    "en": [
+     "7 per cent",
+     "5 per cent",
+     "12 per cent",
+     "9 per cent"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, సింగపూర్ నివాసితులలో సుమారు 9 శాతం మంది భారతీయ సంతతికి చెందినవారు.",
+    "en": "Approximately 9 per cent of Singapore's residents are of Indian origin."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T13-0139",
+   "section": {
+    "te": "India Relief Features",
+    "en": "India Relief Features"
+   },
+   "q": {
+    "te": "భారతదేశ నైసర్గిక స్వరూపాలకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. దేశ మొత్తం ఉపరితల వైశాల్యంలో పర్వతాలు 30 శాతం ఉన్నాయి.\n2. పర్వతాలు కొన్ని నదుల జీవన ప్రవాహాన్ని నిర్ధారిస్తాయి.\n3. మైదానాలు పర్యాటక మరియు పర్యావరణ అంశాలకు సౌకర్యాలను కల్పిస్తాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding the relief features of India:\n1. Mountains account for 30 per cent of the total surface area.\n2. Mountains ensure the perennial flow of some rivers.\n3. Plains provide facilities for tourism and ecological aspects.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రకటనలు 1 మరియు 2 సరైనవి. ప్రకటన 3 తప్పు ఎందుకంటే పర్యాటక మరియు పర్యావరణ అంశాలను పర్వతాలు కల్పిస్తాయి, మైదానాలు కాదు.",
+    "en": "Statements 1 and 2 are correct. Statement 3 is incorrect because tourism and ecological aspects are provided by mountains, not plains."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T13-0054",
+   "section": {
+    "te": "Birth of Bangladesh",
+    "en": "Birth of Bangladesh"
+   },
+   "q": {
+    "te": "భారత్-పాకిస్తాన్ మధ్య జరిగిన యుద్ధం ఫలితంగా బంగ్లాదేశ్ ఏ సంవత్సరంలో ఆవిర్భవించింది?",
+    "en": "In which year was Bangladesh born as the outcome of a war between India and Pakistan?"
+   },
+   "options": {
+    "te": [
+     "1999",
+     "1971",
+     "1948",
+     "1965"
+    ],
+    "en": [
+     "1999",
+     "1971",
+     "1948",
+     "1965"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారత్ మరియు పాకిస్తాన్ మధ్య జరిగిన యుద్ధం ఫలితంగా 1971లో బంగ్లాదేశ్ ఆవిర్భవించింది.",
+    "en": "Bangladesh (formerly East Pakistan) was born in 1971 as the outcome of a war between India and Pakistan."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T13-0074",
+   "section": {
+    "te": "Theravada Buddhism",
+    "en": "Theravada Buddhism"
+   },
+   "q": {
+    "te": "'పెద్దల పాఠశాల' (స్కూల్ ఆఫ్ ది ఎల్డర్స్) గా పిలువబడే ఏ బౌద్ధ విభాగం క్రీ.పూ. 3వ శతాబ్దంలో రూపుదిద్దుకుంది మరియు బుద్ధుని అసలు బోధనలకు అత్యంత సన్నిహితమైనదిగా పరిగణించబడుతుంది?",
+    "en": "Which school of Buddhism, known as the 'School of the Elders', took shape around the 3rd century BCE and is considered closest to the Buddha's original teachings?"
+   },
+   "options": {
+    "te": [
+     "థెరవాద",
+     "వజ్రయాన",
+     "తాంత్రిక బౌద్ధం",
+     "మహాయాన"
+    ],
+    "en": [
+     "Theravāda",
+     "Vajrayāna",
+     "Tantric Buddhism",
+     "Mahāyāna"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "క్రీ.పూ. 3వ శతాబ్దంలో ఏర్పడిన థెరవాద విభాగం బుద్ధుని అసలు బోధనలకు అత్యంత సన్నిహితమైనదిగా పరిగణించబడుతుంది.",
+    "en": "Theravāda, or the 'School of the Elders', took shape around the 3rd century BCE and is considered closest to the Buddha's original teachings."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T13-0042",
+   "section": {
+    "te": "Hindu temples in Quanzhou",
+    "en": "Hindu temples in Quanzhou"
+   },
+   "q": {
+    "te": "13వ శతాబ్దంలో, హిందూ వ్యాపారులు చైనాలోని ఏ ఓడరేవు నగరంలో దేవాలయాలను నిర్మించారు?",
+    "en": "In the 13th century, Hindu merchants built temples in which Chinese port city?"
+   },
+   "options": {
+    "te": [
+     "క్వాన్‌జౌ (Quanzhou)",
+     "గ్వాంగ్‌జౌ",
+     "బీజింగ్",
+     "షాంఘై"
+    ],
+    "en": [
+     "Quanzhou",
+     "Guangzhou",
+     "Beijing",
+     "Shanghai"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "13వ శతాబ్దంలో, హిందూ వ్యాపారులు ముఖ్యమైన వాణిజ్య కేంద్రమైన క్వాన్‌జౌ అనే చైనా ఓడరేవు నగరంలో దేవాలయాలను నిర్మించారు.",
+    "en": "In the 13th century, Hindu merchants built temples in the Chinese port city of Quanzhou, an important trading centre."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T13-0024",
+   "section": {
+    "te": "Aravallis Function",
+    "en": "Aravallis Function"
+   },
+   "q": {
+    "te": "థార్ ఎడారి ఏ దిశ వైపు మరింత విస్తరించకుండా సహజ అవరోధంగా పనిచేయడంలో ఆరావళి పర్వతాలు కీలక పాత్ర పోషిస్తాయి?",
+    "en": "The Aravalli Hills play a vital geographical role by acting as a natural barrier preventing the Thar Desert from expanding towards which direction?"
+   },
+   "options": {
+    "te": [
+     "దక్షిణం వైపు",
+     "ఉత్తరం వైపు",
+     "పశ్చిమం వైపు",
+     "తూర్పు వైపు"
+    ],
+    "en": [
+     "Southward",
+     "Northward",
+     "Westward",
+     "Eastward"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "థార్ ఎడారి తూర్పు వైపు మరింత విస్తరించకుండా సహజ అవరోధంగా ఆరావళి కొండలు అడ్డుకుంటాయి.",
+    "en": "The Aravalli Hills act as a natural barrier preventing the Thar Desert from expanding further eastward."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T13-0081",
+   "section": {
+    "te": "Land Border Crossing Agreement",
+    "en": "Land Border Crossing Agreement"
+   },
+   "q": {
+    "te": "సరిహద్దు రాకపోకలను సులభతరం చేయడానికి మరియు వాణిజ్యాన్ని ప్రోత్సహించడానికి భారతదేశం మరియు మయన్మార్ మధ్య 'ల్యాండ్ బోర్డర్ క్రాసింగ్ ఒప్పందం' ఏ సంవత్సరంలో జరిగింది?",
+    "en": "In which year was the Land Border Crossing Agreement signed between India and Myanmar to ease cross-border movement and enhance connectivity?"
+   },
+   "options": {
+    "te": [
+     "2021",
+     "2018",
+     "2014",
+     "2016"
+    ],
+    "en": [
+     "2021",
+     "2018",
+     "2014",
+     "2016"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారత్-మయన్మార్ సరిహద్దు ప్రాంతాల ప్రజల రాకపోకలను సులభతరం చేసేందుకు 2018లో ల్యాండ్ బోర్డర్ క్రాసింగ్ ఒప్పందం కుదిరింది.",
+    "en": "The Land Border Crossing Agreement between India and Myanmar was signed in 2018."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T13-0113",
+   "section": {
+    "te": "Singapore Independence",
+    "en": "Singapore Independence"
+   },
+   "q": {
+    "te": "సింగపూర్ ఏ సంవత్సరంలో చివరకు ప్రత్యేక దేశంగా అవతరించింది?",
+    "en": "In which year did Singapore eventually become a separate nation?"
+   },
+   "options": {
+    "te": [
+     "1965",
+     "1963",
+     "1971",
+     "1947"
+    ],
+    "en": [
+     "1965",
+     "1963",
+     "1971",
+     "1947"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, సింగపూర్ బ్రిటిష్ కాలనీగా, ఆ తర్వాత మలేషియాలో భాగంగా ఉండి, చివరకు 1965లో ప్రత్యేక దేశంగా మారింది.",
+    "en": "Singapore became a British colony, then a part of Malaysia, and eventually a separate nation in 1965."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T13-0003",
+   "section": {
+    "te": "India Boundaries",
+    "en": "India Boundaries"
+   },
+   "q": {
+    "te": "భారతదేశ సహజ సరిహద్దులకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఉత్తరాన హిమాలయ పర్వత శ్రేణి ఉంది.\n2. అరేబియా సముద్రం తూర్పు సరిహద్దుగా ఉంది.\n3. దక్షిణాన హిందూ మహాసముద్రం ఉంది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding India's natural boundaries:\n1. The Himalayan Mountain range is in the north.\n2. The Arabian Sea marks the eastern limit.\n3. The Indian Ocean is to the south.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 only",
+     "1 and 3 only",
+     "2 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రకటన 1 మరియు 3 సరైనవి. అరేబియా సముద్రం పశ్చిమాన ఉంది, తూర్పున బంగాళాఖాతం ఉంది, కాబట్టి ప్రకటన 2 తప్పు.",
+    "en": "Statement 1 and 3 are correct. Statement 2 is wrong because the Arabian Sea is in the west, while the Bay of Bengal is in the east."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T13-0089",
+   "section": {
+    "te": "Formation of SAARC",
+    "en": "Formation of SAARC"
+   },
+   "q": {
+    "te": "సౌత్ ఏషియన్ అసోసియేషన్ ఫర్ రీజినల్ కోఆపరేషన్ (SAARC) ఏ సంవత్సరంలో ఏర్పడింది?",
+    "en": "In which year was the South Asian Association for Regional Cooperation (SAARC) formed?"
+   },
+   "options": {
+    "te": [
+     "2000",
+     "1975",
+     "1985",
+     "1990"
+    ],
+    "en": [
+     "2000",
+     "1975",
+     "1985",
+     "1990"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతదేశ పొరుగు దేశాలు పరస్పర ప్రయోజనాలు, ఆర్థిక ప్రగతి కోసం 1985లో సార్క్ (SAARC)ను ఏర్పాటు చేశాయి.",
+    "en": "Nations in India's neighbourhood came together in 1985 to form SAARC."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T13-0069",
+   "section": {
+    "te": "Bhutan-India bordering states",
+    "en": "Bhutan-India bordering states"
+   },
+   "q": {
+    "te": "క్రింది భారతీయ రాష్ట్రాలను పరిశీలించండి:\n1. సిక్కిం\n2. పశ్చిమ బెంగాల్\n3. అసోం\n4. అరుణాచల్ ప్రదేశ్\nభూటాన్ సరిహద్దు పై పేర్కొన్న ఏ రాష్ట్రాలతో కలుస్తుంది?",
+    "en": "Consider the following Indian states:\n1. Sikkim\n2. West Bengal\n3. Assam\n4. Arunachal Pradesh\nBhutan's border touches which of the states mentioned above?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "1, 3 మరియు 4 మాత్రమే",
+     "2, 3 మరియు 4 మాత్రమే",
+     "1, 2, 3 మరియు 4"
+    ],
+    "en": [
+     "1 and 2 only",
+     "1, 3 and 4 only",
+     "2, 3 and 4 only",
+     "1, 2, 3 and 4"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూటాన్ సరిహద్దు భారతదేశంలోని సిక్కిం, పశ్చిమ బెంగాల్, అసోం మరియు అరుణాచల్ ప్రదేశ్ అనే నాలుగు రాష్ట్రాలతో కలుస్తుంది.",
+    "en": "Bhutan shares its border with four Indian states: Sikkim, West Bengal, Assam, and Arunachal Pradesh."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T13-0126",
+   "section": {
+    "te": "India-Indonesia Shared Concerns",
+    "en": "India-Indonesia Shared Concerns"
+   },
+   "q": {
+    "te": "భారతదేశం మరియు ఇండోనేషియా కింది ఏ అంశాలకు సంబంధించి ఉమ్మడి ఆందోళనలను కలిగి ఉన్నాయి?",
+    "en": "India and Indonesia share concerns regarding which of the following issues?"
+   },
+   "options": {
+    "te": [
+     "పైరసీ (సముద్రపు దొంగతనం)",
+     "వాతావరణ మార్పు",
+     "సముద్ర మార్గాల రక్షణ",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Piracy",
+     "Climate change",
+     "Protection of sea lanes",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశం మరియు ఇండోనేషియా తమ సుదీర్ఘ తీరప్రాంతాల కారణంగా పైరసీ, వాతావరణ మార్పు మరియు సముద్ర మార్గాల రక్షణపై ఉమ్మడి ఆందోళనలను కలిగి ఉన్నాయి.",
+    "en": "India and Indonesia have shared concerns about piracy, climate change, and the protection of sea lanes due to their large coastlines."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T13-0011",
+   "section": {
+    "te": "Ladakh Terminology",
+    "en": "Ladakh Terminology"
+   },
+   "q": {
+    "te": "లడఖ్ సందర్భంలో 'త్సో' (Tso) అనే పదానికి అర్థం ఏమిటి?",
+    "en": "In the context of Ladakh, what does the word 'Tso' mean?"
+   },
+   "options": {
+    "te": [
+     "మంచు",
+     "పర్వతం",
+     "సరస్సు",
+     "ఎడారి"
+    ],
+    "en": [
+     "Snow",
+     "Mountain",
+     "Lake",
+     "Desert"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం 'త్సో' అంటే సరస్సు అని అర్థం.",
+    "en": "'tso' means lake."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T13-0156",
+   "section": {
+    "te": "Climatic Zones",
+    "en": "Climatic Zones"
+   },
+   "q": {
+    "te": "భారతదేశ అక్షాంశ స్థానానికి సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. భారతదేశం యొక్క దక్షిణ భాగం ఉష్ణమండలంలో (tropics) ఉంది.\n2. భారతదేశం యొక్క ఉత్తర భాగం ఉప-ఉష్ణమండల (sub-tropical) లేదా వెచ్చని సమశీతోష్ణ మండలంలో ఉంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding India's latitudinal location:\n1. The southern part of India lies within the tropics.\n2. The northern part of India lies in the sub-tropical or warm temperate zone.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అక్షాంశాల ఆధారంగా, భారతదేశం దక్షిణాన ఉష్ణమండల మరియు ఉత్తరాన ఉప-ఉష్ణమండల/వెచ్చని సమశీతోష్ణ మండలాలుగా విభజించబడింది.",
+    "en": "Based on latitude, India is divided into a tropical southern part and a sub-tropical/warm temperate northern part."
+   }
+  }
+ ]
+}

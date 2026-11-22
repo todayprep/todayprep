@@ -1,0 +1,942 @@
+{
+ "id": "geo-25-g1-5",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Agriculture – క్విజ్ 5",
+  "en": "Agriculture – Quiz 5"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T25-0060",
+   "section": {
+    "te": "Traditional practices validation",
+    "en": "Traditional practices validation"
+   },
+   "q": {
+    "te": "ICAR డాక్యుమెంటేషన్ మరియు పరీక్షల ప్రకారం, ఎంత శాతం సాంప్రదాయ వ్యవసాయ పద్ధతులు ఆధునిక విజ్ఞాన శాస్త్రం ద్వారా ధృవీకరించబడ్డాయి?",
+    "en": "According to ICAR's documentation and testing, what percentage of traditional agricultural practices were validated by modern science?"
+   },
+   "options": {
+    "te": [
+     "85 శాతం కంటే ఎక్కువ",
+     "50 శాతం కంటే ఎక్కువ",
+     "ఖచ్చితంగా 100 శాతం",
+     "75 శాతం కంటే ఎక్కువ"
+    ],
+    "en": [
+     "Over 85 per cent",
+     "Over 50 per cent",
+     "Exactly 100 per cent",
+     "Over 75 per cent"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ICAR వందకు పైగా సాంప్రదాయ పద్ధతులను పరీక్షించింది మరియు వాటిలో 85 శాతం కంటే ఎక్కువ శాస్త్రీయంగా సరైనవని కనుగొంది.",
+    "en": "ICAR tested over a hundred traditional practices and found that more than 85 per cent were scientifically valid."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T25-0155",
+   "section": {
+    "te": "Maize soil and temperature",
+    "en": "Maize soil and temperature"
+   },
+   "q": {
+    "te": "పాత ఒండ్రు నేలల్లో (Old alluvial soil) బాగా పెరుగుతూ, 21°C నుండి 27°C మధ్య ఉష్ణోగ్రత అవసరమయ్యే పంట ఏది?",
+    "en": "Which crop grows well in old alluvial soil and requires a temperature between 21°C to 27°C?"
+   },
+   "options": {
+    "te": [
+     "జొన్నలు",
+     "సజ్జలు",
+     "గోధుమ",
+     "మొక్కజొన్న"
+    ],
+    "en": [
+     "Jowar",
+     "Bajra",
+     "Wheat",
+     "Maize"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మొక్కజొన్న ఒక ఖరీఫ్ పంట, దీనికి 21°C నుండి 27°C ఉష్ణోగ్రత అవసరం మరియు ఇది పాత ఒండ్రు నేలల్లో బాగా పెరుగుతుంది.",
+    "en": "Maize is a kharif crop that specifically requires a temperature range of 21°C to 27°C and thrives in old alluvial soil."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T25-0248",
+   "section": {
+    "te": "Highest growth land category",
+    "en": "Highest growth land category"
+   },
+   "q": {
+    "te": "1950–51 మరియు 2019–20 మధ్య కాలంలో విస్తరించిన భూవినియోగ వర్గాలలో ఏ విభాగంలో పెరుగుదల రేటు అత్యధికంగా ఉంది?",
+    "en": "Among the land-use categories that expanded between 1950–51 and 2019–20, the rate of increase was highest in which category?"
+   },
+   "options": {
+    "te": [
+     "వ్యవసాయేతర వినియోగంలో ఉన్న విస్తీర్ణం",
+     "ప్రస్తుత బీడు భూములు",
+     "అటవీ విస్తీర్ణ వాటా",
+     "నికర సాగు విస్తీర్ణం"
+    ],
+    "en": [
+     "Area under non-agricultural uses",
+     "Current fallow lands",
+     "Share of area under forest",
+     "Net area sown"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పారిశ్రామిక, సేవా రంగాలు మరియు మౌలిక సదుపాయాల విస్తరణ కారణంగా వ్యవసాయేతర వినియోగంలో ఉన్న భూమి పెరుగుదల రేటు అత్యధికంగా ఉంది.",
+    "en": "The rate of increase was highest in the case of area under non-agricultural uses due to industrial, service, and infrastructural expansion."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T25-0096",
+   "section": {
+    "te": "Natural pest repellents Sikkim",
+    "en": "Natural pest repellents Sikkim"
+   },
+   "q": {
+    "te": "సిక్కిం కేస్ స్టడీ ప్రకారం, పెమా కుటుంబం సహజ పురుగు నివారణిలను (pest repellents) తయారు చేయడానికి వేటిని ఉపయోగించింది?",
+    "en": "In the Sikkim case study, which natural ingredients were used by Pema's family to prepare pest repellents?"
+   },
+   "options": {
+    "te": [
+     "వేప",
+     "వెల్లుల్లి",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Neem",
+     "Garlic",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పెమా కుటుంబం వేప మరియు వెల్లుల్లిని ఉపయోగించి సహజ పురుగు నివారణిలను తయారు చేసిందని పేర్కొనబడింది.",
+    "en": "According to the case study, Pema's family prepared natural pest repellents using neem and garlic."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T25-0340",
+   "section": {
+    "te": "Organic farming schemes",
+    "en": "Organic farming schemes"
+   },
+   "q": {
+    "te": "భారతదేశంలో సేంద్రీయ వ్యవసాయాన్ని ప్రోత్సహించడానికి ప్రభుత్వం కింది ఏ పథకాలను అమలు చేస్తోంది?",
+    "en": "Through which of the following schemes has the Government been promoting organic farming in India?"
+   },
+   "options": {
+    "te": [
+     "పరంపరాగత్ కృషి వికాస్ యోజన (PKVY)",
+     "రాష్ట్రీయ వికాస్ యోజన (RKVY)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Paramparagat Krishi Vikas Yojana (PKVY)",
+     "Rashtriya Vikas Yojana (RKVY)",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పరంపరాగత్ కృషి వికాస్ యోజన (PKVY) మరియు రాష్ట్రీయ వికాస్ యోజన (RKVY) వంటి పథకాల ద్వారా ప్రభుత్వం సేంద్రీయ వ్యవసాయాన్ని ప్రోత్సహిస్తోంది.",
+    "en": "The Government promotes organic farming through schemes such as Paramparagat Krishi Vikas Yojana (PKVY) and Rashtriya Vikas Yojana (RKVY)."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T25-0215",
+   "section": {
+    "te": "Shifting cultivation fertility loss",
+    "en": "Shifting cultivation fertility loss"
+   },
+   "q": {
+    "te": "పోడు వ్యవసాయంలో (షిఫ్టింగ్ కల్టివేషన్), నేల దాదాపు ఎన్ని సంవత్సరాల తర్వాత తన సారవంతాన్ని కోల్పోతుంది, దీనివల్ల రైతు కొత్త అటవీ భూమిని సాగులోకి తెస్తాడు?",
+    "en": "In shifting cultivation, after approximately how many years does the soil lose its fertility, prompting the farmer to clear a new forest patch?"
+   },
+   "options": {
+    "te": [
+     "10 నుండి 12 సంవత్సరాలు",
+     "3 నుండి 5 సంవత్సరాలు",
+     "1 నుండి 2 సంవత్సరాలు",
+     "6 నుండి 8 సంవత్సరాలు"
+    ],
+    "en": [
+     "10 to 12 years",
+     "3 to 5 years",
+     "1 to 2 years",
+     "6 to 8 years"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, 3 నుండి 5 సంవత్సరాల తర్వాత నేల తన సారాన్ని కోల్పోతుంది, దాంతో రైతు వేరే అటవీ ప్రాంతాన్ని సాగు చేయడానికి వెళ్తాడు.",
+    "en": "After 3 to 5 years, the soil loses its fertility and the farmer shifts to another part of the forest."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T25-0297",
+   "section": {
+    "te": "Tur Alternative Names",
+    "en": "Tur Alternative Names"
+   },
+   "q": {
+    "te": "కంది (Tur/Arhar) ను ఈ క్రింది ఏ పేర్లతో కూడా పిలుస్తారు?",
+    "en": "Tur (Arhar) is also known by which of the following names?"
+   },
+   "options": {
+    "te": [
+     "శనగలు (Chickpea)",
+     "రెడ్ గ్రామ్ లేదా పిజియన్ పీ (Red gram or pigeon pea)",
+     "పెసలు (Green gram)",
+     "మినుములు (Black gram)"
+    ],
+    "en": [
+     "Chickpea",
+     "Red gram or pigeon pea",
+     "Green gram",
+     "Black gram"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కందిని రెడ్ గ్రామ్ లేదా పిజియన్ పీ అని కూడా పిలుస్తారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Tur is also known as red gram or pigeon pea."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T25-0048",
+   "section": {
+    "te": "Bamboo drip irrigation",
+    "en": "Bamboo drip irrigation"
+   },
+   "q": {
+    "te": "ఊటల నుండి పొలాలకు నీటిని మళ్లించడానికి సాంప్రదాయకంగా 'వెదురు బిందు సేద్యం' (Bamboo drip irrigation) భారతదేశంలోని ఏ ప్రాంతంలో ఆచరిస్తారు?",
+    "en": "In which part of India is bamboo drip irrigation traditionally practiced to channel water from springs to fields?"
+   },
+   "options": {
+    "te": [
+     "ఉత్తర మైదానాలు",
+     "ఈశాన్య భారతదేశం",
+     "థార్ ఎడారి",
+     "పశ్చిమ తీర ప్రాంతం"
+    ],
+    "en": [
+     "Northern plains",
+     "Northeastern India",
+     "Thar Desert",
+     "Western coastal strip"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఈశాన్య భారతదేశంలోని కొన్ని ప్రాంతాలలో రైతులు వెదురు గొట్టాలను ఉపయోగించి ఊటల నుండి పొలాలకు నీటిని మళ్లించే విధానాన్ని ఆచరిస్తారు.",
+    "en": "Bamboo drip irrigation is traditionally practiced by farmers in parts of northeastern India."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T25-0362",
+   "section": {
+    "te": "PMKSY Objectives",
+    "en": "PMKSY Objectives"
+   },
+   "q": {
+    "te": "ప్రధానమంత్రి కృషి సించాయి యోజన (PMKSY) లక్ష్యాలకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. పొలాలకు నీటి భౌతిక లభ్యతను పెంచడం మరియు ఖచ్చితమైన నీటిపారుదల కింద సాగు విస్తీర్ణాన్ని విస్తరించడం దీని లక్ష్యం.\n2. వాటర్‌షెడ్ విధానాన్ని ఉపయోగించి వర్షాధార ప్రాంతాల సమగ్ర అభివృద్ధిని సాధించడం దీని లక్ష్యం.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the objectives of Pradhan Mantri Krishi Sinchayee Yojana (PMKSY):\n1. It aims to enhance physical access of water on farms and expand cultivable area under assured irrigation.\n2. It aims to ensure integrated development of rain-fed areas using the watershed approach.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "PMKSY లక్ష్యాలలో ఖచ్చితమైన నీటిపారుదల విస్తరణ (హర్ ఖేత్ కో పానీ) మరియు వాటర్‌షెడ్ విధానం ద్వారా వర్షాధార ప్రాంతాల సమగ్ర అభివృద్ధి రెండూ భాగమే.",
+    "en": "Both statements are correct. PMKSY aims to expand cultivable area under assured irrigation (Har khet ko pani) and ensure integrated development of rain-fed areas using the watershed approach."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T25-0112",
+   "section": {
+    "te": "Water Resources",
+    "en": "Water Resources"
+   },
+   "q": {
+    "te": "అధికారిక అంచనాల ప్రకారం, ప్రస్తుతం భారతదేశంలో ఎన్ని క్రియాశీలక (functional) చెరువులు ఉన్నాయి?",
+    "en": "According to official estimates, how many functional tanks are there in India at present?"
+   },
+   "options": {
+    "te": [
+     "8,000 కంటే ఎక్కువ",
+     "ఖచ్చితంగా 10 లక్షలు",
+     "5 లక్షల కంటే తక్కువ",
+     "15 లక్షల కంటే ఎక్కువ"
+    ],
+    "en": [
+     "More than 8,000",
+     "Exactly 10 lakh",
+     "Less than 5 lakh",
+     "More than 15 lakh"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ప్రస్తుతం భారతదేశంలో 15 లక్షల కంటే ఎక్కువ క్రియాశీలక చెరువులు ఉన్నాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "There are more than 15 lakh functional tanks in India currently."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T25-0307",
+   "section": {
+    "te": "Soyabean Leading Producers",
+    "en": "Soyabean Leading Producers"
+   },
+   "q": {
+    "te": "భారతదేశంలో సోయాబీన్ మొత్తం ఉత్పత్తిలో దాదాపు 90 శాతాన్ని ఏ రెండు రాష్ట్రాలు కలిసి ఉత్పత్తి చేస్తున్నాయి?",
+    "en": "Which two states together produce about 90 per cent of the total output of soyabean in India?"
+   },
+   "options": {
+    "te": [
+     "మధ్యప్రదేశ్ మరియు మహారాష్ట్ర",
+     "కర్ణాటక మరియు తెలంగాణ",
+     "గుజరాత్ మరియు రాజస్థాన్",
+     "ఆంధ్రప్రదేశ్ మరియు మహారాష్ట్ర"
+    ],
+    "en": [
+     "Madhya Pradesh and Maharashtra",
+     "Karnataka and Telangana",
+     "Gujarat and Rajasthan",
+     "Andhra Pradesh and Maharashtra"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సోయాబీన్ ప్రధానంగా మధ్యప్రదేశ్ మరియు మహారాష్ట్రలలో పండుతుంది, ఈ రెండు రాష్ట్రాలు కలిసి దేశంలోని మొత్తం ఉత్పత్తిలో దాదాపు 90 శాతాన్ని ఉత్పత్తి చేస్తాయి.",
+    "en": "Soyabean is mostly grown in Madhya Pradesh and Maharashtra, and together these two states produce about 90 per cent of the country's total output."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T25-0293",
+   "section": {
+    "te": "Jowar Cropping Seasons",
+    "en": "Jowar Cropping Seasons"
+   },
+   "q": {
+    "te": "భారతదేశంలో జొన్న (Sorghum) సాగుకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. దక్షిణ రాష్ట్రాల్లో, దీనిని ఖరీఫ్ మరియు రబీ రెండు సీజన్లలోనూ విత్తుతారు.\n2. ఉత్తర భారతదేశంలో, ఇది ప్రాథమికంగా పశుగ్రాసం కోసం పండించే ఖరీఫ్ పంట.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding Jowar (Sorghum) cultivation in India:\n1. In southern states, it is sown in both Kharif and Rabi seasons.\n2. In northern India, it is primarily a Kharif crop grown for fodder.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "దక్షిణాన జొన్న ఖరీఫ్ మరియు రబీ పంట అని, కానీ ఉత్తరాన కేవలం ఖరీఫ్ పశుగ్రాసం పంట అని పాఠ్యభాగం ధృవీకరిస్తుంది.",
+    "en": "The text confirms that Jowar is a Kharif and Rabi crop in the south, but only a Kharif fodder crop in the north."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T25-0132",
+   "section": {
+    "te": "Commercial vs Subsistence Farming",
+    "en": "Commercial vs Subsistence Farming"
+   },
+   "q": {
+    "te": "పంటల ప్రాంతీయ వైవిధ్యానికి సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. పంజాబ్ మరియు హర్యానాలో వరి ఒక వాణిజ్య పంట.\n2. ఒడిశాలో వరి ఒక జీవనాధార (subsistence) పంట.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the regional variation of crops:\n1. Rice is a commercial crop in Punjab and Haryana.\n2. Rice is a subsistence crop in Odisha.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వాణిజ్యీకరణ స్థాయి మారుతూ ఉంటుంది; పంజాబ్/హర్యానాలో వరి లాభం కోసం పండిస్తారు, కానీ ఒడిశాలో ఇది జీవనాధార పంట.",
+    "en": "The degree of commercialization varies; rice is grown for profit in Punjab/Haryana but for survival (subsistence) in Odisha."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T25-0029",
+   "section": {
+    "te": "Climate zones matching",
+    "en": "Climate zones matching"
+   },
+   "q": {
+    "te": "కింది శీతోష్ణస్థితి రకాలను వాటి సంబంధిత ప్రాంతాలతో జతపరచండి:\n1. ఉపఉష్ణమండల (Subtropical) - i. థార్ ఎడారి\n2. శుష్క (Arid) - ii. ఉత్తర మైదానాలు\n3. ఉష్ణమండల తేమ (Tropical wet) - iii. మధ్య దక్కన్ పీఠభూమి\n4. అర్ధ-శుష్క (Semi-arid) - iv. పశ్చిమ తీర ప్రాంతం\nసరైన సమాధానాన్ని ఎంచుకోండి:",
+    "en": "Match the following climate types with their corresponding regions:\n1. Subtropical - i. Thar Desert\n2. Arid - ii. Northern plains\n3. Tropical wet - iii. Central Deccan Plateau\n4. Semi-arid - iv. Western coastal strip\nSelect the correct combination:"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-i, 3-iv, 4-iii",
+     "1-i, 2-ii, 3-iv, 4-iii",
+     "1-ii, 2-i, 3-iii, 4-iv",
+     "1-iv, 2-i, 3-ii, 4-iii"
+    ],
+    "en": [
+     "1-ii, 2-i, 3-iv, 4-iii",
+     "1-i, 2-ii, 3-iv, 4-iii",
+     "1-ii, 2-i, 3-iii, 4-iv",
+     "1-iv, 2-i, 3-ii, 4-iii"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఉత్తర మైదానాలు ఉపఉష్ణమండల రకం, థార్ ఎడారి శుష్క రకం, పశ్చిమ తీరం ఉష్ణమండల తేమ రకం, మరియు మధ్య దక్కన్ పీఠభూమి అర్ధ-శుష్క రకం శీతోష్ణస్థితిని కలిగి ఉంటాయి.",
+    "en": "Subtropical corresponds to the northern plains, Arid to the Thar Desert, Tropical wet to the western coastal strip, and Semi-arid to the central Deccan Plateau."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T25-0204",
+   "section": {
+    "te": "Wet Paddy Cultivation Features",
+    "en": "Wet Paddy Cultivation Features"
+   },
+   "q": {
+    "te": "వరి పంట ప్రధానంగా ఉండే సాంద్ర జీవనాధార వ్యవసాయానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. వ్యవసాయ పనుల్లో అత్యధిక భాగం భారీ యంత్రాల సహాయంతోనే జరుగుతాయి.\n2. రైతులు కుటుంబ శ్రమ సహాయంతో పనిచేస్తూ భూమిని సాంద్రంగా వినియోగిస్తారు.\n3. నేల సారవంతాన్ని కాపాడేందుకు పశువుల ఎరువులను (Farm yard manure) ఉపయోగిస్తారు.\nపై ప్రకటనలలో సరైనవి ఏవి?",
+    "en": "Consider the following statements regarding intensive subsistence agriculture dominated by wet paddy cultivation:\n1. Most of the agricultural operations are carried out using heavy machinery.\n2. Farmers work with the help of family labour leading to intensive use of land.\n3. Farm yard manure is used to maintain the fertility of the soil.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఈ వ్యవసాయంలో యంత్రాల వాడకం పరిమితంగా ఉండి చాలా పనులు మనుషులే చేస్తారు, కాబట్టి ప్రకటన 1 తప్పు. 2 మరియు 3 సరైనవి.",
+    "en": "Statement 1 is incorrect because the use of machinery is limited and operations are done by manual labour. Statements 2 and 3 are directly confirmed by the text."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T25-0070",
+   "section": {
+    "te": "Traditional farming alignment",
+    "en": "Traditional farming alignment"
+   },
+   "q": {
+    "te": "భారతదేశంలోని సాంప్రదాయ వ్యవసాయ వ్యవస్థలు సాధారణంగా ఏ సహజ చక్రంతో అనుసంధానించబడి ఉంటాయి?",
+    "en": "Traditional farming systems in India are typically aligned with which natural cycle?"
+   },
+   "options": {
+    "te": [
+     "చంద్ర చక్రం (Lunar cycle)",
+     "ఋతు చక్రం (Ṛitu chakra)",
+     "పోటుపాట్ల చక్రం (Tidal cycle)",
+     "సౌర జ్వాల చక్రం (Solar flare cycle)"
+    ],
+    "en": [
+     "Lunar cycle",
+     "Ṛitu chakra (cycle of seasons)",
+     "Tidal cycle",
+     "Solar flare cycle"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సాంప్రదాయ వ్యవసాయం ఋతు చక్రం లేదా సహజమైన సీజన్ల చక్రంతో దగ్గరి సంబంధం కలిగి ఉంటుంది.",
+    "en": "Traditional agriculture is closely tied to the ṛitu chakra, or the natural cycle of seasons."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T25-0062",
+   "section": {
+    "te": "Modern seed issues",
+    "en": "Modern seed issues"
+   },
+   "q": {
+    "te": "ప్రకటన (A): ఆధునిక శాస్త్రీయ విత్తనాలు తరచుగా రైతులు విత్తన కంపెనీలపై ఆధారపడేలా చేస్తాయి.\nకారణం (R): ఆధునిక శాస్త్రీయ విత్తనాల నుండి పెరిగిన మొక్కలు ఉత్పత్తి చేసే విత్తనాలు తరచుగా తదుపరి సీజన్‌లో నాటడానికి అనువుగా ఉండవు.\nసరైన ఎంపికను ఎంచుకోండి:",
+    "en": "Assertion (A): Modern scientific seeds often create a dependency of farmers on seed companies.\nReason (R): The seeds produced by plants grown from modern scientific seeds are often NOT suitable for planting in the next season."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఆధునిక విత్తనాలు అధిక దిగుబడి కోసం రూపొందించబడ్డాయి, కానీ వాటి నుండి వచ్చే తదుపరి విత్తనాలు నాటడానికి పనికిరావు, దీనివల్ల రైతులు ప్రతి సీజన్‌లో కొత్త విత్తనాలను కొనాల్సి వస్తుంది.",
+    "en": "Modern seeds are designed for high yield but their offspring seeds often lack the same quality or viability, forcing farmers to buy new seeds every season."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T25-0328",
+   "section": {
+    "te": "Agricultural Programmes 1950s",
+    "en": "Agricultural Programmes 1950s"
+   },
+   "q": {
+    "te": "1950ల చివరలో వ్యవసాయ రంగంలో వచ్చిన స్తబ్దతను అధిగమించడానికి ప్రభుత్వం క్రింది ఏ కార్యక్రమాలను ప్రారంభించింది?",
+    "en": "Which of the following programmes were launched to overcome agricultural stagnation in India during the late 1950s?"
+   },
+   "options": {
+    "te": [
+     "ఇంటెన్సివ్ అగ్రికల్చరల్ డిస్ట్రిక్ట్ ప్రోగ్రామ్ (IADP)",
+     "ఇంటెన్సివ్ అగ్రికల్చరల్ ఏరియా ప్రోగ్రామ్ (IAAP)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Intensive Agricultural District Programme (IADP)",
+     "Intensive Agricultural Area Programme (IAAP)",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "1950ల చివరలో స్తబ్దతను అధిగమించడానికి IADP మరియు IAAP అనే రెండు కార్యక్రమాలను ప్రారంభించారు.",
+    "en": "Both IADP and IAAP were launched to overcome agricultural production stagnation of the late 1950s."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T25-0350",
+   "section": {
+    "te": "Irrigation Coverage Area",
+    "en": "Irrigation Coverage Area"
+   },
+   "q": {
+    "te": "పంజాబ్, హర్యానా మరియు పశ్చిమ ఉత్తరప్రదేశ్‌లలో నికర సాగు విస్తీర్ణంలో ఎంత శాతానికి పైగా నీటిపారుదల సౌకర్యం ఉంది?",
+    "en": "In Punjab, Haryana, and western Uttar Pradesh, more than what percentage of their net sown area is under irrigation?"
+   },
+   "options": {
+    "te": [
+     "75 శాతం",
+     "85 శాతం",
+     "55 శాతం",
+     "65 శాతం"
+    ],
+    "en": [
+     "75 per cent",
+     "85 per cent",
+     "55 per cent",
+     "65 per cent"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పంజాబ్, హర్యానా మరియు పశ్చిమ ఉత్తరప్రదేశ్‌లలో నికర సాగు విస్తీర్ణంలో 85 శాతానికి పైగా నీటిపారుదల పరిధిలో ఉంది.",
+    "en": "In Punjab, Haryana and western Uttar Pradesh, more than 85 per cent of their net sown area is under irrigation."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T25-0323",
+   "section": {
+    "te": "Coffee Producing State",
+    "en": "Coffee Producing State"
+   },
+   "q": {
+    "te": "భారతదేశంలోని మొత్తం కాఫీ ఉత్పత్తిలో మూడింట రెండు వంతుల కంటే ఎక్కువ వాటాను ఏ ఒక్క రాష్ట్రం కలిగి ఉంది?",
+    "en": "Which state alone accounts for more than two-third of the total production of coffee in India?"
+   },
+   "options": {
+    "te": [
+     "కర్ణాటక",
+     "తమిళనాడు",
+     "కేరళ",
+     "ఆంధ్రప్రదేశ్"
+    ],
+    "en": [
+     "Karnataka",
+     "Tamil Nadu",
+     "Kerala",
+     "Andhra Pradesh"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "దేశంలోని మొత్తం కాఫీ ఉత్పత్తిలో కర్ణాటక ఒక్కటే మూడింట రెండు వంతులకు పైగా ఉత్పత్తి చేస్తోంది.",
+    "en": "Karnataka alone produces more than two-third of the total coffee produced in India."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T25-0166",
+   "section": {
+    "te": "Tea processing",
+    "en": "Tea processing"
+   },
+   "q": {
+    "te": "తేయాకును సాధారణంగా టీ తోటలోనే ఎందుకు ప్రాసెస్ చేస్తారు?",
+    "en": "Why is tea typically processed within the tea garden itself?"
+   },
+   "options": {
+    "te": [
+     "దీనికి భారీ యంత్రాలు అవసరం కాబట్టి",
+     "దాని తాజాదనాన్ని పునరుద్ధరించడానికి",
+     "రవాణా ఖర్చులను తగ్గించడానికి",
+     "పన్నులను నివారించడానికి"
+    ],
+    "en": [
+     "Because it requires heavy machinery",
+     "To restore its freshness",
+     "To reduce transportation costs",
+     "To avoid taxes"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "తేయాకు తాజాదనాన్ని పునరుద్ధరించడానికి మరియు కాపాడటానికి దానిని టీ తోటలోనే ప్రాసెస్ చేస్తారు.",
+    "en": "Tea is processed within the tea garden to ensure that its freshness is restored and maintained."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T25-0182",
+   "section": {
+    "te": "Institutional Reforms",
+    "en": "Institutional Reforms"
+   },
+   "q": {
+    "te": "ఈ క్రింది చర్యలను పరిశీలించండి:\n1. సామూహికీకరణ (Collectivisation)\n2. కమతాల ఏకీకరణ (Consolidation of holdings)\n3. జమీందారీ వ్యవస్థ రద్దు\nస్వాతంత్ర్యం తర్వాత భారతదేశంలో వీటిలో ఏవి సంస్థాగత సంస్కరణలుగా ప్రాధాన్యత ఇవ్వబడ్డాయి?",
+    "en": "Consider the following measures:\n1. Collectivisation\n2. Consolidation of holdings\n3. Abolition of zamindari\nWhich of the above were given priority as institutional reforms in India after Independence?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "స్వాతంత్ర్యం తర్వాత, సామూహికీకరణ, కమతాల ఏకీకరణ, సహకారం మరియు జమీందారీ వ్యవస్థ రద్దు వంటి వాటిని కీలక సంస్థాగత సంస్కరణలుగా ప్రభుత్వం ప్రాధాన్యత ఇచ్చింది.",
+    "en": "After independence, the government prioritized collectivisation, consolidation of holdings, cooperation, and the abolition of the zamindari system as key institutional reforms."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T25-0349",
+   "section": {
+    "te": "PMKSY Launch Year",
+    "en": "PMKSY Launch Year"
+   },
+   "q": {
+    "te": "కేంద్ర ప్రభుత్వం ఏ సంవత్సరంలో ప్రధానమంత్రి కృషి సించాయి యోజన (PMKSY)ను ప్రారంభించింది?",
+    "en": "During which year was the Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) launched by the Central Government?"
+   },
+   "options": {
+    "te": [
+     "2015-16",
+     "2016-17",
+     "2014-15",
+     "2013-14"
+    ],
+    "en": [
+     "2015-16",
+     "2016-17",
+     "2014-15",
+     "2013-14"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "దేశంలోని అన్ని వ్యవసాయ క్షేత్రాలకు రక్షణాత్మక నీటిపారుదల సౌకర్యాన్ని కల్పించాలనే లక్ష్యంతో కేంద్ర ప్రభుత్వం 2015-16లో ప్రధానమంత్రి కృషి సించాయి యోజనను ప్రారంభించింది.",
+    "en": "The Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) was launched by the Central Government during 2015-16."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T25-0034",
+   "section": {
+    "te": "Origin of season terms",
+    "en": "Origin of season terms"
+   },
+   "q": {
+    "te": "భారతీయ వ్యవసాయ పంట కాలాలను సూచించే 'ఖరీఫ్', 'రబీ', మరియు 'జైద్' అనే పదాలు ఏ భాషా మూలానికి చెందినవి?",
+    "en": "The Indian cropping season terms 'kharif', 'rabi', and 'zaid' originate from which language?"
+   },
+   "options": {
+    "te": [
+     "పర్షియన్",
+     "సంస్కృతం",
+     "అరబిక్",
+     "టర్కిష్"
+    ],
+    "en": [
+     "Persian",
+     "Sanskrit",
+     "Arabic",
+     "Turkish"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఖరీఫ్, రబీ మరియు జైద్ అనే వ్యవసాయ పదాలు అరబిక్ మూలం నుండి వచ్చినవి.",
+    "en": "The terms kharif, rabi, and zaid are of Arabic origin."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T25-0318",
+   "section": {
+    "te": "India Cotton Global Rank",
+    "en": "India Cotton Global Rank"
+   },
+   "q": {
+    "te": "చైనా తర్వాత పత్తి ఉత్పత్తిలో ప్రపంచంలో భారతదేశం ఏ స్థానంలో ఉంది?",
+    "en": "What is India's rank in the world in the production of cotton after China?"
+   },
+   "options": {
+    "te": [
+     "మూడవ",
+     "మొదటి",
+     "నాల్గవ",
+     "రెండవ"
+    ],
+    "en": [
+     "Third",
+     "First",
+     "Fourth",
+     "Second"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "చైనా తర్వాత ప్రపంచంలో పత్తి ఉత్పత్తిలో భారతదేశం రెండవ స్థానంలో ఉంది.",
+    "en": "India ranks second in global cotton production, behind China."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T25-0047",
+   "section": {
+    "te": "Phad irrigation system",
+    "en": "Phad irrigation system"
+   },
+   "q": {
+    "te": "'ఫాద్ వ్యవస్థలు' (Phad systems) అనబడే సమాజ ఆధారిత నీటిపారుదల వ్యవస్థలు ప్రధానంగా భారతదేశంలోని ఏ రాష్ట్రంలో కనిపిస్తాయి?",
+    "en": "In which state of India are the community-based irrigation systems known as 'Phad systems' particularly found?"
+   },
+   "options": {
+    "te": [
+     "ఒడిశా",
+     "రాజస్థాన్",
+     "కేరళ",
+     "మహారాష్ట్ర"
+    ],
+    "en": [
+     "Odisha",
+     "Rajasthan",
+     "Kerala",
+     "Maharashtra"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఫాద్ వ్యవస్థలు అనేవి సమాజ ఆధారిత నీటిపారుదల వ్యవస్థలు, ఇవి ముఖ్యంగా మహారాష్ట్ర రాష్ట్రంలో కనిపిస్తాయి.",
+    "en": "Phad systems are community-based irrigation systems particularly found in Maharashtra."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T25-0355",
+   "section": {
+    "te": "Low Labour Productivity",
+    "en": "Low Labour Productivity"
+   },
+   "q": {
+    "te": "అంతర్జాతీయ స్థాయితో పోలిస్తే భారతీయ వ్యవసాయంలో శ్రామిక ఉత్పాదకత చాలా తక్కువగా ఉండటానికి ప్రధాన కారణం ఏమిటి?",
+    "en": "What is the primary reason for very low labour productivity in Indian agriculture compared to international standards?"
+   },
+   "options": {
+    "te": [
+     "నీటిపారుదల సౌకర్యాలు పూర్తిగా లేకపోవడం",
+     "వాణిజ్య పంటల అధిక ఉత్పత్తి",
+     "ఆధునిక యంత్రాలను విపరీతంగా ఉపయోగించడం",
+     "భూవనరులపై అత్యధిక ఒత్తిడి ఉండటం"
+    ],
+    "en": [
+     "Complete absence of irrigation facilities",
+     "Overproduction of commercial cash crops",
+     "Excessive use of modern machinery",
+     "Very high pressure on the land resources"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూవనరులపై జనాభా ఒత్తిడి చాలా ఎక్కువగా ఉండటం వలన భారతీయ వ్యవసాయంలో శ్రామిక ఉత్పాదకత అంతర్జాతీయ స్థాయితో పోలిస్తే చాలా తక్కువగా ఉంది.",
+    "en": "Because of the very high pressure on the land resources, the labour productivity in Indian agriculture is very low compared to the international level."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T25-0224",
+   "section": {
+    "te": "Mediterranean Agriculture",
+    "en": "Mediterranean Agriculture"
+   },
+   "q": {
+    "te": "మధ్యధరా వ్యవసాయ ప్రాంతం ప్రపంచవ్యాప్తంగా క్రింది వాటిలో దేనికి ముఖ్యమైన సరఫరాదారుగా ప్రసిద్ధి చెందింది?",
+    "en": "Mediterranean agriculture is globally renowned as an important supplier of which of the following?"
+   },
+   "options": {
+    "te": [
+     "పాడి పశువులు",
+     "పశుగ్రాస పంటలు",
+     "ధాన్యాలు మరియు పప్పుదినుసులు",
+     "సిట్రస్ (నిమ్మ జాతి) పండ్లు"
+    ],
+    "en": [
+     "Milch cattle",
+     "Fodder crops",
+     "Cereals and pulses",
+     "Citrus fruits"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మధ్యధరా వ్యవసాయ ప్రాంతం ప్రపంచంలో సిట్రస్ జాతి పండ్ల ఉత్పత్తికి ఎంతో ప్రసిద్ధి చెందిన సరఫరాదారు.",
+    "en": "The Mediterranean agricultural region is an important supplier of citrus fruits."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T25-0304",
+   "section": {
+    "te": "Groundnut Cropping Season",
+    "en": "Groundnut Cropping Season"
+   },
+   "q": {
+    "te": "వేరుశనగ మెట్ట ప్రాంతాలలో ప్రధానంగా ఖరీఫ్ పంట అయినప్పటికీ, ఏ ప్రాంతంలో దీనిని రబీ సీజన్‌లో కూడా పండిస్తారు?",
+    "en": "While groundnut is largely a Kharif crop in drylands, in which region is it also cultivated during the Rabi season?"
+   },
+   "options": {
+    "te": [
+     "పశ్చిమ రాజస్థాన్",
+     "దక్షిణ భారతదేశం",
+     "ఉత్తర భారతదేశం",
+     "ఈశాన్య భారతదేశం"
+    ],
+    "en": [
+     "Western Rajasthan",
+     "Southern India",
+     "Northern India",
+     "North-eastern India"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వేరుశనగ ప్రాథమికంగా ఖరీఫ్ పంట, కానీ దక్షిణ భారతదేశంలో దీనిని రబీ సీజన్‌లో కూడా పండిస్తారు.",
+    "en": "Groundnut is primarily a Kharif crop, but in southern India, it is also grown during the Rabi season."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T25-0195",
+   "section": {
+    "te": "Community Forestry Lands",
+    "en": "Community Forestry Lands"
+   },
+   "q": {
+    "te": "గ్రామ పచ్చిక బయళ్ళు, దేవాలయ భూములు, రోడ్డు పక్కన, కాలువ గట్లు మరియు పాఠశాలలు వంటి ప్రభుత్వ లేదా సామాజిక భూములలో చెట్లను పెంచే పద్ధతిని ఏమంటారు?",
+    "en": "Which type of forestry involves raising trees on public or community lands such as village pastures, temple lands, roadsides, canal banks, and schools?"
+   },
+   "options": {
+    "te": [
+     "సామాజిక సామూహిక అటవీకరణ (Community forestry)",
+     "వ్యవసాయ-అటవీకరణ",
+     "ఫార్మ్ అటవీకరణ",
+     "వాణిజ్య అటవీకరణ"
+    ],
+    "en": [
+     "Community forestry",
+     "Agro-forestry",
+     "Farm forestry",
+     "Commercial forestry"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రజా లేదా సామాజిక భూములలో చెట్లను పెంచే విధానాన్ని సామాజిక సామూహిక అటవీకరణ (Community forestry) అంటారు.",
+    "en": "Community forestry involves the raising of trees on public or community land such as village pastures, temple land, roadsides, and canal banks."
+   }
+  }
+ ]
+}

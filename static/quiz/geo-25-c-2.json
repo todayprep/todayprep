@@ -1,0 +1,942 @@
+{
+ "id": "geo-25-c-2",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Agriculture – క్విజ్ 2",
+  "en": "Agriculture – Quiz 2"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T25-0094",
+   "section": {
+    "te": "Groundwater depletion depth Punjab",
+    "en": "Groundwater depletion depth Punjab"
+   },
+   "q": {
+    "te": "తీవ్రమైన వినియోగం కారణంగా పంజాబ్‌లోని ఎక్కువ భాగంలో భూగర్భ జలాలు దాదాపు ఎంత లోతు వరకు అందని స్థాయికి పడిపోయాయి?",
+    "en": "Due to extensive extraction, the groundwater level in a large part of Punjab has become inaccessible up to what depth?"
+   },
+   "options": {
+    "te": [
+     "దాదాపు 100 మీటర్లు",
+     "దాదాపు 15 మీటర్లు",
+     "దాదాపు 50 మీటర్లు",
+     "దాదాపు 30 మీటర్లు"
+    ],
+    "en": [
+     "About 100 metres",
+     "About 15 metres",
+     "About 50 metres",
+     "About 30 metres"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పంజాబ్‌లోని చాలా ప్రాంతాలలో భూగర్భ జలాలు దాదాపు 30 మీటర్ల లోతు వరకు అందకుండా పోయాయని పాఠ్యాంశం స్పష్టం చేస్తోంది.",
+    "en": "The text highlights that groundwater in a large part of Punjab has become inaccessible till depths of about 30 metres."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T25-0365",
+   "section": {
+    "te": "Groundwater Depletion Cause",
+    "en": "Groundwater Depletion Cause"
+   },
+   "q": {
+    "te": "క్రింద రెండు ప్రకటనలు ఇవ్వబడ్డాయి, ఒకటి నిశ్చితార్థం (A) మరియు రెండవది కారణం (R):\nనిశ్చితార్థం (A): పంజాబ్ మరియు హర్యానా రాష్ట్రాలలో భూగర్భ జలాలు తీవ్రంగా క్షీణించాయి.\nకారణం (R): ఈ రాష్ట్రాల్లోని మొత్తం నికర నీటిపారుదల విస్తీర్ణంలో ఎక్కువ భాగం బావులు మరియు బోరుబావుల ద్వారా సాగవుతూ, అధిక శాతం భూగర్భజల సామర్థ్యాన్ని వినియోగిస్తున్నాయి.\nపై ప్రకటనల సందర్భంలో, క్రింది వాటిలో ఏది సరైనది?",
+    "en": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R):\nAssertion (A): Punjab and Haryana have experienced severe groundwater depletion.\nReason (R): A large proportion of the total net irrigated area in these states is irrigated through wells and tubewells, utilising a large proportion of their groundwater potential.\nIn the context of the statements, which of the following is correct?"
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ సరైనవి మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ సరైనవి కానీ A కి R సరైన వివరణ కాదు",
+     "A సరైనది కానీ R తప్పు",
+     "A తప్పు కానీ R సరైనది"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పంజాబ్ మరియు హర్యానాలలో బావులు, బోరుబావులపై ఎక్కువగా ఆధారపడి భూగర్భ జలాలను విరివిగా తోడేయడం వల్లే అక్కడ భూగర్భ జలాల క్షీణత ఏర్పడింది.",
+    "en": "Both statements are correct. In Punjab and Haryana, 76.1% and 51.3% of irrigated areas rely on wells and tubewells, leading to excessive utilization and depletion of groundwater."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T25-0023",
+   "section": {
+    "te": "Definition of grafting",
+    "en": "Definition of grafting"
+   },
+   "q": {
+    "te": "తెగుళ్ల నిరోధకత లేదా పండ్ల తీపి వంటి కావాల్సిన లక్షణాలను కలపడానికి ఒక మొక్కను మరొక మొక్కతో కలిపి ఒకే మొక్కగా పెంచే పద్ధతిని ఏమంటారు?",
+    "en": "What is the technique that joins one plant with another to grow as a single plant to combine desirable traits called?"
+   },
+   "options": {
+    "te": [
+     "నూర్పిడి",
+     "పంటల మార్పిడి",
+     "అంతర పంటల సాగు",
+     "అంటుకట్టడం (గ్రాఫ్టింగ్)"
+    ],
+    "en": [
+     "Threshing",
+     "Crop rotation",
+     "Intercropping",
+     "Grafting"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "కావాల్సిన లక్షణాలను కలపడానికి రెండు మొక్కలను కలిపి ఒకే మొక్కగా పెంచే ప్రక్రియను గ్రాఫ్టింగ్ (అంటుకట్టడం) అంటారు.",
+    "en": "Grafting is defined as the technique that joins one plant with another to grow as a single plant, combining desirable traits."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T25-0242",
+   "section": {
+    "te": "Fallow other than Current Fallow",
+    "en": "Fallow other than Current Fallow"
+   },
+   "q": {
+    "te": "ఒకటి కంటే ఎక్కువ సంవత్సరాలు కానీ ఐదు సంవత్సరాల కంటే తక్కువ కాలం సాగు చేయకుండా వదిలివేసిన సాగు భూమిని ఏ విధంగా వర్గీకరిస్తారు?",
+    "en": "A cultivable land that is left uncultivated for more than one year but less than five years is classified as:"
+   },
+   "options": {
+    "te": [
+     "బంజరు భూమి",
+     "సాగుయోగ్యమైన వ్యర్థ భూమి",
+     "ప్రస్తుత బీడు భూమి",
+     "ప్రస్తుత బీడు కాకుండా ఇతర బీడు భూమి (Fallow other than Current Fallow)"
+    ],
+    "en": [
+     "Barren Land",
+     "Culturable Wasteland",
+     "Current Fallow",
+     "Fallow other than Current Fallow"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఒక సంవత్సరం కంటే ఎక్కువ మరియు ఐదు సంవత్సరాల కంటే తక్కువ కాలం సాగు చేయని భూమిని 'ప్రస్తుత బీడు కాకుండా ఇతర బీడు భూమి' అంటారు.",
+    "en": "Land left uncultivated for more than a year but less than five years is termed 'Fallow other than Current Fallow'."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T25-0296",
+   "section": {
+    "te": "Gram Displacement",
+    "en": "Gram Displacement"
+   },
+   "q": {
+    "te": "హరిత విప్లవం తర్వాత పంజాబ్, హర్యానా మరియు ఉత్తర రాజస్థాన్‌లలో పంటల సరళి నుండి శనగ (Gram) స్థానాన్ని ఏ పంట ఆక్రమించింది?",
+    "en": "Which crop has displaced Gram from the cropping pattern in Punjab, Haryana, and northern Rajasthan after the Green Revolution?"
+   },
+   "options": {
+    "te": [
+     "జొన్న",
+     "మొక్కజొన్న",
+     "గోధుమ",
+     "సజ్జ"
+    ],
+    "en": [
+     "Jowar",
+     "Maize",
+     "Wheat",
+     "Bajra"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "హరిత విప్లవం తర్వాత, పంజాబ్, హర్యానా మరియు ఉత్తర రాజస్థాన్ పంటల సరళిలో శనగ స్థానంలో గోధుమ వచ్చి చేరింది.",
+    "en": "Following the Green Revolution, wheat displaced gram in the cropping patterns of Punjab, Haryana, and northern Rajasthan."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T25-0119",
+   "section": {
+    "te": "Plantation Farming",
+    "en": "Plantation Farming"
+   },
+   "q": {
+    "te": "'ప్లాంటేషన్ వ్యవసాయం' (Plantation Farming) కు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఒకే పంటను పెద్ద విస్తీర్ణంలో పండిస్తారు.\n2. ఇది వ్యవసాయం మరియు పరిశ్రమల మధ్య అనుసంధానంగా పనిచేస్తుంది.\n3. ఇది అధిక మూలధనంతో కూడిన ఉత్పాదకాలను మరియు వలస కూలీలను ఉపయోగిస్తుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding 'Plantation Farming':\n1. A single crop is grown on a large area.\n2. It serves as an interface between agriculture and industry.\n3. It uses capital-intensive inputs and migrant labourers.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ప్లాంటేషన్ వ్యవసాయం పెద్ద విస్తీర్ణంలో ఒకే పంటను పండించడం, అధిక మూలధనం మరియు వలస కూలీలను ఉపయోగించడం మరియు వ్యవసాయం, పరిశ్రమల మధ్య అనుసంధానంగా ఉంటుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Plantation farming involves growing a single crop on large tracts, uses capital-intensive inputs and migrant labor, and acts as an interface between agriculture and industry."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T25-0171",
+   "section": {
+    "te": "Coffee cultivation regions",
+    "en": "Coffee cultivation regions"
+   },
+   "q": {
+    "te": "నేడు, భారతదేశంలో కాఫీ సాగు ప్రధానంగా ఈ క్రింది ఏ రాష్ట్రాల్లోని నీలగిరి ప్రాంతానికి పరిమితమై ఉంది?",
+    "en": "Today, coffee cultivation in India is primarily confined to the Nilgiri region in which of the following states?"
+   },
+   "options": {
+    "te": [
+     "కర్ణాటక",
+     "కేరళ",
+     "తమిళనాడు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Karnataka",
+     "Kerala",
+     "Tamil Nadu",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "కాఫీ సాగు ప్రస్తుతం కర్ణాటక, కేరళ మరియు తమిళనాడు రాష్ట్రాల్లో విస్తరించి ఉన్న నీలగిరి కొండలలో కేంద్రీకృతమై ఉంది.",
+    "en": "Coffee cultivation is currently concentrated in the Nilgiri hills spanning Karnataka, Kerala, and Tamil Nadu."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T25-0198",
+   "section": {
+    "te": "Subsistence Agriculture Concept",
+    "en": "Subsistence Agriculture Concept"
+   },
+   "q": {
+    "te": "స్థానికంగా పండించే ఉత్పత్తులన్నింటినీ లేదా దాదాపుగా చాలా భాగాన్ని ఆ వ్యవసాయ ప్రాంతాల ప్రజలే వినియోగించుకునే వ్యవసాయ విధానాన్ని ఏమంటారు?",
+    "en": "Which type of agriculture is characterised by farming areas consuming all, or nearly so, of the locally grown products?"
+   },
+   "options": {
+    "te": [
+     "మిశ్రమ వ్యవసాయం",
+     "జీవనాధార వ్యవసాయం (Subsistence agriculture)",
+     "వాణిజ్య వ్యవసాయం",
+     "తోటల పెంపకం (Plantation agriculture)"
+    ],
+    "en": [
+     "Mixed farming",
+     "Subsistence agriculture",
+     "Commercial agriculture",
+     "Plantation agriculture"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పండించిన పంటను స్థానికంగానే దాదాపు పూర్తిగా వినియోగించుకునే వ్యవసాయాన్ని జీవనాధార వ్యవసాయం (Subsistence agriculture) అంటారు.",
+    "en": "Subsistence agriculture is one in which the farming areas consume all, or nearly all, of the locally grown produce."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T25-0035",
+   "section": {
+    "te": "Historical use of season terms",
+    "en": "Historical use of season terms"
+   },
+   "q": {
+    "te": "భారతదేశంలో ఏ చారిత్రక కాలం నుండి 'ఖరీఫ్', 'రబీ', మరియు 'జైద్' అనే పంట కాలాల పదాలు వాడుకలో ఉన్నాయి?",
+    "en": "Since which historical period have the cropping season terms 'kharif', 'rabi', and 'zaid' been in continuous use in India?"
+   },
+   "options": {
+    "te": [
+     "గుప్తుల కాలం",
+     "మౌర్యుల కాలం",
+     "మొఘలుల కాలం",
+     "ఢిల్లీ సుల్తానేట్ కాలం"
+    ],
+    "en": [
+     "Gupta period",
+     "Mauryan period",
+     "Mughal times",
+     "Delhi Sultanate"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మొఘలుల కాలం నుండి భారతదేశంలో ఖరీఫ్, రబీ మరియు జైద్ అనే పదాలు నిరంతరం వాడుకలో ఉన్నాయి.",
+    "en": "The terms kharif, rabi, and zaid have been in use in India since the Mughal times."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T25-0168",
+   "section": {
+    "te": "Horticulture production rank",
+    "en": "Horticulture production rank"
+   },
+   "q": {
+    "te": "2020లో, ఈ క్రింది వాటిలో దేని ఉత్పత్తిలో భారతదేశం ప్రపంచంలో రెండవ స్థానంలో ఉంది?",
+    "en": "In 2020, India ranked second in the world in the production of which of the following?"
+   },
+   "options": {
+    "te": [
+     "పండ్లు మరియు కూరగాయలు",
+     "రబ్బరు",
+     "జనపనార",
+     "కాఫీ"
+    ],
+    "en": [
+     "Fruits and vegetables",
+     "Rubber",
+     "Jute",
+     "Coffee"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "2020 నాటికి, చైనా తర్వాత పండ్లు మరియు కూరగాయల ఉత్పత్తిలో భారతదేశం ప్రపంచంలో రెండవ అతిపెద్ద దేశంగా ఉంది.",
+    "en": "As of 2020, India was the world's second-largest producer of fruits and vegetables, following China."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T25-0314",
+   "section": {
+    "te": "Cotton Cropped Area",
+    "en": "Cotton Cropped Area"
+   },
+   "q": {
+    "te": "భారతదేశంలో మొత్తం సాగు విస్తీర్ణంలో పత్తి సుమారు ఎంత శాతాన్ని ఆక్రమించింది?",
+    "en": "Cotton occupies approximately what percentage of the total cropped area in India?"
+   },
+   "options": {
+    "te": [
+     "14.0 శాతం",
+     "4.7 శాతం",
+     "2.5 శాతం",
+     "0.5 శాతం"
+    ],
+    "en": [
+     "14.0 per cent",
+     "4.7 per cent",
+     "2.5 per cent",
+     "0.5 per cent"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారతదేశంలో మొత్తం సాగు విస్తీర్ణంలో పత్తి దాదాపు 4.7 శాతాన్ని ఆక్రమించింది.",
+    "en": "Cotton is a major fibre crop that accounts for about 4.7 per cent of the total cropped area in India."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T25-0042",
+   "section": {
+    "te": "Arthashastra rainy season",
+    "en": "Arthashastra rainy season"
+   },
+   "q": {
+    "te": "అర్థశాస్త్రం ప్రకారం, మంచి వర్షాకాలం యొక్క ప్రారంభాన్ని (జూలై-ఆగస్టు) సూచించే మాసం ఏది?",
+    "en": "According to the Arthaśāstra, which month marks the beginning (July-August) of a good rainy season?"
+   },
+   "options": {
+    "te": [
+     "ఆశ్వయుజ",
+     "ప్రౌష్ఠపద",
+     "కార్తీక",
+     "శ్రావణ"
+    ],
+    "en": [
+     "Āśhvayuja",
+     "Prauṣhṭhapada",
+     "Kārtika",
+     "Śrāvaṇa"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అర్థశాస్త్రం ప్రకారం మంచి వర్షాకాలం ప్రారంభం శ్రావణ మాసంలో (జూలై-ఆగస్టు) జరుగుతుంది.",
+    "en": "The Arthaśāstra identifies Śrāvaṇa (July-August) as the beginning of a good rainy season."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T25-0279",
+   "section": {
+    "te": "Dryland Farming Rainfall",
+    "en": "Dryland Farming Rainfall"
+   },
+   "q": {
+    "te": "భారతదేశంలో, మెట్ట వ్యవసాయం (dryland farming) ప్రధానంగా ఎంతకంటే తక్కువ వార్షిక వర్షపాతం ఉన్న ప్రాంతాలకు పరిమితమై ఉంటుంది?",
+    "en": "In India, dryland farming is primarily restricted to regions with an annual rainfall of less than:"
+   },
+   "options": {
+    "te": [
+     "150 సెం.మీ",
+     "75 సెం.మీ",
+     "100 సెం.మీ",
+     "50 సెం.మీ"
+    ],
+    "en": [
+     "150 cm",
+     "75 cm",
+     "100 cm",
+     "50 cm"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారతదేశంలో వార్షిక వర్షపాతం 75 సెం.మీ కంటే తక్కువగా ఉన్న ప్రాంతాల్లో మెట్ట వ్యవసాయం చేస్తారు, ఇక్కడ కరువును తట్టుకునే పంటలపై దృష్టి పెడతారు.",
+    "en": "Dryland farming in India is practiced in regions where the annual rainfall is less than 75 cm, focusing on drought-resistant crops."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T25-0008",
+   "section": {
+    "te": "Allied Agricultural Activities",
+    "en": "Allied Agricultural Activities"
+   },
+   "q": {
+    "te": "భారత ప్రభుత్వం 'వ్యవసాయం మరియు అనుబంధ కార్యకలాపాల' కింద కింది వాటిలో ఏ కార్యకలాపాలను వర్గీకరించింది?\n1. తేనెటీగల పెంపకం (Apiculture)\n2. మత్స్య పరిశ్రమ (Fisheries)\n3. పట్టు పురుగుల పెంపకం\n4. పత్తి మరియు జనపనార వంటి పీచు ఉత్పత్తి",
+    "en": "Which of the following activities are classified under 'agriculture and allied activities' by the Government of India?\n1. Apiculture\n2. Fisheries\n3. Rearing of silkworms\n4. Fibre production like cotton and hemp"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "1, 2 మరియు 3 మాత్రమే",
+     "2, 3 మరియు 4 మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "1 and 2 only",
+     "1, 2 and 3 only",
+     "2, 3 and 4 only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారత ప్రభుత్వం వ్యవసాయం, పశుసంవర్ధకం, తేనెటీగల పెంపకం, మత్స్య పరిశ్రమ, పట్టు పురుగుల పెంపకం మరియు పీచు ఉత్పత్తిని 'వ్యవసాయం మరియు అనుబంధ కార్యకలాపాల' కింద చేర్చింది.",
+    "en": "The Government of India includes agriculture, livestock, apiculture, fisheries, sericulture, and fibre production under 'agriculture and allied activities'."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T25-0155",
+   "section": {
+    "te": "Maize soil and temperature",
+    "en": "Maize soil and temperature"
+   },
+   "q": {
+    "te": "పాత ఒండ్రు నేలల్లో (Old alluvial soil) బాగా పెరుగుతూ, 21°C నుండి 27°C మధ్య ఉష్ణోగ్రత అవసరమయ్యే పంట ఏది?",
+    "en": "Which crop grows well in old alluvial soil and requires a temperature between 21°C to 27°C?"
+   },
+   "options": {
+    "te": [
+     "గోధుమ",
+     "జొన్నలు",
+     "మొక్కజొన్న",
+     "సజ్జలు"
+    ],
+    "en": [
+     "Wheat",
+     "Jowar",
+     "Maize",
+     "Bajra"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మొక్కజొన్న ఒక ఖరీఫ్ పంట, దీనికి 21°C నుండి 27°C ఉష్ణోగ్రత అవసరం మరియు ఇది పాత ఒండ్రు నేలల్లో బాగా పెరుగుతుంది.",
+    "en": "Maize is a kharif crop that specifically requires a temperature range of 21°C to 27°C and thrives in old alluvial soil."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T25-0002",
+   "section": {
+    "te": "Agricultural Workforce",
+    "en": "Agricultural Workforce"
+   },
+   "q": {
+    "te": "2022-2023 గణాంకాల ప్రకారం, భారతదేశంలోని శ్రామిక జనాభాలో ఎంత శాతం మంది వ్యవసాయం మరియు దాని అనుబంధ రంగాలలో నిమగ్నమై ఉన్నారు?",
+    "en": "According to the 2022-2023 data, what percentage of India's working population is engaged in agriculture and allied activities?"
+   },
+   "options": {
+    "te": [
+     "18 శాతం",
+     "75 శాతం",
+     "46 శాతం",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "18 per cent",
+     "75 per cent",
+     "46 per cent",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఆధారం ప్రకారం, భారతదేశంలోని శ్రామిక జనాభాలో సుమారు 46 శాతం మంది తమ జీవనోపాధి కోసం వ్యవసాయం మరియు అనుబంధ రంగాలపై ఆధారపడుతున్నారు.",
+    "en": "Approximately 46 per cent of the working population in India depends on agriculture and allied sectors for their livelihood."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T25-0044",
+   "section": {
+    "te": "Rain-fed farming adaptations",
+    "en": "Rain-fed farming adaptations"
+   },
+   "q": {
+    "te": "కరవు మరియు అనిశ్చిత రుతుపవనాల సవాళ్లను ఎదుర్కోవడానికి, వర్షాధార రైతులు క్రింది ఏ అనుకూలతలను అలవరచుకుంటారు?",
+    "en": "To cope with droughts and unpredictable monsoons, rain-fed farmers develop which of the following adaptations?"
+   },
+   "options": {
+    "te": [
+     "కరవును తట్టుకునే పంటలను ఎంచుకోవడం",
+     "సాంప్రదాయ నీటి సంరక్షణ పద్ధతులను ఉపయోగించడం",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Choosing drought-resistant crops",
+     "Utilising traditional water-harvesting techniques",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వర్షాధార రైతులు కరవును తట్టుకునే పంటలను ఎంచుకోవడం మరియు సాంప్రదాయ నీటి సంరక్షణ పద్ధతులను ఉపయోగించడం ద్వారా సవాళ్లను అధిగమిస్తారు.",
+    "en": "Rain-fed farmers adapt to challenges by choosing drought-resistant crops and utilising traditional water-harvesting techniques."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T25-0251",
+   "section": {
+    "te": "Declining land-use categories",
+    "en": "Declining land-use categories"
+   },
+   "q": {
+    "te": "1950–51 మరియు 2019–20 మధ్య కాలంలో క్రింది భూవినియోగ విభాగాలలో ఏవి తగ్గుముఖం పట్టాయి?",
+    "en": "Which of the following land-use categories registered a decline between 1950–51 and 2019–20?"
+   },
+   "options": {
+    "te": [
+     "సాగుయోగ్యమైన బంజరు భూమి",
+     "బంజరు మరియు వ్యర్థ భూమి",
+     "తోట పంటలు మరియు తోపుల కింద ఉన్న భూమి",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Culturable wasteland",
+     "Barren and wasteland",
+     "Area under tree crops and groves",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "బంజరు మరియు వ్యర్థ భూమి, సాగుయోగ్యమైన బంజరు భూమి, తోట పంటలు/తోపుల కింద ఉన్న భూమి మరియు ఇతర బీడు భూములు ఈ కాలంలో తగ్గుముఖం పట్టాయి.",
+    "en": "The text lists barren and wasteland, culturable wasteland, area under tree crops and groves, and fallow other than current fallow as the four declining categories."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T25-0162",
+   "section": {
+    "te": "Rubber climatic requirements",
+    "en": "Rubber climatic requirements"
+   },
+   "q": {
+    "te": "రబ్బరు సాగుకు ఈ క్రింది ఏ శీతోష్ణస్థితి పరిస్థితులు అవసరం?",
+    "en": "Which of the following climatic conditions are essential for the cultivation of rubber?"
+   },
+   "options": {
+    "te": [
+     "100 సెం.మీ కంటే తక్కువ వర్షపాతం మరియు 30°C కంటే ఎక్కువ ఉష్ణోగ్రత",
+     "200 సెం.మీ కంటే ఎక్కువ వర్షపాతం మరియు 25°C కంటే ఎక్కువ ఉష్ణోగ్రత",
+     "50-75 సెం.మీ మధ్య వర్షపాతం మరియు 20°C కంటే తక్కువ ఉష్ణోగ్రత",
+     "150 సెం.మీ కంటే ఎక్కువ వర్షపాతం మరియు 15°C-20°C మధ్య ఉష్ణోగ్రత"
+    ],
+    "en": [
+     "Rainfall below 100 cm and temperature above 30°C",
+     "Rainfall more than 200 cm and temperature above 25°C",
+     "Rainfall between 50-75 cm and temperature below 20°C",
+     "Rainfall more than 150 cm and temperature between 15°C-20°C"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "రబ్బరు ఒక భూమధ్యరేఖా పంట, దీనికి 200 సెం.మీ కంటే ఎక్కువ వర్షపాతం మరియు 25°C కంటే ఎక్కువ ఉష్ణోగ్రతతో కూడిన తేమ మరియు ఆర్ద్రత కలిగిన శీతోష్ణస్థితి అవసరం.",
+    "en": "Rubber is an equatorial crop that requires a moist and humid climate with over 200 cm of rainfall and temperatures exceeding 25°C."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T25-0097",
+   "section": {
+    "te": "Income growth in Sikkim",
+    "en": "Income growth in Sikkim"
+   },
+   "q": {
+    "te": "సిక్కిం 100 శాతం సేంద్రీయ రాష్ట్రంగా మారిన తర్వాత, అక్కడి రైతుల ఆదాయం సగటున ఎంత శాతం పెరిగింది?",
+    "en": "Following Sikkim's transition to a certified 100 per cent organic state, by what average percentage did farmers' incomes grow?"
+   },
+   "options": {
+    "te": [
+     "35 శాతం",
+     "10 శాతం",
+     "50 శాతం",
+     "20 శాతం"
+    ],
+    "en": [
+     "35 per cent",
+     "10 per cent",
+     "50 per cent",
+     "20 per cent"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సేంద్రీయ వ్యవసాయ పద్ధతులకు మారిన తర్వాత సిక్కిం రైతుల ఆదాయం సగటున 20 శాతం పెరిగిందని పాఠ్యాంశం తెలుపుతోంది.",
+    "en": "The case study notes that after transitioning to an organic model, farmers' incomes in Sikkim grew by 20 per cent on average."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T25-0309",
+   "section": {
+    "te": "Cotton Types in India",
+    "en": "Cotton Types in India"
+   },
+   "q": {
+    "te": "భారతదేశంలోని వాయువ్య ప్రాంతాలలో పొడవైన పోగు కలిగిన అమెరికన్ పత్తిని ఏ పేరుతో పిలుస్తారు?",
+    "en": "What is the long-staple American cotton called in the north-western parts of India?"
+   },
+   "options": {
+    "te": [
+     "తారామిరా",
+     "నర్మా",
+     "తోరియా",
+     "సర్సన్"
+    ],
+    "en": [
+     "Taramira",
+     "Narma",
+     "Toria",
+     "Sarson"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారతదేశంలోని వాయువ్య ప్రాంతాలలో పొడవైన పోగు కలిగిన (అమెరికన్) పత్తిని 'నర్మా' అని పిలుస్తారు.",
+    "en": "In the north-western parts of India, long staple (American) cotton is known as 'narma'."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T25-0223",
+   "section": {
+    "te": "Mixed Farming Features",
+    "en": "Mixed Farming Features"
+   },
+   "q": {
+    "te": "మిశ్రమ వ్యవసాయానికి (Mixed farming) సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. పంటల సాగు మరియు పశుపోషణ రెండింటికీ సమాన ప్రాధాన్యత ఇవ్వబడుతుంది.\n2. నేల సారాన్ని కాపాడటంలో పంట మార్పిడి మరియు అంతర పంటల సాగు కీలక పాత్ర పోషిస్తాయి.\n3. పశుగ్రాస పంటలు ఈ వ్యవసాయంలో ఒక ముఖ్యమైన భాగం.\nపై ప్రకటనలలో సరైనవి ఏవి?",
+    "en": "Consider the following statements regarding mixed farming:\n1. Equal emphasis is laid on crop cultivation and animal husbandry.\n2. Crop rotation and intercropping play an important role in maintaining soil fertility.\n3. Fodder crops are an important component of this farming.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1, 2 and 3",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మిశ్రమ వ్యవసాయంలో పంటల సాగుతో పాటు పశుపోషణకు సమాన ప్రాధాన్యత ఉంటుంది, నేల సారవంతతకు పంట మార్పిడి తోడ్పడుతుంది మరియు పశుగ్రాస పంటలు ముఖ్యమైన భాగంగా ఉంటాయి.",
+    "en": "In mixed farming, equal emphasis is laid on crops and livestock, fodder crops are an important component, and crop rotation and intercropping maintain soil fertility."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T25-0172",
+   "section": {
+    "te": "Linseed cropping season",
+    "en": "Linseed cropping season"
+   },
+   "q": {
+    "te": "అవిసెలు (Linseed) పండే సీజన్ ఆధారంగా ఏ రకమైన పంటగా వర్గీకరించబడ్డాయి?",
+    "en": "Linseed is classified as which type of crop based on its growing season?"
+   },
+   "options": {
+    "te": [
+     "భూమధ్యరేఖా పంట",
+     "ఖరీఫ్",
+     "రబీ",
+     "జైద్"
+    ],
+    "en": [
+     "Equatorial",
+     "Kharif",
+     "Rabi",
+     "Zaid"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, అవిసెలు మరియు ఆవాలు ప్రత్యేకంగా రబీ పంటలుగా వర్గీకరించబడ్డాయి.",
+    "en": "Linseed and mustard are specifically categorized as rabi crops."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T25-0141",
+   "section": {
+    "te": "Rice Growing Regions",
+    "en": "Rice Growing Regions"
+   },
+   "q": {
+    "te": "ముఖ్యమైన వరి పండించే ప్రాంతమైన కొంకణ్ తీరం ఏ రాష్ట్రంలో ఉంది?",
+    "en": "The Konkan coast, which is an important rice-growing region, is located in which state?"
+   },
+   "options": {
+    "te": [
+     "కేరళ",
+     "ఒడిశా",
+     "మహారాష్ట్ర",
+     "పశ్చిమ బెంగాల్"
+    ],
+    "en": [
+     "Kerala",
+     "Odisha",
+     "Maharashtra",
+     "West Bengal"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మహారాష్ట్రలోని కొంకణ్ తీరాన్ని ముఖ్యమైన వరి పండించే ప్రాంతాలలో ఒకటిగా పాఠ్యభాగం పేర్కొంది.",
+    "en": "The Konkan coast of Maharashtra as one of the important rice-growing regions."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T25-0003",
+   "section": {
+    "te": "Women in Agriculture",
+    "en": "Women in Agriculture"
+   },
+   "q": {
+    "te": "గ్రామీణ భారతదేశంలో, వ్యవసాయ రంగంలో పనిచేసే వారిలో మహిళల శాతం ఎంత?",
+    "en": "In rural India, what percentage of the workforce in the agriculture sector consists of women?"
+   },
+   "options": {
+    "te": [
+     "సుమారు 46 శాతం",
+     "ఖచ్చితంగా 50 శాతం",
+     "75 శాతం కంటే ఎక్కువ",
+     "25 శాతం కంటే తక్కువ"
+    ],
+    "en": [
+     "Approximately 46 per cent",
+     "Exactly 50 per cent",
+     "More than 75 per cent",
+     "Less than 25 per cent"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతదేశంలోని గ్రామీణ ప్రాంతాల్లో, వ్యవసాయ శ్రామిక శక్తిలో మహిళలు 75 శాతం కంటే ఎక్కువగా ఉన్నారు.",
+    "en": "In rural areas of India, women constitute more than 75 per cent of the agricultural workforce."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T25-0036",
+   "section": {
+    "te": "Sindhu-Sarasvati animal domestication",
+    "en": "Sindhu-Sarasvati animal domestication"
+   },
+   "q": {
+    "te": "సింధు-సరస్వతి నాగరికత యొక్క ఏ దశ నుండి పశువులు, గాడిదలు, గొర్రెలు, మేకలు, కుక్కలు, పందులు మరియు కోళ్లు వంటి జంతువులు మచ్చిక చేయబడ్డాయి?",
+    "en": "Cattle, asses, sheep, goats, dogs, pigs, and fowl were domesticated in India starting from which period of the Sindhu-Sarasvatī civilisation?"
+   },
+   "options": {
+    "te": [
+     "పట్టణ పూర్వ దశ (సుమారు క్రీ.పూ. 3500)",
+     "మలి దశ (సుమారు క్రీ.పూ. 1900)",
+     "పరిణతి చెందిన పట్టణ దశ (సుమారు క్రీ.పూ. 2600)",
+     "పట్టణానంతర దశ (సుమారు క్రీ.పూ. 1500)"
+    ],
+    "en": [
+     "Pre-urban phase (c. 3500 BCE)",
+     "Late phase (c. 1900 BCE)",
+     "Mature urban phase (c. 2600 BCE)",
+     "Post-urban phase (c. 1500 BCE)"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సింధు-సరస్వతి నాగరికత యొక్క పట్టణ పూర్వ దశ (సుమారు క్రీ.పూ. 3500) నుండే పశువులు, గొర్రెలు, మేకలు తదితర జంతువులను మచ్చిక చేసుకున్నారు.",
+    "en": "Domestication of animals occurred from the pre-urban phase of the Sindhu-Sarasvatī civilisation (c. 3500 BCE)."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T25-0182",
+   "section": {
+    "te": "Institutional Reforms",
+    "en": "Institutional Reforms"
+   },
+   "q": {
+    "te": "ఈ క్రింది చర్యలను పరిశీలించండి:\n1. సామూహికీకరణ (Collectivisation)\n2. కమతాల ఏకీకరణ (Consolidation of holdings)\n3. జమీందారీ వ్యవస్థ రద్దు\nస్వాతంత్ర్యం తర్వాత భారతదేశంలో వీటిలో ఏవి సంస్థాగత సంస్కరణలుగా ప్రాధాన్యత ఇవ్వబడ్డాయి?",
+    "en": "Consider the following measures:\n1. Collectivisation\n2. Consolidation of holdings\n3. Abolition of zamindari\nWhich of the above were given priority as institutional reforms in India after Independence?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "స్వాతంత్ర్యం తర్వాత, సామూహికీకరణ, కమతాల ఏకీకరణ, సహకారం మరియు జమీందారీ వ్యవస్థ రద్దు వంటి వాటిని కీలక సంస్థాగత సంస్కరణలుగా ప్రభుత్వం ప్రాధాన్యత ఇచ్చింది.",
+    "en": "After independence, the government prioritized collectivisation, consolidation of holdings, cooperation, and the abolition of the zamindari system as key institutional reforms."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T25-0313",
+   "section": {
+    "te": "Cotton Yield Maharashtra",
+    "en": "Cotton Yield Maharashtra"
+   },
+   "q": {
+    "te": "వాయువ్య ప్రాంతంతో పోలిస్తే మహారాష్ట్రలో పత్తి దిగుబడి చాలా తక్కువగా ఉండటానికి కారణం ఏమిటి?",
+    "en": "Why is the yield of cotton very low in Maharashtra compared to the north-western region?"
+   },
+   "options": {
+    "te": [
+     "ఇది వర్షాధార పరిస్థితులలో సాగు చేయబడుతుంది కాబట్టి",
+     "విపరీతమైన శీతాకాలపు మంచు కారణంగా",
+     "తరచుగా వచ్చే వరదల కారణంగా",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Because it is grown under rainfed conditions",
+     "Due to excessive winter frost",
+     "Due to frequent flooding",
+     "None of these"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వాయువ్య ప్రాంతంలో నీటిపారుదల కింద పత్తి దిగుబడి ఎక్కువగా ఉండగా, మహారాష్ట్రలో వర్షాధార పరిస్థితులలో సాగు చేయడం వల్ల దీని దిగుబడి చాలా తక్కువగా ఉంటుంది.",
+    "en": "While cotton yields are high under irrigation in the north-western region, its yield is very low in Maharashtra because it is cultivated under rainfed conditions."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T25-0277",
+   "section": {
+    "te": "Agricultural Technology",
+    "en": "Agricultural Technology"
+   },
+   "q": {
+    "te": "నిశ్చయం (A): భూ వినియోగ తీవ్రతను పెంచడం భారతదేశానికి ఆవశ్యకమైన భూమిని ఆదా చేసే సాంకేతికత.\nకారణం (R): ఇది యూనిట్ విస్తీర్ణంలో మొత్తం ఉత్పత్తిని పెంచుతుంది మరియు శ్రమకు డిమాండ్‌ను గణనీయంగా పెంచుతుంది.",
+    "en": "Assertion (A): Increasing land-use intensity is a desirable land-saving technology for India.\nReason (R): It increases the total output per unit area and significantly increases the demand for labour."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ సరైనవి మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ సరైనవి కానీ A కి R సరైన వివరణ కాదు",
+     "A సరైనది కానీ R తప్పు",
+     "A తప్పు కానీ R సరైనది"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూ వినియోగ తీవ్రతను పెంచడం వల్ల ఉత్పత్తి మరియు శ్రమకు డిమాండ్ పెరుగుతుందని, ఇది భారతదేశం వంటి శ్రమ అధికంగా ఉన్న దేశానికి చాలా ముఖ్యమని పాఠ్య భాగం పేర్కొంది.",
+    "en": "Increasing land-use intensity is desirable because it increases output and labour demand, which is crucial for a labour-abundant country like India."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T25-0239",
+   "section": {
+    "te": "Tree Crops and Groves",
+    "en": "Tree Crops and Groves"
+   },
+   "q": {
+    "te": "పండ్ల తోటలు మరియు చెట్ల క్రింద ఉండి, 'నికర సాగు విస్తీర్ణం' (Net Sown Area) లో చేర్చబడని భూవినియోగ వర్గం ఏది?",
+    "en": "Which of the following land-use categories includes land under orchards and fruit trees, and is explicitly NOT included in the Net Sown Area?"
+   },
+   "options": {
+    "te": [
+     "ప్రస్తుత బీడు కాకుండా ఇతర బీడు భూమి",
+     "వివిధ రకాల చెట్ల పంటలు మరియు తోటల క్రింద ఉన్న భూమి",
+     "శాశ్వత పచ్చిక బయళ్ళు మరియు మేత భూములు",
+     "సాగుయోగ్యమైన వ్యర్థ భూమి"
+    ],
+    "en": [
+     "Fallow other than Current Fallow",
+     "Area under Miscellaneous Tree Crops and Groves",
+     "Permanent Pastures and Grazing Lands",
+     "Culturable Wasteland"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పండ్ల తోటలు మొదలైనవి 'వివిధ రకాల చెట్ల పంటలు మరియు తోటల క్రింద ఉన్న భూమి' వర్గంలోకి వస్తాయి, దీనిని నికర సాగు విస్తీర్ణంలో చేర్చరు.",
+    "en": "Land under orchards and fruit trees is included under 'Area under Miscellaneous Tree Crops and Groves', which is not included in the net sown area."
+   }
+  }
+ ]
+}

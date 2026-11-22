@@ -1,0 +1,942 @@
+{
+ "id": "geo-04-g1-5",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Landforms – క్విజ్ 5",
+  "en": "Landforms – Quiz 5"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T04-0202",
+   "section": {
+    "te": "Uvalas formation",
+    "en": "Uvalas formation"
+   },
+   "q": {
+    "te": "అంచుల వెంబడి పదార్థాలు జారడం లేదా గుహ పైకప్పులు కూలిపోవడం వల్ల సింక్‌హోల్‌లు, డోలైన్‌లు కలిసి ఏర్పడే పొడవైన కందకాలను ఏమంటారు?",
+    "en": "When sinkholes and dolines merge due to the slumping of materials along their margins or cave roof collapse, the resulting long trenches are known as:"
+   },
+   "options": {
+    "te": [
+     "వ్యాలీ సింక్‌లు లేదా ఉవాలాలు (Valley sinks or Uvalas)",
+     "సర్క్‌లు (Cirques)",
+     "లాపీస్ (Lapies)",
+     "సొరంగాలు (Tunnels)"
+    ],
+    "en": [
+     "Valley sinks or Uvalas",
+     "Cirques",
+     "Lapies",
+     "Tunnels"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సింక్‌హోల్‌లు మరియు డోలైన్‌లు కలిసి ఏర్పడే పొడవైన, ఇరుకైన లేదా వెడల్పైన కందకాలను వ్యాలీ సింక్‌లు లేదా ఉవాలాలు అంటారు.",
+    "en": "When sinkholes and dolines join together due to material slumping or roof collapse, long trenches called valley sinks or Uvalas are formed."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T04-0032",
+   "section": {
+    "te": "Definition of Sediments",
+    "en": "Definition of Sediments"
+   },
+   "q": {
+    "te": "నదులు పర్వతాల నుండి మోసుకొచ్చి మైదానాలలో నిక్షేపించే రాతి కణాలు, ఇసుక మరియు ఒండ్రు మట్టిని ఏమని పిలుస్తారు?",
+    "en": "Particles of rock, sand, and silt carried by rivers from mountain ranges and deposited in plains are called:"
+   },
+   "options": {
+    "te": [
+     "శిలాద్రవం (Magma)",
+     "మొరైన్లు",
+     "అవక్షేపాలు (Sediments)",
+     "పునాది రాయి (Bedrock)"
+    ],
+    "en": [
+     "Magma",
+     "Moraines",
+     "Sediments",
+     "Bedrock"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పర్వత ప్రాంతాలలో నదులు సేకరించే రాతి కణాలు, ఇసుక మరియు ఒండ్రును 'అవక్షేపాలు' (sediments) అంటారు.",
+    "en": "Rivers originating in mountain ranges collect particles of rock, sand, and silt, which are termed 'sediments'."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T04-0200",
+   "section": {
+    "te": "Precipitation of calcium carbonate",
+    "en": "Precipitation of calcium carbonate"
+   },
+   "q": {
+    "te": "సున్నపురాతి గుహలలో, ద్రావణ రూపంలో కాల్షియం కార్బోనేట్‌ను మోసుకెళ్లే నీరు క్రింది ఏ పరిస్థితులలో దానిని నిక్షేపిస్తుంది?\n(A) నీరు ఆవిరైపోయినప్పుడు\n(B) గరుకైన రాతి ఉపరితలాలపై ప్రవహిస్తూ కార్బన్ డయాక్సైడ్‌ను కోల్పోయినప్పుడు",
+    "en": "Inside limestone caves, calcium carbonate is deposited when the water carrying it in solution:\n(A) Evaporates\n(B) Loses its carbon dioxide as it trickles over rough surfaces"
+   },
+   "options": {
+    "te": [
+     "A మాత్రమే",
+     "B మాత్రమే",
+     "Both A and B",
+     "None of these"
+    ],
+    "en": [
+     "A only",
+     "B only",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కాల్షియం కార్బోనేట్ కలిగిన నీరు ఆవిరైనప్పుడు లేదా గరుకు రాళ్లపై ప్రవహిస్తూ కార్బన్ డయాక్సైడ్‌ను కోల్పోయినప్పుడు అది నిక్షేపించబడుతుంది.",
+    "en": "Calcium carbonate precipitates and deposits when the solvent water evaporates or when it loses carbon dioxide while trickling over rough surfaces."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T04-0251",
+   "section": {
+    "te": "Desert Mass Erosion",
+    "en": "Desert Mass Erosion"
+   },
+   "q": {
+    "te": "ఎడారి ప్రాంతాలలో గాలి సూక్ష్మ పదార్థాలను తరలించగా, సాధారణ ద్రవ్యరాశి క్రమక్షయం (mass erosion) ప్రధానంగా వేటి ద్వారా జరుగుతుంది?",
+    "en": "In desert regions, while wind moves fine materials, general mass erosion is accomplished mainly through:"
+   },
+   "options": {
+    "te": [
+     "షీట్ ఫ్లడ్స్ (పొర వరదలు)",
+     "షీట్ వాష్ (ఉపరితల ప్రవాహం)",
+     "A మరియు B రెండూ",
+     "లోతైన భూగర్భ నీటి మార్గాలు"
+    ],
+    "en": [
+     "Sheet floods",
+     "Sheet wash",
+     "Both A and B",
+     "Deep underground water channels"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఎడారులలో గాలి సూక్ష్మ కణాలను మోసుకెళ్తుంది, అయితే మొత్తం భారీ క్రమక్షయం ప్రధానంగా షీట్ ఫ్లడ్స్ లేదా షీట్ వాష్ ద్వారా జరుగుతుంది.",
+    "en": "Wind moves fine materials and general mass erosion in deserts is accomplished mainly through sheet floods or sheet wash."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T04-0206",
+   "section": {
+    "te": "Stalactites characteristics",
+    "en": "Stalactites characteristics"
+   },
+   "q": {
+    "te": "స్టాలక్టైట్‌ల (stalactites) కు సంబంధించి క్రింది వాటిలో సరైన ప్రకటన ఏది/వి?",
+    "en": "Which of the following statements is/are correct regarding stalactites?"
+   },
+   "options": {
+    "te": [
+     "ఇవి వివిధ వ్యాసాలు కలిగిన మంచు గడ్డల (icicles) వలె వేలాడుతాయి",
+     "సాధారణంగా ఇవి తమ ఆధారం వద్ద వెడల్పుగా ఉండి, కొన వైపు సన్నగా మారుతాయి",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "They hang as icicles of different diameters",
+     "They are normally broad at their bases and taper towards the free ends",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "స్టాలక్టైట్‌లు గుహ పైకప్పు నుండి వేలాడుతూ ఆధారం వద్ద వెడల్పుగా, కొనల వైపు సన్నగా ఉంటాయి. కాబట్టి A మరియు B రెండూ సరైనవే.",
+    "en": "Both statements are correct: stalactites hang as icicles of different diameters, and they are broad at their bases and taper towards their free ends."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T04-0084",
+   "section": {
+    "te": "Aretes Landforms",
+    "en": "Aretes Landforms"
+   },
+   "q": {
+    "te": "లోయల మధ్య ఏర్పడే పదునైన శిఖరపు అంచులను (రిడ్జ్‌లను) ఏ హిమానీనద భూస్వరూపంగా పేర్కొంటారు?",
+    "en": "Which of the following glacial landforms is defined as sharp ridges formed between valleys?"
+   },
+   "options": {
+    "te": [
+     "సర్క్‌లు",
+     "వేలాడే లోయలు",
+     "మొరైన్‌లు",
+     "అరెట్‌లు (Aretes)"
+    ],
+    "en": [
+     "Cirques",
+     "Hanging valleys",
+     "Moraines",
+     "Aretes"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "హిమానీనదాల కోత చర్య వల్ల లోయల మధ్య ఏర్పడే పదునైన అంచులను అరెట్‌లు అంటారు.",
+    "en": "Aretes are sharp ridges formed between valleys due to glacial erosion."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T04-0063",
+   "section": {
+    "te": "Divergent Boundaries",
+    "en": "Divergent Boundaries"
+   },
+   "q": {
+    "te": "అపసరణ సరిహద్దు (divergent boundary) వద్ద మాగ్మా పైకి వచ్చి కొత్త భూపటలాన్ని ఏర్పరిచినప్పుడు సాధారణంగా ఏ భౌగోళిక స్వరూపం ఏర్పడుతుంది?",
+    "en": "What geological feature is typically created at a divergent boundary where magma rises to form new crust?"
+   },
+   "options": {
+    "te": [
+     "లోతైన సముద్ర అగాధాలు",
+     "ముడత పర్వతాలు",
+     "తీరప్రాంత శిఖరాలు",
+     "మధ్య మహాసముద్ర గట్లు (Mid-ocean ridges)"
+    ],
+    "en": [
+     "Deep sea trenches",
+     "Fold mountains",
+     "Coastal cliffs",
+     "Mid-ocean ridges"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అపసరణ సరిహద్దుల వద్ద, ఫలకలు విడిపోతాయి, దీనివల్ల మాగ్మా పైకి వచ్చి కొత్త భూపటలాన్ని ఏర్పరుస్తుంది, ఇది మధ్య మహాసముద్ర గట్లను సృష్టిస్తుంది.",
+    "en": "At divergent boundaries, plates move apart, allowing magma to rise and form new crust, which creates mid-ocean ridges."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T04-0285",
+   "section": {
+    "te": "Shear Stresses",
+    "en": "Shear Stresses"
+   },
+   "q": {
+    "te": "భూమిలోని పదార్థాల ముఖాల వెంట పనిచేసే శక్తులను, వీటిని వేరు చేసే శక్తులు (separating forces) అని కూడా పిలుస్తారు, ఏమంటారు?",
+    "en": "What are the forces acting along the faces of earth materials, also known as separating forces, called?"
+   },
+   "options": {
+    "te": [
+     "గురుత్వాకర్షణ ప్రవణతలు (Gravitational gradients)",
+     "అణు ఒత్తిళ్లు (Molecular stresses)",
+     "టెక్టోనిక్ ఒత్తిళ్లు (Tectonic stresses)",
+     "విరూపణ ఒత్తిళ్లు (Shear stresses)"
+    ],
+    "en": [
+     "Gravitational gradients",
+     "Molecular stresses",
+     "Tectonic stresses",
+     "Shear stresses"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "విరూపణ ఒత్తిళ్లు (Shear stresses) అనేవి భూమిలోని పదార్థాల ముఖాల వెంట పనిచేసే వేరు చేసే శక్తులు, ఇవి రాళ్ల జారడం లేదా విచ్ఛిన్నానికి దారితీస్తాయి.",
+    "en": "Shear stresses are the separating forces that act along the faces of earth materials and result in slippage or breaking of rocks."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T04-0294",
+   "section": {
+    "te": "Gravity and Mobility",
+    "en": "Gravity and Mobility"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): గురుత్వాకర్షణ మరియు ప్రవణతలు లేకుండా, క్రమక్షయం, రవాణా మరియు నిక్షేపణ సాధ్యం కాదు.\nకారణం (R): భూమిపై ఉన్న అన్ని ఉపరితల పదార్థాల కదలికను ప్రారంభించే శక్తి గురుత్వాకర్షణ.",
+    "en": "Assertion (A): Without gravity and gradients, no erosion, transportation, and deposition are possible.\nReason (R): Gravity is the force that switches on the movement of all surface material on earth."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "గురుత్వాకర్షణ శక్తిని అందిస్తుంది మరియు ప్రవణతలు కదలికకు మార్గాన్ని అందిస్తాయి; అవి లేకుండా, ఉపరితల పదార్థాల కదలిక (క్రమక్షయం/రవాణా) జరగదు.",
+    "en": "Gravity provides the force and gradients provide the path for mobility; without them, the movement of surface material (erosion/transportation) cannot occur."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T04-0271",
+   "section": {
+    "te": "Dune stabilization",
+    "en": "Dune stabilization"
+   },
+   "q": {
+    "te": "ఎడారులలోని కొన్ని ఇసుక దిబ్బలు సాధారణంగా ఎక్కడ స్థిరపడతాయి?",
+    "en": "Where do a few sand dunes in deserts typically get stabilized?"
+   },
+   "options": {
+    "te": [
+     "పర్వత ముఖభాగాల దగ్గర",
+     "మానవ నివాసాల దగ్గర",
+     "ఇన్సెల్ బర్గ్స్ పైన",
+     "ప్లాయాస్ మధ్యలో"
+    ],
+    "en": [
+     "Near mountain fronts",
+     "Near human habitations",
+     "On top of inselbergs",
+     "In the middle of playas"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "చాలా దిబ్బలు కదులుతుంటాయి, కానీ కొన్ని మానవ నివాసాల దగ్గర స్థిరపడతాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "While most dunes shift, some get stabilized near human habitations."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T04-0301",
+   "section": {
+    "te": "Long-term Effects of Processes",
+    "en": "Long-term Effects of Processes"
+   },
+   "q": {
+    "te": "బహిర్జనిత భూస్వరూప ప్రక్రియలు చిన్నవి మరియు నెమ్మదిగా ఉన్నప్పటికీ, దీర్ఘకాలంలో శిలలను ఎందుకు తీవ్రంగా ప్రభావితం చేస్తాయి?",
+    "en": "Why do exogenic geomorphic processes affect rocks severely in the long run despite being small and slow?"
+   },
+   "options": {
+    "te": [
+     "అకస్మాత్తుగా జరిగే టెక్టోనిక్ మార్పుల వల్ల",
+     "నిరంతర అలసట (continued fatigue) వల్ల",
+     "అధిక గాలి వేగం వల్ల",
+     "వేగవంతమైన రసాయన చర్యల వల్ల"
+    ],
+    "en": [
+     "Due to sudden tectonic shifts",
+     "Due to continued fatigue",
+     "Due to high wind velocities",
+     "Because of rapid chemical reactions"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "బహిర్జనిత ప్రక్రియలు నెమ్మదిగా ఉన్నప్పటికీ, నిరంతర అలసట కారణంగా కాలక్రమేణా అవి శిలలను తీవ్రంగా ప్రభావితం చేస్తాయని పాఠ్యాంశం వివరిస్తుంది.",
+    "en": "Although exogenic processes are slow, they severely affect rocks over time due to continued fatigue."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T04-0198",
+   "section": {
+    "te": "Sinkhole shape",
+    "en": "Sinkhole shape"
+   },
+   "q": {
+    "te": "కార్స్ట్ ప్రాంతాలలో కనిపించే సింక్‌హోల్ (sinkhole) యొక్క సాధారణ ఆకృతి ఏమిటి?",
+    "en": "In karst areas, a sinkhole is typically characterised by being:"
+   },
+   "options": {
+    "te": [
+     "పైభాగంలో త్రిభుజాకారంగా మరియు అడుగుభాగంలో మెట్లలా ఉంటుంది",
+     "పైభాగంలో ఇరుకుగా మరియు దిగువన గుమ్మటంలా ఉంటుంది",
+     "పైభాగంలో దాదాపు వృత్తాకారంగా మరియు అడుగుభాగం వైపు గరాటు ఆకారంలో ఉంటుంది",
+     "పైభాగంలో చతురస్రాకారంగా మరియు దిగువన చదునుగా ఉంటుంది"
+    ],
+    "en": [
+     "Triangular at the top and step-like at the bottom",
+     "Narrow at the top and dome-shaped at the bottom",
+     "More or less circular at the top and funnel-shaped towards the bottom",
+     "Square at the top and flat at the bottom"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సింక్‌హోల్ పైభాగంలో దాదాపు వృత్తాకారంగా ఉంటూ, అడుగుభాగం వైపు గరాటు (funnel) ఆకారంలో విస్తరించి ఉంటుంది.",
+    "en": "A sinkhole is described as an opening that is more or less circular at the top and funnel-shaped towards the bottom."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T04-0248",
+   "section": {
+    "te": "Deflation",
+    "en": "Deflation"
+   },
+   "q": {
+    "te": "రాళ్ళ ఉపరితలం నుండి ధూళి మరియు చిన్న రేణువులను గాలి ద్వారా పైకి లేపి తొలగించడాన్ని ఏమంటారు?",
+    "en": "The lifting and removal of dust and smaller particles from the surface of rocks by wind is known as:"
+   },
+   "options": {
+    "te": [
+     "డిఫ్లేషన్ (ఎగురవేత)",
+     "అబ్రేషన్ (రాపిడి)",
+     "హైడ్రాలిక్ చర్య",
+     "అట్రిషన్ (ఘర్షణ)"
+    ],
+    "en": [
+     "Deflation",
+     "Abrasion",
+     "Hydraulic action",
+     "Attrition"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "రాళ్ళ ఉపరితలాల నుండి ధూళి మరియు చిన్న కణాలను గాలి పైకి లేపి తొలగించే ప్రక్రియను 'డిఫ్లేషన్' అంటారు.",
+    "en": "Deflation refers specifically to the lifting and removal of dust and smaller particles from rock surfaces by wind."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T04-0029",
+   "section": {
+    "te": "Waterfalls and Rivers Match",
+    "en": "Waterfalls and Rivers Match"
+   },
+   "q": {
+    "te": "క్రింది జలపాతాలను అవి ఉన్న నదులతో జతపరచండి:\n1. విక్టోరియా జలపాతం - i. శరావతి నది\n2. హుండ్రూ జలపాతం - ii. జాంబేజీ నది\n3. జోగ్ జలపాతం - iii. సువర్ణరేఖ నది\nసరైన కోడ్‌ను ఎంచుకోండి:",
+    "en": "Match the following waterfalls with the rivers on which they are located:\n1. Victoria Falls - i. Sharavati River\n2. Hundru Falls - ii. Zambezi River\n3. Jog Falls - iii. Subarnarekha River\nChoose the correct code:"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-iii, 3-i",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-i, 3-iii"
+    ],
+    "en": [
+     "1-ii, 2-iii, 3-i",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-i, 3-iii"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "విక్టోరియా జలపాతం జాంబేజీ నదిపై, హుండ్రూ జలపాతం సువర్ణరేఖ నదిపై మరియు జోగ్ జలపాతం శరావతి నదిపై ఉన్నాయి.",
+    "en": "Victoria Falls is on the Zambezi River, Hundru Falls is on the Subarnarekha River, and Jog Falls is on the Sharavati River."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T04-0077",
+   "section": {
+    "te": "Meander formation mechanism",
+    "en": "Meander formation mechanism"
+   },
+   "q": {
+    "te": "నది మలుపులు (meanders) ఏర్పడే ప్రక్రియలో, నది వంపుల వెంబడి ఎలాంటి కోత మరియు నిక్షేపణ చర్యలు జరుగుతాయి?",
+    "en": "During the formation of a river meander, what erosional and depositional actions take place along its bends?"
+   },
+   "options": {
+    "te": [
+     "బాహ్య ఒడ్డులపై కోత జరుగుతుంది మరియు అంతర్గత ఒడ్డులపై అవక్షేపాలు నిక్షిప్తమవుతాయి",
+     "బాహ్య ఒడ్డులపై అవక్షేపాలు నిక్షిప్తమవుతాయి మరియు అంతర్గత ఒడ్డులపై కోత జరుగుతుంది",
+     "అంతర్గత మరియు బాహ్య ఒడ్డులు రెండింటిపై సమానంగా కోత జరుగుతుంది",
+     "పార్శ్వ కోత లేకుండా రెండు ఒడ్డులపైనా నిక్షేపణ మాత్రమే జరుగుతుంది"
+    ],
+    "en": [
+     "Erosion occurs on the outer banks and sediment is deposited on the inner banks",
+     "Sediment is deposited on the outer banks and erosion occurs on the inner banks",
+     "Erosion occurs equally on both the inner and outer banks",
+     "Deposition occurs across both banks without any lateral erosion"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నది ప్రవహించేటప్పుడు వంపుల యొక్క బాహ్య ఒడ్డులను కోతకు గురిచేసి, అంతర్గత ఒడ్డులపై అవక్షేపాలను నిక్షిప్తం చేయడం ద్వారా పెద్ద మలుపులను ఏర్పరుస్తుంది.",
+    "en": "As a river meanders, it erodes the outer banks of bends and deposits sediments on the inner banks, forming broad loops."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T04-0171",
+   "section": {
+    "te": "Potholes formation",
+    "en": "Potholes formation"
+   },
+   "q": {
+    "te": "కొండ వాగుల రాతి నేలలపై రాతి శకలాల రాపిడి మరియు ప్రవాహ క్రమక్షయం వల్ల ఏర్పడే దాదాపు గుండ్రని గుంటలను ఏమంటారు?",
+    "en": "Over the rocky beds of hill-streams, circular depressions formed by stream erosion aided by the abrasion of rock fragments are called:"
+   },
+   "options": {
+    "te": [
+     "ప్లంజ్ పూల్స్",
+     "పోట్‌హోల్స్ (Potholes)",
+     "సింక్‌హోల్స్",
+     "స్టాలగ్మైట్లు"
+    ],
+    "en": [
+     "Plunge pools",
+     "Potholes",
+     "Sinkholes",
+     "Stalagmites"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కొండ వాగులలో రాతి శకలాలు తిరుగుతూ రాపిడి కలిగించడం వల్ల ఏర్పడే గుండ్రని గుంటలను పోట్‌హోల్స్ అంటారు.",
+    "en": "Potholes are circular depressions formed over rocky stream beds due to stream erosion aided by the abrasion of rock fragments."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T04-0111",
+   "section": {
+    "te": "Deccan Traps Feeders",
+    "en": "Deccan Traps Feeders"
+   },
+   "q": {
+    "te": "పశ్చిమ మహారాష్ట్ర ప్రాంతంలో దక్కన్ ట్రాప్స్ ఏర్పడటానికి దారితీసిన విస్ఫోటనాలకు ఫీడర్లుగా (feeders) పరిగణించబడే అంతర్గమ రూపాలు ఏవి?",
+    "en": "Which intrusive igneous structures found in western Maharashtra are considered to have acted as feeders for the eruptions that formed the Deccan traps?"
+   },
+   "options": {
+    "te": [
+     "డైక్స్ (Dykes)",
+     "సిల్స్ (Sills)",
+     "ఫాకోలిత్స్ (Phacoliths)",
+     "లాపోలిత్స్ (Lapoliths)"
+    ],
+    "en": [
+     "Dykes",
+     "Sills",
+     "Phacoliths",
+     "Lapoliths"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పశ్చిమ మహారాష్ట్రలోని డైక్స్‌లను దక్కన్ ట్రాప్స్ ఏర్పడటానికి లావాను అందించిన మూలాధారాలు లేదా ఫీడర్లుగా పరిగణిస్తారు.",
+    "en": "Dykes in western Maharashtra are considered the feeders for the volcanic eruptions that created the Deccan traps."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T04-0036",
+   "section": {
+    "te": "Sangam Poetry Tiṇais",
+    "en": "Sangam Poetry Tiṇais"
+   },
+   "q": {
+    "te": "పురాతన తమిళ సంగం కవిత్వంలో నిర్దిష్ట దేవతలు, జీవనశైలులు మరియు భావోద్వేగాలతో ముడిపడి ఉన్న ఐదు రకాల భూభాగాలను ఏమంటారు?",
+    "en": "In ancient Tamil Sangam poetry, what term is used for the five landscapes associated with specific deities, lifestyles, and moods?"
+   },
+   "options": {
+    "te": [
+     "జనపదాలు",
+     "తిణైలు (tiṇais)",
+     "నాడులు",
+     "మండలాలు"
+    ],
+    "en": [
+     "Janapadas",
+     "Tiṇais",
+     "Nadus",
+     "Mandalas"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రాచీన తమిళ సంగం కవిత్వంలోని ఐదు భూభాగాలను 'తిణైలు' (tiṇais) అని పిలుస్తారు.",
+    "en": "The five landscapes in ancient Tamil Sangam poetry are called 'tiṇais'."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T04-0118",
+   "section": {
+    "te": "Endogenic Energy Sources",
+    "en": "Endogenic Energy Sources"
+   },
+   "q": {
+    "te": "అంతర్జనిత భూస్వరూప ప్రక్రియలకు (endogenic geomorphic processes) ఈ క్రింది వాటిలో ఏవి శక్తి వనరులు?",
+    "en": "Which of the following are sources of energy for endogenic geomorphic processes?"
+   },
+   "options": {
+    "te": [
+     "రేడియోధార్మికత",
+     "ప్రాథమిక ఉష్ణం (Primordial heat)",
+     "భ్రమణ మరియు అలల ఘర్షణ",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Radioactivity",
+     "Primordial heat",
+     "Rotational and tidal friction",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అంతర్జనిత ప్రక్రియలకు అవసరమైన శక్తి రేడియోధార్మికత, భ్రమణ మరియు అలల ఘర్షణ మరియు భూమి పుట్టుక నాటి ప్రాథమిక ఉష్ణం నుండి లభిస్తుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Energy for endogenic processes is generated by radioactivity, rotational and tidal friction, and primordial heat."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T04-0127",
+   "section": {
+    "te": "Crustal Unevenness",
+    "en": "Crustal Unevenness"
+   },
+   "q": {
+    "te": "టెక్టోనిక్ నియంత్రణలో ఉన్న అసలు భూపటలం ఉపరితలం ఎందుకు అసమానంగా ఉంటుంది?",
+    "en": "Why is the tectonically controlled original crustal surface uneven?"
+   },
+   "options": {
+    "te": [
+     "బహిర్జనిత శక్తుల ఏకరీతి చర్య వల్ల",
+     "రేడియోధార్మికత లేకపోవడం వల్ల",
+     "భూఉష్ణ ప్రవణతలు మరియు ఉష్ణ ప్రవాహంలో వ్యత్యాసాల వల్ల",
+     "స్థిరమైన సౌర శక్తి వల్ల"
+    ],
+    "en": [
+     "Due to uniform action of exogenic forces",
+     "Due to lack of radioactivity",
+     "Due to variations in geothermal gradients and heat flow",
+     "Due to constant solar energy"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూఉష్ణ ప్రవణతలు, ఉష్ణ ప్రవాహం మరియు భూపటల మందం/బలంలో వ్యత్యాసాల వల్ల ఈ అసమానత ఏర్పడుతుంది.",
+    "en": "The unevenness is caused by variations in geothermal gradients, heat flow, and crustal thickness/strength."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T04-0056",
+   "section": {
+    "te": "Plate Boundaries",
+    "en": "Plate Boundaries"
+   },
+   "q": {
+    "te": "క్రింది ఫలక సరిహద్దులను వాటికి సంబంధించిన లక్షణాలు లేదా ఉదాహరణలతో జతపరచండి:\n1. అభిసరణ సరిహద్దు (Convergent) - i. మధ్య అట్లాంటిక్ రిడ్జ్\n2. అపసరణ సరిహద్దు (Divergent) - ii. హిమాలయ పర్వతాలు\n3. రూపాంతర సరిహద్దు (Transform) - iii. సాన్ ఆండ్రియాస్ ఫాల్ట్\nసరైన కోడ్‌ను ఎంచుకోండి:",
+    "en": "Match the following plate boundaries with their associated features or examples:\n1. Convergent Boundary - i. Mid-Atlantic Ridge\n2. Divergent Boundary - ii. Himalaya Mountains\n3. Transform Boundary - iii. San Andreas Fault\nChoose the correct code:"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-i, 3-iii",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-iii, 3-i"
+    ],
+    "en": [
+     "1-ii, 2-i, 3-iii",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-iii, 3-i"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అభిసరణ సరిహద్దులు హిమాలయాల వంటి ముడత పర్వతాలను ఏర్పరుస్తాయి; అపసరణ సరిహద్దులు మధ్య అట్లాంటిక్ రిడ్జ్ వంటి గట్లను ఏర్పరుస్తాయి; మరియు రూపాంతర సరిహద్దులు సాన్ ఆండ్రియాస్ ఫాల్ట్ వంటి పగుళ్లతో సంబంధం కలిగి ఉంటాయి.",
+    "en": "Convergent boundaries form fold mountains like the Himalayas; divergent boundaries form ridges like the Mid-Atlantic Ridge; and transform boundaries are associated with faults like the San Andreas Fault."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T04-0158",
+   "section": {
+    "te": "Valley characteristics in mature stage",
+    "en": "Valley characteristics in mature stage"
+   },
+   "q": {
+    "te": "ప్రౌఢ దశలో నదీ లోయల స్వభావాన్ని కింది వాటిలో ఏది సరిగ్గా వివరిస్తుంది?",
+    "en": "Which of the following describes the nature of valleys during the mature stage?"
+   },
+   "options": {
+    "te": [
+     "లోయలు పూర్తిగా U-ఆకారపు హిమానీనద లోయలుగా రూపాంతరం చెందుతాయి",
+     "లోయలు ఇప్పటికీ V-ఆకారంలోనే ఉంటాయి కానీ లోతుగా ఉంటాయి",
+     "లోయలు పూర్తిగా కనుమరుగై సముద్ర మట్ట మైదానాలుగా మారతాయి",
+     "లోయలు లోయ గోడలు లేని విశాలమైన చదునైన తొట్టెలుగా మారతాయి"
+    ],
+    "en": [
+     "The valleys turn into broad U-shaped glacial depressions",
+     "The valleys are still V-shaped but deep",
+     "The valleys completely flatten into sea-level plains",
+     "The valleys become broad flat troughs with no valley walls"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రౌఢ దశలో లోయలు ఇంకా V-ఆకారంలోనే ఉంటూ లోతుగా విస్తరిస్తాయి మరియు ప్రధాన నదులు విశాలమైన వరద మైదానాలను కలిగి ఉంటాయి.",
+    "en": "In the mature stage, the valleys are still V-shaped but deep, with trunk streams having wider floodplains."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T04-0268",
+   "section": {
+    "te": "Longitudinal dunes",
+    "en": "Longitudinal dunes"
+   },
+   "q": {
+    "te": "లాంగిట్యూడినల్ (Longitudinal) ఇసుక దిబ్బలు ఈ క్రింది ఏ పరిస్థితులలో ఏర్పడతాయి?",
+    "en": "Longitudinal dunes form under which of the following conditions?"
+   },
+   "options": {
+    "te": [
+     "ఇసుక సరఫరా తక్కువగా ఉన్నప్పుడు",
+     "స్థిరమైన గాలి దిశ ఉన్నప్పుడు",
+     "A మరియు B రెండూ",
+     "అధిక ఇసుక మరియు మారుతున్న గాలులు ఉన్నప్పుడు"
+    ],
+    "en": [
+     "Poor supply of sand",
+     "Constant wind direction",
+     "Both A and B",
+     "Abundant sand and shifting winds"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఇసుక సరఫరా తక్కువగా ఉన్నప్పుడు మరియు గాలి దిశ స్థిరంగా ఉన్నప్పుడు లాంగిట్యూడినల్ దిబ్బలు ఏర్పడతాయి.",
+    "en": "Longitudinal dunes form when the sand supply is poor and the wind direction remains constant."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T04-0249",
+   "section": {
+    "te": "Wind Impact",
+    "en": "Wind Impact"
+   },
+   "q": {
+    "te": "ఇసుక రాళ్ళ ఉపరితలంపై బలంగా ఢీకొన్నప్పుడు ఏర్పడే ద్రవ్యవేగ శక్తిని (శాండ్‌-బ్లాస్టింగ్ వంటి ప్రక్రియను) ఏమంటారు?",
+    "en": "Which wind process is defined as the sheer force of momentum that occurs when sand is blown into or against a rock surface, acting similar to a sand-blasting operation?"
+   },
+   "options": {
+    "te": [
+     "ద్రావణం (సొల్యూషన్)",
+     "కార్బొనేషన్",
+     "ప్లకింగ్",
+     "ఇంపాక్ట్ (తాకిడి శక్తి)"
+    ],
+    "en": [
+     "Solution",
+     "Carbonation",
+     "Plucking",
+     "Impact"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "గాలి ద్వారా కొట్టుకొచ్చిన ఇసుక రాతి ఉపరితలాన్ని బలంగా తాకినప్పుడు ఏర్పడే మొమెంటం శక్తిని 'ఇంపాక్ట్' అని పిలుస్తారు.",
+    "en": "Impact is defined as the sheer force of momentum occurring when sand is blown into or against a rock surface, similar to sand-blasting."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T04-0190",
+   "section": {
+    "te": "Meander bank profiles",
+    "en": "Meander bank profiles"
+   },
+   "q": {
+    "te": "నదీ మియాండర్‌లో నిటారైన స్కార్ప్‌గా కనిపించే 'కట్-ఆఫ్ గట్టు' (cut-off bank) అని ఏ ఒడ్డును పిలుస్తారు?",
+    "en": "In a river meander, which bank is known as the cut-off bank that typically appears as a steep scarp?"
+   },
+   "options": {
+    "te": [
+     "పాయింట్ బార్ గట్టు",
+     "కుంభాకార గట్టు (కాన్వెక్స్ బ్యాంక్)",
+     "పుటాకార గట్టు (కాన్‌కేవ్ బ్యాంక్)",
+     "స్లిప్-ఆఫ్ వాలు"
+    ],
+    "en": [
+     "Point bar bank",
+     "Convex bank",
+     "Concave bank",
+     "Slip-off slope"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పుటాకార (కాన్‌కేవ్) గట్టు నిటారైన వాలుతో కూడిన కట్-ఆఫ్ బ్యాంక్‌గా కనిపిస్తుంది.",
+    "en": "The concave bank is known as the cut-off bank and displays a steep scarp, whereas the convex bank has a gentle profile."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T04-0260",
+   "section": {
+    "te": "Playas",
+    "en": "Playas"
+   },
+   "q": {
+    "te": "ప్లాయాస్ (Playas) కు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి ఎడారి బేసిన్ల మధ్యలో ఏర్పడే నిస్సారమైన (shallow) సరస్సులు.\n2. అధిక వర్షపాతం కారణంగా వీటిలో నీరు ఎక్కువ కాలం నిల్వ ఉంటుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding Playas:\n1. They are shallow lakes formed in the centre of desert basins.\n2. Water is retained in them for long durations due to high rainfall.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రకటన 1 సరైనది ఎందుకంటే ప్లాయాస్ బేసిన్లలో ఉండే నిస్సార సరస్సులు. ఆవిరి కావడం వల్ల నీరు తక్కువ కాలం మాత్రమే ఉంటుంది కాబట్టి ప్రకటన 2 తప్పు.",
+    "en": "Statement 1 is correct as playas are shallow lakes in basins. Statement 2 is incorrect because water is retained only for a short duration due to evaporation."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T04-0243",
+   "section": {
+    "te": "Barrier Bar",
+    "en": "Barrier Bar"
+   },
+   "q": {
+    "te": "మరింత ఇసుక చేరడం వల్ల నీటి పైకి కనిపించే విధంగా బహిర్గతమయ్యే ఆఫ్-షోర్ బార్‌ను ఏమని పిలుస్తారు?",
+    "en": "An off-shore bar that gets exposed above the water surface due to the further addition of sand is termed a:"
+   },
+   "options": {
+    "te": [
+     "బారియర్ బార్ (అవరోధక గట్టు)",
+     "షింగిల్ బీచ్",
+     "సీ స్టాక్",
+     "తరంగ కోత క్లిఫ్"
+    ],
+    "en": [
+     "Barrier bar",
+     "Shingle beach",
+     "Sea stack",
+     "Wave-cut cliff"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మరింత ఇసుక పేరుకుపోవడం వల్ల బయటకు కనిపించే ఆఫ్-షోర్ బార్‌ను 'బారియర్ బార్' అని పిలుస్తారు.",
+    "en": "When an off-shore bar receives further addition of sand and becomes exposed, it is termed a barrier bar."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T04-0139",
+   "section": {
+    "te": "Mass movements cause",
+    "en": "Mass movements cause"
+   },
+   "q": {
+    "te": "ద్రవ్యరాశి కదలికలు (Mass movements) శిలా వ్యర్థాలను వాలుల వెంబడి క్రిందికి వేటి ప్రత్యక్ష ప్రభావం ద్వారా తరలిస్తాయి?",
+    "en": "Mass movements transfer the mass of rock debris down the slopes under the direct influence of:"
+   },
+   "options": {
+    "te": [
+     "ఆటుపోట్ల శక్తి (Tidal force)",
+     "ప్రవహించే నీరు",
+     "గురుత్వాకర్షణ",
+     "గాలి వేగం"
+    ],
+    "en": [
+     "Tidal force",
+     "Running water",
+     "Gravity",
+     "Wind velocity"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ద్రవ్యరాశి కదలికలు గురుత్వాకర్షణ యొక్క ప్రత్యక్ష ప్రభావం కింద శిలా శకలాలను వాలుల వెంబడి క్రిందికి జరుపుతాయి.",
+    "en": "Mass movements transfer rock debris down slopes under the direct influence of gravity."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T04-0130",
+   "section": {
+    "te": "Orogenic Processes",
+    "en": "Orogenic Processes"
+   },
+   "q": {
+    "te": "ఓరోజెనిక్ ప్రక్రియలు దేని ద్వారా పర్వత నిర్మాణాన్ని చేపడతాయి?",
+    "en": "Orogenic processes involve mountain building through:"
+   },
+   "options": {
+    "te": [
+     "స్థానిక చిన్న కదలికలు",
+     "సాధారణ వైకల్యం (Simple deformation)",
+     "తీవ్రమైన మడతలు (Severe folding)",
+     "క్షితిజ సమాంతర ప్లేట్ కదలికలు"
+    ],
+    "en": [
+     "Local minor movements",
+     "Simple deformation",
+     "Severe folding",
+     "Horizontal plate movements"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఓరోజెనీ పర్వతాలను నిర్మించడానికి భూపటలం యొక్క తీవ్రమైన మడతలను కలిగి ఉంటుంది.",
+    "en": "Orogeny involves severe folding of the crust to build mountains."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T04-0237",
+   "section": {
+    "te": "Sea stacks definition",
+    "en": "Sea stacks definition"
+   },
+   "q": {
+    "te": "తీరానికి సమీపంలో చిన్న దీవుల వలె ఒంటరిగా నిలబడి ఉండే నిరోధక రాతి నిర్మాణాలను (గతంలో కొండ లేదా క్లిఫ్‌లో భాగంగా ఉన్నవి) ఏమని పిలుస్తారు?",
+    "en": "Resistant masses of rock standing isolated as small islands just off the shore, originally parts of a cliff or hill, are called:"
+   },
+   "options": {
+    "te": [
+     "డ్రమ్లిన్లు (Drumlins)",
+     "హార్న్లు (Horns)",
+     "సముద్రపు స్తంభాలు / సీ స్టాక్స్ (Sea stacks)",
+     "ఎస్కర్లు (Eskers)"
+    ],
+    "en": [
+     "Drumlins",
+     "Horns",
+     "Sea stacks",
+     "Eskers"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "తరంగాల కోతకు గురికాగా మిగిలిపోయిన కఠినమైన రాతి భాగాలను సముద్రపు స్తంభాలు (సీ స్టాక్స్) అంటారు.",
+    "en": "Sea stacks are resistant masses of rock left isolated just off the coast after the surrounding cliff or hill is eroded by wave action."
+   }
+  }
+ ]
+}

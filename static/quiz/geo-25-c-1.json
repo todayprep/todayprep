@@ -1,0 +1,942 @@
+{
+ "id": "geo-25-c-1",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Agriculture – క్విజ్ 1",
+  "en": "Agriculture – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T25-0167",
+   "section": {
+    "te": "Sugarcane climate requirements",
+    "en": "Sugarcane climate requirements"
+   },
+   "q": {
+    "te": "చెరకు సాగుకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. దీనికి 21°C నుండి 27°C ఉష్ణోగ్రత అవసరం.\n2. దీనికి 75 సెం.మీ నుండి 100 సెం.మీ మధ్య వార్షిక వర్షపాతం అవసరం.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about sugarcane cultivation:\n1. It requires a temperature range of 21°C to 27°C.\n2. It requires annual rainfall between 75 cm and 100 cm.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "చెరకు 21°C-27°C ఉష్ణోగ్రత మరియు 75-100 సెం.మీ వర్షపాతం ఉన్న వేడి మరియు ఆర్ద్రత కలిగిన శీతోష్ణస్థితులలో బాగా పెరుగుతుంది.",
+    "en": "Sugarcane thrives in hot and humid climates with temperatures between 21°C-27°C and rainfall between 75-100 cm."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T25-0159",
+   "section": {
+    "te": "Groundnut production ranking",
+    "en": "Groundnut production ranking"
+   },
+   "q": {
+    "te": "2019-20 సంవత్సరంలో భారతదేశంలో వేరుశనగను అత్యధికంగా ఉత్పత్తి చేసిన రాష్ట్రం ఏది?",
+    "en": "Which state was the largest producer of groundnut in India during the year 2019–20?"
+   },
+   "options": {
+    "te": [
+     "రాజస్థాన్",
+     "ఆంధ్రప్రదేశ్",
+     "తమిళనాడు",
+     "గుజరాత్"
+    ],
+    "en": [
+     "Rajasthan",
+     "Andhra Pradesh",
+     "Tamil Nadu",
+     "Gujarat"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "2019-20లో వేరుశనగ ఉత్పత్తిలో గుజరాత్ మొదటి స్థానంలో ఉండగా, రాజస్థాన్ మరియు తమిళనాడు తర్వాతి స్థానాల్లో ఉన్నాయి.",
+    "en": "In 2019-20, Gujarat held the first position in groundnut production, followed by Rajasthan and Tamil Nadu."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T25-0144",
+   "section": {
+    "te": "Wheat growing zones",
+    "en": "Wheat growing zones"
+   },
+   "q": {
+    "te": "భారతదేశంలోని రెండు ముఖ్యమైన గోధుమ పండించే ప్రాంతాలు ఏవి?",
+    "en": "Which of the following are the two important wheat-growing zones in India?"
+   },
+   "options": {
+    "te": [
+     "వాయువ్యంలోని గంగా-సట్లెజ్ మైదానాలు",
+     "దక్కన్ లోని నల్ల రేగడి నేలల ప్రాంతం",
+     "A మరియు B రెండూ",
+     "ఒడిశా తీర మైదానాలు"
+    ],
+    "en": [
+     "Ganga-Satluj plains in the north-west",
+     "Black soil region of the Deccan",
+     "Both A and B",
+     "Coastal plains of Odisha"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, భారతదేశంలో రెండు ప్రధాన గోధుమ పండించే ప్రాంతాలు ఉన్నాయి: వాయువ్యంలోని గంగా-సట్లెజ్ మైదానాలు మరియు దక్కన్ లోని నల్ల రేగడి నేలల ప్రాంతం.",
+    "en": "India has two major wheat-growing zones: the Ganga-Satluj plains in the north-west and the black soil region of the Deccan."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T25-0228",
+   "section": {
+    "te": "Truck Farming",
+    "en": "Truck Farming"
+   },
+   "q": {
+    "te": "ట్రక్ ఫార్మింగ్ (Truck farming) లో పొలాల నుండి నగర మార్కెట్ మధ్య ఉండే దూరం ప్రధానంగా దేనిపై ఆధారపడి నిర్ణయించబడుతుంది?",
+    "en": "In truck farming, the distance between the farms and the market is primarily governed by:"
+   },
+   "options": {
+    "te": [
+     "పట్టణ పారిశ్రామిక కర్మాగారాలు ఆక్రమించిన మొత్తం విస్తీర్ణంపై",
+     "గ్రామీణ మరియు పట్టణ ప్రాంతాల మధ్య ఉన్న రైలు మార్గాల కనెక్టివిటీపై",
+     "ఒక ట్రక్కు రాత్రికి రాత్రే ప్రయాణించగల దూరంపై",
+     "భారీ రవాణా వాహనాల ఇంధన నిల్వ సామర్థ్యంపై"
+    ],
+    "en": [
+     "The total area occupied by urban industrial factories",
+     "The rail connectivity available between rural and urban sectors",
+     "The distance that a truck can cover overnight",
+     "The fuel capacity of heavy commercial freight vehicles"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కూరగాయలను మార్కెట్‌కు చేరవేయడానికి ఒక ట్రక్కు రాత్రి సమయంలో ఎంత దూరం ప్రయాణించగలదో ఆ దూరం ఆధారంగానే మార్కెట్ తోటల పరిధి నిర్ణయించబడుతుంది, అందుకే దీనిని ట్రక్ ఫార్మింగ్ అంటారు.",
+    "en": "Truck farming gets its name because the distance of the farms from the urban market is determined by the distance a truck can travel overnight."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T25-0202",
+   "section": {
+    "te": "Intensive Subsistence Productivity",
+    "en": "Intensive Subsistence Productivity"
+   },
+   "q": {
+    "te": "వరి పంట ప్రాధాన్యత కలిగిన సాంద్ర జీవనాధార వ్యవసాయంలో ఉత్పాదకతకు సంబంధించి క్రింది వాటిలో ఏది సరైనది?",
+    "en": "In intensive subsistence agriculture dominated by wet paddy cultivation, which of the following is true regarding its productivity?"
+   },
+   "options": {
+    "te": [
+     "యూనిట్ వైశాల్యానికి దిగుబడి తక్కువ, కానీ శ్రామిక ఉత్పాదకత ఎక్కువ",
+     "యూనిట్ వైశాల్యానికి దిగుబడి ఎక్కువ, కానీ శ్రామిక ఉత్పాదకత తక్కువ",
+     "యూనిట్ వైశాల్యానికి దిగుబడి మరియు శ్రామిక ఉత్పాదకత రెండూ ఎక్కువే",
+     "యూనిట్ వైశాల్యానికి దిగుబడి మరియు శ్రామిక ఉత్పాదకత రెండూ తక్కువే"
+    ],
+    "en": [
+     "Yield per unit area is low, but per labour productivity is high",
+     "Yield per unit area is high, but per labour productivity is low",
+     "Both yield per unit area and per labour productivity are high",
+     "Both yield per unit area and per labour productivity are low"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఈ తరహా వ్యవసాయంలో విస్తీర్ణ పరంగా (యూనిట్ వైశాల్యానికి) దిగుబడి ఎక్కువగా ఉంటుంది, కానీ శ్రామికుల పరంగా ఉత్పాదకత తక్కువగా ఉంటుంది.",
+    "en": "In intensive subsistence agriculture dominated by wet paddy cultivation, the yield per unit area is high but per labour productivity is low."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T25-0132",
+   "section": {
+    "te": "Commercial vs Subsistence Farming",
+    "en": "Commercial vs Subsistence Farming"
+   },
+   "q": {
+    "te": "పంటల ప్రాంతీయ వైవిధ్యానికి సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. పంజాబ్ మరియు హర్యానాలో వరి ఒక వాణిజ్య పంట.\n2. ఒడిశాలో వరి ఒక జీవనాధార (subsistence) పంట.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the regional variation of crops:\n1. Rice is a commercial crop in Punjab and Haryana.\n2. Rice is a subsistence crop in Odisha.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వాణిజ్యీకరణ స్థాయి మారుతూ ఉంటుంది; పంజాబ్/హర్యానాలో వరి లాభం కోసం పండిస్తారు, కానీ ఒడిశాలో ఇది జీవనాధార పంట.",
+    "en": "The degree of commercialization varies; rice is grown for profit in Punjab/Haryana but for survival (subsistence) in Odisha."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T25-0093",
+   "section": {
+    "te": "Overexploited area in Punjab",
+    "en": "Overexploited area in Punjab"
+   },
+   "q": {
+    "te": "పంజాబ్ రాష్ట్రంలో భూగర్భ జలాల వినియోగానికి సంబంధించి ఎంత శాతం విస్తీర్ణం 'అధికంగా దోపిడీకి గురైనది' (overexploited) గా వర్గీకరించబడింది?",
+    "en": "What percentage of the area of Punjab has been classified as 'overexploited' in terms of groundwater resources?"
+   },
+   "options": {
+    "te": [
+     "దాదాపు 80%",
+     "దాదాపు 65%",
+     "దాదాపు 95%",
+     "దాదాపు 50%"
+    ],
+    "en": [
+     "Almost 80%",
+     "Almost 65%",
+     "Almost 95%",
+     "Almost 50%"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పంజాబ్ భూభాగంలో దాదాపు 80% ప్రాంతం 'అధికంగా దోపిడీకి గురైనది'గా వర్గీకరించబడిందని పాఠ్యాంశం పేర్కొంది.",
+    "en": "Almost 80% of the area of Punjab has been classified as 'overexploited'."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T25-0306",
+   "section": {
+    "te": "Rapeseed and Mustard Varieties",
+    "en": "Rapeseed and Mustard Varieties"
+   },
+   "q": {
+    "te": "భారతదేశంలో రేప్‌సీడ్ మరియు ఆవాల కింద క్రింది ఏ నూనెగింజలు చేర్చబడ్డాయి?",
+    "en": "Which of the following oilseeds are included under rapeseed and mustard in India?"
+   },
+   "options": {
+    "te": [
+     "రాయ్",
+     "సర్సన్",
+     "తోరియా",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Rai",
+     "Sarson",
+     "Toria",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మూలం ప్రకారం, రేప్‌సీడ్ మరియు ఆవాలలో రాయ్, సర్సన్, తోరియా మరియు తారామిరా వంటి అనేక నూనెగింజలు ఉన్నాయి.",
+    "en": "Rapeseed and mustard comprise several oilseeds such as rai, sarson, toria, and taramira."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T25-0246",
+   "section": {
+    "te": "Land-use Records Maintenance",
+    "en": "Land-use Records Maintenance"
+   },
+   "q": {
+    "te": "భారతదేశంలో భూ వినియోగ రికార్డులను నిర్వహించే బాధ్యత ఏ శాఖకు ఉంది?",
+    "en": "In India, which department is responsible for maintaining land-use records?"
+   },
+   "options": {
+    "te": [
+     "ప్రజా పనుల శాఖ (PWD)",
+     "అటవీ శాఖ",
+     "గ్రామీణాభివృద్ధి శాఖ",
+     "భూ రెవెన్యూ శాఖ"
+    ],
+    "en": [
+     "Public Works Department",
+     "Forest Department",
+     "Rural Development Department",
+     "Land Revenue Department"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూ వినియోగ రికార్డులను భూ రెవెన్యూ శాఖ నిర్వహిస్తుంది.",
+    "en": "Land-use records are maintained by the land revenue department."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T25-0176",
+   "section": {
+    "te": "Agricultural Reforms",
+    "en": "Agricultural Reforms"
+   },
+   "q": {
+    "te": "వ్యవసాయ అభివృద్ధికి సంబంధించి భారతదేశ మొదటి పంచవర్ష ప్రణాళిక యొక్క ప్రధాన దృష్టి దేనిపై ఉంది?",
+    "en": "What was the main focus of India's First Five Year Plan regarding agricultural development?"
+   },
+   "options": {
+    "te": [
+     "భూ సంస్కరణలు",
+     "హరిత విప్లవం",
+     "కిసాన్ క్రెడిట్ కార్డ్",
+     "శ్వేత విప్లవం"
+    ],
+    "en": [
+     "Land reform",
+     "Green Revolution",
+     "Kisan Credit Card",
+     "White Revolution"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూమి కమతాల విచ్ఛిన్నం వంటి సమస్యలను పరిష్కరించడానికి మొదటి పంచవర్ష ప్రణాళికలో భూ సంస్కరణలపై ప్రధానంగా దృష్టి సారించారు.",
+    "en": "Land reform was the primary focus of the First Five Year Plan to address issues like fragmentation of holdings."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T25-0354",
+   "section": {
+    "te": "Agricultural Productivity Comparison",
+    "en": "Agricultural Productivity Comparison"
+   },
+   "q": {
+    "te": "భారతదేశంలో వరి, గోధుమ, పత్తి మరియు నూనెగింజల వంటి ప్రధాన పంటల హెక్టారు దిగుబడి క్రింది ఏ దేశాల కంటే చాలా తక్కువగా ఉంది?",
+    "en": "Per hectare output of major crops such as rice, wheat, cotton, and oilseeds in India is much lower than which of the following countries?"
+   },
+   "options": {
+    "te": [
+     "యు.ఎస్.ఎ. (U.S.A.)",
+     "రష్యా",
+     "జపాన్",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "U.S.A.",
+     "Russia",
+     "Japan",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశంలో ప్రధాన పంటల హెక్టారు దిగుబడి యు.ఎస్.ఎ., రష్యా మరియు జపాన్ దేశాల కంటే చాలా తక్కువగా ఉంది.",
+    "en": "India's per hectare output of crops like rice, wheat, cotton and oilseeds is much lower than that of the U.S.A., Russia and Japan."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T25-0298",
+   "section": {
+    "te": "Groundnut Yield Tamil Nadu",
+    "en": "Groundnut Yield Tamil Nadu"
+   },
+   "q": {
+    "te": "తమిళనాడులో వేరుశనగ దిగుబడి సాపేక్షంగా ఎందుకు ఎక్కువగా ఉంటుంది?",
+    "en": "Why is the yield of groundnut comparatively high in Tamil Nadu?"
+   },
+   "options": {
+    "te": [
+     "శ్రేష్టమైన నేలలను ఉపయోగించడం వల్ల",
+     "దీనికి పాక్షికంగా నీటి పారుదల సౌకర్యం ఉండటం వల్ల",
+     "అధిక వర్షపాతం వల్ల",
+     "దీనిని రబీ సీజన్‌లో పండించడం వల్ల"
+    ],
+    "en": [
+     "Due to the use of superior soils",
+     "Because it is partly irrigated",
+     "Due to high rainfall",
+     "Because it is grown in the Rabi season"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "తమిళనాడులో వేరుశనగకు పాక్షికంగా నీటి పారుదల సౌకర్యం ఉండటం వల్ల అక్కడ దిగుబడి ఎక్కువగా ఉంటుంది.",
+    "en": "The high yield of groundnut in Tamil Nadu is attributed to the fact that it is partly irrigated in that state."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T25-0224",
+   "section": {
+    "te": "Mediterranean Agriculture",
+    "en": "Mediterranean Agriculture"
+   },
+   "q": {
+    "te": "మధ్యధరా వ్యవసాయ ప్రాంతం ప్రపంచవ్యాప్తంగా క్రింది వాటిలో దేనికి ముఖ్యమైన సరఫరాదారుగా ప్రసిద్ధి చెందింది?",
+    "en": "Mediterranean agriculture is globally renowned as an important supplier of which of the following?"
+   },
+   "options": {
+    "te": [
+     "ధాన్యాలు మరియు పప్పుదినుసులు",
+     "పశుగ్రాస పంటలు",
+     "పాడి పశువులు",
+     "సిట్రస్ (నిమ్మ జాతి) పండ్లు"
+    ],
+    "en": [
+     "Cereals and pulses",
+     "Fodder crops",
+     "Milch cattle",
+     "Citrus fruits"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మధ్యధరా వ్యవసాయ ప్రాంతం ప్రపంచంలో సిట్రస్ జాతి పండ్ల ఉత్పత్తికి ఎంతో ప్రసిద్ధి చెందిన సరఫరాదారు.",
+    "en": "The Mediterranean agricultural region is an important supplier of citrus fruits."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T25-0287",
+   "section": {
+    "te": "Rainfed Wheat Regions",
+    "en": "Rainfed Wheat Regions"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): హిమాలయ పర్వత ప్రాంతాలలో గోధుమను వర్షాధార పంటగా సాగు చేస్తారు.\nకారణం (R): గోధుమ సాగులో సుమారు 85 శాతం విస్తీర్ణం ఇండో-గంగా మైదానంలో కేంద్రీకృతమై ఉంది.\nకింది వాటిలో ఏది సరైనది?",
+    "en": "Assertion (A): Wheat is cultivated as a rainfed crop in the Himalayan highlands.\nReason (R): About 85 per cent of total area under wheat is concentrated in the Indo-Gangetic Plain.\nWhich of the following is correct?"
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ సరైనవి మరియు R అనేది A కి సరైన వివరణ.",
+     "A మరియు R రెండూ సరైనవి కానీ R అనేది A కి సరైన వివరణ కాదు.",
+     "A సరైనది కానీ R తప్పు.",
+     "A తప్పు కానీ R సరైనది."
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A.",
+     "Both A and R are true but R is not the correct explanation of A.",
+     "A is true but R is false.",
+     "A is false but R is true."
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం రెండు ప్రకటనలు సరైనవే. అయితే, ఇండో-గంగా మైదానంలో గోధుమ సాగు కేంద్రీకృతమై ఉండటం (R), హిమాలయాలలో అది వర్షాధార పంటగా ఎందుకు ఉందో (A) వివరించదు.",
+    "en": "Both statements are true according to the text. However, the concentration of wheat in the Indo-Gangetic Plain (R) does not explain why it is rainfed in the Himalayan highlands (A)."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T25-0154",
+   "section": {
+    "te": "Rice in low rainfall areas",
+    "en": "Rice in low rainfall areas"
+   },
+   "q": {
+    "te": "కాలువ నీటి పారుదల మరియు బోరు బావుల వల్ల తక్కువ వర్షపాతం ఉన్న ఏ రాష్ట్రంలో వరి పండించడం సాధ్యమైంది?",
+    "en": "In which of the following states has it become possible to grow rice in areas of less rainfall due to canal irrigation and tubewells?"
+   },
+   "options": {
+    "te": [
+     "కేరళ",
+     "రాజస్థాన్",
+     "ఒడిశా",
+     "పశ్చిమ బెంగాల్"
+    ],
+    "en": [
+     "Kerala",
+     "Rajasthan",
+     "Odisha",
+     "West Bengal"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కాలువ నీటి పారుదల మరియు బోరు బావుల అభివృద్ధి వల్ల పంజాబ్, హర్యానా, పశ్చిమ ఉత్తరప్రదేశ్ మరియు రాజస్థాన్ వంటి తక్కువ వర్షపాతం ఉన్న ప్రాంతాల్లో వరి సాగు సాధ్యమైందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Canal irrigation and tubewells have enabled rice cultivation in low rainfall areas like Punjab, Haryana, western UP, and parts of Rajasthan."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T25-0027",
+   "section": {
+    "te": "Agroclimatic classification factors",
+    "en": "Agroclimatic classification factors"
+   },
+   "q": {
+    "te": "భారతదేశాన్ని వివిధ వ్యవసాయ-శీతోష్ణస్థితి మండలాలుగా వర్గీకరించడానికి కింది వేటిని పరిగణనలోకి తీసుకుంటారు?",
+    "en": "Which of the following factors are combined to classify India into different agroclimatic zones?"
+   },
+   "options": {
+    "te": [
+     "శీతోష్ణస్థితి కారకాలు",
+     "నేల మరియు భూభాగాల రకాలు",
+     "వృక్షసంపద రకాలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Climate factors",
+     "Types of soil and terrain",
+     "Types of vegetation",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "శీతోష్ణస్థితి అంశాలు, నేల మరియు భూభాగ రకాలు, అలాగే వృక్షసంపద రకాలను కలిపి ఈ మండలాలను వర్గీకరిస్తారు.",
+    "en": "Agroclimatic zones are categorized by combining climate factors, soil and terrain variations, and types of vegetation."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T25-0068",
+   "section": {
+    "te": "Green Revolution timeline",
+    "en": "Green Revolution timeline"
+   },
+   "q": {
+    "te": "భారతదేశంలో హరిత విప్లవం ఏ దశాబ్దాలలో జరిగింది?",
+    "en": "During which decades did the Green Revolution occur in India?"
+   },
+   "options": {
+    "te": [
+     "1950లు మరియు 1960లు",
+     "1940లు మరియు 1950లు",
+     "1960లు మరియు 1970లు",
+     "1980లు మరియు 1990లు"
+    ],
+    "en": [
+     "1950s and 1960s",
+     "1940s and 1950s",
+     "1960s and 1970s",
+     "1980s and 1990s"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "హరిత విప్లవం 1960లు మరియు 1970ల కాలంలో భారతీయ వ్యవసాయంలో ఒక ప్రధాన మలుపు.",
+    "en": "The Green Revolution was a major turning point in Indian agriculture that took place during the 1960s and 1970s."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T25-0189",
+   "section": {
+    "te": "Cotton Characteristics",
+    "en": "Cotton Characteristics"
+   },
+   "q": {
+    "te": "ప్రత్తి సాగుకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది ఒక రబీ పంట.\n2. దీనికి అధిక ఉష్ణోగ్రత మరియు తేలికపాటి వర్షపాతం లేదా నీటి పారుదల అవసరం.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding cotton cultivation:\n1. It is a rabi crop.\n2. It requires high temperature and light rainfall or irrigation.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రత్తి ఒక ఖరీఫ్ పంట కాబట్టి మొదటి ప్రకటన తప్పు. దీనికి అధిక ఉష్ణోగ్రత మరియు తేలికపాటి వర్షపాతం/నీటి పారుదల అవసరం కాబట్టి రెండవ ప్రకటన సరైనది.",
+    "en": "Statement 1 is incorrect because cotton is a kharif crop. Statement 2 is correct as it requires high temperature and light rainfall/irrigation."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T25-0248",
+   "section": {
+    "te": "Highest growth land category",
+    "en": "Highest growth land category"
+   },
+   "q": {
+    "te": "1950–51 మరియు 2019–20 మధ్య కాలంలో విస్తరించిన భూవినియోగ వర్గాలలో ఏ విభాగంలో పెరుగుదల రేటు అత్యధికంగా ఉంది?",
+    "en": "Among the land-use categories that expanded between 1950–51 and 2019–20, the rate of increase was highest in which category?"
+   },
+   "options": {
+    "te": [
+     "అటవీ విస్తీర్ణ వాటా",
+     "వ్యవసాయేతర వినియోగంలో ఉన్న విస్తీర్ణం",
+     "ప్రస్తుత బీడు భూములు",
+     "నికర సాగు విస్తీర్ణం"
+    ],
+    "en": [
+     "Share of area under forest",
+     "Area under non-agricultural uses",
+     "Current fallow lands",
+     "Net area sown"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పారిశ్రామిక, సేవా రంగాలు మరియు మౌలిక సదుపాయాల విస్తరణ కారణంగా వ్యవసాయేతర వినియోగంలో ఉన్న భూమి పెరుగుదల రేటు అత్యధికంగా ఉంది.",
+    "en": "The rate of increase was highest in the case of area under non-agricultural uses due to industrial, service, and infrastructural expansion."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T25-0062",
+   "section": {
+    "te": "Modern seed issues",
+    "en": "Modern seed issues"
+   },
+   "q": {
+    "te": "ప్రకటన (A): ఆధునిక శాస్త్రీయ విత్తనాలు తరచుగా రైతులు విత్తన కంపెనీలపై ఆధారపడేలా చేస్తాయి.\nకారణం (R): ఆధునిక శాస్త్రీయ విత్తనాల నుండి పెరిగిన మొక్కలు ఉత్పత్తి చేసే విత్తనాలు తరచుగా తదుపరి సీజన్‌లో నాటడానికి అనువుగా ఉండవు.\nసరైన ఎంపికను ఎంచుకోండి:",
+    "en": "Assertion (A): Modern scientific seeds often create a dependency of farmers on seed companies.\nReason (R): The seeds produced by plants grown from modern scientific seeds are often NOT suitable for planting in the next season."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఆధునిక విత్తనాలు అధిక దిగుబడి కోసం రూపొందించబడ్డాయి, కానీ వాటి నుండి వచ్చే తదుపరి విత్తనాలు నాటడానికి పనికిరావు, దీనివల్ల రైతులు ప్రతి సీజన్‌లో కొత్త విత్తనాలను కొనాల్సి వస్తుంది.",
+    "en": "Modern seeds are designed for high yield but their offspring seeds often lack the same quality or viability, forcing farmers to buy new seeds every season."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T25-0274",
+   "section": {
+    "te": "Rice Cultivation Regions",
+    "en": "Rice Cultivation Regions"
+   },
+   "q": {
+    "te": "హిమాలయాలు మరియు భారతదేశ వాయువ్య ప్రాంతాలలో, వరిని ప్రధానంగా ఏ కాలంలో పండిస్తారు?",
+    "en": "In the Himalayas and northwestern parts of India, rice is primarily grown during which season?"
+   },
+   "options": {
+    "te": [
+     "ఏడాది పొడవునా",
+     "ఖరీఫ్",
+     "జైద్",
+     "రబీ"
+    ],
+    "en": [
+     "All year round",
+     "Kharif",
+     "Zaid",
+     "Rabi"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "హిమాలయాలు మరియు భారతదేశ వాయువ్య ప్రాంతాలలో, నైరుతి రుతుపవనాల సమయంలో వరిని ఖరీఫ్ పంటగా పండిస్తారు.",
+    "en": "In the Himalayas and northwestern parts of India, rice is grown as a kharif crop during the southwest monsoon."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T25-0109",
+   "section": {
+    "te": "Sardar Sarovar Project",
+    "en": "Sardar Sarovar Project"
+   },
+   "q": {
+    "te": "సర్దార్ సరోవర్ ప్రాజెక్ట్ రాజస్థాన్‌లోని ఏ వ్యూహాత్మక ఎడారి జిల్లాల్లో 2,46,000 హెక్టార్ల భూమికి సాగునీటిని అందిస్తుంది?",
+    "en": "The Sardar Sarovar Project provides irrigation to 2,46,000 hectares of land in which strategic desert districts of Rajasthan?"
+   },
+   "options": {
+    "te": [
+     "బార్మర్ మరియు జలోర్",
+     "జైసల్మేర్ మరియు బార్మర్",
+     "జలోర్ మరియు జోధ్‌పూర్",
+     "జోధ్‌పూర్ మరియు బికనీర్"
+    ],
+    "en": [
+     "Barmer and Jalore",
+     "Jaisalmer and Barmer",
+     "Jalore and Jodhpur",
+     "Jodhpur and Bikaner"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "రాజస్థాన్‌లోని బార్మర్ మరియు జలోర్ అనే వ్యూహాత్మక ఎడారి జిల్లాలకు ఈ ప్రాజెక్ట్ ద్వారా సాగునీరు అందుతుందని పాఠ్యభాగం స్పష్టంగా పేర్కొంది.",
+    "en": "Barmer and Jalore as the strategic desert districts in Rajasthan receiving irrigation from the project."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T25-0117",
+   "section": {
+    "te": "Regional Farming Names",
+    "en": "Regional Farming Names"
+   },
+   "q": {
+    "te": "భారతదేశంలోని వివిధ ప్రాంతాలలో 'నరికి కాల్చివేసే' (slash and burn) వ్యవసాయానికి ఉన్న ప్రాంతీయ పేర్లను జతపరచండి:\n1. కుమారి (Kumari) - i. జార్ఖండ్\n2. కురువా (Kuruwa) - ii. పశ్చిమ కనుమలు\n3. ఖిల్ (Khil) - iii. హిమాలయ ప్రాంతం",
+    "en": "Match the following regional names of 'slash and burn' agriculture with their respective regions in India:\n1. Kumari - i. Jharkhand\n2. Kuruwa - ii. Western Ghats\n3. Khil - iii. Himalayan belt"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-i, 3-iii",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-iii, 3-i"
+    ],
+    "en": [
+     "1-ii, 2-i, 3-iii",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-iii, 3-i"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, పశ్చిమ కనుమలలో 'కుమారి', జార్ఖండ్‌లో 'కురువా' మరియు హిమాలయ ప్రాంతంలో 'ఖిల్' అని పిలుస్తారు.",
+    "en": "'Kumari' is practiced in the Western Ghats, 'Kuruwa' in Jharkhand, and 'Khil' in the Himalayan belt."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T25-0070",
+   "section": {
+    "te": "Traditional farming alignment",
+    "en": "Traditional farming alignment"
+   },
+   "q": {
+    "te": "భారతదేశంలోని సాంప్రదాయ వ్యవసాయ వ్యవస్థలు సాధారణంగా ఏ సహజ చక్రంతో అనుసంధానించబడి ఉంటాయి?",
+    "en": "Traditional farming systems in India are typically aligned with which natural cycle?"
+   },
+   "options": {
+    "te": [
+     "చంద్ర చక్రం (Lunar cycle)",
+     "ఋతు చక్రం (Ṛitu chakra)",
+     "సౌర జ్వాల చక్రం (Solar flare cycle)",
+     "పోటుపాట్ల చక్రం (Tidal cycle)"
+    ],
+    "en": [
+     "Lunar cycle",
+     "Ṛitu chakra (cycle of seasons)",
+     "Solar flare cycle",
+     "Tidal cycle"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సాంప్రదాయ వ్యవసాయం ఋతు చక్రం లేదా సహజమైన సీజన్ల చక్రంతో దగ్గరి సంబంధం కలిగి ఉంటుంది.",
+    "en": "Traditional agriculture is closely tied to the ṛitu chakra, or the natural cycle of seasons."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T25-0063",
+   "section": {
+    "te": "Terrace farming",
+    "en": "Terrace farming"
+   },
+   "q": {
+    "te": "కొండ వాలులపై మెట్ల వ్యవసాయం (Terrace farming) వల్ల కలిగే ప్రధాన ప్రయోజనాలు ఏమిటి?",
+    "en": "What are the primary benefits of terrace farming on hilly slopes?"
+   },
+   "options": {
+    "te": [
+     "నేల కోతను నివారించడం",
+     "నీటిని సంరక్షించడం",
+     "A మరియు B రెండూ",
+     "ఎరువుల అవసరాన్ని తొలగించడం"
+    ],
+    "en": [
+     "Prevention of soil erosion",
+     "Conservation of water",
+     "Both A and B",
+     "Elimination of the need for manure"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మెట్ల వ్యవసాయం వాలులపై చదునైన భూమిని సృష్టిస్తుంది, ఇది నేల కొట్టుకుపోకుండా నిరోధించడంతో పాటు నీటిని నిలుపుకోవడానికి సహాయపడుతుంది.",
+    "en": "Terrace farming creates flat land on slopes, which simultaneously prevents soil from washing away and helps in retaining water."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T25-0024",
+   "section": {
+    "te": "Intercropping crop combination",
+    "en": "Intercropping crop combination"
+   },
+   "q": {
+    "te": "పాఠ్యపుస్తకంలో అంతర పంటల సాగుకు (intercropping) ఉదాహరణగా చెరకుతో పాటు ఏ పంటను కలిపి పండించడాన్ని చూపించారు?",
+    "en": "In the textbook, which crop is cited alongside sugarcane as a practical example of intercropping?"
+   },
+   "options": {
+    "te": [
+     "గుమ్మడికాయ",
+     "పత్తి",
+     "బార్లీ",
+     "ఆవాలు"
+    ],
+    "en": [
+     "Pumpkin",
+     "Cotton",
+     "Barley",
+     "Mustard"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యపుస్తకంలోని చిత్రం 1.3 లో చెరకుతో పాటు గుమ్మడికాయను పండించడాన్ని అంతర పంటకు ఉదాహరణగా పేర్కొన్నారు.",
+    "en": "Figure 1.3 in the textbook illustrates growing sugarcane along with pumpkin as an example of intercropping."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T25-0207",
+   "section": {
+    "te": "Colonial plantation monopoly",
+    "en": "Colonial plantation monopoly"
+   },
+   "q": {
+    "te": "ఇండోనేషియాలోని చెరకు తోటల పెంపకంపై గతంలో ఏ యూరోపియన్లు గుత్తాధిపత్యాన్ని (మోనోపలీ) కలిగి ఉన్నారు?",
+    "en": "Which European power once had a monopoly over sugarcane plantations in Indonesia?"
+   },
+   "options": {
+    "te": [
+     "బ్రిటిష్ వారు",
+     "డచ్ వారు",
+     "స్పానిష్ వారు",
+     "ఫ్రెంచ్ వారు"
+    ],
+    "en": [
+     "The British",
+     "The Dutch",
+     "The Spanish",
+     "The French"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మూల గ్రంథం ప్రకారం, ఇండోనేషియాలోని చెరకు తోటల పెంపకంపై ఒకప్పుడు డచ్ వారికి గుత్తాధిపత్యం ఉండేది.",
+    "en": "The Dutch once held a monopoly over sugarcane plantation in Indonesia."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T25-0245",
+   "section": {
+    "te": "Land Use Shift Around Urban Areas",
+    "en": "Land Use Shift Around Urban Areas"
+   },
+   "q": {
+    "te": "వ్యవసాయ భూమి వ్యవసాయేతర ఉపయోగాలకు (భవనాల నిర్మాణం వంటి వాటికి) మారే ప్రక్రియ ప్రత్యేకంగా వేటి చుట్టూ తీవ్రంగా కనిపిస్తుంది?",
+    "en": "The gradual shift of land from agricultural uses to non-agricultural uses (such as building purposes) is particularly sharp around:"
+   },
+   "options": {
+    "te": [
+     "పెద్ద పట్టణ/నగర ప్రాంతాల చుట్టూ (Large urban areas)",
+     "ఎడారి సరిహద్దుల చుట్టూ",
+     "శాశ్వత పచ్చిక బయళ్ల చుట్టూ",
+     "దట్టమైన లోతట్టు అటవీ ప్రాంతాల చుట్టూ"
+    ],
+    "en": [
+     "Large urban areas",
+     "Desert margins",
+     "Permanent pasture lands",
+     "Deep interior forest reserves"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పెద్ద నగరాలు, పట్టణ ప్రాంతాల చుట్టూ వ్యవసాయ భూములు భవనాల నిర్మాణానికి మరియు వ్యవసాయేతర పనులకు వేగంగా మళ్లుతున్నాయి.",
+    "en": "The shift of land from agricultural uses to building and non-agricultural purposes is sharp around large urban areas."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T25-0156",
+   "section": {
+    "te": "Oil seeds cropped area",
+    "en": "Oil seeds cropped area"
+   },
+   "q": {
+    "te": "భారతదేశంలోని మొత్తం సాగు విస్తీర్ణంలో సుమారు ఎంత శాతం వివిధ నూనె గింజల సాగు కింద ఉంది?",
+    "en": "Approximately what percentage of the total cropped area of India is covered by different oil seeds?"
+   },
+   "options": {
+    "te": [
+     "5 శాతం",
+     "12 శాతం",
+     "20 శాతం",
+     "25 శాతం"
+    ],
+    "en": [
+     "5 per cent",
+     "12 per cent",
+     "20 per cent",
+     "25 per cent"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారతదేశంలోని మొత్తం సాగు విస్తీర్ణంలో సుమారు 12 శాతం వివిధ నూనె గింజల సాగు కింద ఉందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Various oil seeds cover about 12% of the total cropped area in India."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T25-0025",
+   "section": {
+    "te": "Xuanzang travel observation",
+    "en": "Xuanzang travel observation"
+   },
+   "q": {
+    "te": "7వ శతాబ్దంలో భారతదేశంలో పర్యటిస్తూ 'పరిస్థితిని బట్టి శీతోష్ణస్థితి మరియు నేల నాణ్యత భిన్నంగా ఉండటం వల్ల భూమి ఉత్పత్తి వైవిధ్యంగా ఉంది' అని పేర్కొన్న చైనా యాత్రికుడు ఎవరు?",
+    "en": "Which 7th-century Chinese pilgrim observed that in India, 'The climate and the quality of the soil being different according to situation, the produce of the land is various in its character'?"
+   },
+   "options": {
+    "te": [
+     "మెగస్తనీస్",
+     "యువాన్ చాంగ్ (Xuanzang)",
+     "ఫాహియాన్",
+     "ఇత్సింగ్"
+    ],
+    "en": [
+     "Megasthenes",
+     "Xuanzang",
+     "Fa-Hien",
+     "I-Tsing"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "7వ శతాబ్దంలో భారతదేశంలో పర్యటించిన చైనా యాత్రికుడు యువాన్ చాంగ్ (Xuanzang) ఇక్కడి వాతావరణం, వ్యవసాయ వైవిధ్యాన్ని ప్రశంసించాడు.",
+    "en": "Xuanzang, the Chinese pilgrim who travelled across India in the 7th century, remarked on India's climatic and agricultural diversity."
+   }
+  }
+ ]
+}

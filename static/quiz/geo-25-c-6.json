@@ -1,0 +1,942 @@
+{
+ "id": "geo-25-c-6",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Agriculture – క్విజ్ 6",
+  "en": "Agriculture – Quiz 6"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T25-0161",
+   "section": {
+    "te": "Coffee variety origin",
+    "en": "Coffee variety origin"
+   },
+   "q": {
+    "te": "భారతదేశంలో ఉత్పత్తి చేయబడే 'అరబికా' రకం కాఫీని మొదట ఏ దేశం నుండి తీసుకువచ్చారు?",
+    "en": "The 'Arabica' variety of coffee produced in India was initially brought from which country?"
+   },
+   "options": {
+    "te": [
+     "వియత్నాం",
+     "యెమెన్",
+     "ఇథియోపియా",
+     "బ్రెజిల్"
+    ],
+    "en": [
+     "Vietnam",
+     "Yemen",
+     "Ethiopia",
+     "Brazil"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రపంచవ్యాప్తంగా మంచి డిమాండ్ ఉన్న అరబికా రకం కాఫీని మొదట యెమెన్ నుండి భారతదేశానికి తీసుకువచ్చారు.",
+    "en": "The Arabica variety of coffee, which is in great demand globally, was originally brought to India from Yemen."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T25-0331",
+   "section": {
+    "te": "Tea Global Share",
+    "en": "Tea Global Share"
+   },
+   "q": {
+    "te": "2018లో ప్రపంచ మొత్తం తేయాకు ఉత్పత్తిలో భారతదేశం సుమారు ఎంత శాతం వాటాను నమోదు చేసింది?",
+    "en": "In 2018, India accounted for approximately what percentage of the total tea production in the world?"
+   },
+   "options": {
+    "te": [
+     "15.4 శాతం",
+     "21.22 శాతం",
+     "28.5 శాతం",
+     "19.7 శాతం"
+    ],
+    "en": [
+     "15.4 per cent",
+     "21.22 per cent",
+     "28.5 per cent",
+     "19.7 per cent"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "2018లో ప్రపంచ తేయాకు మొత్తం ఉత్పత్తిలో భారతదేశం సుమారు 21.22 శాతం వాటాను నమోదు చేసింది.",
+    "en": "India produced about 21.22 per cent of the world's total tea production in 2018."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T25-0073",
+   "section": {
+    "te": "Organic Farming",
+    "en": "Organic Farming"
+   },
+   "q": {
+    "te": "ప్రపంచంలోనే మొట్టమొదటి 100 శాతం సేంద్రీయ రాష్ట్రంగా గుర్తింపు పొందిన భారతీయ రాష్ట్రం ఏది?",
+    "en": "Which Indian state is recognized as the world's first 100 per cent organic state?"
+   },
+   "options": {
+    "te": [
+     "గుజరాత్",
+     "సిక్కిం",
+     "ఒడిశా",
+     "కేరళ"
+    ],
+    "en": [
+     "Gujarat",
+     "Sikkim",
+     "Odisha",
+     "Kerala"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సుస్థిర వ్యవసాయం కోసం 100% సేంద్రీయ వ్యవసాయ నమూనాను అవలంబించిన ప్రపంచంలోనే మొదటి రాష్ట్రంగా సిక్కిం నిలిచింది.",
+    "en": "Sikkim became the world's first state to adopt a 100% organic farming model for sustainable agriculture."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T25-0368",
+   "section": {
+    "te": "Water Management Policy",
+    "en": "Water Management Policy"
+   },
+   "q": {
+    "te": "ఇందిరా గాంధీ కెనాల్ ప్రాజెక్ట్ కోసం ప్రతిపాదించిన నీటి నిర్వహణ విధానానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది స్టేజ్-I లో సంరక్షణాత్మక నీటిపారుదలను (protective irrigation) నిర్దేశిస్తుంది.\n2. ఇది స్టేజ్-II లో పంటల విస్తృత నీటిపారుదల మరియు పచ్చిక బయళ్ల అభివృద్ధిని నిర్దేశిస్తుంది.\nపై ప్రకటనలలో ఏది/ఏవి సరైనది/వి?",
+    "en": "Consider the following statements regarding the water management policy envisaged for the Indira Gandhi Canal Project:\n1. It envisages protective irrigation in Stage-I.\n2. It envisages extensive irrigation of crops and pasture development in Stage-II.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నీటి నిర్వహణ విధానం ప్రకారం స్టేజ్-I లో సంరక్షణాత్మక నీటిపారుదల, స్టేజ్-II లో విస్తృత పంటల సాగు మరియు పచ్చిక బయళ్ల అభివృద్ధి ప్రతిపాదించబడ్డాయి.",
+    "en": "According to the water management policy, the project envisages protective irrigation in Stage-I and extensive irrigation of crops and pasture development in Stage-II."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T25-0192",
+   "section": {
+    "te": "Monsoon and Agriculture",
+    "en": "Monsoon and Agriculture"
+   },
+   "q": {
+    "te": "భారతదేశపు మొత్తం వ్యవసాయ చక్రం ఏ రుతుపవనం చుట్టూ తిరుగుతుంది మరియు భారత వ్యవసాయం ప్రాథమికంగా దేనిపై ఆధారపడి ఉంది?",
+    "en": "On which of the following is Indian agriculture fundamentally based, serving as the axis around which the entire agricultural cycle revolves?"
+   },
+   "options": {
+    "te": [
+     "పశ్చిమ విక్షోభాలు",
+     "నైరుతి రుతుపవనాలు",
+     "ఈశాన్య రుతుపవనాలు",
+     "తిరోగమన రుతుపవనాలు"
+    ],
+    "en": [
+     "Western disturbances",
+     "Southwest monsoon",
+     "Northeast monsoon",
+     "Retreating monsoon"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారతదేశ వ్యవసాయ చక్రం మొత్తం నైరుతి రుతుపవనాల ఆధారంగానే సాగుతుందని పాఠ్యాంశం స్పష్టం చేస్తోంది.",
+    "en": "Monsoon is the axis of the agricultural cycle because Indian agriculture itself is based on the southwest monsoon."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T25-0013",
+   "section": {
+    "te": "Scope of Agriculture",
+    "en": "Scope of Agriculture"
+   },
+   "q": {
+    "te": "విస్తృత అర్థంలో 'వ్యవసాయం' అనే పదం కింది వాటిలో దేనిని కలిగి ఉంటుంది?",
+    "en": "Broadly, the term 'agriculture' encompasses which of the following?"
+   },
+   "options": {
+    "te": [
+     "సాగు మరియు పశుసంవర్ధకం",
+     "అటవీ పెంపకం మరియు ఉద్యానవన సాగు",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Farming and Animal husbandry",
+     "Forestry and Horticulture",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "విస్తృత నిర్వచనం ప్రకారం, వ్యవసాయంలో సాగు, పశుసంవర్ధకం, అటవీ పెంపకం మరియు ఉద్యానవన సాగు (Horticulture) కలిసి ఉంటాయి.",
+    "en": "Broadly defined, agriculture includes farming, animal husbandry, forestry, and horticulture."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T25-0317",
+   "section": {
+    "te": "Rapeseed Mustard Area",
+    "en": "Rapeseed Mustard Area"
+   },
+   "q": {
+    "te": "భారతదేశంలోని మొత్తం సాగు విస్తీర్ణంలో రేప్‌సీడ్ మరియు ఆవాలు కలిసి ఎంత శాతాన్ని ఆక్రమించాయి?",
+    "en": "Rapeseed and mustard together occupy about what percentage of the total cropped area in India?"
+   },
+   "options": {
+    "te": [
+     "0.5 శాతం",
+     "2.5 శాతం",
+     "4.7 శాతం",
+     "8.5 శాతం"
+    ],
+    "en": [
+     "0.5 per cent",
+     "2.5 per cent",
+     "4.7 per cent",
+     "8.5 per cent"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "రేప్‌సీడ్ మరియు ఆవాలు కలిసి దేశంలోని మొత్తం సాగు విస్తీర్ణంలో దాదాపు 2.5 శాతాన్ని మాత్రమే ఆక్రమించాయి.",
+    "en": "Rapeseed and mustard comprise several oilseeds and together occupy only about 2.5 per cent of the total cropped area in the country."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T25-0196",
+   "section": {
+    "te": "Community Forestry Beneficiaries",
+    "en": "Community Forestry Beneficiaries"
+   },
+   "q": {
+    "te": "భూమిలేని నిరుపేద వర్గాలు చెట్ల పెంపకంలో భాగస్వామ్యమై, సాధారణంగా భూయజమానులకు మాత్రమే దక్కే ప్రయోజనాలను పొందేందుకు వీలు కల్పించే కార్యక్రమం ఏది?",
+    "en": "Which forestry programme provides a means through which landless classes can associate themselves in tree-raising and gain benefits typically restricted to landowners?"
+   },
+   "options": {
+    "te": [
+     "ఫార్మ్ అటవీకరణ",
+     "వ్యవసాయ-అటవీకరణ",
+     "సామాజిక సామూహిక అటవీకరణ (Community forestry)",
+     "వాణిజ్య అటవీకరణ"
+    ],
+    "en": [
+     "Farm forestry",
+     "Agro-forestry",
+     "Community forestry",
+     "Commercial forestry"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కమ్యూనిటీ ఫారెస్ట్రీ ద్వారా భూమిలేని పేదలు చెట్ల పెంపకంలో పాల్గొని, భూయజమానులకు మాత్రమే పరిమితమైన ప్రయోజనాలను పొందే అవకాశం లభిస్తుంది.",
+    "en": "The text specifies that community forestry enables landless classes to participate in tree-raising and receive benefits otherwise restricted to landowners."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T25-0058",
+   "section": {
+    "te": "Kulāgar farming",
+    "en": "Kulāgar farming"
+   },
+   "q": {
+    "te": "భారతదేశంలోని ఏ ప్రాంతంలో 'కులాగర్' (Kulāgar) అని పిలువబడే సాంప్రదాయ గృహ ఆధారిత వ్యవసాయ పద్ధతి సాధారణంగా అమలులో ఉంది?",
+    "en": "In which region of India is the traditional homestead farming system known as 'Kulāgar' commonly practiced?"
+   },
+   "options": {
+    "te": [
+     "కోరమాండల్ తీరం",
+     "మలబార్ తీరం",
+     "సింధు-గంగా మైదానాలు",
+     "కొంకణ్ మైదానాలు (గోవా)"
+    ],
+    "en": [
+     "Coromandel Coast",
+     "Malabar Coast",
+     "Indo-Gangetic Plains",
+     "Konkan Plains (Goa)"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "కులాగర్ అనేది కొంకణ్ మైదానాల్లో, ముఖ్యంగా గోవాలో ప్రబలంగా ఉన్న సాంప్రదాయ కుటుంబ ఆధారిత వ్యవసాయ పద్ధతి.",
+    "en": "Kulāgar is a traditional family-based farming system prevalent in the Konkan Plains, specifically in Goa."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T25-0054",
+   "section": {
+    "te": "Sprinkler irrigation",
+    "en": "Sprinkler irrigation"
+   },
+   "q": {
+    "te": "కృత్రిమ వర్షంలా పంటలపై పడే విధంగా గాల్లోకి నీటిని వెదజల్లే ఆధునిక నీటిపారుదల పద్ధతి ఏది?",
+    "en": "Which modern irrigation method sprays water into the air so that it falls over the crops like artificial rain?"
+   },
+   "options": {
+    "te": [
+     "ఫాద్ వ్యవస్థ (Phad system)",
+     "బిందు సేద్యం (Drip irrigation)",
+     "తుంపర సేద్యం (Sprinkler irrigation)",
+     "వెదురు సేద్యం (Bamboo irrigation)"
+    ],
+    "en": [
+     "Phad system",
+     "Drip irrigation",
+     "Sprinkler irrigation",
+     "Bamboo irrigation"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "తుంపర సేద్యం (Sprinkler irrigation) నీటిని గాల్లోకి చిమ్ముతుంది, అది పంటలపై కృత్రిమ వర్షంలా పడుతుంది.",
+    "en": "Sprinkler irrigation sprays water into the air, which falls over crops like artificial rain."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T25-0194",
+   "section": {
+    "te": "Agro-Forestry Products",
+    "en": "Agro-Forestry Products"
+   },
+   "q": {
+    "te": "వ్యవసాయ-అటవీకరణ (Agro-forestry) ద్వారా అటవీ మరియు వ్యవసాయాన్ని కలిపి వేటిని ఏకకాలంలో ఉత్పత్తి చేస్తారు?",
+    "en": "Agro-forestry combines forestry with agriculture for the simultaneous production of which of the following?"
+   },
+   "options": {
+    "te": [
+     "ఆహారం మరియు పశుగ్రాసం",
+     "ఇంధనం, కలప మరియు పండ్లు",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Food and fodder",
+     "Fuel, timber and fruit",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వ్యవసాయ-అటవీకరణ ద్వారా ఆహారం, పశుగ్రాసం, ఇంధనం, కలప మరియు పండ్లను ఏకకాలంలో ఉత్పత్తి చేయవచ్చు.",
+    "en": "Agro-forestry combines forestry with agriculture, altering the simultaneous production of food, fodder, fuel, timber, and fruit."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T25-0268",
+   "section": {
+    "te": "Land-saving Technologies",
+    "en": "Land-saving Technologies"
+   },
+   "q": {
+    "te": "భారతీయ వ్యవసాయంలో భూమిని ఆదా చేసే సాంకేతికతలను ఏ రెండు వర్గాలుగా వర్గీకరించారు?",
+    "en": "Land-saving technologies in Indian agriculture are classified into which two categories?"
+   },
+   "options": {
+    "te": [
+     "రసాయన ఎరువులు మరియు సేంద్రియ ఎరువులు",
+     "యూనిట్ విస్తీర్ణంలో దిగుబడిని పెంచడం మరియు భూ వినియోగ తీవ్రతను పెంచడం",
+     "A మరియు B రెండూ",
+     "యాంత్రీకరణ మరియు శారీరక శ్రమ"
+    ],
+    "en": [
+     "Chemical fertilizers and Organic manure",
+     "Raising yield per unit area and Increasing land-use intensity",
+     "Both A and B",
+     "Mechanization and Manual labour"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భూమిని ఆదా చేసే సాంకేతికతలను యూనిట్ విస్తీర్ణంలో దిగుబడిని పెంచేవి మరియు భూ వినియోగ తీవ్రతను పెంచడం ద్వారా మొత్తం ఉత్పత్తిని పెంచేవిగా పాఠ్య భాగం వర్గీకరించింది.",
+    "en": "The text classifies land-saving technologies into those that raise yield per unit area and those that increase total output by increasing land-use intensity."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T25-0350",
+   "section": {
+    "te": "Irrigation Coverage Area",
+    "en": "Irrigation Coverage Area"
+   },
+   "q": {
+    "te": "పంజాబ్, హర్యానా మరియు పశ్చిమ ఉత్తరప్రదేశ్‌లలో నికర సాగు విస్తీర్ణంలో ఎంత శాతానికి పైగా నీటిపారుదల సౌకర్యం ఉంది?",
+    "en": "In Punjab, Haryana, and western Uttar Pradesh, more than what percentage of their net sown area is under irrigation?"
+   },
+   "options": {
+    "te": [
+     "55 శాతం",
+     "75 శాతం",
+     "65 శాతం",
+     "85 శాతం"
+    ],
+    "en": [
+     "55 per cent",
+     "75 per cent",
+     "65 per cent",
+     "85 per cent"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పంజాబ్, హర్యానా మరియు పశ్చిమ ఉత్తరప్రదేశ్‌లలో నికర సాగు విస్తీర్ణంలో 85 శాతానికి పైగా నీటిపారుదల పరిధిలో ఉంది.",
+    "en": "In Punjab, Haryana and western Uttar Pradesh, more than 85 per cent of their net sown area is under irrigation."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T25-0299",
+   "section": {
+    "te": "Jowar Production Share",
+    "en": "Jowar Production Share"
+   },
+   "q": {
+    "te": "భారతదేశంలోని ఏ రాష్ట్రం దేశం మొత్తం జొన్న ఉత్పత్తిలో సగానికి పైగా ఉత్పత్తి చేస్తుంది?",
+    "en": "Which state in India produces more than half of the country's total Jowar production?"
+   },
+   "options": {
+    "te": [
+     "మహారాష్ట్ర",
+     "కర్ణాటక",
+     "ఆంధ్రప్రదేశ్",
+     "మధ్యప్రదేశ్"
+    ],
+    "en": [
+     "Maharashtra",
+     "Karnataka",
+     "Andhra Pradesh",
+     "Madhya Pradesh"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భారతదేశం మొత్తం జొన్న ఉత్పత్తిలో 50% కంటే ఎక్కువ వాటాతో మహారాష్ట్ర అగ్రగామిగా ఉంది.",
+    "en": "Maharashtra is the leading producer, accounting for more than 50% of India's total Jowar production."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T25-0348",
+   "section": {
+    "te": "Land reforms implementation",
+    "en": "Land reforms implementation"
+   },
+   "q": {
+    "te": "క్రింద రెండు ప్రకటనలు ఇవ్వబడ్డాయి, ఒకటి నిశ్చితార్థం (A) మరియు రెండవది కారణం (R):\nనిశ్చితార్థం (A): స్వాతంత్ర్యం వచ్చిన తర్వాత భారతదేశంలో భూసంస్కరణలు సమర్థవంతంగా అమలు కాలేదు.\nకారణం (R): భూస్వాముల బలమైన రాజకీయ లాబీలకు వ్యతిరేకంగా కఠిన నిర్ణయాలు తీసుకోవడాన్ని చాలా రాష్ట్ర ప్రభుత్వాలు తప్పించుకున్నాయి.\nఈ ప్రకటనల సందర్భంలో, క్రింది వాటిలో ఏది సరైనది?",
+    "en": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R):\nAssertion (A): After Independence, land reforms were not implemented effectively in India.\nReason (R): Most state governments avoided taking politically tough decisions against strong political lobbies of landlords.\nIn the context of the statements, which of the following is correct?"
+   },
+   "options": {
+    "te": [
+     "(A) మరియు (R) రెండూ సరైనవి మరియు (A) కి (R) సరైన వివరణ",
+     "(A) మరియు (R) రెండూ సరైనవి కానీ (A) కి (R) సరైన వివరణ కాదు",
+     "(A) సరైనది కానీ (R) తప్పు",
+     "(A) తప్పు కానీ (R) సరైనది"
+    ],
+    "en": [
+     "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+     "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+     "(A) is true but (R) is false",
+     "(A) is false but (R) is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "బలమైన రాజకీయ సంకల్పం లోపించడం మరియు భూస్వామ్య లాబీలకు వ్యతిరేకంగా కఠిన నిర్ణయాలు తీసుకోకపోవడం వల్ల భూసంస్కరణలు సమర్థవంతంగా అమలు కాలేదు.",
+    "en": "Land reforms lacked effective implementation because state governments avoided politically tough decisions that went against the powerful landlord lobbies."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T25-0326",
+   "section": {
+    "te": "Tea Plantation History",
+    "en": "Tea Plantation History"
+   },
+   "q": {
+    "te": "భారతదేశంలో తేయాకు తోటల పెంపకం ఏ దశాబ్దంలో మరియు ఏ ప్రాంతంలో ప్రారంభమైంది?",
+    "en": "In which decade and region did tea plantation start in India?"
+   },
+   "options": {
+    "te": [
+     "1820లలో పశ్చిమ బెంగాల్‌లోని డార్జిలింగ్‌లో",
+     "1870లలో పశ్చిమ బెంగాల్‌లోని జల్‌పైగురిలో",
+     "1840లలో అసోంలోని బ్రహ్మపుత్ర లోయలో",
+     "1850లలో తమిళనాడులోని నీలగిరి కొండల్లో"
+    ],
+    "en": [
+     "1820s in Darjeeling of West Bengal",
+     "1870s in Jalpaiguri of West Bengal",
+     "1840s in Brahmaputra valley of Assam",
+     "1850s in Nilgiri hills of Tamil Nadu"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతదేశంలో తేయాకు తోటల పెంపకం 1840లలో అసోంలోని బ్రహ్మపుత్ర లోయలో ప్రారంభమైంది.",
+    "en": "Tea plantation in India was started in the 1840s in the Brahmaputra valley of Assam."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T25-0236",
+   "section": {
+    "te": "Barren and Wastelands",
+    "en": "Barren and Wastelands"
+   },
+   "q": {
+    "te": "ప్రస్తుతం అందుబాటులో ఉన్న సాంకేతిక పరిజ్ఞానంతో సాధారణంగా సాగులోకి తీసుకురాలేని 'బంజరు మరియు వ్యర్థ భూములు'గా క్రింది వాటిలో వేటిని వర్గీకరించారు?",
+    "en": "Which of the following are classified as 'Barren and Wastelands' that normally cannot be brought under cultivation with available technology?"
+   },
+   "options": {
+    "te": [
+     "బీడు కొండ ప్రాంతాలు (Barren hilly terrains)",
+     "ఎడారి భూములు మరియు లోయలు (Ravines)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Barren hilly terrains",
+     "Desert lands and ravines",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "బీడు కొండ ప్రాంతాలు, ఎడారి భూములు మరియు లోయలు సాధారణంగా అందుబాటులో ఉన్న సాంకేతికతతో సాగులోకి తీసుకురాలేని వ్యర్థ భూములుగా వర్గీకరించబడ్డాయి.",
+    "en": "The source identifies barren hilly terrains, desert lands, and ravines as wastelands that normally cannot be cultivated with available technology."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T25-0038",
+   "section": {
+    "te": "Zaid crops",
+    "en": "Zaid crops"
+   },
+   "q": {
+    "te": "భారతదేశంలో జైద్ (zaid) పంటలుగా క్రింది వాటిలో వేటిని సాగు చేస్తారు?",
+    "en": "Which of the following are cultivated as zaid crops in India?"
+   },
+   "options": {
+    "te": [
+     "గుమ్మడికాయ (Pumpkin)",
+     "ఖర్బూజ (Muskmelon)",
+     "A మరియు B రెండూ",
+     "బార్లీ (Barley)"
+    ],
+    "en": [
+     "Pumpkin",
+     "Muskmelon",
+     "Both A and B",
+     "Barley"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "గుమ్మడికాయ, దోసకాయ, ఖర్బూజ మరియు పుచ్చకాయలు వేసవి కాలంలో పండించే జైద్ పంటలు.",
+    "en": "Pumpkin, cucumber, muskmelon, and watermelon are zaid crops grown in the summer season."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T25-0210",
+   "section": {
+    "te": "Commercial grain farming yield",
+    "en": "Commercial grain farming yield"
+   },
+   "q": {
+    "te": "విస్తృత వాణిజ్య ధాన్యపు వ్యవసాయంలో (Extensive commercial grain cultivation) దిగుబడికి సంబంధించి క్రింది వాటిలో ఏది సరైన లక్షణం?",
+    "en": "Which of the following is a characteristic feature of crop yield in extensive commercial grain cultivation?"
+   },
+   "options": {
+    "te": [
+     "ఎకరాకు ఎక్కువ దిగుబడి మరియు వ్యక్తికి ఎక్కువ దిగుబడి",
+     "ఎకరాకు ఎక్కువ దిగుబడి కానీ వ్యక్తికి తక్కువ దిగుబడి",
+     "ఎకరాకు తక్కువ దిగుబడి కానీ వ్యక్తికి ఎక్కువ దిగుబడి",
+     "ఎకరాకు తక్కువ దిగుబడి మరియు వ్యక్తికి తక్కువ దిగుబడి"
+    ],
+    "en": [
+     "High yield per acre and high yield per person",
+     "High yield per acre but low yield per person",
+     "Low yield per acre but high yield per person",
+     "Low yield per acre and low yield per person"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "విస్తృత వాణిజ్య ధాన్యపు సాగులో యంత్రాల వాడకం ఎక్కువ ఉండటం వల్ల ఎకరాకు తక్కువ దిగుబడి ఉన్నప్పటికీ, వ్యక్తికి వచ్చే దిగుబడి ఎక్కువగా ఉంటుంది.",
+    "en": "In extensive commercial grain cultivation, farms are large and mechanised, resulting in low yield per acre but high yield per person."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T25-0235",
+   "section": {
+    "te": "Forest Land Classification",
+    "en": "Forest Land Classification"
+   },
+   "q": {
+    "te": "భారతదేశంలోని భూ రెవెన్యూ రికార్డుల ప్రకారం, వాస్తవ అటవీ విస్తీర్ణం పెరగకపోయినా 'అడవులు' (Forests) వర్గపు భూవినియోగం పెరగడానికి కారణం ఏమిటి?",
+    "en": "Under the land revenue records in India, an increase in the 'Forests' land-use category can occur without any actual increase in forest cover because:"
+   },
+   "options": {
+    "te": [
+     "ఇది కేవలం ప్రైవేట్ తోటల భూములను మాత్రమే సూచిస్తుంది",
+     "ఇది అటవీ పెరుగుదల కోసం ప్రభుత్వం గుర్తించి సరిహద్దులు నిర్ణయించిన ప్రాంతంపై ఆధారపడి ఉంటుంది",
+     "ఇందులో అన్ని బంజరు మరియు సాగుయోగ్యమైన వ్యర్థ భూములు కలిసి ఉంటాయి",
+     "ఇది ప్రతి సంవత్సరం ఉపగ్రహ రిమోట్ సెన్సింగ్ ద్వారా కొలవబడుతుంది"
+    ],
+    "en": [
+     "It represents only private plantation lands",
+     "It is based on the area identified and demarcated by the Government for forest growth",
+     "It includes all barren and culturable wastelands",
+     "It is measured through satellite remote sensing annually"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "రెవెన్యూ రికార్డులలో అటవీ వర్గం అనేది ప్రభుత్వం అటవీ పెంపకం కోసం కేటాయించిన/గుర్తించిన ప్రాంతం. కాబట్టి ప్రభుత్వం కొత్త ప్రాంతాన్ని కేటాయిస్తే వాస్తవ చెట్లు పెరగకపోయినా ఈ వర్గం విస్తీర్ణం పెరుగుతుంది.",
+    "en": "The land-use category of 'Forests' in land revenue records refers to the area demarcated by the Government for forest growth, so demarcating more area can increase this category without an increase in actual forest cover."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T25-0179",
+   "section": {
+    "te": "Bhoodan Movement",
+    "en": "Bhoodan Movement"
+   },
+   "q": {
+    "te": "వినోబా భావే ప్రారంభించిన భూదాన్-గ్రామదాన్ ఉద్యమాన్ని ఈ క్రింది ఏ పేరుతో కూడా పిలుస్తారు?",
+    "en": "The Bhoodan-Gramdan movement initiated by Vinoba Bhave is also known by which of the following names?"
+   },
+   "options": {
+    "te": [
+     "రక్త రహిత విప్లవం (Blood-less Revolution)",
+     "హరిత విప్లవం",
+     "సత్యాగ్రహ విప్లవం",
+     "శ్వేత విప్లవం"
+    ],
+    "en": [
+     "Blood-less Revolution",
+     "Green Revolution",
+     "Satyagraha Revolution",
+     "White Revolution"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూదాన్-గ్రామదాన్ ఉద్యమం శాంతియుత మార్గాల ద్వారా భూ పంపిణీని లక్ష్యంగా పెట్టుకున్నందున దీనిని రక్త రహిత విప్లవం అని పిలుస్తారు.",
+    "en": "The Bhoodan-Gramdan movement is referred to as the Blood-less Revolution because it aimed at land redistribution through peaceful means."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T25-0334",
+   "section": {
+    "te": "HYV seed origins",
+    "en": "HYV seed origins"
+   },
+   "q": {
+    "te": "1960ల మధ్యకాలంలో భారతదేశంలో ప్రవేశపెట్టబడిన గోధుమ మరియు వరి అధిక దిగుబడి రకాలు (HYVs) వరుసగా ఏ దేశాలలో అభివృద్ధి చేయబడ్డాయి?",
+    "en": "The high yielding varieties (HYVs) of wheat and rice introduced in India in the mid-1960s were originally developed in which countries respectively?"
+   },
+   "options": {
+    "te": [
+     "యు.ఎస్.ఎ మరియు ఫిలిప్పీన్స్",
+     "మెక్సికో మరియు ఫిలిప్పీన్స్",
+     "ఫిలిప్పీన్స్ మరియు మెక్సికో",
+     "జపాన్ మరియు మెక్సికో"
+    ],
+    "en": [
+     "USA and Philippines",
+     "Mexico and Philippines",
+     "Philippines and Mexico",
+     "Japan and Mexico"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "1960ల మధ్య నాటికి మెక్సికోలో అభివృద్ధి చేసిన గోధుమ మరియు ఫిలిప్పీన్స్‌లో అభివృద్ధి చేసిన వరి అధిక దిగుబడి రకాలు సాగుకు అందుబాటులోకి వచ్చాయి.",
+    "en": "By the mid-1960s, new high yielding varieties of wheat developed in Mexico and rice developed in the Philippines became available for cultivation."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T25-0173",
+   "section": {
+    "te": "Fibre Crops",
+    "en": "Fibre Crops"
+   },
+   "q": {
+    "te": "భారతదేశంలో పండించే ప్రధాన పీచు పంటలలో (fibre crops) ఏది నేలలో పెరిగే పంటల నుండి లభించదు?",
+    "en": "Which of the following major fibre crops grown in India is NOT derived from crops grown in the soil?"
+   },
+   "options": {
+    "te": [
+     "సహజ పట్టు",
+     "జనపనార",
+     "ప్రత్తి",
+     "హెంప్ (Hemp)"
+    ],
+    "en": [
+     "Natural Silk",
+     "Jute",
+     "Cotton",
+     "Hemp"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రత్తి, జనపనార మరియు హెంప్ నేలలో పెరిగే పంటల నుండి లభిస్తాయి, అయితే సహజ పట్టు పట్టుపురుగుల గూళ్ల (cocoons) నుండి లభిస్తుంది.",
+    "en": "Cotton, jute, and hemp are derived from crops grown in the soil, whereas natural silk is obtained from cocoons of silkworms."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T25-0328",
+   "section": {
+    "te": "Agricultural Programmes 1950s",
+    "en": "Agricultural Programmes 1950s"
+   },
+   "q": {
+    "te": "1950ల చివరలో వ్యవసాయ రంగంలో వచ్చిన స్తబ్దతను అధిగమించడానికి ప్రభుత్వం క్రింది ఏ కార్యక్రమాలను ప్రారంభించింది?",
+    "en": "Which of the following programmes were launched to overcome agricultural stagnation in India during the late 1950s?"
+   },
+   "options": {
+    "te": [
+     "ఇంటెన్సివ్ అగ్రికల్చరల్ డిస్ట్రిక్ట్ ప్రోగ్రామ్ (IADP)",
+     "ఇంటెన్సివ్ అగ్రికల్చరల్ ఏరియా ప్రోగ్రామ్ (IAAP)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Intensive Agricultural District Programme (IADP)",
+     "Intensive Agricultural Area Programme (IAAP)",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "1950ల చివరలో స్తబ్దతను అధిగమించడానికి IADP మరియు IAAP అనే రెండు కార్యక్రమాలను ప్రారంభించారు.",
+    "en": "Both IADP and IAAP were launched to overcome agricultural production stagnation of the late 1950s."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T25-0320",
+   "section": {
+    "te": "Sugarcane Production UP",
+    "en": "Sugarcane Production UP"
+   },
+   "q": {
+    "te": "దేశంలోని మొత్తం చెరకు ఉత్పత్తిలో సుమారు ఎంత వంతును ఉత్తరప్రదేశ్ ఉత్పత్తి చేస్తుంది?",
+    "en": "What proportion of India's total sugarcane production is produced by Uttar Pradesh?"
+   },
+   "options": {
+    "te": [
+     "నాలుగింట మూడు వంతులు (Three-fourth)",
+     "ఐదింట రెండు వంతులు (Two-fifth)",
+     "సగం (One-half)",
+     "మూడింట ఒక వంతు (One-third)"
+    ],
+    "en": [
+     "Three-fourth",
+     "Two-fifth",
+     "One-half",
+     "One-third"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఉత్తరప్రదేశ్ రాష్ట్రం భారతదేశపు మొత్తం చెరకు ఉత్పత్తిలో సుమారు ఐదింట రెండు వంతులను (two-fifth) ఉత్పత్తి చేస్తుంది.",
+    "en": "Uttar Pradesh alone produces about two-fifth of the total sugarcane produced in the country."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T25-0373",
+   "section": {
+    "te": "Eco-development Stage-II Fragility",
+    "en": "Eco-development Stage-II Fragility"
+   },
+   "q": {
+    "te": "సుస్థిర అభివృద్ధి చర్యల ప్రకారం, అడవుల పెంపకం, షెల్టర్‌బెల్ట్ ప్లాంటేషన్ మరియు పచ్చిక బయళ్ల అభివృద్ధి ద్వారా పర్యావరణ అభివృద్ధి క్రింది ఏ దశ యొక్క సున్నితమైన వాతావరణంలో ప్రత్యేకంగా అవసరం?",
+    "en": "According to the measures for sustainable development, eco-development through afforestation, shelterbelt plantation, and pasture development is necessary particularly in the fragile environment of:"
+   },
+   "options": {
+    "te": [
+     "స్టేజ్-III",
+     "స్టేజ్-I",
+     "స్టేజ్-II",
+     "స్టేజ్-IV"
+    ],
+    "en": [
+     "Stage-III",
+     "Stage-I",
+     "Stage-II",
+     "Stage-IV"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "స్టేజ్-II లోని సున్నితమైన వాతావరణంలో అడవుల పెంపకం, షెల్టర్‌బెల్ట్ ప్లాంటేషన్ మరియు పచ్చిక బయళ్ల అభివృద్ధి ద్వారా పర్యావరణ అభివృద్ధి అత్యంత అవసరం.",
+    "en": "Eco-development through afforestation, shelterbelt plantation, and pasture development is specifically stated as necessary in Stage-II."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T25-0201",
+   "section": {
+    "te": "Regions of Shifting Cultivation",
+    "en": "Regions of Shifting Cultivation"
+   },
+   "q": {
+    "te": "క్రింది ఏ ఉష్ణమండల ప్రాంతాలలోని తెగలు ప్రాథమిక జీవనాధార వ్యవసాయాన్ని (పోడు వ్యవసాయం) విస్తృతంగా ఆచరిస్తున్నారు?",
+    "en": "In which of the following tropical regions is primitive subsistence agriculture widely practised by tribes?"
+   },
+   "options": {
+    "te": [
+     "ఆఫ్రికా",
+     "దక్షిణ మరియు మధ్య అమెరికా",
+     "ఆగ్నేయాసియా",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Africa",
+     "South and Central America",
+     "South East Asia",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఆఫ్రికా, దక్షిణ మరియు మధ్య అమెరికా, మరియు ఆగ్నేయాసియా ప్రాంతాల ఉష్ణమండల తెగలు ఈ వ్యవసాయాన్ని విస్తృతంగా ఆచరిస్తున్నాయి.",
+    "en": "Primitive subsistence agriculture is widely practiced in the tropics, particularly in Africa, South and Central America, and South East Asia."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T25-0125",
+   "section": {
+    "te": "Bamboo Drip Irrigation",
+    "en": "Bamboo Drip Irrigation"
+   },
+   "q": {
+    "te": "వెదురు బిందు సేద్యం (bamboo drip irrigation) వ్యవస్థకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. సుమారు 18-20 లీటర్ల నీరు ఈ వ్యవస్థలోకి ప్రవేశిస్తుంది.\n2. పైపుల స్థానాలను మార్చడం ద్వారా నీటి ప్రవాహాన్ని నియంత్రిస్తారు.\n3. పైపులు రహదారిని దాటవలసి వస్తే, వాటిని భూమికి చాలా ఎత్తులో తీసుకువెళతారు.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Regarding the bamboo drip irrigation system, consider the following statements:\n1. About 18-20 litres of water enters the system.\n2. The flow of water is controlled by manipulating the pipe positions.\n3. If pipes pass a road, they are taken high above the land.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మేఘాలయలోని వెదురు బిందు సేద్యం వ్యవస్థను వివరించే పాఠ్యభాగం ఈ మూడు ప్రకటనలను నేరుగా ధృవీకరిస్తుంది.",
+    "en": "All three statements are directly supported by the text describing the bamboo drip irrigation system in Meghalaya."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T25-0304",
+   "section": {
+    "te": "Groundnut Cropping Season",
+    "en": "Groundnut Cropping Season"
+   },
+   "q": {
+    "te": "వేరుశనగ మెట్ట ప్రాంతాలలో ప్రధానంగా ఖరీఫ్ పంట అయినప్పటికీ, ఏ ప్రాంతంలో దీనిని రబీ సీజన్‌లో కూడా పండిస్తారు?",
+    "en": "While groundnut is largely a Kharif crop in drylands, in which region is it also cultivated during the Rabi season?"
+   },
+   "options": {
+    "te": [
+     "పశ్చిమ రాజస్థాన్",
+     "దక్షిణ భారతదేశం",
+     "ఉత్తర భారతదేశం",
+     "ఈశాన్య భారతదేశం"
+    ],
+    "en": [
+     "Western Rajasthan",
+     "Southern India",
+     "Northern India",
+     "North-eastern India"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వేరుశనగ ప్రాథమికంగా ఖరీఫ్ పంట, కానీ దక్షిణ భారతదేశంలో దీనిని రబీ సీజన్‌లో కూడా పండిస్తారు.",
+    "en": "Groundnut is primarily a Kharif crop, but in southern India, it is also grown during the Rabi season."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T25-0351",
+   "section": {
+    "te": "Tubewell Irrigation Punjab",
+    "en": "Tubewell Irrigation Punjab"
+   },
+   "q": {
+    "te": "పంజాబ్‌లోని మొత్తం నికర నీటిపారుదల విస్తీర్ణంలో బావులు మరియు బోరుబావుల (ట్యూబ్‌వెల్స్) ద్వారా ఎంత శాతం సాగవుతోంది?",
+    "en": "Of the total net irrigated area in Punjab, what percentage is irrigated through wells and tubewells?"
+   },
+   "options": {
+    "te": [
+     "65.4 శాతం",
+     "51.3 శాతం",
+     "76.1 శాతం",
+     "85.0 శాతం"
+    ],
+    "en": [
+     "65.4 per cent",
+     "51.3 per cent",
+     "76.1 per cent",
+     "85.0 per cent"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పంజాబ్‌లో మొత్తం నికర నీటిపారుదల విస్తీర్ణంలో 76.1 శాతం బావులు మరియు బోరుబావుల ద్వారా సాగవుతోంది.",
+    "en": "In Punjab, 76.1 per cent of the total net irrigated area is irrigated through wells and tubewells."
+   }
+  }
+ ]
+}

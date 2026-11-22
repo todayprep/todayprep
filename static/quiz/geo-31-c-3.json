@@ -1,0 +1,942 @@
+{
+ "id": "geo-31-c-3",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Biodiversity – క్విజ్ 3",
+  "en": "Biodiversity – Quiz 3"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T31-0058",
+   "section": {
+    "te": "Tiger Population",
+    "en": "Tiger Population"
+   },
+   "q": {
+    "te": "పులుల సంఖ్య 1,827కి తగ్గిపోయిందని అధికారులు ఏ సంవత్సరంలో గుర్తించారు?",
+    "en": "In which year did the authorities realize that the tiger population had dwindled to 1,827?"
+   },
+   "options": {
+    "te": [
+     "1983",
+     "1970",
+     "1973",
+     "1963"
+    ],
+    "en": [
+     "1983",
+     "1970",
+     "1973",
+     "1963"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, 1973లో పులుల సంఖ్య గణనీయంగా 1,827కి తగ్గిపోయిందని అధికారులు కనుగొన్నారు.",
+    "en": "It was in 1973 that authorities found the tiger population had dropped significantly to 1,827."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T31-0032",
+   "section": {
+    "te": "Grassland Biome",
+    "en": "Grassland Biome"
+   },
+   "q": {
+    "te": "ఆఫ్రికాలోని సవన్నాలలో (Savannas) సాధారణంగా కింది ఏ జంతువులు కనిపిస్తాయి?",
+    "en": "Which of the following animals are typically found in the Savannas of Africa?"
+   },
+   "options": {
+    "te": [
+     "ఒంటెలు మరియు బల్లులు",
+     "సింహాలు, ఏనుగులు మరియు జిరాఫీలు",
+     "తిమింగలాలు మరియు డాల్ఫిన్లు",
+     "రెయిన్ డీర్ మరియు ఆర్కిటిక్ నక్కలు"
+    ],
+    "en": [
+     "Camels and lizards",
+     "Lions, elephants, and giraffes",
+     "Whales and dolphins",
+     "Reindeer and Arctic foxes"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఆఫ్రికాలోని సవన్నాలు (ఉష్ణమండల గడ్డి భూములు) సింహాలు, ఏనుగులు మరియు జిరాఫీల వంటి పెద్ద జంతువులకు నిలయం.",
+    "en": "The Savannas (tropical grasslands) in Africa are home to large animals like lions, elephants, and giraffes."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T31-0091",
+   "section": {
+    "te": "IUCN Classification",
+    "en": "IUCN Classification"
+   },
+   "q": {
+    "te": "సంరక్షణ కోసం ఐయుసిఎన్ (IUCN) మొక్కలు మరియు జంతువుల ముప్పులో ఉన్న జాతులను ఎన్ని వర్గాలుగా వర్గీకరించింది?",
+    "en": "Into how many categories has the IUCN classified threatened species for the purpose of conservation?"
+   },
+   "options": {
+    "te": [
+     "ఐదు",
+     "నాలుగు",
+     "మూడు",
+     "రెండు"
+    ],
+    "en": [
+     "Five",
+     "Four",
+     "Three",
+     "Two"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సంరక్షణ ప్రయోజనాల కోసం IUCN ముప్పులో ఉన్న జాతులను మూడు వర్గాలుగా వర్గీకరించింది.",
+    "en": "The IUCN has classified threatened species into three categories for conservation purposes."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T31-0014",
+   "section": {
+    "te": "Global rainforest locations",
+    "en": "Global rainforest locations"
+   },
+   "q": {
+    "te": "క్రింది వర్షారణ్య బేసిన్‌లను వాటి సంబంధిత ప్రాంతాలతో జతపరచండి:\n1. అమెజాన్ బేసిన్ - i. ఆఫ్రికా\n2. కాంగో బేసిన్ - ii. ఆగ్నేయాసియా\n3. ఇండోనేషియా/మలేషియా - iii. దక్షిణ అమెరికా",
+    "en": "Match the following rainforest basins with their respective regions:\n1. Amazon Basin - i. Africa\n2. Congo Basin - ii. Southeast Asia\n3. Indonesia/Malaysia - iii. South America"
+   },
+   "options": {
+    "te": [
+     "1-iii, 2-i, 3-ii",
+     "1-i, 2-iii, 3-ii",
+     "1-ii, 2-i, 3-iii",
+     "1-iii, 2-ii, 3-i"
+    ],
+    "en": [
+     "1-iii, 2-i, 3-ii",
+     "1-i, 2-iii, 3-ii",
+     "1-ii, 2-i, 3-iii",
+     "1-iii, 2-ii, 3-i"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అమెజాన్ దక్షిణ అమెరికాలో ఉంది, కాంగో ఆఫ్రికాలో ఉంది మరియు ఇండోనేషియా/మలేషియా ఆగ్నేయాసియాలో ఉన్నాయి.",
+    "en": "Amazon is in South America, Congo is in Africa, and Indonesia/Malaysia are in Southeast Asia."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T31-0069",
+   "section": {
+    "te": "NTPC Certification",
+    "en": "NTPC Certification"
+   },
+   "q": {
+    "te": "NTPC తన పర్యావరణ నిర్వహణ వ్యవస్థ (EMS) కోసం ఏ ISO ధృవీకరణను కలిగి ఉంది?",
+    "en": "Which ISO certification does NTPC hold for its Environment Management System (EMS)?"
+   },
+   "options": {
+    "te": [
+     "ISO 9001",
+     "ISO 50001",
+     "ISO 14001",
+     "ISO 27001"
+    ],
+    "en": [
+     "ISO 9001",
+     "ISO 50001",
+     "ISO 14001",
+     "ISO 27001"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "NTPC తన పర్యావరణ నిర్వహణ వ్యవస్థ కోసం ISO 14001 ధృవీకరణను కలిగి ఉంది.",
+    "en": "NTPC holds the ISO 14001 certification for its Environment Management System."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T31-0076",
+   "section": {
+    "te": "Nuclear Waste Effects",
+    "en": "Nuclear Waste Effects"
+   },
+   "q": {
+    "te": "అణు విద్యుత్ కేంద్రాలు మరియు ఆయుధ తయారీ కేంద్రాల నుండి వచ్చే వ్యర్థాలు ఈ క్రింది వాటిలో దేనికి కారణమవుతాయి?",
+    "en": "Wastes from nuclear power plants and weapon production facilities are known to cause which of the following?"
+   },
+   "options": {
+    "te": [
+     "క్యాన్సర్లు",
+     "పుట్టుకతో వచ్చే లోపాలు",
+     "గర్భస్రావాలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Cancers",
+     "Birth defects",
+     "Miscarriages",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అణు వ్యర్థాలు క్యాన్సర్లు, పుట్టుకతో వచ్చే లోపాలు మరియు గర్భస్రావాలకు కారణమవుతాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Nuclear wastes cause cancers, birth defects, and miscarriages."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T31-0142",
+   "section": {
+    "te": "Water Pollution Causes",
+    "en": "Water Pollution Causes"
+   },
+   "q": {
+    "te": "నీటి కాలుష్యానికి కారణాలుగా ఈ క్రింది ఏ సాంస్కృతిక కార్యకలాపాలు పేర్కొనబడ్డాయి?\n1. తీర్థయాత్రలు (Pilgrimage)\n2. మతపరమైన జాతరలు (Religious fairs)\n3. పర్యాటకం (Tourism)",
+    "en": "Which of the following cultural activities are mentioned as causes of water pollution?\n1. Pilgrimage\n2. Religious fairs\n3. Tourism"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "1 and 2 only",
+     "1 and 3 only",
+     "2 and 3 only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నీటి కాలుష్యానికి కారణమయ్యే సాంస్కృతిక కార్యకలాపాలుగా తీర్థయాత్రలు, మతపరమైన జాతరలు మరియు పర్యాటకాన్ని పాఠ్యభాగం స్పష్టంగా పేర్కొంది.",
+    "en": "Pilgrimage, religious fairs, and tourism as cultural activities that cause water pollution."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T31-0093",
+   "section": {
+    "te": "Genetic Diversity Definition",
+    "en": "Genetic Diversity Definition"
+   },
+   "q": {
+    "te": "జన్యు వైవిధ్యానికి సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది జాతుల లోపల జన్యువుల వైవిధ్యాన్ని సూచిస్తుంది.\n2. జాతుల జనాభా యొక్క ఆరోగ్యకరమైన సంతానోత్పత్తికి ఇది అవసరం.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding genetic diversity:\n1. It refers to the variation of genes within species.\n2. It is essential for a healthy breeding of population of species.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వ్యాసం ప్రకారం రెండు ప్రకటనలూ సరైనవే; జన్యు వైవిధ్యం జాతుల లోపల జన్యు వైవిధ్యాన్ని కలిగి ఉంటుంది మరియు ఆరోగ్యకరమైన సంతానోత్పత్తికి తోడ్పడుతుంది.",
+    "en": "Both statements are correct according to the text; genetic diversity involves gene variation within species and supports healthy breeding."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T31-0116",
+   "section": {
+    "te": "Population Bomb Publication",
+    "en": "Population Bomb Publication"
+   },
+   "q": {
+    "te": "ఎర్లిచ్ రాసిన 'ది పాపులేషన్ బాంబ్' ఏ సంవత్సరంలో ప్రచురించబడింది?",
+    "en": "In which year was 'The Population Bomb' by Ehrlich published?"
+   },
+   "options": {
+    "te": [
+     "1972",
+     "1987",
+     "1960",
+     "1968"
+    ],
+    "en": [
+     "1972",
+     "1987",
+     "1960",
+     "1968"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్య భాగం ప్రకారం, 'ది పాపులేషన్ బాంబ్' 1968లో ఎర్లిచ్ చేత ప్రచురించబడింది, ఇది పర్యావరణ సమస్యలపై అవగాహనను పెంచింది.",
+    "en": "'The Population Bomb' was published by Ehrlich in 1968, raising awareness about environmental issues."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T31-0045",
+   "section": {
+    "te": "Geographical Barriers",
+    "en": "Geographical Barriers"
+   },
+   "q": {
+    "te": "జీవవైవిధ్యం యొక్క భౌగోళిక అంశాలకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. నదులు మరియు పర్వతాలు జంతువుల కదలికకు అడ్డంకులుగా పనిచేస్తాయి.\n2. సహజ కారిడార్లు (Corridors) జనాభా మధ్య జన్యువుల ప్రవాహాన్ని ప్రభావితం చేస్తాయి.\n3. సంరక్షణ ప్రణాళిక లోయల వంటి సహజ లక్షణాలను విస్మరిస్తుంది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding geographical aspects of biodiversity:\n1. Rivers and mountains can act as barriers to animal movement.\n2. Natural corridors influence the flow of genes between populations.\n3. Conservation planning ignores natural features like valleys.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నదులు మరియు పర్వతాల వంటి సహజ లక్షణాలు జంతువుల కదలిక మరియు జన్యు ప్రవాహాన్ని ప్రభావితం చేసే అడ్డంకులు లేదా కారిడార్లు అని పాఠ్యభాగం పేర్కొంది, మరియు వీటిని సంరక్షణ ప్రణాళికలో ఉపయోగిస్తారు.",
+    "en": "Natural features like rivers and mountains are barriers or corridors that influence movement and gene flow, and they are used in conservation planning."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T31-0102",
+   "section": {
+    "te": "Rare species characteristics",
+    "en": "Rare species characteristics"
+   },
+   "q": {
+    "te": "ప్రపంచంలో జనాభా చాలా స్వల్పంగా ఉండి, పరిమిత ప్రాంతాలకే పరిమితమై లేదా విస్తృత ప్రాంతంలో పలుచగా విస్తరించి ఉన్న జాతులను ఏ వర్గంగా పేర్కొంటారు?",
+    "en": "Which category of species is characterized by having a very small population globally, being confined to limited areas or thinly scattered over a wider area?"
+   },
+   "options": {
+    "te": [
+     "అరుదైన జాతులు (Rare species)",
+     "అంతరించిపోతున్న జాతులు (Endangered species)",
+     "ముప్పును ఎదుర్కొంటున్న జాతులు (Vulnerable species)",
+     "విదేశీ జాతులు (Exotic species)"
+    ],
+    "en": [
+     "Rare species",
+     "Endangered species",
+     "Vulnerable species",
+     "Exotic species"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రపంచంలో జనాభా చాలా తక్కువగా ఉండి, పరిమిత ప్రాంతాలకు పరిమితమైన లేదా పలుచగా విస్తరించిన జాతులను 'అరుదైన జాతులు' (Rare species) అంటారు.",
+    "en": "According to the section on 'Rare Species', their population is very small in the world and they are confined to limited areas or thinly scattered over a wider area."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T31-0034",
+   "section": {
+    "te": "Biome Pyramid",
+    "en": "Biome Pyramid"
+   },
+   "q": {
+    "te": "బయోమ్ పిరమిడ్‌లోని కింది పోషక స్థాయిలను అడుగు నుండి పైకి అమర్చండి:\n1. అగ్ర మాంసాహారులు\n2. శాఖాహారులు\n3. ఉత్పత్తిదారులు\n4. మాంసాహారులు",
+    "en": "Arrange the following trophic levels in a biome pyramid from the base to the top:\n1. Top predators\n2. Herbivores\n3. Producers\n4. Carnivores"
+   },
+   "options": {
+    "te": [
+     "3-2-4-1",
+     "3-4-2-1",
+     "2-3-4-1",
+     "1-4-2-3"
+    ],
+    "en": [
+     "3-2-4-1",
+     "3-4-2-1",
+     "2-3-4-1",
+     "1-4-2-3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అడుగు నుండి పైకి సరైన క్రమం: ఉత్పత్తిదారులు, తర్వాత శాఖాహారులు (ప్రాథమిక), తర్వాత మాంసాహారులు (ద్వితీయ), మరియు చివరగా అగ్ర మాంసాహారులు (తృతీయ).",
+    "en": "The correct order from base to top is Producers, then Herbivores (primary), then Carnivores (secondary), and finally Top predators (tertiary)."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T31-0096",
+   "section": {
+    "te": "Evolutionary Timeline",
+    "en": "Evolutionary Timeline"
+   },
+   "q": {
+    "te": "నేడు మనకున్న జీవవైవిధ్యం ఎన్ని సంవత్సరాల పరిణామ ఫలితం?",
+    "en": "Biodiversity as we have today is the result of how many years of evolution?"
+   },
+   "options": {
+    "te": [
+     "4.5-5.5 బిలియన్ సంవత్సరాలు",
+     "1.5-2.5 బిలియన్ సంవత్సరాలు",
+     "3.5-4.5 బిలియన్ సంవత్సరాలు",
+     "2.5-3.5 బిలియన్ సంవత్సరాలు"
+    ],
+    "en": [
+     "4.5-5.5 billion years",
+     "1.5-2.5 billion years",
+     "3.5-4.5 billion years",
+     "2.5-3.5 billion years"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నేటి జీవవైవిధ్యం 2.5 నుండి 3.5 బిలియన్ సంవత్సరాల పరిణామ ఫలితమని వ్యాసం పేర్కొంది.",
+    "en": "Modern biodiversity is the result of 2.5 to 3.5 billion years of evolution."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T31-0004",
+   "section": {
+    "te": "Biome etymology",
+    "en": "Biome etymology"
+   },
+   "q": {
+    "te": "'బయోమ్' (biome) అనే పదం ఏ భాష నుండి ఉద్భవించింది మరియు దాని ప్రిఫిక్స్ 'బయో' అంటే ఏమిటి?",
+    "en": "The term 'biome' is derived from which language, and what does its prefix 'bio' mean?"
+   },
+   "options": {
+    "te": [
+     "గ్రీకు; 'పర్యావరణం' అని అర్థం",
+     "లాటిన్; 'భూమి' అని అర్థం",
+     "లాటిన్; 'ప్రకృతి' అని అర్థం",
+     "గ్రీకు; 'జీవం' (Life) అని అర్థం"
+    ],
+    "en": [
+     "Greek; meaning 'Environment'",
+     "Latin; meaning 'Earth'",
+     "Latin; meaning 'Nature'",
+     "Greek; meaning 'Life'"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "'బయోమ్' అనే పదం గ్రీకు పదం 'బయోస్' నుండి వచ్చింది, దీని అర్థం 'జీవం'.",
+    "en": "The word 'biome' comes from the Greek word 'bios', which means 'life'."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T31-0035",
+   "section": {
+    "te": "Desert Biome",
+    "en": "Desert Biome"
+   },
+   "q": {
+    "te": "ఎడారి పరిస్థితులకు ప్రత్యేకంగా అలవాటు పడిన జంతువులుగా కింది వాటిలో ఏవి పేర్కొనబడ్డాయి?\nA. ఒంటెలు\nB. బల్లులు\nC. పాములు",
+    "en": "Which of the following animals are mentioned as being specially adapted to desert conditions?\nA. Camels\nB. Lizards\nC. Snakes"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "తీవ్రమైన ఎడారి పరిస్థితులలో జీవించడానికి ఒంటెలు, బల్లులు మరియు పాములు అలవాటు పడ్డాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text lists camels, lizards, and snakes as animals adapted to survive in extreme desert conditions."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T31-0031",
+   "section": {
+    "te": "Desert Biome",
+    "en": "Desert Biome"
+   },
+   "q": {
+    "te": "ఎడారి బయోమ్‌లు తరచుగా కింది ఏ విలువైన వనరులను అందిస్తాయి?\nA. ఖనిజాలు (Minerals)\nB. చమురు (Oil)",
+    "en": "Which of the following valuable resources are often provided by desert biomes?\nA. Minerals\nB. Oil"
+   },
+   "options": {
+    "te": [
+     "A మాత్రమే",
+     "B మాత్రమే",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "A only",
+     "B only",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఎడారులు ఖనిజాలు మరియు చమురు వంటి విలువైన వనరులను అందిస్తాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Deserts provide valuable resources like minerals and oil."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T31-0149",
+   "section": {
+    "te": "Noise Measurement",
+    "en": "Noise Measurement"
+   },
+   "q": {
+    "te": "స్థిరమైన శబ్దం యొక్క స్థాయిని ఈ క్రింది ఏ యూనిట్లలో కొలుస్తారు?",
+    "en": "In which of the following units is the level of steady noise measured?"
+   },
+   "options": {
+    "te": [
+     "హెర్ట్జ్",
+     "పాస్కల్స్",
+     "డెసిబెల్స్ (dB)",
+     "వాట్స్"
+    ],
+    "en": [
+     "Hertz",
+     "Pascals",
+     "Decibels (dB)",
+     "Watts"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్య భాగం ప్రకారం, స్థిరమైన శబ్దం యొక్క స్థాయిని డెసిబెల్స్ (dB) పరంగా వ్యక్తీకరించబడిన ధ్వని స్థాయి ద్వారా కొలుస్తారు.",
+    "en": "The level of steady noise is measured by sound level expressed in terms of decibels (dB)."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T31-0163",
+   "section": {
+    "te": "Rainwater Harvesting Impact",
+    "en": "Rainwater Harvesting Impact"
+   },
+   "q": {
+    "te": "దౌరాలా కేస్ స్టడీ ప్రకారం, వర్షపు నీటి సంరక్షణ నిర్మాణాలను నిర్మించడం వల్ల కలిగిన నిర్దిష్ట ప్రయోజనం ఏమిటి?",
+    "en": "According to the Daurala case study, what was the specific benefit of constructing rainwater harvesting structures?"
+   },
+   "options": {
+    "te": [
+     "ఇది పారిశ్రామిక నీటి అవసరాన్ని పూర్తిగా తొలగించింది",
+     "ఇది గ్రామంలో నేల కోతను నిరోధించింది",
+     "ఇది వేసవిలో సాగుకు నీటిని అందించింది",
+     "ఇది భూగర్భ జలాల్లోని కలుషితాలను తగ్గించడానికి (diluting) సహాయపడింది"
+    ],
+    "en": [
+     "It completely eliminated the need for industrial water",
+     "It prevented soil erosion in the village",
+     "It provided water for irrigation during summer",
+     "It helped in diluting the contaminants of the groundwater"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వర్షపు నీటి సంరక్షణ నిర్మాణాలు వర్షాకాలం తర్వాత భూగర్భ జలాల్లోని కలుషితాలను తగ్గించడానికి సహాయపడ్డాయని పాఠ్య భాగం పేర్కొంది.",
+    "en": "Rainwater harvesting structures helped in diluting the contaminants of the groundwater after the monsoons."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T31-0029",
+   "section": {
+    "te": "Aquatic Biomes",
+    "en": "Aquatic Biomes"
+   },
+   "q": {
+    "te": "సముద్రపు బయోమ్‌లు భూమి యొక్క వాతావరణాన్ని ఎలా ప్రభావితం చేస్తాయి?",
+    "en": "How do marine biomes influence the Earth's climate?"
+   },
+   "options": {
+    "te": [
+     "భాష్పోత్సేకం ద్వారా ప్రపంచ వర్షపాత నమూనాలను నియంత్రించడం ద్వారా",
+     "తీరప్రాంతాల్లో నేల కోతను నివారించడం ద్వారా",
+     "ఉష్ణాన్ని నిల్వ చేయడం మరియు పంపిణీ చేయడం ద్వారా",
+     "భూమికి అవసరమైన మెజారిటీ ఆక్సిజన్‌ను ఉత్పత్తి చేయడం ద్వారా"
+    ],
+    "en": [
+     "By controlling the global rainfall patterns through transpiration",
+     "By preventing soil erosion along the coastlines",
+     "By storing and distributing heat",
+     "By producing the majority of the Earth's oxygen"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సముద్రపు బయోమ్‌లు ప్రపంచవ్యాప్తంగా ఉష్ణాన్ని నిల్వ చేయడం మరియు పంపిణీ చేయడం ద్వారా వాతావరణాన్ని ప్రభావితం చేస్తాయి.",
+    "en": "Marine biomes influence the climate by storing and distributing heat across the globe."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T31-0165",
+   "section": {
+    "te": "Aquifer Recharge",
+    "en": "Aquifer Recharge"
+   },
+   "q": {
+    "te": "ప్రతిపాదన (A): దౌరాలాలోని పూడికతో నిండిన చెరువును శుభ్రం చేసి పూడిక తీశారు.\nకారణం (R): చెరువులో పూడిక తీయడం వల్ల పెద్ద మొత్తంలో నీరు భూగర్భ జలమట్టాలను (aquifers) రీఛార్జ్ చేయడానికి వీలు కల్పించింది.",
+    "en": "Assertion (A): The silted pond in Daurala was cleaned and desilted.\nReason (R): Desilting the pond allowed a large quantity of water to recharge the aquifers."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పెద్ద మొత్తంలో నీరు భూగర్భ జలమట్టాలను రీఛార్జ్ చేయడానికి వీలుగా చెరువులో పూడిక తీసినట్లు పాఠ్య భాగం వివరిస్తుంది.",
+    "en": "The pond was desilted specifically to allow a large quantity of water to recharge the aquifers."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T31-0022",
+   "section": {
+    "te": "Tundra Biome",
+    "en": "Tundra Biome"
+   },
+   "q": {
+    "te": "తుండ్రా బయోమ్‌లో నేల దాదాపు ఏడాది పొడవునా గడ్డకట్టి ఉండే స్థితిని ఏమంటారు?",
+    "en": "What is the condition called when the soil remains frozen almost year-round in the Tundra biome?"
+   },
+   "options": {
+    "te": [
+     "పెర్మాఫ్రాస్ట్ (Permafrost)",
+     "ఐస్-క్యాప్",
+     "ఫ్రాస్ట్-హీవ్",
+     "గ్లేసియేషన్"
+    ],
+    "en": [
+     "Permafrost",
+     "Ice-cap",
+     "Frost-heave",
+     "Glaciation"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "తుండ్రాలో దాదాపు ఏడాది పొడవునా గడ్డకట్టి ఉండే నేలను పెర్మాఫ్రాస్ట్ అంటారు.",
+    "en": "Permafrost is the term used for soil that remains frozen almost throughout the year in the Tundra."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T31-0103",
+   "section": {
+    "te": "Exotic species concept",
+    "en": "Exotic species concept"
+   },
+   "q": {
+    "te": "స్థానిక ఆవాసంలో సహజ నివాసులు కాకుండా, వ్యవస్థలోకి కొత్తగా ప్రవేశపెట్టబడిన జాతులను ఏమని పిలుస్తారు?",
+    "en": "Species that are not the natural inhabitants of the local habitat but are introduced into the system are defined as:"
+   },
+   "options": {
+    "te": [
+     "ముప్పును ఎదుర్కొంటున్న జాతులు (Vulnerable species)",
+     "అరుదైన జాతులు (Rare species)",
+     "స్థానిక జాతులు (Endemic species)",
+     "విదేశీ జాతులు (Exotic species)"
+    ],
+    "en": [
+     "Vulnerable species",
+     "Rare species",
+     "Endemic species",
+     "Exotic species"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "స్థానిక ఆవాసానికి సహజ నివాసులు కాకుండా, బయటి నుంచి వ్యవస్థలోకి ప్రవేశపెట్టబడిన జాతులను 'విదేశీ జాతులు' (Exotic species) అని పిలుస్తారు.",
+    "en": "The source defines exotic species as those that are not the natural inhabitants of the local habitat but are introduced into the system."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T31-0060",
+   "section": {
+    "te": "Tiger Habitats",
+    "en": "Tiger Habitats"
+   },
+   "q": {
+    "te": "ప్రపంచంలోని పులుల జనాభాలో సుమారు మూడింట రెండు వంతుల ఆవాసాన్ని కలిగి ఉన్నందున, అక్రమ వేట మరియు వ్యాపారానికి ప్రధాన లక్ష్యంగా మారిన రెండు దేశాలు ఏవి?",
+    "en": "Which two nations are prime targets for poaching and illegal trading because they provide habitat to about two-thirds of the surviving tiger population?"
+   },
+   "options": {
+    "te": [
+     "భారతదేశం మరియు చైనా",
+     "భారతదేశం మరియు నేపాల్",
+     "నేపాల్ మరియు భూటాన్",
+     "భారతదేశం మరియు బంగ్లాదేశ్"
+    ],
+    "en": [
+     "India and China",
+     "India and Nepal",
+     "Nepal and Bhutan",
+     "India and Bangladesh"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారతదేశం మరియు నేపాల్ ప్రపంచంలోని మిగిలి ఉన్న పులులలో మూడింట రెండు వంతులకి నిలయంగా ఉన్నాయి, అందుకే అవి అక్రమ వ్యాపారానికి లక్ష్యంగా మారాయి.",
+    "en": "India and Nepal are home to about two-thirds of the world's surviving tigers, making them targets for illegal trade."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T31-0064",
+   "section": {
+    "te": "Wildlife Protection History",
+    "en": "Wildlife Protection History"
+   },
+   "q": {
+    "te": "భారతదేశంలో జాతీయ వన్యప్రాణి సంరక్షణ కార్యక్రమం కావాలని సంరక్షకులు ఏ దశాబ్దాలలో డిమాండ్ చేశారు?",
+    "en": "In which decades did conservationists demand a national wildlife protection programme in India?"
+   },
+   "options": {
+    "te": [
+     "1970లు మరియు 1980లు",
+     "1950లు మరియు 1960లు",
+     "1940లు మరియు 1950లు",
+     "1960లు మరియు 1970లు"
+    ],
+    "en": [
+     "1970s and 1980s",
+     "1950s and 1960s",
+     "1940s and 1950s",
+     "1960s and 1970s"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "1960లు మరియు 1970ల కాలంలో సంరక్షకులు జాతీయ వన్యప్రాణి సంరక్షణ కార్యక్రమం కోసం డిమాండ్ చేశారు.",
+    "en": "The demand for a national wildlife protection programme was raised by conservationists during the 1960s and 1970s."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T31-0067",
+   "section": {
+    "te": "Biodiversity Distribution",
+    "en": "Biodiversity Distribution"
+   },
+   "q": {
+    "te": "జీవవైవిధ్యం యొక్క పంపిణీకి సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. జీవవైవిధ్యం భూమి అంతటా సమానంగా ఉంటుంది.\n2. ఉష్ణమండల ప్రాంతాలలో (Tropics) జీవవైవిధ్యం స్థిరంగా ఎక్కువగా ఉంటుంది.\n3. ధ్రువ ప్రాంతాలలో తక్కువ జాతులు మరియు ఎక్కువ జనాభా ఉంటుంది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the distribution of biodiversity:\n1. Biodiversity is found evenly across the earth.\n2. Biodiversity is consistently richer in the tropics.\n3. Polar regions have larger populations of fewer species.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "జీవవైవిధ్యం భూమిపై సమానంగా ఉండదని, ఉష్ణమండలంలో ఎక్కువగా ఉంటుందని మరియు ధ్రువ ప్రాంతాలలో తక్కువ జాతులు ఉంటాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Biodiversity is NOT found evenly; it is richer in the tropics and has fewer species in polar regions."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T31-0039",
+   "section": {
+    "te": "Biodiversity Hotspots",
+    "en": "Biodiversity Hotspots"
+   },
+   "q": {
+    "te": "భారతదేశంలో మరెక్కడా లేని ప్రత్యేకమైన జాతులు ఉన్నందున, క్రింది వాటిలో ఏ ప్రాంతాలు జీవవైవిధ్య హాట్‌స్పాట్‌లుగా (Hotspots) గుర్తించబడ్డాయి?",
+    "en": "Which of the following regions are identified as biodiversity hotspots in India because they contain unique species found nowhere else?"
+   },
+   "options": {
+    "te": [
+     "హిమాలయాలు మరియు పశ్చిమ కనుమలు",
+     "ఈశాన్య భారతదేశం మరియు అండమాన్ & నికోబార్ దీవులు",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Himalaya and Western Ghats",
+     "North-East India and Andaman & Nicobar Islands",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "హిమాలయాలు, పశ్చిమ కనుమలు, ఈశాన్య భారతదేశం మరియు అండమాన్ & నికోబార్ దీవులను భారతదేశంలోని ప్రధాన జీవవైవిధ్య హాట్‌స్పాట్‌లుగా పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text identifies the Himalaya, Western Ghats, North-East India, and Andaman & Nicobar Islands as key biodiversity hotspots in India."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T31-0101",
+   "section": {
+    "te": "Vulnerable species definition",
+    "en": "Vulnerable species definition"
+   },
+   "q": {
+    "te": "అంతరించిపోవడానికి దారితీసే కారకాలు ఇలాగే కొనసాగితే సమీప భవిష్యత్తులో అంతరించిపోయే ప్రమాదం ఉన్న జాతులను ఏమంటారు?",
+    "en": "Species which are likely to be in danger of extinction in the near future if the factors threatening their extinction continue are called:"
+   },
+   "options": {
+    "te": [
+     "ముప్పును ఎదుర్కొంటున్న జాతులు (Vulnerable species)",
+     "అంతరించిన జాతులు (Extinct species)",
+     "అరుదైన జాతులు (Rare species)",
+     "అంతరించిపోతున్న జాతులు (Endangered species)"
+    ],
+    "en": [
+     "Vulnerable species",
+     "Extinct species",
+     "Rare species",
+     "Endangered species"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "హానికర కారకాలు కొనసాగితే సమీప భవిష్యత్తులో అంతరించిపోయే ప్రమాదం ఉన్న జాతులను 'ముప్పును ఎదుర్కొంటున్న జాతులు' (Vulnerable species) అంటారు.",
+    "en": "Under the heading 'Vulnerable Species', the text states they include species likely to be in danger of extinction in the near future if threatening factors continue."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T31-0086",
+   "section": {
+    "te": "Ecosystem Stability",
+    "en": "Ecosystem Stability"
+   },
+   "q": {
+    "te": "ప్రతిపాదన (A): ఆవరణ వ్యవస్థలో జాతుల వైవిధ్యం ఎంత ఎక్కువగా ఉంటే, ఆ వ్యవస్థ అంత స్థిరంగా ఉండే అవకాశం ఉంది.\nకారణం (R): జాతుల నష్టం వ్యవస్థ తనను తాను నిలబెట్టుకునే సామర్థ్యాన్ని తగ్గిస్తుంది.\nసరైన ఎంపికను ఎంచుకోండి:",
+    "en": "Assertion (A): The more the variety of species in an ecosystem, the more stable the ecosystem is likely to be.\nReason (R): Loss of species decreases the ability of the system to maintain itself.\nSelect the correct option:"
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ.",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు.",
+     "A నిజం కానీ R తప్పు.",
+     "A తప్పు కానీ R నిజం."
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A.",
+     "Both A and R are true but R is not the correct explanation of A.",
+     "A is true but R is false.",
+     "A is false but R is true."
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఎక్కువ జాతుల వైవిధ్యం స్థిరత్వానికి దారితీస్తుంది ఎందుకంటే ఏదైనా ఒక జాతి నష్టం వ్యవస్థ యొక్క స్వయం-నిర్వహణ సామర్థ్యాన్ని తగ్గిస్తుంది.",
+    "en": "Higher species variety leads to stability because the loss of any single species would otherwise reduce the system's self-maintenance ability."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T31-0006",
+   "section": {
+    "te": "Rainforest location",
+    "en": "Rainforest location"
+   },
+   "q": {
+    "te": "ఉష్ణమండల వర్షారణ్యాలు ప్రధానంగా ఏ అక్షాంశ శ్రేణుల మధ్య ఉన్నాయి?",
+    "en": "Tropical rainforests are primarily located between which latitudinal ranges?"
+   },
+   "options": {
+    "te": [
+     "66.5° N నుండి 66.5° S",
+     "0° నుండి 10° ఉత్తర మరియు దక్షిణ",
+     "23.5° N నుండి 23.5° S",
+     "30° N నుండి 30° S"
+    ],
+    "en": [
+     "66.5° N to 66.5° S",
+     "0° to 10° North and South",
+     "23.5° N to 23.5° S",
+     "30° N to 30° S"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఉష్ణమండల వర్షారణ్యాలు భూమధ్యరేఖకు సమీపంలో, ప్రత్యేకంగా కర్కట రేఖ (23.5° N) మరియు మకర రేఖ (23.5° S) మధ్య కనిపిస్తాయి.",
+    "en": "Tropical rainforests are found near the Equator, specifically between the Tropic of Cancer (23.5° N) and the Tropic of Capricorn (23.5° S)."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T31-0106",
+   "section": {
+    "te": "Convention on Biodiversity",
+    "en": "Convention on Biodiversity"
+   },
+   "q": {
+    "te": "భారత ప్రభుత్వం మరో 155 దేశాలతో కలిసి ఏ సంవత్సరంలో, ఏ ప్రదేశంలో జరిగిన ఎర్త్ సమ్మిట్ (భూమి శిఖరాగ్ర సదస్సు)లో జీవవైవిధ్య ఒప్పందంపై సంతకం చేసింది?",
+    "en": "In which year and place did the Government of India, along with 155 other nations, sign the Convention on Biodiversity?"
+   },
+   "options": {
+    "te": [
+     "సెప్టెంబర్ 2002, జోహన్నెస్‌బర్గ్ (దక్షిణాఫ్రికా)",
+     "జూన్ 1972, స్టాక్‌హోమ్ (స్వీడన్)",
+     "డిసెంబర్ 1997, క్యోటో (జపాన్)",
+     "జూన్ 1992, రియో డి జనీరో (బ్రెజిల్)"
+    ],
+    "en": [
+     "September 2002 at Johannesburg, South Africa",
+     "June 1972 at Stockholm, Sweden",
+     "December 1997 at Kyoto, Japan",
+     "June 1992 at Rio de Janeiro, Brazil"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జూన్ 1992లో బ్రెజిల్‌లోని రియో డి జనీరోలో జరిగిన ఎర్త్ సమ్మిట్‌లో భారత ప్రభుత్వం మరో 155 దేశాలతో కలిసి జీవవైవిధ్య ఒప్పందంపై సంతకం చేసింది.",
+    "en": "The Convention of Biodiversity was signed at the Earth Summit held at Rio de Janeiro, Brazil in June 1992."
+   }
+  }
+ ]
+}

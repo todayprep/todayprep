@@ -1,0 +1,942 @@
+{
+ "id": "geo-13-c-2",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "India – క్విజ్ 2",
+  "en": "India – Quiz 2"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T13-0040",
+   "section": {
+    "te": "India-China size comparison",
+    "en": "India-China size comparison"
+   },
+   "q": {
+    "te": "వైశాల్యం పరంగా, భారతదేశంతో పోలిస్తే చైనా సుమారు ఎన్ని రెట్లు పెద్దది?",
+    "en": "In terms of area, approximately how much larger is China compared to India?"
+   },
+   "options": {
+    "te": [
+     "రెండు రెట్లు",
+     "ఐదు రెట్లు",
+     "మూడు రెట్లు",
+     "నాలుగు రెట్లు"
+    ],
+    "en": [
+     "Two times",
+     "Five times",
+     "Three times",
+     "Four times"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, వైశాల్యం పరంగా చైనా భారతదేశం కంటే సుమారు మూడు రెట్లు పెద్దది.",
+    "en": "China is approximately three times larger than India in area."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T13-0107",
+   "section": {
+    "te": "Maldives Culture",
+    "en": "Maldives Culture"
+   },
+   "q": {
+    "te": "ఈ క్రింది మాల్దీవుల సాంస్కృతిక అంశాలలో ఏవి దక్షిణ భారత ప్రభావాలను ప్రతిబింబిస్తాయి?\nA. బొడుబెరు (Boduberu) నృత్యం\nB. కొబ్బరి కూరలు మరియు రోషి (roshi)\nC. ధివేహి పదజాలం",
+    "en": "Which of the following Maldivian cultural elements reflect South Indian influences?\nA. Boduberu dance\nB. Coconut curries and roshi\nC. Dhivehi vocabulary"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మాల్దీవుల వంటకాలు (కొబ్బరి కూరలు, రోషి), బొడుబెరు నృత్యం మరియు ధివేహి పదజాలం అన్నీ దక్షిణ భారత మూలాలను లేదా ప్రభావాలను కలిగి ఉన్నాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Maldivian dishes (coconut curries, roshi), the Boduberu dance, and Dhivehi vocabulary all show South Indian roots or influences."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T13-0160",
+   "section": {
+    "te": "Geological Structure Comparison",
+    "en": "Geological Structure Comparison"
+   },
+   "q": {
+    "te": "భారతదేశ భౌగోళిక నిర్మాణానికి సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. హిమాలయాలు వాటి నిర్మాణంలో యువ, బలహీనమైన మరియు సరళమైనవి (flexible).\n2. ద్వీపకల్ప పీఠభూమి (Peninsular Block) దృఢమైనది మరియు స్థిరమైనదిగా వర్ణించబడింది.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the geological structure of India:\n1. The Himalayas are young, weak, and flexible in their structure.\n2. The Peninsular Block is characterized as being rigid and stable.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 లేదా 2 ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "హిమాలయాలు యువ, బలహీనమైన మరియు సరళమైనవని, ద్వీపకల్ప పీఠభూమి దృఢమైనది మరియు స్థిరమైనదని పాఠ్య భాగం పేర్కొంది.",
+    "en": "The Himalayas are young, weak, and flexible, while the Peninsular Block is rigid and stable."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T13-0050",
+   "section": {
+    "te": "States bordering Pakistan",
+    "en": "States bordering Pakistan"
+   },
+   "q": {
+    "te": "క్రింది భారతీయ రాష్ట్రాలు మరియు కేంద్రపాలిత ప్రాంతాలను పరిశీలించండి:\n1. గుజరాత్\n2. రాజస్థాన్\n3. పంజాబ్\n4. లడఖ్\nభారత్-పాకిస్తాన్ సరిహద్దు పైవాటిలో వేటి గుండా విస్తరించి ఉంది?",
+    "en": "Consider the following Indian States and Union Territories:\n1. Gujarat\n2. Rajasthan\n3. Punjab\n4. Ladakh\nAcross which of the above does the India-Pakistan border stretch?"
+   },
+   "options": {
+    "te": [
+     "1, 2 మరియు 3 మాత్రమే",
+     "2, 3 మరియు 4 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2, 3 మరియు 4"
+    ],
+    "en": [
+     "1, 2 and 3 only",
+     "2, 3 and 4 only",
+     "1 and 3 only",
+     "1, 2, 3 and 4"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారత్-పాకిస్తాన్ సరిహద్దు గుజరాత్, రాజస్థాన్, పంజాబ్ రాష్ట్రాలు మరియు జమ్మూ & కాశ్మీర్, లడఖ్ కేంద్రపాలిత ప్రాంతాల గుండా విస్తరించి ఉంది.",
+    "en": "The border between India and Pakistan stretches across Gujarat, Rajasthan, Punjab, Jammu and Kashmir, and Ladakh."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T13-0134",
+   "section": {
+    "te": "India Relief Features",
+    "en": "India Relief Features"
+   },
+   "q": {
+    "te": "దేశ వైశాల్యంలో 27 శాతం ఉన్న భారతదేశ పీఠభూమి ప్రాంతం కింది వాటిలో దేనిని కలిగి ఉన్నందుకు ప్రసిద్ధి చెందింది?",
+    "en": "The plateau region of India, which accounts for 27 per cent of the country's area, is known for possessing which of the following?"
+   },
+   "options": {
+    "te": [
+     "ఖనిజాల సమృద్ధి నిల్వలు",
+     "శిలాజ ఇంధనాలు మరియు అడవులు",
+     "A మరియు B రెండూ",
+     "జీవనదుల ప్రవాహం"
+    ],
+    "en": [
+     "Rich reserves of minerals",
+     "Fossil fuels and forests",
+     "Both A and B",
+     "Perennial flow of rivers"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పీఠభూమి ప్రాంతం (27% వైశాల్యం) ఖనిజాలు, శిలాజ ఇంధనాలు మరియు అడవుల సమృద్ధి నిల్వలను కలిగి ఉంది.",
+    "en": "The plateau region (27% of the area) possesses rich reserves of minerals, fossil fuels, and forests."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T13-0084",
+   "section": {
+    "te": "Uttarāpatha trade route",
+    "en": "Uttarāpatha trade route"
+   },
+   "q": {
+    "te": "ప్రాచీన కాలంలో గంగా మైదానాలను ఆఫ్ఘనిస్తాన్ మీదుగా మధ్య ఆసియాతో అనుసంధానించిన చారిత్రక వాణిజ్య మార్గం ఏది?",
+    "en": "Which historic trade route linked the Ganga plains to Central Asia via Afghanistan in ancient times?"
+   },
+   "options": {
+    "te": [
+     "సిల్క్ రూట్",
+     "ఉత్తరాపథ",
+     "గ్రాండ్ ట్రంక్ రోడ్డు",
+     "దక్షిణాపథ"
+    ],
+    "en": [
+     "Silk Route",
+     "Uttarāpatha",
+     "Grand Trunk Road",
+     "Dakṣhiṇāpatha"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, చారిత్రక ఉత్తరాపథ వాణిజ్య మార్గం గంగా మైదానాలను ఆఫ్ఘనిస్తాన్ ద్వారా మధ్య ఆసియాతో అనుసంధానించింది.",
+    "en": "The historic Uttarāpatha trade route linked the Ganga plains to Central Asia via Afghanistan."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T13-0047",
+   "section": {
+    "te": "Guru Nanak Dev at Kartarpur",
+    "en": "Guru Nanak Dev at Kartarpur"
+   },
+   "q": {
+    "te": "సిక్కు మత స్థాపకుడైన గురు నానక్ దేవ్ తన జీవితపు చివరి ఎన్ని సంవత్సరాలు కర్తార్‌పూర్‌లో గడిపారు?",
+    "en": "How many years did Guru Nānak Dev spend at Kartarpur towards the end of his life?"
+   },
+   "options": {
+    "te": [
+     "చివరి 30 సంవత్సరాలు",
+     "చివరి 18 సంవత్సరాలు",
+     "చివరి 24 సంవత్సరాలు",
+     "చివరి 12 సంవత్సరాలు"
+    ],
+    "en": [
+     "Last 30 years",
+     "Last 18 years",
+     "Last 24 years",
+     "Last 12 years"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సిక్కు మత స్థాపకుడైన గురు నానక్ దేవ్ తన జీవితంలోని చివరి 18 సంవత్సరాలు కర్తార్‌పూర్‌లో గడిపారు.",
+    "en": "Guru Nanak Dev, the founder of Sikhism, spent the last 18 years of his life at Kartarpur."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T13-0137",
+   "section": {
+    "te": "India-Iran Strategic Cooperation",
+    "en": "India-Iran Strategic Cooperation"
+   },
+   "q": {
+    "te": "ప్రకటన (A): ఇరాన్‌లోని చాబహార్ ఓడరేవును అభివృద్ధి చేయడంలో భారతదేశం సహాయం చేస్తోంది.\nకారణం (R): ఈ ఓడరేవు ఆఫ్ఘనిస్తాన్ మరియు మధ్య ఆసియాకు భారతదేశానికి మెరుగైన ప్రాప్యతను (access) అందిస్తుంది.",
+    "en": "Assertion (A): India is helping to develop the Chabahar Port in Iran.\nReason (R): The port provides India with better access to Afghanistan and Central Asia."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఆఫ్ఘనిస్తాన్ మరియు మధ్య ఆసియాకు వ్యూహాత్మక ప్రాప్యతను పొందడం కోసమే చాబహార్ ఓడరేవు అభివృద్ధిలో భారతదేశం పాల్గొంటోంది.",
+    "en": "India's involvement in the Chabahar Port is specifically to gain strategic access to Afghanistan and Central Asia."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T13-0053",
+   "section": {
+    "te": "Shared river systems",
+    "en": "Shared river systems"
+   },
+   "q": {
+    "te": "భారతదేశం మరియు బంగ్లాదేశ్ క్రింది ఏ నదుల నుండి ఉద్భవించే సరిహద్దు నదీ వ్యవస్థలను పంచుకుంటున్నాయి?",
+    "en": "India and Bangladesh share several transboundary river systems originating from which of the following rivers?"
+   },
+   "options": {
+    "te": [
+     "గంగా",
+     "బ్రహ్మపుత్ర",
+     "A మరియు B రెండూ",
+     "సింధు"
+    ],
+    "en": [
+     "Ganga",
+     "Brahmaputra",
+     "Both A and B",
+     "Indus"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతదేశం మరియు బంగ్లాదేశ్ గంగా మరియు బ్రహ్మపుత్ర నదుల నుండి ఉద్భవించే అనేక సరిహద్దు నదీ వ్యవస్థలను పంచుకుంటున్నాయి.",
+    "en": "India and Bangladesh share transboundary river systems originating from both the Ganga and the Brahmaputra."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T13-0059",
+   "section": {
+    "te": "Pashupatinatha Temple deity",
+    "en": "Pashupatinatha Temple deity"
+   },
+   "q": {
+    "te": "ఖాట్మండులోని పవిత్ర పశుపతినాథ ఆలయంలో శివుడిని ఏ రూపంలో పూజిస్తారు?",
+    "en": "At the sacred Paśhupatinātha Temple in Kathmandu, Lord Śhiva is worshipped as the:"
+   },
+   "options": {
+    "te": [
+     "పర్వతాల అధిపతిగా",
+     "జంతువుల రక్షకుడిగా (సంరక్షకుడిగా)",
+     "సృష్టికర్తగా",
+     "దుష్ట సంహారకుడిగా"
+    ],
+    "en": [
+     "Lord of mountains",
+     "Protector of animals",
+     "Creator of the universe",
+     "Destroyer of evil"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఖాట్మండులోని పశుపతినాథ ఆలయంలో శివుడిని జంతువుల సంరక్షకుడిగా పూజిస్తారు.",
+    "en": "At the Paśhupatinātha Temple in Kathmandu, Lord Śhiva is worshipped specifically as the protector of animals."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T13-0094",
+   "section": {
+    "te": "Sri Lanka civil war",
+    "en": "Sri Lanka civil war"
+   },
+   "q": {
+    "te": "1980ల మధ్య నుండి సుమారు 2010 వరకు జరిగిన శ్రీలంక అంతర్యుద్ధం ప్రధానంగా ఏ రెండు సమూహాల మధ్య జరిగింది?",
+    "en": "Sri Lanka’s civil war from the mid-1980s to around 2010 was fought mainly between which two groups?"
+   },
+   "options": {
+    "te": [
+     "సింహళ మెజారిటీ మరియు తమిళ మైనారిటీ",
+     "పాష్తూన్ మెజారిటీ మరియు హజారా మైనారిటీ",
+     "బర్మన్ మెజారిటీ మరియు కరెన్ మైనారిటీ",
+     "బెంగాలీ మెజారిటీ మరియు చక్మా మైనారిటీ"
+    ],
+    "en": [
+     "Sinhalese majority and Tamil minority",
+     "Pashtun majority and Hazara minority",
+     "Burman majority and Karen minority",
+     "Bengali majority and Chakma minority"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "శ్రీలంక అంతర్యుద్ధం ప్రధానంగా సింహళ మెజారిటీ వర్గానికి మరియు భారతదేశంతో సాంస్కృతిక సంబంధాలున్న తమిళ మైనారిటీ వర్గానికి మధ్య జరిగింది.",
+    "en": "Sri Lanka's civil war was fought mainly between the Sinhalese majority and the Tamil minority."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T13-0048",
+   "section": {
+    "te": "Kartarpur Corridor opening",
+    "en": "Kartarpur Corridor opening"
+   },
+   "q": {
+    "te": "గురు నానక్ 550వ జయంతిని పురస్కరించుకుని కర్తార్‌పూర్ కారిడార్‌ను ఏ సంవత్సరంలో అధికారికంగా ప్రారంభించారు?",
+    "en": "In which year was the Kartarpur Corridor officially opened to mark Guru Nānak's 550th birth anniversary?"
+   },
+   "options": {
+    "te": [
+     "2019",
+     "2017",
+     "2014",
+     "2021"
+    ],
+    "en": [
+     "2019",
+     "2017",
+     "2014",
+     "2021"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "గురు నానక్ 550వ జయంతి సందర్భంగా కర్తార్‌పూర్ కారిడార్ 2019లో అధికారికంగా ప్రారంభించబడింది.",
+    "en": "The Kartarpur Corridor officially opened in 2019 to mark the 550th birth anniversary of Guru Nanak."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T13-0098",
+   "section": {
+    "te": "India-Maldives Relations",
+    "en": "India-Maldives Relations"
+   },
+   "q": {
+    "te": "భారతదేశం మాల్దీవులను స్వతంత్ర దేశంగా ఏ సంవత్సరంలో గుర్తించింది?",
+    "en": "In which year did India recognize the Maldives as an independent nation?"
+   },
+   "options": {
+    "te": [
+     "1947",
+     "1950",
+     "1971",
+     "1965"
+    ],
+    "en": [
+     "1947",
+     "1950",
+     "1971",
+     "1965"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "1965లో మాల్దీవులకు స్వాతంత్ర్యం వచ్చిన తర్వాత ఆ దేశాన్ని గుర్తించిన మొదటి దేశాలలో భారతదేశం ఒకటి.",
+    "en": "India was one of the first countries to recognize the Maldives after its independence in 1965."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T13-0002",
+   "section": {
+    "te": "Indian Subcontinent",
+    "en": "Indian Subcontinent"
+   },
+   "q": {
+    "te": "భారతదేశంతో పాటు ఈ క్రింది ఏ దేశాలు భారత ఉపఖండంలో (Indian Subcontinent) భాగంగా పరిగణించబడతాయి?",
+    "en": "Which of the following countries are considered part of the Indian Subcontinent along with India?"
+   },
+   "options": {
+    "te": [
+     "పాకిస్తాన్ మరియు బంగ్లాదేశ్",
+     "నేపాల్ మరియు భూటాన్",
+     "శ్రీలంక మరియు మయన్మార్",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Pakistan and Bangladesh",
+     "Nepal and Bhutan",
+     "Sri Lanka and Myanmar",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారత ఉపఖండంలో భారతదేశం మరియు దాని పొరుగు దేశాలైన పాకిస్తాన్, బంగ్లాదేశ్, నేపాల్, భూటాన్, శ్రీలంక మరియు మయన్మార్ ఉన్నాయి.",
+    "en": "The Indian Subcontinent includes India and its neighbors: Pakistan, Bangladesh, Nepal, Bhutan, Sri Lanka, and Myanmar."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T13-0174",
+   "section": {
+    "te": "Deccan Traps Formation",
+    "en": "Deccan Traps Formation"
+   },
+   "q": {
+    "te": "దక్కన్ ట్రాప్స్ (Deccan Traps) ఏర్పడటానికి సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. లావా ఉద్గారం మరియు దక్కన్ ట్రాప్స్ ఏర్పడటం సుమారు 60 మిలియన్ సంవత్సరాల క్రితం ప్రారంభమైంది.\n2. ఈ కాలంలో, భారత ఉపఖండం భూమధ్యరేఖకు దగ్గరగా ఉంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the formation of the Deccan Traps:\n1. The outpouring of lava and formation of the Deccan Traps started around 60 million years ago.\n2. During this period, the Indian subcontinent was located close to the equator.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "దక్కన్ ట్రాప్స్ ఏర్పడటం సుమారు 60 మిలియన్ సంవత్సరాల క్రితం ప్రారంభమైందని, ఆ సమయంలో ఉపఖండం ఇంకా భూమధ్యరేఖకు దగ్గరగానే ఉందని పాఠ్యాంశం పేర్కొంది.",
+    "en": "The formation of Deccan Traps began around 60 million years ago while the subcontinent was still near the equator."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T13-0093",
+   "section": {
+    "te": "Introduction of Buddhism to Sri Lanka",
+    "en": "Introduction of Buddhism to Sri Lanka"
+   },
+   "q": {
+    "te": "సా.శ.పూ. 3వ శతాబ్దంలో శ్రీలంకకు బౌద్ధమతాన్ని పరిచయం చేసిన మహేంద్రుడు మరియు సంఘమిత్ర ఏ భారతీయ పాలకుని కుమారుడు మరియు కుమార్తె?",
+    "en": "Buddhism was introduced to Sri Lanka in the 3rd century BCE by Mahendra and Sanghamitrā, who were the children of which Indian ruler?"
+   },
+   "options": {
+    "te": [
+     "సముద్రగుప్తుడు",
+     "అశోక చక్రవర్తి",
+     "చంద్రగుప్త మౌర్యుడు",
+     "హర్షవర్ధనుడు"
+    ],
+    "en": [
+     "Emperor Samudragupta",
+     "Emperor Aśhoka",
+     "Emperor Chandragupta Maurya",
+     "Emperor Harsha"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "శ్రీలంకకు బౌద్ధాన్ని తీసుకొచ్చిన మహేంద్రుడు మరియు సంఘమిత్ర అశోక చక్రవర్తి యొక్క కుమారుడు మరియు కుమార్తె.",
+    "en": "Mahendra and Sanghamitrā, who introduced Buddhism to Sri Lanka, were the son and daughter of Emperor Aśhoka."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T13-0011",
+   "section": {
+    "te": "Ladakh Terminology",
+    "en": "Ladakh Terminology"
+   },
+   "q": {
+    "te": "లడఖ్ సందర్భంలో 'త్సో' (Tso) అనే పదానికి అర్థం ఏమిటి?",
+    "en": "In the context of Ladakh, what does the word 'Tso' mean?"
+   },
+   "options": {
+    "te": [
+     "పర్వతం",
+     "ఎడారి",
+     "మంచు",
+     "సరస్సు"
+    ],
+    "en": [
+     "Mountain",
+     "Desert",
+     "Snow",
+     "Lake"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం 'త్సో' అంటే సరస్సు అని అర్థం.",
+    "en": "'tso' means lake."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T13-0175",
+   "section": {
+    "te": "India's Ancient Latitude",
+    "en": "India's Ancient Latitude"
+   },
+   "q": {
+    "te": "సుమారు 140 మిలియన్ సంవత్సరాల క్రితం, భారత ఉపఖండం ఏ అక్షాంశం వద్ద ఉంది?",
+    "en": "Approximately 140 million years ago, at what latitude was the Indian subcontinent located?"
+   },
+   "options": {
+    "te": [
+     "భూమధ్యరేఖ",
+     "30° దక్షిణ అక్షాంశం",
+     "50° దక్షిణ అక్షాంశం",
+     "50° ఉత్తర అక్షాంశం"
+    ],
+    "en": [
+     "Equator",
+     "30° S latitude",
+     "50° S latitude",
+     "50° N latitude"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రస్తుతానికి సుమారు 140 మిలియన్ సంవత్సరాల క్రితం, ఉపఖండం 50° దక్షిణ అక్షాంశం వద్ద ఉందని పాఠ్యాంశం స్పష్టంగా పేర్కొంది.",
+    "en": "About 140 million years before the present, the subcontinent was located as far south as 50°S latitude."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T13-0108",
+   "section": {
+    "te": "Maldives Climate Change",
+    "en": "Maldives Climate Change"
+   },
+   "q": {
+    "te": "ప్రతిపాదన (A): మాల్దీవులు వాతావరణ మార్పుల ప్రభావాలకు తీవ్రంగా గురయ్యే అవకాశం ఉంది.\nకారణం (R): శతాబ్దం చివరి నాటికి సముద్ర మట్టాలు 1 మీటరు పెరగవచ్చు, దీనివల్ల దానిలోని అనేక దీవులు పాక్షికంగా మునిగిపోవచ్చు.",
+    "en": "Assertion (A): The Maldives is highly vulnerable to the effects of climate change.\nReason (R): Sea levels could rise by 1 metre by the end of the century, partly submerging many of its islands."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మాల్దీవులు ఒక ద్వీప దేశం కాబట్టి అది వాతావరణ మార్పులకు గురవుతుంది మరియు పెరుగుతున్న సముద్ర మట్టాలు దాని దీవులను ముంచెత్తే ప్రమాదం ఉంది.",
+    "en": "The Maldives is vulnerable because it is an island nation and rising sea levels threaten to submerge its islands."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T13-0154",
+   "section": {
+    "te": "IST and GMT",
+    "en": "IST and GMT"
+   },
+   "q": {
+    "te": "గ్రీన్విచ్ మీన్ టైమ్ (GMT) కంటే భారత ప్రామాణిక సమయం (IST) ఎంత సమయం ముందు ఉంటుంది?",
+    "en": "By how much time is Indian Standard Time (IST) ahead of Greenwich Mean Time (GMT)?"
+   },
+   "options": {
+    "te": [
+     "6 గంటలు",
+     "5 గంటల 30 నిమిషాలు",
+     "2 గంటలు",
+     "4 గంటల 30 నిమిషాలు"
+    ],
+    "en": [
+     "6 hours",
+     "5 hours 30 minutes",
+     "2 hours",
+     "4 hours 30 minutes"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "IST అనేది GMT కంటే ఖచ్చితంగా 5 గంటల 30 నిమిషాలు ముందు ఉంటుంది.",
+    "en": "IST is exactly 5 hours and 30 minutes ahead of GMT."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T13-0003",
+   "section": {
+    "te": "India Boundaries",
+    "en": "India Boundaries"
+   },
+   "q": {
+    "te": "భారతదేశ సహజ సరిహద్దులకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఉత్తరాన హిమాలయ పర్వత శ్రేణి ఉంది.\n2. అరేబియా సముద్రం తూర్పు సరిహద్దుగా ఉంది.\n3. దక్షిణాన హిందూ మహాసముద్రం ఉంది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding India's natural boundaries:\n1. The Himalayan Mountain range is in the north.\n2. The Arabian Sea marks the eastern limit.\n3. The Indian Ocean is to the south.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 only",
+     "1 and 3 only",
+     "2 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రకటన 1 మరియు 3 సరైనవి. అరేబియా సముద్రం పశ్చిమాన ఉంది, తూర్పున బంగాళాఖాతం ఉంది, కాబట్టి ప్రకటన 2 తప్పు.",
+    "en": "Statement 1 and 3 are correct. Statement 2 is wrong because the Arabian Sea is in the west, while the Bay of Bengal is in the east."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T13-0097",
+   "section": {
+    "te": "Dhivehi Language",
+    "en": "Dhivehi Language"
+   },
+   "q": {
+    "te": "మాల్దీవుల అధికారిక భాష అయిన ధివేహి (Dhivehi), ఈ క్రింది ఏ భాషల నుండి పదాలను తీసుకుంది?\nA. సంస్కృతం మరియు ప్రాకృతం\nB. తమిళం మరియు మలయాళం\nC. హిందీ",
+    "en": "Dhivehi, the official language of the Maldives, borrows words from which of the following languages?\nA. Sanskrit and Prakrit\nB. Tamil and Malayalam\nC. Hindi"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ధివేహి భాష సంస్కృతం, ప్రాకృతం, తమిళం, మలయాళం మరియు హిందీ నుండి పదాలను తీసుకుంటుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Dhivehi borrows words from Sanskrit, Prakrit, Tamil, Malayalam, and Hindi."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T13-0133",
+   "section": {
+    "te": "India-Iran Cultural Ties",
+    "en": "India-Iran Cultural Ties"
+   },
+   "q": {
+    "te": "భారతదేశపు ఋగ్వేదంతో పోలికలు ఉన్న జోరాస్ట్రియనిజం యొక్క పురాతన పవిత్ర గ్రంథం ఏది?",
+    "en": "Which ancient sacred text of Zoroastrianism is mentioned as having parallels with India’s Rigveda?"
+   },
+   "options": {
+    "te": [
+     "అవెస్తా",
+     "పారశీక",
+     "జెండ్",
+     "మహాభారతం"
+    ],
+    "en": [
+     "Avesta",
+     "Parasika",
+     "Zend",
+     "Mahabharata"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అవెస్తా అనేది జోరాస్ట్రియనిజం యొక్క పురాతన పవిత్ర గ్రంథం, ఇది ఋగ్వేదంతో పోలికలను కలిగి ఉంది.",
+    "en": "The Avesta is the ancient sacred text of Zoroastrianism that shares parallels with the Rigveda."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T13-0170",
+   "section": {
+    "te": "South Indian Topography",
+    "en": "South Indian Topography"
+   },
+   "q": {
+    "te": "దక్షిణ భారతదేశ భూభాగం (topography) గురించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఇది స్థిరమైన భూభాగాన్ని (table land) కలిగి ఉంటుంది.\n2. ఇది అత్యధికంగా విచ్ఛిన్నమైన పీఠభూములు మరియు క్రమక్షయానికి గురైన (denuded) శిలలను కలిగి ఉంటుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the topography of South India:\n1. It consists of stable table land.\n2. It features highly dissected plateaus and denuded rocks.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 లేదా 2 ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్య భాగం ప్రకారం, దక్షిణ భారతదేశం స్థిరమైన భూభాగం, అత్యధికంగా విచ్ఛిన్నమైన పీఠభూములు, క్రమక్షయానికి గురైన శిలలు మరియు స్కార్ప్‌లను (scarps) కలిగి ఉంటుంది.",
+    "en": "The south of India is characterized by stable table land, highly dissected plateaus, denuded rocks, and scarps."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T13-0155",
+   "section": {
+    "te": "Indian Islands",
+    "en": "Indian Islands"
+   },
+   "q": {
+    "te": "ఈ క్రింది ద్వీప సమూహాలను అవి ఉన్న జలభాగాలతో జతపరచండి:\n1. అండమాన్ మరియు నికోబార్ - i. అరేబియా సముద్రం\n2. లక్షద్వీప్ - ii. బంగాళాఖాతం",
+    "en": "Match the following island groups with the water bodies they are located in:\n1. Andaman and Nicobar - i. Arabian Sea\n2. Lakshadweep - ii. Bay of Bengal"
+   },
+   "options": {
+    "te": [
+     "1-i, 2-ii",
+     "1-ii, 2-i",
+     "1-i, 2-i",
+     "1-ii, 2-ii"
+    ],
+    "en": [
+     "1-i, 2-ii",
+     "1-ii, 2-i",
+     "1-i, 2-i",
+     "1-ii, 2-ii"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అండమాన్ మరియు నికోబార్ దీవులు బంగాళాఖాతంలో ఉండగా, లక్షద్వీప్ అరేబియా సముద్రంలో ఉన్నాయి.",
+    "en": "The Andaman and Nicobar islands are in the Bay of Bengal, and Lakshadweep is in the Arabian Sea."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T13-0085",
+   "section": {
+    "te": "Buddhas of Bamiyan",
+    "en": "Buddhas of Bamiyan"
+   },
+   "q": {
+    "te": "ఆఫ్ఘన్ కొండలలో చెక్కబడిన భారీ బామియాన్ బుద్ధ విగ్రహాలు ఏ సంవత్సరంలో ధ్వంసం చేయబడ్డాయి?",
+    "en": "In which year were the gigantic Buddhas of Bamiyan, carved into Afghan cliffs, destroyed?"
+   },
+   "options": {
+    "te": [
+     "1996",
+     "2005",
+     "1991",
+     "2001"
+    ],
+    "en": [
+     "1996",
+     "2005",
+     "1991",
+     "2001"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, ఆఫ్ఘనిస్తాన్‌లోని ప్రసిద్ధ బామియాన్ బుద్ధ విగ్రహాలు 2001 సంవత్సరంలో ధ్వంసం చేయబడ్డాయి.",
+    "en": "The gigantic Buddhas of Bamiyan in Afghanistan were destroyed in 2001."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T13-0076",
+   "section": {
+    "te": "Tiger's Nest monastery",
+    "en": "Tiger's Nest monastery"
+   },
+   "q": {
+    "te": "భూటాన్‌లోని ప్రసిద్ధ బౌద్ధ ఆశ్రమం 'టైగర్స్ నెస్ట్' ఏ లోయకు ఎగువన ఉన్న పర్వత వాలుపై నిర్మించబడింది?",
+    "en": "The famous Buddhist monastery 'Tiger’s Nest' in Bhutan is perched high on a mountainside overhanging which valley?"
+   },
+   "options": {
+    "te": [
+     "పునాఖా లోయ",
+     "ఫోబ్జికా లోయ",
+     "థింపూ లోయ",
+     "పారో లోయ"
+    ],
+    "en": [
+     "Punakha valley",
+     "Phobjikha valley",
+     "Thimphu valley",
+     "Paro valley"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూటాన్‌లోని 'టైగర్స్ నెస్ట్' బౌద్ధ ఆశ్రమం పారో లోయకు ఎగువన పర్వతపు అంచున ఉంది.",
+    "en": "'Tiger's Nest' is a Buddhist monastery perched high on the mountainside overhanging the Paro valley in Bhutan."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T13-0044",
+   "section": {
+    "te": "India's exports to China",
+    "en": "India's exports to China"
+   },
+   "q": {
+    "te": "2024–2025లో భారతదేశం చైనాకు చేసిన ప్రధాన ఎగుమతులలో క్రింది వాటిలో ఏది భాగం కాదు?",
+    "en": "Which of the following was NOT one of India's chief exports to China in 2024–2025?"
+   },
+   "options": {
+    "te": [
+     "నూలు (కాటన్ యార్న్)",
+     "ఎలక్ట్రానిక్ వస్తువులు",
+     "రసాయనాలు",
+     "ఇనుప ఖనిజం"
+    ],
+    "en": [
+     "Cotton yarn",
+     "Electronic items",
+     "Chemicals",
+     "Iron ore"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఎలక్ట్రానిక్ వస్తువులు చైనా నుండి భారతదేశం చేసుకున్న దిగుమతులు; ఇనుప ఖనిజం, రసాయనాలు మరియు కాటన్ యార్న్ భారతదేశం చైనాకు చేసిన ఎగుమతులు.",
+    "en": "Electronic items were among India's imports from China, whereas iron ore, chemicals, and cotton yarn were chief exports to China."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T13-0131",
+   "section": {
+    "te": "2004 Tsunami Casualties",
+    "en": "2004 Tsunami Casualties"
+   },
+   "q": {
+    "te": "2004 సునామీ సమయంలో మొత్తం ప్రాంతంలో చనిపోయిన వారి సంఖ్య ఎంత?",
+    "en": "What was the total number of people killed across the whole region during the 2004 tsunami?"
+   },
+   "options": {
+    "te": [
+     "200,000 కంటే ఎక్కువ",
+     "100,000 కంటే ఎక్కువ",
+     "15,000 కంటే ఎక్కువ",
+     "50,000 కంటే ఎక్కువ"
+    ],
+    "en": [
+     "More than 200,000",
+     "More than 100,000",
+     "More than 15,000",
+     "More than 50,000"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భారతదేశంలో 15,000 మంది మరణించగా, 2004 సునామీ ప్రభావితమైన మొత్తం ప్రాంతంలో 2,00,000 కంటే ఎక్కువ మంది మరణించారు.",
+    "en": "While 15,000 died in India, more than 200,000 people were killed across the entire region affected by the 2004 tsunami."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T13-0157",
+   "section": {
+    "te": "Time Difference",
+    "en": "Time Difference"
+   },
+   "q": {
+    "te": "భారతదేశ రేఖాంశ విస్తరణకు సంబంధించి ఈ క్రింది వాటిలో ఏది నిజం?",
+    "en": "Which of the following is true regarding the longitudinal extent of India?"
+   },
+   "options": {
+    "te": [
+     "రేఖాంశాలలో దాదాపు 30 డిగ్రీల వ్యత్యాసం ఉంది",
+     "తూర్పు మరియు పడమరల మధ్య దాదాపు రెండు గంటల సమయ వ్యత్యాసం ఉంది",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "There is a variation of nearly 30 degrees in longitude",
+     "There is a time difference of nearly two hours between the east and west",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "30 డిగ్రీల రేఖాంశ వ్యత్యాసం వల్ల తూర్పు మరియు పశ్చిమ కొనల మధ్య 2 గంటల సమయ వ్యత్యాసం ఏర్పడుతుంది.",
+    "en": "The 30-degree longitudinal variation results in a 2-hour time difference between the eastern and western extremities."
+   }
+  }
+ ]
+}

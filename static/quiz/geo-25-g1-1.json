@@ -1,0 +1,942 @@
+{
+ "id": "geo-25-g1-1",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Agriculture – క్విజ్ 1",
+  "en": "Agriculture – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T25-0093",
+   "section": {
+    "te": "Overexploited area in Punjab",
+    "en": "Overexploited area in Punjab"
+   },
+   "q": {
+    "te": "పంజాబ్ రాష్ట్రంలో భూగర్భ జలాల వినియోగానికి సంబంధించి ఎంత శాతం విస్తీర్ణం 'అధికంగా దోపిడీకి గురైనది' (overexploited) గా వర్గీకరించబడింది?",
+    "en": "What percentage of the area of Punjab has been classified as 'overexploited' in terms of groundwater resources?"
+   },
+   "options": {
+    "te": [
+     "దాదాపు 65%",
+     "దాదాపు 50%",
+     "దాదాపు 80%",
+     "దాదాపు 95%"
+    ],
+    "en": [
+     "Almost 65%",
+     "Almost 50%",
+     "Almost 80%",
+     "Almost 95%"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పంజాబ్ భూభాగంలో దాదాపు 80% ప్రాంతం 'అధికంగా దోపిడీకి గురైనది'గా వర్గీకరించబడిందని పాఠ్యాంశం పేర్కొంది.",
+    "en": "Almost 80% of the area of Punjab has been classified as 'overexploited'."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T25-0013",
+   "section": {
+    "te": "Scope of Agriculture",
+    "en": "Scope of Agriculture"
+   },
+   "q": {
+    "te": "విస్తృత అర్థంలో 'వ్యవసాయం' అనే పదం కింది వాటిలో దేనిని కలిగి ఉంటుంది?",
+    "en": "Broadly, the term 'agriculture' encompasses which of the following?"
+   },
+   "options": {
+    "te": [
+     "సాగు మరియు పశుసంవర్ధకం",
+     "అటవీ పెంపకం మరియు ఉద్యానవన సాగు",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Farming and Animal husbandry",
+     "Forestry and Horticulture",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "విస్తృత నిర్వచనం ప్రకారం, వ్యవసాయంలో సాగు, పశుసంవర్ధకం, అటవీ పెంపకం మరియు ఉద్యానవన సాగు (Horticulture) కలిసి ఉంటాయి.",
+    "en": "Broadly defined, agriculture includes farming, animal husbandry, forestry, and horticulture."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T25-0012",
+   "section": {
+    "te": "Ancient Agriculture at Mehrgarh",
+    "en": "Ancient Agriculture at Mehrgarh"
+   },
+   "q": {
+    "te": "మెహర్‌గఢ్‌లో ఏ పంటల సాగు క్రీస్తుపూర్వం 7వ సహస్రాబ్ది నాటిదని గుర్తించారు?",
+    "en": "In Mehrgarh, the cultivation of which crops is dated back to the 7th millennium BCE?"
+   },
+   "options": {
+    "te": [
+     "బార్లీ మరియు చిరుధాన్యాలు",
+     "నువ్వులు మరియు ఆవాలు",
+     "గోధుమ మరియు వరి",
+     "పత్తి మరియు జనపనార"
+    ],
+    "en": [
+     "Barley and Millets",
+     "Sesame and Mustard",
+     "Wheat and Rice",
+     "Cotton and Jute"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "బలూచిస్థాన్‌లోని మెహర్‌గఢ్‌లో బార్లీ మరియు చిరుధాన్యాల సాగు క్రీస్తుపూర్వం 7వ సహస్రాబ్ది నాటిదని ఆధారాలు ఉన్నాయి.",
+    "en": "The cultivation of barley and millets at Mehrgarh in Baluchistan dates back to the 7th millennium BCE."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T25-0213",
+   "section": {
+    "te": "Intensive subsistence crops other than paddy",
+    "en": "Intensive subsistence crops other than paddy"
+   },
+   "q": {
+    "te": "వరి కాకుండా ఇతర పంటల ఆధిక్యత గల సాంద్ర జీవనాధార వ్యవసాయం (Intensive subsistence agriculture), వరి పంట ఆధిక్యత గల వ్యవసాయం కంటే ప్రధానంగా ఏ విషయంలో భిన్నంగా ఉంటుంది?",
+    "en": "In intensive subsistence agriculture dominated by crops other than paddy, how does it primarily differ from that dominated by wet paddy?"
+   },
+   "options": {
+    "te": [
+     "వ్యవసాయ భూములు పూర్తిగా విదేశీ కంపెనీల యాజమాన్యంలో ఉంటాయి",
+     "అన్ని పనులకు భారీ యంత్రాలను ఉపయోగిస్తారు",
+     "కుటుంబ శ్రమ స్థానంలో పూర్తిగా బయటి కూలీలను ఉపయోగిస్తారు",
+     "తరచుగా నీటిపారుదల (ఇరిగేషన్) ఉపయోగించబడుతుంది"
+    ],
+    "en": [
+     "Farms are completely owned by foreign corporations",
+     "Heavy machinery is used for all operations",
+     "Family labour is entirely replaced by hired labour",
+     "Irrigation is often used"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వరియేతర సాంద్ర జీవనాధార వ్యవసాయ లక్షణాలు వరి పంట సాగు లక్షణాలనే పోలి ఉంటాయి, కాకపోతే ఇందులో తరచుగా నీటిపారుదల సౌకర్యం ఉపయోగించబడుతుంది.",
+    "en": "Most characteristics of intensive subsistence farming other than paddy are similar to wet paddy farming, except that irrigation is often used."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T25-0106",
+   "section": {
+    "te": "Agricultural Schemes",
+    "en": "Agricultural Schemes"
+   },
+   "q": {
+    "te": "ప్రధాన మంత్రి కృషి సించాయి యోజన కింద పొలంలో నీటి వినియోగ సామర్థ్యాన్ని మెరుగుపరిచే లక్ష్యంతో ఏ నినాదం ముడిపడి ఉంది?",
+    "en": "Which slogan is associated with the objective of improving on-farm water use efficiency under the Pradhan Mantri Krishi Sinchayee Yojana?"
+   },
+   "options": {
+    "te": [
+     "హర్ ఖేత్ కో పానీ",
+     "నిర్మల్ భారత్",
+     "జై కిసాన్",
+     "పర్ డ్రాప్ మోర్ క్రాప్"
+    ],
+    "en": [
+     "Har khet ko pani",
+     "Nirmal Bharat",
+     "Jai Kisan",
+     "Per drop more crop"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పొలంలో నీటి వినియోగ సామర్థ్యాన్ని మెరుగుపరచడం మరియు నీటి పొదుపు సాంకేతికతలను ఉపయోగించడం అనే లక్ష్యంతో 'పర్ డ్రాప్ మోర్ క్రాప్' (ప్రతి చుక్కకు ఎక్కువ పంట) అనే నినాదాన్ని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text links 'per drop more crop' with the objective of improving on-farm water use efficiency and water-saving technologies."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T25-0119",
+   "section": {
+    "te": "Plantation Farming",
+    "en": "Plantation Farming"
+   },
+   "q": {
+    "te": "'ప్లాంటేషన్ వ్యవసాయం' (Plantation Farming) కు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఒకే పంటను పెద్ద విస్తీర్ణంలో పండిస్తారు.\n2. ఇది వ్యవసాయం మరియు పరిశ్రమల మధ్య అనుసంధానంగా పనిచేస్తుంది.\n3. ఇది అధిక మూలధనంతో కూడిన ఉత్పాదకాలను మరియు వలస కూలీలను ఉపయోగిస్తుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding 'Plantation Farming':\n1. A single crop is grown on a large area.\n2. It serves as an interface between agriculture and industry.\n3. It uses capital-intensive inputs and migrant labourers.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ప్లాంటేషన్ వ్యవసాయం పెద్ద విస్తీర్ణంలో ఒకే పంటను పండించడం, అధిక మూలధనం మరియు వలస కూలీలను ఉపయోగించడం మరియు వ్యవసాయం, పరిశ్రమల మధ్య అనుసంధానంగా ఉంటుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Plantation farming involves growing a single crop on large tracts, uses capital-intensive inputs and migrant labor, and acts as an interface between agriculture and industry."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T25-0073",
+   "section": {
+    "te": "Organic Farming",
+    "en": "Organic Farming"
+   },
+   "q": {
+    "te": "ప్రపంచంలోనే మొట్టమొదటి 100 శాతం సేంద్రీయ రాష్ట్రంగా గుర్తింపు పొందిన భారతీయ రాష్ట్రం ఏది?",
+    "en": "Which Indian state is recognized as the world's first 100 per cent organic state?"
+   },
+   "options": {
+    "te": [
+     "సిక్కిం",
+     "కేరళ",
+     "గుజరాత్",
+     "ఒడిశా"
+    ],
+    "en": [
+     "Sikkim",
+     "Kerala",
+     "Gujarat",
+     "Odisha"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సుస్థిర వ్యవసాయం కోసం 100% సేంద్రీయ వ్యవసాయ నమూనాను అవలంబించిన ప్రపంచంలోనే మొదటి రాష్ట్రంగా సిక్కిం నిలిచింది.",
+    "en": "Sikkim became the world's first state to adopt a 100% organic farming model for sustainable agriculture."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T25-0105",
+   "section": {
+    "te": "Water Disputes",
+    "en": "Water Disputes"
+   },
+   "q": {
+    "te": "కర్ణాటక, ఆంధ్రప్రదేశ్ మరియు మహారాష్ట్రల మధ్య కృష్ణా-గోదావరి నీటి వివాదానికి నిర్దిష్ట కారణం ఏమిటి?",
+    "en": "What is the specific reason for the Krishna-Godavari water dispute between Karnataka, Andhra Pradesh, and Maharashtra?"
+   },
+   "options": {
+    "te": [
+     "రాజస్థాన్‌లో కొత్త ఆనకట్ట నిర్మాణం",
+     "కర్ణాటకలోని రిజర్వాయర్లలో పూడిక చేరడం",
+     "పారిశ్రామిక వ్యర్థాల వల్ల నదీ జలాలు కలుషితం కావడం",
+     "మహారాష్ట్ర ప్రభుత్వం కోయినా వద్ద ఎక్కువ నీటిని మళ్లించడం"
+    ],
+    "en": [
+     "Construction of a new dam in Rajasthan",
+     "Siltation in the reservoirs of Karnataka",
+     "Pollution of river water by industrial effluents",
+     "Diversion of more water at Koyna by Maharashtra"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మహారాష్ట్ర ప్రభుత్వం బహుళార్థసాధక ప్రాజెక్టు కోసం కోయినా వద్ద ఎక్కువ నీటిని మళ్లించడం వల్ల కర్ణాటక మరియు ఆంధ్రప్రదేశ్‌లకు దిగువన ప్రవాహం తగ్గడం ఈ వివాదానికి కారణమైంది.",
+    "en": "The dispute arose because Maharashtra diverted more water at Koyna for a multipurpose project, reducing the downstream flow to Karnataka and Andhra Pradesh."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T25-0036",
+   "section": {
+    "te": "Sindhu-Sarasvati animal domestication",
+    "en": "Sindhu-Sarasvati animal domestication"
+   },
+   "q": {
+    "te": "సింధు-సరస్వతి నాగరికత యొక్క ఏ దశ నుండి పశువులు, గాడిదలు, గొర్రెలు, మేకలు, కుక్కలు, పందులు మరియు కోళ్లు వంటి జంతువులు మచ్చిక చేయబడ్డాయి?",
+    "en": "Cattle, asses, sheep, goats, dogs, pigs, and fowl were domesticated in India starting from which period of the Sindhu-Sarasvatī civilisation?"
+   },
+   "options": {
+    "te": [
+     "పట్టణ పూర్వ దశ (సుమారు క్రీ.పూ. 3500)",
+     "మలి దశ (సుమారు క్రీ.పూ. 1900)",
+     "పరిణతి చెందిన పట్టణ దశ (సుమారు క్రీ.పూ. 2600)",
+     "పట్టణానంతర దశ (సుమారు క్రీ.పూ. 1500)"
+    ],
+    "en": [
+     "Pre-urban phase (c. 3500 BCE)",
+     "Late phase (c. 1900 BCE)",
+     "Mature urban phase (c. 2600 BCE)",
+     "Post-urban phase (c. 1500 BCE)"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సింధు-సరస్వతి నాగరికత యొక్క పట్టణ పూర్వ దశ (సుమారు క్రీ.పూ. 3500) నుండే పశువులు, గొర్రెలు, మేకలు తదితర జంతువులను మచ్చిక చేసుకున్నారు.",
+    "en": "Domestication of animals occurred from the pre-urban phase of the Sindhu-Sarasvatī civilisation (c. 3500 BCE)."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T25-0272",
+   "section": {
+    "te": "Rice Cultivation",
+    "en": "Rice Cultivation"
+   },
+   "q": {
+    "te": "పశ్చిమ బెంగాల్‌లోని రైతులు పండించే మూడు రకాల వరి పంటల పేర్లు ఏమిటి?",
+    "en": "What are the names of the three rice crops grown by farmers in West Bengal?"
+   },
+   "options": {
+    "te": [
+     "జొన్న, సజ్జ, కంది",
+     "సాంబ, కురువై, తలడి",
+     "ఆస్, అమన్, బోరో",
+     "ఖరీఫ్, రబీ, జైద్"
+    ],
+    "en": [
+     "Jowar, Bajra, Tur",
+     "Samba, Kuruvai, Thaladi",
+     "Aus, Aman, Boro",
+     "Kharif, Rabi, Zaid"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పశ్చిమ బెంగాల్‌లోని రైతులు ఆస్, అమన్ మరియు బోరో అనే మూడు వరి పంటలను పండిస్తారని పాఠ్య భాగం స్పష్టంగా పేర్కొంది.",
+    "en": "Farmers in West Bengal grow three rice crops: aus, aman, and boro."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T25-0152",
+   "section": {
+    "te": "Wheat cultivation conditions",
+    "en": "Wheat cultivation conditions"
+   },
+   "q": {
+    "te": "గోధుమ సాగుకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. దీనికి చల్లని పెరుగుదల కాలం అవసరం.\n2. పంట పక్వానికి వచ్చే సమయంలో ప్రకాశవంతమైన సూర్యరశ్మి అవసరం.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding Wheat cultivation:\n1. It requires a cool growing season.\n2. It requires bright sunshine at the time of ripening.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "గోధుమ పంటకు చల్లని పెరుగుదల కాలం మరియు పంట పక్వానికి వచ్చే దశలో ప్రకాశవంతమైన సూర్యరశ్మి అవసరం.",
+    "en": "Wheat requires a cool growing season and bright sunshine during its ripening stage."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T25-0109",
+   "section": {
+    "te": "Sardar Sarovar Project",
+    "en": "Sardar Sarovar Project"
+   },
+   "q": {
+    "te": "సర్దార్ సరోవర్ ప్రాజెక్ట్ రాజస్థాన్‌లోని ఏ వ్యూహాత్మక ఎడారి జిల్లాల్లో 2,46,000 హెక్టార్ల భూమికి సాగునీటిని అందిస్తుంది?",
+    "en": "The Sardar Sarovar Project provides irrigation to 2,46,000 hectares of land in which strategic desert districts of Rajasthan?"
+   },
+   "options": {
+    "te": [
+     "జలోర్ మరియు జోధ్‌పూర్",
+     "జోధ్‌పూర్ మరియు బికనీర్",
+     "బార్మర్ మరియు జలోర్",
+     "జైసల్మేర్ మరియు బార్మర్"
+    ],
+    "en": [
+     "Jalore and Jodhpur",
+     "Jodhpur and Bikaner",
+     "Barmer and Jalore",
+     "Jaisalmer and Barmer"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రాజస్థాన్‌లోని బార్మర్ మరియు జలోర్ అనే వ్యూహాత్మక ఎడారి జిల్లాలకు ఈ ప్రాజెక్ట్ ద్వారా సాగునీరు అందుతుందని పాఠ్యభాగం స్పష్టంగా పేర్కొంది.",
+    "en": "Barmer and Jalore as the strategic desert districts in Rajasthan receiving irrigation from the project."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T25-0353",
+   "section": {
+    "te": "Agricultural Unemployment",
+    "en": "Agricultural Unemployment"
+   },
+   "q": {
+    "te": "భారతదేశంలోని నీటిపారుదల లేని ప్రాంతాల్లో వ్యవసాయ రంగంలో సాధారణంగా ఎన్ని నెలల కాలానుగుణ నిరుద్యోగం (సీజనల్ అన్‌ఎంప్లాయ్‌మెంట్) ఉంటుంది?",
+    "en": "In the unirrigated tracts of India, seasonal unemployment in agriculture typically ranges from:"
+   },
+   "options": {
+    "te": [
+     "2 నుండి 4 నెలలు",
+     "4 నుండి 8 నెలలు",
+     "1 నుండి 3 నెలలు",
+     "8 నుండి 10 నెలలు"
+    ],
+    "en": [
+     "2 to 4 months",
+     "4 to 8 months",
+     "1 to 3 months",
+     "8 to 10 months"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారతదేశంలోని నీటిపారుదల లేని ప్రాంతాలలో 4 నుండి 8 నెలల వరకు కాలానుగుణ నిరుద్యోగం ఉంటుంది.",
+    "en": "In unirrigated areas, there is seasonal unemployment ranging from 4 to 8 months."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T25-0298",
+   "section": {
+    "te": "Groundnut Yield Tamil Nadu",
+    "en": "Groundnut Yield Tamil Nadu"
+   },
+   "q": {
+    "te": "తమిళనాడులో వేరుశనగ దిగుబడి సాపేక్షంగా ఎందుకు ఎక్కువగా ఉంటుంది?",
+    "en": "Why is the yield of groundnut comparatively high in Tamil Nadu?"
+   },
+   "options": {
+    "te": [
+     "దీనిని రబీ సీజన్‌లో పండించడం వల్ల",
+     "దీనికి పాక్షికంగా నీటి పారుదల సౌకర్యం ఉండటం వల్ల",
+     "అధిక వర్షపాతం వల్ల",
+     "శ్రేష్టమైన నేలలను ఉపయోగించడం వల్ల"
+    ],
+    "en": [
+     "Because it is grown in the Rabi season",
+     "Because it is partly irrigated",
+     "Due to high rainfall",
+     "Due to the use of superior soils"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "తమిళనాడులో వేరుశనగకు పాక్షికంగా నీటి పారుదల సౌకర్యం ఉండటం వల్ల అక్కడ దిగుబడి ఎక్కువగా ఉంటుంది.",
+    "en": "The high yield of groundnut in Tamil Nadu is attributed to the fact that it is partly irrigated in that state."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T25-0030",
+   "section": {
+    "te": "Southwest monsoon months",
+    "en": "Southwest monsoon months"
+   },
+   "q": {
+    "te": "భారతదేశంలో నైరుతి రుతుపవనాలు ఏ నెలల్లో వర్షాన్ని తెస్తాయి?",
+    "en": "In India, during which months does the southwest monsoon bring rainfall?"
+   },
+   "options": {
+    "te": [
+     "జనవరి నుండి మార్చి",
+     "జూన్ నుండి సెప్టెంబర్",
+     "మార్చి నుండి మే",
+     "అక్టోబర్ నుండి డిసెంబర్"
+    ],
+    "en": [
+     "January to March",
+     "June to September",
+     "March to May",
+     "October to December"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "నైరుతి రుతుపవనాలు జూన్ నుండి సెప్టెంబర్ వరకు వర్షపాతాన్ని అందిస్తాయి, ఇది ఖరీఫ్ పంటలకు చాలా కీలకం.",
+    "en": "The southwest monsoon brings rainfall from June to September and is crucial for kharif crops."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T25-0267",
+   "section": {
+    "te": "Regional Cropping Patterns",
+    "en": "Regional Cropping Patterns"
+   },
+   "q": {
+    "te": "భారతదేశంలోని దక్షిణ ప్రాంతాలలో పంట కాలాల (ఖరీఫ్, రబీ, జైద్) మధ్య వ్యత్యాసం ఎందుకు స్పష్టంగా కనిపించదు?",
+    "en": "Why is the distinction between cropping seasons (Kharif, Rabi, Zaid) NOT clearly found in the southern parts of India?"
+   },
+   "options": {
+    "te": [
+     "శీతాకాలంలో వర్షపాతం లేకపోవడం వల్ల",
+     "అధిక ఉష్ణోగ్రతలు ఏడాది పొడవునా ఉష్ణమండల పంటలను పండించడానికి అనుమతించడం వల్ల",
+     "సారవంతమైన నేల లేకపోవడం వల్ల",
+     "కేవలం సమశీతోష్ణ పంటలు మాత్రమే ఉండటం వల్ల"
+    ],
+    "en": [
+     "Due to lack of rainfall in winter",
+     "Due to high temperatures allowing tropical crops year-round",
+     "Due to the absence of fertile soil",
+     "Due to the prevalence of only temperate crops"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "దక్షిణ భారతదేశంలో, నేలలో తేమ అందుబాటులో ఉంటే ఏడాది పొడవునా ఉష్ణమండల పంటలను పండించడానికి అధిక ఉష్ణోగ్రతలు వీలు కల్పిస్తాయి, దీనివల్ల కాలాల వ్యత్యాసం తక్కువగా ఉంటుంది.",
+    "en": "In southern India, high temperatures allow tropical crops to be grown at any time of the year if soil moisture is available, making seasonal distinctions less relevant."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T25-0173",
+   "section": {
+    "te": "Fibre Crops",
+    "en": "Fibre Crops"
+   },
+   "q": {
+    "te": "భారతదేశంలో పండించే ప్రధాన పీచు పంటలలో (fibre crops) ఏది నేలలో పెరిగే పంటల నుండి లభించదు?",
+    "en": "Which of the following major fibre crops grown in India is NOT derived from crops grown in the soil?"
+   },
+   "options": {
+    "te": [
+     "ప్రత్తి",
+     "సహజ పట్టు",
+     "హెంప్ (Hemp)",
+     "జనపనార"
+    ],
+    "en": [
+     "Cotton",
+     "Natural Silk",
+     "Hemp",
+     "Jute"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రత్తి, జనపనార మరియు హెంప్ నేలలో పెరిగే పంటల నుండి లభిస్తాయి, అయితే సహజ పట్టు పట్టుపురుగుల గూళ్ల (cocoons) నుండి లభిస్తుంది.",
+    "en": "Cotton, jute, and hemp are derived from crops grown in the soil, whereas natural silk is obtained from cocoons of silkworms."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T25-0308",
+   "section": {
+    "te": "Rapeseed Cultivation Features",
+    "en": "Rapeseed Cultivation Features"
+   },
+   "q": {
+    "te": "భారతదేశంలో రేప్‌సీడ్ మరియు ఆవాల సాగుకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి రబీ కాలంలో సాగు చేయబడే మంచుకు సున్నితమైన ఉపఉష్ణమండల పంటలు.\n2. ఈ పంటల సాగు విస్తీర్ణంలో దాదాపు మూడింట రెండు వంతులు నీటిపారుదల సౌకర్యం కలిగి ఉంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding rapeseed and mustard cultivation in India:\n1. These are frost-sensitive subtropical crops grown during the rabi season.\n2. About two-third of the cultivated area under these crops is irrigated.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రేప్‌సీడ్ మరియు ఆవాలు రబీ సీజన్‌లో సాగు చేయబడే ఉపఉష్ణమండల పంటలు, ఇవి మంచుకు సున్నితమైనవి మరియు వీటి సాగు విస్తీర్ణంలో దాదాపు మూడింట రెండు వంతులు నీటిపారుదల కలిగి ఉంది.",
+    "en": "Rapeseed and mustard are subtropical crops cultivated during the rabi season that are frost-sensitive, and about two-third of their cultivated area is irrigated."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T25-0269",
+   "section": {
+    "te": "Cropping Intensity",
+    "en": "Cropping Intensity"
+   },
+   "q": {
+    "te": "భారతదేశం వంటి దేశానికి అధిక పంట తీవ్రత (cropping intensity) ఎందుకు అవసరమని భావిస్తారు?",
+    "en": "Why is high cropping intensity considered desirable for a country like India?"
+   },
+   "options": {
+    "te": [
+     "భూ వనరులను పూర్తిస్థాయిలో వినియోగించుకోవడం కోసం",
+     "గ్రామీణ ఆర్థిక వ్యవస్థలో నిరుద్యోగాన్ని తగ్గించడం కోసం",
+     "A మరియు B రెండూ",
+     "నీటి పారుదల అవసరాన్ని తగ్గించడం కోసం"
+    ],
+    "en": [
+     "Fuller utilisation of land resource",
+     "Reducing unemployment in the rural economy",
+     "Both A and B",
+     "Reducing the need for irrigation"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అధిక పంట తీవ్రత భూమిని మెరుగ్గా వినియోగించుకోవడానికి సహాయపడుతుంది మరియు శ్రమకు డిమాండ్‌ను పెంచుతుంది, తద్వారా గ్రామీణ నిరుద్యోగాన్ని తగ్గిస్తుంది.",
+    "en": "High cropping intensity helps in better land utilization and creates more demand for labour, thereby reducing rural unemployment."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T25-0125",
+   "section": {
+    "te": "Bamboo Drip Irrigation",
+    "en": "Bamboo Drip Irrigation"
+   },
+   "q": {
+    "te": "వెదురు బిందు సేద్యం (bamboo drip irrigation) వ్యవస్థకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. సుమారు 18-20 లీటర్ల నీరు ఈ వ్యవస్థలోకి ప్రవేశిస్తుంది.\n2. పైపుల స్థానాలను మార్చడం ద్వారా నీటి ప్రవాహాన్ని నియంత్రిస్తారు.\n3. పైపులు రహదారిని దాటవలసి వస్తే, వాటిని భూమికి చాలా ఎత్తులో తీసుకువెళతారు.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Regarding the bamboo drip irrigation system, consider the following statements:\n1. About 18-20 litres of water enters the system.\n2. The flow of water is controlled by manipulating the pipe positions.\n3. If pipes pass a road, they are taken high above the land.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మేఘాలయలోని వెదురు బిందు సేద్యం వ్యవస్థను వివరించే పాఠ్యభాగం ఈ మూడు ప్రకటనలను నేరుగా ధృవీకరిస్తుంది.",
+    "en": "All three statements are directly supported by the text describing the bamboo drip irrigation system in Meghalaya."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T25-0040",
+   "section": {
+    "te": "Kharif crops",
+    "en": "Kharif crops"
+   },
+   "q": {
+    "te": "పాఠ్యపుస్తకం ప్రకారం క్రింది వాటిలో ఖరీఫ్ పంట కానిది ఏది?",
+    "en": "Which of the following crops is NOT listed as a kharif crop in the textbook?"
+   },
+   "options": {
+    "te": [
+     "వేరుశనగ (Groundnut)",
+     "మొక్కజొన్న (Maize)",
+     "బార్లీ (Barley)",
+     "జొన్న (Jowar)"
+    ],
+    "en": [
+     "Groundnut",
+     "Maize",
+     "Barley",
+     "Jowar"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "బార్లీ అనేది రబీ పంట, కాగా మొక్కజొన్న, వేరుశనగ మరియు జొన్నలు ఖరీఫ్ పంటలు.",
+    "en": "Barley is a rabi crop, while maize, groundnut, and jowar are kharif crops."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T25-0144",
+   "section": {
+    "te": "Wheat growing zones",
+    "en": "Wheat growing zones"
+   },
+   "q": {
+    "te": "భారతదేశంలోని రెండు ముఖ్యమైన గోధుమ పండించే ప్రాంతాలు ఏవి?",
+    "en": "Which of the following are the two important wheat-growing zones in India?"
+   },
+   "options": {
+    "te": [
+     "వాయువ్యంలోని గంగా-సట్లెజ్ మైదానాలు",
+     "దక్కన్ లోని నల్ల రేగడి నేలల ప్రాంతం",
+     "A మరియు B రెండూ",
+     "ఒడిశా తీర మైదానాలు"
+    ],
+    "en": [
+     "Ganga-Satluj plains in the north-west",
+     "Black soil region of the Deccan",
+     "Both A and B",
+     "Coastal plains of Odisha"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, భారతదేశంలో రెండు ప్రధాన గోధుమ పండించే ప్రాంతాలు ఉన్నాయి: వాయువ్యంలోని గంగా-సట్లెజ్ మైదానాలు మరియు దక్కన్ లోని నల్ల రేగడి నేలల ప్రాంతం.",
+    "en": "India has two major wheat-growing zones: the Ganga-Satluj plains in the north-west and the black soil region of the Deccan."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T25-0082",
+   "section": {
+    "te": "Sikkim Organic Farming",
+    "en": "Sikkim Organic Farming"
+   },
+   "q": {
+    "te": "100 శాతం సేంద్రీయ వ్యవసాయ నమూనాను అవలంబించడానికి సిక్కిం ఏ సంవత్సరంలో రసాయన ఎరువులు మరియు పురుగుమందులను నిషేధించింది?",
+    "en": "In which year did Sikkim ban chemical fertilizers and pesticides to adopt a 100 per cent organic farming model?"
+   },
+   "options": {
+    "te": [
+     "2014",
+     "2010",
+     "2012",
+     "2016"
+    ],
+    "en": [
+     "2014",
+     "2010",
+     "2012",
+     "2016"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పూర్తిగా సేంద్రీయ వ్యవసాయ నమూనాలోకి మారడానికి సిక్కిం 2014లో రసాయన ఎరువులు మరియు పురుగుమందులను నిషేధించింది.",
+    "en": "Sikkim banned chemical fertilizers and pesticides in 2014 to transition to a fully organic farming model."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T25-0218",
+   "section": {
+    "te": "Features of plantation agriculture",
+    "en": "Features of plantation agriculture"
+   },
+   "q": {
+    "te": "తోటల వ్యవసాయం (Plantation agriculture) కు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది ఒకే పంట ప్రత్యేకతను (single crop specialisation) కలిగి ఉంటుంది.\n2. దీనికి భారీ మూలధన పెట్టుబడితో పాటు నిర్వహణ మరియు సాంకేతిక సహకారం అవసరం.\n3. ఇది ప్రాచీన, అశాస్త్రీయ సాగు పద్ధతులను ఉపయోగిస్తుంది.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding plantation agriculture:\n1. It is characterised by single crop specialisation.\n2. It requires large capital investment and managerial and technical support.\n3. It uses primitive, non-scientific methods of cultivation.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 3 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 2 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 3 only",
+     "2 and 3 only",
+     "1 and 2 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "1 మరియు 2 సరైనవి. ప్రకటన 3 తప్పు, ఎందుకంటే తోటల వ్యవసాయంలో ప్రాచీన పద్ధతులకు బదులుగా శాస్త్రీయ పద్ధతులను (scientific methods) ఉపయోగిస్తారు.",
+    "en": "Statements 1 and 2 are correct. Statement 3 is incorrect because plantation agriculture is characterised by scientific methods of cultivation, not primitive methods."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T25-0242",
+   "section": {
+    "te": "Fallow other than Current Fallow",
+    "en": "Fallow other than Current Fallow"
+   },
+   "q": {
+    "te": "ఒకటి కంటే ఎక్కువ సంవత్సరాలు కానీ ఐదు సంవత్సరాల కంటే తక్కువ కాలం సాగు చేయకుండా వదిలివేసిన సాగు భూమిని ఏ విధంగా వర్గీకరిస్తారు?",
+    "en": "A cultivable land that is left uncultivated for more than one year but less than five years is classified as:"
+   },
+   "options": {
+    "te": [
+     "ప్రస్తుత బీడు భూమి",
+     "ప్రస్తుత బీడు కాకుండా ఇతర బీడు భూమి (Fallow other than Current Fallow)",
+     "బంజరు భూమి",
+     "సాగుయోగ్యమైన వ్యర్థ భూమి"
+    ],
+    "en": [
+     "Current Fallow",
+     "Fallow other than Current Fallow",
+     "Barren Land",
+     "Culturable Wasteland"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఒక సంవత్సరం కంటే ఎక్కువ మరియు ఐదు సంవత్సరాల కంటే తక్కువ కాలం సాగు చేయని భూమిని 'ప్రస్తుత బీడు కాకుండా ఇతర బీడు భూమి' అంటారు.",
+    "en": "Land left uncultivated for more than a year but less than five years is termed 'Fallow other than Current Fallow'."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T25-0334",
+   "section": {
+    "te": "HYV seed origins",
+    "en": "HYV seed origins"
+   },
+   "q": {
+    "te": "1960ల మధ్యకాలంలో భారతదేశంలో ప్రవేశపెట్టబడిన గోధుమ మరియు వరి అధిక దిగుబడి రకాలు (HYVs) వరుసగా ఏ దేశాలలో అభివృద్ధి చేయబడ్డాయి?",
+    "en": "The high yielding varieties (HYVs) of wheat and rice introduced in India in the mid-1960s were originally developed in which countries respectively?"
+   },
+   "options": {
+    "te": [
+     "ఫిలిప్పీన్స్ మరియు మెక్సికో",
+     "మెక్సికో మరియు ఫిలిప్పీన్స్",
+     "జపాన్ మరియు మెక్సికో",
+     "యు.ఎస్.ఎ మరియు ఫిలిప్పీన్స్"
+    ],
+    "en": [
+     "Philippines and Mexico",
+     "Mexico and Philippines",
+     "Japan and Mexico",
+     "USA and Philippines"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "1960ల మధ్య నాటికి మెక్సికోలో అభివృద్ధి చేసిన గోధుమ మరియు ఫిలిప్పీన్స్‌లో అభివృద్ధి చేసిన వరి అధిక దిగుబడి రకాలు సాగుకు అందుబాటులోకి వచ్చాయి.",
+    "en": "By the mid-1960s, new high yielding varieties of wheat developed in Mexico and rice developed in the Philippines became available for cultivation."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T25-0324",
+   "section": {
+    "te": "Tea Origin",
+    "en": "Tea Origin"
+   },
+   "q": {
+    "te": "తేయాకు క్రింది ఏ ప్రాంతంలోని కొండలలో పుట్టిన దేశీయ పంట (indigenous crop)?",
+    "en": "Tea is an indigenous crop belonging to the hills of which of the following regions?"
+   },
+   "options": {
+    "te": [
+     "దక్షిణ జపాన్",
+     "పశ్చిమ కనుమలు",
+     "బ్రహ్మపుత్ర లోయ",
+     "ఉత్తర చైనా"
+    ],
+    "en": [
+     "Southern Japan",
+     "Western Ghats",
+     "Brahmaputra valley",
+     "Northern China"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "తేయాకు అనేది ఉత్తర చైనా కొండ ప్రాంతాలకు చెందిన ఒక దేశీయ పంట.",
+    "en": "Tea is an indigenous crop of the hills in northern China."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T25-0231",
+   "section": {
+    "te": "Collective Farming Rights",
+    "en": "Collective Farming Rights"
+   },
+   "q": {
+    "te": "పూర్వపు సోవియట్ యూనియన్‌లోని సామూహిక వ్యవసాయ విధానంలో, రైతులు తమ వనరులన్నింటినీ ఏకం చేసిన తర్వాత వారికి కల్పించబడిన మినహాయింపు ఏమిటి?",
+    "en": "Under the collective farming system of the erstwhile Soviet Union, what exception was granted to farmers after pooling their resources?"
+   },
+   "options": {
+    "te": [
+     "ఉమ్మడి భూముల్లో శారీరక శ్రమ చేయడం నుండి వారికి మినహాయింపు లభించింది",
+     "తమ రోజువారీ అవసరాల కోసం పంటలు పండించుకోవడానికి చాలా చిన్న ప్లాట్లను ఉంచుకోవడానికి అనుమతించారు",
+     "ఉమ్మడి ఉత్పత్తులలో సగభాగం అంతర్జాతీయ మార్కెట్లలో అమ్ముకోవచ్చు",
+     "వారు భారీ వ్యవసాయ యంత్రాలు మరియు పశువులను ప్రైవేటుగా కలిగి ఉండవచ్చు"
+    ],
+    "en": [
+     "They were exempted from providing manual labour on communal lands",
+     "They were allowed to retain very small plots to grow crops for daily requirements",
+     "They could sell half of the collective produce in international markets",
+     "They could privately own large farm machinery and livestock"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సోవియట్ యూనియన్ సామూహిక వ్యవసాయంలో రైతులు భూమి, పశువులు, శ్రమను సమీకరించినప్పటికీ, తమ రోజువారీ కుటుంబ అవసరాల కోసం చిన్నపాటి ప్లాట్లను సొంతంగా ఉంచుకోవడానికి అనుమతి ఉండేది.",
+    "en": "Even though farmers pooled land, livestock, and labour, they were permitted to retain small personal plots to produce food for their own daily requirements."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T25-0033",
+   "section": {
+    "te": "Year-round rice cultivation",
+    "en": "Year-round rice cultivation"
+   },
+   "q": {
+    "te": "కింది రాష్ట్రాలను పరిశీలించండి:\n1. తమిళనాడు\n2. పశ్చిమ బెంగాల్\n3. ఆంధ్రప్రదేశ్\nరుతుపవనాలు మరియు నీటిపారుదల ద్వారా నీటి లభ్యత ఉన్నందున పై వాటిలో ఏ రాష్ట్రాలు ఏడాది పొడవునా వరిని పండిస్తాయి?",
+    "en": "Consider the following states:\n1. Tamil Nadu\n2. West Bengal\n3. Andhra Pradesh\nWhich of the above states grow rice throughout the year due to water availability from monsoons as well as irrigation?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "తమిళనాడు, పశ్చిమ బెంగాల్ మరియు ఆంధ్రప్రదేశ్ రాష్ట్రాలు రుతుపవనాలు మరియు సాగునీటి సౌకర్యం కారణంగా ఏడాది పొడవునా వరిని పండిస్తాయి.",
+    "en": "Tamil Nadu, West Bengal, and Andhra Pradesh all grow rice throughout the year due to abundant monsoon rains and irrigation."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T25-0219",
+   "section": {
+    "te": "Extensive commercial grain principal crop",
+    "en": "Extensive commercial grain principal crop"
+   },
+   "q": {
+    "te": "విస్తృత వాణిజ్య ధాన్యపు సాగులో పండించే ప్రధాన పంట ఏది?",
+    "en": "Which of the following is the principal crop grown in extensive commercial grain cultivation?"
+   },
+   "options": {
+    "te": [
+     "మొక్కజొన్న (Corn)",
+     "గోధుమ (Wheat)",
+     "రై (Rye)",
+     "బార్లీ (Barley)"
+    ],
+    "en": [
+     "Corn",
+     "Wheat",
+     "Rye",
+     "Barley"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "విస్తృత వాణిజ్య ధాన్యపు సాగులో గోధుమ ప్రధాన పంటగా పండించబడుతుందని మూల గ్రంథం పేర్కొంది.",
+    "en": "Wheat is the principal crop of extensive commercial grain cultivation."
+   }
+  }
+ ]
+}

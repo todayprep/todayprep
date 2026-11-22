@@ -1,0 +1,942 @@
+{
+ "id": "geo-29-g1-4",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Natural Resources and Conservation – క్విజ్ 4",
+  "en": "Natural Resources and Conservation – Quiz 4"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T29-0125",
+   "section": {
+    "te": "Gendathur rainwater status",
+    "en": "Gendathur rainwater status"
+   },
+   "q": {
+    "te": "గెండత్తూర్ గ్రామంలో దాదాపు ఎన్ని గృహాలు పైకప్పు వర్షపు నీటి సంరక్షణ వ్యవస్థను ఏర్పాటు చేసుకొని, వర్షపు నీటిలో సమృద్ధిగా ఉన్న అరుదైన గుర్తింపును పొందాయి?",
+    "en": "How many households in Gendathur village have installed rooftop rainwater harvesting systems, earning it the rare distinction of being rich in rainwater?"
+   },
+   "options": {
+    "te": [
+     "దాదాపు 200 గృహాలు",
+     "దాదాపు 100 గృహాలు",
+     "దాదాపు 1,000 గృహాలు",
+     "దాదాపు 500 గృహాలు"
+    ],
+    "en": [
+     "Nearly 200 households",
+     "Nearly 100 households",
+     "Nearly 1,000 households",
+     "Nearly 500 households"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "గెండత్తూర్ గ్రామంలో దాదాపు 200 గృహాలు పైకప్పు వర్షపు నీటి సంరక్షణ వ్యవస్థను ఏర్పాటు చేసుకుని, వర్షపు నీటి సంపన్న గ్రామంగా గుర్తింపు పొందాయి.",
+    "en": "Nearly 200 households in Gendathur installed rooftop rainwater harvesting systems, making the village rich in rainwater."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T29-0162",
+   "section": {
+    "te": "Ralegan Siddhi Location",
+    "en": "Ralegan Siddhi Location"
+   },
+   "q": {
+    "te": "వాటర్‌షెడ్ అభివృద్ధికి దేశవ్యాప్తంగా ఆదర్శంగా నిలిచిన రాలెగాన్ సిద్ధి, మహారాష్ట్రలోని ఏ జిల్లాలో ఉంది?",
+    "en": "Ralegan Siddhi, which has become a national model for watershed development, is located in which district of Maharashtra?"
+   },
+   "options": {
+    "te": [
+     "సోలాపూర్",
+     "సతారా",
+     "పుణె",
+     "అహ్మద్‌నగర్"
+    ],
+    "en": [
+     "Solapur",
+     "Satara",
+     "Pune",
+     "Ahmadnagar"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రాలెగాన్ సిద్ధి మహారాష్ట్రలోని అహ్మద్‌నగర్ జిల్లాలో ఉన్న ఒక చిన్న గ్రామం.",
+    "en": "Ralegan Siddhi is a small village located in the Ahmadnagar district of Maharashtra."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T29-0087",
+   "section": {
+    "te": "Atal Bhujal Yojana",
+    "en": "Atal Bhujal Yojana"
+   },
+   "q": {
+    "te": "భారతదేశంలో అటల్ భూజల్ యోజన (అటల్ జల్) ఎన్ని రాష్ట్రాలలో అమలు చేయబడుతోంది?",
+    "en": "Across how many states in India is the Atal Bhujal Yojana (Atal Jal) currently being implemented?"
+   },
+   "options": {
+    "te": [
+     "12 రాష్ట్రాలు",
+     "15 రాష్ట్రాలు",
+     "10 రాష్ట్రాలు",
+     "7 రాష్ట్రాలు"
+    ],
+    "en": [
+     "12 states",
+     "15 states",
+     "10 states",
+     "7 states"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అటల్ భూజల్ యోజన గుజరాత్, హర్యానా, కర్ణాటక, మధ్యప్రదేశ్, మహారాష్ట్ర, రాజస్థాన్ మరియు ఉత్తరప్రదేశ్ అనే ఏడు రాష్ట్రాలలో అమలు చేయబడుతోంది.",
+    "en": "Atal Bhujal Yojana is being implemented across seven states: Gujarat, Haryana, Karnataka, Madhya Pradesh, Maharashtra, Rajasthan, and Uttar Pradesh."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T29-0074",
+   "section": {
+    "te": "Land Utilisation Classification",
+    "en": "Land Utilisation Classification"
+   },
+   "q": {
+    "te": "భూ వినియోగ వర్గీకరణలో 'శాశ్వత పచ్చిక బయళ్ళు మరియు మేత భూములు' ఏ శీర్షిక క్రింద చేర్చబడ్డాయి?",
+    "en": "In the classification of land resources, 'Permanent pastures and grazing land' is categorized under which heading?"
+   },
+   "options": {
+    "te": [
+     "బీడు భూములు",
+     "సాగు చేయని ఇతర భూమి (బీడు భూములు మినహా)",
+     "సాగుకు అందుబాటులో లేని భూమి",
+     "బంజరు మరియు వ్యర్థ భూమి"
+    ],
+    "en": [
+     "Fallow land",
+     "Other uncultivated land (excluding fallow land)",
+     "Land not available for cultivation",
+     "Barren and waste land"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "శాశ్వత పచ్చిక బయళ్ళు మరియు మేత భూములను 'సాగు చేయని ఇతర భూమి (బీడు భూములు మినహా)' అనే విభాగంలో వర్గీకరించారు.",
+    "en": "Permanent pastures and grazing land is categorized under 'Other uncultivated land (excluding fallow land)'."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T29-0020",
+   "section": {
+    "te": "Regeneration vs Restoration",
+    "en": "Regeneration vs Restoration"
+   },
+   "q": {
+    "te": "ప్రకృతి సూత్రాలకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. పునరుద్ధరణ అంటే దేనినైనా దాని అసలు ఆరోగ్యకరమైన స్థితికి తీసుకురావడం.\n2. పునరుత్పత్తి అనేది పునరుద్ధరణ ప్రక్రియకు మాత్రమే పరిమితం.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding Nature's principles:\n1. Restoration involves returning something to its original healthy state.\n2. Regeneration is limited only to the process of restoration.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పునరుద్ధరణ అంటే దేనినైనా దాని ఆరోగ్యకరమైన స్థితికి తీసుకురావడం అని పాఠ్యం పేర్కొంది, అయితే పునరుత్పత్తి అనేది కొత్త జీవాన్ని సృష్టించడం కాబట్టి ఇది పునరుద్ధరణ కంటే విస్తృతమైనది.",
+    "en": "Restoration is returning something to its healthy state, but regeneration goes beyond restoration as it involves creating new life."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T29-0195",
+   "section": {
+    "te": "Drought Prone Area Programme",
+    "en": "Drought Prone Area Programme"
+   },
+   "q": {
+    "te": "నాలుగో పంచవర్ష ప్రణాళిక కాలంలో కరవు పీడిత ప్రాంతాల కార్యక్రమం (DPAP) క్రింది ఏ లక్ష్యాలతో ప్రారంభించబడింది?",
+    "en": "The Drought Prone Area Programme was initiated during the Fourth Five Year Plan with which of the following objectives?"
+   },
+   "options": {
+    "te": [
+     "కరవు పీడిత ప్రాంతాల ప్రజలకు ఉపాధి కల్పించడం",
+     "ఉత్పాదక ఆస్తులను సృష్టించడం",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Providing employment to the people in drought-prone areas",
+     "Creating productive assets",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నాలుగో పంచవర్ష ప్రణాళికలో కరవు పీడిత ప్రాంతాల ప్రజలకు ఉపాధి కల్పించడం మరియు ఉత్పాదక ఆస్తులను సృష్టించడం అనే లక్ష్యాలతో ఈ కార్యక్రమం ప్రారంభించబడింది.",
+    "en": "The programme was initiated during the Fourth Five Year Plan to provide employment to people in drought-prone areas and create productive assets."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T29-0088",
+   "section": {
+    "te": "Atal Jal States",
+    "en": "Atal Jal States"
+   },
+   "q": {
+    "te": "అటల్ భూజల్ యోజన అమలు చేయబడుతున్న ఏడు రాష్ట్రాల జాబితాలో లేని రాష్ట్రం ఏది?",
+    "en": "Which of the following states is NOT among the seven states where the Atal Bhujal Yojana is being implemented?"
+   },
+   "options": {
+    "te": [
+     "ఉత్తరప్రదేశ్",
+     "ఆంధ్రప్రదేశ్",
+     "మధ్యప్రదేశ్",
+     "గుజరాత్"
+    ],
+    "en": [
+     "Uttar Pradesh",
+     "Andhra Pradesh",
+     "Madhya Pradesh",
+     "Gujarat"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అటల్ జల్ పథకం గుజరాత్, హర్యానా, కర్ణాటక, మధ్యప్రదేశ్, మహారాష్ట్ర, రాజస్థాన్ మరియు ఉత్తరప్రదేశ్‌లలో అమలు చేయబడుతోంది; ఇందులో ఆంధ్రప్రదేశ్ లేదు.",
+    "en": "The seven states under Atal Jal are Gujarat, Haryana, Karnataka, Madhya Pradesh, Maharashtra, Rajasthan, and Uttar Pradesh. Andhra Pradesh is not one of them."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T29-0042",
+   "section": {
+    "te": "Mendha Lekha forest area",
+    "en": "Mendha Lekha forest area"
+   },
+   "q": {
+    "te": "మెంధా లేఖా ప్రజలు ఎన్ని హెక్టార్ల అడవిని రక్షిస్తున్నారు మరియు స్థిరంగా ఉపయోగిస్తున్నారు?",
+    "en": "How many hectares of forest do the people of Mendha Lekha protect and sustainably utilise?"
+   },
+   "options": {
+    "te": [
+     "1,500 హెక్టార్లు",
+     "2,000 హెక్టార్లు",
+     "1,800 హెక్టార్లు",
+     "1,200 హెక్టార్లు"
+    ],
+    "en": [
+     "1,500 hectares",
+     "2,000 hectares",
+     "1,800 hectares",
+     "1,200 hectares"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మెంధా లేఖాలోని గోండ్ తెగ 1,800 హెక్టార్ల అడవిని రక్షిస్తుంది మరియు స్థిరంగా నిర్వహిస్తుంది.",
+    "en": "The Gond tribe of Mendha Lekha protects and sustainably manages 1,800 hectares of forest."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T29-0205",
+   "section": {
+    "te": "Hill Area Development Plan",
+    "en": "Hill Area Development Plan"
+   },
+   "q": {
+    "te": "కొండ ప్రాంతాల అభివృద్ధి కార్యక్రమాలు (Hill Area Development Programmes) ఏ పంచవర్ష ప్రణాళిక కాలంలో ప్రారంభించబడ్డాయి?",
+    "en": "During which Five Year Plan were the Hill Area Development Programmes initiated?"
+   },
+   "options": {
+    "te": [
+     "మూడవ పంచవర్ష ప్రణాళిక",
+     "ఐదవ పంచవర్ష ప్రణాళిక",
+     "ఆరవ పంచవర్ష ప్రణాళిక",
+     "ఏడవ పంచవర్ష ప్రణాళిక"
+    ],
+    "en": [
+     "Third Five Year Plan",
+     "Fifth Five Year Plan",
+     "Sixth Five Year Plan",
+     "Seventh Five Year Plan"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వివిధ రాష్ట్రాల్లోని 15 కొండ ప్రాంత జిల్లాలను కలుపుతూ ఐదవ పంచవర్ష ప్రణాళిక కాలంలో కొండ ప్రాంతాల అభివృద్ధి కార్యక్రమాలు ప్రారంభించబడ్డాయి.",
+    "en": "The Hill Area Development Programmes were initiated during the Fifth Five Year Plan covering 15 hilly districts across various states."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T29-0153",
+   "section": {
+    "te": "Water Reuse",
+    "en": "Water Reuse"
+   },
+   "q": {
+    "te": "ఖర్చులను తగ్గించడానికి పరిశ్రమలలో తక్కువ నాణ్యత కలిగిన రీక్లెయిమ్డ్ మురుగునీటిని (reclaimed wastewater) ఈ క్రింది ఏ అవసరాలకు ఉపయోగించవచ్చు?",
+    "en": "For which of the following industrial purposes can reclaimed wastewater of lesser quality be used to reduce costs?"
+   },
+   "options": {
+    "te": [
+     "శీతలీకరణ (Cooling)",
+     "అగ్నిమాపక చర్యలు (Fire fighting)",
+     "A మరియు B రెండూ",
+     "సిబ్బందికి త్రాగునీరు"
+    ],
+    "en": [
+     "Cooling",
+     "Fire fighting",
+     "Both A and B",
+     "Drinking water for staff"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రీక్లెయిమ్డ్ మురుగునీటిని పరిశ్రమలలో శీతలీకరణ మరియు అగ్నిమాపక చర్యల కోసం ఉపయోగించవచ్చని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Cooling and fire fighting as two industrial uses for reclaimed wastewater."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T29-0207",
+   "section": {
+    "te": "Hill Area Programme Coverage",
+    "en": "Hill Area Programme Coverage"
+   },
+   "q": {
+    "te": "ఐదవ పంచవర్ష ప్రణాళిక కాలంలో ప్రారంభించిన కొండ ప్రాంతాల అభివృద్ధి కార్యక్రమాల పరిధిలోకి క్రింది వాటిలో ఏ ప్రాంతాలు/జిల్లాలు వచ్చాయి?",
+    "en": "Which of the following hill regions/districts were covered under the Hill Area Development Programmes initiated during the Fifth Five Year Plan?"
+   },
+   "options": {
+    "te": [
+     "అస్సాంలోని మికిర్ హిల్ మరియు ఉత్తర కాచర్ హిల్స్",
+     "పశ్చిమ బెంగాల్‌లోని డార్జిలింగ్ జిల్లా",
+     "తమిళనాడులోని నీలగిరి జిల్లా",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Mikir Hill and North Cachar hills of Assam",
+     "Darjeeling district of West Bengal",
+     "Nilgiri district of Tamil Nadu",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఈ కార్యక్రమం యుపి కొండ జిల్లాలు, అస్సాంలోని మికిర్ మరియు ఉత్తర కాచర్ హిల్స్, పశ్చిమ బెంగాల్‌లోని డార్జిలింగ్, తమిళనాడులోని నీలగిరితో కలిపి మొత్తం 15 జిల్లాలను చేర్చింది.",
+    "en": "The programme covered 15 districts including the hilly districts of UP, Mikir Hill and North Cachar hills of Assam, Darjeeling of West Bengal, and Nilgiri of Tamil Nadu."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T29-0047",
+   "section": {
+    "te": "Bunding and Terracing",
+    "en": "Bunding and Terracing"
+   },
+   "q": {
+    "te": "కింది ప్రకటనలను పరిశీలించండి:\n1. బండింగ్ అనేది నేలలోని తేమను తగ్గించడానికి నిర్మించిన మట్టి కట్టలను కలిగి ఉంటుంది.\n2. టెర్రేసింగ్ అనేది నేల కోతను నిరోధించడానికి కొండవాలులపై మెట్ల వంటి నిర్మాణాలను సృష్టిస్తుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements:\n1. Bunding involves earthen embankments to reduce soil moisture.\n2. Terracing creates level steps on hillsides to prevent erosion.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రకటన 1 తప్పు ఎందుకంటే బండింగ్ నేల తేమను పెంచడానికి రూపొందించబడింది, తగ్గించడానికి కాదు. టెర్రేసింగ్ నిర్వచనం ప్రకారం ప్రకటన 2 సరైనది.",
+    "en": "Statement 1 is incorrect because bunding is designed to increase soil moisture, not reduce it. Statement 2 is correct as per the definition of terracing."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T29-0123",
+   "section": {
+    "te": "Decline of rainwater harvesting in Rajasthan",
+    "en": "Decline of rainwater harvesting in Rajasthan"
+   },
+   "q": {
+    "te": "పశ్చిమ రాజస్థాన్‌లో ప్రస్తుతం పైకప్పు వర్షపు నీటి సంరక్షణ పద్ధతి క్రమంగా తగ్గడానికి ప్రధాన కారణం ఏమిటి?",
+    "en": "Why is the practice of rooftop rainwater harvesting currently on the decline in western Rajasthan?"
+   },
+   "options": {
+    "te": [
+     "వార్షిక వర్షపాతం గణనీయంగా పెరగడం వల్ల",
+     "వ్యక్తిగత టంకాలను నిషేధిస్తూ కఠినమైన ప్రభుత్వ నిబంధనలు రావడం వల్ల",
+     "జీవ నది కాలువ అయిన ఇందిరా గాంధీ కెనాల్ ద్వారా సమృద్ధిగా నీరు లభించడం వల్ల",
+     "పారిశ్రామిక కాలుష్యం కారణంగా పైకప్పు నీరు కలుషితం కావడం వల్ల"
+    ],
+    "en": [
+     "Due to significant increase in annual rainfall",
+     "Due to strict government regulations prohibiting private tankas",
+     "Due to availability of plenty of water from the perennial Indira Gandhi Canal",
+     "Due to contamination of rooftop runoff by industrial pollution"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "జీవ నది అయిన ఇందిరా గాంధీ కాలువ ద్వారా పుష్కలంగా నీరు లభ్యమవుతుండటంతో పశ్చిమ రాజస్థాన్‌లో సాంప్రదాయ పైకప్పు వర్షపు నీటి నిల్వ పద్ధతి తగ్గుముఖం పట్టింది.",
+    "en": "The practice of rooftop rainwater harvesting in western Rajasthan is declining because abundant water is now accessible through the perennial Indira Gandhi Canal."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T29-0039",
+   "section": {
+    "te": "Continuous Contour Trench",
+    "en": "Continuous Contour Trench"
+   },
+   "q": {
+    "te": "కంటిన్యూయస్ కాంటౌర్ ట్రెంచ్ (CCT) యొక్క ప్రాథమిక విధి ఏమిటి?",
+    "en": "What is the primary function of a Continuous Contour Trench (CCT)?"
+   },
+   "options": {
+    "te": [
+     "వెదురు కోయడానికి",
+     "వర్షపు నీటి వేగాన్ని తగ్గించి, భూమిలోకి ఇంకేలా చేయడానికి",
+     "అవక్షేపాలు పేరుకుపోకుండా నిరోధించడానికి",
+     "నీటి వేగాన్ని పెంచడానికి"
+    ],
+    "en": [
+     "To harvest bamboo",
+     "To slow down and infiltrate rainwater",
+     "To prevent sediment deposition",
+     "To increase water velocity"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వర్షపు నీటి వేగాన్ని తగ్గించడానికి కాంటౌర్ లైన్ల వెంట CCTలు తవ్వబడతాయి, తద్వారా నీరు భూమిలోకి ఇంకేలా చేస్తుంది, ఇది నేల కోతను నిరోధిస్తుంది మరియు భూగర్భ జలాలను పునరుద్ధరిస్తుంది.",
+    "en": "CCTs are dug along contour lines to slow down rainwater, allowing it to infiltrate the ground, which prevents erosion and recharges groundwater."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T29-0046",
+   "section": {
+    "te": "Sanskrit texts water management",
+    "en": "Sanskrit texts water management"
+   },
+   "q": {
+    "te": "నీటి నిర్వహణ పద్ధతులను డాక్యుమెంట్ చేసినట్లుగా కింది ఏ సంస్కృత గ్రంథం పేర్కొనబడలేదు?",
+    "en": "Which of the following Sanskrit texts is NOT mentioned as documenting water management practices?"
+   },
+   "options": {
+    "te": [
+     "కృషిపరాశర",
+     "వేదాలు",
+     "రామాయణం",
+     "వృక్షాయుర్వేదం"
+    ],
+    "en": [
+     "Kṛiṣhiparāśhara",
+     "Vedas",
+     "Ramayana",
+     "Vṛikṣhāyurveda"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్య భాగం వేదాలు, కృషిపరాశర, అర్థశాస్త్రం మరియు వృక్షాయుర్వేదాలను నీటి నిర్వహణను డాక్యుమెంట్ చేసే మూలాలుగా జాబితా చేసింది, కానీ రామాయణాన్ని పేర్కొనలేదు.",
+    "en": "The text lists the Vedas, Kṛiṣhiparāśhara, Arthaśhāstra, and Vṛikṣhāyurveda as sources documenting water management, but does not mention the Ramayana."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T29-0115",
+   "section": {
+    "te": "Underground drinking water tanks",
+    "en": "Underground drinking water tanks"
+   },
+   "q": {
+    "te": "సాంప్రదాయకంగా రాజస్థాన్‌లోని క్రింది ఏ ప్రాంతాలలో తాగునీటిని నిల్వ చేసుకోవడానికి ఇళ్లలో భూగర్భ ట్యాంకులు లేదా 'టంకాలు' నిర్మించేవారు?",
+    "en": "Traditionally, underground tanks or 'tankas' for storing drinking water were commonly built in households of which of the following regions of Rajasthan?"
+   },
+   "options": {
+    "te": [
+     "బికనీర్",
+     "ఫలోది మరియు బార్మర్",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Bikaner",
+     "Phalodi and Barmer",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రాజస్థాన్‌లోని శుష్క, పాక్షిక శుష్క ప్రాంతాలైన బికనీర్, ఫలోది మరియు బార్మర్‌లలో తాగునీటి నిల్వ కోసం ఇళ్లలో సాంప్రదాయకంగా భూగర్భ టంకాలు నిర్మించేవారు.",
+    "en": "Underground tanks or tankas were traditionally constructed in almost all houses in the semi-arid and arid regions of Rajasthan, particularly in Bikaner, Phalodi, and Barmer."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T29-0009",
+   "section": {
+    "te": "Life-essential resources",
+    "en": "Life-essential resources"
+   },
+   "q": {
+    "te": "జీవనానికి అవసరమైన కింది వనరులలో మానవులు తయారు చేయలేనివిగా వేటిని పేర్కొన్నారు?",
+    "en": "Which of the following resources essential for life are mentioned as things humans CANNOT make?"
+   },
+   "options": {
+    "te": [
+     "గాలి మరియు నీరు",
+     "నేల (Soil)",
+     "A మరియు B రెండూ",
+     "ఫర్నిచర్ మరియు విగ్రహాలు"
+    ],
+    "en": [
+     "Air and Water",
+     "Soil",
+     "Both A and B",
+     "Furniture and Statuettes"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మనం పీల్చే గాలిని, తాగే నీటిని లేదా నేలను మానవులు తయారు చేయలేరని పాఠ్యభాగం స్పష్టంగా పేర్కొంది.",
+    "en": "Humans cannot make the air we breathe, the water we drink, or the soil."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T29-0243",
+   "section": {
+    "te": "Jhabua Treated Area",
+    "en": "Jhabua Treated Area"
+   },
+   "q": {
+    "te": "గ్రామీణాభివృద్ధి మంత్రిత్వ శాఖ నిధులతో ఐదేళ్ల కాలంలో ఝాబువా జిల్లా మొత్తం విస్తీర్ణంలో ఎంత శాతం విస్తీర్ణం అభివృద్ధి చేయబడింది (ట్రీట్ చేయబడింది)?",
+    "en": "What percentage of the total area in Jhabua district was treated over a five-year period by programmes funded by the Ministry of Rural Development?"
+   },
+   "options": {
+    "te": [
+     "15 శాతం",
+     "20 శాతం",
+     "10 శాతం",
+     "25 శాతం"
+    ],
+    "en": [
+     "15 per cent",
+     "20 per cent",
+     "10 per cent",
+     "25 per cent"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "గ్రామీణాభివృద్ధి మంత్రిత్వ శాఖ సమకూర్చిన నిధులతో రాజీవ్ గాంధీ మిషన్ ద్వారా ఝాబువా జిల్లా మొత్తం విస్తీర్ణంలో 20 శాతం భూమి అభివృద్ధి చేయబడింది.",
+    "en": "Programmes funded by the Ministry of Rural Development treated 20 per cent of the total area under Jhabua district."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T29-0220",
+   "section": {
+    "te": "Indira Gandhi Canal Launch",
+    "en": "Indira Gandhi Canal Launch"
+   },
+   "q": {
+    "te": "ఇందిరా గాంధీ కెనాల్ ప్రాజెక్ట్ అధికారికంగా ఏ తేదీన ప్రారంభించబడింది?",
+    "en": "On which date was the Indira Gandhi Canal project officially launched?"
+   },
+   "options": {
+    "te": [
+     "02 అక్టోబర్ 1960",
+     "26 జనవరి 1950",
+     "15 ఆగస్టు 1947",
+     "31 మార్చి 1958"
+    ],
+    "en": [
+     "02 October 1960",
+     "26 January 1950",
+     "15 August 1947",
+     "31 March 1958"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఇందిరా గాంధీ కెనాల్ ప్రాజెక్ట్ 31 మార్చి 1958న ప్రారంభించబడింది.",
+    "en": "The Indira Gandhi Canal project was launched on 31 March 1958."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T29-0019",
+   "section": {
+    "te": "Restoration definition",
+    "en": "Restoration definition"
+   },
+   "q": {
+    "te": "క్షీణించిన లేదా దెబ్బతిన్న దానిని దాని అసలు ఆరోగ్యకరమైన స్థితికి తిరిగి తీసుకువచ్చే ప్రక్రియను ఏమంటారు?",
+    "en": "What is the process of returning something to its original healthy state if it has been degraded or damaged called?"
+   },
+   "options": {
+    "te": [
+     "పునరుత్పత్తి (Regeneration)",
+     "సంరక్షణ (Conservation)",
+     "పునరుద్ధరణ (Restoration)",
+     "సుస్థిరత (Sustainability)"
+    ],
+    "en": [
+     "Regeneration",
+     "Conservation",
+     "Restoration",
+     "Sustainability"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, క్షీణత తర్వాత దేనినైనా దాని అసలు ఆరోగ్యకరమైన స్థితికి తీసుకువచ్చే ప్రక్రియను పునరుద్ధరణ అంటారు.",
+    "en": "Restoration is defined as the process of returning something to its original healthy state after degradation."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T29-0245",
+   "section": {
+    "te": "CPR Conflict Resolution",
+    "en": "CPR Conflict Resolution"
+   },
+   "q": {
+    "te": "పెట్లవాడ్ బ్లాక్‌లో, పొరుగు గ్రామానికి చెందిన ఒక వ్యక్తి ఉమ్మడి ఆస్తులను (CPR) ఆక్రమించినప్పుడు గ్రామస్తులు ఆ వివాదాన్ని ఎలా పరిష్కరించారు?",
+    "en": "In Petlawad block, how did the villagers resolve the conflict when a resident from an adjoining village encroached on Common Property Resources (CPR)?"
+   },
+   "options": {
+    "te": [
+     "ఆక్రమణదారుపై భారీ ఆర్థిక జరిమానా విధించడం ద్వారా",
+     "ఆక్రమణదారుని తమ వినియోగదారుల బృందంలో సభ్యునిగా చేర్చుకుని ప్రయోజనాలను పంచుకోవడం ద్వారా",
+     "పోలీసుల జోక్యంతో ఆక్రమణదారుని శాశ్వతంగా బహిష్కరించడం ద్వారా",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "By imposing a heavy financial penalty on the encroacher",
+     "By making the encroacher a member of their user group and sharing benefits",
+     "By permanently evicting the encroacher through police intervention",
+     "None of these"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఆక్రమణదారుడిని తమ వినియోగదారుల సంఘంలో సభ్యుడిగా చేర్చుకుని, పచ్చిక బయళ్ల వల్ల వచ్చే ప్రయోజనాలలో భాగం కల్పించడం ద్వారా గ్రామస్తులు వివాదాన్ని పరిష్కరించారు.",
+    "en": "The villagers resolved the conflict peacefully by offering to make the encroacher a member of their user group and sharing the benefits of pasture development."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T29-0059",
+   "section": {
+    "te": "Brundtland Commission Report",
+    "en": "Brundtland Commission Report"
+   },
+   "q": {
+    "te": "'సుస్థిర అభివృద్ధి' (Sustainable Development) భావనను ప్రవేశపెట్టిన 1987 నాటి బ్రండ్ట్‌ల్యాండ్ కమిషన్ నివేదిక ఆ తర్వాత ఏ పేరుతో పుస్తకంగా ప్రచురించబడింది?",
+    "en": "The 1987 Brundtland Commission Report introducing the concept of 'Sustainable Development' was subsequently published in a book entitled:"
+   },
+   "options": {
+    "te": [
+     "స్మాల్ ఈజ్ బ్యూటిఫుల్ (Small is Beautiful)",
+     "సైలెంట్ స్ప్రింగ్ (Silent Spring)",
+     "అవర్ కామన్ ఫ్యూచర్ (Our Common Future)",
+     "లిమిట్స్ టు గ్రోత్ (Limits to Growth)"
+    ],
+    "en": [
+     "Small is Beautiful",
+     "Silent Spring",
+     "Our Common Future",
+     "Limits to Growth"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "బ్రండ్ట్‌ల్యాండ్ కమిషన్ నివేదిక సుస్థిర అభివృద్ధి భావనను అందించింది, అది తర్వాత 'అవర్ కామన్ ఫ్యూచర్' అనే పుస్తకంగా ప్రచురితమైంది.",
+    "en": "The Brundtland Commission Report (1987) introduced the concept of 'Sustainable Development' and was published in the book 'Our Common Future'."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T29-0052",
+   "section": {
+    "te": "Mendha Lekha revenue use",
+    "en": "Mendha Lekha revenue use"
+   },
+   "q": {
+    "te": "మెంధా లేఖా నమూనాలో అటవీ ఉత్పత్తుల నుండి వచ్చే ఆదాయాన్ని ఎలా ఉపయోగిస్తారు?",
+    "en": "How is the revenue from forest produce used in the Mendha Lekha model?"
+   },
+   "options": {
+    "te": [
+     "గోండ్ తెగ వ్యక్తిగత లాభం కోసం",
+     "మరిన్ని మట్టి నిర్మాణాలను నిర్మించడం కోసం",
+     "విద్య మరియు మౌలిక సదుపాయాల వంటి సామాజిక సంక్షేమ కార్యకలాపాల కోసం",
+     "రసాయన ఎరువుల కొనుగోలు కోసం"
+    ],
+    "en": [
+     "For individual profit of the Gond tribe",
+     "For building more mud structures",
+     "For community welfare activities like education and infrastructure",
+     "For purchasing chemical fertilisers"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మెంధా లేఖాలో, అటవీ వనరుల ద్వారా వచ్చే ఆదాయాన్ని విద్య మరియు మౌలిక సదుపాయాల కోసం సమాజంలో తిరిగి పెట్టుబడిగా పెడతారు.",
+    "en": "In Mendha Lekha, the money earned from forest resources is reinvested into the community for education and infrastructure."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T29-0213",
+   "section": {
+    "te": "Bharmaur Tribal Area Notification",
+    "en": "Bharmaur Tribal Area Notification"
+   },
+   "q": {
+    "te": "భర్మార్ ప్రాంతం ఏ తేదీ నుండి నోటిఫైడ్ గిరిజన ప్రాంతంగా గుర్తించబడింది?",
+    "en": "On which date was Bharmaur designated as a notified tribal area?"
+   },
+   "options": {
+    "te": [
+     "26 జనవరి 1980",
+     "21 నవంబర్ 1975",
+     "2 అక్టోబర్ 1985",
+     "15 ఆగస్టు 1972"
+    ],
+    "en": [
+     "26 January 1980",
+     "21 November 1975",
+     "2 October 1985",
+     "15 August 1972"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భర్మార్ 21 నవంబర్ 1975 నుండి నోటిఫైడ్ గిరిజన ప్రాంతంగా ఉంది.",
+    "en": "Bharmaur has been a notified tribal area since 21 November 1975."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T29-0024",
+   "section": {
+    "te": "Role of Tuna in ecosystem",
+    "en": "Role of Tuna in ecosystem"
+   },
+   "q": {
+    "te": "సముద్ర పర్యావరణ వ్యవస్థను సమతుల్యంగా ఉంచడంలో ట్యూనా చేప ఎలా సహాయపడుతుంది?",
+    "en": "How does the tuna fish help in keeping the ocean ecosystem in balance?"
+   },
+   "options": {
+    "te": [
+     "సముద్రపు అడుగుభాగంలోని వ్యర్థాలను శుభ్రం చేయడం ద్వారా",
+     "ఏటా వివిధ మహాసముద్రాలకు వలస వెళ్లడం ద్వారా",
+     "ఇతర సముద్ర జీవుల కోసం ఆక్సిజన్‌ను ఉత్పత్తి చేయడం ద్వారా",
+     "చిన్న చేపలు మరియు రొయ్యలను తినడం ద్వారా"
+    ],
+    "en": [
+     "By cleaning the ocean floor of waste",
+     "By migrating to different oceans annually",
+     "By producing oxygen for other marine life",
+     "By consuming smaller fish and shrimps"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ట్యూనా చిన్న చేపలు మరియు రొయ్యలను తినడం ద్వారా సముద్ర పర్యావరణ వ్యవస్థను సమతుల్యంగా ఉంచుతుందని పాఠ్యం పేర్కొంది.",
+    "en": "Tuna keeps the ocean ecosystem in balance by consuming smaller fish and shrimps."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T29-0240",
+   "section": {
+    "te": "Jhabua Agro-Climatic Zone",
+    "en": "Jhabua Agro-Climatic Zone"
+   },
+   "q": {
+    "te": "వాటర్‌షెడ్ నిర్వహణ కార్యక్రమానికి ప్రసిద్ధి చెందిన ఝాబువా జిల్లా, మధ్యప్రదేశ్‌లోని ఏ వ్యవసాయ-వాతావరణ మండలంలో ఉంది?",
+    "en": "Jhabua district, noted for its watershed management programme, is situated in which agro-climatic zone of Madhya Pradesh?"
+   },
+   "options": {
+    "te": [
+     "పశ్చిమాగ్ర వ్యవసాయ-వాతావరణ మండలం",
+     "ఉత్తరాగ్ర వ్యవసాయ-వాతావరణ మండలం",
+     "దక్షిణ వ్యవసాయ-వాతావరణ మండలం",
+     "తూర్పు వ్యవసాయ-వాతావరణ మండలం"
+    ],
+    "en": [
+     "Westernmost agro-climatic zone",
+     "Northernmost agro-climatic zone",
+     "Southernmost agro-climatic zone",
+     "Easternmost agro-climatic zone"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, ఝాబువా జిల్లా మధ్యప్రదేశ్‌లోని పశ్చిమాగ్ర వ్యవసాయ-వాతావరణ మండలంలో ఉంది.",
+    "en": "Jhabua district is located in the westernmost agro-climatic zone in Madhya Pradesh."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T29-0236",
+   "section": {
+    "te": "Wasteland Classification Agency",
+    "en": "Wasteland Classification Agency"
+   },
+   "q": {
+    "te": "రిమోట్ సెన్సింగ్ పద్ధతులను ఉపయోగించి భారతదేశంలో బంజరు భూములను (wastelands) వర్గీకరించిన సంస్థ ఏది?",
+    "en": "Which organisation has classified wastelands in India using remote sensing techniques?"
+   },
+   "options": {
+    "te": [
+     "జియోలాజికల్ సర్వే ఆఫ్ ఇండియా (GSI)",
+     "సెంట్రల్ ఆరిడ్ జోన్ రీసెర్చ్ ఇన్స్టిట్యూట్ (CAZRI)",
+     "సర్వే ఆఫ్ ఇండియా (SoI)",
+     "నేషనల్ రిమోట్ సెన్సింగ్ సెంటర్ (NRSC)"
+    ],
+    "en": [
+     "Geological Survey of India (GSI)",
+     "Central Arid Zone Research Institute (CAZRI)",
+     "Survey of India (SoI)",
+     "National Remote Sensing Centre (NRSC)"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, నేషనల్ రిమోట్ సెన్సింగ్ సెంటర్ (NRSC) రిమోట్ సెన్సింగ్ పద్ధతులను ఉపయోగించి బంజరు భూములను వర్గీకరించింది.",
+    "en": "The National Remote Sensing Centre (NRSC) classified wastelands using remote sensing techniques."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T29-0075",
+   "section": {
+    "te": "Culturable waste land",
+    "en": "Culturable waste land"
+   },
+   "q": {
+    "te": "భూ వినియోగ వర్గీకరణ ప్రకారం, 'సాగు చేయదగిన బీడు భూమి' (Culturable waste land) అంటే ఎన్ని సంవత్సరాలకు పైగా సాగు చేయకుండా వదిలేసిన భూమి?",
+    "en": "In the classification of land utilisation, 'Culturable waste land' refers to land left uncultivated for:"
+   },
+   "options": {
+    "te": [
+     "ఒక వ్యవసాయ సంవత్సరం కంటే తక్కువ",
+     "ఖచ్చితంగా 10 వ్యవసాయ సంవత్సరాలు",
+     "5 వ్యవసాయ సంవత్సరాల కంటే ఎక్కువ",
+     "1 నుండి 5 వ్యవసాయ సంవత్సరాలు"
+    ],
+    "en": [
+     "Less than one agricultural year",
+     "Exactly 10 agricultural years",
+     "More than 5 agricultural years",
+     "1 to 5 agricultural years"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూ వినియోగ వర్గీకరణ ప్రకారం, 5 వ్యవసాయ సంవత్సరాల కంటే ఎక్కువ కాలం సాగు చేయకుండా వదిలివేసిన భూమిని సాగు చేయదగిన బీడు భూమి అంటారు.",
+    "en": "According to the land utilisation classification, culturable waste land is land left uncultivated for more than 5 agricultural years."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T29-0008",
+   "section": {
+    "te": "Resource categorization",
+    "en": "Resource categorization"
+   },
+   "q": {
+    "te": "'ఉపయోగాల' ప్రమాణం ఆధారంగా, సహజ వనరులను ఎలా వర్గీకరించవచ్చు?",
+    "en": "Based on the criteria of 'uses', natural resources can be categorised as:"
+   },
+   "options": {
+    "te": [
+     "జీవనానికి అవసరమైనవి (Essential for life)",
+     "ముడి పదార్థాల వనరులు (Source for materials)",
+     "శక్తి వనరులు (Sources for energy)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Essential for life",
+     "Source for materials",
+     "Sources for energy",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఉపయోగం ఆధారంగా వనరులను మూడు రకాలుగా పాఠ్యభాగం వర్గీకరించింది: జీవనానికి అవసరమైనవి, ముడి పదార్థాల వనరులు మరియు శక్తి వనరులు.",
+    "en": "The text categorizes resources based on use into three types: essential for life, source for materials, and sources for energy."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T29-0242",
+   "section": {
+    "te": "Watershed Funding Ministries",
+    "en": "Watershed Funding Ministries"
+   },
+   "q": {
+    "te": "ఝాబువా జిల్లాలో వాటర్‌షెడ్ నిర్వహణ కార్యక్రమాలకు భారత ప్రభుత్వానికి చెందిన ఏ రెండు మంత్రిత్వ శాఖలు నిధులు సమకూర్చాయి?",
+    "en": "The watershed management programmes in Jhabua district were funded by which two Ministries of the Government of India?"
+   },
+   "options": {
+    "te": [
+     "పర్యావరణ, అటవీ, వాతావరణ మార్పుల మంత్రిత్వ శాఖ మరియు జలవనరుల మంత్రిత్వ శాఖ",
+     "జల్ శక్తి మంత్రిత్వ శాఖ మరియు గిరిజన వ్యవహారాల మంత్రిత్వ శాఖ",
+     "సైన్స్ అండ్ టెక్నాలజీ మంత్రిత్వ శాఖ మరియు పంచాయతీరాజ్ మంత్రిత్వ శాఖ",
+     "గ్రామీణాభివృద్ధి మంత్రిత్వ శాఖ మరియు వ్యవసాయ మంత్రిత్వ శాఖ"
+    ],
+    "en": [
+     "Ministry of Environment, Forest and Climate Change and Ministry of Water Resources",
+     "Ministry of Jal Shakti and Ministry of Tribal Affairs",
+     "Ministry of Science and Technology and Ministry of Panchayati Raj",
+     "Ministry of Rural Development and Ministry of Agriculture"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఈ వాటర్‌షెడ్ కార్యక్రమాలకు భారత ప్రభుత్వ గ్రామీణాభివృద్ధి మంత్రిత్వ శాఖ మరియు వ్యవసాయ మంత్రిత్వ శాఖలు నిధులు సమకూర్చాయి.",
+    "en": "The programmes were funded by both the Ministry of Rural Development and the Ministry of Agriculture, Government of India."
+   }
+  }
+ ]
+}

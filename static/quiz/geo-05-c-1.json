@@ -1,0 +1,942 @@
+{
+ "id": "geo-05-c-1",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Earthquakes – క్విజ్ 1",
+  "en": "Earthquakes – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T05-0066",
+   "section": {
+    "te": "Mid-Ocean Ridge Length",
+    "en": "Mid-Ocean Ridge Length"
+   },
+   "q": {
+    "te": "అన్ని మహాసముద్ర బేసిన్ల గుండా విస్తరించి ఉన్న మధ్య-మహాసముద్ర కటకాల (Mid-ocean ridges) వ్యవస్థ పొడవు ఎంత?",
+    "en": "What is the length of the system of mid-ocean ridges that stretches through all the ocean basins?"
+   },
+   "options": {
+    "te": [
+     "50,000 కి.మీ కంటే ఎక్కువ",
+     "40,000 కి.మీ కంటే ఎక్కువ",
+     "70,000 కి.మీ కంటే ఎక్కువ",
+     "90,000 కి.మీ కంటే ఎక్కువ"
+    ],
+    "en": [
+     "More than 50,000 km",
+     "More than 40,000 km",
+     "More than 70,000 km",
+     "More than 90,000 km"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అన్ని సముద్ర బేసిన్ల గుండా 70,000 కి.మీ కంటే ఎక్కువ పొడవైన మధ్య-మహాసముద్ర కటకాల వ్యవస్థ విస్తరించి ఉంది.",
+    "en": "The mid-ocean ridge system stretches for more than 70,000 km through all ocean basins."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T05-0071",
+   "section": {
+    "te": "Pacific Rim of Fire",
+    "en": "Pacific Rim of Fire"
+   },
+   "q": {
+    "te": "పసిఫిక్ మహాసముద్ర తీర ప్రాంతాన్ని 'అగ్ని వలయం' (రిమ్ ఆఫ్ ఫైర్) అని ఎందుకు పిలుస్తారు?",
+    "en": "Why is the rim of the Pacific Ocean also referred to as the 'rim of fire'?"
+   },
+   "options": {
+    "te": [
+     "తీరం వెంట సంభవించే తీవ్రమైన కార్చిచ్చుల కారణంగా",
+     "ఈ ప్రాంతంలో క్రియాశీల అగ్నిపర్వతాలు ఉన్నందున",
+     "ఉపరితల నీటి ఉష్ణోగ్రత ఎక్కువగా ఉన్నందున",
+     "తరచుగా ఉల్కలు పడటం వలన"
+    ],
+    "en": [
+     "Due to intense forest fires along the coast",
+     "Due to the existence of active volcanoes in this area",
+     "Due to high surface water temperatures",
+     "Due to frequent meteorite impacts"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఈ ప్రాంతంలో క్రియాశీల అగ్నిపర్వతాలు ఉన్నందున పసిఫిక్ తీర ప్రాంతాన్ని 'రిమ్ ఆఫ్ ఫైర్' అని పిలుస్తారని పాఠ్యాంశం పేర్కొంది.",
+    "en": "The rim of the Pacific is called the rim of fire due to the presence of active volcanoes in this region."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T05-0068",
+   "section": {
+    "te": "Composite Volcanoes Features",
+    "en": "Composite Volcanoes Features"
+   },
+   "q": {
+    "te": "బసాల్ట్ కంటే చల్లని మరియు ఎక్కువ చిక్కదనం (viscous) కలిగిన లావా విస్ఫోటనాల వల్ల ఏర్పడే ఏ రకమైన అగ్నిపర్వతాలు తరచుగా విస్ఫోటక విస్ఫోటనాలకు దారితీస్తాయి?",
+    "en": "Which type of volcanoes are characterised by eruptions of cooler and more viscous lavas than basalt, often resulting in explosive eruptions?"
+   },
+   "options": {
+    "te": [
+     "మిశ్రమ అగ్నిపర్వతాలు (Composite volcanoes)",
+     "కాల్డెరాలు",
+     "ఫ్లడ్ బసాల్ట్ ప్రావిన్సులు",
+     "షీల్డ్ అగ్నిపర్వతాలు"
+    ],
+    "en": [
+     "Composite volcanoes",
+     "Calderas",
+     "Flood basalt provinces",
+     "Shield volcanoes"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మిశ్రమ అగ్నిపర్వతాలు (Composite volcanoes) బసాల్ట్ కంటే చల్లని, అధిక చిక్కదనం కలిగిన లావా విస్ఫోటనాల వల్ల ఏర్పడతాయి.",
+    "en": "Composite volcanoes are characterised by eruptions of cooler and more viscous lavas than basalt."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T05-0029",
+   "section": {
+    "te": "Landslide Control Factors",
+    "en": "Landslide Control Factors"
+   },
+   "q": {
+    "te": "స్థూల కారకాలచే నియంత్రించబడే భూకంపాలు లేదా సునామీల వలె కాకుండా, కొండచరియలు విరిగిపడటం అనేది ప్రధానంగా ఈ క్రింది వాటిలో దేని ద్వారా నియంత్రించబడుతుంది?",
+    "en": "Unlike earthquakes or tsunamis which are controlled by macro factors, landslides are largely controlled by which of the following?"
+   },
+   "options": {
+    "te": [
+     "ప్రాంతీయ టెక్టోనిక్ కదలికలు",
+     "స్థూల-భౌగోళిక మార్పులు",
+     "అత్యంత స్థానికీకరించిన కారకాలు",
+     "ప్రపంచ వాతావరణ మార్పులు"
+    ],
+    "en": [
+     "Regional tectonic movements",
+     "Macro-geological changes",
+     "Highly localised factors",
+     "Global climatic shifts"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, కొండచరియలు విరిగిపడటం అనేది స్థూల లేదా ప్రాంతీయ కారకాల కంటే ఎక్కువగా అత్యంత స్థానికీకరించిన కారకాల ద్వారా నియంత్రించబడుతుంది.",
+    "en": "Landslides are distinct from other disasters because they are largely controlled by highly localised factors rather than macro or regional ones."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T05-0055",
+   "section": {
+    "te": "Effects of Earthquakes",
+    "en": "Effects of Earthquakes"
+   },
+   "q": {
+    "te": "ఈ క్రింది వాటిలో భూకంపం యొక్క తక్షణ ప్రమాదకర ప్రభావాలుగా ఏవి పేర్కొనబడ్డాయి?\nA. భూమి కంపించడం (Ground Shaking)\nB. నేల ద్రవీకరణ (Soil liquefaction)\nC. భూపాతాలు మరియు బురద ప్రవాహాలు (Land and mud slides)",
+    "en": "Which of the following are listed as immediate hazardous effects of an earthquake?\nA. Ground Shaking\nB. Soil liquefaction\nC. Land and mud slides"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూమి కంపించడం, నేల ద్రవీకరణ మరియు భూపాతాలు/బురద ప్రవాహాలు అన్నీ భూకంపాల తక్షణ ప్రమాదకర ప్రభావాలుగా పేర్కొనబడ్డాయి.",
+    "en": "Ground shaking, soil liquefaction, and land/mud slides are all mentioned as immediate hazardous effects of earthquakes."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T05-0087",
+   "section": {
+    "te": "Himalayan Composition",
+    "en": "Himalayan Composition"
+   },
+   "q": {
+    "te": "హిమాలయాలు మరియు నీలగిరిల కూర్పుకు సంబంధించి కింది ప్రకటనలను పరిగణించండి:\n1. హిమాలయాలు ఎక్కువగా అవక్షేప శిలలు (sedimentary rocks) మరియు అసంఘటిత నిక్షేపాలతో తయారయ్యాయి.\n2. నీలగిరిలు ఎక్కువగా చాలా కఠినమైన శిలలతో తయారయ్యాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the composition of the Himalayas and the Nilgiris:\n1. The Himalayas are mostly made up of sedimentary rocks and unconsolidated deposits.\n2. The Nilgiris are mostly made up of very hard rocks.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "హిమాలయాలు అవక్షేప మరియు అసంఘటిత నిక్షేపాలను కలిగి ఉన్నాయని, నీలగిరిలు చాలా కఠినమైన శిలలతో కూడి ఉన్నాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The Himalayas consist of sedimentary and unconsolidated deposits, while the Nilgiris are composed of very hard rocks."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T05-0034",
+   "section": {
+    "te": "Landslide Mitigation",
+    "en": "Landslide Mitigation"
+   },
+   "q": {
+    "te": "కొండచరియలు విరిగిపడటాన్ని తగ్గించడానికి 'ఝుమ్మింగ్' (Jhumming) స్థానంలో మెట్ల వ్యవసాయాన్ని (terrace farming) ప్రోత్సహించాలని భారతదేశంలోని ఏ ప్రాంతంలో సూచించబడింది?",
+    "en": "In which region of India is terrace farming encouraged to replace 'Jhumming' to mitigate landslides?"
+   },
+   "options": {
+    "te": [
+     "పశ్చిమ కనుమలు",
+     "ఆరావళి పర్వత శ్రేణి",
+     "ఈశాన్య కొండ రాష్ట్రాలు",
+     "ట్రాన్స్-హిమాలయ ప్రాంతాలు"
+    ],
+    "en": [
+     "Western Ghats",
+     "Aravali range",
+     "Northeastern hill states",
+     "Trans-Himalayan areas"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "షిఫ్టింగ్ సాగు (ఝుమ్మింగ్) ఎక్కువగా ఉన్న ఈశాన్య కొండ రాష్ట్రాలలో కొండచరియలు విరిగిపడకుండా మెట్ల వ్యవసాయాన్ని ప్రోత్సహించాలని పాఠ్యభాగం సూచిస్తుంది.",
+    "en": "The text suggests encouraging terrace farming in the northeastern hill states as a measure against landslides where shifting cultivation (Jhumming) is common."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T05-0013",
+   "section": {
+    "te": "Tectonic earthquakes",
+    "en": "Tectonic earthquakes"
+   },
+   "q": {
+    "te": "భూకంపాల గురించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. టెక్టోనిక్ మూలం కలిగిన భూకంపాలు అత్యంత వినాశకరమైనవి.\n2. టెక్టోనిక్ భూకంపాలు పెద్ద ప్రభావిత ప్రాంతాన్ని కలిగి ఉంటాయి.\n3. గనుల తవ్వకం లేదా శిలలు పడిపోవడంతో సంబంధం ఉన్న భూకంపాలు పరిమిత ప్రభావిత ప్రాంతాన్ని కలిగి ఉంటాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about earthquakes:\n1. Earthquakes of tectonic origin are the most devastating.\n2. Tectonic earthquakes have a large area of influence.\n3. Earthquakes associated with mining or rock falls have a limited area of influence.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "టెక్టోనిక్ భూకంపాలు పెద్ద ప్రభావిత ప్రాంతంతో అత్యంత వినాశకరమైనవి, గనుల తవ్వకం లేదా శిలలు పడిపోవడం వల్ల కలిగే భూకంపాలు పరిమిత ప్రభావం మరియు నష్టాన్ని కలిగి ఉంటాయి.",
+    "en": "Tectonic earthquakes are the most devastating with a large influence area, while those from mining or rock falls have limited influence and damage."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T05-0093",
+   "section": {
+    "te": "Weathering and Erosion",
+    "en": "Weathering and Erosion"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): క్రమక్షయం జరగడానికి శైథిల్యం ఒక ముందస్తు షరతు కాదు.\nకారణం (R): భూమి ఉపరితలంపై నిరంతరం జరుగుతున్న మార్పులకు క్రమక్షయం ప్రధాన బాధ్యత వహిస్తుంది.",
+    "en": "Assertion (A): Weathering is not a pre-condition for erosion to take place.\nReason (R): Erosion is largely responsible for continuous changes that the earth’s surface is undergoing."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం రెండు ప్రకటనలు నిజమే, కానీ క్రమక్షయం ఉపరితల మార్పులకు కారణమవుతుందనే వాస్తవం, శైథిల్యం దానికి ముందస్తు షరతు ఎందుకు కాదో వివరించదు.",
+    "en": "Both statements are true according to the text, but the fact that erosion causes surface changes does not explain why weathering is not a pre-condition for it."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T05-0088",
+   "section": {
+    "te": "Agents of Erosion",
+    "en": "Agents of Erosion"
+   },
+   "q": {
+    "te": "వాతావరణం ద్వారా నియంత్రించబడే క్రమక్షయ కారకాలను వాటి సంబంధిత పదార్థ స్థితులతో జతపరచండి:\nI. గాలి - 1. ద్రవ\nII. ప్రవహించే నీరు - 2. ఘన\nIII. హిమానీనదం - 3. వాయు",
+    "en": "Match the climatically controlled agents of erosion with their respective states of matter:\nI. Wind - 1. Liquid\nII. Running water - 2. Solid\nIII. Glacier - 3. Gaseous"
+   },
+   "options": {
+    "te": [
+     "I-3, II-1, III-2",
+     "I-1, II-2, III-3",
+     "I-2, II-3, III-1",
+     "I-3, II-2, III-1"
+    ],
+    "en": [
+     "I-3, II-1, III-2",
+     "I-1, II-2, III-3",
+     "I-2, II-3, III-1",
+     "I-3, II-2, III-1"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వాతావరణ నియంత్రిత కారకాలలో గాలిని వాయువుగా, ప్రవహించే నీటిని ద్రవంగా మరియు హిమానీనదాలను ఘన స్థితిగా పాఠ్యభాగం గుర్తిస్తుంది.",
+    "en": "The text identifies wind as gaseous, running water as liquid, and glaciers as the solid state of matter among climatically controlled agents."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T05-0067",
+   "section": {
+    "te": "Deccan Traps Location",
+    "en": "Deccan Traps Location"
+   },
+   "q": {
+    "te": "భారతదేశంలో ఫ్లడ్ బసాల్ట్ ప్రావిన్స్‌గా ఉన్న దక్కన్ ట్రాప్స్ (Deccan Traps) ప్రస్తుతం ఈ క్రింది ఏ పీఠభూమిలో ఎక్కువ భాగాన్ని ఆవరించి ఉన్నాయి?",
+    "en": "In India, the Deccan Traps flood basalt province presently covers most of which plateau?"
+   },
+   "options": {
+    "te": [
+     "ఛోటానాగ్‌పూర్ పీఠభూమి",
+     "మహారాష్ట్ర పీఠభూమి",
+     "మాల్వా పీఠభూమి",
+     "మేఘాలయ పీఠభూమి"
+    ],
+    "en": [
+     "Chotanagpur plateau",
+     "Maharashtra plateau",
+     "Malwa plateau",
+     "Meghalaya plateau"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారతదేశంలోని దక్కన్ ట్రాప్స్ ప్రస్తుతం మహారాష్ట్ర పీఠభూమిలో ఎక్కువ భాగాన్ని ఆవరించి ఉన్న ఒక పెద్ద ఫ్లడ్ బసాల్ట్ ప్రావిన్స్.",
+    "en": "The Deccan Traps in India presently cover most of the Maharashtra plateau as a flood basalt province."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T05-0042",
+   "section": {
+    "te": "Landslide Prevention",
+    "en": "Landslide Prevention"
+   },
+   "q": {
+    "te": "కొండచరియలు విరిగిపడటాన్ని తగ్గించే చర్యలకు అదనంగా ఏవి 'సానుకూల చర్యలు' (positive actions) గా పేర్కొనబడ్డాయి?",
+    "en": "Which of the following are mentioned as 'positive actions' to supplement landslide mitigation measures?"
+   },
+   "options": {
+    "te": [
+     "భారీ ఎత్తున అడవుల పెంపకం (Afforestation)",
+     "గట్లు లేదా కట్టల (Bunds) నిర్మాణం",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Large-scale afforestation",
+     "Construction of bunds",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కొండచరియల నియంత్రణ కోసం భారీ అడవుల పెంపకం మరియు నీటి ప్రవాహాన్ని తగ్గించడానికి గట్ల నిర్మాణం రెండింటినీ సానుకూల అనుబంధ చర్యలుగా పాఠ్యభాగం గుర్తించింది.",
+    "en": "The text identifies both large-scale afforestation and the construction of bunds (to reduce water flow) as positive supplementary actions for landslide control."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T05-0037",
+   "section": {
+    "te": "Landslide Monitoring",
+    "en": "Landslide Monitoring"
+   },
+   "q": {
+    "te": "ఇతర విపత్తులతో పోలిస్తే కొండచరియలు విరిగిపడే అవకాశాలను పర్యవేక్షించడం ఎందుకు కష్టతరమైనది మరియు ఖర్చుతో కూడుకున్నదిగా పరిగణించబడుతుంది?",
+    "en": "Why is monitoring the possibilities of landslides considered difficult and cost-intensive compared to other disasters?"
+   },
+   "options": {
+    "te": [
+     "ఎందుకంటే అవి జనాభా లేని ప్రాంతాల్లో మాత్రమే సంభవిస్తాయి",
+     "ఎందుకంటే అవి అత్యంత స్థానికీకరించిన కారకాల ద్వారా నియంత్రించబడతాయి",
+     "ఎందుకంటే అవి స్థూల-ప్రాంతీయ కారకాల వల్ల సంభవిస్తాయి",
+     "ఎందుకంటే అవి రాత్రి సమయంలో మాత్రమే జరుగుతాయి"
+    ],
+    "en": [
+     "Because they occur only in uninhabited areas",
+     "Because they are controlled by highly localised factors",
+     "Because they are caused by macro-regional factors",
+     "Because they only happen during the night"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కొండచరియలు విరిగిపడటాన్ని నియంత్రించే కారకాలు స్థానికంగా ఉండటం వల్ల వాటి సమాచారాన్ని సేకరించడం మరియు పర్యవేక్షించడం కష్టం మరియు ఖర్చుతో కూడుకున్నది.",
+    "en": "The localised nature of the factors controlling landslides makes gathering information and monitoring them difficult and expensive."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T05-0008",
+   "section": {
+    "te": "Baratang Mud Volcano",
+    "en": "Baratang Mud Volcano"
+   },
+   "q": {
+    "te": "భారతదేశంలోని ఏకైక బురద అగ్నిపర్వతం (mud volcano) ఎక్కడ ఉంది?",
+    "en": "Where is the only mud volcano in India located?"
+   },
+   "options": {
+    "te": [
+     "సాల్సెట్ ద్వీపం",
+     "లక్షద్వీప్ దీవులు",
+     "మజులి ద్వీపం",
+     "బరాటాంగ్ ద్వీపం"
+    ],
+    "en": [
+     "Salsette Island",
+     "Lakshadweep Islands",
+     "Majuli Island",
+     "Baratang Island"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశంలోని ఏకైక బురద అగ్నిపర్వతం అండమాన్ మరియు నికోబార్ దీవులలోని బరాటాంగ్ ద్వీపంలో ఉంది.",
+    "en": "India's only mud volcano is located at Baratang Island in the Andaman and Nicobar Islands."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T05-0057",
+   "section": {
+    "te": "Collapse Earthquakes",
+    "en": "Collapse Earthquakes"
+   },
+   "q": {
+    "te": "తీవ్రమైన మైనింగ్ కార్యకలాపాలు జరిగే ప్రాంతాలలో భూగర్భ గనుల పైకప్పులు కూలిపోవడం వల్ల వచ్చే చిన్నపాటి భూకంప ప్రకంపనలను ఏమంటారు?",
+    "en": "What are the minor tremors caused by the collapse of roofs of underground mines in areas of intense mining activity called?"
+   },
+   "options": {
+    "te": [
+     "టెక్టానిక్ భూకంపాలు (Tectonic earthquakes)",
+     "పేలుడు భూకంపాలు (Explosion earthquakes)",
+     "అగ్నిపర్వత భూకంపాలు (Volcanic earthquakes)",
+     "కూలిపోవడం వల్ల వచ్చే భూకంపాలు (Collapse earthquakes)"
+    ],
+    "en": [
+     "Tectonic earthquakes",
+     "Explosion earthquakes",
+     "Volcanic earthquakes",
+     "Collapse earthquakes"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "తీవ్రమైన మైనింగ్ ప్రాంతాలలో భూగర్భ గనుల పైకప్పులు కూలిపోవడం వల్ల వచ్చే చిన్నపాటి భూకంపాలను కూలిపోవడం వల్ల వచ్చే భూకంపాలు (కొలాప్స్ ఎర్త్‌క్వేక్స్) అంటారు.",
+    "en": "In areas of intense mining activity, minor tremors resulting from the collapse of underground mine roofs are called collapse earthquakes."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T05-0014",
+   "section": {
+    "te": "Indian plate movement",
+    "en": "Indian plate movement"
+   },
+   "q": {
+    "te": "భారతీయ ఫలకం (Indian plate) ఏ వేగంతో మరియు ఏ దిశలో కదులుతోంది?",
+    "en": "At what speed and in which direction is the Indian plate moving?"
+   },
+   "options": {
+    "te": [
+     "సంవత్సరానికి 1 సెం.మీ ఉత్తర మరియు ఈశాన్య దిశలో",
+     "సంవత్సరానికి 10 సెం.మీ పడమర వైపు",
+     "సంవత్సరానికి 5 సెం.మీ దక్షిణం వైపు",
+     "సంవత్సరానికి 2 సెం.మీ తూర్పు వైపు"
+    ],
+    "en": [
+     "1 cm per year towards the North and Northeastern direction",
+     "10 cm per year towards the West",
+     "5 cm per year towards the South",
+     "2 cm per year towards the East"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భారతీయ ఫలకం సంవత్సరానికి ఒక సెంటీమీటర్ వేగంతో ఉత్తర మరియు ఈశాన్య దిశలో కదులుతుంది.",
+    "en": "The Indian plate moves at a speed of one centimetre per year towards the north and northeastern direction."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T05-0010",
+   "section": {
+    "te": "Rainfall and landslides",
+    "en": "Rainfall and landslides"
+   },
+   "q": {
+    "te": "భారీ మరియు నిరంతర వర్షపాతం కొండచరియలు విరిగిపడటానికి ఎలా దోహదపడుతుంది?",
+    "en": "How does heavy and continuous rainfall contribute to the occurrence of landslides?"
+   },
+   "options": {
+    "te": [
+     "శిలలను చల్లబరచడం మరియు ఘర్షణను పెంచడం ద్వారా",
+     "మట్టి మరియు శిలలలోకి నీరు చేరడం ద్వారా, బరువును పెంచి మరియు ఘర్షణను తగ్గించడం ద్వారా",
+     "భూగర్భ శూన్యాలను సృష్టించడం ద్వారా",
+     "మట్టిని ఎండబెట్టడం మరియు తేలికగా చేయడం ద్వారా"
+    ],
+    "en": [
+     "By cooling the rocks and increasing friction",
+     "By seeping into soil and rocks, increasing weight and reducing friction",
+     "By creating underground vacuums",
+     "By drying out the soil and making it light"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వర్షపు నీరు భూమిలోకి చేరుతుంది, ఇది మట్టి/శిలల బరువును పెంచుతుంది మరియు వాటిని పట్టి ఉంచే ఘర్షణను తగ్గిస్తుంది.",
+    "en": "Rainwater seeps into the ground, which increases the weight of the soil/rocks and reduces the friction that holds them in place."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T05-0003",
+   "section": {
+    "te": "Human causes landslides",
+    "en": "Human causes landslides"
+   },
+   "q": {
+    "te": "కొండచరియలు విరిగిపోయే ప్రమాదాన్ని పెంచే మానవ కార్యకలాపాలకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. అడవులను నరికివేయడం.\n2. ఆమోదించబడిన పద్ధతులను అనుసరించకుండా మౌలిక సదుపాయాలను నిర్మించడం.\n3. నీటి సహజ ప్రవాహాన్ని అడ్డుకునే భవనాల నిర్మాణం.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding human activities that increase the risk of landslides:\n1. Cutting down of forests.\n2. Building infrastructure without following approved methods.\n3. Construction of buildings that block the natural flow of water.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అడవుల నరికివేత, సరికాని మౌలిక సదుపాయాల నిర్మాణం మరియు సహజ నీటి ప్రవాహాన్ని అడ్డుకోవడం - ఈ మూడు కార్యకలాపాలు కొండచరియలు విరిగిపోయే ప్రమాదాన్ని పెంచే మానవ కారకాలుగా జాబితా చేయబడ్డాయి.",
+    "en": "All three activities—deforestation, improper infrastructure building, and blocking natural water flow—are listed as human factors that increase landslide risks."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T05-0078",
+   "section": {
+    "te": "Debris Fall Definition",
+    "en": "Debris Fall Definition"
+   },
+   "q": {
+    "te": "నిలువుగా లేదా ముందుకు పొడుచుకు వచ్చిన ఉపరితలం నుండి భూ శిథిలాలు దాదాపు స్వేచ్ఛగా క్రిందికి పడిపోవడాన్ని ఏ రకమైన కదలికగా పేర్కొంటారు?",
+    "en": "What type of mass movement is described as nearly a free fall of earth debris from a vertical or overhanging face?"
+   },
+   "options": {
+    "te": [
+     "స్లంప్",
+     "రాక్‌స్లైడ్",
+     "డెబ్రిస్ స్లైడ్",
+     "డెబ్రిస్ ఫాల్"
+    ],
+    "en": [
+     "Slump",
+     "Rockslide",
+     "Debris slide",
+     "Debris fall"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నిలువుగా ఉండే ముఖభాగం నుండి శిథిలాలు స్వేచ్ఛగా కిందికి పడటాన్ని డెబ్రిస్ ఫాల్ అంటారు.",
+    "en": "Debris fall is nearly a free fall of earth debris descending from a vertical or overhanging face."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T05-0091",
+   "section": {
+    "te": "Heave Definition",
+    "en": "Heave Definition"
+   },
+   "q": {
+    "te": "మంచు పెరుగుదల (frost growth) కారణంగా నేలలు పైకి లేవడాన్ని ఏ రకమైన ద్రవ్యరాశి కదలికగా వర్ణించారు?",
+    "en": "Which form of mass movement is specifically described as the heaving up of soils due to frost growth?"
+   },
+   "options": {
+    "te": [
+     "ఫాల్ (Fall)",
+     "ఫ్లో (Flow)",
+     "హీవ్ (Heave)",
+     "స్లైడ్ (Slide)"
+    ],
+    "en": [
+     "Fall",
+     "Flow",
+     "Heave",
+     "Slide"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మంచు పెరుగుదల మరియు ఇతర కారణాల వల్ల నేలలు పైకి లేవడాన్ని 'హీవ్' అని పాఠ్యభాగం నిర్వచిస్తుంది.",
+    "en": "The text defines 'Heave' as the heaving up of soils due to frost growth and other causes."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T05-0017",
+   "section": {
+    "te": "Peninsular fault line",
+    "en": "Peninsular fault line"
+   },
+   "q": {
+    "te": "లాతూర్ మరియు ఉస్మానాబాద్ సమీపంలో ఏ నది వెంట భ్రంశ రేఖ (fault line) ఏర్పడి శక్తి పోగుపడుతోందని భూవిజ్ఞాన శాస్త్రవేత్తలు సిద్ధాంతీకరించారు?",
+    "en": "Earth scientists have theorized the emergence of a fault line and energy build-up near Latur and Osmanabad along which river?"
+   },
+   "options": {
+    "te": [
+     "భీమా నది (కృష్ణా)",
+     "నర్మదా నది",
+     "గోదావరి నది",
+     "తపతి నది"
+    ],
+    "en": [
+     "River Bhima (Krishna)",
+     "River Narmada",
+     "River Godavari",
+     "River Tapi"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "లాతూర్ మరియు ఉస్మానాబాద్ సమీపంలో భీమా (కృష్ణా) నది ద్వారా సూచించబడే భ్రంశ రేఖ వెంట శక్తి పేరుకుపోతోందని భూవిజ్ఞాన శాస్త్రవేత్తలు పేర్కొన్నారు.",
+    "en": "Earth scientists suggested the emergence of a fault line and energy build-up represented by the river Bhima (Krishna) near Latur and Osmanabad."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T05-0044",
+   "section": {
+    "te": "S-wave Characteristics",
+    "en": "S-wave Characteristics"
+   },
+   "q": {
+    "te": "S-తరంగాలు (ద్వితీయ తరంగాలు) ఈ క్రింది ఏ పదార్థాల ద్వారా ప్రయాణించగలవు?",
+    "en": "Through which of the following materials can S-waves (Secondary waves) travel?"
+   },
+   "options": {
+    "te": [
+     "వాయు పదార్థాలు మాత్రమే",
+     "ద్రవ పదార్థాలు మాత్రమే",
+     "ఘన పదార్థాలు మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Gaseous materials only",
+     "Liquid materials only",
+     "Solid materials only",
+     "All of the above"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్య భాగం ప్రకారం, S-తరంగాలు ఘన పదార్థాల ద్వారా మాత్రమే ప్రయాణించగలవు అనే ప్రత్యేక లక్షణాన్ని కలిగి ఉంటాయి.",
+    "en": "S-waves have a unique characteristic where they can only travel through solid materials."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T05-0072",
+   "section": {
+    "te": "Earthquake Foci Depths",
+    "en": "Earthquake Foci Depths"
+   },
+   "q": {
+    "te": "భూకంపాల విస్తరణకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. మధ్య-మహాసముద్రపు పర్వత శ్రేణుల ప్రాంతాలలో భూకంప నాభులు తక్కువ లోతుల్లో ఉంటాయి.\n2. ఆల్పైన్-హిమాలయన్ బెల్ట్ మరియు పసిఫిక్ తీరం వెంబడి భూకంపాలు అధిక లోతుల్లో సంభవిస్తాయి.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "With reference to the distribution of earthquakes, consider the following statements:\n1. The foci of earthquakes in the areas of mid-oceanic ridges are at shallow depths.\n2. Along the Alpine-Himalayan belt as well as the rim of the Pacific, earthquakes are deep-seated.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మధ్య-మహాసముద్రపు పర్వత శ్రేణులలో భూకంప నాభులు తక్కువ లోతుల్లో ఉంటాయి, కాగా ఆల్పైన్-హిమాలయన్ బెల్ట్ మరియు పసిఫిక్ అంచులలో అవి అధిక లోతుల్లో సంభవిస్తాయి.",
+    "en": "Earthquake foci along mid-oceanic ridges are at shallow depths, whereas along the Alpine-Himalayan belt and the rim of the Pacific, they are deep-seated."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T05-0048",
+   "section": {
+    "te": "P-wave Characteristics",
+    "en": "P-wave Characteristics"
+   },
+   "q": {
+    "te": "ఏ రకమైన భూకంప తరంగాలు ధ్వని తరంగాలను పోలి ఉంటాయి మరియు వాయు, ద్రవ, ఘన పదార్థాల ద్వారా ప్రయాణించగలవు?",
+    "en": "Which type of earthquake waves are similar to sound waves and can travel through gaseous, liquid, and solid materials?"
+   },
+   "options": {
+    "te": [
+     "S-తరంగాలు",
+     "సునామీ తరంగాలు",
+     "P-తరంగాలు",
+     "ఉపరితల తరంగాలు"
+    ],
+    "en": [
+     "S-waves",
+     "Tsunami waves",
+     "P-waves",
+     "Surface waves"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "P-తరంగాలు (ప్రాథమిక తరంగాలు) ధ్వని తరంగాలను పోలి ఉంటాయి మరియు పదార్థం యొక్క మూడు స్థితుల ద్వారా ప్రయాణించే సామర్థ్యాన్ని కలిగి ఉంటాయి.",
+    "en": "P-waves (Primary waves) are similar to sound waves and have the ability to travel through all three states of matter."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T05-0007",
+   "section": {
+    "te": "Varāhamihira's Bṛihatsaṁhitā",
+    "en": "Varāhamihira's Bṛihatsaṁhitā"
+   },
+   "q": {
+    "te": "వరాహమిహిరుని బృహత్సంహిత ప్రకారం, ఈ క్రింది వాటిలో భూకంపాలకు కారణమైన మూల శక్తులుగా ఏవి పరిగణించబడ్డాయి?\n1. వాయు (గాలి)\n2. అగ్ని (నిప్పు)\n3. ఇంద్ర (స్వర్గం/పిడుగు)\n4. వరుణ (నీరు)",
+    "en": "According to Varāhamihira's Bṛihatsaṁhitā, which of the following were considered elemental forces responsible for earthquakes?\n1. Vāyu (wind)\n2. Agni (fire)\n3. Indra (heaven/thunder)\n4. Varuṇa (water)"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "3 మరియు 4 మాత్రమే",
+     "1, 2 మరియు 3 మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "1 and 2 only",
+     "3 and 4 only",
+     "1, 2 and 3 only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వరాహమిహిరుడు భూకంపాలకు నాలుగు మూల శక్తులు కారణమని పేర్కొన్నాడు: వాయు, అగ్ని, ఇంద్ర మరియు వరుణ.",
+    "en": "Varāhamihira attributed earthquakes to four elemental forces: Vāyu, Agni, Indra, and Varuṇa."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T05-0047",
+   "section": {
+    "te": "Earthquake Shadow Zones",
+    "en": "Earthquake Shadow Zones"
+   },
+   "q": {
+    "te": "అధికేంద్రం (epicentre) నుండి ఏ నిర్దిష్ట మండలాన్ని P మరియు S-తరంగాలు రెండింటికీ నీడ మండలం (shadow zone) గా గుర్తించారు?",
+    "en": "Which specific zone from the epicentre is identified as the shadow zone for BOTH P and S-waves?"
+   },
+   "options": {
+    "te": [
+     "0° మరియు 105° మధ్య",
+     "105° లోపు",
+     "145° అవతల",
+     "105° మరియు 145° మధ్య"
+    ],
+    "en": [
+     "Between 0° and 105°",
+     "Within 105°",
+     "Beyond 145°",
+     "Between 105° and 145°"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అధికేంద్రం నుండి 105° మరియు 145° మధ్య ఉన్న సీస్మోగ్రాఫ్‌లు P లేదా S-తరంగాలను నమోదు చేయవు, కాబట్టి ఇది రెండింటికీ నీడ మండలం అవుతుంది.",
+    "en": "Seismographs located between 105° and 145° from the epicentre do not record either P or S-waves, making it a shadow zone for both."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T05-0043",
+   "section": {
+    "te": "Earthquake Measurement Scales",
+    "en": "Earthquake Measurement Scales"
+   },
+   "q": {
+    "te": "విడుదలైన శక్తి ఆధారంగా భూకంపం యొక్క తీవ్రతను (magnitude) కొలవడానికి ఈ క్రింది వాటిలో ఏ స్కేలును ఉపయోగిస్తారు?",
+    "en": "Which of the following scales is used to measure the magnitude of an earthquake based on the energy released?"
+   },
+   "options": {
+    "te": [
+     "మెర్కల్లి స్కేల్",
+     "షాడో స్కేల్",
+     "రిక్టర్ స్కేల్",
+     "సీస్మోగ్రాఫ్ స్కేల్"
+    ],
+    "en": [
+     "Mercalli scale",
+     "Shadow scale",
+     "Richter scale",
+     "Seismograph scale"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రిక్టర్ స్కేల్ భూకంపం యొక్క మాగ్నిట్యూడ్‌ను కొలుస్తుంది, ఇది ఆ సమయంలో విడుదలైన శక్తికి సంబంధించినది.",
+    "en": "The Richter scale measures the magnitude of an earthquake, which relates to the energy released during the event."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T05-0075",
+   "section": {
+    "te": "Mass Movements Weathering",
+    "en": "Mass Movements Weathering"
+   },
+   "q": {
+    "te": "ద్రవ్యరాశి కదలికలకు (మాస్ మూవ్‌మెంట్స్) సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ద్రవ్యరాశి కదలికలు జరగడానికి శిలాశైథిల్యం (వెదరింగ్) తప్పనిసరి ముందస్తు షరతు.\n2. శిలాశైథిల్యం చెందని పదార్థాల కంటే శైథిల్యం చెందిన వాలులపై ద్రవ్యరాశి కదలికలు చాలా చురుకుగా ఉంటాయి.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding mass movements:\n1. Weathering is a mandatory pre-requisite for mass movements to occur.\n2. Mass movements are very active over weathered slopes rather than over unweathered materials.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "శిలాశైథిల్యం ద్రవ్యరాశి కదలికలకు సహాయపడుతుంది కానీ అది తప్పనిసరి ముందస్తు షరతు కాదు; శైథిల్యం చెందిన వాలులపై ఈ కదలికలు అత్యంత చురుకుగా ఉంటాయి.",
+    "en": "Weathering is not a pre-requisite for mass movement though it aids it, and mass movements are very active over weathered slopes."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T05-0012",
+   "section": {
+    "te": "Earthquake characteristics",
+    "en": "Earthquake characteristics"
+   },
+   "q": {
+    "te": "అన్ని సహజ విపత్తులలో అత్యంత అనూహ్యమైనది మరియు అత్యంత వినాశకరమైనదిగా ఏది వర్ణించబడింది?",
+    "en": "Which natural disaster is described as the most unpredictable and highly destructive of all?"
+   },
+   "options": {
+    "te": [
+     "కొండచరియలు విరిగిపడటం",
+     "వరదలు",
+     "భూకంపాలు",
+     "కరువులు"
+    ],
+    "en": [
+     "Landslides",
+     "Floods",
+     "Earthquakes",
+     "Droughts"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూకంపాలు అత్యంత అనూహ్యమైనవి మరియు అత్యంత వినాశకరమైన సహజ విపత్తులని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Earthquakes are the most unpredictable and highly destructive natural disasters."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T05-0095",
+   "section": {
+    "te": "Mass Movement Causes",
+    "en": "Mass Movement Causes"
+   },
+   "q": {
+    "te": "కింది మానవ కార్యకలాపాలలో ఏది ద్రవ్యరాశి కదలికలకు కారణమయ్యే అంశంగా జాబితా చేయబడింది?",
+    "en": "Which of the following human activities is listed as an activating cause for mass movements?"
+   },
+   "options": {
+    "te": [
+     "సహజ వృక్షసంపదను విచక్షణారహితంగా తొలగించడం",
+     "కొత్త అడవుల పెంపకం",
+     "వాలు కోణాన్ని తగ్గించడం",
+     "వాలుల ఎత్తును తగ్గించడం"
+    ],
+    "en": [
+     "Indiscriminate removal of natural vegetation",
+     "Planting of new forests",
+     "Reduction of slope gradient",
+     "Decreasing the height of slopes"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సహజ వృక్షసంపదను విచక్షణారహితంగా తొలగించడం ద్రవ్యరాశి కదలికలకు ముందు సంభవించే కారణాలలో ఒకటిగా పాఠ్యభాగం గుర్తిస్తుంది.",
+    "en": "The text identifies the indiscriminate removal of natural vegetation as one of the activating causes that precede mass movements."
+   }
+  }
+ ]
+}

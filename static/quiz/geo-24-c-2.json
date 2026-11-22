@@ -1,0 +1,942 @@
+{
+ "id": "geo-24-c-2",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Urbanisation – క్విజ్ 2",
+  "en": "Urbanisation – Quiz 2"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T24-0064",
+   "section": {
+    "te": "Singapore Blue Zone",
+    "en": "Singapore Blue Zone"
+   },
+   "q": {
+    "te": "కింది ప్రకటనలను పరిగణించండి:\nనిశ్చయం (A): సింగపూర్ ప్రజలు ఎక్కువ కాలం మరియు ఆరోగ్యకరమైన జీవితాలను గడిపే 'బ్లూ జోన్' (blue zone) నగరాల్లో ఒకటిగా పరిగణించబడుతుంది.\nకారణం (R): సింగపూర్ పరస్పర చర్య మరియు సామాజిక సంబంధాలను ప్రోత్సహించే కమ్యూనిటీ-కేంద్రీకృత రూపకల్పనను ఉపయోగిస్తుంది.",
+    "en": "Consider the following statements:\nAssertion (A): Singapore is considered one of the 'blue zone' cities where people live longer and healthier lives.\nReason (R): Singapore uses a community-centred design that promotes interaction and social connections."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ సరైనవి మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ సరైనవి కానీ A కి R సరైన వివరణ కాదు",
+     "A సరైనది కానీ R తప్పు",
+     "A తప్పు కానీ R సరైనది"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సింగపూర్ బ్లూ జోన్ నగరంగా పిలవబడటానికి కారణం దాని కమ్యూనిటీ-కేంద్రీకృత రూపకల్పన సామాజిక సంబంధాలను పెంపొందిస్తుంది, ఇది సుదీర్ఘమైన మరియు ఆరోగ్యకరమైన జీవితాలకు దారితీస్తుంది.",
+    "en": "Singapore is called a blue zone city specifically because its community-centred design fosters social connections, leading to longer and healthier lives."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T24-0087",
+   "section": {
+    "te": "Map Interpretation",
+    "en": "Map Interpretation"
+   },
+   "q": {
+    "te": "టోపోగ్రాఫికల్ షీట్ యొక్క ఇండెక్స్ నంబర్ నుండి ఏ సమాచారాన్ని పొందవచ్చు?",
+    "en": "What information can be derived from the index number of a topographical sheet?"
+   },
+   "options": {
+    "te": [
+     "ప్రాంతం యొక్క జనాభా సాంద్రత",
+     "భారతదేశంలో ఆ ప్రాంతం యొక్క స్థానం",
+     "ఆ ప్రాంతంలో పండించే నిర్దిష్ట పంటలు",
+     "స్థానిక నివాసితుల ఖచ్చితమైన పేర్లు"
+    ],
+    "en": [
+     "The population density of the area",
+     "The location of the area in India",
+     "The specific crops grown in the area",
+     "The exact names of local residents"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఇండెక్స్ నంబర్ భారతదేశంలోని ప్రాంతం యొక్క స్థానాన్ని కనుగొనడంలో సహాయపడుతుందని పాఠ్యం పేర్కొంది.",
+    "en": "The index number helps find the location of the area within India."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T24-0075",
+   "section": {
+    "te": "Topographical Map Interpretation",
+    "en": "Topographical Map Interpretation"
+   },
+   "q": {
+    "te": "టోపోగ్రాఫికల్ షీట్ యొక్క 'మార్జినల్ ఇన్ఫర్మేషన్' (Marginal Information) కు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇందులో టోపోగ్రాఫికల్ షీట్ సంఖ్య మరియు దాని స్థానం ఉంటాయి.\n2. ఇది డిగ్రీలు మరియు నిమిషాలలో ప్రాంతం యొక్క విస్తృతిని అందిస్తుంది.\n3. ఇది మ్యాప్ ద్వారా కవర్ చేయబడిన జిల్లాలను నిర్దేశిస్తుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding the 'Marginal Information' of a topographical sheet:\n1. It includes the topographical sheet number and its location.\n2. It provides the extent of the area in degrees and minutes.\n3. It specifies the districts covered by the map.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యం ప్రకారం, మార్జినల్ ఇన్ఫర్మేషన్‌లో షీట్ సంఖ్య, స్థానం, గ్రిడ్ రిఫరెన్స్‌లు, డిగ్రీలు/నిమిషాలలో విస్తృతి, స్కేల్ మరియు కవర్ చేయబడిన జిల్లాలు ఉంటాయి.",
+    "en": "Marginal information includes the sheet number, location, grid references, extent in degrees/minutes, scale, and districts covered."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T24-0070",
+   "section": {
+    "te": "Singapore Senior Housing",
+    "en": "Singapore Senior Housing"
+   },
+   "q": {
+    "te": "సింగపూర్ పట్టణ ప్రణాళికలో, వృద్ధుల నివాస గృహాలు కింది వాటిలో దేనితో అనుసంధానించబడ్డాయి?",
+    "en": "In Singapore's urban planning, residential housing for senior citizens is integrated with which of the following?"
+   },
+   "options": {
+    "te": [
+     "పారిశ్రామిక మండలాలు",
+     "విమానాశ్రయాలు",
+     "ఆరోగ్య సేవలు మరియు శిశు సంరక్షణ సౌకర్యాలు",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Industrial zones",
+     "Airports",
+     "Healthcare services and childcare facilities",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "తరాల మధ్య జీవనానికి మద్దతుగా సింగపూర్ వృద్ధుల గృహాలను ఆరోగ్య సంరక్షణ, శిశు సంరక్షణ, విభిన్న పొరుగు ప్రాంతాలు మరియు పచ్చని ప్రదేశాలతో అనుసంధానిస్తుంది.",
+    "en": "Singapore integrates senior housing with healthcare, childcare, diverse neighbourhoods, and green spaces to support intergenerational living."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T24-0089",
+   "section": {
+    "te": "Rural Population Percentage",
+    "en": "Rural Population Percentage"
+   },
+   "q": {
+    "te": "2011 జనాభా లెక్కల ప్రకారం, భారతదేశ మొత్తం జనాభాలో ఎంత శాతం గ్రామాల్లో నివసిస్తున్నారు?",
+    "en": "According to the 2011 Census, what percentage of India's total population lives in villages?"
+   },
+   "options": {
+    "te": [
+     "93.2%",
+     "50.5%",
+     "68.8%",
+     "72.4%"
+    ],
+    "en": [
+     "93.2%",
+     "50.5%",
+     "68.8%",
+     "72.4%"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్య భాగంలో పేర్కొన్న 2011 జనాభా లెక్కల ప్రకారం, భారతదేశ మొత్తం జనాభాలో సుమారు 68.8 శాతం మంది గ్రామీణ ప్రాంతాల్లో (గ్రామాల్లో) నివసిస్తున్నారు.",
+    "en": "As per the 2011 Census data mentioned in the text, approximately 68.8 per cent of India's total population resides in rural areas (villages)."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T24-0125",
+   "section": {
+    "te": "Level of Urbanisation",
+    "en": "Level of Urbanisation"
+   },
+   "q": {
+    "te": "భారతదేశంలో పట్టణీకరణకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. పట్టణీకరణ స్థాయిని మొత్తం జనాభాలో పట్టణ జనాభా శాతంగా కొలుస్తారు.\n2. గత రెండు దశాబ్దాలలో పట్టణీకరణ వృద్ధి రేటు మందగించింది.\nపై ప్రకటనలలో ఏది/ఏవి సరైనది/సరైనవి?",
+    "en": "Consider the following statements regarding urbanisation in India:\n1. The level of urbanisation is measured in terms of percentage of urban population to total population.\n2. The growth rate of urbanisation has slowed down during the last two decades.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 కాదు మరియు 2 కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మొత్తం జనాభాలో పట్టణ జనాభా శాతంగా పట్టణీకరణ స్థాయిని కొలుస్తారు మరియు గత రెండు దశాబ్దాలలో దీని వృద్ధి రేటు మందగించిందనే రెండు ప్రకటనలు సరైనవే.",
+    "en": "Both statements are correct: urbanisation level is measured as percentage of urban population to total population, and its growth rate has slowed down during the last two decades."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T24-0051",
+   "section": {
+    "te": "Jaipur Aesthetics",
+    "en": "Jaipur Aesthetics"
+   },
+   "q": {
+    "te": "ఏకరీతి రూపాన్ని సృష్టించడానికి జైపూర్‌లోని ప్రధాన వీధుల వెంబడి ఉన్న భవనాల కోసం ఏ నిర్దిష్ట పదార్థాన్ని ఉపయోగించారు?",
+    "en": "Which specific material was used for buildings along major streets in Jaipur to create a uniform appearance?"
+   },
+   "options": {
+    "te": [
+     "పసుపు రంగు గ్రానైట్",
+     "తెల్లటి సున్నపురాయి",
+     "గులాబీ రంగు ఇసుక రాయి (pink sandstone)",
+     "ఎరుపు రంగు మార్బుల్"
+    ],
+    "en": [
+     "Yellow granite",
+     "White limestone",
+     "Pink sandstone",
+     "Red marble"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రధాన వీధుల వెంబడి ఉన్న భవనాల కోసం గులాబీ రంగు ఇసుక రాయిని ఉపయోగించారు, ఇది జైపూర్‌కు ఏకరీతి రూపాన్ని మరియు 'పింక్ సిటీ' అనే పేరును ఇచ్చింది.",
+    "en": "Pink sandstone was used for buildings along major streets, giving Jaipur its uniform look and the name 'Pink City'."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T24-0021",
+   "section": {
+    "te": "IT and BPO hub",
+    "en": "IT and BPO hub"
+   },
+   "q": {
+    "te": "1990ల నుండి జాతీయ రాజధాని ప్రాంతం (NCR) లో ప్రధాన ఐటీ (IT) మరియు బిపిఓ (BPO) కేంద్రంగా మారిన నగరం ఏది?",
+    "en": "Since the 1990s, which city has become a major IT and BPO hub in the National Capital Region?"
+   },
+   "options": {
+    "te": [
+     "ఘజియాబాద్",
+     "ఫరీదాబాద్",
+     "మీరట్",
+     "గురుగ్రామ్"
+    ],
+    "en": [
+     "Ghaziabad",
+     "Faridabad",
+     "Meerut",
+     "Gurugram"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "1990ల నుండి గురుగ్రామ్ ప్రధాన ఐటీ మరియు బిపిఓ కేంద్రంగా మారి అంతర్జాతీయ కంపెనీలను ఆకర్షిస్తోంది.",
+    "en": "Gurugram has emerged as a major IT and BPO hub since the 1990s."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T24-0028",
+   "section": {
+    "te": "Kolkata Cultural Heritage",
+    "en": "Kolkata Cultural Heritage"
+   },
+   "q": {
+    "te": "కోల్‌కతాలోని దుర్గాపూజ ఏ సంవత్సరంలో యునెస్కో (UNESCO) యొక్క 'మానవత్వం యొక్క అసంకల్పిత సాంస్కృతిక వారసత్వ' (Intangible Cultural Heritage of Humanity) జాబితాలో చేర్చబడింది?",
+    "en": "In which year was Kolkata's Durga Puja inscribed on UNESCO's list of Intangible Cultural Heritage of Humanity?"
+   },
+   "options": {
+    "te": [
+     "2020",
+     "2019",
+     "2021",
+     "2022"
+    ],
+    "en": [
+     "2020",
+     "2019",
+     "2021",
+     "2022"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కోల్‌కతా దుర్గాపూజకు 2021 సంవత్సరంలో యునెస్కో అసంకల్పిత సాంస్కృతిక వారసత్వ హోదా లభించింది.",
+    "en": "Kolkata's Durga Puja received the UNESCO Intangible Cultural Heritage of Humanity status in the year 2021."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T24-0006",
+   "section": {
+    "te": "Dholavira area coverage",
+    "en": "Dholavira area coverage"
+   },
+   "q": {
+    "te": "కోటలు మరియు సంక్లిష్ట నీటి నిర్మాణాలకు ప్రసిద్ధి చెందిన ప్రాచీన హరప్పా నగరం ధోలవీరా ఎంత విస్తీర్ణంలో విస్తరించి ఉంది?",
+    "en": "The ancient Harappan city of Dholavira, known for its fortifications and complex water structures, is spread over what area?"
+   },
+   "options": {
+    "te": [
+     "64 హెక్టార్లు",
+     "36 హెక్టార్లు",
+     "28 హెక్టార్లు",
+     "48 హెక్టార్లు"
+    ],
+    "en": [
+     "64 ha",
+     "36 ha",
+     "28 ha",
+     "48 ha"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం ధోలవీరా 48 హెక్టార్ల (ha) విస్తీర్ణంలో విస్తరించి ఉంది.",
+    "en": "Dholavira is spread over 48 ha."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T24-0124",
+   "section": {
+    "te": "20th Century Urban Growth",
+    "en": "20th Century Urban Growth"
+   },
+   "q": {
+    "te": "ఇరవయ్యవ శతాబ్దంలో భారతదేశ మొత్తం పట్టణ జనాభా ఎన్ని రెట్లు పెరిగింది?",
+    "en": "During the twentieth century, by how many times did the total urban population of India increase?"
+   },
+   "options": {
+    "te": [
+     "పదిహేను రెట్లు",
+     "పదకొండు రెట్లు",
+     "ఐదు రెట్లు",
+     "ఎనిమిది రెట్లు"
+    ],
+    "en": [
+     "Fifteen-fold",
+     "Eleven-fold",
+     "Five-fold",
+     "Eight-fold"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఇరవయ్యవ శతాబ్దంలో భారతదేశ మొత్తం పట్టణ జనాభా పదకొండు రెట్లు పెరిగిందని పాఠ్యాంశంలో స్పష్టంగా పేర్కొనబడింది.",
+    "en": "Total urban population has increased eleven-fold during the twentieth century."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T24-0131",
+   "section": {
+    "te": "Matching Towns by Function",
+    "en": "Matching Towns by Function"
+   },
+   "q": {
+    "te": "క్రింది పట్టణాలను వాటి కార్యాచరణ వర్గంతో (ఫంక్షనల్ కేటగిరీ) జతపరచండి:\nI. దిగ్‌బోయ్ - (a) విద్యా పట్టణం\nII. మోదీనగర్ - (b) గ్యారిసన్ పట్టణం\nIII. రూర్కీ - (c) గనుల పట్టణం\nIV. బబినా - (d) పారిశ్రామిక పట్టణం\n\nసరైన కోడ్‌ను ఎంచుకోండి:",
+    "en": "Match the following towns with their functional category:\nI. Digboi - (a) Educational town\nII. Modinagar - (b) Garrison town\nIII. Roorki - (c) Mining town\nIV. Babina - (d) Industrial town\n\nChoose the correct code:"
+   },
+   "options": {
+    "te": [
+     "I-c, II-d, III-a, IV-b",
+     "I-d, II-c, III-a, IV-b",
+     "I-c, II-a, III-d, IV-b",
+     "I-b, II-d, III-a, IV-c"
+    ],
+    "en": [
+     "I-c, II-d, III-a, IV-b",
+     "I-d, II-c, III-a, IV-b",
+     "I-c, II-a, III-d, IV-b",
+     "I-b, II-d, III-a, IV-c"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "దిగ్‌బోయ్ గనుల పట్టణం (మైనింగ్), మోదీనగర్ పారిశ్రామిక పట్టణం, రూర్కీ విద్యా పట్టణం మరియు బబినా గ్యారిసన్ కంటోన్మెంట్ పట్టణం.",
+    "en": "Digboi is a mining town, Modinagar is an industrial town, Roorki is an educational town, and Babina is a garrison town."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T24-0042",
+   "section": {
+    "te": "Vada Pav Popularity",
+    "en": "Vada Pav Popularity"
+   },
+   "q": {
+    "te": "ముంబైలో 'వడ పావ్' అనే చిరుతిండి ఏ సమూహానికి చెందిన ప్రజలలో బాగా ప్రాచుర్యం పొందింది?",
+    "en": "Among which group of people did the snack 'Vada Pav' become very popular in Mumbai?"
+   },
+   "options": {
+    "te": [
+     "టెక్స్‌టైల్ మిల్లు కార్మికులు",
+     "సాఫ్ట్‌వేర్ ఇంజనీర్లు",
+     "పోర్చుగీస్ నావికులు",
+     "మ్యూజియం క్యూరేటర్లు"
+    ],
+    "en": [
+     "Textile mill workers",
+     "Software engineers",
+     "Portuguese sailors",
+     "Museum curators"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వడ పావ్ తయారు చేయడం, తీసుకెళ్లడం మరియు తినడం సులభం కాబట్టి ముంబైలోని టెక్స్‌టైల్ మిల్లు కార్మికులలో ప్రాచుర్యం పొందింది.",
+    "en": "Vada Pav became popular among workers in Mumbai's textile mills because it was easy to make, carry, and eat."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T24-0016",
+   "section": {
+    "te": "Early hospital in Sakchi",
+    "en": "Early hospital in Sakchi"
+   },
+   "q": {
+    "te": "ఉక్కు ఉత్పత్తి ప్రారంభం కావడానికి చాలా కాలం ముందే సాక్షి గ్రామంలో ఆసుపత్రిని నిర్మించినది ఎవరు?",
+    "en": "Who built a hospital in the village of Sakchi long before steel production began?"
+   },
+   "options": {
+    "te": [
+     "జమ్‌సెట్జీ టాటా",
+     "సర్ దొరాబ్జీ టాటా",
+     "రతన్ టాటా",
+     "జె.ఆర్.డి. టాటా"
+    ],
+    "en": [
+     "Jamsetji Tata",
+     "Sir Dorabji Tata",
+     "Ratan Tata",
+     "J.R.D. Tata"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఉక్కు ఉత్పత్తి ప్రారంభం కావడానికి ముందే సర్ దొరాబ్జీ టాటా ఆ గ్రామంలో ఒక ఆసుపత్రిని నిర్మించారు.",
+    "en": "Sir Dorabji Tata built a hospital in the village of Sakchi well before steel production started."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T24-0001",
+   "section": {
+    "te": "India's financial centre",
+    "en": "India's financial centre"
+   },
+   "q": {
+    "te": "పశ్చిమ తీరంలో ఉన్న ఏ నగరం భారతదేశపు ఆర్థిక కేంద్రంగా ప్రసిద్ధి చెందింది?",
+    "en": "Which city located on the west coast is known as India's financial centre?"
+   },
+   "options": {
+    "te": [
+     "సూరత్",
+     "చెన్నై",
+     "ముంబై",
+     "కోల్‌కతా"
+    ],
+    "en": [
+     "Surat",
+     "Chennai",
+     "Mumbai",
+     "Kolkata"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వనరు ప్రకారం, పశ్చిమ తీరాన ఉన్న ముంబై నగరం భారతదేశపు ఆర్థిక కేంద్రం.",
+    "en": "Mumbai, located on the west coast, is India's financial centre."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T24-0090",
+   "section": {
+    "te": "Inhabited Villages Count",
+    "en": "Inhabited Villages Count"
+   },
+   "q": {
+    "te": "2011 జనాభా లెక్కల ప్రకారం, భారతదేశంలోని మొత్తం గ్రామాలలో ఎన్ని 'నివసించే గ్రామాలు' (inhabited villages) గా వర్గీకరించబడ్డాయి?",
+    "en": "According to the 2011 Census, how many of the total villages in India are classified as 'inhabited villages'?"
+   },
+   "options": {
+    "te": [
+     "597,608",
+     "640,867",
+     "688,000",
+     "550,000"
+    ],
+    "en": [
+     "597,608",
+     "640,867",
+     "688,000",
+     "550,000"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "2011 జనాభా లెక్కల ప్రకారం భారతదేశంలోని మొత్తం 640,867 గ్రామాలలో, 597,608 (93.2%) నివసించే గ్రామాలు.",
+    "en": "Out of the total 640,867 villages in India, 597,608 (93.2%) are inhabited villages according to the 2011 Census."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T24-0046",
+   "section": {
+    "te": "Jaipur Grid Design",
+    "en": "Jaipur Grid Design"
+   },
+   "q": {
+    "te": "జైపూర్ పట్టణ ప్రణాళికలో, నగరం విభజించబడిన దీర్ఘచతురస్రాకార బ్లాకులను ఏమని పిలుస్తారు?",
+    "en": "In the urban planning of Jaipur, what are the rectangular blocks into which the city was divided called?"
+   },
+   "options": {
+    "te": [
+     "వాస్తు",
+     "పన్నా మీనా",
+     "శిల్ప",
+     "చౌక్రీలు (chowkris)"
+    ],
+    "en": [
+     "Vastu",
+     "Panna Meena",
+     "Shilpa",
+     "Chowkris"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జైపూర్ నగరం గ్రిడ్ నమూనాను ఉపయోగించి రూపొందించబడింది మరియు చౌక్రీలు అని పిలువబడే దీర్ఘచతురస్రాకార బ్లాకులుగా విభజించబడింది.",
+    "en": "The city of Jaipur was designed using a grid pattern and divided into rectangular blocks known as chowkris."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T24-0038",
+   "section": {
+    "te": "Lake Revival Methods",
+    "en": "Lake Revival Methods"
+   },
+   "q": {
+    "te": "బెంగళూరు సరస్సులను పునరుద్ధరించడానికి సంఘాలు ఈ క్రింది ఏ పద్ధతులను ఉపయోగిస్తున్నాయి?",
+    "en": "Which of the following methods are being used by communities to revive Bengaluru's lakes?"
+   },
+   "options": {
+    "te": [
+     "పూడిక తీయడం (Desilting) మరియు కట్టలను మరమ్మతు చేయడం",
+     "డ్రైనేజీ కాలువలను శుభ్రం చేయడం",
+     "స్థానిక మొక్కల జాతులను నాటడం మరియు చేపలను తిరిగి పెంచడం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Desilting and repairing bunds",
+     "Clearing drainage channels",
+     "Planting native plant species and restocking fish",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పూడిక తీయడం, కట్టల మరమ్మత్తు, కాలువలను శుభ్రం చేయడం, స్థానిక జాతులను నాటడం మరియు చేపలను తిరిగి పెంచడం వంటివి పునరుద్ధరణ పద్ధతులుగా పాఠ్యభాగం పేర్కొంది.",
+    "en": "Desilting, bund repair, clearing channels, planting native species, and restocking fish as revival methods."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T24-0113",
+   "section": {
+    "te": "Semi-clustered settlements distribution",
+    "en": "Semi-clustered settlements distribution"
+   },
+   "q": {
+    "te": "పాక్షిక-కేంద్రీకృత లేదా విభజిత నివాసాలు క్రింది ఏ ప్రాంతాలలో విస్తృతంగా ఉన్నాయి?",
+    "en": "Semi-clustered or fragmented settlements are widespread in which of the following regions?"
+   },
+   "options": {
+    "te": [
+     "మధ్య మరియు దిగువ గంగా మైదానం",
+     "బుందేల్‌ఖండ్ మరియు నాగాలాండ్",
+     "గుజరాత్ మైదానం మరియు రాజస్థాన్‌లోని కొన్ని ప్రాంతాలు",
+     "మేఘాలయ మరియు హిమాచల్ ప్రదేశ్"
+    ],
+    "en": [
+     "Middle and lower Ganga plain",
+     "Bundelkhand and Nagaland",
+     "Gujarat plain and some parts of Rajasthan",
+     "Meghalaya and Himachal Pradesh"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాక్షిక-కేంద్రీకృత లేదా విభజిత నివాసాలు గుజరాత్ మైదానం మరియు రాజస్థాన్‌లోని కొన్ని ప్రాంతాలలో విస్తృతంగా కనిపిస్తాయి.",
+    "en": "Semi-clustered or fragmented settlements are widespread in the Gujarat plain and some parts of Rajasthan."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T24-0105",
+   "section": {
+    "te": "Compact settlements cause",
+    "en": "Compact settlements cause"
+   },
+   "q": {
+    "te": "రాజస్థాన్‌లో, క్రింది ఏ అంశం కేంద్రీకృత (కాంపాక్ట్) నివాసాలు ఏర్పడటానికి దారితీసింది?",
+    "en": "In Rajasthan, which of the following factors has necessitated the formation of compact settlements?"
+   },
+   "options": {
+    "te": [
+     "కఠినమైన కుల ఆధారిత విభజన",
+     "దొంగతనాలు మరియు దోపిడీల నుండి రక్షణ",
+     "అందుబాటులో ఉన్న నీటి వనరులను గరిష్టంగా వినియోగించుకోవడానికి నీటి కొరత",
+     "భూభాగం యొక్క విచ్ఛిన్న స్వభావం"
+    ],
+    "en": [
+     "Strict caste-based segregation",
+     "Defence against thefts and robberies",
+     "Scarcity of water for maximum utilisation of available resources",
+     "Fragmented nature of terrain"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అందుబాటులో ఉన్న నీటి వనరులను గరిష్టంగా వినియోగించుకోవడానికి నీటి కొరత కారణంగా రాజస్థాన్‌లో కేంద్రీకృత నివాసాలు ఏర్పడ్డాయి.",
+    "en": "In Rajasthan, scarcity of water has necessitated compact settlement for maximum utilisation of available water resources."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T24-0056",
+   "section": {
+    "te": "Singapore Transport",
+    "en": "Singapore Transport"
+   },
+   "q": {
+    "te": "కార్లపై ఆధారపడటాన్ని తగ్గించడానికి రూపొందించబడిన సింగపూర్ మాస్ పబ్లిక్ ట్రాన్స్‌పోర్ట్ సిస్టమ్‌లో ఈ క్రింది వాటిలో ఏవి భాగాలు?",
+    "en": "Which of the following are components of Singapore's mass public transport system designed to reduce reliance on cars?"
+   },
+   "options": {
+    "te": [
+     "రైలు మరియు బస్సులు",
+     "సైక్లింగ్ మార్గాలు",
+     "పచ్చని నడక కారిడార్లు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Rail and buses",
+     "Cycling paths",
+     "Green walking corridors",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సింగపూర్ రవాణా వ్యవస్థ పబ్లిక్ ట్రాన్సిట్ మరియు నడకను ప్రోత్సహించడానికి రైలు, బస్సులు, సైక్లింగ్ మార్గాలు మరియు నడక కారిడార్లను అనుసంధానిస్తుంది.",
+    "en": "Singapore's transport system integrates rail, buses, cycling paths, and walking corridors to encourage public transit and walking."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T24-0115",
+   "section": {
+    "te": "European Trading Ports",
+    "en": "European Trading Ports"
+   },
+   "q": {
+    "te": "బ్రిటిషర్లు మరియు ఇతర యూరోపియన్లు భారతదేశ తీర ప్రాంతాలలో క్రింది ఏ వ్యాపార రేవులను (ట్రేడింగ్ పోర్టులను) అభివృద్ధి చేశారు?",
+    "en": "Which of the following trading ports were developed by the British and other Europeans on coastal locations in India?"
+   },
+   "options": {
+    "te": [
+     "సూరత్",
+     "డామన్",
+     "గోవా",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Surat",
+     "Daman",
+     "Goa",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "తీర ప్రాంతాలలో పట్టు సాధిస్తూ, బ్రిటిషర్లు మరియు ఇతర యూరోపియన్లు మొదట సూరత్, డామన్, గోవా, పాండిచ్చేరి వంటి వ్యాపార రేవులను అభివృద్ధి చేశారు.",
+    "en": "Starting their foothold on coastal locations, the British and other Europeans developed trading ports such as Surat, Daman, Goa, and Pondicherry."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T24-0107",
+   "section": {
+    "te": "Hamleted settlement units",
+    "en": "Hamleted settlement units"
+   },
+   "q": {
+    "te": "స్థానికంగా 'పన్నా', 'పారా', 'పల్లి', 'నగ్లా' మరియు 'ధాని' అని పిలువబడే విభాగాలు ఏ రకమైన గ్రామీణ నివాసాలతో సంబంధం కలిగి ఉన్నాయి?",
+    "en": "Units locally known as 'Panna', 'Para', 'Palli', 'Nagla', and 'Dhani' are associated with which type of rural settlement?"
+   },
+   "options": {
+    "te": [
+     "కుగ్రామ నివాసాలు (హామ్లెటెడ్ సెటిల్‌మెంట్స్)",
+     "కేంద్రీకృత నివాసాలు (క్లస్టర్డ్ సెటిల్‌మెంట్స్)",
+     "చెల్లాచెదురైన నివాసాలు (డిస్పర్స్‌డ్ సెటిల్‌మెంట్స్)",
+     "వివిక్త నివాసాలు (ఐసోలేటెడ్ సెటిల్‌మెంట్స్)"
+    ],
+    "en": [
+     "Hamleted settlements",
+     "Clustered settlements",
+     "Dispersed settlements",
+     "Isolated settlements"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "కుగ్రామ నివాసాలలో (హామ్లెటెడ్ సెటిల్‌మెంట్స్) ఉమ్మడి పేరు కలిగి భౌతికంగా వేరు చేయబడిన విభాగాలను స్థానికంగా పన్నా, పారా, పల్లి, నగ్లా, ధాని అని పిలుస్తారు.",
+    "en": "In hamleted settlements, the fragmented units physically separated from each other bearing a common name are locally called panna, para, palli, nagla, dhani, etc."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T24-0098",
+   "section": {
+    "te": "Social Relations in Settlements",
+    "en": "Social Relations in Settlements"
+   },
+   "q": {
+    "te": "నివాసాలలో సామాజిక సంబంధాలకు సంబంధించి, కింది ప్రకటనలను పరిశీలించండి:\n1. పట్టణ నివాసులతో పోలిస్తే గ్రామీణ ప్రజలు ఎక్కువ చలనశీలత (mobile) కలిగి ఉంటారు.\n2. గ్రామీణ ప్రాంతాల్లో సామాజిక సంబంధాలు సన్నిహితంగా ఉంటాయి.\n3. పట్టణ సామాజిక సంబంధాలు అధికారికంగా (formal) ఉంటాయి మరియు జీవన విధానం సంక్లిష్టంగా ఉంటుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Regarding social relationships in settlements, consider the following statements:\n1. Rural people are more mobile compared to urban dwellers.\n2. Social relations are intimate in rural areas.\n3. Urban social relations are formal and the way of life is complex.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "గ్రామీణ ప్రజలు 'తక్కువ చలనశీలత' కలిగి ఉంటారని పాఠ్య భాగం పేర్కొన్నందున ప్రకటన 1 తప్పు. ప్రకటనలు 2 మరియు 3 గ్రామీణ మరియు పట్టణ ప్రాంతాల సామాజిక స్వభావాన్ని సరిగ్గా వివరిస్తాయి.",
+    "en": "Statement 1 is false because the text states rural people are 'less mobile'. Statements 2 and 3 correctly describe the social nature of rural and urban areas."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T24-0077",
+   "section": {
+    "te": "Transport and Communication",
+    "en": "Transport and Communication"
+   },
+   "q": {
+    "te": "ఒక ప్రాంతంలోని రవాణా మరియు సమాచార సాధనాలు మరియు వాటి సాంద్రతను ఈ క్రింది ఏ అంశాలు నేరుగా ప్రభావితం చేస్తాయి?",
+    "en": "Which of the following factors directly influence the means and density of transport and communication in an area?"
+   },
+   "options": {
+    "te": [
+     "భూస్వరూపం (Relief) మరియు జనాభా",
+     "ప్రాంతం యొక్క పరిమాణం",
+     "వనరుల అభివృద్ధి నమూనా",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Relief and population",
+     "Size of the area",
+     "Resource development pattern",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూస్వరూపం, జనాభా, పరిమాణం మరియు వనరుల అభివృద్ధి నమూనా అన్నీ రవాణా మరియు సమాచార ప్రసారాన్ని నేరుగా ప్రభావితం చేస్తాయని పాఠ్యం పేర్కొంది.",
+    "en": "Relief, population, size, and resource development pattern all directly influence transport and communication."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T24-0036",
+   "section": {
+    "te": "Polluted Bengaluru Lakes",
+    "en": "Polluted Bengaluru Lakes"
+   },
+   "q": {
+    "te": "బెంగళూరులోని ఏ సరస్సులు నురుగుతో నిండిపోయి, మంటలు కూడా అంటుకున్నాయని ప్రత్యేకంగా పేర్కొనబడ్డాయి?",
+    "en": "Which of the following Bengaluru lakes are specifically mentioned for being covered in foam and even catching fire?"
+   },
+   "options": {
+    "te": [
+     "యలహంక మరియు బెల్లందూర్",
+     "వర్తూర్ మరియు యలహంక",
+     "బెల్లందూర్ మరియు వర్తూర్",
+     "అల్సూర్ మరియు వర్తూర్"
+    ],
+    "en": [
+     "Yelahanka and Bellandur",
+     "Varthur and Yelahanka",
+     "Bellandur and Varthur",
+     "Ulsoor and Varthur"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "బెల్లందూర్ మరియు వర్తూర్ సరస్సులు విపరీతమైన కాలుష్యానికి ఉదాహరణలుగా పేర్కొనబడ్డాయి, ఇక్కడ అవి మంటలు అంటుకుని విష వాయువులను విడుదల చేశాయి.",
+    "en": "Bellandur and Varthur lakes are cited as examples of extreme pollution where they caught fire and released toxic gases."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T24-0121",
+   "section": {
+    "te": "Post-Independence Administrative Towns",
+    "en": "Post-Independence Administrative Towns"
+   },
+   "q": {
+    "te": "స్వాతంత్ర్యం తర్వాత పరిపాలనా ప్రధాన కేంద్రాలుగా (అడ్మినిస్ట్రేటివ్ హెడ్‌క్వార్టర్స్‌గా) అభివృద్ధి చేయబడిన పట్టణాలు క్రింది వాటిలో ఏవి?",
+    "en": "Which of the following towns were developed as administrative headquarters after independence?"
+   },
+   "options": {
+    "te": [
+     "చండీగఢ్",
+     "భువనేశ్వర్",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Chandigarh",
+     "Bhubaneswar",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "స్వాతంత్ర్యం వచ్చిన తర్వాత చండీగఢ్, భువనేశ్వర్, గాంధీనగర్ మరియు దిస్పూర్ వంటి పట్టణాలు పరిపాలనా ప్రధాన కేంద్రాలుగా అభివృద్ధి చేయబడ్డాయి.",
+    "en": "Chandigarh, Bhubaneswar, Gandhinagar, and Dispur were developed as administrative headquarters after independence."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T24-0055",
+   "section": {
+    "te": "Singapore Mixed-use Spaces",
+    "en": "Singapore Mixed-use Spaces"
+   },
+   "q": {
+    "te": "సింగపూర్ పట్టణ ప్రణాళికలో, ఇళ్లు, కార్యాలయాలు మరియు వినోద ప్రదేశాలు సమీపంలో ఉండే ప్రాంతాలకు ఏ పదాన్ని ఉపయోగిస్తారు?",
+    "en": "In Singapore's urban planning, what term is used for areas where homes, offices, and recreational spaces exist nearby?"
+   },
+   "options": {
+    "te": [
+     "బ్లూ జోన్‌లు",
+     "నిలువు తోటలు",
+     "చౌక్రీలు",
+     "మిశ్రమ వినియోగ ప్రదేశాలు (mixed-use spaces)"
+    ],
+    "en": [
+     "Blue zones",
+     "Vertical gardens",
+     "Chowkris",
+     "Mixed-use spaces"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నివాస, వాణిజ్య మరియు వినోద ప్రాంతాలు ఒకదానికొకటి దగ్గరగా ఉండేలా చూడటానికి సింగపూర్ మిశ్రమ వినియోగ ప్రదేశాలను ప్రోత్సహిస్తుంది.",
+    "en": "Singapore promotes mixed-use spaces to ensure that residential, commercial, and recreational areas are located close to each other."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T24-0044",
+   "section": {
+    "te": "Durga Puja Season",
+    "en": "Durga Puja Season"
+   },
+   "q": {
+    "te": "కోల్‌కతాలో ఐదు రోజుల దుర్గాపూజ పండుగ ఏ కాలంలో జరుగుతుంది?",
+    "en": "In which season does the five-day Durga Puja festival take place in Kolkata?"
+   },
+   "options": {
+    "te": [
+     "వసంత కాలం",
+     "శరదృతువు (Autumn)",
+     "వేసవి కాలం",
+     "శీతాకాలం"
+    ],
+    "en": [
+     "Spring",
+     "Autumn",
+     "Summer",
+     "Winter"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కోల్‌కతాలో దుర్గాపూజ పండుగ ప్రతి సంవత్సరం శరదృతువులో జరుగుతుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text specifies that the Durga Puja festival in Kolkata takes place every autumn."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T24-0017",
+   "section": {
+    "te": "Origin of Jamshedpur",
+    "en": "Origin of Jamshedpur"
+   },
+   "q": {
+    "te": "జంషెడ్‌పూర్ నగరానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. సాక్షి అనేది ఛోటానాగ్‌పూర్ పీఠభూమిలో ఉన్న ఒక చిన్న గ్రామం.\n2. సమృద్ధిగా ఉన్న ఇనుప ఖనిజ నిక్షేపాలు సమీపంలో ఉన్నందున, ఇది ఆసియాలోనే మొదటి ఉక్కు కర్మాగార ఏర్పాటుకు ఎంపిక చేయబడింది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the city of Jamshedpur:\n1. Sakchi was a small village located in the Chota Nagpur Plateau.\n2. It was chosen as the site for Asia’s first steel plant due to its proximity to rich iron ore deposits.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రెండు ప్రకటనలు సరైనవే. ఛోటానాగ్‌పూర్ పీఠభూమిలోని సాక్షి గ్రామం వద్ద సమృద్ధిగా ఇనుప ఖనిజం లభించడంతో ఆసియాలోనే తొలి ఉక్కు కర్మాగారాన్ని అక్కడ ఏర్పాటు చేశారు.",
+    "en": "Both statements are correct as Sakchi was a village in the Chota Nagpur Plateau chosen for Asia's first steel plant because of its proximity to iron ore deposits."
+   }
+  }
+ ]
+}

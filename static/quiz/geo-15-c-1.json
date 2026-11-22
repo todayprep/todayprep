@@ -1,0 +1,942 @@
+{
+ "id": "geo-15-c-1",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Northern Plains – క్విజ్ 1",
+  "en": "Northern Plains – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T15-0045",
+   "section": {
+    "te": "Northeast Hills Features",
+    "en": "Northeast Hills Features"
+   },
+   "q": {
+    "te": "ఈశాన్య కొండలు (మేఘాలయ పీఠభూమి) ఈ క్రింది ఏ లక్షణాలకు ప్రసిద్ధి చెందాయి?",
+    "en": "The hills of the Northeast (Meghalaya Plateau) are known for which of the following features?"
+   },
+   "options": {
+    "te": [
+     "పచ్చని ప్రకృతి",
+     "భారీ వర్షపాతం",
+     "అద్భుతమైన జలపాతాలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Lush greenery",
+     "Heavy rainfall",
+     "Breathtaking waterfalls",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మేఘాలయ పీఠభూమిలోని కొండలు పచ్చని ప్రకృతి, భారీ వర్షపాతం మరియు జలపాతాలకు ప్రసిద్ధి చెందాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The hills of the Meghalaya Plateau are known for lush greenery, heavy rainfall, and waterfalls."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T15-0062",
+   "section": {
+    "te": "Plateau Black Soil",
+    "en": "Plateau Black Soil"
+   },
+   "q": {
+    "te": "ద్వీపకల్ప పీఠభూమిలోని ఏ భాగంలో నల్ల రేగడి మట్టి (black soil) ఎక్కువగా కనిపిస్తుంది?",
+    "en": "In which part of the Peninsular plateau is black soil emphatically present?"
+   },
+   "options": {
+    "te": [
+     "ఉత్తర మరియు తూర్పు",
+     "పశ్చిమ మరియు వాయువ్య",
+     "మధ్య మరియు దక్షిణ",
+     "తూర్పు మరియు దక్షిణ"
+    ],
+    "en": [
+     "Northern and Eastern",
+     "Western and Northwestern",
+     "Central and Southern",
+     "Eastern and Southern"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, పీఠభూమి యొక్క పశ్చిమ మరియు వాయువ్య భాగాలలో నల్ల రేగడి మట్టి ఎక్కువగా ఉంటుంది.",
+    "en": "Black soil is emphatically present in the western and northwestern parts of the plateau."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T15-0031",
+   "section": {
+    "te": "Plateau Waterfalls",
+    "en": "Plateau Waterfalls"
+   },
+   "q": {
+    "te": "భారతీయ పీఠభూమి ప్రాంతంలో కనిపించే జలపాతాల వల్ల కలిగే ప్రయోజనాలు ఏమిటి?",
+    "en": "What are the benefits of waterfalls found in the Indian plateau region?"
+   },
+   "options": {
+    "te": [
+     "జలవిద్యుత్ ఉత్పత్తి",
+     "సాగునీటి సరఫరా",
+     "పర్యాటకులను ఆకర్షించడం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Hydroelectric power generation",
+     "Water for irrigation",
+     "Attracting tourists",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జలపాతాలు పర్యాటకులను ఆకర్షిస్తాయని, జలవిద్యుత్ ఉత్పత్తికి సహాయపడతాయని మరియు సాగునీటిని అందిస్తాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Waterfalls attract tourists, help in hydroelectric power generation, and provide water for irrigation."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T15-0103",
+   "section": {
+    "te": "Malabar Coast Traditions",
+    "en": "Malabar Coast Traditions"
+   },
+   "q": {
+    "te": "కేరళలోని ఏ నిర్దిష్ట 'కాయల్'లో ప్రతి సంవత్సరం ప్రసిద్ధ నెహ్రూ ట్రోఫీ వల్లంకలి (పడవ పందెం) నిర్వహిస్తారు?",
+    "en": "In which specific 'Kayal' of Kerala is the famous Nehru Trophy Vallamkali (boat race) held every year?"
+   },
+   "options": {
+    "te": [
+     "చిలికా సరస్సు",
+     "పున్నమడ కాయల్",
+     "వెంబనాడ్ కాయల్",
+     "అష్టముడి కాయల్"
+    ],
+    "en": [
+     "Chilika Lake",
+     "Punnamada Kayal",
+     "Vembanad Kayal",
+     "Ashtamudi Kayal"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "నెహ్రూ ట్రోఫీ పడవ పందెం కేరళలోని పున్నమడ కాయల్‌లో జరుగుతుంది.",
+    "en": "The Nehru Trophy boat race is held in the Punnamada Kayal in Kerala."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T15-0041",
+   "section": {
+    "te": "Peninsular Composition",
+    "en": "Peninsular Composition"
+   },
+   "q": {
+    "te": "భారత ద్వీపకల్పంలో ప్రధాన భాగాన్ని ఏర్పరిచే ప్రాథమిక శిలల రకాలు ఏవి?",
+    "en": "What are the primary rock types that form the major part of the Indian Peninsula?"
+   },
+   "options": {
+    "te": [
+     "ఇసుక రాయి మరియు షేల్",
+     "మార్బుల్ మరియు స్లేట్",
+     "పురాతన నీస్ (gneisses) మరియు గ్రానైట్",
+     "బసాల్ట్ మరియు క్వార్ట్‌జైట్"
+    ],
+    "en": [
+     "Sandstone and Shale",
+     "Marble and Slate",
+     "Ancient gneisses and granites",
+     "Basalt and Quartzite"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారత ద్వీపకల్పం ప్రధానంగా పురాతన నీస్ మరియు గ్రానైట్ శిలల సముదాయంతో నిర్మితమైంది.",
+    "en": "The Indian Peninsula is essentially composed of a complex of very ancient gneisses and granites."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T15-0012",
+   "section": {
+    "te": "Ganga Plain Food Crops",
+    "en": "Ganga Plain Food Crops"
+   },
+   "q": {
+    "te": "గంగా మైదానంలో పండించే ఆహార పంటగా ఈ క్రింది వాటిలో ఏది పేర్కొనబడలేదు?",
+    "en": "Which of the following is NOT mentioned as a food crop grown in the Ganga plain?"
+   },
+   "options": {
+    "te": [
+     "కాఫీ",
+     "మొక్కజొన్న",
+     "గోధుమ",
+     "వరి"
+    ],
+    "en": [
+     "Coffee",
+     "Maize",
+     "Wheat",
+     "Rice"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యాంశం వరి, గోధుమ, మొక్కజొన్న, బార్లీ మరియు చిరుధాన్యాలను ఆహార పంటలుగా జాబితా చేసింది, కానీ కాఫీని పేర్కొనలేదు.",
+    "en": "The text lists rice, wheat, maize, barley, and millets as food crops, but does not mention coffee."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T15-0074",
+   "section": {
+    "te": "River Tributaries",
+    "en": "River Tributaries"
+   },
+   "q": {
+    "te": "పశ్చిమాన ఉన్న ఆరావళి పర్వత శ్రేణుల నుండి ఉద్భవించే చంబల్ నది యొక్క ముఖ్యమైన ఉపనది ఏది?",
+    "en": "Which significant tributary of the river Chambal originates from the Aravalli range in the west?"
+   },
+   "options": {
+    "te": [
+     "బనాస్",
+     "భింద్",
+     "కైమూర్",
+     "యమునా"
+    ],
+    "en": [
+     "Banas",
+     "Bhind",
+     "Kaimur",
+     "Yamuna"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఆరావళి కొండలలో జన్మించే చంబల్ నది యొక్క ఏకైక ప్రధాన ఉపనది బనాస్.",
+    "en": "Banas is the only major tributary of the Chambal river that has its origin in the Aravalli hills."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T15-0090",
+   "section": {
+    "te": "Malabar Coast Features",
+    "en": "Malabar Coast Features"
+   },
+   "q": {
+    "te": "మలబార్ తీరం యొక్క ప్రత్యేక లక్షణమైన 'కాయల్స్' (Kayals) అంటే ఏమిటి?",
+    "en": "What are 'Kayals', a distinguishing feature of the Malabar coast?"
+   },
+   "options": {
+    "te": [
+     "పగడపు దిబ్బలు",
+     "పర్వత శిఖరాలు",
+     "ఇసుక దిబ్బలు",
+     "బ్యాక్ వాటర్స్ (Backwaters)"
+    ],
+    "en": [
+     "Coral reefs",
+     "Mountain peaks",
+     "Sand dunes",
+     "Backwaters"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మలబార్ తీరంలో కనిపించే 'కాయల్స్' అంటే బ్యాక్ వాటర్స్ అని, వీటిని చేపల వేట మరియు నావిగేషన్ కోసం ఉపయోగిస్తారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "'Kayals' are backwaters found on the Malabar coast, used for fishing and navigation."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T15-0001",
+   "section": {
+    "te": "Ganga Plain Population",
+    "en": "Ganga Plain Population"
+   },
+   "q": {
+    "te": "భారతదేశ మొత్తం జనాభాలో నాలుగింట ఒక వంతు కంటే ఎక్కువ మంది నివసించే గంగా మైదానంలో సుమారు ఎంత మంది జనాభా ఉన్నారు?",
+    "en": "Approximately how many people live in India's Ganga plain, representing more than one-fourth of the total Indian population?"
+   },
+   "options": {
+    "te": [
+     "20 కోట్లు",
+     "40 కోట్లు",
+     "30 కోట్లు",
+     "50 కోట్లు"
+    ],
+    "en": [
+     "20 crore",
+     "40 crore",
+     "30 crore",
+     "50 crore"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, గంగా మైదానంలో సుమారు 40 కోట్ల మంది ప్రజలు నివసిస్తున్నారు, ఇది భారతదేశ మొత్తం జనాభాలో నాలుగింట ఒక వంతు కంటే ఎక్కువ.",
+    "en": "About 40 crore people live in the Ganga plain, which is more than one-fourth of India's total population."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T15-0085",
+   "section": {
+    "te": "Western Ghats Features",
+    "en": "Western Ghats Features"
+   },
+   "q": {
+    "te": "పశ్చిమ కనుమలకు సంబంధించి ఈ క్రింది ప్రకటనలలో ఏది సరైనది?",
+    "en": "Regarding the Western Ghats, which of the following statements is correct?"
+   },
+   "options": {
+    "te": [
+     "వాటి ఎత్తు ఉత్తరం నుండి దక్షిణం వైపుకు తగ్గుతుంది.",
+     "వాటి సగటు ఎత్తు సుమారు 900 మీటర్లు.",
+     "వాటి ఎత్తు ఉత్తరం నుండి దక్షిణం వైపుకు పెరుగుతుంది.",
+     "అవి బాగా క్షీణించి (eroded) మరియు విచ్ఛిన్నంగా ఉన్నాయి."
+    ],
+    "en": [
+     "Their height decreases from north to south.",
+     "Their average elevation is about 900 m.",
+     "Their height increases from north to south.",
+     "They are highly eroded and discontinuous."
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పశ్చిమ కనుమల సగటు ఎత్తు 1,500 మీటర్లు, మరియు తూర్పు కనుమల వలె కాకుండా, ఉత్తరం నుండి దక్షిణం వైపుకు వెళ్లేకొద్దీ వాటి ఎత్తు పెరుగుతుంది.",
+    "en": "The Western Ghats have an average elevation of 1,500 m, and unlike the Eastern Ghats, their height increases as one moves from north to south."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T15-0078",
+   "section": {
+    "te": "Desert Fossils",
+    "en": "Desert Fossils"
+   },
+   "q": {
+    "te": "భారతీయ ఎడారి ప్రాంతంలోని ఆకల్ (Aakal) వద్ద లభించిన చెక్క శిలాజాల సుమారు వయస్సు ఎంత?",
+    "en": "What is the estimated approximate age of the wood fossils found at Aakal in the Indian desert region?"
+   },
+   "options": {
+    "te": [
+     "180 మిలియన్ సంవత్సరాలు",
+     "64 మిలియన్ సంవత్సరాలు",
+     "300 మిలియన్ సంవత్సరాలు",
+     "150 మిలియన్ సంవత్సరాలు"
+    ],
+    "en": [
+     "180 million years",
+     "64 million years",
+     "300 million years",
+     "150 million years"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రాంతం యొక్క భౌగోళిక చరిత్రకు ఆధారాలను అందించే ఆకల్ వద్ద ఉన్న చెక్క శిలాజాల వయస్సు సుమారు 180 మిలియన్ సంవత్సరాలుగా అంచనా వేయబడింది.",
+    "en": "The wood fossils at Aakal, which provide evidence of the region's geological history, are estimated to be about 180 million years old."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T15-0099",
+   "section": {
+    "te": "Andaman and Nicobar Origin",
+    "en": "Andaman and Nicobar Origin"
+   },
+   "q": {
+    "te": "అండమాన్ మరియు నికోబార్ ద్వీప సమూహం యొక్క మూలం ఏమిటని నమ్ముతారు?",
+    "en": "What is the believed origin of the Andaman and Nicobar island group?"
+   },
+   "options": {
+    "te": [
+     "పూర్తిగా పగడపు నిక్షేపాలతో నిర్మించబడింది",
+     "సముద్రగర్భ పర్వతాల యొక్క ఎత్తైన భాగం",
+     "నదీ అవక్షేపాలతో ఏర్పడింది",
+     "ద్వీపకల్ప పీఠభూమిలో భాగం"
+    ],
+    "en": [
+     "Entirely built of coral deposits",
+     "Elevated portion of submarine mountains",
+     "Formed by river sediments",
+     "Part of the Peninsular plateau"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అండమాన్ మరియు నికోబార్ ద్వీపాలు సముద్రగర్భ పర్వతాల యొక్క ఎత్తైన భాగమని నమ్ముతారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The Andaman and Nicobar islands are believed to be an elevated portion of submarine mountains."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T15-0060",
+   "section": {
+    "te": "Crops of Northern Plains",
+    "en": "Crops of Northern Plains"
+   },
+   "q": {
+    "te": "ఉత్తర నదీ లోయ మైదానాల సారవంతమైన ఒండ్రు మట్టిలో పండే పంటలు ఏవి?\nA. గోధుమ మరియు వరి\nB. చెరకు\nC. జనపనార",
+    "en": "Which of the following crops are supported by the fertile alluvial soil of the northern river valley plains?\nA. Wheat and Rice\nB. Sugarcane\nC. Jute"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "A and C only",
+     "B and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఈ మైదానాల సారవంతమైన ఒండ్రు మట్టిలో గోధుమ, వరి, చెరకు మరియు జనపనార పంటలు పండుతాయని పాఠ్యభాగం స్పష్టంగా పేర్కొంది.",
+    "en": "Wheat, rice, sugarcane, and jute as crops supported by the fertile alluvial soil of these plains."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T15-0056",
+   "section": {
+    "te": "Bhabar Characteristics",
+    "en": "Bhabar Characteristics"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): పర్వతాల నుండి వచ్చే ప్రవాహాలు మరియు నదులు తరచుగా భాబర్ మండలంలో అదృశ్యమవుతాయి.\nకారణం (R): భాబర్ అనేది వాలు తగ్గే చోట రాళ్ళు మరియు బండరాళ్ల వంటి భారీ పదార్థాలు నిక్షిప్తమయ్యే ఇరుకైన బెల్ట్.",
+    "en": "Assertion (A): Streams and rivers coming from the mountains often disappear in the Bhabar zone.\nReason (R): The Bhabar is a narrow belt where heavy materials like rocks and boulders are deposited at the break-up of the slope."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భాబర్ మండలంలో రాళ్ళు మరియు బండరాళ్ల భారీ నిక్షేపాలు రంధ్రాలతో కూడిన పొరను ఏర్పరుస్తాయి, దీని ద్వారా నీరు భూగర్భంలో ప్రవహించడం వల్ల నదులు అదృశ్యమవుతాయి.",
+    "en": "Rivers disappear in the Bhabar because the heavy deposits of rocks and boulders create a porous layer through which water flows underground."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T15-0044",
+   "section": {
+    "te": "Peninsular Rigidity",
+    "en": "Peninsular Rigidity"
+   },
+   "q": {
+    "te": "నిశ్చయం (A): కాంబ్రియన్ కాలం నుండి, ద్వీపకల్పం ఒక దృఢమైన బ్లాక్ వలె నిలిచి ఉంది.\nకారణం (R): టెక్టోనిక్ కార్యకలాపాలు లేదా నిలువు కదలికల వల్ల ఇది ఎటువంటి మార్పులకు లోనుకాలేదు.",
+    "en": "Assertion (A): Since the Cambrian period, the Peninsula has been standing like a rigid block.\nReason (R): It has undergone no changes due to tectonic activity or vertical movements."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ.",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు.",
+     "A నిజం కానీ R తప్పు.",
+     "A తప్పు కానీ R నిజం."
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A.",
+     "Both A and R are true but R is not the correct explanation of A.",
+     "A is true but R is false.",
+     "A is false but R is true."
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం నిశ్చయం (A) నిజం. అయితే, కొన్ని భాగాలలో నిలువు కదలికలు మరియు టెక్టోనిక్ కార్యకలాపాలకు లోనైందని పాఠ్యభాగం పేర్కొన్నందున కారణం (R) తప్పు.",
+    "en": "Assertion A is true as per the text. However, Reason R is false because the text mentions it was subjected to vertical movements and tectonic activity in some parts."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T15-0075",
+   "section": {
+    "te": "Plateau Formation",
+    "en": "Plateau Formation"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): మేఘాలయ మరియు కర్బీ ఆంగ్లాంగ్ పీఠభూమి ప్రధాన ద్వీపకల్ప బ్లాక్ నుండి విడిపోయి ఉన్నాయి.\nకారణం (R): హిమాలయాల ఆవిర్భావ సమయంలో భారతీయ ప్లేట్ ఈశాన్య దిశగా కదలడం వల్ల రాజమహల్ కొండలు మరియు మేఘాలయ పీఠభూమి మధ్య ఒక భారీ భ్రంశం ఏర్పడింది.",
+    "en": "Assertion (A): The Meghalaya and Karbi Anglong plateau stand detached from the main Peninsular Block.\nReason (R): A huge fault was created between the Rajmahal hills and the Meghalaya plateau due to the northeastward movement of the Indian plate."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "హిమాలయాల ఆవిర్భావ సమయంలో భారతీయ ప్లేట్ ఈశాన్య దిశగా కదలడం వల్ల ఏర్పడిన భ్రంశం మేఘాలయ పీఠభూమిని ప్రధాన బ్లాక్ నుండి వేరు చేసింది.",
+    "en": "The northeastward movement of the Indian plate during the Himalayan origin created a fault that separated the Meghalaya plateau from the main block."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T15-0059",
+   "section": {
+    "te": "Northern Plain Formation",
+    "en": "Northern Plain Formation"
+   },
+   "q": {
+    "te": "ఇండో-గంగా-బ్రహ్మపుత్ర మైదానాల ఏర్పాటుకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది మొదట భూ-సన్నతి లోయ (geo-synclinal depression).\n2. ఇది సుమారు 64 మిలియన్ సంవత్సరాల క్రితం గరిష్ట అభివృద్ధిని సాధించింది.\n3. ఇది హిమాలయ మరియు ద్వీపకల్ప నదులు రెండింటి నుండి వచ్చిన అవక్షేపాలతో నిండిపోయింది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about the formation of the Indo-Ganga-Brahmaputra plain:\n1. It was originally a geo-synclinal depression.\n2. It attained maximum development about 64 million years ago.\n3. It has been filled by sediments from both Himalayan and Peninsular rivers.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఉత్తర మైదానాల పుట్టుక మరియు నింపడానికి సంబంధించి పాఠ్యభాగం ప్రకారం మూడు ప్రకటనలు సరైనవే.",
+    "en": "All three statements are correct according to the text regarding the origin and filling of the northern plains."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T15-0061",
+   "section": {
+    "te": "Northern Plain Elevation",
+    "en": "Northern Plain Elevation"
+   },
+   "q": {
+    "te": "సముద్ర మట్టానికి పైన ఉత్తర మైదానాల సాధారణ ఎత్తు ఎంత?",
+    "en": "What is the general elevation of the northern plains above the mean sea level?"
+   },
+   "options": {
+    "te": [
+     "50-150 మీటర్లు",
+     "300-500 మీటర్లు",
+     "150-300 మీటర్లు",
+     "0-50 మీటర్లు"
+    ],
+    "en": [
+     "50-150 m",
+     "300-500 m",
+     "150-300 m",
+     "0-50 m"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఉత్తర మైదానం సముద్ర మట్టానికి 50-150 మీటర్ల సాధారణ ఎత్తును కలిగి ఉంటుందని పాఠ్యభాగం వివరిస్తుంది.",
+    "en": "The text describes the northern plain as having a general elevation of 50-150 meters above the mean sea level."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T15-0093",
+   "section": {
+    "te": "Lakshadweep Islands",
+    "en": "Lakshadweep Islands"
+   },
+   "q": {
+    "te": "లక్షద్వీప్ ద్వీప సమూహంలో, మొత్తం సుమారు 36 ద్వీపాలలో ఎన్ని ద్వీపాలలో జనాభా నివసిస్తున్నారు?",
+    "en": "In the Lakshadweep island group, how many islands are inhabited out of the total approximately 36 islands?"
+   },
+   "options": {
+    "te": [
+     "5",
+     "36",
+     "11",
+     "21"
+    ],
+    "en": [
+     "5",
+     "36",
+     "11",
+     "21"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "లక్షద్వీప్ సమూహంలో సుమారు 36 ద్వీపాలు ఉన్నాయని, వాటిలో 11 ద్వీపాలలో జనాభా నివసిస్తున్నారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text specifies that there are approximately 36 islands in the Lakshadweep group, and 11 of them are inhabited."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T15-0077",
+   "section": {
+    "te": "Plateau Relief",
+    "en": "Plateau Relief"
+   },
+   "q": {
+    "te": "ద్వీపకల్ప పీఠభూమి యొక్క వాయువ్య భాగంలో ఉన్న లోతైన లోయలకు (ravines) ప్రసిద్ధ ఉదాహరణలు ఏవి?\nA. చంబల్\nB. భింద్\nC. మోరెనా",
+    "en": "Which of the following are well-known examples of ravines in the northwestern part of the Peninsular plateau?\nA. Chambal\nB. Bhind\nC. Morena"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వాయువ్య పీఠభూమిలోని లోతైన లోయలకు చంబల్, భింద్ మరియు మోరెనాలను వచనం స్పష్టంగా ఉదాహరణలుగా పేర్కొంది.",
+    "en": "The text explicitly lists Chambal, Bhind, and Morena as well-known examples of ravines in the northwestern plateau."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T15-0026",
+   "section": {
+    "te": "Island locations",
+    "en": "Island locations"
+   },
+   "q": {
+    "te": "అండమాన్ మరియు నికోబార్ ద్వీపాలు ఏ జలభాగంలో ఉన్నాయి?",
+    "en": "In which water body are the Andaman and Nicobar Islands located?"
+   },
+   "options": {
+    "te": [
+     "అరేబియా సముద్రం",
+     "బంగాళాఖాతం",
+     "హిందూ మహాసముద్రం",
+     "మన్నార్ సింధుశాఖ"
+    ],
+    "en": [
+     "Arabian Sea",
+     "Bay of Bengal",
+     "Indian Ocean",
+     "Gulf of Mannar"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అండమాన్ మరియు నికోబార్ ద్వీపాలు బంగాళాఖాతంలో ఉన్నాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The Andaman and Nicobar Islands are located in the Bay of Bengal."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T15-0096",
+   "section": {
+    "te": "Andaman and Nicobar Peaks",
+    "en": "Andaman and Nicobar Peaks"
+   },
+   "q": {
+    "te": "కింది పర్వత శిఖరాలను వాటి నిర్దిష్ట ద్వీప ప్రాంతాలతో జతపరచండి:\n1. సాడిల్ పీక్ - i. గ్రేట్ నికోబార్\n2. మౌంట్ థుయిలియర్ - ii. నార్త్ అండమాన్\n3. మౌంట్ కోయోబ్ - iii. సౌత్ అండమాన్",
+    "en": "Match the following mountain peaks with their specific island locations:\n1. Saddle peak - i. Great Nicobar\n2. Mount Thuiller - ii. North Andaman\n3. Mount Koyob - iii. South Andaman"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-i, 3-iii",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-iii, 3-i"
+    ],
+    "en": [
+     "1-ii, 2-i, 3-iii",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-iii, 3-i"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సాడిల్ పీక్ నార్త్ అండమాన్‌లో, మౌంట్ థుయిలియర్ గ్రేట్ నికోబార్‌లో మరియు మౌంట్ కోయోబ్ సౌత్ అండమాన్‌లో ఉన్నాయి.",
+    "en": "Saddle peak is in North Andaman, Mount Thuiller is in Great Nicobar, and Mount Koyob is in South Andaman."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T15-0069",
+   "section": {
+    "te": "Northern Plain Age",
+    "en": "Northern Plain Age"
+   },
+   "q": {
+    "te": "ఉత్తర మైదానాల భూ-సన్నతి లోయ సుమారు ఎన్ని మిలియన్ సంవత్సరాల క్రితం గరిష్ట అభివృద్ధిని సాధించింది?",
+    "en": "Approximately how many million years ago did the geo-synclinal depression of the northern plains attain its maximum development?"
+   },
+   "options": {
+    "te": [
+     "64 మిలియన్ సంవత్సరాలు",
+     "32 మిలియన్ సంవత్సరాలు",
+     "10 మిలియన్ సంవత్సరాలు",
+     "100 మిలియన్ సంవత్సరాలు"
+    ],
+    "en": [
+     "64 million years",
+     "32 million years",
+     "10 million years",
+     "100 million years"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఉత్తర మైదానాలను ఏర్పరిచిన భూ-సన్నతి లోయ, హిమాలయాల ఏర్పాటు యొక్క మూడవ దశలో సుమారు 64 మిలియన్ సంవత్సరాల క్రితం గరిష్ట అభివృద్ధిని చేరుకుంది.",
+    "en": "The geo-synclinal depression that formed the northern plains reached its maximum development about 64 million years ago during the third phase of Himalayan formation."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T15-0049",
+   "section": {
+    "te": "Andaman and Nicobar Islands",
+    "en": "Andaman and Nicobar Islands"
+   },
+   "q": {
+    "te": "అండమాన్ మరియు నికోబార్ ద్వీపసమూహంలో సుమారు ఎన్ని దీవులు ఉన్నాయి?",
+    "en": "The Andaman and Nicobar archipelago comprises approximately how many islands?"
+   },
+   "options": {
+    "te": [
+     "ఖచ్చితంగా 100",
+     "500 కంటే ఎక్కువ",
+     "50 కంటే తక్కువ",
+     "ఖచ్చితంగా 300"
+    ],
+    "en": [
+     "Exactly 100",
+     "More than 500",
+     "Less than 50",
+     "Exactly 300"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఈ ద్వీపసమూహంలో 500 కంటే ఎక్కువ పెద్ద మరియు చిన్న అగ్నిపర్వత దీవులు ఉన్నాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The archipelago comprises more than 500 large and small volcanic islands."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T15-0033",
+   "section": {
+    "te": "Cellular Jail",
+    "en": "Cellular Jail"
+   },
+   "q": {
+    "te": "అండమాన్ దీవులలోని ఏ జైలు సముదాయంలో చాలా మంది భారతీయ స్వాతంత్ర్య సమరయోధులు కఠినమైన పరిస్థితుల్లో బంధించబడ్డారు?",
+    "en": "In which prison complex in the Andaman Islands were many Indian freedom fighters jailed under severe conditions?"
+   },
+   "options": {
+    "te": [
+     "తీహార్ జైలు",
+     "సెల్యులార్ జైలు",
+     "ఎరవాడ జైలు",
+     "రాజమండ్రి జైలు"
+    ],
+    "en": [
+     "Tihar Jail",
+     "Cellular Jail",
+     "Yerwada Jail",
+     "Rajahmundry Jail"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అండమాన్ దీవులలో ఉన్న 'సెల్యులార్ జైలు'లో చాలా మంది స్వాతంత్ర్య సమరయోధులు బంధించబడ్డారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Many freedom fighters were jailed in the 'Cellular Jail' located in the Andaman Islands."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T15-0052",
+   "section": {
+    "te": "Bhabar and Tarai",
+    "en": "Bhabar and Tarai"
+   },
+   "q": {
+    "te": "భాబర్ మరియు తరాయ్ మండలాలకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. భాబర్ అనేది భారీ రాతి నిక్షేపాల వల్ల నదులు తరచుగా అదృశ్యమయ్యే ఇరుకైన బెల్ట్.\n2. తరాయ్ మండలం భాబర్ బెల్ట్‌కు ఉత్తరాన ఉంది.\n3. తరాయ్ అనేది నదులు తిరిగి ఉద్భవించే చిత్తడి మరియు బురద పరిస్థితులతో కూడి ఉంటుంది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the Bhabar and Tarai zones:\n1. Bhabar is a narrow belt where rivers often disappear due to heavy rock deposits.\n2. Tarai is located to the north of the Bhabar belt.\n3. Tarai is characterized by marshy and swampy conditions where rivers re-emerge.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "1 and 3 only",
+     "2 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రకటన 2 తప్పు ఎందుకంటే తరాయ్ బెల్ట్ భాబర్‌కు దక్షిణాన ఉంది, ఉత్తరాన కాదు. ప్రకటనలు 1 మరియు 3 ఈ మండలాల్లో నదుల అదృశ్యం మరియు పునరాగమనాన్ని సరిగ్గా వివరిస్తాయి.",
+    "en": "Statement 2 is incorrect because the Tarai belt is located south of the Bhabar, not north. Statements 1 and 3 correctly describe the disappearance and re-emergence of rivers in these zones."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T15-0003",
+   "section": {
+    "te": "Ganga Plain Agriculture",
+    "en": "Ganga Plain Agriculture"
+   },
+   "q": {
+    "te": "గంగా మైదానాల్లోని వ్యవసాయానికి సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. సాంప్రదాయ వ్యవసాయం ఎక్కువగా వర్షాధారంగా ఉండేది.\n2. ఇటీవలి నీటిపారుదల పద్ధతులు భూగర్భ జలాలు తగ్గిపోవడానికి కారణమయ్యాయి.\n3. నీటిపారుదల నీరు కాలువల నెట్‌వర్క్ ద్వారా లేదా భూగర్భ జలాల నుండి పంపింగ్ ద్వారా అందించబడుతుంది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding agriculture in the Ganga plains:\n1. Traditional agriculture has been mostly rainfed.\n2. Recent irrigation practices have contributed to the depletion of groundwater.\n3. Irrigation water is brought through networks of canals or pumped from groundwater.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మూడు ప్రకటనలూ సరైనవే: సాంప్రదాయ వ్యవసాయం వర్షాధారంగా ఉండేది, ఆధునిక నీటిపారుదల కాలువలు/భూగర్భ జలాలను ఉపయోగిస్తుంది మరియు ఇది భూగర్భ జలాలు తగ్గిపోవడానికి దారితీసింది.",
+    "en": "All three statements are correct: traditional farming was rainfed, modern irrigation uses canals/groundwater, and this has led to groundwater depletion."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T15-0081",
+   "section": {
+    "te": "Desert Geological History",
+    "en": "Desert Geological History"
+   },
+   "q": {
+    "te": "మెసోజోయిక్ యుగంలో భారతీయ ఎడారి ప్రాంతం సముద్రం కింద ఉందని ఈ క్రింది వాటిలో ఏవి ఆధారాలను అందిస్తాయి?\n1. ఆకల్ వద్ద ఉన్న చెక్క శిలాజాల పార్కు\n2. బ్రహ్మసర్ చుట్టూ ఉన్న సముద్ర నిక్షేపాలు\n3. రేఖాంశ ఇసుక దిబ్బల ఉనికి\nసరైన సమాధానాన్ని ఎంచుకోండి:",
+    "en": "Which of the following provide evidence that the Indian desert region was under the sea during the Mesozoic era?\n1. Wood fossils park at Aakal\n2. Marine deposits around Brahmsar\n3. Presence of longitudinal sand dunes\nSelect the correct answer:"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 only",
+     "1 and 2 only",
+     "2 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఈ ప్రాంతం సముద్రం కింద ఉన్నదనడానికి ఆధారంగా ఆకల్ వద్ద చెక్క శిలాజాలు మరియు బ్రహ్మసర్ వద్ద సముద్ర నిక్షేపాలను వచనం పేర్కొంది; ఇసుక దిబ్బలు ప్రస్తుత శుష్క పరిస్థితుల ఫలితం.",
+    "en": "Wood fossils at Aakal and marine deposits at Brahmsar as evidence of the region being under the sea; sand dunes are a result of current arid conditions."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T15-0073",
+   "section": {
+    "te": "Northeastern Plateau",
+    "en": "Northeastern Plateau"
+   },
+   "q": {
+    "te": "ఈ క్రింది కొండలలో ఏది మేఘాలయ పీఠభూమిలో ఉపవిభాగం కాదు?",
+    "en": "Which of the following hills is NOT a sub-division of the Meghalaya plateau?"
+   },
+   "options": {
+    "te": [
+     "గారో కొండలు",
+     "జైంతియా కొండలు",
+     "మికిర్ కొండలు",
+     "ఖాసీ కొండలు"
+    ],
+    "en": [
+     "Garo Hills",
+     "Jaintia Hills",
+     "Mikir Hills",
+     "Khasi Hills"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మేఘాలయ పీఠభూమి గారో, ఖాసీ మరియు జైంతియా కొండలుగా విభజించబడింది. మికిర్ కొండలు ఈ పీఠభూమి యొక్క ఉపవిభాగంగా వచనంలో పేర్కొనబడలేదు.",
+    "en": "The Meghalaya plateau is sub-divided into the Garo, Khasi, and Jaintia hills. Mikir hills are not listed as a sub-division of this plateau in the text."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T15-0038",
+   "section": {
+    "te": "Living Root Bridges",
+    "en": "Living Root Bridges"
+   },
+   "q": {
+    "te": "ఈశాన్య భారతదేశంలోని 'లివింగ్ రూట్ బ్రిడ్జెస్' (సజీవ వేర్ల వంతెనలు) ఎలా నిర్మించబడతాయి?",
+    "en": "How are the 'living root bridges' of the Northeast created?"
+   },
+   "options": {
+    "te": [
+     "అనేక సంవత్సరాల పాటు చెట్ల వేర్లను అల్లడం ద్వారా",
+     "శుద్ధి చేసిన వెదురు కర్రలను ఉపయోగించడం ద్వారా",
+     "పర్యావరణ హితమైన సిమెంటుతో నిర్మించడం ద్వారా",
+     "పెద్ద రాళ్లను చెక్కడం ద్వారా"
+    ],
+    "en": [
+     "By weaving tree roots over many years",
+     "By using treated bamboo sticks",
+     "By building with eco-friendly cement",
+     "By carving large stones"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "లివింగ్ రూట్ బ్రిడ్జెస్ అనేవి సుదీర్ఘ కాలం పాటు చెట్ల వేర్లను అల్లడం ద్వారా సృష్టించబడిన ఒక ప్రత్యేకమైన నిర్మాణాలు.",
+    "en": "Living root bridges are a unique feature created by weaving the roots of trees over a long period."
+   }
+  }
+ ]
+}

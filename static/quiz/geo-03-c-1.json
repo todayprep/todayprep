@@ -1,0 +1,942 @@
+{
+ "id": "geo-03-c-1",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Interior of the Earth – క్విజ్ 1",
+  "en": "Interior of the Earth – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T03-0007",
+   "section": {
+    "te": "Primordial Atmosphere",
+    "en": "Primordial Atmosphere"
+   },
+   "q": {
+    "te": "భూమి యొక్క ప్రారంభ సన్నని ఆదిమ వాతావరణంలో (primordial atmosphere) ప్రధాన భాగాలు ఏవి?",
+    "en": "What were the primary components of the Earth's initial thin primordial atmosphere?"
+   },
+   "options": {
+    "te": [
+     "నీటి ఆవిరి మరియు అమ్మోనియా",
+     "హైడ్రోజన్ మరియు హీలియం",
+     "కార్బన్ డయాక్సైడ్ మరియు మీథేన్",
+     "నైట్రోజన్ మరియు ఆక్సిజన్"
+    ],
+    "en": [
+     "Water vapour and Ammonia",
+     "Hydrogen and Helium",
+     "Carbon dioxide and Methane",
+     "Nitrogen and Oxygen"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భూమి యొక్క ప్రారంభ వాతావరణం సన్నగా ఉండేది మరియు ప్రధానంగా హైడ్రోజన్ మరియు హీలియంతో కూడి ఉండేది.",
+    "en": "The Earth's initial atmosphere was thin and composed mainly of hydrogen and helium."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T03-0041",
+   "section": {
+    "te": "Core Composition",
+    "en": "Core Composition"
+   },
+   "q": {
+    "te": "భూమి యొక్క కేంద్ర మండలాన్ని (core) కొన్నిసార్లు 'నైఫ్' (nife) పొర అని పిలుస్తారు ఎందుకంటే ఇది ప్రధానంగా ఏ రెండు మూలకాలతో నిర్మితమై ఉంటుంది?",
+    "en": "The Earth's core is sometimes referred to as the 'nife' layer because it is primarily composed of which two elements?"
+   },
+   "options": {
+    "te": [
+     "నికెల్ మరియు ఇనుము (Iron)",
+     "నైట్రోజన్ మరియు ఫెర్రం",
+     "నైట్రోజన్ మరియు ఇనుము",
+     "నికెల్ మరియు ఫ్లోరిన్"
+    ],
+    "en": [
+     "Nickel and Iron",
+     "Nitrogen and Ferrum",
+     "Nitrogen and Iron",
+     "Nickel and Fluorine"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "'nife' అనే పేరు నికెల్ (Ni) మరియు ఇనుము (Fe/Ferrum) యొక్క రసాయన గుర్తుల నుండి వచ్చింది.",
+    "en": "The name 'nife' is derived from the chemical symbols for Nickel (Ni) and Iron (Fe/Ferrum)."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T03-0036",
+   "section": {
+    "te": "Earthquake Epicentre",
+    "en": "Earthquake Epicentre"
+   },
+   "q": {
+    "te": "భూకంప నాభికి (focus) అత్యంత సమీపంలో ఉండి, భూకంప తరంగాలను మొదటగా అనుభవించే భూ ఉపరితలంపై గల బిందువును ఏమంటారు?",
+    "en": "What is the term for the point on the Earth's surface that is nearest to the focus and is the first to experience earthquake waves?"
+   },
+   "options": {
+    "te": [
+     "ఎపిసెంటర్ (Epicentre)",
+     "శిలావరణం (Lithosphere)",
+     "హైపోసెంటర్ (Hypocentre)",
+     "ఫాల్ట్ లైన్ (Fault line)"
+    ],
+    "en": [
+     "Epicentre",
+     "Lithosphere",
+     "Hypocentre",
+     "Fault line"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఎపిసెంటర్ (అధికేంద్రం) అనేది భూకంప నాభికి నేరుగా పైన భూ ఉపరితలంపై ఉండే బిందువు మరియు ఇది భూకంప తరంగాలను మొదటగా గ్రహిస్తుంది.",
+    "en": "The epicentre is the point on the surface directly above the focus (hypocentre) and is the first place to feel the earthquake waves."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T03-0015",
+   "section": {
+    "te": "Early Atmosphere Composition",
+    "en": "Early Atmosphere Composition"
+   },
+   "q": {
+    "te": "ఆదిమ వాతావరణం కోల్పోయిన తర్వాత భూమి యొక్క ప్రారంభ వాతావరణంలో ఈ క్రింది ఏ వాయువులు ఉన్నాయి?",
+    "en": "Which of the following gases were present in the Earth's early atmosphere after the loss of the primordial atmosphere?"
+   },
+   "options": {
+    "te": [
+     "నీటి ఆవిరి మరియు నైట్రోజన్",
+     "కార్బన్ డయాక్సైడ్ మరియు మీథేన్",
+     "అమ్మోనియా మరియు చాలా తక్కువ పరిమాణంలో ఆక్సిజన్",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Water vapour and Nitrogen",
+     "Carbon dioxide and Methane",
+     "Ammonia and very little free Oxygen",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఆదిమ వాతావరణం కోల్పోయిన తర్వాత, కొత్త వాతావరణంలో నీటి ఆవిరి, నైట్రోజన్, CO2, మీథేన్, అమ్మోనియా మరియు స్వల్ప పరిమాణంలో ఆక్సిజన్ ఉన్నాయి.",
+    "en": "After the primordial atmosphere was lost, the new atmosphere contained water vapour, nitrogen, CO2, methane, ammonia, and a tiny amount of oxygen."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T03-0031",
+   "section": {
+    "te": "Origin of Life",
+    "en": "Origin of Life"
+   },
+   "q": {
+    "te": "ఆధునిక శాస్త్రవేత్తల ప్రకారం, జీవం యొక్క మూలం గురించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది ఒక రకమైన రసాయన చర్యగా ప్రారంభమైంది.\n2. ఇది మొదట సంక్లిష్ట సేంద్రీయ అణువులను (organic molecules) ఉత్పత్తి చేసింది.\n3. ఈ అణువులు తమను తాము ప్రతిరూపం (duplicate) చేసుకోగలవు.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "According to modern scientists, consider the following statements about the origin of life:\n1. It began as a kind of chemical reaction.\n2. It first generated complex organic molecules.\n3. These molecules could duplicate themselves.\nWhich of the statements are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జీవం ఒక రసాయన చర్యగా ప్రారంభమైందని, అది స్వయంగా ప్రతిరూపం చేసుకోగల సంక్లిష్ట సేంద్రీయ అణువులను ఉత్పత్తి చేసిందని మూలం పేర్కొంది.",
+    "en": "Life started as a chemical reaction that generated complex organic molecules capable of self-duplication."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T03-0020",
+   "section": {
+    "te": "Earth's Radius",
+    "en": "Earth's Radius"
+   },
+   "q": {
+    "te": "భూమి యొక్క సుమారు వ్యాసార్థం (radius) ఎంత?",
+    "en": "What is the approximate radius of the Earth?"
+   },
+   "options": {
+    "te": [
+     "6,378 కి.మీ.",
+     "3,478 కి.మీ.",
+     "7,878 కి.మీ.",
+     "5,278 కి.మీ."
+    ],
+    "en": [
+     "6,378 km",
+     "3,478 km",
+     "7,878 km",
+     "5,278 km"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మూలం ప్రకారం, భూమి యొక్క వ్యాసార్థం సుమారు 6,378 కి.మీ.",
+    "en": "The Earth's radius is approximately 6,378 km."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T03-0025",
+   "section": {
+    "te": "Landscape Shaping",
+    "en": "Landscape Shaping"
+   },
+   "q": {
+    "te": "భూమి యొక్క ప్రకృతి దృశ్యాన్ని (landscape) నిరంతరం రూపొందించడానికి ఈ క్రింది ఏ ప్రక్రియలు కారణమవుతాయి?",
+    "en": "Which of the following processes are responsible for constantly shaping the Earth's landscape?"
+   },
+   "options": {
+    "te": [
+     "బాహ్య ప్రక్రియలు (Exogenic processes)",
+     "అంతర్గత ప్రక్రియలు (Endogenic processes)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Exogenic processes",
+     "Endogenic processes",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "బాహ్య (exogenic) మరియు అంతర్గత (endogenic) ప్రక్రియలు రెండూ ప్రకృతి దృశ్యాన్ని రూపొందిస్తాయని మూలం పేర్కొంది.",
+    "en": "Both exogenic (external) and endogenic (internal) processes shape the landscape."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T03-0008",
+   "section": {
+    "te": "Atmospheric Evolution",
+    "en": "Atmospheric Evolution"
+   },
+   "q": {
+    "te": "భూసంబంధిత గ్రహాల నుండి ఆదిమ వాతావరణం (హైడ్రోజన్ మరియు హీలియం) కోల్పోవడానికి కారణం ఏమిటి?",
+    "en": "What caused the loss of the primordial atmosphere (hydrogen and helium) from the terrestrial planets?"
+   },
+   "options": {
+    "te": [
+     "సౌర గాలుల ప్రభావం (Solar winds)",
+     "అగ్నిపర్వత విస్ఫోటనాలు",
+     "కిరణజన్య సంయోగక్రియ ప్రక్రియ",
+     "చంద్రుడిని ఏర్పరిచిన భారీ ప్రభావం"
+    ],
+    "en": [
+     "Impact of solar winds",
+     "Volcanic eruptions",
+     "The process of photosynthesis",
+     "The giant impact that formed the moon"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూమి మరియు ఇతర భూసంబంధిత గ్రహాల నుండి హైడ్రోజన్ మరియు హీలియం యొక్క ప్రారంభ వాతావరణాన్ని తొలగించడానికి సౌర గాలులు కారణం.",
+    "en": "Solar winds are responsible for stripping off the early atmosphere of hydrogen and helium from the Earth and other terrestrial planets."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T03-0014",
+   "section": {
+    "te": "Earth Density",
+    "en": "Earth Density"
+   },
+   "q": {
+    "te": "భూమి యొక్క పదార్థం యొక్క సాంద్రత ఉపరితలం నుండి కేంద్రానికి ఎలా మారుతుంది?",
+    "en": "How does the density of Earth's material change from the surface to the center?"
+   },
+   "options": {
+    "te": [
+     "స్థిరంగా ఉంటుంది",
+     "పెరుగుతుంది",
+     "పెరిగి ఆ తర్వాత తగ్గుతుంది",
+     "తగ్గుతుంది"
+    ],
+    "en": [
+     "It remains constant",
+     "It increases",
+     "It increases then decreases",
+     "It decreases"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "క్రస్ట్ నుండి కోర్ వైపు వెళ్లే కొద్దీ భూమిని ఏర్పరిచే పదార్థాల సాంద్రత పెరుగుతుంది.",
+    "en": "The density of the materials forming the Earth increases as one moves from the crust towards the core."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T03-0016",
+   "section": {
+    "te": "Tectonic Plate Types",
+    "en": "Tectonic Plate Types"
+   },
+   "q": {
+    "te": "టెక్టోనిక్ ప్లేట్లు అవి మోసే వాటి ఆధారంగా ప్రధానంగా ఏ రకాలుగా ఉన్నాయి?",
+    "en": "What are the main types of tectonic plates based on what they carry?"
+   },
+   "options": {
+    "te": [
+     "ఖండాల ప్లేట్లు (Continental plates)",
+     "సముద్రపు ప్లేట్లు (Oceanic plates)",
+     "మిశ్రమ ప్లేట్లు (Mixed plates)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Continental plates",
+     "Oceanic plates",
+     "Mixed plates",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "టెక్టోనిక్ ప్లేట్లు మూడు రకాలుగా వర్గీకరించబడ్డాయి: ఖండాల, సముద్రపు మరియు మిశ్రమ ప్లేట్లు.",
+    "en": "Tectonic plates are classified into three types: continental, oceanic, and mixed plates."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T03-0013",
+   "section": {
+    "te": "Inner Core",
+    "en": "Inner Core"
+   },
+   "q": {
+    "te": "భూమి యొక్క పొరలను వాటి వర్ణనలతో జతపరచండి:\nI. ఇన్నర్ కోర్ (Inner Core) A. ఇనుము/నికెల్ యొక్క ద్రవ పొర\nII. ఔటర్ కోర్ (Outer Core) B. దృఢమైన వెలుపలి పొర\nIII. లిథోస్పియర్ (Lithosphere) C. ఘనరూపంలో తిరిగే లోహపు బంతి\nIV. మాంటిల్ (Mantle) D. క్రస్ట్ మరియు బాహ్య కోర్ మధ్య పొర",
+    "en": "Match the Earth's layers with their descriptions:\nI. Inner Core  A. Fluid layer of iron/nickel\nII. Outer Core B. Rigid outer layer\nIII. Lithosphere C. Solid spinning metal ball\nIV. Mantle     D. Layer between crust and outer core"
+   },
+   "options": {
+    "te": [
+     "I-C, II-A, III-B, IV-D",
+     "I-A, II-C, III-B, IV-D",
+     "I-C, II-A, III-D, IV-B",
+     "I-D, II-A, III-B, IV-C"
+    ],
+    "en": [
+     "I-C, II-A, III-B, IV-D",
+     "I-A, II-C, III-B, IV-D",
+     "I-C, II-A, III-D, IV-B",
+     "I-D, II-A, III-B, IV-C"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఇన్నర్ కోర్ ఘనరూపంలో తిరిగే బంతి, ఔటర్ కోర్ ద్రవ రూపంలో ఉంటుంది, లిథోస్పియర్ దృఢమైన వెలుపలి పొర మరియు మాంటిల్ క్రస్ట్ మరియు బాహ్య కోర్ మధ్య ఉంటుంది.",
+    "en": "The Inner Core is a solid spinning ball, Outer Core is fluid, Lithosphere is the rigid outer layer, and Mantle is between the crust and outer core."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T03-0004",
+   "section": {
+    "te": "Outer Core Composition",
+    "en": "Outer Core Composition"
+   },
+   "q": {
+    "te": "భూమి యొక్క బాహ్య కోర్ (Outer core) ప్రధానంగా ఏ పదార్థాలతో కూడిన ద్రవ పొర?",
+    "en": "The Earth's outer core is a fluid layer primarily composed of which materials?"
+   },
+   "options": {
+    "te": [
+     "ఇనుము (Iron)",
+     "నికెల్ (Nickel)",
+     "A మరియు B రెండూ",
+     "సిలికా మరియు మెగ్నీషియం"
+    ],
+    "en": [
+     "Iron",
+     "Nickel",
+     "Both A and B",
+     "Silica and Magnesium"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "బాహ్య కోర్ అనేది ప్రధానంగా ఇనుము మరియు నికెల్ అనే రెండు లోహాలతో కూడిన ద్రవ పొర.",
+    "en": "The outer core is a fluid layer that mainly consists of two metals: iron and nickel."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T03-0047",
+   "section": {
+    "te": "Asthenosphere Depth",
+    "en": "Asthenosphere Depth"
+   },
+   "q": {
+    "te": "దుర్బలావరణం (asthenosphere) ఎంత లోతు వరకు విస్తరించి ఉన్నట్లు పరిగణించబడుతుంది?",
+    "en": "Up to what depth is the asthenosphere considered to extend?"
+   },
+   "options": {
+    "te": [
+     "200 కి.మీ",
+     "400 కి.మీ",
+     "100 కి.మీ",
+     "2,900 కి.మీ"
+    ],
+    "en": [
+     "200 km",
+     "400 km",
+     "100 km",
+     "2,900 km"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రావారం యొక్క ఎగువ భాగమైన దుర్బలావరణం 400 కి.మీ లోతు వరకు విస్తరించి ఉన్నట్లు పరిగణించబడుతుంది.",
+    "en": "The asthenosphere, which is the upper portion of the mantle, is considered to extend up to 400 km."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T03-0044",
+   "section": {
+    "te": "Shield Volcanoes",
+    "en": "Shield Volcanoes"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): బసాల్ట్ ప్రవాహాలను మినహాయించి, షీల్డ్ అగ్నిపర్వతాలు భూమిపై ఉన్న అన్ని అగ్నిపర్వతాలలో అతిపెద్దవి.\nకారణం (R): హవాయి అగ్నిపర్వతాలు షీల్డ్ అగ్నిపర్వతాలకు అత్యంత ప్రసిద్ధ ఉదాహరణలు.",
+    "en": "Assertion (A): Shield volcanoes are considered the largest of all volcanoes on Earth, with the exception of basalt flows.\nReason (R): Hawaiian volcanoes are the most famous examples of shield volcanoes."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ సరైనవి మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ సరైనవి కానీ A కి R సరైన వివరణ కాదు",
+     "A సరైనది కానీ R తప్పు",
+     "A తప్పు కానీ R సరైనది"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్య భాగం ఆధారంగా రెండు ప్రకటనలు వాస్తవంగా సరైనవి, కానీ హవాయి అగ్నిపర్వతాల ప్రసిద్ధి షీల్డ్ అగ్నిపర్వతాలు ఎందుకు పెద్దవిగా ఉన్నాయో వివరించదు.",
+    "en": "Both statements are factually correct based on the text, but the fame of Hawaiian volcanoes does not explain why shield volcanoes are the largest."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T03-0021",
+   "section": {
+    "te": "Deepest Drill",
+    "en": "Deepest Drill"
+   },
+   "q": {
+    "te": "ప్రపంచంలోనే అత్యంత లోతైన డ్రిల్ ఎక్కడ ఉంది మరియు అది ఎంత లోతుకు చేరుకుంది?",
+    "en": "Where is the world's deepest drill located, and what depth has it reached?"
+   },
+   "options": {
+    "te": [
+     "దక్షిణాఫ్రికా, 12 కి.మీ.",
+     "అట్లాంటిక్ మహాసముద్రంలోని కోలా, 10 కి.మీ.",
+     "ఆర్కిటిక్ మహాసముద్రంలోని కోలా, 12 కి.మీ.",
+     "దక్షిణాఫ్రికా, 4 కి.మీ."
+    ],
+    "en": [
+     "South Africa, 12 km",
+     "Kola in the Atlantic Ocean, 10 km",
+     "Kola in the Arctic Ocean, 12 km",
+     "South Africa, 4 km"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అత్యంత లోతైన డ్రిల్ ఆర్కిటిక్ మహాసముద్రంలోని కోలా వద్ద ఉంది, ఇది 12 కి.మీ లోతుకు చేరుకుంది.",
+    "en": "The deepest drill is located at Kola in the Arctic Ocean, reaching a depth of 12 km."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T03-0026",
+   "section": {
+    "te": "Information Sources",
+    "en": "Information Sources"
+   },
+   "q": {
+    "te": "భూమి అంతర్భాగం గురించి సమాచారాన్ని ఇచ్చే ఈ క్రింది మూలాలను పరిశీలించండి:\n1. గనుల నుండి లభించే ఉపరితల శిలలు\n2. లోతైన సముద్ర డ్రిల్లింగ్ పదార్థాలు\n3. అగ్నిపర్వత పేలుళ్లు\nవీటిలో ఏవి ప్రత్యక్ష (DIRECT) మూలాలుగా పరిగణించబడతాయి?",
+    "en": "Consider the following sources of information about the Earth's interior:\n1. Surface rocks from mining\n2. Deep ocean drilling materials\n3. Volcanic eruptions\nWhich of these are considered DIRECT sources?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "గనుల శిలలు, డ్రిల్లింగ్ పదార్థాలు మరియు అగ్నిపర్వత పేలుళ్లు అన్నీ పాఠ్యభాగంలో సమాచారం యొక్క ప్రత్యక్ష మూలాలుగా జాబితా చేయబడ్డాయి.",
+    "en": "Mining rocks, drilling materials, and volcanic eruptions are all listed as direct sources of information in the text."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T03-0001",
+   "section": {
+    "te": "Earth's Crust",
+    "en": "Earth's Crust"
+   },
+   "q": {
+    "te": "భూమి యొక్క క్రస్ట్ (crust) మందానికి సంబంధించి ఈ క్రింది వాటిలో ఏది సరైనది కాదు?",
+    "en": "Which of the following statements regarding the thickness of the Earth's crust is NOT correct?"
+   },
+   "options": {
+    "te": [
+     "సముద్రాల క్రింద క్రస్ట్ సుమారు 5-7 కి.మీ మందం ఉంటుంది",
+     "ఖండాల క్రింద క్రస్ట్ సుమారు 30-40 కి.మీ మందం ఉంటుంది",
+     "సముద్రపు క్రస్ట్, ఖండాల క్రస్ట్ కంటే మందంగా ఉంటుంది",
+     "భూమి మరియు సముద్రాల మధ్య మందం గణనీయంగా మారుతుంది"
+    ],
+    "en": [
+     "Oceanic crust is about 5–7 km thick",
+     "Continental crust is about 30–40 km thick",
+     "Oceanic crust is thicker than continental crust",
+     "The thickness varies significantly between land and ocean"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వనరుల ప్రకారం, ఖండాల క్రస్ట్ (30-40 కి.మీ) సముద్రపు క్రస్ట్ (5-7 కి.మీ) కంటే చాలా మందంగా ఉంటుంది.",
+    "en": "The continental crust (30-40 km) is much thicker than the oceanic crust (5-7 km)."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T03-0035",
+   "section": {
+    "te": "Indirect Sources",
+    "en": "Indirect Sources"
+   },
+   "q": {
+    "te": "ఈ క్రింది వాటిలో దేనిని అధ్యయనం చేయడం ద్వారా భూమి యొక్క పొరల అంతర్భాగం గురించి పూర్తి చిత్రం లభిస్తుంది?",
+    "en": "The study of which of the following provides a complete picture of the Earth's layered interior?"
+   },
+   "options": {
+    "te": [
+     "ఉపరితల శిలలు",
+     "అగ్నిపర్వత లావా",
+     "గనుల తవ్వకం పదార్థాలు",
+     "భూకంప తరంగాలు (Seismic waves)"
+    ],
+    "en": [
+     "Surface rocks",
+     "Volcanic lava",
+     "Mining materials",
+     "Seismic waves"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూకంప తరంగాల అధ్యయనం అనేది భూమి అంతర్భాగం గురించి పూర్తి చిత్రాన్ని అందించే పరోక్ష మూలం.",
+    "en": "The study of seismic waves (earthquakes) is an indirect source that provides a complete picture of the layered interior."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T03-0048",
+   "section": {
+    "te": "Earthquake Focus",
+    "en": "Earthquake Focus"
+   },
+   "q": {
+    "te": "భూకంప నాభి (focus) కి సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఇది శక్తి విడుదలయ్యే బిందువు.\n2. దీనిని హైపోసెంటర్ అని కూడా పిలుస్తారు.\n3. ఇది భూమి యొక్క ఉపరితలంపై ఉంటుంది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the focus of an earthquake:\n1. It is the point where energy is released.\n2. It is also known as the hypocentre.\n3. It is located on the surface of the Earth.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నాభి (లేదా హైపోసెంటర్) అనేది భూమి లోపల శక్తి విడుదలయ్యే బిందువు; ఎపిసెంటర్ అనేది ఉపరితలంపై ఉండే బిందువు.",
+    "en": "The focus (or hypocentre) is the point within the Earth where energy is released; the epicentre is the point on the surface."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T03-0012",
+   "section": {
+    "te": "Evolution Timeline",
+    "en": "Evolution Timeline"
+   },
+   "q": {
+    "te": "ఈ క్రింది సంఘటనలను సరైన కాలక్రమానుసారం అమర్చండి (పాత నుండి ఇటీవలి వరకు):\n1. కిరణజన్య సంయోగక్రియ పరిణామం\n2. మహాసముద్రాల ఏర్పాటు\n3. వాతావరణంలో ఆక్సిజన్ నిండటం ప్రారంభమైంది\n4. జీవం పరిణామం చెందడం ప్రారంభమైంది",
+    "en": "Arrange the following events in the correct chronological order (from oldest to most recent):\n1. Evolution of photosynthesis\n2. Formation of oceans\n3. Oxygen began to flood the atmosphere\n4. Life began to evolve"
+   },
+   "options": {
+    "te": [
+     "2-4-1-3",
+     "2-1-4-3",
+     "4-2-1-3",
+     "1-2-3-4"
+    ],
+    "en": [
+     "2-4-1-3",
+     "2-1-4-3",
+     "4-2-1-3",
+     "1-2-3-4"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మహాసముద్రాలు ~4000 మిలియన్ సంవత్సరాల క్రితం, జీవం ~3800 మిలియన్ సంవత్సరాల క్రితం, కిరణజన్య సంయోగక్రియ ~2500-3000 మిలియన్ సంవత్సరాల క్రితం మరియు ఆక్సిజన్ ~2000 మిలియన్ సంవత్సరాల క్రితం ఏర్పడ్డాయి.",
+    "en": "Oceans formed ~4000m years ago, life evolved ~3800m years ago, photosynthesis evolved ~2500-3000m years ago, and oxygen flooded the atmosphere ~2000m years ago."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T03-0049",
+   "section": {
+    "te": "Lower Mantle State",
+    "en": "Lower Mantle State"
+   },
+   "q": {
+    "te": "కింది వాటిలో ఏది అథో ప్రావారం (lower mantle) స్థితిని ఉత్తమంగా వివరిస్తుంది?",
+    "en": "Which of the following best describes the state of the lower mantle?"
+   },
+   "options": {
+    "te": [
+     "ఘన స్థితి",
+     "వాయు స్థితి",
+     "బలహీనమైన మరియు ప్లాస్టిక్ స్థితి",
+     "ద్రవ స్థితి"
+    ],
+    "en": [
+     "Solid state",
+     "Gaseous state",
+     "Weak and plastic state",
+     "Liquid state"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "దుర్బలావరణం బలహీనంగా ఉన్నప్పటికీ, దాని కంటే దిగువన విస్తరించి ఉన్న అథో ప్రావారం ఘన స్థితిలో ఉంటుంది.",
+    "en": "While the asthenosphere is weak, the lower mantle that extends beyond it is in a solid state."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T03-0040",
+   "section": {
+    "te": "Asthenosphere Definition",
+    "en": "Asthenosphere Definition"
+   },
+   "q": {
+    "te": "దుర్బలావరణం (Asthenosphere) అనే పదం ఉద్భవించిన 'astheno' అనే పదానికి అర్థం ఏమిటి?",
+    "en": "What is the literal meaning of the word 'astheno' from which the term Asthenosphere is derived?"
+   },
+   "options": {
+    "te": [
+     "బలమైన",
+     "బలహీనమైన (Weak)",
+     "ద్రవ",
+     "వేడి"
+    ],
+    "en": [
+     "Strong",
+     "Weak",
+     "Liquid",
+     "Hot"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "దుర్బలావరణం అనే పదం 'astheno' నుండి వచ్చింది, దీని అర్థం బలహీనమైనది.",
+    "en": "The term asthenosphere comes from the word 'astheno', which means weak."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T03-0024",
+   "section": {
+    "te": "Mining Limitations",
+    "en": "Mining Limitations"
+   },
+   "q": {
+    "te": "భూమి పొరలో 3-4 కి.మీ కంటే ఎక్కువ లోతులో గనుల తవ్వకం ఎందుకు సాధ్యం కాదు?",
+    "en": "Why is it not possible to mine deeper than 3-4 km in the Earth's crust?"
+   },
+   "options": {
+    "te": [
+     "విషవాయువుల ఉనికి",
+     "శిలలు పగలగొట్టడానికి చాలా గట్టిగా ఉండటం",
+     "ఆ లోతులో చాలా వేడిగా ఉండటం",
+     "ఆక్సిజన్ లేకపోవడం"
+    ],
+    "en": [
+     "Presence of poisonous gases",
+     "The rocks are too hard to break",
+     "It is very hot at that depth",
+     "Lack of oxygen"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "3-4 కి.మీ కంటే ఎక్కువ లోతులో ఉష్ణోగ్రత చాలా ఎక్కువగా ఉండటం వల్ల గనుల తవ్వకం అసాధ్యం.",
+    "en": "Mining beyond 3-4 km is impossible because the temperature becomes very high at those depths."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T03-0019",
+   "section": {
+    "te": "Cooling Process",
+    "en": "Cooling Process"
+   },
+   "q": {
+    "te": "నిశ్చయం (A): మహాసముద్రాల ఏర్పాటు ప్రారంభ దశలో భూమి యొక్క ఉష్ణోగ్రత మరింత తగ్గింది.\nకారణం (R): వాతావరణంలోని కార్బన్ డయాక్సైడ్ వర్షపు నీటిలో కరిగి, అధిక సాంద్రీకరణ (condensation) మరియు వర్షాలకు దారితీసింది.",
+    "en": "Assertion (A): The Earth's temperature decreased further during the early stages of ocean formation.\nReason (R): Carbon dioxide in the atmosphere dissolved in rainwater, leading to increased condensation and rain."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వర్షపు నీటిలో CO2 కరగడం వల్ల ఉష్ణోగ్రత మరింత తగ్గి, మరిన్ని వర్షాలకు దారితీసింది, ఇది చివరికి మహాసముద్రాలను నింపింది.",
+    "en": "The dissolution of CO2 in rainwater reduced the greenhouse effect, further lowering the temperature and causing more rain, which eventually filled the oceans."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T03-0037",
+   "section": {
+    "te": "Interior Estimates",
+    "en": "Interior Estimates"
+   },
+   "q": {
+    "te": "భూమి లోపల వివిధ లోతులలో ఉష్ణోగ్రత, పీడనం మరియు సాంద్రత విలువలను శాస్త్రవేత్తలు ఎలా నిర్ణయించారు?",
+    "en": "How have scientists determined the values of temperature, pressure, and density at various depths within the Earth?"
+   },
+   "options": {
+    "te": [
+     "లోతైన సముద్ర ప్రోబ్స్ ఉపయోగించి ప్రత్యక్ష కొలత ద్వారా",
+     "భూమి యొక్క మొత్తం మందాన్ని బట్టి విలువలను అంచనా వేయడం ద్వారా",
+     "ఇతర గ్రహాల వాతావరణాన్ని విశ్లేషించడం ద్వారా",
+     "అగ్నిపర్వత లావా ఉష్ణోగ్రతను మాత్రమే కొలవడం ద్వారా"
+    ],
+    "en": [
+     "By direct measurement using deep-sea probes",
+     "By estimating values based on the total thickness of the Earth",
+     "By analyzing the atmosphere of other planets",
+     "By measuring the temperature of volcanic lava only"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అధిక లోతులలో ప్రత్యక్ష కొలత అసాధ్యం కాబట్టి, శాస్త్రవేత్తలు ఈ విలువలను అంచనా వేయడానికి భూమి యొక్క మొత్తం మందాన్ని ఉపయోగిస్తారు.",
+    "en": "Since direct measurement is impossible at great depths, scientists use the total thickness of the Earth to estimate these values."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T03-0046",
+   "section": {
+    "te": "Earthquake Faults",
+    "en": "Earthquake Faults"
+   },
+   "q": {
+    "te": "భూకంపం సంభవించే ముందు ఫాల్ట్ (fault) వెంట ఉన్న శిలలు ఏ దిశలో కదలడానికి మొగ్గు చూపుతాయి?",
+    "en": "In which direction do rocks along a fault tend to move before an earthquake occurs?"
+   },
+   "options": {
+    "te": [
+     "ఒకే దిశలో",
+     "వ్యతిరేక దిశలలో",
+     "కేవలం క్రింది దిశలో మాత్రమే",
+     "అవి అస్సలు కదలవు"
+    ],
+    "en": [
+     "In the same direction",
+     "In opposite directions",
+     "Only in a downward direction",
+     "They do not move at all"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఫాల్ట్ వెంట ఉన్న శిలలు వ్యతిరేక దిశలలో కదలడానికి మొగ్గు చూపుతాయని, అయితే ప్రారంభంలో ఘర్షణ వల్ల అవి బంధించబడి ఉంటాయని పాఠ్య భాగం పేర్కొంది.",
+    "en": "Rocks along a fault tend to move in opposite directions, but are initially locked by friction."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T03-0038",
+   "section": {
+    "te": "Meteors as Source",
+    "en": "Meteors as Source"
+   },
+   "q": {
+    "te": "భూమి లోపలి భాగం గురించి సమాచారాన్ని అందించే వనరుగా ఉల్కలను (meteors) ఎందుకు పరిగణిస్తారు?",
+    "en": "Why are meteors considered a source of information about the interior of the Earth?"
+   },
+   "options": {
+    "te": [
+     "అవి అంతరిక్షంలోకి విసిరివేయబడిన భూపటలం ముక్కలు",
+     "వాటి పదార్థం మరియు నిర్మాణం భూమిని పోలి ఉంటాయి",
+     "అవి భూమి యొక్క మహాసముద్రాల మాదిరిగానే ద్రవ నీటిని కలిగి ఉంటాయి",
+     "అవి భూమి యొక్క కేంద్రం నుండి ఉద్భవించాయి"
+    ],
+    "en": [
+     "They are pieces of the Earth's crust that were ejected into space",
+     "Their material and structure are similar to that of the Earth",
+     "They contain liquid water similar to Earth's oceans",
+     "They originate from the Earth's core"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఉల్కలు భూమిని పోలిన పదార్థాలతో తయారైన ఘన వస్తువులు, ఇవి భూమి యొక్క కూర్పును అధ్యయనం చేయడానికి ఒక ఆధారంగా ఉపయోగపడతాయి.",
+    "en": "Meteors are solid bodies made of materials similar to Earth, providing a proxy for studying the Earth's composition."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T03-0028",
+   "section": {
+    "te": "Blue Algae Fossils",
+    "en": "Blue Algae Fossils"
+   },
+   "q": {
+    "te": "నీలి ఆకుపచ్చ శైవలాలకు (blue algae) సంబంధించిన సూక్ష్మ నిర్మాణాలు ఎన్ని మిలియన్ సంవత్సరాల కంటే పాతవైన భౌగోళిక నిర్మాణాలలో కనుగొనబడ్డాయి?",
+    "en": "Microscopic structures related to blue algae have been found in geological formations older than how many million years?"
+   },
+   "options": {
+    "te": [
+     "2,500 మిలియన్ సంవత్సరాలు",
+     "4,600 మిలియన్ సంవత్సరాలు",
+     "3,000 మిలియన్ సంవత్సరాలు",
+     "3,800 మిలియన్ సంవత్సరాలు"
+    ],
+    "en": [
+     "2,500 million years",
+     "4,600 million years",
+     "3,000 million years",
+     "3,800 million years"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నీలి ఆకుపచ్చ శైవలాలకు సంబంధించిన నిర్మాణాలు 3,000 మిలియన్ సంవత్సరాల కంటే పాతవైన నిర్మాణాలలో కనుగొనబడ్డాయి.",
+    "en": "Structures related to blue algae were found in formations older than 3,000 million years."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T03-0017",
+   "section": {
+    "te": "Atmospheric Oxygen",
+    "en": "Atmospheric Oxygen"
+   },
+   "q": {
+    "te": "భూమి యొక్క వాతావరణంలో ఆక్సిజన్ పెద్ద మొత్తంలో ఎప్పుడు నిండటం ప్రారంభమైంది?",
+    "en": "When did oxygen begin to flood the Earth's atmosphere in large quantities?"
+   },
+   "options": {
+    "te": [
+     "500 మిలియన్ సంవత్సరాల క్రితం",
+     "2,000 మిలియన్ సంవత్సరాల క్రితం",
+     "3,800 మిలియన్ సంవత్సరాల క్రితం",
+     "4,000 మిలియన్ సంవత్సరాల క్రితం"
+    ],
+    "en": [
+     "500 million years ago",
+     "2,000 million years ago",
+     "3,800 million years ago",
+     "4,000 million years ago"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సముద్రాలు ఆక్సిజన్‌తో నిండిపోయిన తర్వాత, సుమారు 2,000 మిలియన్ సంవత్సరాల క్రితం వాతావరణంలో ఆక్సిజన్ నిండటం ప్రారంభమైంది.",
+    "en": "Oxygen began to flood the atmosphere approximately 2,000 million years ago, following the saturation of oceans with oxygen."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T03-0002",
+   "section": {
+    "te": "Lithosphere Definition",
+    "en": "Lithosphere Definition"
+   },
+   "q": {
+    "te": "భూమి యొక్క శిలావరణం (Lithosphere) ఈ క్రింది ఏ పొరలను కలిగి ఉంటుంది?",
+    "en": "The Lithosphere of the Earth consists of which of the following layers?"
+   },
+   "options": {
+    "te": [
+     "క్రస్ట్ మరియు ఎగువ మాంటిల్ (Upper Mantle)",
+     "మాంటిల్ మరియు బాహ్య కోర్",
+     "ఎగువ మాంటిల్ మరియు దిగువ మాంటిల్",
+     "క్రస్ట్ మరియు ఆస్తెనోస్పియర్"
+    ],
+    "en": [
+     "Crust and Upper Mantle",
+     "Mantle and Outer Core",
+     "Upper Mantle and Lower Mantle",
+     "Crust and Asthenosphere"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "శిలావరణం అనేది క్రస్ట్ మరియు ఎగువ మాంటిల్ రెండింటినీ కలిపి ఉండే దృఢమైన వెలుపలి పొర.",
+    "en": "The lithosphere is defined as the rigid outer layer that includes both the crust and the upper mantle."
+   }
+  }
+ ]
+}

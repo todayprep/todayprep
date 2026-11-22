@@ -1,0 +1,942 @@
+{
+ "id": "geo-07-c-5",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Climate Elements – క్విజ్ 5",
+  "en": "Climate Elements – Quiz 5"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T07-0033",
+   "section": {
+    "te": "Wind Vane Mechanism",
+    "en": "Wind Vane Mechanism"
+   },
+   "q": {
+    "te": "వాతావరణ దిక్సూచి (Wind vane) గాలి దిశను ఎలా సూచిస్తుంది?",
+    "en": "How does a wind vane indicate the direction of the wind?"
+   },
+   "options": {
+    "te": [
+     "లోహపు కప్పులు నిలువు షాఫ్ట్‌పై తిరుగుతాయి",
+     "విండ్ సాక్ ఉబ్బి వ్యతిరేక దిశను చూపుతుంది",
+     "తోక నిశ్చలంగా ఉన్నప్పుడు పాయింటర్ గాలి ద్వారా నెట్టబడుతుంది",
+     "తోక గాలి ద్వారా నెట్టబడుతుంది, దీనివల్ల పాయింటర్ తిరుగుతుంది"
+    ],
+    "en": [
+     "The metal cups rotate on a vertical shaft",
+     "The wind sock inflates and points to the opposite direction",
+     "The pointer is pushed by the wind while the tail stays still",
+     "The tail is pushed by the wind, causing the pointer to turn"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "విండ్ వేన్‌లో, గాలి తోకను నెట్టడం వల్ల పాయింటర్ గాలి వీచే దిశలోకి తిరుగుతుంది.",
+    "en": "In a wind vane, the wind pushes the tail, which causes the rotating arm's pointer to turn in the direction of the wind."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T07-0068",
+   "section": {
+    "te": "Cyclone Formation",
+    "en": "Cyclone Formation"
+   },
+   "q": {
+    "te": "చక్రవాతం (Cyclone) ఏర్పడేటప్పుడు, గాలులు తేమతో కూడిన గాలిని ఎక్కడి నుండి తెస్తాయి?",
+    "en": "In the formation of a cyclone, from where do the winds bring moist air?"
+   },
+   "options": {
+    "te": [
+     "సముద్రం నుండి",
+     "ఎగువ వాతావరణం నుండి",
+     "ఎడారి నుండి",
+     "పర్వతాల నుండి"
+    ],
+    "en": [
+     "From the sea",
+     "From the upper atmosphere",
+     "From the desert",
+     "From the mountains"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అల్పపీడన కేంద్రం వైపు గాలులు సముద్రం నుండి తేమతో కూడిన గాలిని తెచ్చినప్పుడు చక్రవాతాలు ఏర్పడతాయి.",
+    "en": "Cyclones are formed when winds bring moist air from the sea toward a low-pressure center."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T07-0056",
+   "section": {
+    "te": "Precipitation Cause",
+    "en": "Precipitation Cause"
+   },
+   "q": {
+    "te": "అవపాతం (Precipitation) భూమిపై పడటానికి ప్రాథమికంగా ఈ క్రింది ఏ అంశం కారణం?",
+    "en": "Precipitation falls on the Earth primarily due to which of the following factors?"
+   },
+   "options": {
+    "te": [
+     "గాలి వేగం",
+     "భూమి భ్రమణం",
+     "వాతావరణ పీడనం",
+     "గురుత్వాకర్షణ"
+    ],
+    "en": [
+     "Wind speed",
+     "Earth's rotation",
+     "Atmospheric pressure",
+     "Gravity"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వాతావరణం నీటి ఆవిరితో నిండిన తర్వాత, గురుత్వాకర్షణ కారణంగా అవపాతం భూమిపై పడుతుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Precipitation falls on the Earth due to gravity once the atmosphere becomes saturated with water vapour."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T07-0102",
+   "section": {
+    "te": "Isotherms Definition",
+    "en": "Isotherms Definition"
+   },
+   "q": {
+    "te": "సమాన ఉష్ణోగ్రత కలిగిన ప్రాంతాలను కలిపే మ్యాప్‌లోని రేఖలను ఏమని పిలుస్తారు?",
+    "en": "What are the lines on a map that join places having equal temperature called?"
+   },
+   "options": {
+    "te": [
+     "ఐసోహైట్లు",
+     "ఐసోనెఫ్‌లు",
+     "ఐసోబార్‌లు",
+     "ఐసోథర్మ్‌లు"
+    ],
+    "en": [
+     "Isohyets",
+     "Isonephs",
+     "Isobars",
+     "Isotherms"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, సమాన ఉష్ణోగ్రత కలిగిన ప్రాంతాలను కలిపే రేఖలను ఐసోథర్మ్‌లు (సమ ఉష్ణోగ్రత రేఖలు) అని నిర్వచించారు.",
+    "en": "Isotherms are defined as lines that join places having equal temperature."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T07-0160",
+   "section": {
+    "te": "Coriolis Force Location",
+    "en": "Coriolis Force Location"
+   },
+   "q": {
+    "te": "ఈ క్రింది ఏ ప్రదేశాలలో కొరియాలిస్ బలం గరిష్టంగా ఉంటుంది?",
+    "en": "At which of the following locations is the Coriolis force at its maximum?"
+   },
+   "options": {
+    "te": [
+     "భూమధ్యరేఖ",
+     "ఉప ఉష్ణమండలాలు (Sub-tropics)",
+     "అయన రేఖలు (Tropics)",
+     "ధృవాలు"
+    ],
+    "en": [
+     "The Equator",
+     "The Sub-tropics",
+     "The Tropics",
+     "The Poles"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "కొరియాలిస్ బలం భూమధ్యరేఖ వద్ద ఉండదు మరియు ధృవాల వద్ద గరిష్ట స్థాయికి చేరుకుంటుంది.",
+    "en": "The Coriolis force is absent at the equator and reaches its maximum strength at the poles."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T07-0060",
+   "section": {
+    "te": "High Pressure Formation",
+    "en": "High Pressure Formation"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): అధిక పీడన ప్రాంతాలు స్పష్టమైన మరియు ఎండతో కూడిన ఆకాశంతో సంబంధం కలిగి ఉంటాయి.\nకారణం (R): తక్కువ ఉష్ణోగ్రతలు ఉన్న ప్రాంతాల్లో, గాలి చల్లగా, బరువుగా ఉండి క్రిందికి దిగుతుంది.",
+    "en": "Assertion (A): High-pressure areas are associated with clear and sunny skies.\nReason (R): In areas with lower temperatures, air is cold, heavy, and sinks."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "చల్లని గాలి బరువుగా ఉండి క్రిందికి దిగుతుంది, ఇది అధిక పీడనాన్ని సృష్టిస్తుంది, ఇది స్పష్టమైన మరియు ఎండ వాతావరణంతో సంబంధం కలిగి ఉంటుంది.",
+    "en": "Cold air is heavy and sinks, creating high pressure, which is associated with clear and sunny weather."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T07-0055",
+   "section": {
+    "te": "Humidity and Temperature",
+    "en": "Humidity and Temperature"
+   },
+   "q": {
+    "te": "గాలి ఉష్ణోగ్రత పెరిగేకొద్దీ, నీటి ఆవిరిని పట్టి ఉంచే గాలి సామర్థ్యం ఏమవుతుంది?",
+    "en": "What happens to the capacity of air to hold water vapour as the air temperature increases?"
+   },
+   "options": {
+    "te": [
+     "అదే విధంగా ఉంటుంది",
+     "తగ్గుతుంది",
+     "పెరుగుతుంది",
+     "మొదట పెరిగి తర్వాత తగ్గుతుంది"
+    ],
+    "en": [
+     "It remains the same",
+     "It decreases",
+     "It increases",
+     "It first increases then decreases"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వెచ్చని గాలికి నీటి ఆవిరిని పట్టి ఉంచే సామర్థ్యం ఎక్కువగా ఉంటుంది, ఇది అధిక ఆర్ద్రత స్థాయిలకు దారితీస్తుంది.",
+    "en": "Warmer air has a higher capacity to hold water vapour, which leads to higher humidity levels."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T07-0043",
+   "section": {
+    "te": "Relative Humidity",
+    "en": "Relative Humidity"
+   },
+   "q": {
+    "te": "0% సాపేక్ష ఆర్ద్రతకు సంబంధించి ఈ క్రింది వాటిలో ఏది నిజం?",
+    "en": "Which of the following is true regarding 0% relative humidity?"
+   },
+   "options": {
+    "te": [
+     "ఇది ఎడారి ప్రాంతాలలో సాధారణం",
+     "సహజ పరిస్థితులలో ఇది అసాధ్యం",
+     "ఇది శీతాకాలంలో మాత్రమే సంభవిస్తుంది",
+     "గాలి నీటి ఆవిరితో సంతృప్తమైందని ఇది సూచిస్తుంది"
+    ],
+    "en": [
+     "It is common in desert regions",
+     "It is impossible in natural conditions",
+     "It occurs only during the winter season",
+     "It indicates the air is saturated with water vapour"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సహజ పరిస్థితులలో అస్సలు నీటి ఆవిరి లేని గాలి (0% ఆర్ద్రత) అసాధ్యమని పాఠ్య భాగం పేర్కొంది.",
+    "en": "Air containing absolutely no water vapour (0% humidity) is impossible in natural conditions."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T07-0169",
+   "section": {
+    "te": "Local Winds",
+    "en": "Local Winds"
+   },
+   "q": {
+    "te": "ఎత్తైన పీఠభూములు మరియు మంచు క్షేత్రాల నుండి లోయలోకి ప్రవహించే చల్లని గాలిని ఏమని పిలుస్తారు?",
+    "en": "What is the term for the cool air from high plateaus and ice fields that drains down into a valley?"
+   },
+   "options": {
+    "te": [
+     "కటాబాటిక్ పవనం (Katabatic wind)",
+     "లోయ గాలి (Valley breeze)",
+     "అనాబాటిక్ పవనం (Anabatic wind)",
+     "సముద్రపు గాలి (Sea breeze)"
+    ],
+    "en": [
+     "Katabatic wind",
+     "Valley breeze",
+     "Anabatic wind",
+     "Sea breeze"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "కటాబాటిక్ పవనాలు అంటే ఎత్తైన పీఠభూములు లేదా మంచు క్షేత్రాల నుండి గురుత్వాకర్షణ కారణంగా లోయలలోకి దిగే చల్లని, దట్టమైన పవనాలు.",
+    "en": "Katabatic winds are cool, dense winds that descend from high plateaus or ice fields into valleys due to gravity."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T07-0005",
+   "section": {
+    "te": "Pine Cones Behavior",
+    "en": "Pine Cones Behavior"
+   },
+   "q": {
+    "te": "పైన్ కోన్లకు (Pine cones) సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. విత్తనాలను రక్షించడానికి అవి తేమతో కూడిన పరిస్థితులలో మూసుకుంటాయి.\n2. విత్తనాలను విడుదల చేయడానికి అవి పొడి పరిస్థితులలో తెరుచుకుంటాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding pine cones:\n1. They close in humid conditions to protect seeds.\n2. They open in dry conditions to release seeds.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పైన్ కోన్లు రక్షణ కోసం తేమతో కూడిన వాతావరణంలో మూసుకుంటాయి మరియు విత్తనాల వ్యాప్తి కోసం పొడి వాతావరణంలో తెరుచుకుంటాయి.",
+    "en": "Pine cones close in humid weather for protection and open in dry weather for seed dispersal."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T07-0081",
+   "section": {
+    "te": "Aphelion",
+    "en": "Aphelion"
+   },
+   "q": {
+    "te": "అఫెలియన్ (Aphelion) సమయంలో భూమికి మరియు సూర్యుడికి మధ్య దూరం ఎంత?",
+    "en": "What is the distance between the Earth and the Sun during Aphelion?"
+   },
+   "options": {
+    "te": [
+     "147 మిలియన్ కి.మీ.",
+     "150 మిలియన్ కి.మీ.",
+     "155 మిలియన్ కి.మీ.",
+     "152 మిలియన్ కి.మీ."
+    ],
+    "en": [
+     "147 million km",
+     "150 million km",
+     "155 million km",
+     "152 million km"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జూలై 4న భూమి సూర్యుడికి అత్యంత దూరంలో (152 మిలియన్ కి.మీ.) ఉన్నప్పుడు అఫెలియన్ సంభవిస్తుంది.",
+    "en": "Aphelion occurs on 4th July when the Earth is farthest from the sun at a distance of 152 million km."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T07-0021",
+   "section": {
+    "te": "Manusmriti Quote",
+    "en": "Manusmriti Quote"
+   },
+   "q": {
+    "te": "మనుస్మృతి ప్రకారం, IMD నినాదంలో పేర్కొన్న సరైన క్రమం ఏమిటి?",
+    "en": "According to the ancient text Manusmriti, what is the correct sequence of origination mentioned in the motto of IMD?"
+   },
+   "options": {
+    "te": [
+     "సూర్యుడు → ఆహారం → వర్షం → జీవులు",
+     "సూర్యుడు → వర్షం → జీవులు → ఆహారం",
+     "సూర్యుడు → వర్షం → ఆహారం → జీవులు",
+     "వర్షం → సూర్యుడు → ఆహారం → జీవులు"
+    ],
+    "en": [
+     "Sun → Food → Rain → Living beings",
+     "Sun → Rain → Living beings → Food",
+     "Sun → Rain → Food → Living beings",
+     "Rain → Sun → Food → Living beings"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మనుస్మృతి ఇలా పేర్కొంది: 'సూర్యుని నుండి వర్షం కురుస్తుంది, వర్షం నుండి ఆహారం వస్తుంది మరియు ఆహారం నుండి జీవులు పుడతాయి'.",
+    "en": "The Manusmriti states: 'From the sun arises rain, from rain comes food, and from food, living beings originate.'"
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T07-0123",
+   "section": {
+    "te": "Temperature Range",
+    "en": "Temperature Range"
+   },
+   "q": {
+    "te": "యూరేషియా ఖండం యొక్క ఈశాన్య భాగంలో కనిపించే అత్యధిక ఉష్ణోగ్రత వ్యత్యాసానికి (60° C కంటే ఎక్కువ) ప్రధాన కారణం ఏమిటి?",
+    "en": "What is the primary reason for the highest range of temperature (more than 60° C) observed over the north-eastern part of the Eurasian continent?"
+   },
+   "options": {
+    "te": [
+     "సముద్ర ప్రవాహాలు",
+     "సముద్ర మట్టం నుండి ఎత్తు (Altitude)",
+     "ఖండాంతర ప్రభావం (Continentality)",
+     "అక్షాంశం"
+    ],
+    "en": [
+     "Ocean currents",
+     "Altitude",
+     "Continentality",
+     "Latitude"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "యూరేషియా ఈశాన్య భాగంలో అత్యధిక ఉష్ణోగ్రత వ్యత్యాసం ఉండటానికి ప్రధాన కారణం ఖండాంతర ప్రభావం (Continentality).",
+    "en": "The highest range of temperature over the north-eastern part of Eurasia is specifically attributed to continentality."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T07-0073",
+   "section": {
+    "te": "Atmospheric Elements",
+    "en": "Atmospheric Elements"
+   },
+   "q": {
+    "te": "మానవ జీవితాన్ని ప్రభావితం చేసే వాతావరణంలోని ప్రధాన అంశాలు కింది వాటిలో ఏవి?",
+    "en": "Which of the following are considered main elements of the atmosphere that influence human life?"
+   },
+   "options": {
+    "te": [
+     "ఉష్ణోగ్రత మరియు పీడనం",
+     "గాలులు మరియు ఆర్ద్రత",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Temperature and Pressure",
+     "Winds and Humidity",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఉష్ణోగ్రత, పీడనం, గాలులు, ఆర్ద్రత, మేఘాలు మరియు వర్షపాతం మానవ జీవితాన్ని ప్రభావితం చేసే ప్రధాన అంశాలని పాఠ్యాంశం పేర్కొంది.",
+    "en": "The text lists temperature, pressure, winds, humidity, clouds, and precipitation as the main elements influencing human life."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T07-0027",
+   "section": {
+    "te": "Wind Sock Usage",
+    "en": "Wind Sock Usage"
+   },
+   "q": {
+    "te": "గాలి దిశను నిర్ణయించడానికి క్రింది వారిలో ఎవరు 'విండ్ సాక్స్' (wind socks) ఉపయోగిస్తారు?",
+    "en": "Who among the following use 'wind socks' to determine wind direction?"
+   },
+   "options": {
+    "te": [
+     "టేకాఫ్ మరియు ల్యాండింగ్ సమయంలో పైలట్లు",
+     "బూడిద లేదా వాయువులను విడుదల చేసే పరిశ్రమలు",
+     "A మరియు B రెండూ",
+     "నేల తేమను అంచనా వేయడానికి రైతులు"
+    ],
+    "en": [
+     "Pilots during take-off and landing",
+     "Industries that release ash or gases",
+     "Both A and B",
+     "Farmers for predicting soil moisture"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "విండ్ సాక్స్‌లను టార్మాక్‌లపై పైలట్లు మరియు బూడిద లేదా వాయువులను విడుదల చేసే పరిశ్రమలు గాలి దిశను పర్యవేక్షించడానికి ఉపయోగిస్తాయి.",
+    "en": "Wind socks are used by pilots on tarmacs and also by industries that release ash or gases to monitor wind direction."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T07-0151",
+   "section": {
+    "te": "Frictional Force Elevation",
+    "en": "Frictional Force Elevation"
+   },
+   "q": {
+    "te": "గాలి వేగంపై ఘర్షణ బలం (frictional force) ప్రభావం సాధారణంగా సుమారు ఎంత ఎత్తు వరకు ఉంటుంది?",
+    "en": "Up to what approximate elevation does the influence of frictional force on wind speed generally extend?"
+   },
+   "options": {
+    "te": [
+     "10 - 12 కి.మీ",
+     "1 - 3 కి.మీ",
+     "5 - 8 కి.మీ",
+     "0.5 - 1 కి.మీ"
+    ],
+    "en": [
+     "10 - 12 km",
+     "1 - 3 km",
+     "5 - 8 km",
+     "0.5 - 1 km"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఘర్షణ బలం ఉపరితలం వద్ద బలంగా ఉంటుంది మరియు సాధారణంగా 1 నుండి 3 కి.మీ ఎత్తు వరకు గాలి వేగాన్ని ప్రభావితం చేస్తుంది.",
+    "en": "Frictional force is strongest at the surface and typically affects wind speed up to an altitude of 1 to 3 km."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T07-0072",
+   "section": {
+    "te": "Storm Effects",
+    "en": "Storm Effects"
+   },
+   "q": {
+    "te": "కింది వాటిలో 'తుఫాను' (Storm - 103–117 కి.మీ/గం) యొక్క లక్షణ ప్రభావం ఏది?",
+    "en": "Which of the following is a characteristic effect of a 'Storm' (103–117 km/hr)?"
+   },
+   "options": {
+    "te": [
+     "గొడుగులు వాడటం కష్టమవుతుంది",
+     "విస్తృతమైన నష్టం",
+     "ఆకులు గలగలలాడతాయి",
+     "పొగ నిలువుగా పైకి లేస్తుంది"
+    ],
+    "en": [
+     "Umbrellas are difficult to use",
+     "Widespread damage",
+     "Leaves rustle",
+     "Smoke rises vertically"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అరుదుగా సంభవించే తుఫాను సాధారణంగా విస్తృతమైన నష్టాన్ని కలిగిస్తుందని పాఠ్యాంశం పేర్కొంది.",
+    "en": "A storm, which is rarely experienced, is usually accompanied by widespread damage."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T07-0104",
+   "section": {
+    "te": "Radiation Balance Variation",
+    "en": "Radiation Balance Variation"
+   },
+   "q": {
+    "te": "భూమిపై ఏ అక్షాంశాల మధ్య నికర వికిరణ సమతుల్యత (net radiation balance) మిగులు ఉంటుంది?",
+    "en": "Between which latitudes is there a surplus of net radiation balance on Earth?"
+   },
+   "options": {
+    "te": [
+     "23.5 డిగ్రీల ఉత్తర మరియు దక్షిణ అక్షాంశాల మధ్య",
+     "40 డిగ్రీల ఉత్తర మరియు దక్షిణ అక్షాంశాల మధ్య",
+     "60 డిగ్రీల ఉత్తర మరియు దక్షిణ అక్షాంశాల మధ్య",
+     "భూమధ్యరేఖ వద్ద మాత్రమే"
+    ],
+    "en": [
+     "Between 23.5 degrees North and South",
+     "Between 40 degrees North and South",
+     "Between 60 degrees North and South",
+     "Only at the Equator"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "40 డిగ్రీల ఉత్తర మరియు దక్షిణ అక్షాంశాల మధ్య నికర వికిరణ సమతుల్యత మిగులు ఉంటుందని పాఠ్యాంశం పేర్కొంది.",
+    "en": "There is a surplus of net radiation balance between 40 degrees north and south latitudes."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T07-0147",
+   "section": {
+    "te": "Pressure Units",
+    "en": "Pressure Units"
+   },
+   "q": {
+    "te": "వాతావరణ పీడనాన్ని సాధారణంగా ఈ క్రింది ఏ యూనిట్లలో వ్యక్తపరుస్తారు?",
+    "en": "In which of the following units is atmospheric pressure commonly expressed?"
+   },
+   "options": {
+    "te": [
+     "కిలోగ్రాములు",
+     "డిగ్రీ సెల్సియస్",
+     "ఐసోథెర్మ్స్",
+     "మిల్లీబార్‌లు"
+    ],
+    "en": [
+     "Kilograms",
+     "Degrees Celsius",
+     "Isotherms",
+     "Millibars"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యాంశంలో పేర్కొన్న విధంగా వాతావరణ పీడనాన్ని కొలవడానికి మరియు వ్యక్తపరచడానికి ప్రామాణిక యూనిట్ మిల్లీబార్ (mb).",
+    "en": "The standard unit for measuring and expressing atmospheric pressure mentioned in the text is the millibar (mb)."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T07-0036",
+   "section": {
+    "te": "Humid weather range",
+    "en": "Humid weather range"
+   },
+   "q": {
+    "te": "వాతావరణాన్ని 'తేమతో కూడినది' (humid) అని పరిగణించడానికి సాపేక్ష ఆర్ద్రత సాధారణంగా ఏ పరిధిలో ఉండాలి?",
+    "en": "What is the typical range of relative humidity for weather to be considered 'humid'?"
+   },
+   "options": {
+    "te": [
+     "0% నుండి 20%",
+     "40% నుండి 60%",
+     "60% నుండి 80%",
+     "20% నుండి 40%"
+    ],
+    "en": [
+     "0% to 20%",
+     "40% to 60%",
+     "60% to 80%",
+     "20% to 40%"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "తేమతో కూడిన వాతావరణంలో సాపేక్ష ఆర్ద్రత సాధారణంగా 60% మరియు 80% మధ్య ఉంటుందని పాఠ్య భాగం పేర్కొంది.",
+    "en": "Humid weather usually falls between 60% and 80% relative humidity."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T07-0198",
+   "section": {
+    "te": "Stratus Clouds",
+    "en": "Stratus Clouds"
+   },
+   "q": {
+    "te": "స్ట్రాటస్ (Stratus) మేఘాలు సాధారణంగా ఎలా ఏర్పడతాయి?",
+    "en": "How are Stratus clouds generally formed?"
+   },
+   "options": {
+    "te": [
+     "అధిక ఎత్తులో నీటి బిందువులు గడ్డకట్టడం ద్వారా",
+     "తీవ్రమైన వేడి మరియు పైకి లేచే సంవహన ప్రవాహాల వల్ల",
+     "పర్వత అడ్డంకులపై గాలి వేగంగా పైకి వెళ్లడం ద్వారా",
+     "ఉష్ణ నష్టం లేదా వివిధ ఉష్ణోగ్రతలు కలిగిన వాయురాశుల కలయిక వల్ల"
+    ],
+    "en": [
+     "By the freezing of water droplets at high altitudes",
+     "Due to intense heating and rising convection currents",
+     "By the rapid ascent of air over mountain barriers",
+     "Due to loss of heat or mixing of air masses with different temperatures"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "స్ట్రాటస్ మేఘాలు ఉష్ణ నష్టం లేదా వివిధ ఉష్ణోగ్రతలు కలిగిన వాయురాశుల కలయిక ద్వారా ఏర్పడే పొరల మేఘాలు.",
+    "en": "Stratus clouds are layered clouds formed by heat loss or the mixing of air masses that have different temperatures."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T07-0080",
+   "section": {
+    "te": "Heat Transfer",
+    "en": "Heat Transfer"
+   },
+   "q": {
+    "te": "ప్రతిపాదన (A): భూమిలోని వివిధ భాగాలు గ్రహించే ఉష్ణ పరిమాణం సమానంగా ఉండదు.\nకారణం (R): ఈ వైవిధ్యం వాతావరణ పీడన వ్యత్యాసాలను కలిగిస్తుంది, ఇది గాలుల ద్వారా ఉష్ణ బదిలీకి దారితీస్తుంది.",
+    "en": "Assertion (A): The amount of heat received by different parts of the earth is not the same.\nReason (R): This variation causes pressure differences that lead to the transfer of heat by winds."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "గ్రహించిన ఉష్ణంలో వైవిధ్యం పీడన వ్యత్యాసాలను కలిగిస్తుంది, దీని ఫలితంగా గాలులు వీచి ప్రాంతాల మధ్య ఉష్ణాన్ని బదిలీ చేస్తాయి.",
+    "en": "The variation in heat received causes pressure differences, which in turn lead to winds that transfer heat between regions."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T07-0187",
+   "section": {
+    "te": "Cirrus Clouds Altitude",
+    "en": "Cirrus Clouds Altitude"
+   },
+   "q": {
+    "te": "సిరస్ (Cirrus) మేఘాలు సాధారణంగా ఏ ఎత్తులో ఏర్పడతాయి?",
+    "en": "At what altitude range are Cirrus clouds typically formed?"
+   },
+   "options": {
+    "te": [
+     "8,000 - 12,000 మీటర్లు",
+     "4,000 - 7,000 మీటర్లు",
+     "12,000 - 15,000 మీటర్లు",
+     "2,000 - 5,000 మీటర్లు"
+    ],
+    "en": [
+     "8,000 - 12,000 m",
+     "4,000 - 7,000 m",
+     "12,000 - 15,000 m",
+     "2,000 - 5,000 m"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వనరుల ప్రకారం, సిరస్ మేఘాలు 8,000 నుండి 12,000 మీటర్ల మధ్య ఎత్తులో ఏర్పడే ఉన్నత స్థాయి మేఘాలు.",
+    "en": "Cirrus clouds are high-altitude clouds formed between 8,000 and 12,000 meters."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T07-0035",
+   "section": {
+    "te": "Humidity factors",
+    "en": "Humidity factors"
+   },
+   "q": {
+    "te": "నీటి ఆవిరి పరిమాణంతో పాటు, ఆర్ద్రత (Humidity) ఈ క్రింది ఏ అంశాలపై ఆధారపడి ఉంటుంది?",
+    "en": "Apart from the amount of water vapour, which of the following factors does humidity depend on?"
+   },
+   "options": {
+    "te": [
+     "ఉష్ణోగ్రత మరియు గాలి",
+     "పీడనం మరియు ప్రాంతం",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Temperature and Wind",
+     "Pressure and Location",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్య భాగం ప్రకారం, ఆర్ద్రత అనేది ఉష్ణోగ్రత, గాలి, పీడనం మరియు ప్రాంతంపై ఆధారపడి ఉంటుంది.",
+    "en": "Humidity depends on temperature, wind, pressure, and location."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T07-0158",
+   "section": {
+    "te": "Isobars and Pressure Gradient",
+    "en": "Isobars and Pressure Gradient"
+   },
+   "q": {
+    "te": "ఐసోబార్లు మరియు పీడన ప్రవణత మధ్య సంబంధాన్ని ఈ క్రింది వాటిలో ఏది వివరిస్తుంది?",
+    "en": "Which of the following describes the relationship between isobars and the pressure gradient?"
+   },
+   "options": {
+    "te": [
+     "ఐసోబార్ల దూరం పీడన ప్రవణతపై ఎటువంటి ప్రభావాన్ని చూపదు",
+     "ఐసోబార్లు దగ్గరగా ఉన్నప్పుడు పీడన ప్రవణత బలహీనంగా ఉంటుంది",
+     "ఐసోబార్లతో సంబంధం లేకుండా పీడన ప్రవణత స్థిరంగా ఉంటుంది",
+     "ఐసోబార్లు దగ్గరగా ఉన్నప్పుడు పీడన ప్రవణత బలంగా ఉంటుంది"
+    ],
+    "en": [
+     "Isobar spacing has no effect on pressure gradient",
+     "Pressure gradient is weak when isobars are close",
+     "Pressure gradient is constant regardless of isobars",
+     "Pressure gradient is strong when isobars are close"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మ్యాప్‌లో ఐసోబార్లు ఒకదానికొకటి ఎంత దగ్గరగా ఉంటే, ఆ ప్రాంతంలో పీడన ప్రవణత బలం అంత బలంగా ఉంటుంది.",
+    "en": "The closer the isobars are to each other on a map, the stronger the pressure gradient force in that area."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T07-0142",
+   "section": {
+    "te": "Average Sea Level Pressure",
+    "en": "Average Sea Level Pressure"
+   },
+   "q": {
+    "te": "సముద్ర మట్టం వద్ద సగటు వాతావరణ పీడనం ఎన్ని మిల్లీబార్‌లుగా ఉంటుంది?",
+    "en": "What is the average atmospheric pressure at sea level as expressed in millibars?"
+   },
+   "options": {
+    "te": [
+     "1,000.0 mb",
+     "984.5 mb",
+     "1,030.2 mb",
+     "1,013.2 mb"
+    ],
+    "en": [
+     "1,000.0 mb",
+     "984.5 mb",
+     "1,030.2 mb",
+     "1,013.2 mb"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సగటు సముద్ర మట్టం వద్ద ప్రామాణిక వాతావరణ పీడనం 1,013.2 మిల్లీబార్‌లు.",
+    "en": "The standard average atmospheric pressure at mean sea level is 1,013.2 millibars."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T07-0161",
+   "section": {
+    "te": "Air Movement in High Pressure",
+    "en": "Air Movement in High Pressure"
+   },
+   "q": {
+    "te": "అధిక పీడన ప్రాంతంలో గాలి కదలిక యొక్క లక్షణం ఏమిటి?",
+    "en": "What is the characteristic movement of air in a high-pressure area?"
+   },
+   "options": {
+    "te": [
+     "గాలి ఉపరితలం వద్దే చిక్కుకుపోతుంది",
+     "గాలి పైనుండి క్రిందికి దిగి ఉపరితలం వద్ద విడిపోతుంది (diverge)",
+     "గాలి కేంద్రీకృతమై పైకి లేస్తుంది",
+     "గాలి నిలువుగా పైకి కదులుతుంది"
+    ],
+    "en": [
+     "Air remains trapped at the surface",
+     "Air subsides and diverges at the surface",
+     "Air converges and rises",
+     "Air moves in a straight vertical line upward"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అధిక పీడన వ్యవస్థలలో, గాలి పైనుండి క్రిందికి దిగి భూ ఉపరితలం వద్ద వ్యాపిస్తుంది (విడిపోతుంది).",
+    "en": "In high-pressure systems, air sinks (subsides) from above and spreads out (diverges) at the earth's surface."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T07-0008",
+   "section": {
+    "te": "Temperature Scales",
+    "en": "Temperature Scales"
+   },
+   "q": {
+    "te": "15 డిగ్రీల సెల్సియస్ ఉష్ణోగ్రత ఫారెన్‌హీట్ స్కేల్‌లో ఎన్ని డిగ్రీలకు సమానం?",
+    "en": "A temperature of 15 degrees Celsius is equivalent to how many degrees on the Fahrenheit scale?"
+   },
+   "options": {
+    "te": [
+     "32°F",
+     "75°F",
+     "45°F",
+     "59°F"
+    ],
+    "en": [
+     "32°F",
+     "75°F",
+     "45°F",
+     "59°F"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం 15°C అనేది 59°F కి సమానం.",
+    "en": "15°C is the same as 59°F."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T07-0066",
+   "section": {
+    "te": "Dry Climate Cause",
+    "en": "Dry Climate Cause"
+   },
+   "q": {
+    "te": "ఒక నిర్దిష్ట ప్రాంతంలో చాలా కాలం పాటు వర్షపాతం లేకపోవడం వల్ల కలిగే ఫలితం ఏమిటి?",
+    "en": "What is the result of a long absence of rainfall in a particular region?"
+   },
+   "options": {
+    "te": [
+     "సమశీతోష్ణ శీతోష్ణస్థితి",
+     "పొడి శీతోష్ణస్థితి",
+     "తేమతో కూడిన శీతోష్ణస్థితి",
+     "ఉష్ణమండల శీతోష్ణస్థితి"
+    ],
+    "en": [
+     "A temperate climate",
+     "A dry climate",
+     "A humid climate",
+     "A tropical climate"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "చాలా కాలం పాటు వర్షపాతం లేకపోతే, అది పొడి శీతోష్ణస్థితికి దారితీస్తుందని పాఠ్యభాగం వివరిస్తుంది.",
+    "en": "If rainfall is absent for a long period, it results in a dry climate."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T07-0120",
+   "section": {
+    "te": "Isotherm Deviation",
+    "en": "Isotherm Deviation"
+   },
+   "q": {
+    "te": "జనవరిలో ఉత్తరార్ధగోళంలో సమోష్ణ రేఖలు (isotherms) సాధారణ అక్షాంశ ధోరణి నుండి ఎక్కువగా ఎందుకు తప్పుకుంటాయి?",
+    "en": "Why is the deviation of isotherms from the general latitudinal trend more pronounced in the Northern Hemisphere during January?"
+   },
+   "options": {
+    "te": [
+     "ఎత్తైన పర్వత శ్రేణుల ఉనికి వల్ల",
+     "దక్షిణార్ధగోళం కంటే భూభాగం వైశాల్యం చాలా ఎక్కువగా ఉండటం వల్ల",
+     "గ్రీన్‌హౌస్ వాయువుల సాంద్రత ఎక్కువగా ఉండటం వల్ల",
+     "ఉత్తరాన భూమి భ్రమణ వేగం ఎక్కువగా ఉండటం వల్ల"
+    ],
+    "en": [
+     "Due to the presence of high mountain ranges",
+     "Because the land surface area is much larger than in the Southern Hemisphere",
+     "Because of the higher concentration of greenhouse gases",
+     "Due to the higher speed of the Earth's rotation in the north"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, ఉత్తరార్ధగోళంలో భూభాగం వైశాల్యం దక్షిణార్ధగోళం కంటే చాలా ఎక్కువగా ఉండటం వల్ల సమోష్ణ రేఖల విచలనం అక్కడ ఎక్కువగా కనిపిస్తుంది.",
+    "en": "The deviation of isotherms is more pronounced in the Northern Hemisphere because its land surface area is much larger than that of the Southern Hemisphere."
+   }
+  }
+ ]
+}

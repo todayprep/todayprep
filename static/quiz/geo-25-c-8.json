@@ -1,0 +1,942 @@
+{
+ "id": "geo-25-c-8",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Agriculture – క్విజ్ 8",
+  "en": "Agriculture – Quiz 8"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T25-0047",
+   "section": {
+    "te": "Phad irrigation system",
+    "en": "Phad irrigation system"
+   },
+   "q": {
+    "te": "'ఫాద్ వ్యవస్థలు' (Phad systems) అనబడే సమాజ ఆధారిత నీటిపారుదల వ్యవస్థలు ప్రధానంగా భారతదేశంలోని ఏ రాష్ట్రంలో కనిపిస్తాయి?",
+    "en": "In which state of India are the community-based irrigation systems known as 'Phad systems' particularly found?"
+   },
+   "options": {
+    "te": [
+     "కేరళ",
+     "ఒడిశా",
+     "మహారాష్ట్ర",
+     "రాజస్థాన్"
+    ],
+    "en": [
+     "Kerala",
+     "Odisha",
+     "Maharashtra",
+     "Rajasthan"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఫాద్ వ్యవస్థలు అనేవి సమాజ ఆధారిత నీటిపారుదల వ్యవస్థలు, ఇవి ముఖ్యంగా మహారాష్ట్ర రాష్ట్రంలో కనిపిస్తాయి.",
+    "en": "Phad systems are community-based irrigation systems particularly found in Maharashtra."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T25-0199",
+   "section": {
+    "te": "Subsistence Agriculture Categories",
+    "en": "Subsistence Agriculture Categories"
+   },
+   "q": {
+    "te": "జీవనాధార వ్యవసాయాన్ని ఏ రెండు విభాగాలుగా వర్గీకరించారు?",
+    "en": "Subsistence agriculture is classified into which two broad categories?"
+   },
+   "options": {
+    "te": [
+     "స్థిర వ్యవసాయం మరియు పోడు వ్యవసాయం",
+     "ప్రాథమిక జీవనాధార వ్యవసాయం మరియు సాంద్ర జీవనాధార వ్యవసాయం",
+     "విస్తృత జీవనాధార వ్యవసాయం మరియు సంచార పశుపోషణ",
+     "వాణిజ్య వ్యవసాయం మరియు తోటల వ్యవసాయం"
+    ],
+    "en": [
+     "Sedentary agriculture and Shifting cultivation",
+     "Primitive subsistence agriculture and Intensive subsistence agriculture",
+     "Extensive subsistence agriculture and Pastoral nomadism",
+     "Commercial agriculture and Plantation agriculture"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "జీవనాధార వ్యవసాయాన్ని ప్రాథమిక జీవనాధార వ్యవసాయం మరియు సాంద్ర జీవనాధార వ్యవసాయం అనే రెండు వర్గాలుగా విభజించారు.",
+    "en": "Subsistence agriculture is grouped into Primitive Subsistence Agriculture and Intensive Subsistence Agriculture."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T25-0230",
+   "section": {
+    "te": "Collective Farming Kolkhoz",
+    "en": "Collective Farming Kolkhoz"
+   },
+   "q": {
+    "te": "'కోల్‌ఖోజ్' (Kolkhoz) అని పిలువబడే ఉమ్మడి వ్యవసాయ నమూనాను వ్యవసాయ ఉత్పత్తిని పెంచి స్వయం సమృద్ధి సాధించడానికి ఏ దేశంలో ప్రవేశపెట్టారు?",
+    "en": "The collective farming model known as 'Kolkhoz' was introduced in which region/country to boost agricultural production for self-sufficiency?"
+   },
+   "options": {
+    "te": [
+     "స్విట్జర్లాండ్",
+     "పూర్వపు సోవియట్ యూనియన్",
+     "యునైటెడ్ స్టేట్స్ ఆఫ్ అమెరికా",
+     "నెదర్లాండ్స్"
+    ],
+    "en": [
+     "Switzerland",
+     "Erstwhile Soviet Union",
+     "United States of America",
+     "The Netherlands"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పూర్వపు సోవియట్ యూనియన్‌లో వ్యవసాయ అసమర్థతలను అధిగమించి ఉత్పత్తిని పెంపొందించడానికి 'కోల్‌ఖోజ్' సామూహిక వ్యవసాయ విధానాన్ని ప్రవేశపెట్టారు.",
+    "en": "The Kolkhoz model of collective farming was introduced in the erstwhile Soviet Union to overcome inefficiencies and enhance agricultural production."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T25-0369",
+   "section": {
+    "te": "Ecological Balance Measures",
+    "en": "Ecological Balance Measures"
+   },
+   "q": {
+    "te": "ఇందిరా గాంధీ కెనాల్ ఆయకట్టు ప్రాంతంలో సుస్థిర అభివృద్ధిని ప్రోత్సహించడానికి ప్రతిపాదించిన ఏడు చర్యలలో ఎన్ని ప్రత్యేకంగా పర్యావరణ సమతుల్యతను పునరుద్ధరించడానికి ఉద్దేశించినవి?",
+    "en": "Out of the seven measures proposed to promote sustainable development in the Indira Gandhi Canal command area, how many are specifically meant to restore ecological balance?"
+   },
+   "options": {
+    "te": [
+     "మూడు",
+     "ఐదు",
+     "నాలుగు",
+     "ఆరు"
+    ],
+    "en": [
+     "Three",
+     "Five",
+     "Four",
+     "Six"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రతిపాదించిన ఏడు చర్యలలో ఐదు చర్యలు పర్యావరణ సమతుల్యతను పునరుద్ధరించడానికి ఉద్దేశించినవి.",
+    "en": "Five of the seven measures proposed to promote sustainable development in the command area are intended to restore ecological balance."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T25-0357",
+   "section": {
+    "te": "Fragmentation of Land",
+    "en": "Fragmentation of Land"
+   },
+   "q": {
+    "te": "ఒకసారి కమతాల ఏకీకరణ (ల్యాండ్ కన్సాలిడేషన్) పూర్తయిన రాష్ట్రాల్లో కూడా రెండోసారి ఏకీకరణ ఎందుకు అవసరమవుతోంది?",
+    "en": "Why is a second consolidation of landholdings required even in states where consolidation had already been carried out once?"
+   },
+   "options": {
+    "te": [
+     "తీవ్రమైన నేలకోత మరియు ఎడారీకరణ సంభవించడం వల్ల",
+     "తర్వాతి తరాల యజమానుల మధ్య భూమి విభజన జరగడం వల్ల",
+     "వ్యక్తిగత భూమి యాజమాన్యంపై ప్రభుత్వం నిషేధం విధించడం వల్ల",
+     "నగర విస్తరణ కోసం భూసేకరణ జరగడం వల్ల"
+    ],
+    "en": [
+     "Due to widespread soil erosion and desertification",
+     "Due to division of land among the owners of next generations",
+     "Due to a government ban on individual landownership",
+     "Due to acquisition of land for urban expansion"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "తర్వాతి తరాల మధ్య ఆస్తి పంపకాల ప్రక్రియలో భూకమతాలు మళ్లీ ముక్కలైపోవడం వలన రెండోసారి కమతాల ఏకీకరణ అవసరమవుతోంది.",
+    "en": "Second consolidation is required as landholdings have fragmented again due to the division of land among the owners of next generations."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T25-0187",
+   "section": {
+    "te": "Bhoodan Movement",
+    "en": "Bhoodan Movement"
+   },
+   "q": {
+    "te": "భూదాన్-గ్రామదాన్ ఉద్యమ సమయంలో చాలా మంది భూస్వాములు తమ భూమిలో కొంత భాగాన్ని పేద రైతులకు అందించడానికి ప్రధాన కారణం ఏమిటి?",
+    "en": "What was the primary reason many landowners chose to provide a part of their land to poor farmers during the Bhoodan-Gramdan movement?"
+   },
+   "options": {
+    "te": [
+     "మతపరమైన నమ్మకాలు",
+     "భూ గరిష్ట పరిమితి చట్టం (land ceiling act) పట్ల భయం",
+     "ప్రభుత్వ రాయితీలు",
+     "పన్నులు తప్పించుకోవడానికి"
+    ],
+    "en": [
+     "Religious beliefs",
+     "Fear of land ceiling act",
+     "Government subsidies",
+     "To avoid taxes"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కొంతమంది స్వచ్ఛందంగా భూమిని దానం చేసినప్పటికీ, చాలా మంది భూస్వాములు భూ గరిష్ట పరిమితి చట్టం వల్ల కలిగే పరిణామాలకు భయపడి భూమిని దానం చేశారు.",
+    "en": "While some donated land voluntarily, many landowners did so because they feared the implications of the land ceiling act."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T25-0197",
+   "section": {
+    "te": "Farm Forestry Definition",
+    "en": "Farm Forestry Definition"
+   },
+   "q": {
+    "te": "రైతులు తమ సొంత వ్యవసాయ భూములలో వాణిజ్య మరియు వాణిజ్యేతర ప్రయోజనాల కోసం చెట్లను పెంచే పద్ధతిని ఏమంటారు?",
+    "en": "The practice under which farmers grow trees for commercial and non-commercial purposes on their own farm lands is termed as:"
+   },
+   "options": {
+    "te": [
+     "వాణిజ్య అటవీకరణ",
+     "వ్యవసాయ-అటవీకరణ",
+     "ఫార్మ్ అటవీకరణ (Farm forestry)",
+     "కమ్యూనిటీ అటవీకరణ"
+    ],
+    "en": [
+     "Commercial forestry",
+     "Agro-forestry",
+     "Farm forestry",
+     "Community forestry"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రైతులు తమ స్వంత వ్యవసాయ భూములలో చెట్లను పెంచే ప్రక్రియను 'ఫార్మ్ ఫారెస్ట్రీ' అని పిలుస్తారు.",
+    "en": "Farm forestry refers to the process where farmers grow trees for commercial and non-commercial purposes on their farm lands."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T25-0322",
+   "section": {
+    "te": "Coffee Variety Grown",
+    "en": "Coffee Variety Grown"
+   },
+   "q": {
+    "te": "అంతర్జాతీయ మార్కెట్లో అధిక గిరాకీ ఉన్న ఏ మేలైన నాణ్యమైన కాఫీ రకాన్ని భారతదేశం ప్రధానంగా పండిస్తుంది?",
+    "en": "Which superior quality coffee variety, having high demand in the international market, is mostly grown in India?"
+   },
+   "options": {
+    "te": [
+     "ఎక్సెల్సా",
+     "రోబస్టా",
+     "అరేబికా",
+     "లిబెరికా"
+    ],
+    "en": [
+     "Excelsa",
+     "Robusta",
+     "Arabica",
+     "Liberica"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అంతర్జాతీయ మార్కెట్లో మంచి గిరాకీ ఉన్న ఉత్తమ నాణ్యమైన అరేబికా కాఫీ రకాన్ని భారతదేశం ఎక్కువగా పండిస్తుంది.",
+    "en": "India mostly grows superior quality coffee called arabica, which has great demand in the international market."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T25-0031",
+   "section": {
+    "te": "Northeast monsoon months",
+    "en": "Northeast monsoon months"
+   },
+   "q": {
+    "te": "భారతదేశంలో ఈశాన్య రుతుపవనాలు ఏ నెలల్లో వీచి తూర్పు మరియు దక్షిణ భారతదేశానికి వర్షాన్ని తెస్తాయి?",
+    "en": "The northeast monsoon brings rainfall to the east and south of India during which months?"
+   },
+   "options": {
+    "te": [
+     "డిసెంబర్ నుండి ఫిబ్రవరి",
+     "జూన్ నుండి సెప్టెంబర్",
+     "అక్టోబర్ నుండి డిసెంబర్",
+     "జూలై నుండి అక్టోబర్"
+    ],
+    "en": [
+     "December to February",
+     "June to September",
+     "October to December",
+     "July to October"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఈశాన్య రుతుపవనాలు అక్టోబర్ నుండి డిసెంబర్ వరకు కొనసాగి తూర్పు, దక్షిణ భారత ప్రాంతాలకు వర్షాన్నిస్తాయి.",
+    "en": "The northeast monsoon prevails from October to December, providing rain to eastern and southern India."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T25-0241",
+   "section": {
+    "te": "Current Fallow Practice",
+    "en": "Current Fallow Practice"
+   },
+   "q": {
+    "te": "ఒక వ్యవసాయ సంవత్సరం లేదా అంతకంటే తక్కువ కాలం భూమిని 'ప్రస్తుత బీడు' (Current Fallow) గా వదిలివేయడం యొక్క ముఖ్య ఉద్దేశం ఏమిటి?",
+    "en": "What is the primary agricultural purpose of leaving land as 'Current Fallow' for one or less than one agricultural year?"
+   },
+   "options": {
+    "te": [
+     "భూమికి విశ్రాంతినిచ్చి, సహజ ప్రక్రియల ద్వారా కోల్పోయిన సారాన్ని తిరిగి పొందేలా చేయడానికి",
+     "పంచాయతీ విధించే భూ రెవెన్యూ పన్నులను తప్పించుకోవడానికి",
+     "సర్వే ఆఫ్ ఇండియా నిబంధనలను పాటించడానికి",
+     "వ్యవసాయ భూమిని శాశ్వతంగా వ్యవసాయేతర వినియోగానికి మార్చడానికి"
+    ],
+    "en": [
+     "To give the land rest so that it recoups lost fertility through natural processes",
+     "To avoid land revenue taxes levied by the village panchayat",
+     "To fulfill mandatory Survey of India demarcations",
+     "To convert agricultural land permanently into non-agricultural use"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూమికి విశ్రాంతినివ్వడం వల్ల సహజ ప్రక్రియల ద్వారా అది కోల్పోయిన సారవంతతను తిరిగి పొందుతుంది; అందుకే ప్రస్తుత బీడుగా వదులుతారు.",
+    "en": "Fallowing is a cultural practice adopted to give the land rest so that it recoups lost fertility through natural processes."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T25-0029",
+   "section": {
+    "te": "Climate zones matching",
+    "en": "Climate zones matching"
+   },
+   "q": {
+    "te": "కింది శీతోష్ణస్థితి రకాలను వాటి సంబంధిత ప్రాంతాలతో జతపరచండి:\n1. ఉపఉష్ణమండల (Subtropical) - i. థార్ ఎడారి\n2. శుష్క (Arid) - ii. ఉత్తర మైదానాలు\n3. ఉష్ణమండల తేమ (Tropical wet) - iii. మధ్య దక్కన్ పీఠభూమి\n4. అర్ధ-శుష్క (Semi-arid) - iv. పశ్చిమ తీర ప్రాంతం\nసరైన సమాధానాన్ని ఎంచుకోండి:",
+    "en": "Match the following climate types with their corresponding regions:\n1. Subtropical - i. Thar Desert\n2. Arid - ii. Northern plains\n3. Tropical wet - iii. Central Deccan Plateau\n4. Semi-arid - iv. Western coastal strip\nSelect the correct combination:"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-i, 3-iv, 4-iii",
+     "1-i, 2-ii, 3-iv, 4-iii",
+     "1-ii, 2-i, 3-iii, 4-iv",
+     "1-iv, 2-i, 3-ii, 4-iii"
+    ],
+    "en": [
+     "1-ii, 2-i, 3-iv, 4-iii",
+     "1-i, 2-ii, 3-iv, 4-iii",
+     "1-ii, 2-i, 3-iii, 4-iv",
+     "1-iv, 2-i, 3-ii, 4-iii"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఉత్తర మైదానాలు ఉపఉష్ణమండల రకం, థార్ ఎడారి శుష్క రకం, పశ్చిమ తీరం ఉష్ణమండల తేమ రకం, మరియు మధ్య దక్కన్ పీఠభూమి అర్ధ-శుష్క రకం శీతోష్ణస్థితిని కలిగి ఉంటాయి.",
+    "en": "Subtropical corresponds to the northern plains, Arid to the Thar Desert, Tropical wet to the western coastal strip, and Semi-arid to the central Deccan Plateau."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T25-0129",
+   "section": {
+    "te": "Rice Cultivation Conditions",
+    "en": "Rice Cultivation Conditions"
+   },
+   "q": {
+    "te": "ఖరీఫ్ పంటగా వరి సాగుకు ఈ క్రింది ఏ వాతావరణ పరిస్థితులు అవసరం?",
+    "en": "Which of the following climatic conditions are required for the cultivation of rice as a kharif crop?"
+   },
+   "options": {
+    "te": [
+     "25°C కంటే ఎక్కువ ఉష్ణోగ్రత మరియు 100 సెం.మీ కంటే ఎక్కువ వర్షపాతం",
+     "20°C కంటే తక్కువ ఉష్ణోగ్రత మరియు 150 సెం.మీ కంటే ఎక్కువ వర్షపాతం",
+     "30°C కంటే ఎక్కువ ఉష్ణోగ్రత మరియు 50 సెం.మీ కంటే తక్కువ వర్షపాతం",
+     "15°C నుండి 20°C మధ్య ఉష్ణోగ్రత మరియు 100 సెం.మీ కంటే ఎక్కువ వర్షపాతం"
+    ],
+    "en": [
+     "Temperature above 25°C and rainfall above 100 cm",
+     "Temperature below 20°C and rainfall above 150 cm",
+     "Temperature above 30°C and rainfall below 50 cm",
+     "Temperature between 15°C to 20°C and rainfall above 100 cm"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వరి సాగుకు అధిక ఉష్ణోగ్రత (25°C కంటే ఎక్కువ), అధిక తేమ మరియు 100 సెం.మీ కంటే ఎక్కువ వార్షిక వర్షపాతం అవసరం.",
+    "en": "Rice requires high temperature (above 25°C), high humidity, and annual rainfall exceeding 100 cm."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T25-0107",
+   "section": {
+    "te": "Land Conservation",
+    "en": "Land Conservation"
+   },
+   "q": {
+    "te": "శుష్క (Arid) ప్రాంతాలలో భూమి క్షీణతను అరికట్టడానికి ఈ క్రింది ఏ పద్ధతులు సిఫార్సు చేయబడ్డాయి?\nA. షెల్టర్ బెల్ట్‌ల (రక్షణ కవచాలు) పెంపకం\nB. ముళ్ల పొదలను పెంచడం ద్వారా ఇసుక దిబ్బలను స్థిరీకరించడం\nC. పారిశ్రామిక వ్యర్థాలను సరిగ్గా విసర్జించడం",
+    "en": "Which of the following methods are recommended to check land degradation in arid areas?\nA. Planting of shelter belts\nB. Stabilisation of sand dunes by growing thorny bushes\nC. Proper discharge of industrial effluents"
+   },
+   "options": {
+    "te": [
+     "A మరియు C మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు B రెండూ",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and C only",
+     "B and C only",
+     "Both A and B",
+     "All of the above"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "శుష్క ప్రాంతాల కోసం షెల్టర్ బెల్ట్‌లు మరియు ముళ్ల పొదలు ప్రత్యేకంగా పేర్కొనబడ్డాయి, అయితే పారిశ్రామిక వ్యర్థాల శుద్ధి పారిశ్రామిక మరియు శివారు ప్రాంతాల కోసం ఉద్దేశించబడింది.",
+    "en": "Shelter belts and thorny bushes for sand dunes are specifically for arid areas, while industrial effluent treatment is for industrial and suburban areas."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T25-0358",
+   "section": {
+    "te": "Land Degradation Causes",
+    "en": "Land Degradation Causes"
+   },
+   "q": {
+    "te": "భారతదేశంలోని నీటిపారుదల ప్రాంతాలలో పెద్ద విస్తీర్ణంలో గల వ్యవసాయ భూమి తన సారవంతాన్ని కోల్పోవడానికి ప్రధాన కారణాలు ఏవి?",
+    "en": "In irrigated areas of India, large tracts of agricultural land have lost their fertility primarily due to which of the following?"
+   },
+   "options": {
+    "te": [
+     "నేలలు క్షారత్వాన్ని (ఆల్కలైజేషన్) పొందడం",
+     "నేలలు లవణీయతను (శాలినైజేషన్) పొందడం",
+     "నీరు నిల్వ ఉండిపోవడం (వాటర్‌లాగింగ్)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Alkalisation of soils",
+     "Salinisation of soils",
+     "Waterlogging",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సాగునీటి సౌకర్యం ఉన్న ప్రాంతాలలో నేలల లవణీయత, క్షారత్వం పెరగడం మరియు నీరు నిల్వ ఉండిపోవడం వల్ల భూమి సారవంతం కోల్పోయింది.",
+    "en": "Agricultural land in irrigated areas has lost fertility due to alkalisation, salinisation of soils, and waterlogging."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T25-0126",
+   "section": {
+    "te": "Regional Farming Names",
+    "en": "Regional Farming Names"
+   },
+   "q": {
+    "te": "హిమాలయ ప్రాంతంలో ఆచరించే 'నరికి కాల్చివేసే' వ్యవసాయాన్ని ఏమని పిలుస్తారు?",
+    "en": "What is the name of the 'slash and burn' agriculture practiced in the Himalayan belt?"
+   },
+   "options": {
+    "te": [
+     "కురువా (Kuruwa)",
+     "వాల్రే (Valre)",
+     "బ్రింగా (Bringa)",
+     "ఖిల్ (Khil)"
+    ],
+    "en": [
+     "Kuruwa",
+     "Valre",
+     "Bringa",
+     "Khil"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "హిమాలయ ప్రాంతంలో ప్రాచీన వ్యవసాయ పద్ధతిని 'ఖిల్' అని పిలుస్తారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The primitive form of cultivation is called 'Khil' in the Himalayan belt."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T25-0325",
+   "section": {
+    "te": "Tea Processing Types",
+    "en": "Tea Processing Types"
+   },
+   "q": {
+    "te": "తేయాకు ప్రాసెసింగ్‌కు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. నల్ల తేయాకు (Black tea) ఆకులు కిణ్వ ప్రక్రియకు (fermented) గురిచేయబడతాయి.\n2. ఆకుపచ్చ తేయాకు (Green tea) ఆకులు కిణ్వ ప్రక్రియకు గురికానివి (unfermented).\nపై ప్రకటనలలో ఏది/ఏవి సరైనది/సరైనవి?",
+    "en": "Consider the following statements regarding tea leaves processing:\n1. Black tea leaves are fermented.\n2. Green tea leaves are unfermented.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నల్ల తేయాకు ఆకులను కిణ్వ ప్రక్రియకు (ferment) గురిచేస్తారు, అయితే గ్రీన్ టీ ఆకులను కిణ్వ ప్రక్రియ చేయరు (unfermented).",
+    "en": "Black tea leaves undergo fermentation, whereas green tea leaves are left unfermented."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T25-0072",
+   "section": {
+    "te": "Green Revolution crops",
+    "en": "Green Revolution crops"
+   },
+   "q": {
+    "te": "హరిత విప్లవం ఏ రెండు ప్రధాన ఆహార ధాన్యాల ఉత్పత్తిలో గణనీయమైన వృద్ధికి దారితీసింది?",
+    "en": "The Green Revolution led to a significant increase in the production of which two primary food grains?"
+   },
+   "options": {
+    "te": [
+     "జొన్న మరియు బాజ్రా",
+     "చిరుధాన్యాలు మరియు పప్పుధాన్యాలు",
+     "గోధుమ మరియు వరి",
+     "మొక్కజొన్న మరియు బార్లీ"
+    ],
+    "en": [
+     "Jowar and Bajra",
+     "Millets and Pulses",
+     "Wheat and Rice",
+     "Maize and Barley"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "హరిత విప్లవం ప్రధానంగా గోధుమ మరియు వరి ఉత్పత్తిని పెంచింది, ఇది భారతదేశం ఆహార స్వయంసమృద్ధిని సాధించడంలో సహాయపడింది.",
+    "en": "The Green Revolution primarily boosted the production of wheat and rice, helping India achieve food self-sufficiency."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T25-0353",
+   "section": {
+    "te": "Agricultural Unemployment",
+    "en": "Agricultural Unemployment"
+   },
+   "q": {
+    "te": "భారతదేశంలోని నీటిపారుదల లేని ప్రాంతాల్లో వ్యవసాయ రంగంలో సాధారణంగా ఎన్ని నెలల కాలానుగుణ నిరుద్యోగం (సీజనల్ అన్‌ఎంప్లాయ్‌మెంట్) ఉంటుంది?",
+    "en": "In the unirrigated tracts of India, seasonal unemployment in agriculture typically ranges from:"
+   },
+   "options": {
+    "te": [
+     "4 నుండి 8 నెలలు",
+     "2 నుండి 4 నెలలు",
+     "1 నుండి 3 నెలలు",
+     "8 నుండి 10 నెలలు"
+    ],
+    "en": [
+     "4 to 8 months",
+     "2 to 4 months",
+     "1 to 3 months",
+     "8 to 10 months"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భారతదేశంలోని నీటిపారుదల లేని ప్రాంతాలలో 4 నుండి 8 నెలల వరకు కాలానుగుణ నిరుద్యోగం ఉంటుంది.",
+    "en": "In unirrigated areas, there is seasonal unemployment ranging from 4 to 8 months."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T25-0295",
+   "section": {
+    "te": "Wheat Yield Levels",
+    "en": "Wheat Yield Levels"
+   },
+   "q": {
+    "te": "ఈ క్రింది ఏ రాష్ట్రాల్లో గోధుమ దిగుబడి స్థాయి చాలా ఎక్కువగా (హెక్టారుకు 4,000 కిలోల కంటే ఎక్కువ) నమోదైంది?",
+    "en": "In which of the following states is the yield level of wheat recorded as very high (above 4,000 kg per ha)?"
+   },
+   "options": {
+    "te": [
+     "ఉత్తర ప్రదేశ్ మరియు బీహార్",
+     "హిమాచల్ ప్రదేశ్ మరియు జమ్మూ కాశ్మీర్",
+     "మధ్యప్రదేశ్ మరియు రాజస్థాన్",
+     "పంజాబ్ మరియు హర్యానా"
+    ],
+    "en": [
+     "Uttar Pradesh and Bihar",
+     "Himachal Pradesh and Jammu and Kashmir",
+     "Madhya Pradesh and Rajasthan",
+     "Punjab and Haryana"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పంజాబ్ మరియు హర్యానాలో హెక్టారుకు 4,000 కిలోల కంటే ఎక్కువ గోధుమ దిగుబడి ఉందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text specifies that Punjab and Haryana have very high wheat yields exceeding 4,000 kg per hectare."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T25-0106",
+   "section": {
+    "te": "Agricultural Schemes",
+    "en": "Agricultural Schemes"
+   },
+   "q": {
+    "te": "ప్రధాన మంత్రి కృషి సించాయి యోజన కింద పొలంలో నీటి వినియోగ సామర్థ్యాన్ని మెరుగుపరిచే లక్ష్యంతో ఏ నినాదం ముడిపడి ఉంది?",
+    "en": "Which slogan is associated with the objective of improving on-farm water use efficiency under the Pradhan Mantri Krishi Sinchayee Yojana?"
+   },
+   "options": {
+    "te": [
+     "పర్ డ్రాప్ మోర్ క్రాప్",
+     "జై కిసాన్",
+     "నిర్మల్ భారత్",
+     "హర్ ఖేత్ కో పానీ"
+    ],
+    "en": [
+     "Per drop more crop",
+     "Jai Kisan",
+     "Nirmal Bharat",
+     "Har khet ko pani"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పొలంలో నీటి వినియోగ సామర్థ్యాన్ని మెరుగుపరచడం మరియు నీటి పొదుపు సాంకేతికతలను ఉపయోగించడం అనే లక్ష్యంతో 'పర్ డ్రాప్ మోర్ క్రాప్' (ప్రతి చుక్కకు ఎక్కువ పంట) అనే నినాదాన్ని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text links 'per drop more crop' with the objective of improving on-farm water use efficiency and water-saving technologies."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T25-0092",
+   "section": {
+    "te": "Cropping seasons in India",
+    "en": "Cropping seasons in India"
+   },
+   "q": {
+    "te": "భారతదేశ విభిన్న వాతావరణాలు మరియు రుతుపవనాలతో ముడిపడి ఉన్న మూడు పంట కాలాలకు సంబంధించి కింది వాటిలో ఏది సరైన సమాధానం?",
+    "en": "Which of the following are the three cropping seasons connected with the diverse climates and monsoons in India?"
+   },
+   "options": {
+    "te": [
+     "ఖరీఫ్ మరియు రబీ",
+     "జైద్ మరియు పోడు",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Kharif and Rabi",
+     "Zaid and Podu",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశంలో మూడు పంట కాలాలు ఖరీఫ్, రబీ మరియు జైద్. పోడు అనేది పోడు వ్యవసాయ పద్ధతి మాత్రమే, పంట కాలం కాదు. కాబట్టి సరైన సమాధానం 'పైవేవీ కావు'.",
+    "en": "The three cropping seasons are kharif, rabi, and zaid. Podu is a form of shifting cultivation, not a cropping season."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T25-0180",
+   "section": {
+    "te": "Farmer Schemes",
+    "en": "Farmer Schemes"
+   },
+   "q": {
+    "te": "రైతుల ప్రయోజనం కోసం భారత ప్రభుత్వం ప్రవేశపెట్టిన పథకాలు ఏవి?",
+    "en": "Which of the following schemes were introduced by the Government of India for the benefit of farmers?"
+   },
+   "options": {
+    "te": [
+     "కిసాన్ క్రెడిట్ కార్డ్ (KCC)",
+     "పర్సనల్ యాక్సిడెంట్ ఇన్సూరెన్స్ స్కీమ్ (PAIS)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Kisan Credit Card (KCC)",
+     "Personal Accident Insurance Scheme (PAIS)",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వ్యవసాయ రంగానికి ప్రయోజనం చేకూర్చడానికి ప్రభుత్వం ప్రవేశపెట్టిన పథకాలుగా KCC మరియు PAIS రెండూ పాఠ్యాంశంలో పేర్కొనబడ్డాయి.",
+    "en": "Both KCC and PAIS are specific schemes mentioned in the text that were introduced to benefit the farming community."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T25-0264",
+   "section": {
+    "te": "Total Cultivable Land",
+    "en": "Total Cultivable Land"
+   },
+   "q": {
+    "te": "వ్యవసాయ భూ వనరుల మొత్తం నిల్వను (మొత్తం సాగు చేయదగిన భూమి) ఈ క్రింది ఏ వర్గాలను కలపడం ద్వారా అంచనా వేస్తారు?",
+    "en": "The total stock of agricultural land resources (total cultivable land) is estimated by adding which of the following categories?"
+   },
+   "options": {
+    "te": [
+     "నికర సాగు భూమి + అడవులు + బంజరు భూమి",
+     "నికర సాగు భూమి + అన్ని పడి భూములు + సాగు చేయదగిన బంజరు భూమి",
+     "నికర సాగు భూమి + వ్యవసాయేతర అవసరాల కోసం ఉన్న భూమి",
+     "నికర సాగు భూమి + శాశ్వత పచ్చిక బయళ్ళు + చెట్ల పంటలు"
+    ],
+    "en": [
+     "Net sown area + Forests + Barren land",
+     "Net sown area + All fallow lands + Culturable wasteland",
+     "Net sown area + Area under non-agricultural uses",
+     "Net sown area + Permanent pastures + Tree crops"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మొత్తం సాగు చేయదగిన భూమి అనేది నికర సాగు భూమి, అన్ని పడి భూములు మరియు సాగు చేయదగిన బంజరు భూముల మొత్తం.",
+    "en": "The total cultivable land is the sum of net sown area, all fallow lands, and culturable wasteland."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T25-0303",
+   "section": {
+    "te": "Tur Production Share",
+    "en": "Tur Production Share"
+   },
+   "q": {
+    "te": "భారతదేశంలో కంది (Tur/Arhar) మొత్తం ఉత్పత్తిలో మహారాష్ట్ర వాటా ఎంత?",
+    "en": "What is the contribution of Maharashtra to the total production of Tur (Arhar) in India?"
+   },
+   "options": {
+    "te": [
+     "పది శాతం కంటే తక్కువ",
+     "సుమారు మూడో వంతు",
+     "సగానికి పైగా",
+     "సుమారు నాలుగో వంతు"
+    ],
+    "en": [
+     "Less than ten per cent",
+     "About one-third",
+     "More than half",
+     "About one-fourth"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారతదేశం మొత్తం కంది ఉత్పత్తిలో మహారాష్ట్ర ఒక్కటే సుమారు మూడో వంతు వాటాను కలిగి ఉందని మూలం పేర్కొంది.",
+    "en": "Maharashtra alone contributes approximately one-third of India's total Tur production."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T25-0142",
+   "section": {
+    "te": "Staple Food of India",
+    "en": "Staple Food of India"
+   },
+   "q": {
+    "te": "భారతదేశంలోని మెజారిటీ ప్రజలకు ప్రధాన ఆహార పంట ఏది?",
+    "en": "Which crop is the staple food for the majority of people in India?"
+   },
+   "options": {
+    "te": [
+     "మొక్కజొన్న",
+     "వరి",
+     "గోధుమ",
+     "చిరుధాన్యాలు"
+    ],
+    "en": [
+     "Maize",
+     "Rice",
+     "Wheat",
+     "Millets"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, చాలా మంది భారతీయులకు వరి ప్రధాన ఆహార పంట.",
+    "en": "Rice is the staple food crop for most Indians."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T25-0150",
+   "section": {
+    "te": "Sugarcane products",
+    "en": "Sugarcane products"
+   },
+   "q": {
+    "te": "చెరకు నుండి లభించే ఉత్పత్తులలో ఈ క్రింది వాటిలో ఏది పేర్కొనబడలేదు?",
+    "en": "Which of the following is NOT mentioned as a product derived from sugarcane?"
+   },
+   "options": {
+    "te": [
+     "బెల్లం (Gur)",
+     "మొలాసిస్",
+     "ఖండసారి",
+     "తేనె"
+    ],
+    "en": [
+     "Gur",
+     "Molasses",
+     "Khandsari",
+     "Honey"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "చెరకు చక్కెర, బెల్లం, ఖండసారి మరియు మొలాసిస్‌లకు మూలం. తేనె చెరకు ఉత్పత్తిగా పేర్కొనబడలేదు.",
+    "en": "Sugarcane is the source of sugar, gur, khandsari, and molasses. Honey is not mentioned as a product of sugarcane."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T25-0055",
+   "section": {
+    "te": "Ancient seed preparation",
+    "en": "Ancient seed preparation"
+   },
+   "q": {
+    "te": "అర్థశాస్త్రం ప్రకారం, చెరకును నాటడానికి ముందు దాని కోత భాగంపై ఈ క్రింది ఏ మిశ్రమాన్ని పూయాలి?",
+    "en": "According to the Arthaśhāstra, which of the following mixtures should be used to smear the cut of sugarcane before planting?"
+   },
+   "options": {
+    "te": [
+     "తేనె, నెయ్యి మరియు ఆవు పేడ మాత్రమే",
+     "తేనె, నెయ్యి, పంది కొవ్వు (lard) మరియు ఆవు పేడ",
+     "ఆవు పంచితం మరియు ఆవు పేడ",
+     "మంచు మరియు తేనె"
+    ],
+    "en": [
+     "Honey, ghee, and cow dung only",
+     "Honey, ghee, lard, and cow dung",
+     "Cow urine and cow dung",
+     "Dew and honey"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "చెరకు కోత భాగాలకు తేనె, నెయ్యి, పంది కొవ్వు మిశ్రమాన్ని పూసి, ఆపై ఆవు పేడతో కప్పాలని అర్థశాస్త్రం పేర్కొంది.",
+    "en": "The Arthaśhāstra specifies that sugarcane cuts should be treated with a mixture of honey, ghee, lard, and then covered with cow dung."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T25-0332",
+   "section": {
+    "te": "Coffee Global Rank",
+    "en": "Coffee Global Rank"
+   },
+   "q": {
+    "te": "2018 నాటికి ప్రపంచ కాఫీ ఉత్పత్తిలో భారతదేశం ఎన్నవ స్థానంలో నిలిచింది?",
+    "en": "What was India's rank in world coffee production in 2018?"
+   },
+   "options": {
+    "te": [
+     "రెండవ స్థానం",
+     "ఐదవ స్థానం",
+     "ఎనిమిదవ స్థానం",
+     "ఆరవ స్థానం"
+    ],
+    "en": [
+     "Second",
+     "Fifth",
+     "Eighth",
+     "Sixth"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "2018లో భారతదేశం ప్రపంచ కాఫీ ఉత్పత్తిలో 3.17 శాతం ఉత్పత్తితో ఎనిమిదవ స్థానంలో నిలిచింది.",
+    "en": "In 2018, India produced about 3.17 per cent of world coffee and ranked eighth globally."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T25-0260",
+   "section": {
+    "te": "Net sown area past trend",
+    "en": "Net sown area past trend"
+   },
+   "q": {
+    "te": "ఇటీవల పెరగడానికి ముందు, భారతదేశంలో 'నికర సాగు విస్తీర్ణం' చూపిన చారిత్రక ధోరణి ఏమిటి?",
+    "en": "Prior to its recent increase, what historical trend was registered by the 'net area sown' in India?"
+   },
+   "options": {
+    "te": [
+     "నెమ్మదిగా తగ్గుదల",
+     "వేగవంతమైన పెరుగుదల",
+     "అధిక కాలానుగుణ హెచ్చుతగ్గులు",
+     "పూర్తిగా స్థిరంగా ఉండటం"
+    ],
+    "en": [
+     "A slow decrease",
+     "A rapid increase",
+     "High seasonal fluctuations",
+     "Remaining completely constant"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సాగుయోగ్యమైన బంజరు భూముల వినియోగం వల్ల ఇటీవల పెరగడానికి ముందు, నికర సాగు విస్తీర్ణం నెమ్మదిగా తగ్గుతూ వచ్చింది.",
+    "en": "Before the recent increase due to bringing culturable wasteland into cultivation, the net area sown had been registering a slow decrease."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T25-0175",
+   "section": {
+    "te": "Bhoodan Movement",
+    "en": "Bhoodan Movement"
+   },
+   "q": {
+    "te": "శ్రీ రామచంద్రారెడ్డి 80 ఎకరాల భూమిని దానం చేసినప్పుడు తెలంగాణలోని ఏ ప్రాంతంలో భూదాన్ ఉద్యమం ప్రారంభమైంది?",
+    "en": "In which place in Telangana did the Bhoodan movement originate when Shri Ram Chandra Reddy offered 80 acres of land?"
+   },
+   "options": {
+    "te": [
+     "హైదరాబాద్",
+     "పోచంపల్లి",
+     "వరంగల్",
+     "నల్గొండ"
+    ],
+    "en": [
+     "Hyderabad",
+     "Pochampally",
+     "Warangal",
+     "Nalgonda"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వినోబా భావే ఉపన్యాసం ఇస్తున్న సమయంలో శ్రీ రామచంద్రారెడ్డి భూమి లేని గ్రామస్తులకు భూమిని అందించడంతో తెలంగాణలోని పోచంపల్లిలో భూదాన్ ఉద్యమం ప్రారంభమైంది.",
+    "en": "The Bhoodan movement started in Pochampally, Telangana, when Shri Ram Chandra Reddy offered land to landless villagers during Vinoba Bhave's lecture."
+   }
+  }
+ ]
+}

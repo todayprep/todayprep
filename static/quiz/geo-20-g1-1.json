@@ -1,0 +1,942 @@
+{
+ "id": "geo-20-g1-1",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Soils – క్విజ్ 1",
+  "en": "Soils – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T20-0071",
+   "section": {
+    "te": "Influence of earthworms",
+    "en": "Influence of earthworms"
+   },
+   "q": {
+    "te": "నేల ఏర్పడే ప్రక్రియలో వానపాములు మట్టిని ఆహారంగా తీసుకున్నప్పుడు, వాటి శరీరం నుండి బయటకు వచ్చే మట్టి యొక్క ఏ లక్షణాలు మారతాయి?",
+    "en": "As earthworms feed on soil during the soil-forming process, which of the following characteristics of the soil that comes out of their body changes?"
+   },
+   "options": {
+    "te": [
+     "ఆకృతి (Texture)",
+     "రసాయన స్వభావం (Chemistry)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Texture",
+     "Chemistry",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వానపాములు మట్టిని తిన్నప్పుడు, వాటి శరీరం నుండి బయటకు వచ్చే నేల యొక్క ఆకృతి మరియు రసాయన స్వభావం రెండూ మారతాయి.",
+    "en": "As earthworms feed on soil, both the texture and chemistry of the soil passing out of their bodies change."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T20-0009",
+   "section": {
+    "te": "Bedrock definition",
+    "en": "Bedrock definition"
+   },
+   "q": {
+    "te": "శైథిల్యం, కోత మరియు ఇతర ప్రక్రియల ద్వారా కొత్త శిలలు మరియు నేలలు ఉద్భవించే అసలు (మూల) శిలను ఏమని పిలుస్తారు?",
+    "en": "What is the term for the original rock from which new rocks and soils are derived through weathering, erosion, and other processes?"
+   },
+   "options": {
+    "te": [
+     "ఇటుక నేల",
+     "సిల్ట్",
+     "హ్యూమస్",
+     "ఆధార శిల (బెడ్‌రాక్)"
+    ],
+    "en": [
+     "Brick earth",
+     "Silt",
+     "Humus",
+     "Bedrock"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "శైథిల్యం మరియు క్రమక్షయం ద్వారా నేలలు మరియు కొత్త రాళ్ళు ఏర్పడే మూల శిలను ఆధార శిల (బెడ్‌రాక్) అంటారు.",
+    "en": "Bedrock refers to the original rock from which new rocks and soils are derived."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T20-0007",
+   "section": {
+    "te": "Weathering definition",
+    "en": "Weathering definition"
+   },
+   "q": {
+    "te": "శిలలు మరియు ఖనిజాలు క్రింది ఏ మార్గాల ద్వారా విచ్ఛిన్నమై నేల రేణువులుగా మారే ప్రక్రియను 'శైథిల్యం' (Weathering) అంటారు?",
+    "en": "Weathering refers to the breakdown of rocks and minerals into soil particles through which of the following means?"
+   },
+   "options": {
+    "te": [
+     "భౌతిక మార్గాలు",
+     "రసాయన మార్గాలు",
+     "జీవ సంబంధ మార్గాలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Physical means",
+     "Chemical means",
+     "Biological means",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భౌతిక, రసాయన లేదా జీవ సంబంధ మార్గాల ద్వారా శిలలు మరియు ఖనిజాలు విచ్ఛిన్నమై నేల రేణువులుగా మారడాన్ని శైథిల్యం అంటారు.",
+    "en": "Weathering breaks down rocks and minerals through physical, chemical, or biological means."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T20-0010",
+   "section": {
+    "te": "Soil formation duration",
+    "en": "Soil formation duration"
+   },
+   "q": {
+    "te": "నేల ఏర్పడే రేఖాచిత్రం ప్రకారం, నేల రూపాంతరం చెందే ప్రక్రియకు పట్టే కాలవ్యవధి ఎంత?",
+    "en": "According to the diagram on soil formation, the time taken for soil to form ranges from:"
+   },
+   "options": {
+    "te": [
+     "కొన్ని రోజుల నుండి కొన్ని నెలల వరకు",
+     "లక్షల శతాబ్దాల నుండి యుగాల వరకు",
+     "ఒక శతాబ్దం నుండి అనేక సహస్రాబ్దాల వరకు",
+     "ఒక దశాబ్దం నుండి అర్ధ శతాబ్దం వరకు"
+    ],
+    "en": [
+     "A few days to several months",
+     "Millions of centuries to several eons",
+     "A century to several millennia",
+     "A single decade to half a century"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నేల ఏర్పడే ప్రక్రియకు ఒక శతాబ్దం (100 సంవత్సరాలు) నుండి అనేక వేల సంవత్సరాలు (సహస్రాబ్దాలు) పడుతుంది.",
+    "en": "The process of soil formation is depicted as ranging from a century to several millennia."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T20-0052",
+   "section": {
+    "te": "Shelter belts",
+    "en": "Shelter belts"
+   },
+   "q": {
+    "te": "పశ్చిమ భారతదేశంలో ఇసుక దిబ్బలను స్థిరీకరించడంలో గణనీయమైన పాత్ర పోషించిన నేల పరిరక్షణ పద్ధతి ఏది?",
+    "en": "Which of the following soil conservation measures has contributed significantly to the stabilisation of sand dunes in western India?"
+   },
+   "options": {
+    "te": [
+     "కాంటూర్ దున్నడం",
+     "స్ట్రిప్ క్రాపింగ్",
+     "రక్షణ కవచాలు (Shelter belts)",
+     "టెర్రస్ వ్యవసాయం"
+    ],
+    "en": [
+     "Contour ploughing",
+     "Strip cropping",
+     "Shelter belts",
+     "Terrace cultivation"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రక్షణ కవచాలుగా పిలిచే చెట్ల వరుసల పెంపకం పశ్చిమ భారతదేశంలోని ఇసుక దిబ్బలను మరియు ఎడారిని స్థిరీకరించడంలో ఎంతగానో తోడ్పడింది.",
+    "en": "Planting rows of trees to create shelter (shelter belts) has significantly helped stabilise sand dunes and the desert in western India."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T20-0058",
+   "section": {
+    "te": "Pioneer colonisers in soil formation",
+    "en": "Pioneer colonisers in soil formation"
+   },
+   "q": {
+    "te": "నేల ఏర్పడే క్రమంలో, శైథిల్యమైన పదార్థం లేదా నిక్షేపాలలో మొట్టమొదట నివాసం ఏర్పరచుకునేవి ఏవి?",
+    "en": "During soil formation, which organisms first colonise the weathered rock material or transported deposits?"
+   },
+   "options": {
+    "te": [
+     "బ్యాక్టీరియా",
+     "నాచు (mosses) మరియు లైకెన్లు",
+     "పొదలు మరియు పెద్ద వృక్షాలు",
+     "Both A and B"
+    ],
+    "en": [
+     "Bacteria",
+     "Mosses and lichens",
+     "Bushes and large trees",
+     "Both A and B"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మొదటగా శైథిల్యమైన పదార్థాలపై బ్యాక్టీరియా మరియు నాచులు, లైకెన్లు వంటి ప్రాథమిక మొక్కలు స్థిరపడతాయి.",
+    "en": "Weathered material is first colonised by bacteria and inferior plant bodies such as mosses and lichens."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T20-0051",
+   "section": {
+    "te": "Strip cropping",
+    "en": "Strip cropping"
+   },
+   "q": {
+    "te": "విస్తారమైన పొలాలను పట్టీలుగా విభజించి, గాలి వేగాన్ని తగ్గించడానికి పంటల మధ్య గడ్డి పట్టీలను పెంచే పద్ధతిని ఏమని పిలుస్తారు?",
+    "en": "The agricultural practice of dividing large fields into strips and leaving grass to grow between crops to break the force of the wind is called:"
+   },
+   "options": {
+    "te": [
+     "స్ట్రిప్ క్రాపింగ్ (Strip cropping)",
+     "కాంటూర్ దున్నడం",
+     "రక్షణ కవచాలు (Shelter belts)",
+     "టెర్రస్ వ్యవసాయం"
+    ],
+    "en": [
+     "Strip cropping",
+     "Contour ploughing",
+     "Shelter belts",
+     "Terrace farming"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పెద్ద పొలాలలో పంటల మధ్య గడ్డి పట్టీలను పెంచి గాలి తీవ్రతను అడ్డుకునే పద్ధతిని 'స్ట్రిప్ క్రాపింగ్' అని పిలుస్తారు.",
+    "en": "Growing strips of grass between crops in large fields to check the force of the wind is known as strip cropping."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T20-0028",
+   "section": {
+    "te": "Alluvial soil nutrients",
+    "en": "Alluvial soil nutrients"
+   },
+   "q": {
+    "te": "ఒండ్రు నేలలు (Alluvial soils) సాధారణంగా కింది ఏ పోషకాలను తగిన పరిమాణంలో కలిగి ఉంటాయి?\n1. పొటాష్\n2. ఫాస్ఫారిక్ ఆమ్లం\n3. సున్నం (Lime)\nక్రింది ఐచ్ఛికాల నుండి సరైన సమాధానాన్ని ఎంచుకోండి:",
+    "en": "Alluvial soils mostly contain an adequate proportion of which of the following nutrients?\n1. Potash\n2. Phosphoric acid\n3. Lime\nSelect the correct answer using the options given below:"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఒండ్రు నేలల్లో పొటాష్, ఫాస్ఫారిక్ ఆమ్లం మరియు సున్నం తగిన నిష్పత్తిలో ఉండటం వల్ల చెరకు, వరి, గోధుమ పంటలకు ఇవి ఎంతో అనుకూలం.",
+    "en": "Alluvial soils contain adequate proportions of potash, phosphoric acid, and lime, making them ideal for crops like sugarcane, wheat, and pulses."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T20-0023",
+   "section": {
+    "te": "Contour ploughing",
+    "en": "Contour ploughing"
+   },
+   "q": {
+    "te": "వర్షపు నీటి వల్ల నేల కోతకు గురికాకుండా ఉండటానికి కొండ వాలు యొక్క సహజ వంపుల వెంబడి దున్నే నేల పరిరక్షణ పద్ధతి ఏది?",
+    "en": "Which soil conservation technique involves ploughing along the natural curves of a hill slope to avoid soil erosion from rainwater?"
+   },
+   "options": {
+    "te": [
+     "టెర్రసింగ్ (Terracing)",
+     "కాంటూర్ దుక్కి (Contour ploughing)",
+     "అటవీకరణ (Afforestation)",
+     "మల్చింగ్ (Mulching)"
+    ],
+    "en": [
+     "Terracing",
+     "Contour ploughing",
+     "Afforestation",
+     "Mulching"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వర్షపు నీటి ద్వారా నేల కోతను నివారించడానికి కొండ వాలుల సహజ వంపుల వెంబడి దున్నడాన్ని కాంటూర్ దుక్కి అంటారు.",
+    "en": "Contour ploughing specifically involves ploughing along the natural curves of a hill slope to avoid soil erosion caused by rainwater."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T20-0069",
+   "section": {
+    "te": "Formation of kanker nodules",
+    "en": "Formation of kanker nodules"
+   },
+   "q": {
+    "te": "ఉష్ణమండల శీతోష్ణస్థితులలో మరియు మధ్యస్థ వర్షపాతం ఉండే ప్రాంతాలలో నేలలో కింది వాటిలో ఏవి ఏర్పడతాయి?",
+    "en": "In tropical climates, under intermediate precipitation conditions, which of the following are formed in the soil?"
+   },
+   "options": {
+    "te": [
+     "పీట్ పొరలు",
+     "కాల్షియం కార్బోనేట్ కంకరలు (కంకర్)",
+     "లవణాల పొరలు",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Peat layers",
+     "Calcium carbonate nodules (kanker)",
+     "Salt crusts",
+     "None of these"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఉష్ణమండలాలలో మధ్యస్థ వర్షపాత పరిస్థితులలో కాల్షియం కార్బోనేట్ కంకరలు (కంకర్) ఏర్పడతాయి.",
+    "en": "Under intermediate precipitation conditions in tropical climates, calcium carbonate nodules known as kanker are formed."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T20-0068",
+   "section": {
+    "te": "Characteristics of young soils",
+    "en": "Characteristics of young soils"
+   },
+   "q": {
+    "te": "'యువ నేలలు' (Young soils) సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఇటీవల నిక్షిప్తమైన ఒండలి లేదా హిమానీనద అవక్షేపాల (glacial till) నుండి ఏర్పడే నేలలు యువ నేలలుగా పరిగణించబడతాయి.\n2. ఇవి బాగా అభివృద్ధి చెందిన లోతైన పొరలను (horizons) ప్రదర్శిస్తాయి.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding 'young soils':\n1. Soils developing from recently deposited alluvium or glacial till are considered young.\n2. They exhibit well-developed, deep horizons.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "యువ నేలలు పొరలను ప్రదర్శించవు లేదా చాలా పేలవంగా అభివృద్ధి చెందిన పొరలను మాత్రమే కలిగి ఉంటాయి, కాబట్టి ప్రకటన 2 తప్పు.",
+    "en": "Statement 1 is correct. Statement 2 is incorrect because young soils exhibit no horizons or only poorly developed horizons."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T20-0041",
+   "section": {
+    "te": "Piedmont Plains Soils",
+    "en": "Piedmont Plains Soils"
+   },
+   "q": {
+    "te": "ముతక ఒండ్రు నేలలు సాధారణంగా పీడ్మాంట్ మైదానాలలో కనిపిస్తాయి. ఈ క్రింది వాటిలో అటువంటి మైదానానికి ఉదాహరణ ఏది?",
+    "en": "Coarse alluvial soils are commonly found in piedmont plains. Which of the following is an example of such a plain?"
+   },
+   "options": {
+    "te": [
+     "మాల్వా",
+     "సౌరాష్ట్ర",
+     "దుయార్స్",
+     "కొంకణ్"
+    ],
+    "en": [
+     "Malwa",
+     "Saurashtra",
+     "Duars",
+     "Konkan"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పీడ్మాంట్ మైదానాలలో ముతక నేలలు సాధారణం, మరియు పాఠ్య భాగం దుయార్స్, చోస్ మరియు టెరాయ్ లను ఉదాహరణలుగా పేర్కొంది.",
+    "en": "Coarse soils are common in piedmont plains, and the text specifically mentions Duars, Chos, and Terai as examples."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T20-0001",
+   "section": {
+    "te": "Ancient soil classification",
+    "en": "Ancient soil classification"
+   },
+   "q": {
+    "te": "ప్రాచీన గ్రంథాల ప్రకారం, నేల సారవంతత ఆధారంగా 'అమరకోశం'లో ఎన్ని రకాల వ్యవసాయ భూములు పేర్కొనబడ్డాయి?",
+    "en": "According to ancient texts, how many types of agricultural land were described based on soil fertility in the Amarakoṣha?"
+   },
+   "options": {
+    "te": [
+     "12",
+     "6",
+     "8",
+     "16"
+    ],
+    "en": [
+     "Twelve",
+     "Six",
+     "Eight",
+     "Sixteen"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అమరకోశం వంటి ప్రాచీన గ్రంథాలలో నేల సారవంతతను బట్టి వ్యవసాయ భూమిని 12 రకాలుగా వివరించారు.",
+    "en": "Ancient texts such as the Amarakoṣha classify agricultural land into twelve distinct types based on soil fertility."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T20-0054",
+   "section": {
+    "te": "Forest soils texture",
+    "en": "Forest soils texture"
+   },
+   "q": {
+    "te": "అటవీ నేలల ఆకృతికి (texture) సంబంధించి క్రింది ప్రకటనలను పరిగణించండి:\n1. ఇవి ఎగువ వాలులలో ముతక రేణువులతో (coarse grained) ఉంటాయి.\n2. లోయల వైపు ఇవి లోమీ మరియు సిల్టీగా ఉంటాయి.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Regarding the texture of Forest soils, consider the following statements:\n1. They are coarse-grained in the upper slopes.\n2. They are loamy and silty on the valley sides.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పర్వత ప్రాంతాలలో అటవీ నేలలు లోయ ప్రాంతాలలో లోమీ మరియు సిల్టీగానూ, ఎగువ వాలులలో ముతక కణాలతోనూ ఉంటాయి.",
+    "en": "Forest soil texture varies according to mountain environment: loamy and silty in valley sides, and coarse grained in upper slopes."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T20-0030",
+   "section": {
+    "te": "Greenhouse definition",
+    "en": "Greenhouse definition"
+   },
+   "q": {
+    "te": "నియంత్రిత వాతావరణంలో మొక్కల పెరుగుదల కోసం సూర్యరశ్మి మరియు వేడిని సంగ్రహించే గాజు లేదా ప్లాస్టిక్‌తో తయారు చేయబడిన పారదర్శక నిర్మాణాన్ని ఏమంటారు?",
+    "en": "A transparent covered structure made of glass or plastic that captures sunlight and heat for the growth of plants in a controlled environment is known as a:"
+   },
+   "options": {
+    "te": [
+     "మల్చ్ పిట్",
+     "డ్రోన్ స్టేషన్",
+     "టెర్రిరియం",
+     "గ్రీన్‌హౌస్ (Greenhouse)"
+    ],
+    "en": [
+     "Mulch pit",
+     "Drone station",
+     "Terrarium",
+     "Greenhouse"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మొక్కల పెరుగుదల కొరకు సూర్యరశ్మి మరియు ఉష్ణాన్ని బంధించే గాజు లేదా ప్లాస్టిక్ పారదర్శక నిర్మాణాన్ని గ్రీన్‌హౌస్ అని పిలుస్తారు.",
+    "en": "The text defines a greenhouse as a transparent covered structure made of glass or plastic that captures sunlight and heat for plant growth."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T20-0002",
+   "section": {
+    "te": "Meaning of Humus",
+    "en": "Meaning of Humus"
+   },
+   "q": {
+    "te": "'హ్యూమస్' (Humus) అనేది లాటిన్ పదం నుండి వచ్చింది, దీని అర్థం ఏమిటి?",
+    "en": "The word 'Humus' is derived from a Latin word that literally means:"
+   },
+   "options": {
+    "te": [
+     "మొక్కల వ్యర్థాలు",
+     "నీరు లేదా తేమ",
+     "శిథిలమైన రాయి",
+     "భూమి లేదా నేల"
+    ],
+    "en": [
+     "Plant residue",
+     "Water or moisture",
+     "Decayed rock",
+     "Earth or soil"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "హ్యూమస్ అనేది 'భూమి' లేదా 'నేల' అని అర్థం ఇచ్చే లాటిన్ పదం.",
+    "en": "Humus is a Latin word which means 'earth' or 'soil'."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T20-0040",
+   "section": {
+    "te": "Black Soil Aeration",
+    "en": "Black Soil Aeration"
+   },
+   "q": {
+    "te": "వేడి వాతావరణంలో నల్ల రేగడి నేలల్లో సరైన గాలి ప్రసరణకు (aeration) ఏ లక్షణం సహాయపడుతుంది?",
+    "en": "What feature of black soil helps in its proper aeration during hot weather?"
+   },
+   "options": {
+    "te": [
+     "తేమను నిలుపుకునే సామర్థ్యం",
+     "అధిక పొటాష్ పరిమాణం",
+     "లోతైన పగుళ్లు ఏర్పడటం",
+     "దాని మట్టి పదార్థం"
+    ],
+    "en": [
+     "Its capacity to hold moisture",
+     "High potash content",
+     "Development of deep cracks",
+     "Its clayey material"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వేడి వాతావరణంలో, నల్ల రేగడి నేలల్లో లోతైన పగుళ్లు ఏర్పడతాయి, ఇవి నేలలో గాలి ప్రసరణకు సహాయపడతాయి.",
+    "en": "During hot weather, black soils develop deep cracks, which facilitate the proper aeration of the soil."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T20-0066",
+   "section": {
+    "te": "Nitrogen fixation bacteria",
+    "en": "Nitrogen fixation bacteria"
+   },
+   "q": {
+    "te": "లెగ్యుమినస్ మొక్కల వేరు బుడిపెలలో నివసిస్తూ, ఆ మొక్కకు ఉపయోగపడే నత్రజనిని స్థాపించే బ్యాక్టీరియా ఏది?",
+    "en": "Which type of bacteria lives in the root nodules of leguminous plants and fixes nitrogen beneficial to the host plant?"
+   },
+   "options": {
+    "te": [
+     "రైజోబియం",
+     "అజోటోబాక్టర్",
+     "నైట్రోసోమోనాస్",
+     "క్లాస్ట్రిడియం"
+    ],
+    "en": [
+     "Rhizobium",
+     "Azotobacter",
+     "Nitrosomonas",
+     "Clostridium"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "రైజోబియం అనే బ్యాక్టీరియా లెగ్యుమినస్ మొక్కల వేరు బుడిపెలలో ఉంటూ నత్రజని స్థాపన చేస్తుంది.",
+    "en": "Rhizobium is a bacterium that lives in the root nodules of leguminous plants and carries out nitrogen fixation."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T20-0026",
+   "section": {
+    "te": "Mineral processing impact",
+    "en": "Mineral processing impact"
+   },
+   "q": {
+    "te": "ఖనిజాల ప్రాసెసింగ్ ద్వారా వెలువడే దుమ్ము భూమిపై చేరినప్పుడు కలిగే ప్రతికూల ప్రభావం ఏమిటి?",
+    "en": "What adverse effect does dust generated from mineral processing have when it settles down on land?"
+   },
+   "options": {
+    "te": [
+     "ఇది సేంద్రీయ పదార్థాలు కుళ్ళిపోయే వేగాన్ని పెంచుతుంది",
+     "ఇది నేలలోకి నీరు ఇంకే ప్రక్రియను అడ్డుకుంటుంది",
+     "ఇది నేలలో తేమ శాతాన్ని వేగంగా పెంచుతుంది",
+     "ఇది నేలను మార్పు చెందని శిలగా మారుస్తుంది"
+    ],
+    "en": [
+     "It accelerates the decomposition of organic matter",
+     "It retards the process of infiltration of water into the soil",
+     "It rapidly increases soil moisture content",
+     "It converts the soil into unweathered parent rock"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఖనిజాల శుద్ధి వల్ల వచ్చే దుమ్ము భూమిపై స్థిరపడిన తర్వాత నేలలోకి నీరు ఇంకే ప్రక్రియను మందగింపజేస్తుందని పాఠ్యభాగం చెబుతోంది.",
+    "en": "Dust generated by mineral processing settles on the land and retards the infiltration of water into the soil."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T20-0019",
+   "section": {
+    "te": "Panchagavya components",
+    "en": "Panchagavya components"
+   },
+   "q": {
+    "te": "'పంచగవ్య' అనే పులియబెట్టిన మిశ్రమాన్ని తయారు చేయడానికి ఉపయోగించే ఐదు ఆవు ఉత్పత్తులలో కింది వాటిలో ఏది లేనిది?",
+    "en": "Which of the following is NOT one of the five cow products used to prepare the fermented mixture known as 'panchagavya'?"
+   },
+   "options": {
+    "te": [
+     "ఆవు పేడ",
+     "పెరుగు",
+     "తేనె",
+     "పాలు"
+    ],
+    "en": [
+     "Cow dung",
+     "Curd",
+     "Honey",
+     "Milk"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పంచగవ్య అనేది పేడ, మూత్రం, పాలు, పెరుగు మరియు నెయ్యి అనే ఐదు ఆవు ఉత్పత్తుల మిశ్రమం; తేనె ఇందులో భాగం కాదు.",
+    "en": "Panchagavya is made of five cow products: dung, urine, milk, curd, and ghee; honey is not one of them."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T20-0022",
+   "section": {
+    "te": "Soil conservation methods",
+    "en": "Soil conservation methods"
+   },
+   "q": {
+    "te": "సాంప్రదాయ నేల పరిరక్షణ పద్ధతులకు సంబంధించి క్రింది ప్రకటనలను పరిగణించండి:\n1. పంట మార్పిడి (Crop rotation) అంటే నిర్దిష్ట పోషకాలను నేల కోల్పోకుండా ఉండటానికి వేర్వేరు కాలాల్లో ఒకే పొలంలో వివిధ రకాల పంటలను పండించడం.\n2. బహుళ పంటల సాగు (Multiple cropping) తెగుళ్ల ప్రమాదాన్ని తగ్గించడంతో పాటు కనీసం ఒక పంట చేతికందేలా చేస్తుంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding traditional soil conservation methods:\n1. Crop rotation involves growing different types of crops in the same field in different seasons to prevent nutrient loss.\n2. Multiple cropping helps reduce the risk of pests and ensures at least one crop.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "2 మాత్రమే",
+     "ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "Both 1 and 2",
+     "2 only",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "రెండు ప్రకటనలు సరైనవే. పంట మార్పిడి పోషకాల నష్టాన్ని నివారిస్తుంది, బహుళ పంటల సాగు తెగుళ్ల ముప్పును తగ్గించి కనీసం ఒక పంట దక్కేలా చూస్తుంది.",
+    "en": "Both statements are correct as crop rotation prevents loss of specific nutrients, and multiple cropping reduces pest risk while ensuring at least one harvest."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T20-0055",
+   "section": {
+    "te": "Passive factors of soil formation",
+    "en": "Passive factors of soil formation"
+   },
+   "q": {
+    "te": "నేల ఏర్పడటంలో క్రింది వాటిలో వేటిని 'నిష్క్రియాత్మక నియంత్రణ కారకాలు' (passive control factors) గా పేర్కొన్నారు?",
+    "en": "Which of the following are classified as 'passive control factors' in soil formation?"
+   },
+   "options": {
+    "te": [
+     "మాతృ శిల (Parent material)",
+     "భూస్వరూపం (Topography)",
+     "A మరియు B రెండూ",
+     "శీతోష్ణస్థితి"
+    ],
+    "en": [
+     "Parent material",
+     "Topography",
+     "Both A and B",
+     "Climate"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నేల ఏర్పడటంలో మాతృ శిల మరియు భూస్వరూపం రెండూ నిష్క్రియాత్మక నియంత్రణ కారకాలుగా వర్గీకరించబడ్డాయి.",
+    "en": "Both parent material and topography are explicitly identified in the text as passive control factors in soil formation."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T20-0072",
+   "section": {
+    "te": "Humus in humid tropical climates",
+    "en": "Humus in humid tropical climates"
+   },
+   "q": {
+    "te": "తేమతో కూడిన ఉష్ణమండల మరియు భూమధ్యరేఖా ప్రాంతాలలో నేలలు చాలా తక్కువ హ్యూమస్ కంటెంట్‌ను ఎందుకు కలిగి ఉంటాయి?",
+    "en": "Why do soils in humid tropical and equatorial climates have very low humus content?"
+   },
+   "options": {
+    "te": [
+     "కేశనాళిక చర్య వల్ల చేరిన లవణాలు సేంద్రీయ పదార్థాన్ని నాశనం చేస్తాయి",
+     "సిలికా పూర్తిగా తొలగిపోవడం వల్ల మొక్కల పెరుగుదల నిలిచిపోతుంది",
+     "తీవ్రమైన బ్యాక్టీరియా చర్య వల్ల చనిపోయిన వృక్షసంపద వేగంగా ఆక్సీకరణం చెందుతుంది",
+     "విపరీతమైన చలి కారణంగా మొక్కలు కుళ్ళిపోకుండా నిలిచిపోతాయి"
+    ],
+    "en": [
+     "Capillary action deposits salts that destroy organic matter",
+     "Complete removal of silica inhibits vegetation growth",
+     "Intense bacterial action rapidly oxidises dead vegetation",
+     "Excessive cold temperature prevents the decomposition of plants"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఈ ప్రాంతాలలో బ్యాక్టీరియా పెరుగుదల మరియు చర్య తీవ్రంగా ఉండి, చనిపోయిన వృక్షసంపద వేగంగా ఆక్సీకరణం చెందడం వల్ల హ్యూమస్ చాలా తక్కువగా ఉంటుంది.",
+    "en": "In humid tropical and equatorial climates, bacterial growth and action are intense, causing dead vegetation to rapidly oxidise and leaving very little humus."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T20-0039",
+   "section": {
+    "te": "Alluvial Soil Extension",
+    "en": "Alluvial Soil Extension"
+   },
+   "q": {
+    "te": "ఒండ్రు నేలలు రాజస్థాన్ మరియు గుజరాత్‌లలోకి ఈ క్రింది వాటిలో దేని ద్వారా విస్తరించి ఉన్నాయి?",
+    "en": "Alluvial soils extend into Rajasthan and Gujarat through which of the following?"
+   },
+   "options": {
+    "te": [
+     "పశ్చిమ కనుమలు",
+     "దక్కన్ ట్రాప్",
+     "పీడ్మాంట్ మైదానాలు",
+     "ఒక ఇరుకైన కారిడార్"
+    ],
+    "en": [
+     "The Western Ghats",
+     "The Deccan trap",
+     "The piedmont plains",
+     "A narrow corridor"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఒండ్రు నేలలు ఒక ఇరుకైన కారిడార్ ద్వారా రాజస్థాన్ మరియు గుజరాత్‌లలోకి విస్తరించి ఉన్నాయని పాఠ్య భాగం పేర్కొంది.",
+    "en": "Alluvial soils extend into Rajasthan and Gujarat through a narrow corridor."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T20-0063",
+   "section": {
+    "te": "Desilication process",
+    "en": "Desilication process"
+   },
+   "q": {
+    "te": "అధిక వర్షపాతం ఉండే తేమతో కూడిన భూమధ్యరేఖా ప్రాంతాలలో, నేల నుండి సిలికా తొలగిపోయే ప్రక్రియను ఏమంటారు?",
+    "en": "In wet equatorial rainy areas with high rainfall, the process of removal of silica from the soil is known as:"
+   },
+   "options": {
+    "te": [
+     "ఎల్యూవియేషన్ (Eluviation)",
+     "ఇల్యూవియేషన్ (Illuviation)",
+     "డీసిలికేషన్ (Desilication)",
+     "హ్యూమిఫికేషన్ (Humification)"
+    ],
+    "en": [
+     "Eluviation",
+     "Illuviation",
+     "Desilication",
+     "Humification"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నేల నుండి సిలికా తొలగిపోవడాన్ని డీసిలికేషన్ అని పిలుస్తారు.",
+    "en": "The removal of silica from the soil is explicitly known as desilication."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T20-0038",
+   "section": {
+    "te": "Laterite Soil Formation",
+    "en": "Laterite Soil Formation"
+   },
+   "q": {
+    "te": "లాటరైట్ నేల ప్రాథమికంగా ఏ ప్రక్రియ ఫలితంగా ఏర్పడుతుంది?",
+    "en": "Laterite soil is primarily formed as a result of which process?"
+   },
+   "options": {
+    "te": [
+     "భారీ వర్షాల వల్ల కలిగే తీవ్రమైన లీచింగ్ (నిక్షాళనం)",
+     "నదీ వ్యవస్థల ద్వారా నిక్షేపణ",
+     "ఇనుము వ్యాప్తి చెందడం",
+     "లావా ప్రవాహాల చేరిక"
+    ],
+    "en": [
+     "Intense leaching due to heavy rain",
+     "Deposition by river systems",
+     "Diffusion of iron",
+     "Accumulation of lava flows"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "లాటరైట్ నేల ఉష్ణమండల మరియు ఉప ఉష్ణమండల వాతావరణంలో అభివృద్ధి చెందుతుంది మరియు ఇది భారీ వర్షపాతం వల్ల కలిగే తీవ్రమైన లీచింగ్ (నిక్షాళనం) ఫలితంగా ఏర్పడుతుంది.",
+    "en": "Laterite soil develops in tropical and subtropical climates and is the result of intense leaching caused by heavy rainfall."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T20-0048",
+   "section": {
+    "te": "Gully erosion and badlands",
+    "en": "Gully erosion and badlands"
+   },
+   "q": {
+    "te": "చంబల్ బేసిన్‌లో గల్లీ కోత (gully erosion) వల్ల ఏర్పడిన వ్యవసాయ యోగ్యం కాని నేలలను (bad lands) ఏమని పిలుస్తారు?",
+    "en": "In the Chambal basin, bad land produced by gully erosion is commonly known as:"
+   },
+   "options": {
+    "te": [
+     "బాంగర్",
+     "ఖాదర్",
+     "రవైన్స్ (Ravines)",
+     "దువార్స్"
+    ],
+    "en": [
+     "Bangar",
+     "Khadar",
+     "Ravines",
+     "Duars"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రవహించే నీరు బంకమట్టి నేలలను కోసివేసి లోతైన గల్లీలను ఏర్పరుస్తుంది; చంబల్ బేసిన్‌లో ఇటువంటి నేలలను రవైన్స్ అని పిలుస్తారు.",
+    "en": "Running water cuts through clayey soils making deep gullies which make the land unfit for cultivation; in the Chambal basin, these bad lands are called ravines."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T20-0064",
+   "section": {
+    "te": "Peat layer formation",
+    "en": "Peat layer formation"
+   },
+   "q": {
+    "te": "సబ్-ఆర్కిటిక్ మరియు టండ్రా శీతోష్ణస్థితులలో పీట్ (peat) పొరలు ఏర్పడటానికి ప్రధాన కారణం ఏమిటి?",
+    "en": "Layers of peat develop in subarctic and tundra climates primarily due to which of the following reasons?"
+   },
+   "options": {
+    "te": [
+     "కేశనాళిక చర్య ద్వారా లవణాల పొరలు ఏర్పడటం",
+     "బ్యాక్టీరియా చర్య తక్కువగా ఉండటం వల్ల కుళ్ళిపోని సేంద్రీయ పదార్థం పేరుకుపోవడం",
+     "సిలికా వేగంగా క్రిందికి రవాణా కావడం",
+     "నేలలోని బ్యాక్టీరియా ద్వారా తీవ్రమైన రసాయన ఆక్సీకరణం జరగడం"
+    ],
+    "en": [
+     "Formation of salt crusts through capillary action",
+     "Undecomposed organic matter resulting from low bacterial activity",
+     "Rapid downward transportation of silica",
+     "Intense chemical oxidation by soil bacteria"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "బ్యాక్టీరియా పెరుగుదల మందగించడం వల్ల సేంద్రీయ పదార్థం కుళ్ళిపోకుండా ఉండి, సబ్-ఆర్కిటిక్ మరియు టండ్రా ప్రాంతాలలో పీట్ పొరలు ఏర్పడతాయి.",
+    "en": "In cold subarctic and tundra climates, bacterial growth is slow, leaving organic matter undecomposed and leading to the development of peat layers."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T20-0070",
+   "section": {
+    "te": "Soil profiles and temperature",
+    "en": "Soil profiles and temperature"
+   },
+   "q": {
+    "te": "నేల ప్రొఫైల్‌పై ఉష్ణోగ్రత ప్రభావానికి సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. అధిక ఉష్ణోగ్రతలు ఉండే ఉష్ణమండల నేలలు లోతైన ప్రొఫైల్‌లను (deeper profiles) చూపుతాయి.\n2. గడ్డకట్టిన టండ్రా ప్రాంతాలలో నేలలు ప్రధానంగా యాంత్రికంగా విచ్ఛిన్నమైన పదార్థాలను కలిగి ఉంటాయి.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements based on the effect of temperature on soil profiles:\n1. Tropical soils with higher temperatures show deeper profiles.\n2. In frozen tundra regions, soils contain largely mechanically broken materials.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఉష్ణోగ్రత ప్రభావం వల్ల ఉష్ణమండల నేలలు లోతైన ప్రొఫైల్‌ను కలిగి ఉంటాయి మరియు టండ్రా నేలలు యాంత్రికంగా విచ్ఛిన్నమైన పదార్థాలను కలిగి ఉంటాయి. కాబట్టి రెండూ సరైనవే.",
+    "en": "Both statements are direct facts from the text explaining why higher temperatures lead to deeper profiles while tundra regions contain mechanically broken materials."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T20-0062",
+   "section": {
+    "te": "Eluviation and Illuviation",
+    "en": "Eluviation and Illuviation"
+   },
+   "q": {
+    "te": "నేల ఏర్పడే ప్రక్రియలో, నేల ద్వారా మృత్తిక అంశాలు క్రిందికి రవాణా కావడం మరియు అవి క్రింద నిక్షిప్తం కావడాన్ని వరుసగా ఏమని పిలుస్తారు?",
+    "en": "In soil formation, the downward transportation of soil components through the soil and their deposition down below are respectively known as:"
+   },
+   "options": {
+    "te": [
+     "డీసిలికేషన్ మరియు కాల్సిఫికేషన్",
+     "ఇల్యూవియేషన్ మరియు ఎల్యూవియేషన్",
+     "కార్బొనేషన్ మరియు హ్యూమిఫికేషన్",
+     "ఎల్యూవియేషన్ మరియు ఇల్యూవియేషన్"
+    ],
+    "en": [
+     "Desilication and Calcification",
+     "Illuviation and Eluviation",
+     "Carbonation and Humification",
+     "Eluviation and Illuviation"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నేల ద్వారా మృత్తిక అంశాలు క్రిందికి కొట్టుకుపోవడాన్ని ఎల్యూవియేషన్ అని, అవి క్రింద చేరడాన్ని (నిక్షేపించబడటాన్ని) ఇల్యూవియేషన్ అని అంటారు.",
+    "en": "Downward transportation of soil components through the soil is called eluviation, whereas their deposition down below is termed illuviation."
+   }
+  }
+ ]
+}

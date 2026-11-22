@@ -1,0 +1,942 @@
+{
+ "id": "geo-25-g1-4",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Agriculture – క్విజ్ 4",
+  "en": "Agriculture – Quiz 4"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T25-0235",
+   "section": {
+    "te": "Forest Land Classification",
+    "en": "Forest Land Classification"
+   },
+   "q": {
+    "te": "భారతదేశంలోని భూ రెవెన్యూ రికార్డుల ప్రకారం, వాస్తవ అటవీ విస్తీర్ణం పెరగకపోయినా 'అడవులు' (Forests) వర్గపు భూవినియోగం పెరగడానికి కారణం ఏమిటి?",
+    "en": "Under the land revenue records in India, an increase in the 'Forests' land-use category can occur without any actual increase in forest cover because:"
+   },
+   "options": {
+    "te": [
+     "ఇది కేవలం ప్రైవేట్ తోటల భూములను మాత్రమే సూచిస్తుంది",
+     "ఇది అటవీ పెరుగుదల కోసం ప్రభుత్వం గుర్తించి సరిహద్దులు నిర్ణయించిన ప్రాంతంపై ఆధారపడి ఉంటుంది",
+     "ఇందులో అన్ని బంజరు మరియు సాగుయోగ్యమైన వ్యర్థ భూములు కలిసి ఉంటాయి",
+     "ఇది ప్రతి సంవత్సరం ఉపగ్రహ రిమోట్ సెన్సింగ్ ద్వారా కొలవబడుతుంది"
+    ],
+    "en": [
+     "It represents only private plantation lands",
+     "It is based on the area identified and demarcated by the Government for forest growth",
+     "It includes all barren and culturable wastelands",
+     "It is measured through satellite remote sensing annually"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "రెవెన్యూ రికార్డులలో అటవీ వర్గం అనేది ప్రభుత్వం అటవీ పెంపకం కోసం కేటాయించిన/గుర్తించిన ప్రాంతం. కాబట్టి ప్రభుత్వం కొత్త ప్రాంతాన్ని కేటాయిస్తే వాస్తవ చెట్లు పెరగకపోయినా ఈ వర్గం విస్తీర్ణం పెరుగుతుంది.",
+    "en": "The land-use category of 'Forests' in land revenue records refers to the area demarcated by the Government for forest growth, so demarcating more area can increase this category without an increase in actual forest cover."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T25-0265",
+   "section": {
+    "te": "Land Use Statistics",
+    "en": "Land Use Statistics"
+   },
+   "q": {
+    "te": "పట్టిక 3.1 ప్రకారం, 2019-20 సంవత్సరంలో 'మొత్తం సాగు చేయదగిన భూమి'లో 'నికర సాగు భూమి' శాతం ఎంత?",
+    "en": "According to Table 3.1, what was the percentage of 'Net Area Sown' out of the 'Total Cultivable Land' in the year 2019-20?"
+   },
+   "options": {
+    "te": [
+     "70.0%",
+     "79.0%",
+     "57.7%",
+     "45.6%"
+    ],
+    "en": [
+     "70.0%",
+     "79.0%",
+     "57.7%",
+     "45.6%"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పట్టిక 3.1 ప్రకారం, 2019-20లో మొత్తం సాగు చేయదగిన భూమిలో నికర సాగు భూమి శాతం 79.0% గా ఉంది.",
+    "en": "Table 3.1 shows that Net Area Sown as a percentage of total cultivable land was 79.0% in 2019-20."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T25-0345",
+   "section": {
+    "te": "NMSA objectives",
+    "en": "NMSA objectives"
+   },
+   "q": {
+    "te": "నేషనల్ మిషన్ ఫర్ సస్టైనబుల్ అగ్రికల్చర్ (NMSA) కి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. వ్యవసాయాన్ని మరింత ఉత్పాదక, సుస్థిర, లాభదాయక మరియు వాతావరణాన్ని తట్టుకునేలా చేయడం దీని లక్ష్యం.\n2. ఇది ప్రాంతీయ నిర్దిష్ట సమీకృత/మిశ్రమ వ్యవసాయ విధానాలను ప్రోత్సహిస్తుంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the National Mission for Sustainable Agriculture (NMSA):\n1. It aims to make agriculture more productive, sustainable, remunerative and climate resilient.\n2. It promotes location-specific integrated/composite farming systems.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 కాదు 2 కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "NMSA వ్యవసాయాన్ని మరింత ఉత్పాదకంగా, స్థిరంగా మరియు వాతావరణ అనుకూలంగా మార్చడానికి, అలాగే ప్రాంతీయ నిర్దిష్ట సమగ్ర వ్యవసాయ పద్ధతులను ప్రోత్సహించడానికి ఉద్దేశించబడింది.",
+    "en": "Both statements correctly outline the objectives of NMSA, which focuses on productivity, sustainability, climate resilience, and integrated farming systems."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T25-0246",
+   "section": {
+    "te": "Land-use Records Maintenance",
+    "en": "Land-use Records Maintenance"
+   },
+   "q": {
+    "te": "భారతదేశంలో భూ వినియోగ రికార్డులను నిర్వహించే బాధ్యత ఏ శాఖకు ఉంది?",
+    "en": "In India, which department is responsible for maintaining land-use records?"
+   },
+   "options": {
+    "te": [
+     "భూ రెవెన్యూ శాఖ",
+     "ప్రజా పనుల శాఖ (PWD)",
+     "అటవీ శాఖ",
+     "గ్రామీణాభివృద్ధి శాఖ"
+    ],
+    "en": [
+     "Land Revenue Department",
+     "Public Works Department",
+     "Forest Department",
+     "Rural Development Department"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూ వినియోగ రికార్డులను భూ రెవెన్యూ శాఖ నిర్వహిస్తుంది.",
+    "en": "Land-use records are maintained by the land revenue department."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T25-0239",
+   "section": {
+    "te": "Tree Crops and Groves",
+    "en": "Tree Crops and Groves"
+   },
+   "q": {
+    "te": "పండ్ల తోటలు మరియు చెట్ల క్రింద ఉండి, 'నికర సాగు విస్తీర్ణం' (Net Sown Area) లో చేర్చబడని భూవినియోగ వర్గం ఏది?",
+    "en": "Which of the following land-use categories includes land under orchards and fruit trees, and is explicitly NOT included in the Net Sown Area?"
+   },
+   "options": {
+    "te": [
+     "వివిధ రకాల చెట్ల పంటలు మరియు తోటల క్రింద ఉన్న భూమి",
+     "సాగుయోగ్యమైన వ్యర్థ భూమి",
+     "ప్రస్తుత బీడు కాకుండా ఇతర బీడు భూమి",
+     "శాశ్వత పచ్చిక బయళ్ళు మరియు మేత భూములు"
+    ],
+    "en": [
+     "Area under Miscellaneous Tree Crops and Groves",
+     "Culturable Wasteland",
+     "Fallow other than Current Fallow",
+     "Permanent Pastures and Grazing Lands"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పండ్ల తోటలు మొదలైనవి 'వివిధ రకాల చెట్ల పంటలు మరియు తోటల క్రింద ఉన్న భూమి' వర్గంలోకి వస్తాయి, దీనిని నికర సాగు విస్తీర్ణంలో చేర్చరు.",
+    "en": "Land under orchards and fruit trees is included under 'Area under Miscellaneous Tree Crops and Groves', which is not included in the net sown area."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T25-0181",
+   "section": {
+    "te": "Cotton Maturity",
+    "en": "Cotton Maturity"
+   },
+   "q": {
+    "te": "ప్రత్తి పంట పక్వానికి రావడానికి సుమారు ఎన్ని నెలల సమయం పడుతుంది?",
+    "en": "Approximately how many months does a cotton crop require to mature?"
+   },
+   "options": {
+    "te": [
+     "10 నుండి 12 నెలలు",
+     "2 నుండి 4 నెలలు",
+     "4 నుండి 6 నెలలు",
+     "6 నుండి 8 నెలలు"
+    ],
+    "en": [
+     "10 to 12 months",
+     "2 to 4 months",
+     "4 to 6 months",
+     "6 to 8 months"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ప్రత్తి ఒక ఖరీఫ్ పంట, ఇది పక్వానికి రావడానికి 6 నుండి 8 నెలల సుదీర్ఘ కాలం పడుతుంది.",
+    "en": "Cotton is a kharif crop that has a relatively long growing period, taking 6 to 8 months to reach maturity."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T25-0021",
+   "section": {
+    "te": "Grafting in Brihatsamhita",
+    "en": "Grafting in Brihatsamhita"
+   },
+   "q": {
+    "te": "నేటికీ వాడుకలో ఉన్న అంటుకట్టే (grafting) పద్ధతిని వివరించిన ప్రాచీన భారతీయ గ్రంథం ఏది?",
+    "en": "Which ancient Indian text describes a method of grafting that is still in use today?"
+   },
+   "options": {
+    "te": [
+     "అర్థశాస్త్రం",
+     "బృహత్సంహిత",
+     "కృషిపరాశర",
+     "అమరకోశం"
+    ],
+    "en": [
+     "Arthashastra",
+     "Brihatsamhita",
+     "Krishiparashara",
+     "Amarakosha"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వరాహమిహిరుని బృహత్సంహిత నేటికీ ఉపయోగంలో ఉన్న అంటుకట్టే పద్ధతిని వివరిస్తుంది.",
+    "en": "Varāhamihira's Bṛihatsamhitā describes a grafting technique that continues to be practiced even today."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T25-0327",
+   "section": {
+    "te": "Partition Agricultural Impact",
+    "en": "Partition Agricultural Impact"
+   },
+   "q": {
+    "te": "దేశ విభజన సమయంలో, ఉమ్మడి భారతదేశంలోని సాగునీటి వసతి కలిగిన భూమిలో సుమారు ఎంత భాగం పాకిస్తాన్‌కు వెళ్ళింది?",
+    "en": "During the partition of India, what proportion of the irrigated land of undivided India went to Pakistan?"
+   },
+   "options": {
+    "te": [
+     "సుమారు మూడింట ఒక వంతు",
+     "సుమారు మూడింట రెండు వంతులు",
+     "సుమారు నాలుగింట ఒక వంతు",
+     "సుమారు సగం"
+    ],
+    "en": [
+     "About one-third",
+     "About two-third",
+     "About one-fourth",
+     "About one-half"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "విభజన సమయంలో ఉమ్మడి భారతదేశంలోని సాగునీటి సౌకర్యం ఉన్న భూమిలో సుమారు మూడింట ఒక వంతు పాకిస్తాన్‌కు వెళ్ళింది.",
+    "en": "About one-third of the irrigated land of undivided India went to Pakistan during partition."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T25-0121",
+   "section": {
+    "te": "Agricultural Tools",
+    "en": "Agricultural Tools"
+   },
+   "q": {
+    "te": "ప్రాచీన జీవనాధార వ్యవసాయంలో ఉపయోగించే పరికరాలుగా క్రింది వాటిలో వేటిని ప్రత్యేకంగా పేర్కొన్నారు?",
+    "en": "Which of the following sets of tools are specifically mentioned as being used in primitive subsistence agriculture?"
+   },
+   "options": {
+    "te": [
+     "పార (hoe), దావో (dao) మరియు తవ్వే కర్రలు (digging sticks)",
+     "కొడవళ్లు, స్పేడ్స్ మరియు గొడ్డళ్లు",
+     "ట్రాక్టర్లు, హార్వెస్టర్లు మరియు టిల్లర్లు",
+     "నాగళ్లు, సీడ్ డ్రిల్స్ మరియు హారోలు"
+    ],
+    "en": [
+     "Hoe, dao, and digging sticks",
+     "Sickles, spades, and axes",
+     "Tractors, harvesters, and tillers",
+     "Ploughs, seed drills, and harrows"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రాచీన జీవనాధార వ్యవసాయంలో పార, దావో మరియు తవ్వే కర్రలను పరికరాలుగా ఉపయోగిస్తారని పాఠ్యభాగం స్పష్టంగా పేర్కొంది.",
+    "en": "Hoe, dao, and digging sticks as tools used in primitive subsistence farming."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T25-0300",
+   "section": {
+    "te": "Maize Yield Trends",
+    "en": "Maize Yield Trends"
+   },
+   "q": {
+    "te": "భారతదేశంలో మొక్కజొన్న దిగుబడి స్థాయికి సంబంధించి ఈ క్రింది వాటిలో ఏది నిజం?",
+    "en": "Which of the following is true regarding the yield level of maize in India?"
+   },
+   "options": {
+    "te": [
+     "ఇది ఉత్తర రాష్ట్రాల్లో ఎక్కువగా ఉంటుంది మరియు దక్షిణం వైపు తగ్గుతుంది",
+     "ఇది ఇతర ముతక ధాన్యాల కంటే తక్కువగా ఉంటుంది",
+     "ఇది దక్షిణ రాష్ట్రాల్లో ఎక్కువగా ఉంటుంది మరియు మధ్య ప్రాంతాల వైపు తగ్గుతుంది",
+     "ఇది భారతదేశంలోని అన్ని ప్రాంతాలలో ఒకేలా ఉంటుంది"
+    ],
+    "en": [
+     "It is high in northern states and declines towards the south",
+     "It is lower than other coarse cereals",
+     "It is high in southern states and declines towards central parts",
+     "It is uniform across all regions of India"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మొక్కజొన్న దిగుబడి ఇతర ముతక ధాన్యాల కంటే ఎక్కువగా ఉంటుంది మరియు దక్షిణాన ఎక్కువగా ఉండి, మధ్య భారతదేశం వైపు వెళ్లేకొద్దీ తగ్గుతుంది.",
+    "en": "The yield of maize is higher than other coarse cereals and is high in the south, decreasing as one moves toward central India."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T25-0045",
+   "section": {
+    "te": "Munsar Lake dynasty",
+    "en": "Munsar Lake dynasty"
+   },
+   "q": {
+    "te": "గుజరాత్‌లోని విరామ్‌గామ్‌లో ఉన్న కృత్రిమ మున్సార్ సరస్సును (Munsar Lake) 11వ శతాబ్దంలో ఏ రాజవంశానికి చెందిన రాణి మినాల్‌దేవి నిర్మించారు?",
+    "en": "The artificial Munsar Lake at Viramgam (Gujarat) was constructed in the 11th century CE by Queen Minaldevi of which dynasty?"
+   },
+   "options": {
+    "te": [
+     "చోళ వంశం (Chola dynasty)",
+     "చౌళుక్య వంశం (Chaulukya dynasty)",
+     "పల్లవ వంశం (Pallava dynasty)",
+     "రాష్ట్రకూట వంశం (Rashtrakuta dynasty)"
+    ],
+    "en": [
+     "Chola dynasty",
+     "Chaulukya dynasty",
+     "Pallava dynasty",
+     "Rashtrakuta dynasty"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "విరామ్‌గామ్‌లోని మున్సార్ సరస్సును 11వ శతాబ్దంలో చౌళుక్య రాజవంశానికి చెందిన రాణి మినాల్‌దేవి నిర్మించారు.",
+    "en": "Munsar Lake was constructed by Minaldevi, a queen of the Chaulukya dynasty in the 11th century CE."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T25-0365",
+   "section": {
+    "te": "Groundwater Depletion Cause",
+    "en": "Groundwater Depletion Cause"
+   },
+   "q": {
+    "te": "క్రింద రెండు ప్రకటనలు ఇవ్వబడ్డాయి, ఒకటి నిశ్చితార్థం (A) మరియు రెండవది కారణం (R):\nనిశ్చితార్థం (A): పంజాబ్ మరియు హర్యానా రాష్ట్రాలలో భూగర్భ జలాలు తీవ్రంగా క్షీణించాయి.\nకారణం (R): ఈ రాష్ట్రాల్లోని మొత్తం నికర నీటిపారుదల విస్తీర్ణంలో ఎక్కువ భాగం బావులు మరియు బోరుబావుల ద్వారా సాగవుతూ, అధిక శాతం భూగర్భజల సామర్థ్యాన్ని వినియోగిస్తున్నాయి.\nపై ప్రకటనల సందర్భంలో, క్రింది వాటిలో ఏది సరైనది?",
+    "en": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R):\nAssertion (A): Punjab and Haryana have experienced severe groundwater depletion.\nReason (R): A large proportion of the total net irrigated area in these states is irrigated through wells and tubewells, utilising a large proportion of their groundwater potential.\nIn the context of the statements, which of the following is correct?"
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ సరైనవి మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ సరైనవి కానీ A కి R సరైన వివరణ కాదు",
+     "A సరైనది కానీ R తప్పు",
+     "A తప్పు కానీ R సరైనది"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పంజాబ్ మరియు హర్యానాలలో బావులు, బోరుబావులపై ఎక్కువగా ఆధారపడి భూగర్భ జలాలను విరివిగా తోడేయడం వల్లే అక్కడ భూగర్భ జలాల క్షీణత ఏర్పడింది.",
+    "en": "Both statements are correct. In Punjab and Haryana, 76.1% and 51.3% of irrigated areas rely on wells and tubewells, leading to excessive utilization and depletion of groundwater."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T25-0320",
+   "section": {
+    "te": "Sugarcane Production UP",
+    "en": "Sugarcane Production UP"
+   },
+   "q": {
+    "te": "దేశంలోని మొత్తం చెరకు ఉత్పత్తిలో సుమారు ఎంత వంతును ఉత్తరప్రదేశ్ ఉత్పత్తి చేస్తుంది?",
+    "en": "What proportion of India's total sugarcane production is produced by Uttar Pradesh?"
+   },
+   "options": {
+    "te": [
+     "మూడింట ఒక వంతు (One-third)",
+     "నాలుగింట మూడు వంతులు (Three-fourth)",
+     "ఐదింట రెండు వంతులు (Two-fifth)",
+     "సగం (One-half)"
+    ],
+    "en": [
+     "One-third",
+     "Three-fourth",
+     "Two-fifth",
+     "One-half"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఉత్తరప్రదేశ్ రాష్ట్రం భారతదేశపు మొత్తం చెరకు ఉత్పత్తిలో సుమారు ఐదింట రెండు వంతులను (two-fifth) ఉత్పత్తి చేస్తుంది.",
+    "en": "Uttar Pradesh alone produces about two-fifth of the total sugarcane produced in the country."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T25-0179",
+   "section": {
+    "te": "Bhoodan Movement",
+    "en": "Bhoodan Movement"
+   },
+   "q": {
+    "te": "వినోబా భావే ప్రారంభించిన భూదాన్-గ్రామదాన్ ఉద్యమాన్ని ఈ క్రింది ఏ పేరుతో కూడా పిలుస్తారు?",
+    "en": "The Bhoodan-Gramdan movement initiated by Vinoba Bhave is also known by which of the following names?"
+   },
+   "options": {
+    "te": [
+     "సత్యాగ్రహ విప్లవం",
+     "శ్వేత విప్లవం",
+     "రక్త రహిత విప్లవం (Blood-less Revolution)",
+     "హరిత విప్లవం"
+    ],
+    "en": [
+     "Satyagraha Revolution",
+     "White Revolution",
+     "Blood-less Revolution",
+     "Green Revolution"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూదాన్-గ్రామదాన్ ఉద్యమం శాంతియుత మార్గాల ద్వారా భూ పంపిణీని లక్ష్యంగా పెట్టుకున్నందున దీనిని రక్త రహిత విప్లవం అని పిలుస్తారు.",
+    "en": "The Bhoodan-Gramdan movement is referred to as the Blood-less Revolution because it aimed at land redistribution through peaceful means."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T25-0140",
+   "section": {
+    "te": "Rabi Season Timing",
+    "en": "Rabi Season Timing"
+   },
+   "q": {
+    "te": "భారతదేశంలో రబీ పంటల సాధారణ కోత కాలం (harvesting period) ఏది?",
+    "en": "What is the typical harvesting period for rabi crops in India?"
+   },
+   "options": {
+    "te": [
+     "జూలై నుండి ఆగస్టు",
+     "సెప్టెంబర్ నుండి అక్టోబర్",
+     "అక్టోబర్ నుండి డిసెంబర్",
+     "ఏప్రిల్ నుండి జూన్"
+    ],
+    "en": [
+     "July to August",
+     "September to October",
+     "October to December",
+     "April to June"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రబీ పంటలను శీతాకాలంలో (అక్టోబర్-డిసెంబర్) విత్తుతారు మరియు వేసవిలో, ప్రత్యేకంగా ఏప్రిల్ నుండి జూన్ వరకు కోస్తారు.",
+    "en": "Rabi crops are sown in winter (Oct-Dec) and harvested in summer, specifically from April to June."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T25-0247",
+   "section": {
+    "te": "Land use change categories",
+    "en": "Land use change categories"
+   },
+   "q": {
+    "te": "1950–51 మరియు 2019–20 మధ్య భారతదేశంలో భూవినియోగ వర్గాలలో వరుసగా ఎన్ని పెరిగాయి మరియు ఎన్ని తగ్గాయి?",
+    "en": "Between 1950–51 and 2019–20, how many land-use categories in India registered an increase and a decline respectively?"
+   },
+   "options": {
+    "te": [
+     "4 పెరిగాయి, 5 తగ్గాయి",
+     "3 పెరిగాయి, 6 తగ్గాయి",
+     "6 పెరిగాయి, 3 తగ్గాయి",
+     "5 పెరిగాయి, 4 తగ్గాయి"
+    ],
+    "en": [
+     "4 increased, 5 declined",
+     "3 increased, 6 declined",
+     "6 increased, 3 declined",
+     "5 increased, 4 declined"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "1950–51 మరియు 2019–20 మధ్య కాలంలో ఐదు భూవినియోగ విభాగాలు పెరుగుదలను నమోదు చేయగా, నాలుగు తగ్గుదలను నమోదు చేశాయి.",
+    "en": "Between 1950–51 and 2019–20, five land-use categories registered increases while four registered declines."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T25-0187",
+   "section": {
+    "te": "Bhoodan Movement",
+    "en": "Bhoodan Movement"
+   },
+   "q": {
+    "te": "భూదాన్-గ్రామదాన్ ఉద్యమ సమయంలో చాలా మంది భూస్వాములు తమ భూమిలో కొంత భాగాన్ని పేద రైతులకు అందించడానికి ప్రధాన కారణం ఏమిటి?",
+    "en": "What was the primary reason many landowners chose to provide a part of their land to poor farmers during the Bhoodan-Gramdan movement?"
+   },
+   "options": {
+    "te": [
+     "ప్రభుత్వ రాయితీలు",
+     "పన్నులు తప్పించుకోవడానికి",
+     "మతపరమైన నమ్మకాలు",
+     "భూ గరిష్ట పరిమితి చట్టం (land ceiling act) పట్ల భయం"
+    ],
+    "en": [
+     "Government subsidies",
+     "To avoid taxes",
+     "Religious beliefs",
+     "Fear of land ceiling act"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "కొంతమంది స్వచ్ఛందంగా భూమిని దానం చేసినప్పటికీ, చాలా మంది భూస్వాములు భూ గరిష్ట పరిమితి చట్టం వల్ల కలిగే పరిణామాలకు భయపడి భూమిని దానం చేశారు.",
+    "en": "While some donated land voluntarily, many landowners did so because they feared the implications of the land ceiling act."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T25-0331",
+   "section": {
+    "te": "Tea Global Share",
+    "en": "Tea Global Share"
+   },
+   "q": {
+    "te": "2018లో ప్రపంచ మొత్తం తేయాకు ఉత్పత్తిలో భారతదేశం సుమారు ఎంత శాతం వాటాను నమోదు చేసింది?",
+    "en": "In 2018, India accounted for approximately what percentage of the total tea production in the world?"
+   },
+   "options": {
+    "te": [
+     "15.4 శాతం",
+     "28.5 శాతం",
+     "21.22 శాతం",
+     "19.7 శాతం"
+    ],
+    "en": [
+     "15.4 per cent",
+     "28.5 per cent",
+     "21.22 per cent",
+     "19.7 per cent"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "2018లో ప్రపంచ తేయాకు మొత్తం ఉత్పత్తిలో భారతదేశం సుమారు 21.22 శాతం వాటాను నమోదు చేసింది.",
+    "en": "India produced about 21.22 per cent of the world's total tea production in 2018."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T25-0337",
+   "section": {
+    "te": "Green Revolution expansion",
+    "en": "Green Revolution expansion"
+   },
+   "q": {
+    "te": "1970ల తర్వాత, హరిత విప్లవ సాంకేతికత దేశంలోని ఏ ప్రాంతాలకు విస్తరించింది?",
+    "en": "After the 1970s, the Green Revolution technology spread to which parts of the country?"
+   },
+   "options": {
+    "te": [
+     "దక్షిణ మరియు పశ్చిమ ప్రాంతాలు",
+     "తూర్పు మరియు మధ్య ప్రాంతాలు",
+     "ఈశాన్య రాష్ట్రాలు మాత్రమే",
+     "పశ్చిమ తీర మైదానాలు మాత్రమే"
+    ],
+    "en": [
+     "Southern and Western parts",
+     "Eastern and Central parts",
+     "Extreme North-Eastern states only",
+     "Western coastal plains only"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "1970ల వరకు కొన్ని నీటిపారుదల ప్రాంతాలకే పరిమితమైన ఈ సాంకేతికత, ఆ తర్వాత దేశంలోని తూర్పు మరియు మధ్య ప్రాంతాలకు విస్తరించింది.",
+    "en": "While initially confined to irrigated pockets leading to disparities till the 1970s, the technology later spread to the Eastern and Central parts of India."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T25-0099",
+   "section": {
+    "te": "Organic produce in Sikkim",
+    "en": "Organic produce in Sikkim"
+   },
+   "q": {
+    "te": "సిక్కింలో సేంద్రీయ వ్యవసాయం విజయవంతమైన తర్వాత పెమా కింది ఏ ఉత్పత్తులను ప్రీమియం (మంచి) ధరలకు విక్రయించగలిగారు?",
+    "en": "Which of the following agricultural products was Pema able to sell at premium prices after establishing her organic farm in Sikkim?"
+   },
+   "options": {
+    "te": [
+     "యాలకులు (Cardamom)",
+     "అల్లం (Ginger)",
+     "సాంప్రదాయ కూరగాయలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Cardamom",
+     "Ginger",
+     "Traditional vegetables",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పెమా తన యాలకులు, అల్లం మరియు సాంప్రదాయ కూరగాయలను ప్రీమియం ధరలకు విక్రయించగలిగారని పాఠ్యాంశం పేర్కొంది.",
+    "en": "Pema was able to sell her cardamom, ginger, and traditional vegetables at premium prices."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T25-0190",
+   "section": {
+    "te": "Agricultural Development",
+    "en": "Agricultural Development"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): భారతదేశంలో వ్యవసాయ అభివృద్ధి వేగం కుంటుపడింది.\nకారణం (R): తగిన సాంకేతిక-సంస్థాగత మార్పులు లేకుండా భూమిని నిరంతరం ఉపయోగించడం జరిగింది.",
+    "en": "Assertion (A): The pace of agricultural development in India has been hindered.\nReason (R): Sustained use of land has occurred without compatible techno-institutional changes."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అవసరమైన సాంకేతిక మరియు సంస్థాగత సంస్కరణలు లేకుండా వేల సంవత్సరాలుగా భూమిని ఉపయోగించడం వల్ల వ్యవసాయ అభివృద్ధి కుంటుపడిందని పాఠ్యాంశం పేర్కొంది.",
+    "en": "Agricultural development was hindered because land was used for thousands of years without necessary technical and institutional reforms."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T25-0164",
+   "section": {
+    "te": "Horticulture regions",
+    "en": "Horticulture regions"
+   },
+   "q": {
+    "te": "ఈ క్రింది పండ్లను వాటి ప్రసిద్ధ ఉత్పత్తి ప్రాంతాలు/రాష్ట్రాలతో జతపరచండి:\nజాబితా I: A. నారింజ, B. అరటి, C. అనాస (Pineapple), D. జామ\nజాబితా II: I. నాగ్‌పూర్, II. మిజోరం, III. మేఘాలయ, IV. బీహార్",
+    "en": "Match the following fruits with their famous producing regions/states:\nList I: A. Orange, B. Banana, C. Pineapple, D. Guava\nList II: I. Nagpur, II. Mizoram, III. Meghalaya, IV. Bihar"
+   },
+   "options": {
+    "te": [
+     "A-I, B-II, C-III, D-IV",
+     "A-III, B-I, C-IV, D-II",
+     "A-II, B-IV, C-I, D-III",
+     "A-IV, B-III, C-II, D-I"
+    ],
+    "en": [
+     "A-I, B-II, C-III, D-IV",
+     "A-III, B-I, C-IV, D-II",
+     "A-II, B-IV, C-I, D-III",
+     "A-IV, B-III, C-II, D-I"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, నారింజకు నాగ్‌పూర్, అరటికి మిజోరం, అనాసకు మేఘాలయ మరియు జామకు బీహార్ ప్రసిద్ధి.",
+    "en": "Nagpur is famous for oranges, Mizoram for bananas, Meghalaya for pineapples, and Bihar for guava."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T25-0003",
+   "section": {
+    "te": "Women in Agriculture",
+    "en": "Women in Agriculture"
+   },
+   "q": {
+    "te": "గ్రామీణ భారతదేశంలో, వ్యవసాయ రంగంలో పనిచేసే వారిలో మహిళల శాతం ఎంత?",
+    "en": "In rural India, what percentage of the workforce in the agriculture sector consists of women?"
+   },
+   "options": {
+    "te": [
+     "75 శాతం కంటే ఎక్కువ",
+     "25 శాతం కంటే తక్కువ",
+     "సుమారు 46 శాతం",
+     "ఖచ్చితంగా 50 శాతం"
+    ],
+    "en": [
+     "More than 75 per cent",
+     "Less than 25 per cent",
+     "Approximately 46 per cent",
+     "Exactly 50 per cent"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భారతదేశంలోని గ్రామీణ ప్రాంతాల్లో, వ్యవసాయ శ్రామిక శక్తిలో మహిళలు 75 శాతం కంటే ఎక్కువగా ఉన్నారు.",
+    "en": "In rural areas of India, women constitute more than 75 per cent of the agricultural workforce."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T25-0031",
+   "section": {
+    "te": "Northeast monsoon months",
+    "en": "Northeast monsoon months"
+   },
+   "q": {
+    "te": "భారతదేశంలో ఈశాన్య రుతుపవనాలు ఏ నెలల్లో వీచి తూర్పు మరియు దక్షిణ భారతదేశానికి వర్షాన్ని తెస్తాయి?",
+    "en": "The northeast monsoon brings rainfall to the east and south of India during which months?"
+   },
+   "options": {
+    "te": [
+     "జూలై నుండి అక్టోబర్",
+     "జూన్ నుండి సెప్టెంబర్",
+     "డిసెంబర్ నుండి ఫిబ్రవరి",
+     "అక్టోబర్ నుండి డిసెంబర్"
+    ],
+    "en": [
+     "July to October",
+     "June to September",
+     "December to February",
+     "October to December"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఈశాన్య రుతుపవనాలు అక్టోబర్ నుండి డిసెంబర్ వరకు కొనసాగి తూర్పు, దక్షిణ భారత ప్రాంతాలకు వర్షాన్నిస్తాయి.",
+    "en": "The northeast monsoon prevails from October to December, providing rain to eastern and southern India."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T25-0332",
+   "section": {
+    "te": "Coffee Global Rank",
+    "en": "Coffee Global Rank"
+   },
+   "q": {
+    "te": "2018 నాటికి ప్రపంచ కాఫీ ఉత్పత్తిలో భారతదేశం ఎన్నవ స్థానంలో నిలిచింది?",
+    "en": "What was India's rank in world coffee production in 2018?"
+   },
+   "options": {
+    "te": [
+     "రెండవ స్థానం",
+     "ఐదవ స్థానం",
+     "ఆరవ స్థానం",
+     "ఎనిమిదవ స్థానం"
+    ],
+    "en": [
+     "Second",
+     "Fifth",
+     "Sixth",
+     "Eighth"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "2018లో భారతదేశం ప్రపంచ కాఫీ ఉత్పత్తిలో 3.17 శాతం ఉత్పత్తితో ఎనిమిదవ స్థానంలో నిలిచింది.",
+    "en": "In 2018, India produced about 3.17 per cent of world coffee and ranked eighth globally."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T25-0264",
+   "section": {
+    "te": "Total Cultivable Land",
+    "en": "Total Cultivable Land"
+   },
+   "q": {
+    "te": "వ్యవసాయ భూ వనరుల మొత్తం నిల్వను (మొత్తం సాగు చేయదగిన భూమి) ఈ క్రింది ఏ వర్గాలను కలపడం ద్వారా అంచనా వేస్తారు?",
+    "en": "The total stock of agricultural land resources (total cultivable land) is estimated by adding which of the following categories?"
+   },
+   "options": {
+    "te": [
+     "నికర సాగు భూమి + వ్యవసాయేతర అవసరాల కోసం ఉన్న భూమి",
+     "నికర సాగు భూమి + అన్ని పడి భూములు + సాగు చేయదగిన బంజరు భూమి",
+     "నికర సాగు భూమి + అడవులు + బంజరు భూమి",
+     "నికర సాగు భూమి + శాశ్వత పచ్చిక బయళ్ళు + చెట్ల పంటలు"
+    ],
+    "en": [
+     "Net sown area + Area under non-agricultural uses",
+     "Net sown area + All fallow lands + Culturable wasteland",
+     "Net sown area + Forests + Barren land",
+     "Net sown area + Permanent pastures + Tree crops"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మొత్తం సాగు చేయదగిన భూమి అనేది నికర సాగు భూమి, అన్ని పడి భూములు మరియు సాగు చేయదగిన బంజరు భూముల మొత్తం.",
+    "en": "The total cultivable land is the sum of net sown area, all fallow lands, and culturable wasteland."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T25-0176",
+   "section": {
+    "te": "Agricultural Reforms",
+    "en": "Agricultural Reforms"
+   },
+   "q": {
+    "te": "వ్యవసాయ అభివృద్ధికి సంబంధించి భారతదేశ మొదటి పంచవర్ష ప్రణాళిక యొక్క ప్రధాన దృష్టి దేనిపై ఉంది?",
+    "en": "What was the main focus of India's First Five Year Plan regarding agricultural development?"
+   },
+   "options": {
+    "te": [
+     "హరిత విప్లవం",
+     "భూ సంస్కరణలు",
+     "కిసాన్ క్రెడిట్ కార్డ్",
+     "శ్వేత విప్లవం"
+    ],
+    "en": [
+     "Green Revolution",
+     "Land reform",
+     "Kisan Credit Card",
+     "White Revolution"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భూమి కమతాల విచ్ఛిన్నం వంటి సమస్యలను పరిష్కరించడానికి మొదటి పంచవర్ష ప్రణాళికలో భూ సంస్కరణలపై ప్రధానంగా దృష్టి సారించారు.",
+    "en": "Land reform was the primary focus of the First Five Year Plan to address issues like fragmentation of holdings."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T25-0094",
+   "section": {
+    "te": "Groundwater depletion depth Punjab",
+    "en": "Groundwater depletion depth Punjab"
+   },
+   "q": {
+    "te": "తీవ్రమైన వినియోగం కారణంగా పంజాబ్‌లోని ఎక్కువ భాగంలో భూగర్భ జలాలు దాదాపు ఎంత లోతు వరకు అందని స్థాయికి పడిపోయాయి?",
+    "en": "Due to extensive extraction, the groundwater level in a large part of Punjab has become inaccessible up to what depth?"
+   },
+   "options": {
+    "te": [
+     "దాదాపు 50 మీటర్లు",
+     "దాదాపు 15 మీటర్లు",
+     "దాదాపు 100 మీటర్లు",
+     "దాదాపు 30 మీటర్లు"
+    ],
+    "en": [
+     "About 50 metres",
+     "About 15 metres",
+     "About 100 metres",
+     "About 30 metres"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పంజాబ్‌లోని చాలా ప్రాంతాలలో భూగర్భ జలాలు దాదాపు 30 మీటర్ల లోతు వరకు అందకుండా పోయాయని పాఠ్యాంశం స్పష్టం చేస్తోంది.",
+    "en": "The text highlights that groundwater in a large part of Punjab has become inaccessible till depths of about 30 metres."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T25-0076",
+   "section": {
+    "te": "Modern Farming",
+    "en": "Modern Farming"
+   },
+   "q": {
+    "te": "కింది వాటిలో 'హైడ్రోపోనిక్స్' (Hydroponics) ను ఏది ఉత్తమంగా వివరిస్తుంది?",
+    "en": "Which of the following best describes 'Hydroponics'?"
+   },
+   "options": {
+    "te": [
+     "తక్కువ నీటితో పొడి, ఎడారి నేలల్లో మొక్కలను పెంచడం",
+     "మట్టి లేకుండా పోషకాలు అధికంగా ఉన్న నీటి ద్రావణాలలో మొక్కలను పెంచడం",
+     "నీటి పారుదల కోసం కేవలం వర్షపు నీటిని మాత్రమే ఉపయోగించే వ్యవసాయ పద్ధతి",
+     "దట్టమైన అటవీ ప్రాంతాలలో పంటలను పండించే పద్ధతి"
+    ],
+    "en": [
+     "Growing plants in dry, arid soil with minimal water",
+     "Growing plants in nutrient-rich water solutions without soil",
+     "A method of farming that uses only rainwater for irrigation",
+     "The practice of growing crops inside deep forest areas"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "హైడ్రోపోనిక్స్ అనేది మట్టి లేని వ్యవసాయ పద్ధతి, ఇక్కడ మొక్కలు పోషకాలు అధికంగా ఉన్న నీటి ద్రావణాల ద్వారా నేరుగా అవసరమైన ఖనిజాలను పొందుతాయి.",
+    "en": "Hydroponics is a soil-less farming method where plants get essential minerals directly through nutrient-rich water solutions."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T25-0274",
+   "section": {
+    "te": "Rice Cultivation Regions",
+    "en": "Rice Cultivation Regions"
+   },
+   "q": {
+    "te": "హిమాలయాలు మరియు భారతదేశ వాయువ్య ప్రాంతాలలో, వరిని ప్రధానంగా ఏ కాలంలో పండిస్తారు?",
+    "en": "In the Himalayas and northwestern parts of India, rice is primarily grown during which season?"
+   },
+   "options": {
+    "te": [
+     "రబీ",
+     "ఖరీఫ్",
+     "జైద్",
+     "ఏడాది పొడవునా"
+    ],
+    "en": [
+     "Rabi",
+     "Kharif",
+     "Zaid",
+     "All year round"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "హిమాలయాలు మరియు భారతదేశ వాయువ్య ప్రాంతాలలో, నైరుతి రుతుపవనాల సమయంలో వరిని ఖరీఫ్ పంటగా పండిస్తారు.",
+    "en": "In the Himalayas and northwestern parts of India, rice is grown as a kharif crop during the southwest monsoon."
+   }
+  }
+ ]
+}

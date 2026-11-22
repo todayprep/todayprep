@@ -1,0 +1,942 @@
+{
+ "id": "geo-27-c-2",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Transport – క్విజ్ 2",
+  "en": "Transport – Quiz 2"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T27-0237",
+   "section": {
+    "te": "Atal Tunnel",
+    "en": "Atal Tunnel"
+   },
+   "q": {
+    "te": "హిమాలయాలలోని ఏ పర్వత శ్రేణిలో అటల్ టన్నెల్ నిర్మించబడింది?",
+    "en": "In which mountain range of the Himalayas is the Atal Tunnel built?"
+   },
+   "options": {
+    "te": [
+     "కారకోరం శ్రేణి",
+     "జాంస్కర్ శ్రేణి",
+     "లడఖ్ శ్రేణి",
+     "పీర్ పంజాల్ శ్రేణి"
+    ],
+    "en": [
+     "Karakoram Range",
+     "Zanskar Range",
+     "Ladakh Range",
+     "Pir Panjal Range"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "9.02 కి.మీ పొడవున్న అటల్ టన్నెల్ హిమాలయాలలోని పీర్ పంజాల్ శ్రేణిలో 3000 మీటర్ల ఎత్తులో నిర్మించబడింది.",
+    "en": "The Atal Tunnel, which is 9.02 km long, is built in the Pir Panjal range of the Himalayas at an altitude of 3000 metres."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T27-0037",
+   "section": {
+    "te": "Salaya-Jalandhar pipeline route",
+    "en": "Salaya-Jalandhar pipeline route"
+   },
+   "q": {
+    "te": "గుజరాత్‌లోని సలాయా నుండి పంజాబ్‌లోని జలంధర్ వరకు ఉన్న పైప్‌లైన్ రవాణా నెట్‌వర్క్ క్రింది ఏ నగరాల గుండా వెళుతుంది?",
+    "en": "The pipeline transport network running from Salaya in Gujarat to Jalandhar in Punjab passes through which of the following routes?"
+   },
+   "options": {
+    "te": [
+     "గౌహతి, సిలిగురి మరియు ప్రయాగ్‌రాజ్",
+     "విరంగం, మథుర, ఢిల్లీ మరియు సోనిపట్",
+     "జగదీష్‌పూర్, విజయ్‌పూర్ మరియు హజీరా",
+     "బరౌని, రాజ్‌బంధ్ మరియు హల్దియా"
+    ],
+    "en": [
+     "Guwahati, Siliguri and Prayagraj",
+     "Viramgam, Mathura, Delhi and Sonipat",
+     "Jagdishpur, Vijaipur and Hazira",
+     "Barauni, Rajbandh and Haldia"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "గుజరాత్‌లోని సలాయా నుండి పంజాబ్‌లోని జలంధర్‌కు వెళ్లే పైప్‌లైన్ విరంగం, మథుర, ఢిల్లీ మరియు సోనిపట్ మీదుగా వెళుతుంది.",
+    "en": "The pipeline runs from Salaya in Gujarat to Jalandhar in Punjab via Viramgam, Mathura, Delhi, and Sonipat."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T27-0050",
+   "section": {
+    "te": "New Mangalore port iron ore source",
+    "en": "New Mangalore port iron ore source"
+   },
+   "q": {
+    "te": "కర్ణాటకలోని న్యూ మంగళూరు ఓడరేవు క్రింది ఏ గనుల నుండి ఇనుప ఖనిజ ఎగుమతిని నిర్వహిస్తుంది?",
+    "en": "The New Mangalore port in Karnataka caters to the export of iron ore concentrates from which of the following mines?"
+   },
+   "options": {
+    "te": [
+     "కుద్రేముఖ్ గనులు",
+     "రత్నగిరి గనులు",
+     "బైలదిల్లా గనులు",
+     "మయూర్ భంజ్ గనులు"
+    ],
+    "en": [
+     "Kudremukh mines",
+     "Ratnagiri mines",
+     "Bailadila mines",
+     "Mayurbhanj mines"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "న్యూ మంగళూరు పోర్ట్ కుద్రేముఖ్ గనుల నుండి లభించే ఇనుప ఖనిజాన్ని ఎగుమతి చేస్తుంది.",
+    "en": "New Mangalore port handles iron ore concentrates exported from Kudremukh mines."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T27-0335",
+   "section": {
+    "te": "Diamond Harbour",
+    "en": "Diamond Harbour"
+   },
+   "q": {
+    "te": "హుగ్లీ నదిపై ఏ నగరం సమీపంలో డైమండ్ హార్బర్ అభివృద్ధి చేయబడింది?",
+    "en": "Diamond Harbour was developed near which city on the river Hugli?"
+   },
+   "options": {
+    "te": [
+     "చెన్నై",
+     "ముంబై",
+     "విశాఖపట్నం",
+     "కోల్‌కతా"
+    ],
+    "en": [
+     "Chennai",
+     "Mumbai",
+     "Visakhapatnam",
+     "Kolkata"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "విభజన నష్టాలను పూడ్చడానికి హుగ్లీ నదిపై కోల్‌కతా సమీపంలో డైమండ్ హార్బర్ అభివృద్ధి చేయబడింది.",
+    "en": "Diamond Harbour was developed near Kolkata on the river Hugli to compensate for partition losses."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T27-0070",
+   "section": {
+    "te": "Periodic rural markets",
+    "en": "Periodic rural markets"
+   },
+   "q": {
+    "te": "గ్రామీణ ప్రాంతాల్లోని ఆవర్తన మార్కెట్లకు (పీరియాడిక్ మార్కెట్లు) సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. సాధారణ మార్కెట్లు లేని ప్రదేశాలలో ఇవి కనిపిస్తాయి.\n2. ఇవి వారాంతపు లేదా ద్వై-వారపు మార్కెట్లుగా నిర్వహించబడవచ్చు.\n3. ఈ మార్కెట్లు శాశ్వతంగా ఒకే స్థిర ప్రదేశంలో ఉంటాయి మరియు ఎక్కడికీ మారవు.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding periodic markets in rural areas:\n1. They are found where there are no regular markets.\n2. They may be organized as weekly or biweekly markets.\n3. These markets remain permanently fixed at one single location and do not move.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రకటనలు 1 మరియు 2 సరైనవి. ప్రకటన 3 తప్పు, ఎందుకంటే ఈ మార్కెట్లు నిర్దిష్ట తేదీలలో నిర్వహించబడుతూ ఒక ప్రదేశం నుండి మరొక ప్రదేశానికి మారుతుంటాయి.",
+    "en": "Statements 1 and 2 are correct. Statement 3 is incorrect because these markets are held on specified dates and move from one place to another."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T27-0208",
+   "section": {
+    "te": "Inland Ports Locations",
+    "en": "Inland Ports Locations"
+   },
+   "q": {
+    "te": "కింది అంతర్గత ఓడరేవులను (Inland Ports) అవి ఉన్న/అనుసంధానించబడిన జలవనరులతో జతపరచండి:\nజాబితా-I (ఓడరేవు): 1. మాంచెస్టర్, 2. మెంఫిస్, 3. కోల్‌కతా, 4. డ్యూయిస్‌బర్గ్\nజాబితా-II (జలవనరు): i. హూగ్లీ నది, ii. రైన్ నది, iii. కాలువ, iv. మిసిసిపీ నది",
+    "en": "Match the following Inland Ports with the water bodies they are located on/linked to:\nList-I (Port): 1. Manchester, 2. Memphis, 3. Kolkata, 4. Duisburg\nList-II (Water Body): i. River Hoogli, ii. River Rhine, iii. Canal, iv. River Mississippi"
+   },
+   "options": {
+    "te": [
+     "1-iii, 2-iv, 3-i, 4-ii",
+     "1-iii, 2-i, 3-iv, 4-ii",
+     "1-iv, 2-iii, 3-i, 4-ii",
+     "1-ii, 2-iv, 3-i, 4-iii"
+    ],
+    "en": [
+     "1-iii, 2-iv, 3-i, 4-ii",
+     "1-iii, 2-i, 3-iv, 4-ii",
+     "1-iv, 2-iii, 3-i, 4-ii",
+     "1-ii, 2-iv, 3-i, 4-iii"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మూలం ప్రకారం, మాంచెస్టర్ ఒక కాలువతో అనుసంధానించబడి ఉంది, మెంఫిస్ మిసిసిపీ నదిపై ఉంది, కోల్‌కతా హూగ్లీ నదిపై ఉంది మరియు డ్యూయిస్‌బర్గ్ రైన్ నదిపై ఉంది.",
+    "en": "Manchester is linked with a canal, Memphis is on the Mississippi, Kolkata is on the Hoogli, and Duisburg is on the Rhine."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T27-0216",
+   "section": {
+    "te": "Inland Ports Accessibility",
+    "en": "Inland Ports Accessibility"
+   },
+   "q": {
+    "te": "అంతర్గత ఓడరేవుల (Inland Ports) అందుబాటుకు సంబంధించి కింది వాటిలో ఏ ప్రకటన సరైనది?",
+    "en": "Which of the following statements is correct regarding the accessibility of Inland Ports?"
+   },
+   "options": {
+    "te": [
+     "ఇవి పెద్ద సముద్రపు ట్యాంకర్లకు మాత్రమే అందుబాటులో ఉంటాయి.",
+     "ఇవి చదునైన అడుగు భాగం కలిగిన ఓడలు (flat bottom ships) లేదా బార్జ్‌లకు అందుబాటులో ఉంటాయి.",
+     "వీటిని వాయు రవాణా ద్వారా మాత్రమే చేరుకోవచ్చు.",
+     "ఇవి నేరుగా సముద్ర తీరంలో ఉంటాయి."
+    ],
+    "en": [
+     "They are accessible only to large ocean-going tankers.",
+     "They are accessible to flat bottom ships or barges.",
+     "They can only be reached by air transport.",
+     "They are located directly on the sea coast."
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అంతర్గత ఓడరేవులు నదులు లేదా కాలువలపై తీరానికి దూరంగా ఉండటం వల్ల, చదునైన అడుగు భాగం కలిగిన ఓడలు లేదా బార్జ్‌లకు అందుబాటులో ఉంటాయి.",
+    "en": "Inland ports, being located away from the coast on rivers or canals, are accessible to flat bottom ships or barges."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T27-0142",
+   "section": {
+    "te": "South American railways characteristics",
+    "en": "South American railways characteristics"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఏ దక్షిణ అమెరికా దేశాలు పోర్టుల నుండి అంతర్గత ప్రాంతాలకు పరస్పర అనుసంధానం లేని చిన్న సింగిల్ ట్రాక్ రైలు మార్గాలను కలిగి ఉన్నాయి?",
+    "en": "Which of the following South American countries have short single-track rail lines from ports to the interior without inter-connecting links?"
+   },
+   "options": {
+    "te": [
+     "పెరూ మరియు బొలీవియా",
+     "ఈక్వెడార్ మరియు కొలంబియా",
+     "వెనిజులా",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Peru and Bolivia",
+     "Ecuador and Colombia",
+     "Venezuela",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, పెరూ, బొలీవియా, ఈక్వెడార్, కొలంబియా మరియు వెనిజులా దేశాలు నౌకాశ్రయాల నుండి లోపలి ప్రాంతాలకు పరస్పర సంబంధం లేని చిన్న సింగిల్-ట్రాక్ రైలు మార్గాలను మాత్రమే కలిగి ఉన్నాయి.",
+    "en": "Peru, Bolivia, Ecuador, Colombia, and Venezuela all have short single-track rail-lines running from ports into the interior with no interconnecting links between them."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T27-0057",
+   "section": {
+    "te": "Communication Integration",
+    "en": "Communication Integration"
+   },
+   "q": {
+    "te": "భారతదేశం అంతటా ఏకరూప ఎస్‌టీడీ (STD) రేట్ల సౌకర్యం అంతరిక్ష సాంకేతికతను కింది వాటిలో దేనితో అనుసంధానించడం ద్వారా సాధ్యమైంది?",
+    "en": "The uniform rate of STD facilities all over India has been made possible by integrating development in space technology with which of the following?"
+   },
+   "options": {
+    "te": [
+     "బయోటెక్నాలజీ",
+     "అణు సాంకేతికత",
+     "రక్షణ సాంకేతికత",
+     "కమ్యూనికేషన్ టెక్నాలజీ"
+    ],
+    "en": [
+     "Biotechnology",
+     "Nuclear technology",
+     "Defense technology",
+     "Communication technology"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అంతరిక్ష సాంకేతిక పరిజ్ఞానాన్ని కమ్యూనికేషన్ టెక్నాలజీతో అనుసంధానించడం ద్వారా భారతదేశం అంతటా ఒకే విధమైన ఎస్‌టీడీ రేట్లను అందించడం సాధ్యమైంది.",
+    "en": "A uniform rate of STD facilities across India was achieved by integrating developments in space technology with communication technology."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T27-0284",
+   "section": {
+    "te": "Communication Classification",
+    "en": "Communication Classification"
+   },
+   "q": {
+    "te": "వ్యక్తిగత మరియు సామూహిక సమాచార ప్రసారం వంటి వర్గాలుగా సమాచార మార్పిడి పద్ధతులను ఏ ప్రాతిపదికన విభజించవచ్చు?",
+    "en": "On what basis can the modes of communication be divided into categories like personal and mass communication?"
+   },
+   "options": {
+    "te": [
+     "స్థాయి మరియు నాణ్యత (Scale and quality)",
+     "ఖర్చు మరియు సాంకేతికత",
+     "వేగం మరియు దూరం",
+     "భాష మరియు ప్రాంతం"
+    ],
+    "en": [
+     "Scale and quality",
+     "Cost and technology",
+     "Speed and distance",
+     "Language and region"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠం ప్రకారం, సమాచార మార్పిడి పద్ధతులు వాటి స్థాయి మరియు నాణ్యత ఆధారంగా వర్గీకరించబడ్డాయి.",
+    "en": "Communication modes are categorized based on their scale and quality."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T27-0280",
+   "section": {
+    "te": "Pipeline Extension",
+    "en": "Pipeline Extension"
+   },
+   "q": {
+    "te": "నహర్కటియా-బరౌని పైప్‌లైన్ ఏ సంవత్సరంలో కాన్పూర్ వరకు విస్తరించబడింది?",
+    "en": "In which year was the Naharkatiya-Barauni pipeline extended to Kanpur?"
+   },
+   "options": {
+    "te": [
+     "1966",
+     "1959",
+     "1984",
+     "1930"
+    ],
+    "en": [
+     "1966",
+     "1959",
+     "1984",
+     "1930"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నహర్కటియా నుండి బరౌని వరకు ఉన్న పైప్‌లైన్ 1966లో కాన్పూర్ వరకు విస్తరించబడింది.",
+    "en": "The pipeline from Naharkatiya to Barauni was extended to Kanpur in 1966."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T27-0189",
+   "section": {
+    "te": "USA pipeline freight",
+    "en": "USA pipeline freight"
+   },
+   "q": {
+    "te": "అమెరికాలో పైప్‌లైన్‌ల ద్వారా ఎన్ని టన్ను-కిమీ సరుకు రవాణా చేయబడుతుంది?",
+    "en": "What percentage of all freight per tonne-km is carried through pipelines in the U.S.A.?"
+   },
+   "options": {
+    "te": [
+     "17 శాతం",
+     "25 శాతం",
+     "10 శాతం",
+     "60 శాతం"
+    ],
+    "en": [
+     "17%",
+     "25%",
+     "10%",
+     "60%"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అమెరికాలో, టన్ను-కిమీలో కొలిచిన మొత్తం సరుకు రవాణాలో సుమారు 17 శాతం పైప్‌లైన్‌ల ద్వారా జరుగుతుంది.",
+    "en": "In the U.S.A., pipelines carry approximately 17 per cent of all freight measured in tonne-km."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T27-0206",
+   "section": {
+    "te": "Internet User Statistics",
+    "en": "Internet User Statistics"
+   },
+   "q": {
+    "te": "2010 సంవత్సరంలో ప్రపంచవ్యాప్తంగా ఎంతమంది ఇంటర్నెట్ వినియోగదారులు ఉన్నారు?",
+    "en": "How many internet users were there globally in the year 2010?"
+   },
+   "options": {
+    "te": [
+     "400 మిలియన్లు",
+     "5.4 బిలియన్లు",
+     "50 మిలియన్ల కంటే తక్కువ",
+     "రెండు బిలియన్ల కంటే ఎక్కువ"
+    ],
+    "en": [
+     "400 million",
+     "5.4 billion",
+     "Less than 50 million",
+     "Over two billion"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "2010లో రెండు బిలియన్ల కంటే ఎక్కువ మంది ఇంటర్నెట్ వినియోగదారులు ఉన్నారని వనరు పేర్కొంది.",
+    "en": "There were over two billion internet users in 2010."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T27-0133",
+   "section": {
+    "te": "Trans-Canadian Railway construction",
+    "en": "Trans-Canadian Railway construction"
+   },
+   "q": {
+    "te": "పశ్చిమ తీరంలోని బ్రిటిష్ కొలంబియా రాష్ట్రాల సమాఖ్యలో చేరడానికి కుదిరిన ఒప్పందంలో భాగంగా ట్రాన్స్-కెనడియన్ రైల్వే ఏ సంవత్సరంలో నిర్మించబడింది?",
+    "en": "In which year was the Trans-Canadian Railway constructed to fulfill an agreement that brought British Columbia into the Federation of States?"
+   },
+   "options": {
+    "te": [
+     "1882",
+     "1869",
+     "1875",
+     "1886"
+    ],
+    "en": [
+     "1882",
+     "1869",
+     "1875",
+     "1886"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ట్రాన్స్-కెనడియన్ రైల్వే 1886లో బ్రిటిష్ కొలంబియాను సమాఖ్యలో చేర్చే ఒప్పందం ప్రకారం నిర్మించబడింది.",
+    "en": "The 7,050 km long Trans-Canadian Railway was constructed in 1886 to make British Columbia join the Federation of States."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T27-0345",
+   "section": {
+    "te": "Major Airports Count",
+    "en": "Major Airports Count"
+   },
+   "q": {
+    "te": "వార్షిక నివేదిక 2016-17 ప్రకారం, భారతదేశంలో ఎన్ని ప్రధాన విమానాశ్రయాలు పనిచేస్తున్నాయి?",
+    "en": "According to the Annual Report 2016-17, how many major airports were functioning in India?"
+   },
+   "options": {
+    "te": [
+     "73",
+     "25",
+     "12",
+     "128"
+    ],
+    "en": [
+     "73",
+     "25",
+     "12",
+     "128"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "2016-17 వార్షిక నివేదిక ప్రకారం భారతదేశంలో 25 ప్రధాన విమానాశ్రయాలు పనిచేస్తున్నాయని మూలం పేర్కొంది.",
+    "en": "There were 25 major airports functioning in India as per the 2016-17 Annual Report."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T27-0007",
+   "section": {
+    "te": "Economic Lifelines",
+    "en": "Economic Lifelines"
+   },
+   "q": {
+    "te": "దేశ అభివృద్ధికి సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. రవాణా, సమాచార మార్పిడి మరియు వాణిజ్యం ఒకదానికొకటి పరిపూరకరమైనవి.\n2. అభివృద్ధి వేగం వస్తువుల ఉత్పత్తిపై మాత్రమే ఆధారపడి ఉంటుంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the development of a country:\n1. Transport, communication, and trade are complementary to each other.\n2. The pace of development depends only on the production of goods.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్య భాగం ప్రకారం ప్రకటన 1 సరైనది. వస్తువులు మరియు సేవల ఉత్పత్తితో పాటు వాటి కదలికపై కూడా అభివృద్ధి ఆధారపడి ఉంటుంది కాబట్టి ప్రకటన 2 తప్పు.",
+    "en": "Statement 1 is correct as per the text. Statement 2 is incorrect because development depends on both the production of goods and services as well as their movement over space."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T27-0021",
+   "section": {
+    "te": "Golden Quadrilateral Project",
+    "en": "Golden Quadrilateral Project"
+   },
+   "q": {
+    "te": "స్వర్ణ చతుర్భుజి సూపర్ హైవేస్ (Golden Quadrilateral Super Highways) ప్రాజెక్ట్ ఆరు వరుసల సూపర్ హైవేల ద్వారా క్రింది ఏ మెగా నగరాలను అనుసంధానిస్తుంది?",
+    "en": "The Golden Quadrilateral Super Highways project links which of the following sets of mega cities by six-lane Super Highways?"
+   },
+   "options": {
+    "te": [
+     "ఢిల్లీ మరియు కోల్‌కతా",
+     "చెన్నై మరియు ముంబై",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Delhi and Kolkata",
+     "Chennai and Mumbai",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "స్వర్ణ చతుర్భుజి సూపర్ హైవేస్ ప్రాజెక్ట్ ఢిల్లీ-కోల్‌కతా-చెన్నై-ముంబై నగరాలను ఆరు వరుసల సూపర్ హైవేలతో కలుపుతుంది.",
+    "en": "The Golden Quadrilateral links Delhi-Kolkata-Chennai-Mumbai and Delhi by six-lane Super Highways, so both sets of cities are linked."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T27-0267",
+   "section": {
+    "te": "Pawan Hans Services",
+    "en": "Pawan Hans Services"
+   },
+   "q": {
+    "te": "పవన్ హన్స్ లిమిటెడ్ ఈ క్రింది ఏ రంగాలకు హెలికాప్టర్ సేవలను అందిస్తుంది?",
+    "en": "Pawan Hans Limited provides helicopter services to which of the following sectors?"
+   },
+   "options": {
+    "te": [
+     "పెట్రోలియం రంగం",
+     "పర్యాటక రంగం",
+     "కొండ ప్రాంతాలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Petroleum sector",
+     "Tourism",
+     "Hilly areas",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పవన్ హన్స్ కొండ ప్రాంతాలలో (ముఖ్యంగా ఈశాన్య ప్రాంతం), పెట్రోలియం రంగానికి సేవలను అందిస్తుంది మరియు పర్యాటక రంగానికి మద్దతు ఇస్తుంది.",
+    "en": "Pawan Hans operates in hilly areas (especially the North-eastern sector), provides services to the petroleum sector, and supports tourism."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T27-0278",
+   "section": {
+    "te": "Coastline and Ports",
+    "en": "Coastline and Ports"
+   },
+   "q": {
+    "te": "భారతదేశ సముద్ర మౌలిక సదుపాయాలకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిగణించండి:\n1. భారతదేశం ద్వీపాలతో కలిపి సుమారు 7,517 కిలోమీటర్ల తీరప్రాంతాన్ని కలిగి ఉంది.\n2. సముద్ర మార్గాలకు మద్దతునిచ్చే 12 ప్రధాన మరియు 200 చిన్న ఓడరేవులు ఉన్నాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding India's oceanic infrastructure:\n1. India has a coastline of approximately 7,517 km including islands.\n2. There are 12 major and 200 minor ports providing support to oceanic routes.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 లేదా 2 ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "తీరప్రాంతం పొడవు మరియు ప్రధాన మరియు చిన్న ఓడరేవుల సంఖ్యకు సంబంధించి వనరుల పాఠం ప్రకారం రెండు ప్రకటనలు సరైనవి.",
+    "en": "Both statements are correct as per the source text regarding the coastline length and the number of major and minor ports."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T27-0093",
+   "section": {
+    "te": "Pack Animals",
+    "en": "Pack Animals"
+   },
+   "q": {
+    "te": "ఉత్తర అమెరికా మరియు సైబీరియాలో మంచుతో కప్పబడిన నేలపై స్లెడ్జ్‌లను (sledges) లాగడానికి ఈ క్రింది ఏ జంతువులను ఉపయోగిస్తారు?",
+    "en": "Which of the following animals are used to draw sledges over snow-covered ground in North America and Siberia?"
+   },
+   "options": {
+    "te": [
+     "కుక్కలు",
+     "రెయిన్ డీర్",
+     "A మరియు B రెండూ",
+     "కంచర గాడిదలు"
+    ],
+    "en": [
+     "Dogs",
+     "Reindeer",
+     "Both A and B",
+     "Mules"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, ఉత్తర అమెరికా, ఉత్తర యూరప్ మరియు సైబీరియాలో మంచుపై స్లెడ్జ్‌లను లాగడానికి కుక్కలు మరియు రెయిన్ డీర్ రెండింటినీ ఉపయోగిస్తారు.",
+    "en": "Both dogs and reindeer are used in North America, North Europe, and Siberia to draw sledges over snow."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T27-0289",
+   "section": {
+    "te": "World Trade Share",
+    "en": "World Trade Share"
+   },
+   "q": {
+    "te": "ప్రపంచ వాణిజ్యం యొక్క మొత్తం పరిమాణంలో భారతదేశం యొక్క సుమారు వాటా ఎంత?",
+    "en": "What is India's approximate contribution to the total volume of world trade?"
+   },
+   "options": {
+    "te": [
+     "10 శాతం",
+     "5 శాతం",
+     "1 శాతం",
+     "15 శాతం"
+    ],
+    "en": [
+     "10 per cent",
+     "5 per cent",
+     "1 per cent",
+     "15 per cent"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రపంచ వాణిజ్యం యొక్క మొత్తం పరిమాణంలో భారతదేశం యొక్క వాటా సుమారు ఒక శాతం.",
+    "en": "India's share in the total volume of world trade is approximately one per cent."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T27-0262",
+   "section": {
+    "te": "National Waterways Act 2016",
+    "en": "National Waterways Act 2016"
+   },
+   "q": {
+    "te": "జాతీయ జలమార్గాల చట్టం, 2016 కి సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది మొత్తం 111 అంతర్గత జలమార్గాలను జాతీయ జలమార్గాలుగా ప్రకటించింది.\n2. ఈ సంఖ్యలో అంతకుముందు ప్రకటించిన 5 జాతీయ జలమార్గాలు కూడా ఉన్నాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the National Waterways Act, 2016:\n1. It declared a total of 111 inland waterways as National Waterways.\n2. This count includes 5 national waterways that were declared earlier.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "జాతీయ జలమార్గాల చట్టం, 2016 మొత్తం 111 జలమార్గాలను జాతీయ జలమార్గాలుగా ప్రకటించింది, ఇందులో గతంలో ప్రకటించిన 5 జలమార్గాలు కూడా ఉన్నాయి.",
+    "en": "The National Waterways Act, 2016 declared 111 waterways as National Waterways, which includes the 5 previously declared ones."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T27-0347",
+   "section": {
+    "te": "Paradwip Port Purpose",
+    "en": "Paradwip Port Purpose"
+   },
+   "q": {
+    "te": "పారాదీప్ ఓడరేవు ప్రధానంగా ఏ వస్తువు యొక్క భారీ ఎగుమతులను నిర్వహించడానికి అభివృద్ధి చేయబడింది?",
+    "en": "Paradwip Port was developed mainly to handle the large-scale export of which commodity?"
+   },
+   "options": {
+    "te": [
+     "జనపనార ఉత్పత్తులు",
+     "పెట్రోలియం",
+     "బొగ్గు",
+     "ఇనుము ఖనిజం (Iron-ore)"
+    ],
+    "en": [
+     "Jute products",
+     "Petroleum",
+     "Coal",
+     "Iron-ore"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పారాదీప్ ఓడరేవు అభివృద్ధి యొక్క ప్రధాన ఉద్దేశ్యం ఇనుము ఖనిజం యొక్క భారీ ఎగుమతులను నిర్వహించడం.",
+    "en": "The primary purpose for the development of Paradwip Port was to handle the large-scale export of iron-ore."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T27-0240",
+   "section": {
+    "te": "Border Roads",
+    "en": "Border Roads"
+   },
+   "q": {
+    "te": "చండీగఢ్‌ను మనాలి మరియు లేహ్‌లతో కలుపుతూ BRO నిర్మించిన రహదారి సముద్ర మట్టానికి సగటున ఎంత ఎత్తులో ఉంది?",
+    "en": "The road constructed by BRO joining Chandigarh with Manali and Leh runs at what average altitude above the mean sea level?"
+   },
+   "options": {
+    "te": [
+     "4,270 మీటర్లు",
+     "3,000 మీటర్లు",
+     "5,150 మీటర్లు",
+     "4,076 మీటర్లు"
+    ],
+    "en": [
+     "4,270 metres",
+     "3,000 metres",
+     "5,150 metres",
+     "4,076 metres"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "BRO నిర్మించిన చండీగఢ్, మనాలి మరియు లేహ్‌లను కలిపే రహదారి సముద్ర మట్టానికి సగటున 4,270 మీటర్ల ఎత్తులో ఉంది.",
+    "en": "The road joining Chandigarh with Manali and Leh, constructed by the BRO, runs at an average altitude of 4,270 metres above mean sea level."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T27-0248",
+   "section": {
+    "te": "Konkan Railway Route",
+    "en": "Konkan Railway Route"
+   },
+   "q": {
+    "te": "760 కి.మీ పొడవైన కొంకణ్ రైల్వే మార్గం ఈ క్రింది ఏ రెండు ప్రాంతాలను కలుపుతుంది?",
+    "en": "The 760-km long Konkan Railway route connects which of the following two locations?"
+   },
+   "options": {
+    "te": [
+     "థానే మరియు మంగళూరు",
+     "మహారాష్ట్రలోని రోహా మరియు కర్ణాటకలోని మంగళూరు",
+     "రోహా మరియు గోవా",
+     "ముంబై మరియు మంగళూరు"
+    ],
+    "en": [
+     "Thane and Mangalore",
+     "Roha in Maharashtra and Mangalore in Karnataka",
+     "Roha and Goa",
+     "Mumbai and Mangaluru"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "1998లో నిర్మించబడిన కొంకణ్ రైల్వే, మహారాష్ట్రలోని రోహా నుండి కర్ణాటకలోని మంగళూరును కలిపే 760 కి.మీ పొడవైన మార్గం.",
+    "en": "The Konkan Railway, constructed in 1998, is a 760-km long route that specifically connects Roha in Maharashtra to Mangalore in Karnataka."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T27-0147",
+   "section": {
+    "te": "Mediterranean-Indian Ocean Ports",
+    "en": "Mediterranean-Indian Ocean Ports"
+   },
+   "q": {
+    "te": "మధ్యధరా-హిందూ మహాసముద్ర సముద్ర మార్గంలో ఉన్న ముఖ్యమైన ఓడరేవులలో క్రింది వాటిలో ఏది పేర్కొనబడలేదు?",
+    "en": "Which of the following ports is NOT listed as an important port along the Mediterranean–Indian Ocean Sea Route?"
+   },
+   "options": {
+    "te": [
+     "హోనోలులు",
+     "కొలంబో",
+     "పోర్ట్ సెయిడ్",
+     "ఏడెన్"
+    ],
+    "en": [
+     "Honolulu",
+     "Colombo",
+     "Port Said",
+     "Aden"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పోర్ట్ సెయిడ్, ఏడెన్, ముంబై, కొలంబో మరియు సింగపూర్ ఈ మార్గంలో ముఖ్యమైన ఓడరేవులు. హోనోలులు పసిఫిక్ మార్గాల్లోని ఓడరేవు.",
+    "en": "Port Said, Aden, Mumbai, Colombo, and Singapore are the ports listed on the Mediterranean–Indian Ocean route. Honolulu is a port on the Pacific routes."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T27-0288",
+   "section": {
+    "te": "NRSC Location",
+    "en": "NRSC Location"
+   },
+   "q": {
+    "te": "ఉపగ్రహ డేటా సేకరణ మరియు ప్రాసెసింగ్ కోసం సౌకర్యాలను అందించే నేషనల్ రిమోట్ సెన్సింగ్ సెంటర్ (NRSC) ఎక్కడ ఉంది?",
+    "en": "Where is the National Remote Sensing Centre (NRSC), which provides facilities for satellite data acquisition and processing, located?"
+   },
+   "options": {
+    "te": [
+     "హైదరాబాద్",
+     "అహ్మదాబాద్",
+     "చెన్నై",
+     "బెంగళూరు"
+    ],
+    "en": [
+     "Hyderabad",
+     "Ahmedabad",
+     "Chennai",
+     "Bengaluru"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నేషనల్ రిమోట్ సెన్సింగ్ సెంటర్ (NRSC) హైదరాబాద్‌లో ఉంది.",
+    "en": "The National Remote Sensing Centre (NRSC) is located in Hyderabad."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T27-0107",
+   "section": {
+    "te": "Unmetalled Roads",
+    "en": "Unmetalled Roads"
+   },
+   "q": {
+    "te": "అన్‌మెటల్ రోడ్లు (unmetalled roads) ఏడాది పొడవునా సేవలకు ఎందుకు అసమర్థమైనవిగా పరిగణించబడతాయి?",
+    "en": "Why are unmetalled roads considered ineffective for year-round service?"
+   },
+   "options": {
+    "te": [
+     "వాటి నిర్వహణ చాలా ఖరీదైనది",
+     "వర్షాకాలంలో అవి మోటారు ప్రయాణానికి వీలు లేకుండా పోతాయి",
+     "అవి మోటారు కార్ల బరువును మోయలేవు",
+     "అవి కేవలం అభివృద్ధి చెందిన దేశాలలో మాత్రమే కనిపిస్తాయి"
+    ],
+    "en": [
+     "They are too expensive to maintain",
+     "They become unmotorable during the rainy season",
+     "They cannot support the weight of motor cars",
+     "They are only found in developed countries"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వర్షాకాలంలో అన్‌మెటల్ రోడ్లు ప్రయాణానికి వీలు లేకుండా పోతాయని, అందుకే అవి అన్ని సీజన్లకు పనికిరావని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Unmetalled roads become unmotorable during the rainy season, making them ineffective for all seasons."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T27-0008",
+   "section": {
+    "te": "Suez Canal Connectivity",
+    "en": "Suez Canal Connectivity"
+   },
+   "q": {
+    "te": "సూయజ్ కాలువ కింది ఏ రెండు జలభాగాలను కలుపుతుంది?",
+    "en": "The Suez Canal connects which of the following two water bodies?"
+   },
+   "options": {
+    "te": [
+     "ఎర్ర సముద్రం మరియు మధ్యధరా సముద్రం",
+     "హిందూ మహాసముద్రం మరియు కాస్పియన్ సముద్రం",
+     "ఎర్ర సముద్రం మరియు అరేబియా సముద్రం",
+     "మధ్యధరా సముద్రం మరియు నల్ల సముద్రం"
+    ],
+    "en": [
+     "Red Sea and Mediterranean Sea",
+     "Indian Ocean and Caspian Sea",
+     "Red Sea and Arabian Sea",
+     "Mediterranean Sea and Black Sea"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సూయజ్ కాలువ అనేది ఎర్ర సముద్రాన్ని మధ్యధరా సముద్రంతో కలిపే మానవ నిర్మిత మార్గం.",
+    "en": "The Suez Canal is a human-made passage that connects the Red Sea with the Mediterranean Sea."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T27-0079",
+   "section": {
+    "te": "Rail transport suitability",
+    "en": "Rail transport suitability"
+   },
+   "q": {
+    "te": "ఒక దేశంలో సుదూర ప్రాంతాలకు భారీ పరిమాణంలో ఉండే స్థూల సరుకులను రవాణా చేయడానికి కింది వాటిలో అత్యంత అనువైన రవాణా సాధనం ఏది?",
+    "en": "Which of the following modes of transport is most suited for moving large volumes of bulky materials over long distances within a country?"
+   },
+   "options": {
+    "te": [
+     "రోడ్డు రవాణా",
+     "అంతర్గత జలమార్గాలు",
+     "రైల్వేలు",
+     "పైప్‌లైన్లు"
+    ],
+    "en": [
+     "Road transport",
+     "Inland waterways",
+     "Railways",
+     "Pipelines"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఒక దేశం పరిధిలో సుదూర ప్రాంతాలకు భారీ పరిమాణంలోని ముడి పదార్థాలు, వస్తువులను చేరవేయడానికి రైల్వేలు అత్యంత అనువైనవి.",
+    "en": "Railways are best suited for carrying large volumes of bulky materials over long distances within a country."
+   }
+  }
+ ]
+}

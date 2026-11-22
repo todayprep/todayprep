@@ -1,0 +1,942 @@
+{
+ "id": "geo-04-g1-1",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Landforms – క్విజ్ 1",
+  "en": "Landforms – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T04-0102",
+   "section": {
+    "te": "Cave Formations",
+    "en": "Cave Formations"
+   },
+   "q": {
+    "te": "భూగర్భ జలాల వల్ల గుహలలో ఏర్పడే నిర్మాణాలకు సంబంధించి, 'స్టాలక్టైట్లు' (stalactites) దేనిని సూచిస్తాయి?",
+    "en": "With reference to cave formations formed by underground water, which of the following correctly describes 'stalactites'?"
+   },
+   "options": {
+    "te": [
+     "గుహల పైకప్పు నుండి క్రిందికి వేలాడే మంచుగడ్డల వంటి నిర్మాణాలు",
+     "నేల కూలిపోవడం వల్ల ఏర్పడే లోతైన గుంటలు",
+     "గుహల నేల నుండి పైకి పెరిగే నిర్మాణాలు",
+     "నదులు ప్రవహించే భూగర్భ మార్గాలు"
+    ],
+    "en": [
+     "Icicle-shaped formations hanging from the ceiling of caves",
+     "Depressions formed when the ground collapses into a cavity",
+     "Formations rising from the floor of caves",
+     "Underground channels through which rivers flow"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "స్టాలక్టైట్లు అనేవి గుహల పైకప్పు భాగం నుండి క్రిందికి వేలాడే సూది లేదా మంచుగడ్డ ఆకారపు ఖనిజ నిర్మాణాలు.",
+    "en": "Stalactites are icicle-shaped mineral formations that hang downwards from the ceiling of caves."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T04-0189",
+   "section": {
+    "te": "Meander bank dynamics",
+    "en": "Meander bank dynamics"
+   },
+   "q": {
+    "te": "పెద్ద నదులలోని మియాండర్ల (వంకరల) ప్రక్రియకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. కుంభాకార (కాన్వెక్స్) గట్టు వెంట చురుకైన నిక్షేపణ జరుగుతుంది.\n2. పుటాకార (కాన్‌కేవ్) గట్టు వెంట కోత (అండర్‌కటింగ్) జరుగుతుంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the dynamics of meanders in large rivers:\n1. Active deposition takes place along the convex bank.\n2. Undercutting and erosion take place along the concave bank.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నదీ మియాండర్లలో కుంభాకార ఒడ్డున నిక్షేపణ జరుగుతుంది మరియు పుటాకార ఒడ్డున తీవ్రమైన కోత జరుగుతుంది.",
+    "en": "In meanders of large rivers, there is active deposition along the convex bank while undercutting (erosion) occurs along the concave bank."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T04-0253",
+   "section": {
+    "te": "Coastal Defence",
+    "en": "Coastal Defence"
+   },
+   "q": {
+    "te": "తుఫానులు లేదా సునామీల విధ్వంసక శక్తిని అధికంగా గ్రహించి, వాటికి వ్యతిరేకంగా మొట్టమొదటి రక్షణ కవచంగా (first buffer) నిలిచే తీరప్రాంత భూస్వరూపం ఏది?",
+    "en": "Which coastal feature offers the first buffer or defence against a storm or tsunami by absorbing most of its destructive force?"
+   },
+   "options": {
+    "te": [
+     "ఆఫ్-షోర్ బార్‌లు (తీర బాహ్య గట్లు)",
+     "సముద్ర గుహలు",
+     "తీరపు ఇసుక దిబ్బలు",
+     "మడ అడవులు (మాంగ్రోవ్‌లు)"
+    ],
+    "en": [
+     "Off-shore bars",
+     "Sea caves",
+     "Beach sand dunes",
+     "Mangroves"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "తుఫాను లేదా సునామీ అలల తీవ్రతను మొదటగా అడ్డుకుని శోషించుకునే మొదటి రక్షణ కవచం తీర బాహ్య గట్లు (ఆఫ్-షోర్ బార్‌లు).",
+    "en": "Coastal off-shore bars offer the first buffer or defence against storm or tsunami by absorbing most of their destructive force, followed by barriers, beaches, dunes, and mangroves."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T04-0133",
+   "section": {
+    "te": "Surface Unevenness",
+    "en": "Surface Unevenness"
+   },
+   "q": {
+    "te": "ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. అంతర్జనిత శక్తులు ప్రధానంగా భూమిని నిర్మించే శక్తులు.\n2. అంతర్జనిత శక్తులు నిరంతరం ఉపరితల భాగాలను పైకి లేపుతుండటం వల్ల బహిర్జనిత ప్రక్రియలు ఉపరితల వ్యత్యాసాలను సమానం చేయలేవు.\nపైన పేర్కొన్న వాటిలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements:\n1. Endogenic forces are mainly land building forces.\n2. Exogenic processes fail to even out the relief variations because endogenic forces continuously elevate parts of the surface.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అంతర్జనిత శక్తులు భూమిని నిర్మిస్తాయి, బహిర్జనిత శక్తులు దానిని తగ్గించడానికి ప్రయత్నిస్తాయి, కానీ నిరంతర అంతర్జనిత చర్య వల్ల ఉపరితలం అసమానంగానే ఉంటుంది.",
+    "en": "Both statements are correct as endogenic forces build land while exogenic forces try to wear it down, but the surface remains uneven due to continuous endogenic action."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T04-0197",
+   "section": {
+    "te": "Swallow holes",
+    "en": "Swallow holes"
+   },
+   "q": {
+    "te": "సున్నపురాయి ఉపరితలంపై రసాయన ద్రావణ ప్రక్రియ ద్వారా ఏర్పడే చిన్న నుండి మధ్యస్థ పరిమాణంగల గుండ్రని నిస్సారమైన గుంటలను ఏమంటారు?",
+    "en": "Small to medium-sized, round to sub-rounded shallow depressions formed on the surface of limestones through solution are known as:"
+   },
+   "options": {
+    "te": [
+     "ప్లంజ్ పూల్స్",
+     "లాపీస్",
+     "స్వాలో హోల్స్ (Swallow holes)",
+     "పాట్‌హోల్స్"
+    ],
+    "en": [
+     "Plunge pools",
+     "Lapies",
+     "Swallow holes",
+     "Potholes"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సున్నపురాతి నేలపై రసాయన చర్య ద్వారా ఏర్పడే చిన్న లేదా మధ్యస్థ గుండ్రని గుంటలను స్వాలో హోల్స్ అంటారు.",
+    "en": "Swallow holes are small to medium-sized round to sub-rounded shallow depressions formed on the limestone surface through chemical solution."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T04-0116",
+   "section": {
+    "te": "Endogenic Forces",
+    "en": "Endogenic Forces"
+   },
+   "q": {
+    "te": "భూమి ఉపరితల భాగాలను నిర్మించడానికి ప్రధానంగా ఏ శక్తులు బాధ్యత వహిస్తాయి?",
+    "en": "Which forces are primarily responsible for building up parts of the earth's surface?"
+   },
+   "options": {
+    "te": [
+     "గురుత్వాకర్షణ శక్తులు",
+     "బహిర్జనిత శక్తులు (Exogenic forces)",
+     "అంతర్జనిత శక్తులు (Endogenic forces)",
+     "వాతావరణ శక్తులు"
+    ],
+    "en": [
+     "Gravitational forces",
+     "Exogenic forces",
+     "Endogenic forces",
+     "Atmospheric forces"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, అంతర్జనిత శక్తులు ప్రధానంగా భూమి ఉపరితల భాగాలను నిర్మించే శక్తులు.",
+    "en": "Endogenic forces are mainly land building forces that elevate parts of the earth's surface."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T04-0041",
+   "section": {
+    "te": "Plate tectonics",
+    "en": "Plate tectonics"
+   },
+   "q": {
+    "te": "ప్లేట్ టెక్టోనిక్స్ (ఫలక చలనాలు) గురించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఇది భూమి యొక్క క్రస్ట్ (పైపొర) యొక్క పెద్ద ముక్కల కదలికను వివరిస్తుంది.\n2. ఈ ఫలకలు ద్రవ రూపంలో ఉండే మాంటిల్ (mantle) పై నెమ్మదిగా కదులుతాయి.\n3. ఈ కదలిక పర్వతాలు మరియు అగ్నిపర్వతాల వంటి భూస్వరూపాలకు దారితీస్తుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements about plate tectonics:\n1. It describes the movement of large pieces of the Earth's crust.\n2. These plates move slowly over the molten mantle.\n3. This movement gives rise to landforms like mountains and volcanoes.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ప్లేట్ టెక్టోనిక్స్ సిద్ధాంతం ప్రకారం భూమి యొక్క క్రస్ట్ ద్రవ మాంటిల్ పై కదిలే ఫలకలతో తయారవుతుంది, ఇది పర్వతాలు మరియు అగ్నిపర్వతాల వంటి భూస్వరూపాలను సృష్టిస్తుంది.",
+    "en": "The theory of plate tectonics explains that the Earth's crust is made of plates moving over the molten mantle, creating landforms like mountains and volcanoes."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T04-0152",
+   "section": {
+    "te": "Landforms and landscapes",
+    "en": "Landforms and landscapes"
+   },
+   "q": {
+    "te": "కింది ప్రకటనలను పరిశీలించండి:\n1. భూ ఉపరితలంలోని చిన్న నుండి మధ్యస్థ భాగాలను భూస్వరూపాలు (landforms) అంటారు.\n2. పరస్పర సంబంధం ఉన్న అనేక భూస్వరూపాలు కలిసి ప్రకృతి దృశ్యాలుగా (landscapes) ఏర్పడతాయి.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements:\n1. Small to medium tracts or parcels of the earth's surface are called landforms.\n2. Several related landforms together make up landscapes.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రెండు ప్రకటనలు సరైనవే. భూమిపై చిన్న నుండి మధ్యస్థ భాగాలను భూస్వరూపాలని, అనేక సంబంధిత భూస్వరూపాల సమూహాన్ని ప్రకృతి దృశ్యాలు (landscapes) అని అంటారు.",
+    "en": "Both statements are correct. Landforms are small to medium parcels of the earth's surface, and several related landforms together make up landscapes."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T04-0175",
+   "section": {
+    "te": "River terraces definition",
+    "en": "River terraces definition"
+   },
+   "q": {
+    "te": "ప్రాచీన లోయ అడుగుభాగం లేదా పాత వరద మైదాన స్థాయిలను సూచించే ఉపరితలాలను ఏమంటారు?",
+    "en": "Surfaces that mark old valley floor or floodplain levels are known as:"
+   },
+   "options": {
+    "te": [
+     "సహజ కట్టలు",
+     "మొనాడ్నాక్స్",
+     "నదీ టెర్రస్‌లు / నదీ వేదికలు (River terraces)",
+     "ఒండలి విసనకర్రలు"
+    ],
+    "en": [
+     "Natural levees",
+     "Monadnocks",
+     "River terraces",
+     "Alluvial fans"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నదీ టెర్రస్‌లు అనేవి నది యొక్క పాత లోయ అడుగుతలం లేదా మునుపటి వరద మైదాన స్థాయిలను సూచించే ఉపరితలాలు.",
+    "en": "River terraces represent former valley floors or floodplain levels left behind as the stream cuts vertically downward."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T04-0155",
+   "section": {
+    "te": "Erosional landforms of running water",
+    "en": "Erosional landforms of running water"
+   },
+   "q": {
+    "te": "ప్రవహించే నీటి ద్వారా ఏర్పడే క్రమక్షయ భూస్వరూపాలలో ఎక్కువ భాగం వేటితో ముడిపడి ఉంటాయి?",
+    "en": "Most of the erosional landforms created by running water are associated with:"
+   },
+   "options": {
+    "te": [
+     "సమతల తీర మైదానాలలో నెమ్మదిగా ప్రవహించే నదులతో",
+     "భూగర్భ గుహలను ఏర్పరచే భూగర్భ జల ప్రవాహాలతో",
+     "తీవ్రమైన వాలుపై వేగంగా ప్రవహించే ప్రచండమైన యువ దశ నదులతో",
+     "విశాల వరద మైదానాలలో వంపులు తిరిగే వృద్ధ దశ నదులతో"
+    ],
+    "en": [
+     "Slow rivers flowing across flat coastal plains",
+     "Subterranean flows carving underground caverns",
+     "Vigorous and youthful rivers flowing over steep gradients",
+     "Old rivers meandering through broad floodplains"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "తీవ్రమైన వాలుపై వేగంగా ప్రవహించే యువ దశలోని నదుల వల్ల ప్రవహించే నీటి క్రమక్షయ భూస్వరూపాలు ఎక్కువగా ఏర్పడతాయి.",
+    "en": "Running water creates most of its erosional landforms in association with vigorous, youthful rivers flowing over steep gradients."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T04-0168",
+   "section": {
+    "te": "Gorge vs Canyon",
+    "en": "Gorge vs Canyon"
+   },
+   "q": {
+    "te": "గార్జ్ (Gorge) మరియు కాన్యన్ (Canyon)లను పోల్చుతూ క్రింది ప్రకటనలను పరిశీలించండి:\n1. గార్జ్ ఎగువ భాగం మరియు దిగువ భాగం వెడల్పు దాదాపు సమానంగా ఉంటుంది.\n2. కాన్యన్ దిగువ భాగం కంటే దాని ఎగువ భాగంలో ఎక్కువ వెడల్పుగా ఉంటుంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements comparing a gorge and a canyon:\n1. A gorge is almost equal in width at its top as well as its bottom.\n2. A canyon is wider at its top than at its bottom.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "గార్జ్ దాని పైభాగంలో మరియు అడుగుభాగంలో దాదాపు సమాన వెడల్పును కలిగి ఉంటుంది, అయితే కాన్యన్ అడుగుభాగం కంటే పైభాగంలో ఎక్కువ వెడల్పుగా ఉంటుంది.",
+    "en": "A gorge is almost equal in width at its top and bottom, whereas a canyon is wider at its top than at its bottom."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T04-0053",
+   "section": {
+    "te": "Plate Tectonics Theory",
+    "en": "Plate Tectonics Theory"
+   },
+   "q": {
+    "te": "భూ విజ్ఞాన శాస్త్రంలో (earth science) ముఖ్యమైన ఫలక విరూపణ సిద్ధాంతాన్ని (plate tectonics) అందించిన వారు ఎవరు?",
+    "en": "Who is credited with providing the important theory of plate tectonics in earth science?"
+   },
+   "options": {
+    "te": [
+     "ఆల్ఫ్రెడ్ వెజెనర్",
+     "డబ్ల్యూ.జె. మోర్గాన్",
+     "చార్లెస్ డార్విన్",
+     "ఐజాక్ న్యూటన్"
+    ],
+    "en": [
+     "Alfred Wegener",
+     "W.J. Morgan",
+     "Charles Darwin",
+     "Isaac Newton"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, భూమి యొక్క పైపెంకు కదలికను వివరించే ఫలక విరూపణ సిద్ధాంతాన్ని డబ్ల్యూ.జె. మోర్గాన్ అందించారు.",
+    "en": "The theory of plate tectonics, which explains the movement of the Earth's crust, was given by W.J. Morgan."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T04-0212",
+   "section": {
+    "te": "Cirque definition",
+    "en": "Cirque definition"
+   },
+   "q": {
+    "te": "తలభాగం మరియు వైపులా నిట్రమైన పుటాకార గోడలతో కూడిన లోతైన, పొడవైన మరియు వెడల్పైన బేసిన్ వంటి హిమానీనద క్రమక్షయ భూస్వరూపం ఏది?",
+    "en": "Which glacial erosional landform is characterized as a deep, long and wide trough or basin with very steep concave to vertically dropping high walls at its head and sides?"
+   },
+   "options": {
+    "te": [
+     "గార్జ్ (Gorge)",
+     "ఉవాలా (Uvala)",
+     "సర్క్ (Cirque)",
+     "డోలైన్ (Doline)"
+    ],
+    "en": [
+     "Gorge",
+     "Uvala",
+     "Cirque",
+     "Doline"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పర్వత శిఖరాల వద్ద నిట్రమైన గోడలతో లోతైన బేసిన్ ఆకారంలో ఉండే హిమానీనద క్రమక్షయ స్వరూపాన్ని 'సర్క్' అంటారు.",
+    "en": "Cirques are deep, long, and wide troughs or basins with steep concave to vertically dropping high walls at their heads and sides."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T04-0229",
+   "section": {
+    "te": "Outwash plains formation",
+    "en": "Outwash plains formation"
+   },
+   "q": {
+    "te": "హిమానీనద పర్వతాల పాదాల వద్ద లేదా ఖండపు మంచు పలకల వెలుపల ఏర్పడిన విస్తారమైన ఒండలి ఫ్యాన్లు కలిసి దేనిని ఏర్పరుస్తాయి?",
+    "en": "Broad flat alluvial fans of glacio-fluvial deposits formed at the foot of glacial mountains or beyond continental ice sheets may join to form:"
+   },
+   "options": {
+    "te": [
+     "పెడిప్లెయిన్లు",
+     "వరద మైదానాలు",
+     "అవుట్‌వాష్ మైదానాలు (Outwash plains)",
+     "కార్స్ట్ మైదానాలు"
+    ],
+    "en": [
+     "Pediplains",
+     "Flood plains",
+     "Outwash plains",
+     "Karst plains"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "హిమానీనద జల ప్రవాహాల ద్వారా ఏర్పడిన ఒండలి ఫ్యాన్లు కలిసి కంకర, ఇసుక, ఒండ్రులతో కూడిన అవుట్‌వాష్ మైదానాలుగా ఏర్పడతాయి.",
+    "en": "Glacio-fluvial deposits laid down as broad flat alluvial fans can join together to form outwash plains composed of gravel, silt, sand, and clay."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T04-0047",
+   "section": {
+    "te": "Plains description",
+    "en": "Plains description"
+   },
+   "q": {
+    "te": "పెద్ద కొండలు లేదా లోతైన లోయలు లేకుండా, విస్తృతమైన చదునైన లేదా కొద్దిగా అలల వంటి ఉపరితలం కలిగిన భూస్వరూపం ఏది?",
+    "en": "Which landform is described as having an extensive flat or gently undulating surface without large hills or deep valleys?"
+   },
+   "options": {
+    "te": [
+     "మైదానం",
+     "పీఠభూమి",
+     "ఎడారి",
+     "పర్వతం"
+    ],
+    "en": [
+     "Plain",
+     "Plateau",
+     "Desert",
+     "Mountain"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మైదానాలు అనేవి పెద్ద కొండలు లేదా లోతైన లోయలు లేని విస్తృతమైన చదునైన లేదా కొద్దిగా అలల వంటి భూస్వరూపాలు.",
+    "en": "Plains are extensive flat or gently undulating landforms that lack large hills or deep valleys."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T04-0205",
+   "section": {
+    "te": "Lapies formation",
+    "en": "Lapies formation"
+   },
+   "q": {
+    "te": "కార్స్ట్ ప్రాంతాలలో, గట్లు లేదా లాపీస్ (lapies) ప్రధానంగా దేని వలన ఏర్పడతాయి?",
+    "en": "In karst regions, ridges or lapies are formed primarily due to which of the following?"
+   },
+   "options": {
+    "te": [
+     "సమాంతర మరియు ఉప-సమాంతర కీళ్ల వెంబడి జరిగే అవకలన ద్రావణ చర్య వలన",
+     "శైథిల్యం చెందని రాళ్లపై హిమానీనద ప్లక్కింగ్ వలన",
+     "పుటాకార ఒడ్డు వెంట నదీ కోత వలన",
+     "గుహలలో కారే నీటి నుండి కాల్షియం కార్బోనేట్ నిక్షేపణ వలన"
+    ],
+    "en": [
+     "Differential solution activity along parallel to sub-parallel joints",
+     "Glacial plucking of un-weathered rocks",
+     "Stream undercutting along concave banks",
+     "Deposition of calcium carbonate from dripping cave water"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సమాంతర మరియు ఉప-సమాంతర కీళ్ల (joints) వెంబడి జరిగే అవకలన ద్రావణ చర్య (differential solution activity) కారణంగా లాపీలు ఏర్పడతాయి.",
+    "en": "Ridges or lapies form due to differential solution activity along parallel to sub-parallel joints in limestone."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T04-0187",
+   "section": {
+    "te": "Point bars synonym",
+    "en": "Point bars synonym"
+   },
+   "q": {
+    "te": "పెద్ద నదుల వరద మైదానాలతో సంబంధం ఉన్న పాయింట్ బార్‌లకు గల మరొక పేరు ఏమిటి?",
+    "en": "Point bars associated with the floodplains of large rivers are also known by which other name?"
+   },
+   "options": {
+    "te": [
+     "నదీ వేదికలు",
+     "సహజ కరకట్టలు",
+     "మియాండర్ బార్లు",
+     "శాండ్ స్పిట్లు"
+    ],
+    "en": [
+     "River terraces",
+     "Natural levees",
+     "Meander bars",
+     "Sand spits"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వరద మైదానాలలో కనిపించే పాయింట్ బార్‌లను మియాండర్ బార్లు అని కూడా పిలుస్తారు.",
+    "en": "Point bars formed along the banks of meanders are also commonly referred to as meander bars."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T04-0208",
+   "section": {
+    "te": "Cave formation path",
+    "en": "Cave formation path"
+   },
+   "q": {
+    "te": "దట్టమైన సున్నపురాయి పొరలలో గుహలు ఏర్పడటానికి నీరు క్షితిజ సమాంతరంగా వేటి వెంబడి ప్రవహిస్తూ రాయిని కరిగిస్తుంది?",
+    "en": "In thick limestone formations, water dissolves rock to form caves by moving horizontally along:"
+   },
+   "options": {
+    "te": [
+     "రంపం వంటి గట్లు",
+     "అవుట్‌వాష్ మైదానాలు",
+     "మొరైన్ రేఖలు",
+     "సంస్తర తలాలు (Bedding planes)"
+    ],
+    "en": [
+     "Serrated ridges",
+     "Outwash plains",
+     "Moraine lines",
+     "Bedding planes"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నీరు బీటలు మరియు కీళ్ల ద్వారా క్రిందికి చేరి, సంస్తర తలాల (bedding planes) వెంబడి సమాంతరంగా కదులుతూ గుహలను ఏర్పరుస్తుంది.",
+    "en": "Water percolates down through cracks and joints and moves horizontally along bedding planes, dissolving the limestone to form caves."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T04-0012",
+   "section": {
+    "te": "Bachendri Pal",
+    "en": "Bachendri Pal"
+   },
+   "q": {
+    "te": "బచేంద్రి పాల్ గురించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. మౌంట్ ఎవరెస్ట్ అధిరోహించిన మొదటి భారతీయ మహిళ ఆమె.\n2. ఆమె 1984లో మౌంట్ ఎవరెస్ట్ అధిరోహించారు.\n3. ఆమెకు 1984లో పద్మశ్రీ మరియు 2019లో పద్మభూషణ్ లభించాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements about Bachendri Pal:\n1. She was the first Indian woman to climb Mount Everest.\n2. She climbed Mount Everest in 1984.\n3. She was awarded Padma Shri in 1984 and Padma Bhushan in 2019.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "బచేంద్రి పాల్ 1984లో ఎవరెస్ట్‌ను అధిరోహించిన మొదటి భారతీయ మహిళ. ఆమెకు 1984లో పద్మశ్రీ, 2019లో పద్మభూషణ్ లభించాయి.",
+    "en": "Bachendri Pal climbed Everest in 1984, becoming the first Indian woman to do so, and received Padma Shri in 1984 and Padma Bhushan in 2019."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T04-0193",
+   "section": {
+    "te": "Causes of meandering",
+    "en": "Causes of meandering"
+   },
+   "q": {
+    "te": "నదులలో మియాండర్ ప్రవాహ నమూనాలు ఏర్పడటానికి క్రింది వాటిలో ఏవి కారణాలు?\n1. చాలా తక్కువ వాలుపై ప్రవహించే నీరు పార్శ్వంగా గట్లపై పనిచేసే స్వభావం\n2. గట్లను ఏర్పరిచే ఒండలి నిక్షేపాలు వదులుగా (అస్థిరంగా) ఉండటం\n3. ప్రవహించే నీటిని పక్కకు మళ్లించే కొరియాలిస్ బలం",
+    "en": "Meander channel patterns develop because of which of the following factors?\n1. Propensity of water flowing over very gentle gradients to work laterally\n2. Unconsolidated nature of alluvial deposits making up the banks\n3. Coriolis force deflecting fluid water"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "చాలా తక్కువ వాలుపై నీటి పార్శ్వ ప్రవాహం, ఒండలి నిక్షేపాల అస్థిర స్వభావం మరియు కొరియాలిస్ బలం అనే మూడూ మియాండర్లు ఏర్పడటానికి కారణాలు.",
+    "en": "Meanders develop due to gentle gradients causing lateral work, unconsolidated alluvium with irregularities, and the Coriolis force deflecting the flowing water."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T04-0085",
+   "section": {
+    "te": "Fjords Formation",
+    "en": "Fjords Formation"
+   },
+   "q": {
+    "te": "హిమానీనద లోయలలోకి సముద్రపు నీరు చేరడం వల్ల ఏర్పడే లోతైన, ఇరుకైన జల మార్గాలను ఏమంటారు?",
+    "en": "Deep, narrow inlets created when the sea floods glacial valleys are known as:"
+   },
+   "options": {
+    "te": [
+     "ఫ్యోర్డ్‌లు (Fjords)",
+     "యార్డాంగ్‌లు",
+     "స్టాక్‌లు",
+     "ఆర్చ్‌లు"
+    ],
+    "en": [
+     "Fjords",
+     "Yardangs",
+     "Stacks",
+     "Arches"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సముద్రపు నీరు హిమానీనద లోయలను ముంచెత్తినప్పుడు ఏర్పడే లోతైన, ఇరుకైన మార్గాలను ఫ్యోర్డ్‌లు అంటారు.",
+    "en": "Fjords are deep, narrow inlets created when the sea floods glacial valleys."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T04-0044",
+   "section": {
+    "te": "Human impact on environment",
+    "en": "Human impact on environment"
+   },
+   "q": {
+    "te": "ప్రతిపాదన (A): అటవీ నిర్మూలన మరియు కాలుష్యం వంటి మానవ చర్యలు భూస్వరూపాల సహజ సమతుల్యతను దెబ్బతీస్తాయి.\nకారణం (R): ఈ చర్యలు ఎడారీకరణ మరియు జీవవైవిధ్య నష్టం వంటి సమస్యలకు దారితీస్తాయి.",
+    "en": "Assertion (A): Human actions like deforestation and pollution disturb the natural balance of landforms.\nReason (R): These actions can lead to issues such as desertification and biodiversity loss."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అటవీ నిర్మూలన మరియు కాలుష్యం వంటి మానవ కార్యకలాపాలు పర్యావరణ సమతుల్యతను దెబ్బతీస్తాయి, ఇది నేరుగా ఎడారీకరణ మరియు జీవవైవిధ్య నష్టం వంటి పరిణామాలకు దారితీస్తుంది.",
+    "en": "Human activities like deforestation and pollution disturb the environmental balance, which directly results in consequences like desertification and loss of biodiversity."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T04-0167",
+   "section": {
+    "te": "Monadnocks",
+    "en": "Monadnocks"
+   },
+   "q": {
+    "te": "నదీ ప్రవాహ క్రమక్షయం వల్ల ఏర్పడిన పెనెప్లెయిన్‌లో, అక్కడక్కడా నిలబడి ఉండే క్రమక్షయ నిరోధక అవశిష్ట భాగాలను ఏమని పిలుస్తారు?",
+    "en": "In a peneplain formed by stream erosion, the isolated, low resistant remnants standing out here and there are called:"
+   },
+   "options": {
+    "te": [
+     "మొరైన్లు",
+     "మొనాడ్నాక్స్ (Monadnocks)",
+     "ఎస్కర్లు",
+     "డ్రమ్‌లిన్లు"
+    ],
+    "en": [
+     "Moraines",
+     "Monadnocks",
+     "Eskers",
+     "Drumlins"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పెనెప్లెయిన్ మైదానంలో క్రమక్షయాన్ని తట్టుకుని అక్కడక్కడా అవశేషాలుగా మిగిలి ఉన్న ఎత్తైన భాగాలను మొనాడ్నాక్స్ అంటారు.",
+    "en": "During peneplain development, resistant rock remnants that remain standing out on the flattened lowland are known as monadnocks."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T04-0054",
+   "section": {
+    "te": "Earth Layers",
+    "en": "Earth Layers"
+   },
+   "q": {
+    "te": "శిలావరణం (lithosphere) భూమి యొక్క ఏ పొరలతో నిర్మితమై ఉంటుంది?",
+    "en": "The lithosphere is composed of which of the following layers of the Earth?"
+   },
+   "options": {
+    "te": [
+     "ప్రావారం మరియు భూకేంద్ర మండలం",
+     "భూపటలం మరియు భూకేంద్ర మండలం",
+     "భూపటలం మరియు మొత్తం ప్రావారం",
+     "భూపటలం మరియు ప్రావారం యొక్క పై భాగం"
+    ],
+    "en": [
+     "Mantle and the core",
+     "Crust and the core",
+     "Crust and the entire mantle",
+     "Crust and the upper part of the mantle"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూపటలం (crust) మరియు ప్రావారం (mantle) యొక్క పై భాగం కలిసి శిలావరణంగా ఏర్పడతాయి.",
+    "en": "The lithosphere is specifically formed by the combination of the Earth's crust and the upper portion of the mantle."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T04-0008",
+   "section": {
+    "te": "South Indian Peaks",
+    "en": "South Indian Peaks"
+   },
+   "q": {
+    "te": "దక్షిణ భారతదేశంలో అత్యంత ఎత్తైన పర్వతం ఏది?",
+    "en": "Which is the highest mountain in south India?"
+   },
+   "options": {
+    "te": [
+     "అనముడి",
+     "మౌంట్ అకాన్కాగువా",
+     "మౌంట్ బ్లాంక్",
+     "మౌంట్ కాంచనజంగా"
+    ],
+    "en": [
+     "Anamudi",
+     "Mount Aconcagua",
+     "Mont Blanc",
+     "Mount Kanchenjunga"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "కేరళలోని అనముడి (దీనిని 'ఆనై పీక్' అని కూడా పిలుస్తారు) దక్షిణ భారతదేశంలో అత్యంత ఎత్తైన పర్వతం.",
+    "en": "Anamudi, located in Kerala and also known as Anai Peak, is the highest mountain in south India."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T04-0170",
+   "section": {
+    "te": "Canyon slope features",
+    "en": "Canyon slope features"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఏ లోయ నిటారైన, మెట్ల వంటి పార్శ్వ వాలులను (step-like side slopes) ప్రత్యేక లక్షణంగా కలిగి ఉంటుంది?",
+    "en": "Which type of valley is specifically characterised by steep, step-like side slopes?"
+   },
+   "options": {
+    "te": [
+     "అంధ లోయ (Blind valley)",
+     "గార్జ్ (Gorge)",
+     "కాన్యన్ (Canyon)",
+     "V-ఆకారపు లోయ"
+    ],
+    "en": [
+     "Blind valley",
+     "Gorge",
+     "Canyon",
+     "V-shaped valley"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కాన్యన్ నిటారైన మెట్ల వంటి పార్శ్వ వాలులతో కూడి ఉంటుంది మరియు గార్జ్ అంత లోతుగా కూడా ఉండవచ్చు.",
+    "en": "A canyon is characterised by steep step-like side slopes and may be as deep as a gorge."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T04-0146",
+   "section": {
+    "te": "Major groups of weathering",
+    "en": "Major groups of weathering"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో శైథిల్య ప్రక్రియల మూడు ప్రధాన సమూహాలలో లేనిది ఏది?",
+    "en": "Which of the following is NOT one of the three major groups of weathering processes?"
+   },
+   "options": {
+    "te": [
+     "టెక్టానిక్ శైథిల్యం",
+     "రసాయన శైథిల్యం",
+     "భౌతిక లేదా యాంత్రిక శైథిల్యం",
+     "జీవ సంబంధ శైథిల్యం"
+    ],
+    "en": [
+     "Tectonic weathering",
+     "Chemical weathering",
+     "Physical or mechanical weathering",
+     "Biological weathering"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "శైథిల్యంలో రసాయన, భౌతిక (యాంత్రిక), మరియు జీవ సంబంధ శైథిల్యాలు మాత్రమే మూడు ప్రధాన విభాగాలు.",
+    "en": "The three major groups of weathering processes are chemical, physical (mechanical), and biological weathering. Tectonic weathering is not one of them."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T04-0177",
+   "section": {
+    "te": "Paired terraces",
+    "en": "Paired terraces"
+   },
+   "q": {
+    "te": "నదికి ఇరువైపులా ఒకే ఎత్తులో ఏర్పడే నదీ టెర్రస్‌లను ఏమని పిలుస్తారు?",
+    "en": "When river terraces occur at the same elevation on either side of a river, they are called:"
+   },
+   "options": {
+    "te": [
+     "జత టెర్రస్‌లు (Paired terraces)",
+     "జతకాని టెర్రస్‌లు",
+     "నిర్మాణాత్మక టెర్రస్‌లు",
+     "ఒండలి వేదికలు"
+    ],
+    "en": [
+     "Paired terraces",
+     "Unpaired terraces",
+     "Structural terraces",
+     "Alluvial benches"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నదికి ఇరువైపులా ఒకే ఎత్తులో సమానంగా ఉండే నదీ టెర్రస్‌లను 'పెయిర్డ్ టెర్రస్‌లు' (జత టెర్రస్‌లు) అంటారు.",
+    "en": "When river terraces occur at matching elevations on both sides of a river valley, they are referred to as paired terraces."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T04-0254",
+   "section": {
+    "te": "Pediments definition",
+    "en": "Pediments definition"
+   },
+   "q": {
+    "te": "ఎడారి ప్రాంతాలలో పర్వతాల పాదాల వద్ద కనిపించే స్వల్పంగా వంగి ఉన్న రాతి నేలలను ఏమంటారు?",
+    "en": "What are the gently inclined rocky floors found at the foot of mountains in desert regions called?"
+   },
+   "options": {
+    "te": [
+     "పెడిమెంట్స్",
+     "ఇన్సెల్ బర్గ్స్",
+     "ప్లాయాస్",
+     "పెడిప్లెయిన్స్"
+    ],
+    "en": [
+     "Pediments",
+     "Inselbergs",
+     "Playas",
+     "Pediplains"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, పర్వతాల పాదాల వద్ద స్వల్పంగా వంగి ఉన్న రాతి నేలలను పెడిమెంట్స్ అంటారు. వీటిపై పలుచని శిథిలాల పొర ఉండవచ్చు లేదా ఉండకపోవచ్చు.",
+    "en": "Pediments are gently inclined rocky floors located close to the foot of mountains, which may or may not have a thin layer of debris."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T04-0298",
+   "section": {
+    "te": "Local Climatic Variations",
+    "en": "Local Climatic Variations"
+   },
+   "q": {
+    "te": "ఒక ప్రాంతంలోని వాతావరణ అంశాల ప్రభావాలలో స్థానిక వైవిధ్యాలు ఈ క్రింది వాటిలో దేని వల్ల సంభవించవచ్చు?",
+    "en": "Local variations in the effects of climatic elements within a region can be caused by which of the following?"
+   },
+   "options": {
+    "te": [
+     "ఎత్తులో తేడాలు (Altitudinal differences)",
+     "దిశ వైవిధ్యాలు (Aspect variations)",
+     "వివిధ వాలులపై సౌరపుటంలో వైవిధ్యం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Altitudinal differences",
+     "Aspect variations",
+     "Variation in insolation on different slopes",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఎత్తులో తేడాలు, దిశ వైవిధ్యాలు మరియు ఉత్తర/దక్షిణ వర్సెస్ తూర్పు/పడమర వాలులపై సౌరపుటంలో తేడాలను స్థానిక వైవిధ్యాలకు కారణాలుగా పాఠ్యాంశం పేర్కొంది.",
+    "en": "Altitudinal differences, aspect variations, and differences in insolation on north/south vs east/west slopes as causes for local variations."
+   }
+  }
+ ]
+}

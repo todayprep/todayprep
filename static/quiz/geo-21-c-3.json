@@ -1,0 +1,942 @@
+{
+ "id": "geo-21-c-3",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Mineral and Energy Resources – క్విజ్ 3",
+  "en": "Mineral and Energy Resources – Quiz 3"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T21-0180",
+   "section": {
+    "te": "Geothermal Plant Location",
+    "en": "Geothermal Plant Location"
+   },
+   "q": {
+    "te": "భారతదేశంలో ఈ క్రింది ఏ ప్రదేశంలో భూతాప శక్తి (Geothermal energy) ప్లాంట్ ప్రారంభించబడింది?",
+    "en": "In which of the following locations has a geothermal energy plant been commissioned in India?"
+   },
+   "options": {
+    "te": [
+     "బక్రేశ్వర్, పశ్చిమ బెంగాల్",
+     "తాతాపాని, ఛత్తీస్‌గఢ్",
+     "మణికరణ్, హిమాచల్ ప్రదేశ్",
+     "పుగా వ్యాలీ, లడఖ్"
+    ],
+    "en": [
+     "Bakreshwar, West Bengal",
+     "Tatapani, Chhattisgarh",
+     "Manikaran, Himachal Pradesh",
+     "Puga Valley, Ladakh"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "హిమాచల్ ప్రదేశ్‌లోని మణికరణ్‌లో భూతాప శక్తి ప్లాంట్ ప్రారంభించబడిందని పాఠ్యభాగం ప్రత్యేకంగా పేర్కొంది.",
+    "en": "The text specifically mentions that a geothermal energy plant has been commissioned at Manikaran in Himachal Pradesh."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T21-0052",
+   "section": {
+    "te": "Limestone Uses",
+    "en": "Limestone Uses"
+   },
+   "q": {
+    "te": "ఈ క్రింది ఏ పారిశ్రామిక ప్రక్రియలకు సున్నపురాయి (Limestone) ఒక ముఖ్యమైన ముడి పదార్థం?",
+    "en": "Limestone is an essential raw material for which of the following industrial processes?"
+   },
+   "options": {
+    "te": [
+     "బ్లీచింగ్ పౌడర్ తయారీ",
+     "బ్లాస్ట్ ఫర్నేస్‌లో ఇనుప ఖనిజాన్ని కరిగించడం",
+     "విద్యుత్ కేబుల్స్ తయారీ",
+     "A మరియు B రెండూ"
+    ],
+    "en": [
+     "Manufacturing of bleaching powder",
+     "Smelting iron ore in blast furnaces",
+     "Manufacturing of electrical cables",
+     "Both A and B"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, సున్నపురాయి సిమెంట్ పరిశ్రమకు ప్రాథమిక ముడి పదార్థం మరియు బ్లాస్ట్ ఫర్నేస్‌లలో ఇనుప ఖనిజాన్ని కరిగించడానికి అవసరం.",
+    "en": "Limestone is the basic raw material for the cement industry and is essential for smelting iron ore in blast furnaces."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T21-0087",
+   "section": {
+    "te": "Bituminous Coal",
+    "en": "Bituminous Coal"
+   },
+   "q": {
+    "te": "బ్లాస్ట్ ఫర్నేస్‌లలో ఇనుమును కరిగించడానికి ఏ రకమైన బొగ్గుకు ప్రత్యేక విలువ ఉంది?",
+    "en": "Which specific type of coal is highly valued for smelting iron in blast furnaces?"
+   },
+   "options": {
+    "te": [
+     "పీట్",
+     "మెటలర్జికల్ బొగ్గు",
+     "లిగ్నైట్",
+     "ఆంత్రాసైట్"
+    ],
+    "en": [
+     "Peat",
+     "Metallurgical coal",
+     "Lignite",
+     "Anthracite"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మెటలర్జికల్ బొగ్గు, ఇది ఒక రకమైన అధిక నాణ్యత గల బిటుమినస్ బొగ్గు, ఇనుమును కరిగించడానికి ఉపయోగించబడుతుంది.",
+    "en": "Metallurgical coal, which is a high-grade bituminous coal, is used for smelting iron."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T21-0048",
+   "section": {
+    "te": "Iron Ore Export",
+    "en": "Iron Ore Export"
+   },
+   "q": {
+    "te": "బైలాడిలా శ్రేణి నుండి లభించే అధిక నాణ్యత గల హెమటైట్ ఇనుప ఖనిజం ఏ ఓడరేవు ద్వారా జపాన్ మరియు దక్షిణ కొరియాకు ఎగుమతి చేయబడుతుంది?",
+    "en": "Through which port is the high-grade hematite iron ore from the Bailadila range exported to Japan and South Korea?"
+   },
+   "options": {
+    "te": [
+     "కాండ్లా ఓడరేవు",
+     "విశాఖపట్నం ఓడరేవు",
+     "మర్మగావ్ ఓడరేవు",
+     "మంగళూరు ఓడరేవు"
+    ],
+    "en": [
+     "Kandla port",
+     "Vishakhapatnam port",
+     "Marmagao port",
+     "Mangaluru port"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఛత్తీస్‌గఢ్‌లోని బైలాడిలా శ్రేణి నుండి ఇనుప ఖనిజం విశాఖపట్నం ఓడరేవు ద్వారా జపాన్ మరియు దక్షిణ కొరియాకు ఎగుమతి చేయబడుతుంది.",
+    "en": "Iron ore from the Bailadila range in Chhattisgarh is exported to Japan and South Korea through the Vishakhapatnam port."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T21-0139",
+   "section": {
+    "te": "Manganese Association",
+    "en": "Manganese Association"
+   },
+   "q": {
+    "te": "భారతదేశంలోని మాంగనీస్ నిక్షేపాలు ప్రాథమికంగా ఏ భౌగోళిక వ్యవస్థతో సంబంధం కలిగి ఉన్నాయి?",
+    "en": "Manganese deposits in India are primarily associated with which geological system?"
+   },
+   "options": {
+    "te": [
+     "వింధ్య వ్యవస్థ",
+     "ధార్వార్ వ్యవస్థ",
+     "గోండ్వానా వ్యవస్థ",
+     "టెర్షియరీ వ్యవస్థ"
+    ],
+    "en": [
+     "Vindhyan system",
+     "Dharwar system",
+     "Gondwana system",
+     "Tertiary system"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అనేక నిర్మాణాలలో కనుగొనబడినప్పటికీ, మాంగనీస్ ప్రధానంగా ధార్వార్ వ్యవస్థతో సంబంధం కలిగి ఉంటుంది.",
+    "en": "Although found in many formations, manganese is mainly associated with the Dharwar system."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T21-0103",
+   "section": {
+    "te": "Biogas Terminology",
+    "en": "Biogas Terminology"
+   },
+   "q": {
+    "te": "గ్రామీణ భారతదేశంలో, పశువుల పేడను ఉపయోగించే బయోగ్యాస్ ప్లాంట్లను సాధారణంగా ఏమని పిలుస్తారు?",
+    "en": "In rural India, biogas plants that specifically use cattle dung are commonly known as:"
+   },
+   "options": {
+    "te": [
+     "LPG ప్లాంట్లు",
+     "థర్మల్ ప్లాంట్లు",
+     "సౌర విద్యుత్ ప్లాంట్లు",
+     "గోబర్ గ్యాస్ ప్లాంట్లు"
+    ],
+    "en": [
+     "LPG plants",
+     "Thermal plants",
+     "Solar plants",
+     "Gobar gas plants"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "గ్రామీణ ప్రాంతాల్లో పశువుల పేడను ఉపయోగించే బయోగ్యాస్ ప్లాంట్లను 'గోబర్ గ్యాస్ ప్లాంట్లు' అని పిలుస్తారని పాఠ్య భాగం పేర్కొంది.",
+    "en": "Biogas plants using cattle dung are known as 'Gobar gas plants' in rural areas."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T21-0082",
+   "section": {
+    "te": "Petroleum Geology",
+    "en": "Petroleum Geology"
+   },
+   "q": {
+    "te": "భారతదేశంలో పెట్రోలియం లభ్యతకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి ఎక్కువగా గోండ్వానా కాలపు శిలా నిర్మాణాలతో సంబంధం కలిగి ఉంటాయి.\n2. మడత పడిన ప్రాంతాలలో, చమురు అప్-ఫోల్డ్ (యాంటిక్లైన్స్) శిఖరంలో చిక్కుకుంటుంది.\n3. చమురును కలిగి ఉండే పొర సాధారణంగా గ్రానైట్ వంటి రంధ్రాలు లేని శిల.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding petroleum occurrences in India:\n1. They are mostly associated with rock formations of the Gondwana age.\n2. In regions of folding, oil is trapped in the crest of the upfold (anticlines).\n3. The oil-bearing layer is typically a non-porous rock like granite.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 only",
+     "2 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పెట్రోలియం టెర్షియరీ కాలపు శిలలతో (గోండ్వానా కాదు) మరియు రంధ్రాలు కలిగిన సున్నపురాయి లేదా ఇసుకరాతితో సంబంధం కలిగి ఉంటుంది. ఇది యాంటిక్లైన్స్‌లో చిక్కుకుంటుంది.",
+    "en": "Petroleum is associated with Tertiary age rocks (not Gondwana) and porous limestone or sandstone (not non-porous granite). It is trapped in anticlines."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T21-0168",
+   "section": {
+    "te": "Monazite Deposits",
+    "en": "Monazite Deposits"
+   },
+   "q": {
+    "te": "కేరళలోని ఏ జిల్లాల్లో ప్రపంచంలోనే అత్యంత సంపన్నమైన మోనజైట్ నిక్షేపాలు ఉన్నాయి?",
+    "en": "In which districts of Kerala do the world's richest monazite deposits occur?"
+   },
+   "options": {
+    "te": [
+     "పాలక్కాడ్ మరియు కొల్లాం",
+     "కొచ్చి మరియు త్రిస్సూర్",
+     "కన్నూర్ మరియు వాయనాడ్",
+     "తిరువనంతపురం మరియు ఇడుక్కి"
+    ],
+    "en": [
+     "Palakkad and Kollam",
+     "Kochi and Thrissur",
+     "Kannur and Wayanad",
+     "Thiruvananthapuram and Idukki"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రపంచంలోనే అత్యంత సంపన్నమైన మోనజైట్ నిక్షేపాలు కేరళలోని పాలక్కాడ్ మరియు కొల్లాం జిల్లాల్లో కనిపిస్తాయి.",
+    "en": "The world's richest monazite deposits are found in the Palakkad and Kollam districts of Kerala."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T21-0136",
+   "section": {
+    "te": "Himalayan Belt",
+    "en": "Himalayan Belt"
+   },
+   "q": {
+    "te": "హిమాలయ బెల్ట్‌లో ఈ క్రింది ఏ ఖనిజాలు లభిస్తాయి?",
+    "en": "Which of the following minerals are known to occur in the Himalayan belt?"
+   },
+   "options": {
+    "te": [
+     "రాగి మరియు సీసం",
+     "జింక్ మరియు కోబాల్ట్",
+     "టంగ్‌స్టన్",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Copper and Lead",
+     "Zinc and Cobalt",
+     "Tungsten",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "హిమాలయ బెల్ట్‌లో రాగి, సీసం, జింక్, కోబాల్ట్ మరియు టంగ్‌స్టన్ ఉన్నాయి.",
+    "en": "The Himalayan belt contains copper, lead, zinc, cobalt, and tungsten."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T21-0060",
+   "section": {
+    "te": "Aluminium Properties",
+    "en": "Aluminium Properties"
+   },
+   "q": {
+    "te": "అల్యూమినియంకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది ఇనుము వంటి లోహాల బలాన్ని కలిగి ఉంటుంది.\n2. ఇది అత్యంత తేలికైనది.\n3. ఇది తక్కువ విద్యుత్ వాహకతను కలిగి ఉంటుంది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding Aluminium:\n1. It possesses the strength of metals like iron.\n2. It is characterized by extreme lightness.\n3. It has poor electrical conductivity.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అల్యూమినియం దాని బలం (ఇనుము వలె) మరియు అత్యంత తేలికైన గుణానికి ప్రసిద్ధి చెందింది, అయితే ఇది మంచి వాహకం, తక్కువ వాహకం కాదు.",
+    "en": "Aluminium is known for its strength (like iron) and extreme lightness, but it is a good conductor, not a poor one."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T21-0025",
+   "section": {
+    "te": "Mineral classification",
+    "en": "Mineral classification"
+   },
+   "q": {
+    "te": "ఖనిజాల వర్గీకరణకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఖనిజం ఏర్పడే సమయంలోని భౌతిక మరియు రసాయన పరిస్థితులు దాని లక్షణాలను నిర్ణయిస్తాయి.\n2. భూవిజ్ఞాన శాస్త్రవేత్తలు ఖనిజాలను వర్గీకరించడానికి స్పటిక రూపాలు, మెరుపు (lustre) మరియు సాంద్రత వంటి లక్షణాలను ఉపయోగిస్తారు.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the classification of minerals:\n1. Physical and chemical conditions during formation determine a mineral's properties.\n2. Geologists use properties such as crystal forms, lustre, and density to classify minerals.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఏర్పడే పరిస్థితుల వల్ల నిర్దిష్ట లక్షణాలు (రంగు, కఠినత్వం, స్పటిక రూపాలు మొదలైనవి) ఏర్పడతాయని, వీటిని భూవిజ్ఞాన శాస్త్రవేత్తలు వర్గీకరణకు ఉపయోగిస్తారని పాఠ్యభాగం వివరిస్తుంది.",
+    "en": "Formation conditions result in specific properties (color, hardness, crystal forms, etc.) which geologists then use for classification."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T21-0096",
+   "section": {
+    "te": "Nuclear Energy Minerals",
+    "en": "Nuclear Energy Minerals"
+   },
+   "q": {
+    "te": "కేరళలోని మోనాజైట్ ఇసుకలో అణుశక్తి ఉత్పత్తికి ఉపయోగించే ఈ క్రింది ఖనిజాలలో ఏది లభిస్తుంది?",
+    "en": "Which of the following minerals used for generating nuclear power is found in the Monazite sands of Kerala?"
+   },
+   "options": {
+    "te": [
+     "యురేనియం",
+     "బొగ్గు",
+     "అభ్రకం (Mica)",
+     "థోరియం"
+    ],
+    "en": [
+     "Uranium",
+     "Coal",
+     "Mica",
+     "Thorium"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "కేరళలోని మోనాజైట్ ఇసుకలో థోరియం సమృద్ధిగా ఉంటుందని, దీనిని అణుశక్తి ఉత్పత్తికి ఉపయోగిస్తారని పాఠ్య భాగం పేర్కొంది.",
+    "en": "The Monazite sands of Kerala are rich in Thorium, which is used for generating atomic or nuclear power."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T21-0149",
+   "section": {
+    "te": "Bauxite production",
+    "en": "Bauxite production"
+   },
+   "q": {
+    "te": "భారతదేశంలో బాక్సైట్ (Bauxite) ఉత్పత్తిలో అగ్రస్థానంలో ఉన్న రాష్ట్రం ఏది?",
+    "en": "Which of the following states is the largest producer of Bauxite in India?"
+   },
+   "options": {
+    "te": [
+     "ఒడిశా",
+     "గుజరాత్",
+     "ఛత్తీస్‌గఢ్",
+     "జార్ఖండ్"
+    ],
+    "en": [
+     "Odisha",
+     "Gujarat",
+     "Chhattisgarh",
+     "Jharkhand"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వనరుల ప్రకారం, భారతదేశంలో బాక్సైట్ ఉత్పత్తిలో ఒడిశా అతిపెద్ద రాష్ట్రం, కలహండి మరియు సంబల్పూర్ ప్రధాన ఉత్పత్తిదారులు.",
+    "en": "Odisha is the largest producer of Bauxite in India, with Kalahandi and Sambalpur being leading producers."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T21-0077",
+   "section": {
+    "te": "Coal Quality",
+    "en": "Coal Quality"
+   },
+   "q": {
+    "te": "కింది వాటిలో ఏ రకమైన బొగ్గు అత్యంత నాణ్యమైన గట్టి బొగ్గుగా పరిగణించబడుతుంది?",
+    "en": "Which of the following types of coal is considered the highest quality hard coal?"
+   },
+   "options": {
+    "te": [
+     "బిటుమినస్",
+     "ఆంత్రాసైట్",
+     "లిగ్నైట్",
+     "పీట్"
+    ],
+    "en": [
+     "Bituminous",
+     "Anthracite",
+     "Lignite",
+     "Peat"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, అన్ని రకాల గట్టి బొగ్గులలో ఆంత్రాసైట్ అత్యంత నాణ్యమైనది.",
+    "en": "Anthracite is the highest quality among all types of hard coal."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T21-0101",
+   "section": {
+    "te": "Nuclear Mineral Locations",
+    "en": "Nuclear Mineral Locations"
+   },
+   "q": {
+    "te": "అణుశక్తి కోసం ఉపయోగించే యురేనియం మరియు థోరియం భారతదేశంలోని ఏ ప్రాంతాలలో ప్రధానంగా లభిస్తాయి?",
+    "en": "Uranium and Thorium, used for nuclear power, are primarily found in which of the following areas in India?"
+   },
+   "options": {
+    "te": [
+     "తూర్పు కనుమలు మరియు ఒడిశా",
+     "హిమాలయాలు మరియు ఈశాన్య భారతదేశం",
+     "పశ్చిమ కనుమలు మరియు దక్కన్ పీఠభూమి",
+     "జార్ఖండ్ మరియు రాజస్థాన్‌లోని ఆరావళి పర్వత శ్రేణులు"
+    ],
+    "en": [
+     "Eastern Ghats and Odisha",
+     "Himalayas and North-East India",
+     "Western Ghats and Deccan Plateau",
+     "Jharkhand and the Aravalli ranges of Rajasthan"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "యురేనియం మరియు థోరియం జార్ఖండ్ మరియు రాజస్థాన్‌లోని ఆరావళి పర్వత శ్రేణులలో లభిస్తాయని పాఠ్య భాగం పేర్కొంది.",
+    "en": "The text specifies that Uranium and Thorium are available in Jharkhand and the Aravalli ranges of Rajasthan."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T21-0081",
+   "section": {
+    "te": "Petroleum Industry",
+    "en": "Petroleum Industry"
+   },
+   "q": {
+    "te": "సింథటిక్ టెక్స్టైల్స్ మరియు ఎరువుల పరిశ్రమలకు 'నోడల్ పరిశ్రమ' (nodal industry) గా కింది వాటిలో దేనిని వర్ణిస్తారు?",
+    "en": "Which of the following is described as a 'nodal industry' for synthetic textiles and fertilizers?"
+   },
+   "options": {
+    "te": [
+     "బొగ్గు గనులు",
+     "ఇనుము మరియు ఉక్కు కర్మాగారాలు",
+     "జలవిద్యుత్ కేంద్రాలు",
+     "పెట్రోలియం రిఫైనరీలు"
+    ],
+    "en": [
+     "Coal mining",
+     "Iron and steel plants",
+     "Hydroelectric plants",
+     "Petroleum refineries"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పెట్రోలియం రిఫైనరీలు టెక్స్టైల్స్, ఎరువులు మరియు రసాయనాలకు అవసరమైన ముడి పదార్థాలను అందిస్తాయి, తద్వారా నోడల్ పరిశ్రమగా పనిచేస్తాయి.",
+    "en": "Petroleum refineries provide raw materials for textiles, fertilizers, and chemicals, thus acting as a nodal industry."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T21-0170",
+   "section": {
+    "te": "Atomic Energy Institutions",
+    "en": "Atomic Energy Institutions"
+   },
+   "q": {
+    "te": "కింది సంఘటనలను సరైన కాలక్రమానుసారంగా అమర్చండి:\n1. అటామిక్ ఎనర్జీ ఇన్‌స్టిట్యూట్‌ను భాభా అటామిక్ రీసెర్చ్ సెంటర్‌గా మార్చడం\n2. అటామిక్ ఎనర్జీ కమిషన్ స్థాపన\n3. ట్రోంబేలో అటామిక్ ఎనర్జీ ఇన్‌స్టిట్యూట్ స్థాపన",
+    "en": "Arrange the following events in the correct chronological order:\n1. Renaming of Atomic Energy Institute as Bhabha Atomic Research Centre\n2. Establishment of Atomic Energy Commission\n3. Establishment of Atomic Energy Institute at Trombay"
+   },
+   "options": {
+    "te": [
+     "2-3-1",
+     "3-2-1",
+     "1-2-3",
+     "2-1-3"
+    ],
+    "en": [
+     "2-3-1",
+     "3-2-1",
+     "1-2-3",
+     "2-1-3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అటామిక్ ఎనర్జీ కమిషన్ 1948లో స్థాపించబడింది, తర్వాత 1954లో అటామిక్ ఎనర్జీ ఇన్‌స్టిట్యూట్ స్థాపించబడింది, దీనిని 1967లో BARCగా మార్చారు.",
+    "en": "The Atomic Energy Commission was established in 1948, followed by the Atomic Energy Institute in 1954, which was renamed BARC in 1967."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T21-0148",
+   "section": {
+    "te": "Iron Ore Advantage",
+    "en": "Iron Ore Advantage"
+   },
+   "q": {
+    "te": "నిశ్చయం (A): ఈశాన్య పీఠభూమి ప్రాంతంలోని ఇనుప ఖనిజ గనులకు ఒక ప్రత్యేక ప్రయోజనం ఉంది.\nకారణం (R): ఈ గనులు బొగ్గు క్షేత్రాలకు అతి సమీపంలో ఉన్నాయి.",
+    "en": "Assertion (A): Iron ore mines in the northeastern plateau region have a distinct advantage.\nReason (R): These mines occur in close proximity to coal fields."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఈశాన్య పీఠభూమిలో ఇనుప ఖనిజ గనులు బొగ్గు క్షేత్రాలకు సమీపంలో ఉండటం ఆ పరిశ్రమకు ప్రధాన ప్రయోజనం.",
+    "en": "The proximity of iron ore mines to coal fields in the northeastern plateau is a major advantage for the industry."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T21-0142",
+   "section": {
+    "te": "North-Western Region",
+    "en": "North-Western Region"
+   },
+   "q": {
+    "te": "రాజస్థాన్ ఈ క్రింది ఏ నిర్మాణ రాళ్లను సమృద్ధిగా కలిగి ఉంది?",
+    "en": "Which of the following building stones is Rajasthan rich in?"
+   },
+   "options": {
+    "te": [
+     "ఇసుక రాయి (Sandstone)",
+     "గ్రానైట్",
+     "మార్బుల్",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Sandstone",
+     "Granite",
+     "Marble",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రాజస్థాన్‌లో ఇసుక రాయి, గ్రానైట్ మరియు మార్బుల్‌తో సహా నిర్మాణ రాళ్లు సమృద్ధిగా ఉన్నాయి.",
+    "en": "Rajasthan is rich in building stones including sandstone, granite, and marble."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T21-0072",
+   "section": {
+    "te": "Energy resources",
+    "en": "Energy resources"
+   },
+   "q": {
+    "te": "పశువుల పేడ బిళ్ళలను ఇంధనంగా ఉపయోగించడాన్ని ఎందుకు నిరుత్సాహపరుస్తున్నారు?",
+    "en": "Why is the use of cattle dung cake as a fuel being discouraged?"
+   },
+   "options": {
+    "te": [
+     "ఇది వ్యవసాయానికి అవసరమైన విలువైన ఎరువును వినియోగిస్తుంది",
+     "దీనికి తక్కువ తాపన విలువ (heating value) ఉంటుంది",
+     "ఇది వాయు కాలుష్యానికి కారణమవుతుంది",
+     "దీనిని రవాణా చేయడం కష్టం"
+    ],
+    "en": [
+     "It consumes valuable manure needed for agriculture",
+     "It has low heating value",
+     "It causes air pollution",
+     "It is difficult to transport"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పేడ బిళ్ళల వాడకం వల్ల వ్యవసాయానికి ఎరువుగా ఉపయోగపడే విలువైన పేడ వృధా అవుతుంది.",
+    "en": "Dung cake use is discouraged because the dung could otherwise be used as valuable organic manure for farming."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T21-0019",
+   "section": {
+    "te": "Mineral nutrition",
+    "en": "Mineral nutrition"
+   },
+   "q": {
+    "te": "మానవ ఆహారంలో ఖనిజాల ప్రాముఖ్యతకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. మన మొత్తం పోషకాహారంలో ఖనిజాల వినియోగం సుమారు 0.3 శాతంగా ఉంటుంది.\n2. మిగిలిన 99.7 శాతం ఆహార పదార్థాలను వినియోగించుకోవడానికి ఖనిజాలు అవసరం.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the importance of minerals in the human diet:\n1. Mineral intake accounts for approximately 0.3 percent of our total nutrient intake.\n2. Minerals are essential to utilize the remaining 99.7 percent of foodstuffs.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఖనిజాలు మన ఆహారంలో కేవలం 0.3% మాత్రమే ఉన్నప్పటికీ, మిగిలిన 99.7% ఆహారాన్ని ప్రాసెస్ చేయడానికి అవి అవసరమని పాఠ్యభాగం స్పష్టంగా పేర్కొంది.",
+    "en": "While minerals are only 0.3% of our intake, they are necessary to process the other 99.7% of our food."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T21-0054",
+   "section": {
+    "te": "Mineral Etymology",
+    "en": "Mineral Etymology"
+   },
+   "q": {
+    "te": "'బైలాడిలా' కొండల పేరు దేనిని పోలి ఉండటం వల్ల వచ్చింది?",
+    "en": "The name of the 'Bailadila' hills is derived from its resemblance to which of the following?"
+   },
+   "options": {
+    "te": [
+     "ఏనుగు దంతం",
+     "ఎద్దు కుంభాకారం (hump)",
+     "పర్వత శిఖరం",
+     "గుర్రం ముఖం"
+    ],
+    "en": [
+     "The tusk of an elephant",
+     "The hump of an ox",
+     "The peak of a mountain",
+     "The face of a horse"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "బైలాడిలా కొండలు ఎద్దు కుంభాకారాన్ని (hump) పోలి ఉండటం వల్ల ఆ పేరు వచ్చింది.",
+    "en": "The Bailadila hills are named so because they resemble the hump of an ox."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T21-0121",
+   "section": {
+    "te": "Global Mining Trends",
+    "en": "Global Mining Trends"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): అభివృద్ధి చెందిన ఆర్థిక వ్యవస్థలు మైనింగ్ మరియు శుద్ధి చేసే ఉత్పత్తి దశల నుండి వెనక్కి తగ్గుతున్నాయి.\nకారణం (R): ఈ దేశాలు అధిక కార్మిక వ్యయాలను ఎదుర్కొంటున్నాయి.",
+    "en": "Assertion (A): Developed economies are retreating from the mining and refining stages of production.\nReason (R): These countries are facing high labour costs."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అభివృద్ధి చెందిన దేశాలు మైనింగ్ మరియు ప్రాసెసింగ్ నుండి దూరంగా జరుగుతున్నాయి ఎందుకంటే వారి కార్మిక వ్యయాలు చాలా ఎక్కువగా ఉన్నాయి.",
+    "en": "Developed nations are moving away from mining and processing specifically because their labour costs have become too high."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T21-0014",
+   "section": {
+    "te": "Benefits of resource industries",
+    "en": "Benefits of resource industries"
+   },
+   "q": {
+    "te": "సహజ వనరుల సమీపంలో పరిశ్రమలు స్థాపించబడినప్పుడు కలిగే సానుకూల ప్రయోజనాలు ఏవి?",
+    "en": "Which of the following positive developments occur when industries are set up near natural resources?"
+   },
+   "options": {
+    "te": [
+     "స్థానిక ప్రజలకు ఉపాధి అవకాశాలు లభించడం",
+     "టౌన్‌షిప్‌లు ఏర్పడి, ఇతర ఆర్థిక అవకాశాలు విస్తరించడం",
+     "జీవన ప్రమాణాలను పెంచే ఆధునిక సౌకర్యాలు అందుబాటులోకి రావడం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Creation of employment opportunities for local people",
+     "Growth of townships and expansion of economic opportunities",
+     "Accessibility to modern facilities improving quality of life",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వనరుల దగ్గర పరిశ్రమలు రావడం వల్ల ఉపాధి కల్పన, పట్టణాల పెరుగుదల మరియు ఆధునిక సౌకర్యాలు అందుబాటులోకి రావడం వంటి అనేక ప్రయోజనాలు కలుగుతాయి.",
+    "en": "Setting up industries near resources creates employment, allows townships to grow, and improves quality of life by making modern facilities accessible."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T21-0057",
+   "section": {
+    "te": "Petroleum Distribution",
+    "en": "Petroleum Distribution"
+   },
+   "q": {
+    "te": "గుజరాత్ మరియు అస్సాంలోని పెట్రోలియం నిక్షేపాలు ఎక్కువగా ఏ రకమైన శిలలలో కనిపిస్తాయి?",
+    "en": "In which type of rock formations are most of the petroleum deposits in Gujarat and Assam found?"
+   },
+   "options": {
+    "te": [
+     "అగ్ని శిలలు (Igneous rocks)",
+     "రూపాంతర శిలలు (Metamorphic rocks)",
+     "అగ్నిపర్వత శిలలు",
+     "అవక్షేప శిలలు (Sedimentary rocks)"
+    ],
+    "en": [
+     "Igneous rocks",
+     "Metamorphic rocks",
+     "Volcanic rocks",
+     "Sedimentary rocks"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "గుజరాత్ మరియు అస్సాంలోని పెట్రోలియం నిక్షేపాలు ప్రధానంగా ద్వీపకల్పం అంచున ఉన్న అవక్షేప శిలలలో కనిపిస్తాయి.",
+    "en": "Petroleum deposits in Gujarat and Assam are primarily found in sedimentary rocks on the flanks of the peninsula."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T21-0151",
+   "section": {
+    "te": "Mica properties",
+    "en": "Mica properties"
+   },
+   "q": {
+    "te": "అభ్రకం (Mica) గురించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. దీనిని చాలా సన్నని పలకలుగా విభజించవచ్చు, ఇవి దృఢంగా మరియు సరళంగా (flexible) ఉంటాయి.\n2. ఆంధ్రప్రదేశ్‌లోని నెల్లూరు జిల్లా ఉత్తమ నాణ్యమైన అభ్రకాన్ని ఉత్పత్తి చేయడంలో ప్రసిద్ధి చెందింది.\n3. దీనిని ప్రధానంగా ఇనుప ఖనిజం కరిగించడానికి (smelting) ఉపయోగిస్తారు.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about Mica:\n1. It can be split into very thin sheets which are tough and flexible.\n2. Nellore district in Andhra Pradesh is known for producing the best quality mica.\n3. It is primarily used in the smelting of iron ore.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 only",
+     "1 and 2 only",
+     "2 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రకటనలు 1 మరియు 2 సరైనవి. అభ్రకాన్ని ప్రధానంగా ఎలక్ట్రికల్ మరియు ఎలక్ట్రానిక్ పరిశ్రమలలో ఉపయోగిస్తారు, కాబట్టి ప్రకటన 3 తప్పు. ఇనుప ఖనిజాన్ని కరిగించడానికి బొగ్గును ఉపయోగిస్తారు.",
+    "en": "Statements 1 and 2 are correct. Statement 3 is incorrect because mica is mainly used in electrical and electronic industries, while coal is used for smelting iron ore."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T21-0161",
+   "section": {
+    "te": "Jharkhand mica belt",
+    "en": "Jharkhand mica belt"
+   },
+   "q": {
+    "te": "జార్ఖండ్‌లోని దిగువ హజారీబాగ్ పీఠభూమిలో ఉన్న అధిక నాణ్యత గల అభ్రకపు బెల్ట్ యొక్క కొలతలు ఏమిటి?",
+    "en": "What are the dimensions of the high-quality mica belt in the lower Hazaribagh plateau of Jharkhand?"
+   },
+   "options": {
+    "te": [
+     "200 కి.మీ పొడవు మరియు 30 కి.మీ వెడల్పు",
+     "320 కి.మీ పొడవు మరియు 50 కి.మీ వెడల్పు",
+     "100 కి.మీ పొడవు మరియు 10 కి.మీ వెడల్పు",
+     "150 కి.మీ పొడవు మరియు 22 కి.మీ వెడల్పు"
+    ],
+    "en": [
+     "200 km length and 30 km width",
+     "320 km length and 50 km width",
+     "100 km length and 10 km width",
+     "150 km length and 22 km width"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "దిగువ హజారీబాగ్ పీఠభూమిలోని అభ్రకపు బెల్ట్ సుమారు 150 కి.మీ పొడవు మరియు 22 కి.మీ వెడల్పు కలిగి ఉంటుంది.",
+    "en": "The mica belt in the lower Hazaribagh plateau extends approximately 150 km in length and 22 km in width."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T21-0115",
+   "section": {
+    "te": "Mining Factors",
+    "en": "Mining Factors"
+   },
+   "q": {
+    "te": "మైనింగ్ కార్యకలాపాల లాభదాయకతను ప్రభావితం చేసే భౌతిక కారకాలు (physical factors) కింది వాటిలో ఏవి?",
+    "en": "Which of the following are considered physical factors affecting the profitability of mining operations?"
+   },
+   "options": {
+    "te": [
+     "నిక్షేపాల పరిమాణం, గ్రేడ్ మరియు అవి లభించే విధానం",
+     "అందుబాటులో ఉన్న సాంకేతికత మరియు మూలధనం",
+     "మార్కెట్ డిమాండ్ మరియు మౌలిక సదుపాయాలు",
+     "కార్మికులు మరియు రవాణా ఖర్చులు"
+    ],
+    "en": [
+     "Size, grade, and mode of occurrence of deposits",
+     "Technology available and capital",
+     "Market demand and infrastructure",
+     "Labour and transport costs"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మైనింగ్ యొక్క లాభదాయకత నిక్షేపాల పరిమాణం, గ్రేడ్ మరియు అవి లభించే విధానం వంటి భౌతిక కారకాలపై, అలాగే ఆర్థిక కారకాలపై ఆధారపడి ఉంటుంది.",
+    "en": "The profitability of mining depends on physical factors like the size, grade, and how the deposits occur, as well as economic factors."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T21-0046",
+   "section": {
+    "te": "Mineral Etymology",
+    "en": "Mineral Etymology"
+   },
+   "q": {
+    "te": "కర్ణాటకలోని ఖనిజ సంపన్న ప్రాంతాల సందర్భంలో, స్థానిక కన్నడ భాషలో 'కుద్రే' (Kudre) అనే పదానికి అర్థం ఏమిటి?",
+    "en": "In the context of mineral-rich regions in Karnataka, what does the word 'Kudre' mean in the local Kannada language?"
+   },
+   "options": {
+    "te": [
+     "ఎద్దు",
+     "కుంభాకారం (Hump)",
+     "గుర్రం",
+     "శిఖరం"
+    ],
+    "en": [
+     "Ox",
+     "Hump",
+     "Horse",
+     "Peak"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, కన్నడలో 'కుద్రే' అంటే గుర్రం అని అర్థం. కర్ణాటకలోని పశ్చిమ కనుమలలోని ఎత్తైన శిఖరం గుర్రం ముఖాన్ని పోలి ఉంటుంది.",
+    "en": "'Kudre' in Kannada means horse, and the highest peak in the Western Ghats of Karnataka resembles a horse's face."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T21-0045",
+   "section": {
+    "te": "Hematite iron content",
+    "en": "Hematite iron content"
+   },
+   "q": {
+    "te": "హేమటైట్ ఖనిజంలో సాధారణంగా ఉండే ఇనుము శాతం ఎంత?",
+    "en": "What is the typical iron content range found in Hematite ore?"
+   },
+   "options": {
+    "te": [
+     "30-40 శాతం",
+     "50-60 శాతం",
+     "70 శాతం వరకు",
+     "90 శాతం కంటే ఎక్కువ"
+    ],
+    "en": [
+     "30-40 per cent",
+     "50-60 per cent",
+     "Up to 70 per cent",
+     "More than 90 per cent"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "హేమటైట్ అనేది పరిశ్రమలలో అత్యధికంగా ఉపయోగించే ఇనుప ఖనిజం. ఇది 50% నుండి 60% వరకు ఇనుమును కలిగి ఉంటుంది.",
+    "en": "Hematite is the most used industrial iron ore and contains between 50% and 60% iron, which is lower than magnetite's 70%."
+   }
+  }
+ ]
+}

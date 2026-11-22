@@ -1,0 +1,942 @@
+{
+ "id": "geo-25-g1-7",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Agriculture – క్విజ్ 7",
+  "en": "Agriculture – Quiz 7"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T25-0312",
+   "section": {
+    "te": "Cotton Climatic Conditions",
+    "en": "Cotton Climatic Conditions"
+   },
+   "q": {
+    "te": "పత్తి పూత దశలో క్రింది ఏ వాతావరణ పరిస్థితి అవసరం?",
+    "en": "Cotton requires which of the following weather conditions during its flowering stage?"
+   },
+   "options": {
+    "te": [
+     "నిరంతర చినుకులు",
+     "అధిక తేమ",
+     "నిర్మలమైన ఆకాశం",
+     "తీవ్రమైన పొగమంచు"
+    ],
+    "en": [
+     "Continuous drizzle",
+     "High humidity",
+     "Clear sky",
+     "Heavy frost"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పత్తి పూత దశలో నిర్మలమైన ఆకాశం అవసరమని మూలంలో స్పష్టంగా పేర్కొనబడింది.",
+    "en": "Cotton requires a clear sky during its flowering stage."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T25-0055",
+   "section": {
+    "te": "Ancient seed preparation",
+    "en": "Ancient seed preparation"
+   },
+   "q": {
+    "te": "అర్థశాస్త్రం ప్రకారం, చెరకును నాటడానికి ముందు దాని కోత భాగంపై ఈ క్రింది ఏ మిశ్రమాన్ని పూయాలి?",
+    "en": "According to the Arthaśhāstra, which of the following mixtures should be used to smear the cut of sugarcane before planting?"
+   },
+   "options": {
+    "te": [
+     "తేనె, నెయ్యి మరియు ఆవు పేడ మాత్రమే",
+     "తేనె, నెయ్యి, పంది కొవ్వు (lard) మరియు ఆవు పేడ",
+     "ఆవు పంచితం మరియు ఆవు పేడ",
+     "మంచు మరియు తేనె"
+    ],
+    "en": [
+     "Honey, ghee, and cow dung only",
+     "Honey, ghee, lard, and cow dung",
+     "Cow urine and cow dung",
+     "Dew and honey"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "చెరకు కోత భాగాలకు తేనె, నెయ్యి, పంది కొవ్వు మిశ్రమాన్ని పూసి, ఆపై ఆవు పేడతో కప్పాలని అర్థశాస్త్రం పేర్కొంది.",
+    "en": "The Arthaśhāstra specifies that sugarcane cuts should be treated with a mixture of honey, ghee, lard, and then covered with cow dung."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T25-0311",
+   "section": {
+    "te": "West Bengal Jute Share",
+    "en": "West Bengal Jute Share"
+   },
+   "q": {
+    "te": "భారతదేశంలో మొత్తం జనపనార ఉత్పత్తిలో పశ్చిమ బెంగాల్ వాటా ఎంత?",
+    "en": "What proportion of the total jute production in India is accounted for by West Bengal?"
+   },
+   "options": {
+    "te": [
+     "దాదాపు మూడింట ఒక వంతు",
+     "దాదాపు నాలుగింట మూడు వంతులు",
+     "దాదాపు మూడింట రెండు వంతులు",
+     "దాదాపు సగం"
+    ],
+    "en": [
+     "About one-third",
+     "About three-fourth",
+     "About two-third",
+     "About half"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "దేశంలోని మొత్తం జనపనార ఉత్పత్తిలో పశ్చిమ బెంగాల్ దాదాపు నాలుగింట మూడు వంతుల వాటాను కలిగి ఉంది.",
+    "en": "West Bengal is the leading producer, accounting for about three-fourth of the total jute production in India."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T25-0212",
+   "section": {
+    "te": "Commercial grain farming regions",
+    "en": "Commercial grain farming regions"
+   },
+   "q": {
+    "te": "విస్తృత వాణిజ్య ధాన్యపు సాగు జరిగే క్రింది గడ్డిభూములు/మైదానాలను వాటి సంబంధిత దేశాలతో జతపరచండి:\nజాబితా-I (ప్రాంతం)\nA. పంపాస్ (Pampas)\nB. వెల్డ్స్ (Velds)\nC. డౌన్స్ (Downs)\nD. కాంటర్‌బరీ మైదానాలు (Canterbury Plains)\n\nజాబితా-II (దేశం)\n1. దక్షిణ ఆఫ్రికా\n2. న్యూజిలాండ్\n3. అర్జెంటీనా\n4. ఆస్ట్రేలియా\n\nసరైన కోడ్‌ను ఎంచుకోండి:",
+    "en": "Match the following grasslands/plains where extensive commercial grain farming is developed with their respective countries/regions:\nList-I (Region)\nA. Pampas\nB. Velds\nC. Downs\nD. Canterbury Plains\n\nList-II (Country)\n1. South Africa\n2. New Zealand\n3. Argentina\n4. Australia\n\nSelect the correct code:"
+   },
+   "options": {
+    "te": [
+     "A-1, B-3, C-4, D-2",
+     "A-3, B-1, C-4, D-2",
+     "A-3, B-4, C-1, D-2",
+     "A-2, B-1, C-4, D-3"
+    ],
+    "en": [
+     "A-1, B-3, C-4, D-2",
+     "A-3, B-1, C-4, D-2",
+     "A-3, B-4, C-1, D-2",
+     "A-2, B-1, C-4, D-3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పంపాస్ అర్జెంటీనాలో, వెల్డ్స్ దక్షిణ ఆఫ్రికాలో, డౌన్స్ ఆస్ట్రేలియాలో మరియు కాంటర్‌బరీ మైదానాలు న్యూజిలాండ్‌లో ఉన్నాయి.",
+    "en": "The Pampas are in Argentina, the Velds in South Africa, the Downs in Australia, and the Canterbury Plains in New Zealand."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T25-0238",
+   "section": {
+    "te": "Pastures and Grazing Lands",
+    "en": "Pastures and Grazing Lands"
+   },
+   "q": {
+    "te": "'శాశ్వత పచ్చిక బయళ్ళు మరియు మేత భూముల'కు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఈ రకమైన భూమిలో ఎక్కువ భాగం ప్రైవేట్ వ్యక్తుల స్వంతం.\n2. ఈ వర్గం క్రింద గ్రామ పంచాయతీకి చెందిన భూమి 'ఉమ్మడి ఆస్తి వనరులు' (Common Property Resources) పరిధిలోకి వస్తుంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding 'Area under Permanent Pastures and Grazing Lands':\n1. Most of this type of land is owned by private individuals.\n2. The land owned by the village panchayat under this category comes under 'Common Property Resources'.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఈ భూమిలో ఎక్కువ భాగం గ్రామ పంచాయతీ లేదా ప్రభుత్వం ఆధీనంలో ఉంటుంది, స్వల్ప భాగం మాత్రమే ప్రైవేట్ వ్యక్తుల వద్ద ఉంటుంది. పంచాయతీ ఆధీనంలోని భూమి ఉమ్మడి ఆస్తి వనరుల క్రిందికి వస్తుంది.",
+    "en": "Most of this land is owned by the village Panchayat or the Government, with only a small proportion privately owned. The land owned by the village panchayat falls under 'Common Property Resources'."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T25-0233",
+   "section": {
+    "te": "Geographical Area Measurement",
+    "en": "Geographical Area Measurement"
+   },
+   "q": {
+    "te": "భారతదేశంలోని పరిపాలనా విభాగాల భౌగోళిక విస్తీర్ణాన్ని కొలవడానికి క్రింది ఏ సంస్థ బాధ్యత వహిస్తుంది?",
+    "en": "Which of the following organisations is responsible for measuring the geographical area of administrative units in India?"
+   },
+   "options": {
+    "te": [
+     "భూ రెవెన్యూ శాఖ",
+     "నేషనల్ రిమోట్ సెన్సింగ్ సెంటర్",
+     "సర్వే ఆఫ్ ఇండియా",
+     "సెంట్రల్ స్టాటిస్టికల్ ఆఫీస్"
+    ],
+    "en": [
+     "Land Revenue Department",
+     "National Remote Sensing Centre",
+     "Survey of India",
+     "Central Statistical Office"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, భారతదేశంలోని పరిపాలనా విభాగాల భౌగోళిక వైశాల్యాన్ని కొలిచే బాధ్యత సర్వే ఆఫ్ ఇండియాకు ఉంది.",
+    "en": "The Survey of India is responsible for measuring the geographical area of administrative units in India."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T25-0158",
+   "section": {
+    "te": "Sesamum cropping season",
+    "en": "Sesamum cropping season"
+   },
+   "q": {
+    "te": "భారతదేశంలో నువ్వుల (Sesamum) సాగుకు సంబంధించి, ఈ క్రింది వాటిలో ఏది సరైనది?",
+    "en": "Regarding the cultivation of Sesamum in India, which of the following statements is correct?"
+   },
+   "options": {
+    "te": [
+     "ఇది ఉత్తర భారతదేశంలో రబీ పంట మరియు దక్షిణ భారతదేశంలో ఖరీఫ్ పంట",
+     "ఇది ఉత్తర భారతదేశంలో ఖరీఫ్ పంట మరియు దక్షిణ భారతదేశంలో రబీ పంట",
+     "ఇది భారతదేశం అంతటా ఖరీఫ్ పంటగా మాత్రమే పండుతుంది",
+     "ఇది భారతదేశం అంతటా రబీ పంటగా మాత్రమే పండుతుంది"
+    ],
+    "en": [
+     "It is a rabi crop in North India and kharif in South India",
+     "It is a kharif crop in North India and rabi in South India",
+     "It is grown only as a kharif crop across India",
+     "It is grown only as a rabi crop across India"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, నువ్వులు ఉత్తర భారతదేశంలో ఖరీఫ్ పంటగా మరియు దక్షిణ భారతదేశంలో రబీ పంటగా వర్గీకరించబడ్డాయి.",
+    "en": "Sesamum is classified as a kharif crop in the northern part of India and a rabi crop in the southern part."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T25-0052",
+   "section": {
+    "te": "Kallanai river",
+    "en": "Kallanai river"
+   },
+   "q": {
+    "te": "ప్రాచీన నీటి మళ్లింపు నిర్మాణం 'కల్లనై'ను (గ్రాండ్ అనికట్) కరికాలుడు ఏ నదిపై నిర్మించాడు?",
+    "en": "The ancient water-diverting structure 'Kallanai' (the grand anicut) was built by Karikāla across which river?"
+   },
+   "options": {
+    "te": [
+     "గోదావరి నది",
+     "కావేరి నది",
+     "తుంగభద్ర నది",
+     "కృష్ణా నది"
+    ],
+    "en": [
+     "Godavari River",
+     "Kaveri River",
+     "Tungabhadra River",
+     "Krishna River"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కరికాలుడు సుమారు 1,800 సంవత్సరాల క్రితం కావేరి నదిపై కల్లనైను నిర్మించాడు.",
+    "en": "Kallanai was built across the Kaveri River by Karikāla about 1,800 years ago."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T25-0259",
+   "section": {
+    "te": "Expansion of non-agricultural land",
+    "en": "Expansion of non-agricultural land"
+   },
+   "q": {
+    "te": "భారతదేశంలో వ్యవసాయేతర వినియోగంలో ఉన్న విస్తీర్ణం ప్రధానంగా వేటి ఖర్చుతో (నష్టంతో) విస్తరిస్తోంది?",
+    "en": "The area under non-agricultural uses in India is expanding primarily at the expense of which of the following?"
+   },
+   "options": {
+    "te": [
+     "బంజరు భూములు మరియు వ్యవసాయ భూమి",
+     "రిజర్వ్ అడవులు మరియు జాతీయ పార్కులు",
+     "గ్రామ నీటి వనరులు మరియు పచ్చిక బయళ్ళు మాత్రమే",
+     "పర్వత వాలులు మరియు తీరప్రాంత మండలాలు"
+    ],
+    "en": [
+     "Wastelands and agricultural land",
+     "Reserved forests and national parks",
+     "Village water bodies and pastures only",
+     "Mountainous slopes and coastal zones"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వ్యవసాయేతర వినియోగం క్రింద ఉన్న భూమి ప్రధానంగా బంజరు భూములు మరియు వ్యవసాయ భూములను ఆక్రమిస్తూ పెరుగుతోంది.",
+    "en": "The area under non-agricultural uses increases at the expense of wastelands and agricultural land."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T25-0281",
+   "section": {
+    "te": "Wetland Farming Crops",
+    "en": "Wetland Farming Crops"
+   },
+   "q": {
+    "te": "తరి వ్యవసాయ (wetland farming) ప్రాంతాలలో సాధారణంగా పండించే నీటి ఎద్దడిని తట్టుకోలేని పంటలు ఏవి?",
+    "en": "Which of the following water-intensive crops are typically grown in wetland farming regions?"
+   },
+   "options": {
+    "te": [
+     "వరి",
+     "జనుము",
+     "చెరకు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Rice",
+     "Jute",
+     "Sugarcane",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "తరి వ్యవసాయ ప్రాంతాలలో వర్షపాతం మొక్కల అవసరాల కంటే ఎక్కువగా ఉంటుంది, కాబట్టి ఇవి వరి, జనుము మరియు చెరకు వంటి నీటి అవసరాలు ఎక్కువగా ఉన్న పంటలకు అనుకూలంగా ఉంటాయి.",
+    "en": "Wetland farming regions have rainfall in excess of soil moisture requirements and are suitable for water-intensive crops like rice, jute, and sugarcane."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T25-0065",
+   "section": {
+    "te": "Gokṛiṣhi",
+    "en": "Gokṛiṣhi"
+   },
+   "q": {
+    "te": "సాంప్రదాయ 'గోకృషి' (Gokṛiṣhi) పద్ధతిలో, ఎడ్ల యొక్క నిర్దిష్ట పాత్ర ఏమిటి?",
+    "en": "In the traditional 'Gokṛiṣhi' method, what is the specific role of bullocks?"
+   },
+   "options": {
+    "te": [
+     "ఎరువును అందించడం",
+     "బావుల నుండి నీటిని తోడటం",
+     "పొలాలను దున్నడం",
+     "పంటలను మార్కెట్‌కు తరలించడం"
+    ],
+    "en": [
+     "Providing manure",
+     "Lifting water from wells",
+     "Ploughing the fields",
+     "Transporting crops to the market"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "గోకృషిలో, ఆవులు సేంద్రియ ఎరువును అందిస్తాయి, అయితే ఎడ్లను ప్రత్యేకంగా పొలాలను దున్నడానికి ఉపయోగిస్తారు.",
+    "en": "In Gokṛiṣhi, cows provide organic manure while bullocks are specifically used for the labor of ploughing the fields."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T25-0123",
+   "section": {
+    "te": "Bamboo Drip Irrigation",
+    "en": "Bamboo Drip Irrigation"
+   },
+   "q": {
+    "te": "మేఘాలయలోని వెదురు పైపుల వ్యవస్థలో కొండపై నుండి దిగువ ప్రాంతాలకు నీటిని రవాణా చేయడానికి ఉపయోగించే ప్రధాన పద్ధతి ఏమిటి?",
+    "en": "What is the primary method used to transport water from hilltops to lower reaches in Meghalaya's bamboo pipe system?"
+   },
+   "options": {
+    "te": [
+     "ఎలక్ట్రిక్ పంపులు",
+     "జంతువుల శక్తి",
+     "గురుత్వాకర్షణ (Gravity)",
+     "పవన శక్తి"
+    ],
+    "en": [
+     "Electric pumps",
+     "Animal power",
+     "Gravity",
+     "Wind energy"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వెదురు పైపులు గురుత్వాకర్షణను ఉపయోగించి కొండపై ఉన్న జీవ ఊటల నుండి దిగువ ప్రాంతాలకు నీటిని మళ్లిస్తాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Bamboo pipes divert perennial springs from hilltops to lower reaches using gravity."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T25-0189",
+   "section": {
+    "te": "Cotton Characteristics",
+    "en": "Cotton Characteristics"
+   },
+   "q": {
+    "te": "ప్రత్తి సాగుకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది ఒక రబీ పంట.\n2. దీనికి అధిక ఉష్ణోగ్రత మరియు తేలికపాటి వర్షపాతం లేదా నీటి పారుదల అవసరం.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding cotton cultivation:\n1. It is a rabi crop.\n2. It requires high temperature and light rainfall or irrigation.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రత్తి ఒక ఖరీఫ్ పంట కాబట్టి మొదటి ప్రకటన తప్పు. దీనికి అధిక ఉష్ణోగ్రత మరియు తేలికపాటి వర్షపాతం/నీటి పారుదల అవసరం కాబట్టి రెండవ ప్రకటన సరైనది.",
+    "en": "Statement 1 is incorrect because cotton is a kharif crop. Statement 2 is correct as it requires high temperature and light rainfall/irrigation."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T25-0335",
+   "section": {
+    "te": "Green Revolution coverage",
+    "en": "Green Revolution coverage"
+   },
+   "q": {
+    "te": "రసాయన ఎరువులతో పాటు అధిక దిగుబడి రకాలతో (HYVs) కూడిన ప్యాకేజీ సాంకేతికతను ప్రారంభంలో కింది ఏ రాష్ట్రాల్లోని నీటిపారుదల ప్రాంతాలలో ప్రవేశపెట్టారు?\n1. పంజాబ్ మరియు హర్యానా\n2. పశ్చిమ ఉత్తరప్రదేశ్\n3. ఆంధ్రప్రదేశ్ మరియు గుజరాత్\nక్రింద ఇచ్చిన కోడ్‌ను ఉపయోగించి సరైన సమాధానాన్ని ఎంచుకోండి:",
+    "en": "Package technology comprising HYVs along with chemical fertilisers was initially introduced in the irrigated areas of which of the following states?\n1. Punjab and Haryana\n2. Western Uttar Pradesh\n3. Andhra Pradesh and Gujarat\nSelect the correct answer using the code given below:"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3",
+     "1 మాత్రమే"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1, 2 and 3",
+     "1 only"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పంజాబ్, హర్యానా, పశ్చిమ ఉత్తరప్రదేశ్, ఆంధ్రప్రదేశ్ మరియు గుజరాత్ రాష్ట్రాల్లోని నీటిపారుదల గల ప్రాంతాలలో ఈ ప్యాకేజీ సాంకేతికతను ప్రవేశపెట్టారు.",
+    "en": "The package technology of HYVs and chemical fertilisers was introduced in the irrigated areas of Punjab, Haryana, Western Uttar Pradesh, Andhra Pradesh, and Gujarat."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T25-0222",
+   "section": {
+    "te": "Commercial Dairy Belts",
+    "en": "Commercial Dairy Belts"
+   },
+   "q": {
+    "te": "ప్రపంచంలోని వాణిజ్య పాడి వ్యవసాయానికి చెందిన మూడు ప్రధాన ప్రాంతాలలో అతిపెద్ద ప్రాంతం ఏది?",
+    "en": "Which of the following is the largest of the three main regions of commercial dairy farming in the world?"
+   },
+   "options": {
+    "te": [
+     "న్యూజిలాండ్",
+     "వాయవ్య యూరప్",
+     "ఆగ్నేయ ఆస్ట్రేలియా",
+     "కెనడా"
+    ],
+    "en": [
+     "New Zealand",
+     "North Western Europe",
+     "South Eastern Australia",
+     "Canada"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వాణిజ్య పాడి వ్యవసాయం జరిగే మూడు ప్రధాన ప్రాంతాలలో వాయవ్య యూరప్ అతిపెద్దది కాగా, కెనడా రెండవ స్థానంలో ఉంది.",
+    "en": "There are three main belts of commercial dairy farming, of which the largest is North Western Europe, followed by Canada."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T25-0056",
+   "section": {
+    "te": "Beejamrit components",
+    "en": "Beejamrit components"
+   },
+   "q": {
+    "te": "విత్తన శుద్ధి కోసం ICAR అభివృద్ధి చేసిన 'బీజామృతం' పేస్ట్‌లోని ప్రధాన భాగాలు ఏవి?",
+    "en": "Which of the following are the primary components of the 'beejamrit' paste developed by ICAR for seed coating?"
+   },
+   "options": {
+    "te": [
+     "ఆవు పేడ",
+     "ఆవు పంచితం",
+     "A మరియు B రెండూ",
+     "తేనె మరియు నెయ్యి"
+    ],
+    "en": [
+     "Cow dung",
+     "Cow urine",
+     "Both A and B",
+     "Honey and ghee"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "బీజామృతం అనేది ఆవు పేడ మరియు పంచితం ఉపయోగించి ICAR అభివృద్ధి చేసిన పేస్ట్. ఇది విత్తనాలను రక్షించడానికి మరియు మొలకెత్తే సమయాన్ని తగ్గించడానికి ఉపయోగపడుతుంది.",
+    "en": "Beejamrit is a paste developed by ICAR using cow dung and urine, along with other materials, to protect seeds and reduce germination time."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T25-0286",
+   "section": {
+    "te": "Wheat Cultivation Altitude",
+    "en": "Wheat Cultivation Altitude"
+   },
+   "q": {
+    "te": "హిమాలయాలలో గోధుమ సాగు గరిష్టంగా ఎంత ఎత్తు వరకు కేంద్రీకృతమై ఉంది?",
+    "en": "In the Himalayas, wheat cultivation is concentrated up to what maximum altitude?"
+   },
+   "options": {
+    "te": [
+     "1,500 మీటర్లు",
+     "4,000 మీటర్లు",
+     "3,500 మీటర్లు",
+     "2,700 మీటర్లు"
+    ],
+    "en": [
+     "1,500 m",
+     "4,000 m",
+     "3,500 m",
+     "2,700 m"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "గోధుమ ప్రధానంగా సమశీతోష్ణ మండల పంట, మరియు హిమాలయాలలో ఇది 2,700 మీటర్ల ఎత్తు వరకు పండుతుంది.",
+    "en": "Wheat is primarily a crop of the temperate zone, and in the Himalayas, it is grown up to an altitude of 2,700 m."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T25-0061",
+   "section": {
+    "te": "Traditional soil ecosystem",
+    "en": "Traditional soil ecosystem"
+   },
+   "q": {
+    "te": "సాంప్రదాయ వ్యవసాయ వ్యవస్థల గురించి ఈ క్రింది ప్రకటనలను గమనించండి:\n1. నేల పోషకాలకు ప్రాథమిక వనరుగా పరిగణించబడుతుంది.\n2. నేలలోని బ్యాక్టీరియా మరియు శిలీంధ్రాలు వంటి జీవులు పోషకాలను మొక్కలు గ్రహించగలిగే రూపాల్లోకి మారుస్తాయి.\n3. మొక్కలు తమ వేర్ల ద్వారా నేలలోని జీవులకు శక్తిని అందిస్తాయి.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements about traditional farming systems:\n1. The soil is viewed as the primary source of nutrients.\n2. Soil organisms like bacteria and fungi convert nutrients into plant-absorbable forms.\n3. Plants supply energy to soil organisms through their roots.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సాంప్రదాయ వ్యవస్థలలో, నేల ప్రాథమిక పోషక వనరు, సూక్ష్మజీవులు ఈ పోషకాలను మారుస్తాయి మరియు మొక్కలు ప్రతిగా ఆ జీవులకు శక్తిని అందిస్తాయి.",
+    "en": "In traditional systems, soil is the primary nutrient source, organisms convert these nutrients, and plants provide energy to these organisms in return."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T25-0084",
+   "section": {
+    "te": "Challenges in Agriculture",
+    "en": "Challenges in Agriculture"
+   },
+   "q": {
+    "te": "చిన్న భూకమతాలు ఉన్న భారతీయ రైతులు ట్రాక్టర్లు మరియు ఇతర యంత్రాలను ఉపయోగించడం సాంప్రదాయకంగా ఎందుకు కష్టమవుతోంది?",
+    "en": "Why is it traditionally difficult for Indian farmers with small landholdings to use tractors and other machines?"
+   },
+   "options": {
+    "te": [
+     "చిన్న పొలాలకు ఎటువంటి యాంత్రిక సహాయం అవసరం లేదు",
+     "చిన్న పొలాల్లో యంత్రాల వాడకాన్ని ప్రభుత్వం నిషేధించింది",
+     "యంత్రాలు ఎక్కువగా పెద్ద పొలాల కోసం రూపొందించబడ్డాయి మరియు ఖరీదైనవి",
+     "ఈ యంత్రాలను నడపడానికి విద్యుత్ అందుబాటులో లేదు"
+    ],
+    "en": [
+     "Small farms do not require any mechanical assistance",
+     "The government prohibits the use of machines on small farms",
+     "Machines are mostly designed for larger farms and are expensive",
+     "There is no electricity available to run these machines"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "చాలా వ్యవసాయ యంత్రాలు పెద్ద ఎత్తున చేసే వ్యవసాయం కోసం రూపొందించబడ్డాయి మరియు వాటిని కొనడానికి లేదా అద్దెకు తీసుకోవడానికి అయ్యే అధిక ఖర్చు వల్ల చిన్న రైతులు వాటిని ఉపయోగించడం కష్టమవుతోంది.",
+    "en": "Most agricultural machinery is designed for large-scale farming and the high cost of buying or renting them makes it difficult for small-scale farmers to use them."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T25-0175",
+   "section": {
+    "te": "Bhoodan Movement",
+    "en": "Bhoodan Movement"
+   },
+   "q": {
+    "te": "శ్రీ రామచంద్రారెడ్డి 80 ఎకరాల భూమిని దానం చేసినప్పుడు తెలంగాణలోని ఏ ప్రాంతంలో భూదాన్ ఉద్యమం ప్రారంభమైంది?",
+    "en": "In which place in Telangana did the Bhoodan movement originate when Shri Ram Chandra Reddy offered 80 acres of land?"
+   },
+   "options": {
+    "te": [
+     "హైదరాబాద్",
+     "వరంగల్",
+     "పోచంపల్లి",
+     "నల్గొండ"
+    ],
+    "en": [
+     "Hyderabad",
+     "Warangal",
+     "Pochampally",
+     "Nalgonda"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వినోబా భావే ఉపన్యాసం ఇస్తున్న సమయంలో శ్రీ రామచంద్రారెడ్డి భూమి లేని గ్రామస్తులకు భూమిని అందించడంతో తెలంగాణలోని పోచంపల్లిలో భూదాన్ ఉద్యమం ప్రారంభమైంది.",
+    "en": "The Bhoodan movement started in Pochampally, Telangana, when Shri Ram Chandra Reddy offered land to landless villagers during Vinoba Bhave's lecture."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T25-0180",
+   "section": {
+    "te": "Farmer Schemes",
+    "en": "Farmer Schemes"
+   },
+   "q": {
+    "te": "రైతుల ప్రయోజనం కోసం భారత ప్రభుత్వం ప్రవేశపెట్టిన పథకాలు ఏవి?",
+    "en": "Which of the following schemes were introduced by the Government of India for the benefit of farmers?"
+   },
+   "options": {
+    "te": [
+     "కిసాన్ క్రెడిట్ కార్డ్ (KCC)",
+     "పర్సనల్ యాక్సిడెంట్ ఇన్సూరెన్స్ స్కీమ్ (PAIS)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Kisan Credit Card (KCC)",
+     "Personal Accident Insurance Scheme (PAIS)",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వ్యవసాయ రంగానికి ప్రయోజనం చేకూర్చడానికి ప్రభుత్వం ప్రవేశపెట్టిన పథకాలుగా KCC మరియు PAIS రెండూ పాఠ్యాంశంలో పేర్కొనబడ్డాయి.",
+    "en": "Both KCC and PAIS are specific schemes mentioned in the text that were introduced to benefit the farming community."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T25-0309",
+   "section": {
+    "te": "Cotton Types in India",
+    "en": "Cotton Types in India"
+   },
+   "q": {
+    "te": "భారతదేశంలోని వాయువ్య ప్రాంతాలలో పొడవైన పోగు కలిగిన అమెరికన్ పత్తిని ఏ పేరుతో పిలుస్తారు?",
+    "en": "What is the long-staple American cotton called in the north-western parts of India?"
+   },
+   "options": {
+    "te": [
+     "సర్సన్",
+     "తోరియా",
+     "తారామిరా",
+     "నర్మా"
+    ],
+    "en": [
+     "Sarson",
+     "Toria",
+     "Taramira",
+     "Narma"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశంలోని వాయువ్య ప్రాంతాలలో పొడవైన పోగు కలిగిన (అమెరికన్) పత్తిని 'నర్మా' అని పిలుస్తారు.",
+    "en": "In the north-western parts of India, long staple (American) cotton is known as 'narma'."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T25-0058",
+   "section": {
+    "te": "Kulāgar farming",
+    "en": "Kulāgar farming"
+   },
+   "q": {
+    "te": "భారతదేశంలోని ఏ ప్రాంతంలో 'కులాగర్' (Kulāgar) అని పిలువబడే సాంప్రదాయ గృహ ఆధారిత వ్యవసాయ పద్ధతి సాధారణంగా అమలులో ఉంది?",
+    "en": "In which region of India is the traditional homestead farming system known as 'Kulāgar' commonly practiced?"
+   },
+   "options": {
+    "te": [
+     "మలబార్ తీరం",
+     "సింధు-గంగా మైదానాలు",
+     "కొంకణ్ మైదానాలు (గోవా)",
+     "కోరమాండల్ తీరం"
+    ],
+    "en": [
+     "Malabar Coast",
+     "Indo-Gangetic Plains",
+     "Konkan Plains (Goa)",
+     "Coromandel Coast"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కులాగర్ అనేది కొంకణ్ మైదానాల్లో, ముఖ్యంగా గోవాలో ప్రబలంగా ఉన్న సాంప్రదాయ కుటుంబ ఆధారిత వ్యవసాయ పద్ధతి.",
+    "en": "Kulāgar is a traditional family-based farming system prevalent in the Konkan Plains, specifically in Goa."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T25-0168",
+   "section": {
+    "te": "Horticulture production rank",
+    "en": "Horticulture production rank"
+   },
+   "q": {
+    "te": "2020లో, ఈ క్రింది వాటిలో దేని ఉత్పత్తిలో భారతదేశం ప్రపంచంలో రెండవ స్థానంలో ఉంది?",
+    "en": "In 2020, India ranked second in the world in the production of which of the following?"
+   },
+   "options": {
+    "te": [
+     "కాఫీ",
+     "రబ్బరు",
+     "పండ్లు మరియు కూరగాయలు",
+     "జనపనార"
+    ],
+    "en": [
+     "Coffee",
+     "Rubber",
+     "Fruits and vegetables",
+     "Jute"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "2020 నాటికి, చైనా తర్వాత పండ్లు మరియు కూరగాయల ఉత్పత్తిలో భారతదేశం ప్రపంచంలో రెండవ అతిపెద్ద దేశంగా ఉంది.",
+    "en": "As of 2020, India was the world's second-largest producer of fruits and vegetables, following China."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T25-0351",
+   "section": {
+    "te": "Tubewell Irrigation Punjab",
+    "en": "Tubewell Irrigation Punjab"
+   },
+   "q": {
+    "te": "పంజాబ్‌లోని మొత్తం నికర నీటిపారుదల విస్తీర్ణంలో బావులు మరియు బోరుబావుల (ట్యూబ్‌వెల్స్) ద్వారా ఎంత శాతం సాగవుతోంది?",
+    "en": "Of the total net irrigated area in Punjab, what percentage is irrigated through wells and tubewells?"
+   },
+   "options": {
+    "te": [
+     "76.1 శాతం",
+     "85.0 శాతం",
+     "65.4 శాతం",
+     "51.3 శాతం"
+    ],
+    "en": [
+     "76.1 per cent",
+     "85.0 per cent",
+     "65.4 per cent",
+     "51.3 per cent"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పంజాబ్‌లో మొత్తం నికర నీటిపారుదల విస్తీర్ణంలో 76.1 శాతం బావులు మరియు బోరుబావుల ద్వారా సాగవుతోంది.",
+    "en": "In Punjab, 76.1 per cent of the total net irrigated area is irrigated through wells and tubewells."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T25-0317",
+   "section": {
+    "te": "Rapeseed Mustard Area",
+    "en": "Rapeseed Mustard Area"
+   },
+   "q": {
+    "te": "భారతదేశంలోని మొత్తం సాగు విస్తీర్ణంలో రేప్‌సీడ్ మరియు ఆవాలు కలిసి ఎంత శాతాన్ని ఆక్రమించాయి?",
+    "en": "Rapeseed and mustard together occupy about what percentage of the total cropped area in India?"
+   },
+   "options": {
+    "te": [
+     "8.5 శాతం",
+     "4.7 శాతం",
+     "0.5 శాతం",
+     "2.5 శాతం"
+    ],
+    "en": [
+     "8.5 per cent",
+     "4.7 per cent",
+     "0.5 per cent",
+     "2.5 per cent"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రేప్‌సీడ్ మరియు ఆవాలు కలిసి దేశంలోని మొత్తం సాగు విస్తీర్ణంలో దాదాపు 2.5 శాతాన్ని మాత్రమే ఆక్రమించాయి.",
+    "en": "Rapeseed and mustard comprise several oilseeds and together occupy only about 2.5 per cent of the total cropped area in the country."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T25-0074",
+   "section": {
+    "te": "Organic Fertilizers",
+    "en": "Organic Fertilizers"
+   },
+   "q": {
+    "te": "సేంద్రీయ వ్యవసాయం సందర్భంలో, 'సీడ్ కేక్' (seed cake) అంటే ఏమిటి?",
+    "en": "In the context of organic farming, what is 'seed cake'?"
+   },
+   "options": {
+    "te": [
+     "వేపతో తయారు చేసిన ఒక రకమైన సేంద్రీయ పురుగుమందు",
+     "నాటడానికి ఉపయోగించే విత్తనాలు మరియు కంపోస్ట్ మిశ్రమం",
+     "విత్తనాల పెరుగుదలను పెంచడానికి ఉపయోగించే రసాయన ఎరువు",
+     "విత్తనాల నుండి నూనె తీసిన తర్వాత మిగిలిన అవశేషం"
+    ],
+    "en": [
+     "A type of organic pesticide made from neem",
+     "A mixture of seeds and compost used for planting",
+     "A chemical fertilizer used to boost seed growth",
+     "The residue left after oil is extracted from seeds"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "విత్తనాల నుండి నూనెను తీసిన తర్వాత మిగిలిపోయే అవశేషాన్ని సీడ్ కేక్ అంటారు మరియు దీనిని సేంద్రీయ వ్యవసాయంలో సహజ ఎరువుగా ఉపయోగిస్తారు.",
+    "en": "Seed cake is the residue remaining after oil has been extracted from seeds and is used as a natural fertilizer in organic farming."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T25-0198",
+   "section": {
+    "te": "Subsistence Agriculture Concept",
+    "en": "Subsistence Agriculture Concept"
+   },
+   "q": {
+    "te": "స్థానికంగా పండించే ఉత్పత్తులన్నింటినీ లేదా దాదాపుగా చాలా భాగాన్ని ఆ వ్యవసాయ ప్రాంతాల ప్రజలే వినియోగించుకునే వ్యవసాయ విధానాన్ని ఏమంటారు?",
+    "en": "Which type of agriculture is characterised by farming areas consuming all, or nearly so, of the locally grown products?"
+   },
+   "options": {
+    "te": [
+     "జీవనాధార వ్యవసాయం (Subsistence agriculture)",
+     "మిశ్రమ వ్యవసాయం",
+     "తోటల పెంపకం (Plantation agriculture)",
+     "వాణిజ్య వ్యవసాయం"
+    ],
+    "en": [
+     "Subsistence agriculture",
+     "Mixed farming",
+     "Plantation agriculture",
+     "Commercial agriculture"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పండించిన పంటను స్థానికంగానే దాదాపు పూర్తిగా వినియోగించుకునే వ్యవసాయాన్ని జీవనాధార వ్యవసాయం (Subsistence agriculture) అంటారు.",
+    "en": "Subsistence agriculture is one in which the farming areas consume all, or nearly all, of the locally grown produce."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T25-0103",
+   "section": {
+    "te": "Forest Policy",
+    "en": "Forest Policy"
+   },
+   "q": {
+    "te": "జాతీయ అటవీ విధానం (1952) ప్రకారం, పర్యావరణ సమతుల్యతను కాపాడటానికి భారతదేశంలో ఉండాల్సిన అటవీ విస్తీర్ణం శాతం ఎంత?",
+    "en": "According to the National Forest Policy (1952), what is the desired percentage of forest area in India for maintaining ecological balance?"
+   },
+   "options": {
+    "te": [
+     "21 శాతం",
+     "50 శాతం",
+     "25 శాతం",
+     "33 శాతం"
+    ],
+    "en": [
+     "21 per cent",
+     "50 per cent",
+     "25 per cent",
+     "33 per cent"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పర్యావరణ సమతుల్యత కోసం భౌగోళిక వైశాల్యంలో 33 శాతం అటవీ విస్తీర్ణం ఉండాలని 1952 నాటి జాతీయ అటవీ విధానం పేర్కొంది.",
+    "en": "The National Forest Policy of 1952 outlined that 33% of the geographical area should be under forest cover for ecological balance."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T25-0153",
+   "section": {
+    "te": "Ragi nutritional value",
+    "en": "Ragi nutritional value"
+   },
+   "q": {
+    "te": "రాగి అనేది ఈ క్రింది వాటిలో దేనితో సమృద్ధిగా ఉన్న అత్యంత పోషకమైన ముతక ధాన్యం?",
+    "en": "Ragi is a highly nutritional coarse grain rich in which of the following?"
+   },
+   "options": {
+    "te": [
+     "ఇనుము",
+     "కాల్షియం",
+     "పీచు పదార్థం (Roughage)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Iron",
+     "Calcium",
+     "Roughage",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రాగిలో ఇనుము, కాల్షియం, ఇతర సూక్ష్మ పోషకాలు మరియు పీచు పదార్థం పుష్కలంగా ఉంటాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Ragi is very rich in iron, calcium, other micro nutrients, and roughage."
+   }
+  }
+ ]
+}

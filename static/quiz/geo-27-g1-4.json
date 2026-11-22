@@ -1,0 +1,942 @@
+{
+ "id": "geo-27-g1-4",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Transport – క్విజ్ 4",
+  "en": "Transport – Quiz 4"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T27-0228",
+   "section": {
+    "te": "NHAI Establishment",
+    "en": "NHAI Establishment"
+   },
+   "q": {
+    "te": "నేషనల్ హైవేస్ అథారిటీ ఆఫ్ ఇండియా (NHAI) ఏ సంవత్సరంలో పని చేయడం ప్రారంభించింది?",
+    "en": "In which year was the National Highways Authority of India (NHAI) operationalised?"
+   },
+   "options": {
+    "te": [
+     "1995",
+     "2001",
+     "1943",
+     "1961"
+    ],
+    "en": [
+     "1995",
+     "2001",
+     "1943",
+     "1961"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "జాతీయ రహదారుల అభివృద్ధి కోసం స్వయంప్రతిపత్తి కలిగిన సంస్థ అయిన NHAI, 1995లో పని చేయడం ప్రారంభించింది.",
+    "en": "NHAI, an autonomous body for the development of National Highways, became operational in 1995."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T27-0236",
+   "section": {
+    "te": "Border Road Organisation",
+    "en": "Border Road Organisation"
+   },
+   "q": {
+    "te": "బోర్డర్ రోడ్ ఆర్గనైజేషన్ (BRO) కి సంబంధించి క్రింది ప్రకటనలను పరిగణనలోకి తీసుకోండి:\n1. ఇది మే 1960లో స్థాపించబడింది.\n2. దీని ప్రాథమిక లక్ష్యం ఉత్తర మరియు ఈశాన్య సరిహద్దుల వెంబడి రక్షణ సంసిద్ధతను బలోపేతం చేయడం.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the Border Road Organisation (BRO):\n1. It was established in May 1960.\n2. Its primary objective is to strengthen defence preparedness along the northern and north-eastern boundaries.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఆర్థికాభివృద్ధిని వేగవంతం చేయడానికి మరియు ఉత్తర మరియు ఈశాన్య సరిహద్దుల వెంబడి రక్షణ సంసిద్ధతను బలోపేతం చేయడానికి మే 1960లో BRO స్థాపించబడింది.",
+    "en": "The BRO was established in May 1960 to accelerate economic development and strengthen defence preparedness along the northern and north-eastern boundaries."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T27-0340",
+   "section": {
+    "te": "UDAN Scheme Statistics",
+    "en": "UDAN Scheme Statistics"
+   },
+   "q": {
+    "te": "2017 నుండి ఉడాన్ (UDAN) పథకం కింద, భారతదేశంలో ఎన్ని హెలిపోర్ట్‌లు మరియు వాటర్ ఏరోడ్రోమ్‌లు అందుబాటులోకి వచ్చాయి?",
+    "en": "Under the UDAN scheme since 2017, how many heliports and water aerodromes have been operationalized in India?"
+   },
+   "options": {
+    "te": [
+     "7 హెలిపోర్ట్‌లు మరియు 3 వాటర్ ఏరోడ్రోమ్‌లు",
+     "9 హెలిపోర్ట్‌లు మరియు 2 వాటర్ ఏరోడ్రోమ్‌లు",
+     "5 హెలిపోర్ట్‌లు మరియు 5 వాటర్ ఏరోడ్రోమ్‌లు",
+     "2 హెలిపోర్ట్‌లు మరియు 9 వాటర్ ఏరోడ్రోమ్‌లు"
+    ],
+    "en": [
+     "7 Heliports and 3 water aerodromes",
+     "9 Heliports and 2 water aerodromes",
+     "5 Heliports and 5 water aerodromes",
+     "2 Heliports and 9 water aerodromes"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఉడాన్ పథకం కింద 73 ఉపయోగించని/తక్కువగా ఉపయోగిస్తున్న విమానాశ్రయాలు అందుబాటులోకి వచ్చాయని, ఇందులో 9 హెలిపోర్ట్‌లు మరియు 2 వాటర్ ఏరోడ్రోమ్‌లు ఉన్నాయని మూలం పేర్కొంది.",
+    "en": "Under the UDAN scheme, 73 unserved/underserved airports were operationalized, which includes 9 heliports and 2 water aerodromes."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T27-0100",
+   "section": {
+    "te": "North American Highways",
+    "en": "North American Highways"
+   },
+   "q": {
+    "te": "ఉత్తర అమెరికాలోని హైవేలకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. హైవే సాంద్రత చదరపు కిలోమీటరుకు సుమారు 0.65 కి.మీ.\n2. ప్రతి ప్రాంతం హైవే నుండి 20 కి.మీ దూరంలో ఉంటుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding highways in North America:\n1. The highway density is approximately 0.65 km per sq km.\n2. Every place is located within a 20 km distance from a highway.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం రెండు ప్రకటనలు సరైనవే: సాంద్రత 0.65 కి.మీ/చ.కి.మీ మరియు ప్రతి ప్రాంతం హైవేకి 20 కి.మీ పరిధిలో ఉంటుంది.",
+    "en": "Both statements are correct as per the text: the density is 0.65 km/sq km and every place is within 20 km of a highway."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T27-0054",
+   "section": {
+    "te": "Economic Barometer",
+    "en": "Economic Barometer"
+   },
+   "q": {
+    "te": "కింది వాటిలో దేనిని ఒక దేశం యొక్క 'ఆర్థిక బారోమీటర్' (ఆర్థిక శ్రేయస్సుకు కొలమానం)గా పరిగణిస్తారు?",
+    "en": "Which of the following is considered the 'economic barometer' for a country?"
+   },
+   "options": {
+    "te": [
+     "వస్తువుల అంతర్గత వినియోగం",
+     "అంతర్జాతీయ వాణిజ్య పురోగతి",
+     "మొత్తం వ్యవసాయ ఉత్పత్తి",
+     "రహదారి నెట్‌వర్క్ సాంద్రత"
+    ],
+    "en": [
+     "Internal consumption of goods",
+     "Advancement of international trade",
+     "Total agricultural production",
+     "Density of road network"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఒక దేశం యొక్క అంతర్జాతీయ వాణిజ్య పురోగతి దాని ఆర్థిక శ్రేయస్సుకు సూచిక, కాబట్టి దీనిని ఆ దేశ ఆర్థిక బారోమీటర్‌గా పరిగణిస్తారు.",
+    "en": "The advancement of international trade of a country is an index to its economic prosperity, and is therefore considered the economic barometer for a country."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T27-0155",
+   "section": {
+    "te": "Suez Canal Traffic",
+    "en": "Suez Canal Traffic"
+   },
+   "q": {
+    "te": "సూయజ్ కాలువ గుండా రోజుకు సుమారు ఎన్ని నౌకలు ప్రయాణిస్తాయి, మరియు ఆ కాలువను దాటడానికి ఒక్కో నౌకకు ఎంత సమయం పడుతుంది?",
+    "en": "Approximately how many ships travel daily through the Suez Canal, and how long does each ship take to cross it?"
+   },
+   "options": {
+    "te": [
+     "రోజుకు సుమారు 200 నౌకలు; 24 గంటలు",
+     "రోజుకు సుమారు 100 నౌకలు; 10-12 గంటలు",
+     "రోజుకు సుమారు 150 నౌకలు; 18-20 గంటలు",
+     "రోజుకు సుమారు 50 నౌకలు; 6-8 గంటలు"
+    ],
+    "en": [
+     "About 200 ships daily; 24 hours",
+     "About 100 ships daily; 10-12 hours",
+     "About 150 ships daily; 18-20 hours",
+     "About 50 ships daily; 6-8 hours"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం ప్రతిరోజూ దాదాపు 100 నౌకలు ప్రయాణిస్తాయి మరియు కాలువను దాటడానికి ప్రతి నౌకకు 10-12 గంటల సమయం పడుతుంది.",
+    "en": "About 100 ships travel daily through the Suez Canal, and each ship takes 10 to 12 hours to cross it."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T27-0066",
+   "section": {
+    "te": "Communication independence",
+    "en": "Communication independence"
+   },
+   "q": {
+    "te": "కింది వాటిలో ఏ పురోగతి సమాచార ప్రసారాన్ని (కమ్యూనికేషన్లను) రవాణాపై ఆధారపడకుండా స్వతంత్రంగా మార్చింది?",
+    "en": "Which of the following developments have made communications independent of transport?"
+   },
+   "options": {
+    "te": [
+     "మొబైల్ టెలిఫోనీ",
+     "ఉపగ్రహాలు (శాటిలైట్లు)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Mobile telephony",
+     "Satellites",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మొబైల్ టెలిఫోనీ మరియు ఉపగ్రహాల వంటి పరిణామాలు సమాచార ప్రసారాన్ని రవాణా సాధనాలపై ఆధారపడకుండా స్వతంత్రంగా మార్చాయని పాఠ్యాంశం పేర్కొంది.",
+    "en": "Certain developments, such as mobile telephony and satellites, have made communications independent of transport."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T27-0297",
+   "section": {
+    "te": "Agriculture Export Trends",
+    "en": "Agriculture Export Trends"
+   },
+   "q": {
+    "te": "వ్యవసాయ ఎగుమతుల వాటాలో మొత్తం తగ్గుదల ఉన్నప్పటికీ, ఈ క్రింది వాటిలో ఏ వస్తువుల ఎగుమతులు పెరిగాయి?",
+    "en": "Despite an overall decline in the share of agricultural exports, which of the following items have registered an increase in exports?"
+   },
+   "options": {
+    "te": [
+     "ఫ్లోరికల్చరల్ (పుష్పకృషి) ఉత్పత్తులు",
+     "తాజా పండ్లు మరియు సముద్ర ఉత్పత్తులు",
+     "చక్కెర",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Floricultural products",
+     "Fresh fruits and Marine products",
+     "Sugar",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జీడిపప్పు వంటి సాంప్రదాయ వస్తువులు తగ్గినప్పటికీ, పుష్పకృషి, తాజా పండ్లు, సముద్ర ఉత్పత్తులు మరియు చక్కెర ఎగుమతులు పెరిగాయి.",
+    "en": "While traditional items like cashew declined, exports of floriculture, fresh fruits, marine products, and sugar increased."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T27-0119",
+   "section": {
+    "te": "Railway Gauges",
+    "en": "Railway Gauges"
+   },
+   "q": {
+    "te": "యునైటెడ్ కింగ్‌డమ్‌లో కింది ఏ రైల్వే గేజ్‌ని ఉపయోగిస్తున్నట్లు ప్రత్యేకంగా పేర్కొనబడింది?",
+    "en": "Which of the following railway gauges is specifically mentioned as being used in the United Kingdom?"
+   },
+   "options": {
+    "te": [
+     "చిన్న గేజ్",
+     "బ్రాడ్ గేజ్",
+     "ప్రామాణిక గేజ్",
+     "మీటర్ గేజ్"
+    ],
+    "en": [
+     "Smaller gauge",
+     "Broad gauge",
+     "Standard gauge",
+     "Metre gauge"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "UKలో ప్రామాణిక గేజ్ (1.44 మీ) ఉపయోగించబడుతుందని పాఠ్య భాగం స్పష్టంగా పేర్కొంది.",
+    "en": "The standard gauge (1.44 m) is used in the U.K."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T27-0267",
+   "section": {
+    "te": "Pawan Hans Services",
+    "en": "Pawan Hans Services"
+   },
+   "q": {
+    "te": "పవన్ హన్స్ లిమిటెడ్ ఈ క్రింది ఏ రంగాలకు హెలికాప్టర్ సేవలను అందిస్తుంది?",
+    "en": "Pawan Hans Limited provides helicopter services to which of the following sectors?"
+   },
+   "options": {
+    "te": [
+     "పెట్రోలియం రంగం",
+     "పర్యాటక రంగం",
+     "కొండ ప్రాంతాలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Petroleum sector",
+     "Tourism",
+     "Hilly areas",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పవన్ హన్స్ కొండ ప్రాంతాలలో (ముఖ్యంగా ఈశాన్య ప్రాంతం), పెట్రోలియం రంగానికి సేవలను అందిస్తుంది మరియు పర్యాటక రంగానికి మద్దతు ఇస్తుంది.",
+    "en": "Pawan Hans operates in hilly areas (especially the North-eastern sector), provides services to the petroleum sector, and supports tourism."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T27-0276",
+   "section": {
+    "te": "Radio History",
+    "en": "Radio History"
+   },
+   "q": {
+    "te": "భారత ప్రభుత్వ రేడియో సేవ కోసం ఉపయోగించిన ఈ క్రింది పేర్లను పరిగణించండి మరియు వాటిని స్వీకరించిన కాలక్రమానుసారం అమర్చండి:\n1. ఆకాశవాణి\n2. ఇండియన్ బ్రాడ్‌కాస్టింగ్ సిస్టమ్\n3. ఆల్ ఇండియా రేడియో",
+    "en": "Consider the following names used for the Indian government's radio service and arrange them in chronological order of their adoption:\n1. Akashwani\n2. Indian Broadcasting System\n3. All India Radio"
+   },
+   "options": {
+    "te": [
+     "2-3-1",
+     "1-2-3",
+     "3-2-1",
+     "2-1-3"
+    ],
+    "en": [
+     "2-3-1",
+     "1-2-3",
+     "3-2-1",
+     "2-1-3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రభుత్వం 1930లో ఇండియన్ బ్రాడ్‌కాస్టింగ్ సిస్టమ్‌గా నియంత్రణను చేపట్టింది, 1936లో ఆల్ ఇండియా రేడియోగా మరియు చివరకు 1957లో ఆకాశవాణిగా మార్చింది.",
+    "en": "The government took control in 1930 as the Indian Broadcasting System, changed it to All India Radio in 1936, and finally to Akashwani in 1957."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T27-0096",
+   "section": {
+    "te": "Global Road Statistics",
+    "en": "Global Road Statistics"
+   },
+   "q": {
+    "te": "ప్రపంచంలోని మొత్తం 15 మిలియన్ కిలోమీటర్ల మోటారు యోగ్యమైన రహదారి పొడవులో 33 శాతం ఏ ఖండంలో ఉంది?",
+    "en": "Which continent accounts for 33 per cent of the world's total motorable road length of 15 million km?"
+   },
+   "options": {
+    "te": [
+     "ఆఫ్రికా",
+     "ఆసియా",
+     "పశ్చిమ యూరప్",
+     "ఉత్తర అమెరికా"
+    ],
+    "en": [
+     "Africa",
+     "Asia",
+     "Western Europe",
+     "North America"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ప్రపంచంలోని మొత్తం మోటారు రహదారి పొడవులో 33 శాతం ఉత్తర అమెరికాలోనే ఉంది.",
+    "en": "North America accounts for 33 per cent of the world's total motorable road length."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T27-0130",
+   "section": {
+    "te": "Trans-Siberian stations",
+    "en": "Trans-Siberian stations"
+   },
+   "q": {
+    "te": "ట్రాన్స్-సైబీరియన్ రైల్వే మార్గంలో, ఇర్కుట్స్క్ (Irkutsk) నగరం క్రింది వాటిలో ఏ కేంద్రంగా ప్రసిద్ధి చెందింది?",
+    "en": "Along the Trans-Siberian Railway route, Irkutsk is recognized as which of the following centres?"
+   },
+   "options": {
+    "te": [
+     "రైచు/ఉన్ని (ఫర్ - fur) కేంద్రం",
+     "ఓడల నిర్మాణ కేంద్రం",
+     "వస్త్ర పరిశ్రమ కేంద్రం",
+     "వ్యవసాయ కేంద్రం"
+    ],
+    "en": [
+     "A fur centre",
+     "A ship-building centre",
+     "A textile centre",
+     "An agro-centre"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "టెక్స్ట్ ప్రకారం, ట్రాన్స్-సైబీరియన్ మార్గంలో చితా ఒక ముఖ్యమైన వ్యవసాయ కేంద్రం కాగా, ఇర్కుట్స్క్ ఒక బొచ్చు/ఫర్ (fur) కేంద్రం.",
+    "en": "Along the Trans-Siberian Railway route, Chita is an important agro-centre and Irkutsk is a fur centre."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T27-0344",
+   "section": {
+    "te": "Port Characteristics",
+    "en": "Port Characteristics"
+   },
+   "q": {
+    "te": "ఈ క్రింది ఓడరేవులను వాటి ప్రత్యేక లక్షణాలతో జతపరచండి:\n1. పారాదీప్ ఓడరేవు - i. హుగ్లీ నదిపై 128 కి.మీ లోపలికి ఉంది\n2. విశాఖపట్నం ఓడరేవు - ii. పెద్ద నౌకల కోసం లోతైన నౌకాశ్రయం\n3. కోల్‌కతా ఓడరేవు - iii. భూపరివేష్టిత నౌకాశ్రయం",
+    "en": "Match the following ports with their specific characteristics:\n1. Paradwip Port - i. 128 km inland on Hugli river\n2. Visakhapatnam Port - ii. Deepest harbour for large vessels\n3. Kolkata Port - iii. Land-locked harbour"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-iii, 3-i",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-i, 3-iii"
+    ],
+    "en": [
+     "1-ii, 2-iii, 3-i",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-i, 3-iii"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పారాదీప్ అత్యంత లోతైన నౌకాశ్రయాన్ని కలిగి ఉంది, విశాఖపట్నం భూపరివేష్టితమైనది మరియు కోల్‌కతా హుగ్లీ నదిపై 128 కిలోమీటర్ల లోపలికి ఉంది.",
+    "en": "Paradwip has the deepest harbour, Visakhapatnam is land-locked, and Kolkata is located 128 km inland on the Hugli river."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T27-0196",
+   "section": {
+    "te": "World Harbours",
+    "en": "World Harbours"
+   },
+   "q": {
+    "te": "ప్రపంచంలోనే అతిపెద్ద భూపరివేష్టిత నౌకాశ్రయం (land-locked harbour) ఏది?",
+    "en": "Which of the following is the largest land-locked harbour in the world?"
+   },
+   "options": {
+    "te": [
+     "శాన్ ఫ్రాన్సిస్కో",
+     "న్యూయార్క్",
+     "లండన్",
+     "లెనిన్ గ్రాడ్"
+    ],
+    "en": [
+     "San Francisco",
+     "New York",
+     "London",
+     "Leningrad"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వనరుల ప్రకారం, శాన్ ఫ్రాన్సిస్కో ప్రపంచంలోనే అతిపెద్ద భూపరివేష్టిత నౌకాశ్రయంగా గుర్తించబడింది.",
+    "en": "San Francisco is identified as the largest land-locked harbour in the world."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T27-0127",
+   "section": {
+    "te": "Andes trans-continental route",
+    "en": "Andes trans-continental route"
+   },
+   "q": {
+    "te": "బ్యూనస్ ఎయిర్స్ (అర్జెంటీనా) మరియు వాల్పరైసో (చిలీ) లను కలిపే ట్రాన్స్-కాంటినెంటల్ రైలు మార్గం 3,900 మీటర్ల ఎత్తులో ఉన్న ఏ కనుమ గుండా వెళుతుంది?",
+    "en": "Through which mountain pass does the trans-continental rail route linking Buenos Aires (Argentina) with Valparaiso (Chile) pass at a height of 3,900 m?"
+   },
+   "options": {
+    "te": [
+     "బోలన్ కనుమ",
+     "ఉస్పల్లాట్టా కనుమ (Uspallatta Pass)",
+     "ఖైబర్ కనుమ",
+     "బ్రెన్నర్ కనుమ"
+    ],
+    "en": [
+     "Bolan Pass",
+     "Uspallatta Pass",
+     "Khyber Pass",
+     "Brenner Pass"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "బ్యూనస్ ఎయిర్స్ మరియు వాల్పరైసోలను అనుసంధానించే ఏకైక ట్రాన్స్-కాంటినెంటల్ రైలు మార్గం ఆండీస్ పర్వతాల గుండా 3,900 మీటర్ల ఎత్తులో ఉన్న ఉస్పల్లాట్టా కనుమ మీదుగా వెళుతుంది.",
+    "en": "The trans-continental rail line linking Buenos Aires with Valparaiso crosses the Andes Mountains through the Uspallatta Pass at an elevation of 3,900 m."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T27-0045",
+   "section": {
+    "te": "National Waterway 2",
+    "en": "National Waterway 2"
+   },
+   "q": {
+    "te": "సాదియా మరియు ధుబ్రి మధ్య ఉన్న బ్రహ్మపుత్ర నదీ మార్గాన్ని (891 కి.మీ) ఏ జాతీయ జలమార్గంగా ప్రకటించారు?",
+    "en": "The stretch of the Brahmaputra river between Sadiya and Dhubri (891 km) is designated as which National Waterway?"
+   },
+   "options": {
+    "te": [
+     "N.W. నం. 3",
+     "N.W. నం. 4",
+     "N.W. నం. 2",
+     "N.W. నం. 1"
+    ],
+    "en": [
+     "N.W. No. 3",
+     "N.W. No. 4",
+     "N.W. No. 2",
+     "N.W. No. 1"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సాదియా మరియు ధుబ్రి మధ్య గల బ్రహ్మపుత్ర నదిని జాతీయ జలమార్గం నం. 2గా గుర్తించారు.",
+    "en": "The Brahmaputra river stretch between Sadiya and Dhubri (891 km) is designated as National Waterway No. 2."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T27-0035",
+   "section": {
+    "te": "Konkan railway problems",
+    "en": "Konkan railway problems"
+   },
+   "q": {
+    "te": "పశ్చిమ తీరం వెంట ఉన్న కొంకణ్ రైల్వే క్రింది సమస్యలలో వేటిని ఎదుర్కొంది?",
+    "en": "Which of the following problems has been faced by the Konkan railway along the west coast?"
+   },
+   "options": {
+    "te": [
+     "కొన్ని ప్రాంతాల్లో ట్రాక్ కుంగిపోవడం",
+     "కొండచరియలు విరిగిపడటం",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Sinking of track in some stretches",
+     "Landslides",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కొంకణ్ రైల్వే కొన్ని ప్రాంతాలలో ట్రాక్ కుంగిపోవడం మరియు కొండచరియలు విరిగిపడటం వంటి సమస్యలను ఎదుర్కొంది.",
+    "en": "The Konkan railway along the west coast has faced problems such as sinking of track in some stretches and landslides."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T27-0003",
+   "section": {
+    "te": "Thenmala Ecotourism",
+    "en": "Thenmala Ecotourism"
+   },
+   "q": {
+    "te": "భారతదేశపు మొట్టమొదటి ప్రణాళికాబద్ధమైన ఎకో టూరిజం గమ్యస్థానమైన 'తెన్మల' కేరళలోని ఏ జిల్లాలో ఉంది?",
+    "en": "In which district of Kerala is India's first planned ecotourism destination, Thenmala, located?"
+   },
+   "options": {
+    "te": [
+     "కొల్లాం",
+     "వాయనాడ్",
+     "ఇడుక్కి",
+     "పాలక్కాడ్"
+    ],
+    "en": [
+     "Kollam",
+     "Wayanad",
+     "Idukki",
+     "Palakkad"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భారతదేశపు మొట్టమొదటి ప్రణాళికాబద్ధమైన ఎకో టూరిజం గమ్యస్థానమైన తెన్మల కేరళలోని కొల్లాం జిల్లాలో ఉంది.",
+    "en": "Thenmala, which is India's first planned ecotourism destination, is located in the Kollam district of Kerala."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T27-0308",
+   "section": {
+    "te": "Import Shifts",
+    "en": "Import Shifts"
+   },
+   "q": {
+    "te": "1973 నాటి ఇంధన సంక్షోభం తర్వాత, భారతదేశ దిగుమతి బుట్టలో ఆహార ధాన్యాల దిగుమతుల స్థానంలో ప్రధానంగా ఏ వస్తువులు వచ్చాయి?",
+    "en": "Following the energy crisis of 1973, which items primarily replaced foodgrain imports in India's import basket?"
+   },
+   "options": {
+    "te": [
+     "ముత్యాలు మరియు విలువైన రాళ్లు",
+     "తినదగిన నూనె మరియు రసాయనాలు",
+     "మూలధన వస్తువులు మరియు యంత్రాలు",
+     "ఎరువులు మరియు పెట్రోలియం"
+    ],
+    "en": [
+     "Pearls and precious stones",
+     "Edible oil and chemicals",
+     "Capital goods and machinery",
+     "Fertilisers and petroleum"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "1973 ఇంధన సంక్షోభం తర్వాత, ఆహార ధాన్యాల దిగుమతుల స్థానంలో ఎరువులు మరియు పెట్రోలియం వచ్చాయని మూలం పేర్కొంది.",
+    "en": "After the 1973 energy crisis, foodgrain imports were replaced by fertilisers and petroleum."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T27-0122",
+   "section": {
+    "te": "Blue Train",
+    "en": "Blue Train"
+   },
+   "q": {
+    "te": "రిపబ్లిక్ ఆఫ్ సౌత్ ఆఫ్రికాలోని ప్రసిద్ధ 'బ్లూ ట్రైన్' ఏ రెండు నగరాల మధ్య నడుస్తుంది?",
+    "en": "The famous 'Blue Train' in the Republic of South Africa runs between which two cities?"
+   },
+   "options": {
+    "te": [
+     "కేప్ టౌన్ మరియు ప్రిటోరియా",
+     "జోహన్నెస్‌బర్గ్ మరియు డర్బన్",
+     "అల్జీర్స్ మరియు కొనక్రీ",
+     "కైరో మరియు కేప్ టౌన్"
+    ],
+    "en": [
+     "Cape Town and Pretoria",
+     "Johannesburg and Durban",
+     "Algiers and Conakry",
+     "Cairo and Cape Town"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "బ్లూ ట్రైన్ అనేది కేప్ టౌన్‌ను ప్రిటోరియాతో కలిపే ఒక నిర్దిష్ట మార్గం అని పాఠ్య భాగంలో పేర్కొనబడింది.",
+    "en": "The Blue Train is a specific route mentioned in the text that connects Cape Town to Pretoria."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T27-0247",
+   "section": {
+    "te": "First Indian Railway",
+    "en": "First Indian Railway"
+   },
+   "q": {
+    "te": "1853లో బొంబాయి మరియు థానే మధ్య నిర్మించిన మొదటి భారతీయ రైల్వే లైన్ ఎన్ని కిలోమీటర్ల దూరాన్ని కవర్ చేసింది?",
+    "en": "The first Indian Railway line constructed in 1853 between Bombay and Thane covered a distance of how many kilometres?"
+   },
+   "options": {
+    "te": [
+     "54 కి.మీ",
+     "44 కి.మీ",
+     "34 కి.మీ",
+     "24 కి.మీ"
+    ],
+    "en": [
+     "54 km",
+     "44 km",
+     "34 km",
+     "24 km"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతదేశంలో మొదటి రైల్వే లైన్ 1853లో ప్రవేశపెట్టబడింది, ఇది బొంబాయి నుండి థానే వరకు 34 కిలోమీటర్ల దూరాన్ని కలుపుతుంది.",
+    "en": "The first railway line in India was introduced in 1853, connecting Bombay to Thane over a distance of 34 km."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T27-0327",
+   "section": {
+    "te": "Chennai Port",
+    "en": "Chennai Port"
+   },
+   "q": {
+    "te": "చెన్నై పోర్ట్ గురించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది 1859లో నిర్మించబడిన కృత్రిమ ఓడరేవు.\n2. లోతైన నీటి కారణంగా ఇది పెద్ద ఓడలకు బాగా అనుకూలంగా ఉంటుంది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about Chennai Port:\n1. It is an artificial harbour built in 1859.\n2. It is highly suitable for large ships due to its deep waters.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 లేదా 2 ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రకటన 1 సరైనది. ప్రకటన 2 తప్పు ఎందుకంటే తక్కువ లోతు ఉన్న నీటి (shallow waters) కారణంగా ఇది పెద్ద ఓడలకు అనుకూలం కాదని పాఠ్య భాగం చెబుతోంది.",
+    "en": "Statement 1 is correct. Statement 2 is incorrect because the text says it is NOT suitable for large ships because of shallow waters."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T27-0209",
+   "section": {
+    "te": "Oil Ports Classification",
+    "en": "Oil Ports Classification"
+   },
+   "q": {
+    "te": "కింది చమురు ఓడరేవులలో ఏది 'ట్యాంకర్ పోర్ట్' కాకుండా 'రిఫైనరీ పోర్ట్'గా వర్గీకరించబడింది?",
+    "en": "Which of the following oil ports is classified as a 'refinery port' rather than a 'tanker port'?"
+   },
+   "options": {
+    "te": [
+     "మరకైబో",
+     "ఎస్ఖిరా",
+     "అబాదాన్",
+     "త్రిపోలి"
+    ],
+    "en": [
+     "Maracaibo",
+     "Esskhira",
+     "Abadan",
+     "Tripoli"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మరకైబో, ఎస్ఖిరా మరియు త్రిపోలి ట్యాంకర్ పోర్టులు కాగా, పర్షియా గల్ఫ్‌లోని అబాదాన్ ప్రత్యేకంగా రిఫైనరీ పోర్ట్‌గా గుర్తించబడింది.",
+    "en": "While Maracaibo, Esskhira, and Tripoli are tanker ports, Abadan on the Gulf of Persia is specifically identified as a refinery port."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T27-0233",
+   "section": {
+    "te": "NHAI Ministry",
+    "en": "NHAI Ministry"
+   },
+   "q": {
+    "te": "నేషనల్ హైవేస్ అథారిటీ ఆఫ్ ఇండియా (NHAI) ఏ మంత్రిత్వ శాఖ పరిధిలోని స్వయంప్రతిపత్తి కలిగిన సంస్థ?",
+    "en": "Under which ministry is the National Highways Authority of India (NHAI) an autonomous body?"
+   },
+   "options": {
+    "te": [
+     "గ్రామీణాభివృద్ధి మంత్రిత్వ శాఖ",
+     "ఉపరితల రవాణా మంత్రిత్వ శాఖ (Ministry of Surface Transport)",
+     "పట్టణ వ్యవహారాల మంత్రిత్వ శాఖ",
+     "రక్షణ మంత్రిత్వ శాఖ"
+    ],
+    "en": [
+     "Ministry of Rural Development",
+     "Ministry of Surface Transport",
+     "Ministry of Urban Affairs",
+     "Ministry of Defence"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "NHAI అనేది ఉపరితల రవాణా మంత్రిత్వ శాఖ పరిధిలో పనిచేసే స్వయంప్రతిపత్తి కలిగిన సంస్థ.",
+    "en": "NHAI is an autonomous body functioning under the Ministry of Surface Transport."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T27-0078",
+   "section": {
+    "te": "Transport Network definition",
+    "en": "Transport Network definition"
+   },
+   "q": {
+    "te": "రవాణా భూగోళశాస్త్రం ప్రకారం, మార్గాల (లింకులు) ద్వారా అనేక ప్రదేశాలు (నోడ్‌లు) ఒకదానితో ఒకటి అనుసంధానమై ఏర్పడే నమూనాను ఏమని పిలుస్తారు?",
+    "en": "In transport geography, a pattern formed by several places (nodes) joined together by a series of routes (links) is defined as which of the following?"
+   },
+   "options": {
+    "te": [
+     "రవాణా ధమని (ట్రాన్స్‌పోర్ట్ ఆర్టరీ)",
+     "రవాణా కారిడార్",
+     "రవాణా నెట్‌వర్క్",
+     "రవాణా గ్రిడ్"
+    ],
+    "en": [
+     "Transport artery",
+     "Transport corridor",
+     "Transport network",
+     "Transport grid"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అనేక ప్రదేశాలు (నోడ్‌లు) మార్గాల (లింకులు) ద్వారా కలిసి ఏర్పరిచే నమూనాను రవాణా నెట్‌వర్క్ (Transport Network) అని నిర్వచించారు.",
+    "en": "A transport network is defined as several places (nodes) joined together by a series of routes (links) to form a pattern."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T27-0219",
+   "section": {
+    "te": "Transport and Communication Purpose",
+    "en": "Transport and Communication Purpose"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): రవాణా మరియు సమాచార మార్పిడి వినియోగం అనేది వస్తువులను అవి లభించే చోటు నుండి అవసరమైన చోటుకు తరలించాల్సిన అవసరంపై ఆధారపడి ఉంటుంది.\nకారణం (R): ఆలోచనలు మరియు అభిప్రాయాలను వినియోగదారునికి అందుబాటులోకి తీసుకురావడానికి రవాణా ప్రత్యేక బాధ్యత వహిస్తుంది.",
+    "en": "Assertion (A): The use of transport and communication depends upon the need to move things from the place of availability to the place of use.\nReason (R): Transportation is specifically responsible for making ideas and views available to the consumer."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం నిశ్చితం (A) నిజం. కారణం (R) తప్పు ఎందుకంటే ఆలోచనలు మరియు అభిప్రాయాలను తరలించడానికి సమాచార మార్పిడి (రవాణా కాదు) బాధ్యత వహిస్తుంది.",
+    "en": "Assertion A is true as per the text. Reason R is false because communication (not transportation) is responsible for moving ideas and views."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T27-0115",
+   "section": {
+    "te": "Australian Railways",
+    "en": "Australian Railways"
+   },
+   "q": {
+    "te": "ఆస్ట్రేలియాలో, దేశంలోని 40,000 కిలోమీటర్ల రైల్వేలలో 25 శాతం ఏ ప్రాంతంలోనే ఉన్నాయి?",
+    "en": "In Australia, which region alone accounts for 25 per cent of the country's 40,000 km of railways?"
+   },
+   "options": {
+    "te": [
+     "నార్తర్న్ టెరిటరీ",
+     "పశ్చిమ ఆస్ట్రేలియా",
+     "విక్టోరియా",
+     "న్యూ సౌత్ వేల్స్"
+    ],
+    "en": [
+     "Northern Territory",
+     "Western Australia",
+     "Victoria",
+     "New South Wales"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఆస్ట్రేలియాలోని 40,000 కిలోమీటర్ల రైల్వేలలో 25 శాతం న్యూ సౌత్ వేల్స్‌లో ఉన్నాయని పాఠ్య భాగం పేర్కొంది.",
+    "en": "The text specifies that 25 per cent of Australia's 40,000 km of railways are found in New South Wales."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T27-0294",
+   "section": {
+    "te": "1950s Imports",
+    "en": "1950s Imports"
+   },
+   "q": {
+    "te": "1950లు మరియు 1960ల ఆహార కొరత సమయంలో, భారతదేశానికి ప్రధాన దిగుమతి వస్తువులు ఏవి?",
+    "en": "During the food shortages of the 1950s and 1960s, which of the following were major items of import for India?"
+   },
+   "options": {
+    "te": [
+     "ఆహార ధాన్యాలు",
+     "మూలధన వస్తువులు (Capital goods)",
+     "యంత్రాలు మరియు పరికరాలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Foodgrain",
+     "Capital goods",
+     "Machinery and equipment",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "1950లు మరియు 60లలో, భారతదేశం ఆహార కొరతను ఎదుర్కొంది మరియు మూలధన వస్తువులు మరియు యంత్రాలతో పాటు ఆహార ధాన్యాలను దిగుమతి చేసుకుంది.",
+    "en": "In the 1950s and 60s, India faced food shortages and imported foodgrains along with capital goods and machinery."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T27-0041",
+   "section": {
+    "te": "Kashmir railway extension",
+    "en": "Kashmir railway extension"
+   },
+   "q": {
+    "te": "కాశ్మీర్ లోయలో రైల్వే లైన్ ఏ రెండు పట్టణాల మధ్య విస్తరించబడింది?",
+    "en": "In the Kashmir Valley, the railway line has been extended between which two towns?"
+   },
+   "options": {
+    "te": [
+     "బనిహాల్ నుండి బారాముల్లా",
+     "శ్రీనగర్ నుండి అనంతనాగ్",
+     "ఉధంపూర్ నుండి కత్రా",
+     "జమ్ము నుండి ఉధంపూర్"
+    ],
+    "en": [
+     "Banihal to Baramula",
+     "Srinagar to Anantnag",
+     "Udhampur to Katra",
+     "Jammu to Udhampur"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "కాశ్మీర్ లోయలో రైల్వే లైన్ బనిహాల్ నుండి బారాముల్లా వరకు విస్తరించబడింది.",
+    "en": "The railway line in the Kashmir Valley has been extended from Banihal to Baramula."
+   }
+  }
+ ]
+}

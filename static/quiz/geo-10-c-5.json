@@ -1,0 +1,942 @@
+{
+ "id": "geo-10-c-5",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Oceans – క్విజ్ 5",
+  "en": "Oceans – Quiz 5"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T10-0205",
+   "section": {
+    "te": "Deep water sinking",
+    "en": "Deep water sinking"
+   },
+   "q": {
+    "te": "లోతైన సముద్ర ప్రవాహాలు (deep waters) ఏ అక్షాంశాల వద్ద సముద్ర బేసిన్లలోకి క్రిందికి మునుగుతాయి, దానికి కారణం ఏమిటి?",
+    "en": "At which latitudes do deep waters sink into deep ocean basins, and what causes this sinking?"
+   },
+   "options": {
+    "te": [
+     "మధ్య అక్షాంశాల వద్ద, ప్రతిచక్రవాత పవనాలు నీటిని కిందికి నెట్టడం వలన",
+     "భూమధ్యరేఖ అక్షాంశాల వద్ద, అధిక సౌర ఉష్ణోగ్రత వల్ల నీరు వ్యాకోచించడం వలన",
+     "తక్కువ అక్షాంశాల వద్ద, తీవ్రమైన బాష్పీభవనం లవణీయతను పెంచడం వలన",
+     "అధిక అక్షాంశాల వద్ద, చల్లని ఉష్ణోగ్రతలు నీటి సాంద్రతను పెంచడం వలన"
+    ],
+    "en": [
+     "Middle latitudes, where anticyclonic winds push water downward",
+     "Equatorial latitudes, due to excessive solar heating and water expansion",
+     "Low latitudes, due to intense evaporation increasing salinity",
+     "High latitudes, where cold temperatures cause density to increase"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అధిక అక్షాంశాల వద్ద చల్లని ఉష్ణోగ్రతల వల్ల నీటి సాంద్రత పెరుగుతుంది, దీంతో ఆ నీరు సముద్రపు అడుగుభాగంలోకి మునిగిపోతుంది.",
+    "en": "Deep waters sink into ocean basins at high latitudes because extremely cold temperatures significantly increase the density of the water."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T10-0119",
+   "section": {
+    "te": "Ocean Floor Depth",
+    "en": "Ocean Floor Depth"
+   },
+   "q": {
+    "te": "మహాసముద్ర భూతలంలో ఎక్కువ భాగం సముద్ర మట్టానికి క్రింద ఏ లోతులో విస్తరించి ఉంది?",
+    "en": "A major portion of the ocean floor is located at what depth below sea level?"
+   },
+   "options": {
+    "te": [
+     "7-10 కి.మీ. మధ్య",
+     "11 కి.మీ. కంటే దిగువన",
+     "3-6 కి.మీ. మధ్య",
+     "1-2 కి.మీ. మధ్య"
+    ],
+    "en": [
+     "Between 7-10 km",
+     "Below 11 km",
+     "Between 3-6 km",
+     "Between 1-2 km"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మహాసముద్రాల భూతలంలోని ప్రధాన భాగం సముద్ర మట్టానికి 3 నుండి 6 కి.మీ. లోతు మధ్య కనిపిస్తుంది.",
+    "en": "A major portion of the ocean floor is found between 3-6 km below the sea level."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T10-0140",
+   "section": {
+    "te": "Thermocline Layer Thickness",
+    "en": "Thermocline Layer Thickness"
+   },
+   "q": {
+    "te": "మధ్య మరియు అల్ప అక్షాంశాల మహాసముద్రాలలో రెండవ పొర అయిన థర్మోక్లైన్ పొర మందం ఎంత?",
+    "en": "In the vertical temperature structure of oceans in middle and low latitudes, what is the thickness of the second (thermocline) layer?"
+   },
+   "options": {
+    "te": [
+     "500 - 1,000 మీటర్లు",
+     "100 - 400 మీటర్లు",
+     "50 - 100 మీటర్లు",
+     "1,500 - 2,500 మీటర్లు"
+    ],
+    "en": [
+     "500 - 1,000 m",
+     "100 - 400 m",
+     "50 - 100 m",
+     "1,500 - 2,500 m"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మధ్య మరియు అల్ప అక్షాంశాలలో కనిపించే రెండవ పొర (థర్మోక్లైన్) మందం 500 నుండి 1,000 మీటర్ల వరకు ఉంటుంది.",
+    "en": "The second layer, known as the thermocline layer, is 500 - 1,000 m thick."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T10-0021",
+   "section": {
+    "te": "Hemispheric Land Distribution",
+    "en": "Hemispheric Land Distribution"
+   },
+   "q": {
+    "te": "భూమిపై భూభాగం పంపిణీకి సంబంధించి కింది వాటిలో ఏది సరైనది?",
+    "en": "Which of the following statements is correct regarding the distribution of land on Earth?"
+   },
+   "options": {
+    "te": [
+     "దక్షిణార్ధగోళంలో ఉత్తరార్ధగోళం కంటే ఎక్కువ భూమి ఉంది",
+     "ఉత్తరార్ధగోళంలో దక్షిణార్ధగోళం కంటే ఎక్కువ భూమి ఉంది",
+     "రెండు అర్ధగోళాల్లో సమానమైన భూమి ఉంది",
+     "దక్షిణార్ధగోళంలో భూభాగాలే లేవు"
+    ],
+    "en": [
+     "The Southern Hemisphere has more land than the Northern Hemisphere",
+     "The Northern Hemisphere has more land than the Southern Hemisphere",
+     "Both hemispheres have an equal amount of land",
+     "The Southern Hemisphere has no landmasses"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "దక్షిణార్ధగోళంతో పోలిస్తే ఉత్తరార్ధగోళంలో ఎక్కువ భూమి ఉందని పాఠ్యభాగం స్పష్టంగా పేర్కొంది.",
+    "en": "The Northern Hemisphere contains more land compared to the Southern Hemisphere."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T10-0072",
+   "section": {
+    "te": "Ocean Currents Classification",
+    "en": "Ocean Currents Classification"
+   },
+   "q": {
+    "te": "ప్రకటన (A): సముద్ర ప్రవాహాలు వాటి మూలం మరియు ప్రవాహ దిశ ఆధారంగా వెచ్చని లేదా శీతల ప్రవాహాలుగా వర్గీకరించబడతాయి.\nకారణం (R): మ్యాప్‌లలో, వెచ్చని ప్రవాహాలు సాధారణంగా నీలం రంగులో మరియు శీతల ప్రవాహాలు ఎరుపు రంగులో చూపబడతాయి.",
+    "en": "Assertion (A): Ocean currents are classified as warm or cold based on their origin and direction of flow.\nReason (R): On maps, warm currents are usually shown in blue and cold currents in red."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రకటన A నిజం, కానీ కారణం R తప్పు ఎందుకంటే వెచ్చని ప్రవాహాలు ఎరుపు రంగులో మరియు శీతల ప్రవాహాలు నీలం రంగులో చూపబడతాయి.",
+    "en": "Assertion A is true, but Reason R is false because warm currents are shown in red and cold currents in blue."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T10-0055",
+   "section": {
+    "te": "Wave Formation",
+    "en": "Wave Formation"
+   },
+   "q": {
+    "te": "తరంగాల గురించి కింది ప్రకటనలను పరిశీలించండి:\n1. తరంగాలు ప్రాథమికంగా నీటి అడుగున వచ్చే భూకంపాల వల్ల కలుగుతాయి.\n2. తరంగాలు సముద్రాల గుండా సుదూర ప్రాంతాలకు శక్తిని మోసుకెళ్తాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about waves:\n1. Waves are primarily caused by underwater earthquakes.\n2. Waves carry energy across the oceans over long distances.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, తరంగాలు ప్రాథమికంగా నీటిపై వీచే గాలుల వల్ల కలుగుతాయి, భూకంపాల వల్ల కాదు. అవి సుదూర ప్రాంతాలకు శక్తిని మోసుకెళ్తాయి.",
+    "en": "Waves are primarily caused by winds blowing across the water, not earthquakes. They do carry energy over long distances."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T10-0089",
+   "section": {
+    "te": "Maritime Rules Importance",
+    "en": "Maritime Rules Importance"
+   },
+   "q": {
+    "te": "ప్రతిపాదన (A): అంతర్జాతీయ సముద్ర నియమాలు దేశంతో సంబంధం లేకుండా అన్ని నౌకలకు ఉమ్మడి ప్రమాణాలను ఏర్పాటు చేస్తాయి.\nకారణం (R): ఇటువంటి నిబంధనలు లేకపోతే, సముద్రాలు పెరిగిన కాలుష్యం, ప్రమాదాలు మరియు వనరులపై వివాదాలను ఎదుర్కోవలసి వస్తుంది.",
+    "en": "Assertion (A): International maritime rules establish common standards for all ships regardless of their country.\nReason (R): Without such regulations, oceans could face increased pollution, accidents, and disputes over resources."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "క్రమశిక్షణ మరియు భద్రతను నిర్వహించడానికి సముద్ర నియమాలు అవసరం; అవి లేకపోతే, ఉమ్మడి ప్రమాణాల కొరత గందరగోళానికి మరియు పర్యావరణ నష్టానికి దారితీస్తుంది.",
+    "en": "Maritime rules are essential to maintain order and safety; without them, the lack of common standards would lead to chaos and environmental damage."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T10-0051",
+   "section": {
+    "te": "Wave Anatomy",
+    "en": "Wave Anatomy"
+   },
+   "q": {
+    "te": "సముద్ర తరంగాల సందర్భంలో 'తరంగ పౌనఃపున్యం' (Wave Frequency) ఎలా నిర్వచించబడింది?",
+    "en": "How is 'Wave Frequency' defined in the context of ocean waves?"
+   },
+   "options": {
+    "te": [
+     "ఒక పూర్తి తరంగం ఒక బిందువును దాటడానికి పట్టే సమయం",
+     "ప్రతి సెకనుకు ఒక నిర్దిష్ట బిందువును దాటి వెళ్ళే తరంగ శృంగాల సంఖ్య",
+     "శృంగం మరియు ప్రశాంత సముద్ర మట్టం మధ్య దూరం",
+     "సముద్రం మీదుగా తరంగం ప్రయాణించే వేగం"
+    ],
+    "en": [
+     "The time taken for one full wave to pass a point",
+     "The number of wave crests passing a specific point per second",
+     "The distance between the crest and the calm sea level",
+     "The speed at which a wave travels across the ocean"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "తరంగ పౌనఃపున్యం అంటే ఒక సెకనులో ఒక స్థిర బిందువును దాటి వెళ్ళే తరంగ శృంగాల సంఖ్య.",
+    "en": "Wave frequency is specifically the count of wave crests that pass a fixed point in one second."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T10-0082",
+   "section": {
+    "te": "EEZ and UNCLOS",
+    "en": "EEZ and UNCLOS"
+   },
+   "q": {
+    "te": "తీరం నుండి 200 నాటికల్ మైళ్ల వరకు విస్తరించి ఉన్న ప్రత్యేక ఆర్థిక మండలాలను (EEZs) ఏ అంతర్జాతీయ ఒప్పందం నిర్వచిస్తుంది?",
+    "en": "Which international convention defines the Exclusive Economic Zones (EEZs) that extend up to 200 nautical miles from the coast?"
+   },
+   "options": {
+    "te": [
+     "UNCLOS",
+     "COLREGs",
+     "MARPOL",
+     "IMO కన్వెన్షన్"
+    ],
+    "en": [
+     "UNCLOS",
+     "COLREGs",
+     "MARPOL",
+     "IMO Convention"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రత్యేక ఆర్థిక మండలాలు (EEZs) ఐక్యరాజ్యసమితి సముద్ర చట్టం (UNCLOS) కింద నిర్వచించబడ్డాయి.",
+    "en": "The Exclusive Economic Zones (EEZs) are defined under the United Nations Convention on the Law of the Sea (UNCLOS)."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T10-0179",
+   "section": {
+    "te": "Highest Tides Location",
+    "en": "Highest Tides Location"
+   },
+   "q": {
+    "te": "ప్రపంచంలోనే అత్యధిక పోటుపాట్లు (tides) నమోదయ్యే ఫండీ అఖాతం (Bay of Fundy) ఏ దేశంలో ఉంది?",
+    "en": "In which country is the Bay of Fundy, known for recording the highest tides in the world, located?"
+   },
+   "options": {
+    "te": [
+     "రష్యా",
+     "కెనడా",
+     "ఫ్రాన్స్",
+     "USA"
+    ],
+    "en": [
+     "Russia",
+     "Canada",
+     "France",
+     "USA"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కెనడాలోని నోవా స్కోటియాలో ఉన్న ఫండీ అఖాతంలో ప్రపంచంలోనే అత్యధిక పోటుపాట్లు సంభవిస్తాయి, ఇక్కడ టైడల్ బల్జ్ 15-16 మీటర్ల వరకు ఉంటుంది.",
+    "en": "The Bay of Fundy, which experiences the world's highest tides with a tidal bulge of 15-16 meters, is located in Nova Scotia, Canada."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T10-0201",
+   "section": {
+    "te": "Cold currents location",
+    "en": "Cold currents location"
+   },
+   "q": {
+    "te": "ఉత్తరార్ధగోళంలో, అధిక అక్షాంశాల వద్ద ఖండాల ఏ తీరంలో సాధారణంగా శీతల సముద్ర ప్రవాహాలు కనిపిస్తాయి?",
+    "en": "In the Northern Hemisphere, on which coast of continents are cold ocean currents usually found in the higher latitudes?"
+   },
+   "options": {
+    "te": [
+     "పశ్చిమ తీరం",
+     "తూర్పు తీరం",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "West coast",
+     "East coast",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఉత్తరార్ధగోళంలో అధిక అక్షాంశాలలో ఖండాల తూర్పు తీరంలో శీతల ప్రవాహాలు సాధారణంగా కనిపిస్తాయి.",
+    "en": "In the Northern Hemisphere, cold currents are usually found on the east coast of continents in higher latitudes."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T10-0078",
+   "section": {
+    "te": "High Seas Rights",
+    "en": "High Seas Rights"
+   },
+   "q": {
+    "te": "బహిరంగ సముద్రాలలో (high seas) అన్ని దేశాలు ఈ క్రింది ఏ హక్కులను కలిగి ఉంటాయి?",
+    "en": "Which of the following rights are enjoyed by all countries on the high seas?"
+   },
+   "options": {
+    "te": [
+     "నౌకాయానం మరియు చేపల వేట",
+     "సముద్రగర్భ కేబుల్స్ వేయడం",
+     "ఖనిజాల కోసం అన్వేషణ",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Navigation and Fishing",
+     "Laying undersea cables",
+     "Exploring for minerals",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అంతర్జాతీయ చట్టం ప్రకారం, బహిరంగ సముద్రాలలో నౌకాయానం, చేపల వేట, కేబుల్స్ వేయడం మరియు ఖనిజ అన్వేషణ కోసం అన్ని దేశాలకు సమాన హక్కులు ఉన్నాయి.",
+    "en": "According to international law, all countries have equal rights on the high seas for navigation, fishing, laying cables, and mineral exploration."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T10-0195",
+   "section": {
+    "te": "Equatorial water level",
+    "en": "Equatorial water level"
+   },
+   "q": {
+    "te": "సౌరశక్తి వల్ల నీరు వ్యాకోచించడం వలన, మధ్య అక్షాంశాలతో పోలిస్తే భూమధ్యరేఖ వద్ద సముద్ర మట్టం సుమారు ఎంత ఎత్తులో ఉంటుంది?",
+    "en": "Due to heating by solar energy causing expansion, ocean water near the equator is approximately how much higher in level than in the middle latitudes?"
+   },
+   "options": {
+    "te": [
+     "2 సెం.మీ",
+     "25 సెం.మీ",
+     "15 సెం.మీ",
+     "8 సెం.మీ"
+    ],
+    "en": [
+     "2 cm",
+     "25 cm",
+     "15 cm",
+     "8 cm"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సౌరశక్తితో వేడెక్కడం వల్ల నీరు వ్యాకోచిస్తుంది, దీనివల్ల భూమధ్యరేఖ సమీపంలో సముద్రపు నీరు మధ్య అక్షాంశాల కంటే దాదాపు 8 సెం.మీ ఎత్తులో ఉంటుంది.",
+    "en": "Heating by solar energy causes water to expand, making the ocean water near the equator about 8 cm higher in level than in the middle latitudes."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T10-0177",
+   "section": {
+    "te": "Vertical Motion",
+    "en": "Vertical Motion"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఏవి సముద్రపు నీటిలో నిలువు కదలిక రూపాలుగా పరిగణించబడతాయి?\nA. పోటుపాట్లు (Tides)\nB. చల్లని నీటి ఉద్గమనం (Upwelling)\nC. ఉపరితల నీరు కిందకు మునగడం (Sinking)",
+    "en": "Which of the following are considered forms of vertical motion in ocean water?\nA. Tides\nB. Upwelling of cold water\nC. Sinking of surface water"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "A and C only",
+     "B and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పోటుపాట్లు (పెరుగుదల మరియు తగ్గుదల), ఉద్గమనం మరియు మునగడం వంటివి సముద్రాలలో నిలువు కదలిక యొక్క ప్రాథమిక రూపాలని మూలం పేర్కొంది.",
+    "en": "The source identifies tides (rise and fall), upwelling, and sinking as the primary forms of vertical motion in the oceans."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T10-0110",
+   "section": {
+    "te": "Shelf Break Definition",
+    "en": "Shelf Break Definition"
+   },
+   "q": {
+    "te": "ఖండతీర అంచు సాధారణంగా చాలా నిటారైన వాలు వద్ద ముగుస్తుంది, దీనిని ఏమని పిలుస్తారు?",
+    "en": "The continental shelf typically terminates at a very steep slope known as the:"
+   },
+   "options": {
+    "te": [
+     "ఖండతీర ఉబ్బెత్తు (కాంటినెంటల్ రైజ్)",
+     "సముద్రపు అగాధం",
+     "షెల్ఫ్ బ్రేక్ (Shelf break)",
+     "గయోట్ (Guyot)"
+    ],
+    "en": [
+     "Continental rise",
+     "Oceanic deep",
+     "Shelf break",
+     "Guyot"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఖండతీర అంచు ఒక నిటారైన వాలు వద్ద ముగుస్తుంది, దీనిని షెల్ఫ్ బ్రేక్ అంటారు.",
+    "en": "The continental shelf typically ends at a very steep slope, which is termed the shelf break."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T10-0053",
+   "section": {
+    "te": "Spring Tides",
+    "en": "Spring Tides"
+   },
+   "q": {
+    "te": "స్ప్రింగ్ పోటులకు (Spring Tides) సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. సూర్యుడు, భూమి మరియు చంద్రుడు సరళరేఖలో ఉన్నప్పుడు ఇవి సంభవిస్తాయి.\n2. వీటి ఫలితంగా అసాధారణ ఎత్తులో అధిక పోటులు ఏర్పడతాయి.\n3. ఇవి మొదటి త్రైమాసిక చంద్ర దశలో మాత్రమే సంభవిస్తాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding Spring Tides:\n1. They occur when the Sun, Earth, and Moon are aligned in a straight line.\n2. They result in high tides of unusual heights.\n3. They occur only during the first-quarter moon phase.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 only",
+     "1 and 2 only",
+     "2 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పౌర్ణమి/అమావాస్య రోజులలో సరళరేఖ అమరిక సమయంలో స్ప్రింగ్ పోటులు సంభవిస్తాయి, ఇవి అసాధారణమైన అధిక మరియు అల్ప పోటులకు కారణమవుతాయి. మొదటి త్రైమాసిక దశలో నీప్ పోటులు సంభవిస్తాయి కాబట్టి 3వ ప్రకటన తప్పు.",
+    "en": "Spring tides occur during straight-line alignment on full/new moon days, causing unusually high and low tides. Statement 3 is incorrect as neap tides occur during the first-quarter phase."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T10-0014",
+   "section": {
+    "te": "Seawater Properties",
+    "en": "Seawater Properties"
+   },
+   "q": {
+    "te": "సముద్రపు నీరు సాధారణంగా మానవ వినియోగానికి ఎందుకు పనికిరాదు?",
+    "en": "Why is seawater generally unfit for consumption by humans?"
+   },
+   "options": {
+    "te": [
+     "అది చాలా చల్లగా ఉండటం వల్ల",
+     "అది ఉప్పగా ఉండటం వల్ల",
+     "అందులో జీవం లేకపోవడం వల్ల",
+     "అది లోతైన ప్రాంతాలలో మాత్రమే ఉండటం వల్ల"
+    ],
+    "en": [
+     "Because it is too cold",
+     "Because it is salty",
+     "Because it contains no life",
+     "Because it is found only in deep areas"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సముద్రపు నీరు ఉప్పగా ఉంటుంది, అందుకే ఇది మానవులకు మరియు ఇతర భూచర జంతువులకు వినియోగించడానికి పనికిరాదు.",
+    "en": "Seawater is salty, making it unfit for consumption by most land animals and humans."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T10-0101",
+   "section": {
+    "te": "Bars and Barrier Bars",
+    "en": "Bars and Barrier Bars"
+   },
+   "q": {
+    "te": "బార్‌లు (bars) మరియు బారియర్ బార్‌ల (barrier bars) మధ్య వ్యత్యాసాన్ని క్రింది వాటిలో ఏది ఉత్తమంగా వివరిస్తుంది?",
+    "en": "Which of the following best describes the difference between bars and barrier bars?"
+   },
+   "options": {
+    "te": [
+     "బార్‌లు ఎల్లప్పుడూ నీటి పైన ఉంటాయి, బారియర్ బార్‌లు నీటిలో మునిగి ఉంటాయి",
+     "బార్‌లు నీటిలో మునిగి ఉండే లక్షణాలు, అవి నీటి పైన కనిపించినప్పుడు వాటిని బారియర్ బార్‌లు అంటారు",
+     "బారియర్ బార్‌లు పోటుపాట్ల వల్ల ఏర్పడతాయి, బార్‌లు ప్రవాహాల వల్ల ఏర్పడతాయి",
+     "రెండింటి మధ్య ఎటువంటి భౌతిక వ్యత్యాసం లేదు"
+    ],
+    "en": [
+     "Bars are always above water, while barrier bars are submerged",
+     "Bars are submerged features, and they are called barrier bars when they show up above water",
+     "Barrier bars are formed by tides, while bars are formed by currents",
+     "There is no physical difference between the two"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "బార్‌లు నీటిలో మునిగి ఉండే ఇసుక తిన్నెలు, అవి నీటి మట్టానికి పైన కనిపించినప్పుడు వాటిని బారియర్ బార్‌లు అని పిలుస్తారు.",
+    "en": "Bars are submerged ridges of sand, and they are specifically called barrier bars when they emerge above the water level."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T10-0073",
+   "section": {
+    "te": "Fish Classification",
+    "en": "Fish Classification"
+   },
+   "q": {
+    "te": "సముద్ర వనరుల వర్గీకరణలో ఈ క్రింది వాటిలో ఏది ఒక నిర్దిష్ట రకమైన చేపగా పేర్కొనబడలేదు?",
+    "en": "Which of the following is NOT mentioned as a specific type of fish in the classification of marine resources?"
+   },
+   "options": {
+    "te": [
+     "బెంతిక్ చేపలు",
+     "డెమెర్సల్ చేపలు",
+     "ఉభయచర (Amphibious) చేపలు",
+     "ఎపిపెలాజిక్ చేపలు"
+    ],
+    "en": [
+     "Benthic Fish",
+     "Demersal Fish",
+     "Amphibious Fish",
+     "Epipelagic Fish"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ఎపిపెలాజిక్, పెలాజిక్, డెమెర్సల్, బెంతోపెలాజిక్ మరియు బెంతిక్ చేపలను జాబితా చేస్తుంది, కానీ ఉభయచర చేపలను పేర్కొనలేదు.",
+    "en": "The text lists Epipelagic, Pelagic, Demersal, Benthopelagic, and Benthic fish, but does not mention Amphibious fish."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T10-0109",
+   "section": {
+    "te": "Continental Shelf Gradient",
+    "en": "Continental Shelf Gradient"
+   },
+   "q": {
+    "te": "మహాసముద్రంలో అత్యంత నిస్సారమైన (లోతు తక్కువ) భాగమైన ఖండతీర అంచు (కాంటినెంటల్ షెల్ఫ్) యొక్క సగటు వాలు ఎంత?",
+    "en": "What is the average gradient shown by the continental shelf, which is the shallowest part of the ocean?"
+   },
+   "options": {
+    "te": [
+     "1° లేదా అంతకంటే తక్కువ",
+     "2° నుండి 5°",
+     "5° నుండి 10°",
+     "10° కంటే ఎక్కువ"
+    ],
+    "en": [
+     "1° or even less",
+     "2° to 5°",
+     "5° to 10°",
+     "Above 10°"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఖండతీర అంచు అనేది మహాసముద్రంలో చాలా తక్కువ లోతు గల ప్రాంతం, ఇది సగటున 1° లేదా అంతకంటే తక్కువ వాలును కలిగి ఉంటుంది.",
+    "en": "The continental shelf is the shallowest part of the ocean showing an average gradient of 1° or even less."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T10-0074",
+   "section": {
+    "te": "Fishing Grounds Nutrients",
+    "en": "Fishing Grounds Nutrients"
+   },
+   "q": {
+    "te": "వెచ్చని మరియు శీతల ప్రవాహాలు కలిసే ప్రాంతాలను ముఖ్యమైన చేపల వేట ప్రాంతాలుగా ఎందుకు పరిగణిస్తారు?",
+    "en": "Why are the regions where warm and cold currents meet considered important fishing grounds?"
+   },
+   "options": {
+    "te": [
+     "అక్కడ వేటాడే జంతువులు ఉండవు కాబట్టి",
+     "నీరు ఎల్లప్పుడూ నిశ్చలంగా ఉంటుంది కాబట్టి",
+     "ఈ జలాలు పోషకాలతో సమృద్ధిగా ఉంటాయి కాబట్టి",
+     "నీరు ఎల్లప్పుడూ గడ్డకట్టే స్థితిలో ఉంటుంది కాబట్టి"
+    ],
+    "en": [
+     "Because there are no predators",
+     "Because the water is always still",
+     "Because these waters are rich in nutrients",
+     "Because the water is always freezing"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వెచ్చని మరియు శీతల ప్రవాహాల కలయిక వల్ల పోషకాలు అధికంగా ఉండే జలాలు ఏర్పడతాయి, ఇవి అనేక రకాల చేపల మనుగడకు తోడ్పడతాయి.",
+    "en": "The meeting of warm and cold currents creates nutrient-rich waters that support a large variety of fish."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T10-0186",
+   "section": {
+    "te": "Mixed Tides",
+    "en": "Mixed Tides"
+   },
+   "q": {
+    "te": "మిశ్రమ పోటుపాట్ల (Mixed tides)కు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి వరుసగా వచ్చే పోటుపాట్ల ఎత్తులో గణనీయమైన వైవిధ్యాలను కలిగి ఉంటాయి.\n2. ఇవి సాధారణంగా ఉత్తర అమెరికా పశ్చిమ తీరంలో కనిపిస్తాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding mixed tides:\n1. They are characterized by significant variations in the height of successive tides.\n2. They are commonly observed along the west coast of North America.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మిశ్రమ పోటుపాట్లు ఎత్తులో వైవిధ్యాలను చూపుతాయి మరియు ఇవి సాధారణంగా ఉత్తర అమెరికా పశ్చిమ తీరం మరియు వివిధ పసిఫిక్ ద్వీపాలలో కనిపిస్తాయి.",
+    "en": "Mixed tides show variations in height and are typically found on the west coast of North America and various Pacific islands."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T10-0075",
+   "section": {
+    "te": "Contiguous Zone Extent",
+    "en": "Contiguous Zone Extent"
+   },
+   "q": {
+    "te": "సముద్ర మండలాల వర్గీకరణ ప్రకారం, బేస్‌లైన్ (baseline) నుండి ఆనుకొని ఉన్న మండలం (contiguous zone) గరిష్ట పరిధి ఎంత?",
+    "en": "According to the maritime zones classification, what is the maximum extent of the contiguous zone from the baseline?"
+   },
+   "options": {
+    "te": [
+     "100 నాటికల్ మైళ్లు",
+     "24 నాటికల్ మైళ్లు",
+     "200 నాటికల్ మైళ్లు",
+     "12 నాటికల్ మైళ్లు"
+    ],
+    "en": [
+     "100 nautical miles",
+     "24 nautical miles",
+     "200 nautical miles",
+     "12 nautical miles"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఆనుకొని ఉన్న మండలం (contiguous zone) బేస్‌లైన్ నుండి 24 నాటికల్ మైళ్ల దూరం వరకు విస్తరించి ఉంటుంది.",
+    "en": "The contiguous zone extends from the baseline up to a distance of 24 nautical miles."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T10-0086",
+   "section": {
+    "te": "MARPOL Convention",
+    "en": "MARPOL Convention"
+   },
+   "q": {
+    "te": "నౌకల నుండి వచ్చే కాలుష్యాన్ని తగ్గించడానికి ప్రత్యేకంగా ఉద్దేశించిన అంతర్జాతీయ ఒప్పందం ఏది?",
+    "en": "Which international convention is specifically aimed at reducing pollution from ships?"
+   },
+   "options": {
+    "te": [
+     "UNCLOS",
+     "SOLAS",
+     "COLREGs",
+     "MARPOL"
+    ],
+    "en": [
+     "UNCLOS",
+     "SOLAS",
+     "COLREGs",
+     "MARPOL"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "MARPOL అనేది నౌకల ద్వారా సముద్ర పర్యావరణం కలుషితం కాకుండా నివారించడానికి మరియు తగ్గించడానికి అంకితం చేయబడిన అంతర్జాతీయ ఒప్పందం.",
+    "en": "MARPOL is the international convention dedicated to preventing and reducing pollution of the marine environment by ships."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T10-0146",
+   "section": {
+    "te": "Polar ocean temperature",
+    "en": "Polar ocean temperature"
+   },
+   "q": {
+    "te": "ఆర్కిటిక్ మరియు అంటార్కిటిక్ వలయాల సమీపంలో సముద్ర ఉష్ణోగ్రత నిర్మాణానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఉపరితల నీటి ఉష్ణోగ్రతలు 0° C కి దగ్గరగా ఉంటాయి.\n2. లోతు పెరిగే కొద్దీ ఉష్ణోగ్రతలో మార్పు చాలా స్వల్పంగా ఉంటుంది.\n3. ఉపరితలం నుండి లోతైన సముద్ర గర్భం వరకు చల్లటి నీటి పొర ఒక్కటే ఉంటుంది.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "With reference to the oceanic temperature structure near the Arctic and Antarctic circles, consider the following statements:\n1. Surface water temperatures are close to 0° C.\n2. The temperature change with depth is very slight.\n3. Only one layer of cold water exists from the surface to the deep ocean floor.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ధ్రువ వలయాల వద్ద ఉపరితల ఉష్ణోగ్రతలు 0° C కి దగ్గరగా ఉంటాయి, లోతుతో పాటు ఉష్ణోగ్రత మార్పు స్వల్పంగా ఉంటుంది మరియు ఉపరితలం నుండి సముద్ర గర్భం వరకు ఒకే శీతల నీటి పొర ఉంటుంది.",
+    "en": "Near the polar circles, surface temperatures are close to 0° C, temperature change with depth is very slight, and only one cold water layer extends from surface to deep ocean floor."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T10-0190",
+   "section": {
+    "te": "Bay of Fundy Tide Rate",
+    "en": "Bay of Fundy Tide Rate"
+   },
+   "q": {
+    "te": "ఫండీ అఖాతం అంచనాల ప్రకారం, గంటకు సుమారు ఎన్ని సెంటీమీటర్ల మేర పోటు (tide) పెరుగుతుంది?",
+    "en": "Based on the estimates for the Bay of Fundy, approximately how many centimeters does the tide rise per hour?"
+   },
+   "options": {
+    "te": [
+     "600 సెం.మీ",
+     "480 సెం.మీ",
+     "240 సెం.మీ",
+     "120 సెం.మీ"
+    ],
+    "en": [
+     "600 cm",
+     "480 cm",
+     "240 cm",
+     "120 cm"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఫండీ అఖాతంలో, 6 గంటల వ్యవధిలో మొత్తం 1,440 సెం.మీ పెరుగుదల ఉంటుంది, అంటే గంటకు సుమారు 240 సెం.మీ చొప్పున నీరు పెరుగుతుంది.",
+    "en": "In the Bay of Fundy, with a total rise of about 1,440 cm over a 6-hour period, the tide rises at an estimated rate of 240 cm per hour."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T10-0006",
+   "section": {
+    "te": "Indian Ocean Boundaries",
+    "en": "Indian Ocean Boundaries"
+   },
+   "q": {
+    "te": "హిందూ మహాసముద్రం యొక్క సరిహద్దులకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. దీనికి ఉత్తరాన ఆసియా ఉంది.\n2. దీనికి తూర్పున ఆఫ్రికా ఉంది.\n3. దీనికి పశ్చిమాన ఆస్ట్రేలియా ఉంది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the boundaries of the Indian Ocean:\n1. Asia lies to its north.\n2. Africa lies to its east.\n3. Australia lies to its west.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 only",
+     "1 and 2 only",
+     "2 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రకటన 1 సరైనది. ఆఫ్రికా పశ్చిమాన ఉంది (ప్రకటన 2 తప్పు), మరియు ఆస్ట్రేలియా తూర్పున ఉంది (ప్రకటన 3 తప్పు).",
+    "en": "Statement 1 is correct. Statement 2 is wrong because Africa is to the west, and Statement 3 is wrong because Australia is to the east."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T10-0059",
+   "section": {
+    "te": "Gulf Stream",
+    "en": "Gulf Stream"
+   },
+   "q": {
+    "te": "నార్వే తీర ప్రాంత జలాలు సాపేక్షంగా వెచ్చగా ఉండటానికి మరియు సముద్రపు మంచు సులభంగా ఏర్పడకుండా నిరోధించడానికి ఏ సముద్ర ప్రవాహం కారణం?",
+    "en": "Which ocean current is responsible for keeping the waters of Norway relatively warm, preventing the easy formation of sea ice?"
+   },
+   "options": {
+    "te": [
+     "బెంగ్యులా ప్రవాహం",
+     "గల్ఫ్ స్ట్రీమ్",
+     "లాబ్రడార్ ప్రవాహం",
+     "కొరియోలిస్ ప్రవాహం"
+    ],
+    "en": [
+     "Benguela Current",
+     "Gulf Stream",
+     "Labrador Current",
+     "Coriolis Current"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "గల్ఫ్ స్ట్రీమ్ అనేది వెచ్చని ప్రవాహం, ఇది నార్వే వైపు ప్రవహిస్తుంది, అధిక అక్షాంశం ఉన్నప్పటికీ అక్కడి జలాలను వెచ్చగా ఉంచుతుంది.",
+    "en": "The Gulf Stream is a warm current that flows towards Norway, keeping its waters warm despite the high latitude."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T10-0145",
+   "section": {
+    "te": "Ocean temperature decrease rate",
+    "en": "Ocean temperature decrease rate"
+   },
+   "q": {
+    "te": "భూమధ్యరేఖ నుండి ధ్రువాల వైపు అక్షాంశం పెరిగే కొద్దీ సముద్ర ఉపరితల నీటి ఉష్ణోగ్రత తగ్గే సాధారణ రేటు ఎంత?",
+    "en": "What is the general rate of decrease of ocean surface water temperature with increasing latitude?"
+   },
+   "options": {
+    "te": [
+     "ప్రతి అక్షాంశానికి 1.0° C",
+     "ప్రతి అక్షాంశానికి 0.5° C",
+     "ప్రతి అక్షాంశానికి 1.5° C",
+     "ప్రతి అక్షాంశానికి 0.2° C"
+    ],
+    "en": [
+     "1.0° C per latitude",
+     "0.5° C per latitude",
+     "1.5° C per latitude",
+     "0.2° C per latitude"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అక్షాంశం పెరిగే కొద్దీ సముద్ర ఉపరితల ఉష్ణోగ్రత తగ్గే రేటు సాధారణంగా ప్రతి అక్షాంశానికి 0.5° C గా ఉంటుంది.",
+    "en": "The rate of decrease of ocean surface temperature with increasing latitude is generally 0.5° C per latitude."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T10-0174",
+   "section": {
+    "te": "Coastal Influence on Tides",
+    "en": "Coastal Influence on Tides"
+   },
+   "q": {
+    "te": "పోటుపాట్ల పరిమాణాన్ని (tidal magnitudes) బాగా మార్చడంలో ఏ రకమైన తీరప్రాంత లక్షణం ప్రసిద్ధి చెందింది?",
+    "en": "What type of coastal feature is noted for greatly changing tidal magnitudes?"
+   },
+   "options": {
+    "te": [
+     "నేరుగా ఉండే తీరప్రాంతాలు",
+     "గరాటు ఆకారపు అఖాతాలు (Funnel-shaped bays)",
+     "మధ్య-సముద్ర పర్వత శ్రేణులు",
+     "మునిగిపోయిన పగడపు దిబ్బలు"
+    ],
+    "en": [
+     "Straight coastlines",
+     "Funnel-shaped bays",
+     "Mid-oceanic ridges",
+     "Submerged reefs"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అఖాతాల ఆకారం, ప్రత్యేకించి గరాటు ఆకారంలో ఉన్నవి, పోటుపాట్ల తీవ్రతను పెంచుతాయి మరియు వాటి పరిమాణాన్ని మారుస్తాయి.",
+    "en": "The shape of bays, specifically funnel-shaped ones, can magnify the intensity and change the magnitude of tides."
+   }
+  }
+ ]
+}

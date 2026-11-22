@@ -1,0 +1,942 @@
+{
+ "id": "geo-22-c-3",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Population – క్విజ్ 3",
+  "en": "Population – Quiz 3"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T22-0152",
+   "section": {
+    "te": "UT Population Density",
+    "en": "UT Population Density"
+   },
+   "q": {
+    "te": "కేంద్రపాలిత ప్రాంతాలు చాలా ఎక్కువ జనాభా సాంద్రతను కలిగి ఉంటాయనే సాధారణ పరిశీలనకు ఏ కేంద్రపాలిత ప్రాంతం మినహాయింపుగా ఉంది?",
+    "en": "Which Union Territory is an exception to the general observation that Union Territories have very high population densities?"
+   },
+   "options": {
+    "te": [
+     "లక్షద్వీప్",
+     "పుదుచ్చేరి",
+     "చండీగఢ్",
+     "అండమాన్ మరియు నికోబార్ దీవులు"
+    ],
+    "en": [
+     "Lakshadweep",
+     "Puducherry",
+     "Chandigarh",
+     "Andaman and Nicobar islands"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అండమాన్ మరియు నికోబార్ దీవులు మినహా కేంద్రపాలిత ప్రాంతాలు చాలా ఎక్కువ సాంద్రతను కలిగి ఉన్నాయని మూలం పేర్కొంది.",
+    "en": "Union Territories have very high densities, excluding the Andaman and Nicobar islands."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T22-0147",
+   "section": {
+    "te": "Components of Population Growth",
+    "en": "Components of Population Growth"
+   },
+   "q": {
+    "te": "జనాభా వృద్ధి భాగాలకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ముడి జనన మరియు మరణాల రేట్లను అంచనా వేయడం ద్వారా సహజ వృద్ధి విశ్లేషించబడుతుంది.\n2. ప్రజల లోపలికి మరియు వెలుపలికి కదలికల పరిమాణం ద్వారా ప్రేరేపిత (Induced) వృద్ధి వివరించబడుతుంది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the components of population growth:\n1. Natural growth is analyzed by assessing crude birth and death rates.\n2. Induced growth is explained by the volume of inward and outward movement of people.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "జనాభా వృద్ధిలో సహజ (జనన/మరణ రేట్లు) మరియు ప్రేరేపిత (వలస/కదలిక) భాగాలు ఉంటాయని మూలం పేర్కొంది.",
+    "en": "Population growth has natural (birth/death rates) and induced (migration/movement) components."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T22-0103",
+   "section": {
+    "te": "Urbanisation",
+    "en": "Urbanisation"
+   },
+   "q": {
+    "te": "పట్టణీకరణకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. నగరాలు మెరుగైన ఉపాధి, విద్యా మరియు వైద్య సదుపాయాలను అందిస్తాయి.\n2. గ్రామీణ ప్రాంతాల నుండి పట్టణాలకు వలస వెళ్లడం నగర పరిమాణం పెరగడానికి ఒక ముఖ్య కారణం.\n3. నగర జీవితం ఎల్లప్పుడూ ఆహ్లాదకరంగా ఉంటుంది మరియు ఎప్పుడూ భారంగా ఉండదు.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding urbanisation:\n1. Cities offer better employment, educational, and medical facilities.\n2. Rural to urban migration is a key factor in the growth of city size.\n3. City life is always pleasant and never taxing.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రకటనలు 1 మరియు 2 సరైనవి. ప్రకటన 3 తప్పు ఎందుకంటే 'నగర జీవితం చాలా భారంగా ఉంటుంది' అని మరియు 'అప్రియమైన అంశాల' గురించి ఆలోచించమని పాఠ్యాంశం పేర్కొంది.",
+    "en": "Statements 1 and 2 are correct. Statement 3 is incorrect because the text mentions that 'city life can be very taxing' and asks to think of 'unpleasant aspects'."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T22-0132",
+   "section": {
+    "te": "Long-term Population Growth",
+    "en": "Long-term Population Growth"
+   },
+   "q": {
+    "te": "గత 500 సంవత్సరాలలో, మానవ జనాభా ఎన్ని రెట్ల కంటే ఎక్కువగా పెరిగింది?",
+    "en": "In the past 500 years, the human population has increased by more than how many times?"
+   },
+   "options": {
+    "te": [
+     "ఎనిమిది రెట్లు",
+     "పది రెట్లు",
+     "నాలుగు రెట్లు",
+     "ఐదు రెట్లు"
+    ],
+    "en": [
+     "Eight times",
+     "Ten times",
+     "Four times",
+     "Five times"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "గత 500 సంవత్సరాలలో మానవ జనాభా పది రెట్ల కంటే ఎక్కువగా పెరిగిందని మూలం పేర్కొంది.",
+    "en": "The human population increased more than ten times in the past 500 years."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T22-0109",
+   "section": {
+    "te": "Mortality Rate Factors",
+    "en": "Mortality Rate Factors"
+   },
+   "q": {
+    "te": "ఒక ప్రాంతంలో మరణాల రేటును ప్రభావితం చేసే అంశాలకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ప్రాంతం యొక్క జనాభా నిర్మాణం (Demographic structure).\n2. సామాజిక పురోగతి (Social advancement).\n3. ఆర్థిక అభివృద్ధి స్థాయిలు.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding the factors affecting mortality rates in a region:\n1. Demographic structure of the region.\n2. Social advancement.\n3. Levels of economic development.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మరణాల రేటు ఆ ప్రాంతం యొక్క జనాభా నిర్మాణం, సామాజిక పురోగతి మరియు ఆర్థిక అభివృద్ధి ద్వారా ప్రభావితమవుతుంది.",
+    "en": "Mortality rates are influenced by the demographic structure, social progress, and economic development of a region."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T22-0175",
+   "section": {
+    "te": "2001-2011 Growth Trends",
+    "en": "2001-2011 Growth Trends"
+   },
+   "q": {
+    "te": "2001-2011 మధ్య జనాభా వృద్ధికి సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. దాదాపు అన్ని రాష్ట్రాలు మరియు కేంద్రపాలిత ప్రాంతాల వృద్ధి రేట్లు 1991-2001 కంటే తక్కువగా ఉన్నాయి.\n2. ఆరు అత్యధిక జనాభా కలిగిన రాష్ట్రాలలో ఆంధ్రప్రదేశ్ వృద్ధి రేటులో అత్యల్ప తగ్గుదలని నమోదు చేసింది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding population growth between 2001-2011:\n1. Growth rates of almost all States and UTs were lower than in 1991-2001.\n2. The fall in growth rate percentage points was lowest for Andhra Pradesh among the six most populous states.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 లేదా 2 ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రెండు ప్రకటనలు సరైనవే. దాదాపు అన్ని ప్రాంతాల్లో తగ్గుదల కనిపించింది మరియు ఆరు ప్రధాన రాష్ట్రాల్లో ఆంధ్రప్రదేశ్ అత్యల్ప తగ్గుదలని (3.5 పాయింట్లు) నమోదు చేసింది.",
+    "en": "Both statements are correct. Almost all regions saw a decline, and among the top six populous states, Andhra Pradesh had the smallest decline (3.5 points)."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T22-0149",
+   "section": {
+    "te": "Lowest Population Density",
+    "en": "Lowest Population Density"
+   },
+   "q": {
+    "te": "చదరపు కిలోమీటరుకు 17 మందితో అతి తక్కువ జనాభా సాంద్రత కలిగిన భారతీయ రాష్ట్రం ఏది?",
+    "en": "Which Indian state has the lowest population density of 17 persons per sq km?"
+   },
+   "options": {
+    "te": [
+     "మిజోరం",
+     "అరుణాచల్ ప్రదేశ్",
+     "సిక్కిం",
+     "నాగాలాండ్"
+    ],
+    "en": [
+     "Mizoram",
+     "Arunachal Pradesh",
+     "Sikkim",
+     "Nagaland"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారతదేశంలో అరుణాచల్ ప్రదేశ్ చదరపు కిలోమీటరుకు 17 మందితో అతి తక్కువ జనాభా సాంద్రతను కలిగి ఉంది.",
+    "en": "Arunachal Pradesh has the lowest population density in India at 17 persons per sq km."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T22-0128",
+   "section": {
+    "te": "Demographic Transition Stage 2",
+    "en": "Demographic Transition Stage 2"
+   },
+   "q": {
+    "te": "నిశ్చయం (A): జనాభా పరివర్తన యొక్క రెండవ దశలో, జనాభా నికర పెరుగుదల ఎక్కువగా ఉంటుంది.\nకారణం (R): ప్రారంభంలో సంతానోత్పత్తి అధికంగా ఉంటుంది కానీ పారిశుధ్యం మరియు ఆరోగ్య పరిస్థితులలో మెరుగుదలల వల్ల మరణాల రేటు తగ్గుతుంది.",
+    "en": "Assertion (A): In the second stage of demographic transition, the net addition to population is high.\nReason (R): Fertility remains high in the beginning but mortality declines due to improvements in sanitation and health conditions."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "రెండవ దశలో అధిక సంతానోత్పత్తి మరియు తగ్గుతున్న మరణాల రేటు మధ్య ఉన్న వ్యత్యాసం జనాభాలో అధిక నికర పెరుగుదలకు దారితీస్తుంది.",
+    "en": "The gap between high fertility and declining mortality in the second stage leads to a high net addition to the population."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T22-0032",
+   "section": {
+    "te": "Population Growth Trends",
+    "en": "Population Growth Trends"
+   },
+   "q": {
+    "te": "సంతానోత్పత్తి రేటు కాలక్రమేణా 2.1 కంటే తక్కువగా ఉంటే జనాభాకు ఏమవుతుంది?",
+    "en": "What happens to a population if the fertility rate stays below 2.1 over time?"
+   },
+   "options": {
+    "te": [
+     "జనాభా వేగంగా పెరుగుతుంది",
+     "జనాభా తగ్గే అవకాశం ఉంది",
+     "జనాభా సంపూర్ణంగా స్థిరంగా ఉంటుంది",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "The population will grow faster",
+     "The population might shrink",
+     "The population will remain perfectly stable",
+     "None of these"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పునఃస్థాపన స్థాయి 2.1 కంటే తక్కువ సంతానోత్పత్తి రేటు ఉంటే కాలక్రమేణా జనాభా తగ్గే అవకాశం ఉందని సూచిస్తుంది.",
+    "en": "A fertility rate below the replacement level of 2.1 indicates that the population might shrink over time."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T22-0113",
+   "section": {
+    "te": "Demographic Transition Theory",
+    "en": "Demographic Transition Theory"
+   },
+   "q": {
+    "te": "జనాభా పరివర్తన సిద్ధాంతం (Demographic Transition Theory) ప్రకారం, సమాజం అభివృద్ధి చెందుతున్నప్పుడు, అది దేని నుండి దేనికి మారుతుంది?",
+    "en": "According to the Demographic Transition Theory, as a society progresses, it changes from:"
+   },
+   "options": {
+    "te": [
+     "పట్టణ పారిశ్రామిక నుండి గ్రామీణ వ్యవసాయ సమాజానికి",
+     "తక్కువ జననాలు మరియు తక్కువ మరణాల నుండి అధిక జననాలు మరియు అధిక మరణాలకు",
+     "గ్రామీణ వ్యవసాయ మరియు నిరక్షరాస్యత నుండి పట్టణ పారిశ్రామిక మరియు అక్షరాస్యత సమాజానికి",
+     "అక్షరాస్యత సమాజం నుండి నిరక్షరాస్యత వ్యవసాయ సమాజానికి"
+    ],
+    "en": [
+     "Urban industrial to rural agrarian society",
+     "Low births and low deaths to high births and high deaths",
+     "Rural agrarian and illiterate to urban industrial and literate society",
+     "Literate society to illiterate agrarian society"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఈ సిద్ధాంతం గ్రామీణ వ్యవసాయ సమాజాలలో అధిక జనన/మరణాల రేటు నుండి పట్టణ పారిశ్రామిక సమాజాలలో తక్కువ జనన/మరణాల రేటుకు మారడాన్ని వివరిస్తుంది.",
+    "en": "The theory describes the shift from high birth/death rates in rural agrarian societies to low birth/death rates in urban industrial societies."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T22-0076",
+   "section": {
+    "te": "Women in Workforce",
+    "en": "Women in Workforce"
+   },
+   "q": {
+    "te": "ఉద్యోగ రంగంలో మహిళల సందర్భంలో 'డబుల్ బర్డెన్' (double burden) అనే పదం దేనిని సూచిస్తుంది?",
+    "en": "What does the term 'double burden' refer to in the context of women in the workforce?"
+   },
+   "options": {
+    "te": [
+     "ఆదాయపు పన్ను మరియు ఆస్తి పన్ను రెండింటినీ చెల్లించడం",
+     "ఉద్యోగ బాధ్యతలు మరియు ఇంటి పనులు రెండింటినీ నిర్వహించడం",
+     "ఒకే సమయంలో రెండు వేర్వేరు ఉద్యోగాలు చేయడం",
+     "పిల్లలు మరియు వృద్ధాప్యంలో ఉన్న తల్లిదండ్రులు ఇద్దరినీ చూసుకోవడం"
+    ],
+    "en": [
+     "Paying both income tax and property tax",
+     "Managing both job responsibilities and household duties",
+     "Working two different jobs at the same time",
+     "Caring for both children and elderly parents"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "'డబుల్ బర్డెన్' అనేది మహిళలు తమ వృత్తిపరమైన ఉద్యోగ బాధ్యతలు మరియు వారి ఇంటి పనులు రెండింటినీ నిర్వహించడంలో ఎదుర్కొనే సవాలును సూచిస్తుంది.",
+    "en": "The 'double burden' refers to the challenge women face in managing both their professional job responsibilities and their household duties."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T22-0079",
+   "section": {
+    "te": "Population Density Formula",
+    "en": "Population Density Formula"
+   },
+   "q": {
+    "te": "జనాభా సాంద్రతను లెక్కించడానికి సూత్రం ఏమిటి?",
+    "en": "What is the formula to calculate population density?"
+   },
+   "options": {
+    "te": [
+     "ప్రాంతం యొక్క వైశాల్యం / మొత్తం జనాభా",
+     "జనన రేటు - మరణ రేటు",
+     "మొత్తం జనాభా × ప్రాంతం యొక్క వైశాల్యం",
+     "మొత్తం జనాభా / ప్రాంతం యొక్క వైశాల్యం"
+    ],
+    "en": [
+     "Area of the region / Total population",
+     "Birth rate - Death rate",
+     "Total population × Area of the region",
+     "Total population / Area of the region"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఒక ప్రాంతం యొక్క మొత్తం జనాభాను దాని వైశాల్యం (చదరపు కిలోమీటర్లలో) తో భాగించడం ద్వారా జనాభా సాంద్రత లెక్కించబడుతుంది.",
+    "en": "Population density is calculated by dividing the total population of a region by its area in square kilometers."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T22-0137",
+   "section": {
+    "te": "Stage 1 Mortality Reasons",
+    "en": "Stage 1 Mortality Reasons"
+   },
+   "q": {
+    "te": "జనాభా పరివర్తన యొక్క మొదటి దశలో, ప్రజలు ఎందుకు ఎక్కువ సంతానాన్ని పొందుతారు?",
+    "en": "In the first stage of demographic transition, why do people reproduce more?"
+   },
+   "options": {
+    "te": [
+     "అంటువ్యాధులు మరియు అస్థిరమైన ఆహార సరఫరా వల్ల సంభవించే మరణాలను భర్తీ చేయడానికి",
+     "పట్టణ జనాభాను పెంచడానికి",
+     "వ్యవసాయంపై ఆధారపడటాన్ని తగ్గించడానికి",
+     "అధిక సాంకేతిక పరిజ్ఞానం వల్ల"
+    ],
+    "en": [
+     "To compensate for deaths due to epidemics and variable food supply",
+     "To increase the urban population",
+     "To reduce the dependency on agriculture",
+     "Because of high technical know-how"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మొదటి దశలో, అంటువ్యాధులు మరియు అస్థిరమైన ఆహార సరఫరా వల్ల కలిగే అధిక మరణాల రేటును భర్తీ చేయడానికి అధిక సంతానోత్పత్తి ఒక ప్రతిస్పందనగా ఉంటుంది.",
+    "en": "In the first stage, high fertility is a response to high mortality caused by epidemics and unreliable food supplies."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T22-0118",
+   "section": {
+    "te": "Natural Growth Formula",
+    "en": "Natural Growth Formula"
+   },
+   "q": {
+    "te": "'జనాభా సహజ వృద్ధి' (Natural Growth of Population) సూత్రం ఏమిటి?",
+    "en": "What is the formula for 'Natural Growth of Population'?"
+   },
+   "options": {
+    "te": [
+     "జననాలు – మరణాలు",
+     "జననాలు ÷ మరణాలు",
+     "జననాలు × మరణాలు",
+     "జననాలు + మరణాలు"
+    ],
+    "en": [
+     "Births – Deaths",
+     "Births ÷ Deaths",
+     "Births × Deaths",
+     "Births + Deaths"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సహజ వృద్ధి అనేది ఒక ప్రాంతంలోని జననాలు మరియు మరణాల సంఖ్య మధ్య వ్యత్యాసం.",
+    "en": "Natural growth is simply the difference between the number of births and deaths in a region."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T22-0173",
+   "section": {
+    "te": "Phase IV Growth Factors",
+    "en": "Phase IV Growth Factors"
+   },
+   "q": {
+    "te": "నిశ్చయం (A): 1981 నుండి, భారతదేశ జనాభా వృద్ధి రేటు క్రమంగా తగ్గడం ప్రారంభమైంది.\nకారణం (R): దేశంలో వివాహ సగటు వయస్సు పెరగడం మరియు స్త్రీ విద్య నాణ్యత మెరుగుపడటం జరిగింది.",
+    "en": "Assertion (A): Since 1981, the growth rate of India's population has started slowing down gradually.\nReason (R): There has been an increase in the mean age at marriage and improved quality of female education in the country."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "జనన రేట్లు తగ్గడం వల్ల వృద్ధి రేటు తగ్గింది, దీనికి వివాహ వయస్సు పెరగడం మరియు స్త్రీ విద్య మెరుగుపడటం వంటి అంశాలు కారణమయ్యాయి.",
+    "en": "The slowing growth rate is directly attributed to the decline in birth rates, which was caused by factors like later marriage and better female education."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T22-0089",
+   "section": {
+    "te": "Population Distribution Pattern",
+    "en": "Population Distribution Pattern"
+   },
+   "q": {
+    "te": "ప్రపంచ జనాభా విస్తరణకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ప్రపంచ జనాభాలో సుమారు 90% మంది దాని భూభాగంలో 10% లో నివసిస్తున్నారు.\n2. అత్యధిక జనాభా కలిగిన 10 దేశాలు ప్రపంచ జనాభాలో సుమారు 60% వాటాను కలిగి ఉన్నాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding world population distribution:\n1. Approximately 90% of the world's population lives in about 10% of its land area.\n2. The 10 most populous countries contribute about 60% of the world's population.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రెండు ప్రకటనలు పాఠ్యాంశం ద్వారా నేరుగా ధృవీకరించబడ్డాయి: 90% ప్రజలు 10% భూమిపై నివసిస్తున్నారు మరియు మొదటి 10 దేశాలు 60% జనాభాను కలిగి ఉన్నాయి.",
+    "en": "Both statements are directly supported by the text: 90% of people live on 10% of land, and the top 10 countries account for 60% of the population."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T22-0025",
+   "section": {
+    "te": "Falling Fertility Factors",
+    "en": "Falling Fertility Factors"
+   },
+   "q": {
+    "te": "తగ్గుతున్న సంతానోత్పత్తి రేట్లకు దోహదపడే ఈ క్రింది అంశాలను పరిగణించండి:\n1. బాలికలకు నాణ్యమైన విద్య అందుబాటులో ఉండటం.\n2. అధికారిక ఉద్యోగాల కారణంగా మహిళలు ఆలస్యంగా వివాహం చేసుకోవడం.\n3. వేగవంతమైన పట్టణీకరణ కారణంగా నగరాల్లో జీవన వ్యయం పెరగడం.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following factors contributing to falling fertility rates:\n1. Improvements in access to quality education for girls.\n2. Women marrying at a later stage due to formal jobs.\n3. High cost of living in cities due to rapid urbanization.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "బాలికల విద్య, ఉద్యోగాల వల్ల ఆలస్యంగా వివాహం చేసుకోవడం మరియు పట్టణ ప్రాంతాల్లో అధిక జీవన వ్యయం అన్నీ సంతానోత్పత్తి రేట్లు తగ్గడానికి కారణాలుగా పేర్కొనబడ్డాయి.",
+    "en": "Education for girls, late marriage due to jobs, and high cost of living in urban areas are all cited as reasons for falling fertility rates."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T22-0048",
+   "section": {
+    "te": "Migration",
+    "en": "Migration"
+   },
+   "q": {
+    "te": "తాత్కాలికంగా లేదా శాశ్వతంగా స్థిరపడటానికి ప్రజలు ఒక ప్రాంతం నుండి మరొక ప్రాంతానికి మారడాన్ని ఏమంటారు?",
+    "en": "What term is used for the movement of people from one place to another to settle either temporarily or permanently?"
+   },
+   "options": {
+    "te": [
+     "పరివర్తన (Transition)",
+     "మరణాల రేటు (Mortality)",
+     "కూర్పు (Composition)",
+     "వలస (Migration)"
+    ],
+    "en": [
+     "Transition",
+     "Mortality",
+     "Composition",
+     "Migration"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "తాత్కాలిక లేదా శాశ్వత నివాసం కోసం ప్రజలు కొత్త ప్రదేశానికి మారడాన్ని వలస అని నిర్వచిస్తారు.",
+    "en": "The movement of people to a new location for temporary or permanent settlement is defined as migration."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T22-0087",
+   "section": {
+    "te": "Demographic Dividend Window",
+    "en": "Demographic Dividend Window"
+   },
+   "q": {
+    "te": "భారతదేశం యొక్క జనాభా డివిడెండ్ కోసం 'అవకాశాల విండో' ఎందుకు పరిమితంగా పరిగణించబడుతుంది?",
+    "en": "Why is India's 'window of opportunity' for the demographic dividend considered limited?"
+   },
+   "options": {
+    "te": [
+     "2050 తర్వాత వలసలు ఆగిపోతాయి కాబట్టి",
+     "మొత్తం జనాభా వెంటనే తగ్గడం ప్రారంభమవుతుంది కాబట్టి",
+     "2050 తర్వాత యువ జనాభా వృద్ధి తగ్గుతుందని భావిస్తున్నారు కాబట్టి",
+     "ప్రభుత్వం పన్నులు వసూలు చేయడం ఆపివేస్తుంది కాబట్టి"
+    ],
+    "en": [
+     "Because migration will stop after 2050",
+     "Because the total population will start shrinking immediately",
+     "Because the growth in the young population is expected to decrease beyond 2050",
+     "Because the government will stop collecting taxes"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "2050 తర్వాత యువ జనాభా వృద్ధి తగ్గుతుందని అంచనా వేయబడినందున జనాభా డివిడెండ్ విండో పరిమితంగా ఉంది.",
+    "en": "The demographic dividend window is limited because the growth of the young population is projected to decline after 2050."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T22-0151",
+   "section": {
+    "te": "Factors for Population Concentration",
+    "en": "Factors for Population Concentration"
+   },
+   "q": {
+    "te": "గతంలో తక్కువ జనాభా ఉన్న ప్రాంతాలలో మధ్యస్థం నుండి అధిక జనాభా కేంద్రీకరణకు కింది వాటిలో ఏ అంశాలు దారితీశాయి?",
+    "en": "Which of the following factors have led to moderate to high population concentration in previously thinly populated areas?"
+   },
+   "options": {
+    "te": [
+     "రాజస్థాన్‌లో నీటిపారుదల అభివృద్ధి",
+     "జార్ఖండ్‌లో ఖనిజ వనరుల లభ్యత",
+     "ద్వీపకల్ప రాష్ట్రాలలో రవాణా నెట్‌వర్క్ అభివృద్ధి",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Development of irrigation in Rajasthan",
+     "Availability of mineral resources in Jharkhand",
+     "Development of transport network in Peninsular States",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రాజస్థాన్‌లో నీటిపారుదల, జార్ఖండ్‌లో ఖనిజాలు మరియు ద్వీపకల్ప రాష్ట్రాలలో రవాణా వంటి అంశాలు జనాభా కేంద్రీకరణ పెరగడానికి కారణాలని మూలం పేర్కొంది.",
+    "en": "Irrigation in Rajasthan, minerals in Jharkhand, and transport in Peninsular states as factors for increased population concentration."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T22-0172",
+   "section": {
+    "te": "Phase III Growth Rate",
+    "en": "Phase III Growth Rate"
+   },
+   "q": {
+    "te": "'జనాభా విస్ఫోటనం' కాలంలో (1951-1981) భారతదేశ జనాభా సగటు వార్షిక వృద్ధి రేటు ఎంత?",
+    "en": "What was the average annual growth rate of India's population during the 'population explosion' period (1951-1981)?"
+   },
+   "options": {
+    "te": [
+     "1.5 శాతం",
+     "0.31 శాతం",
+     "3.1 శాతం",
+     "2.2 శాతం"
+    ],
+    "en": [
+     "1.5 per cent",
+     "0.31 per cent",
+     "3.1 per cent",
+     "2.2 per cent"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జనాభా విస్ఫోటన దశలో (దశ III), సగటు వార్షిక వృద్ధి రేటు 2.2 శాతంగా ఉంది.",
+    "en": "During the population explosion phase (Phase III), the average annual growth rate reached 2.2 per cent."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T22-0167",
+   "section": {
+    "te": "Phase I High Rates",
+    "en": "Phase I High Rates"
+   },
+   "q": {
+    "te": "దశ I (1901-1921) కాలంలో అధిక జనన మరియు మరణాల రేటుకు ఏ అంశాలు కారణమయ్యాయి?",
+    "en": "Which factors were responsible for the high birth and death rates during Phase I (1901-1921)?"
+   },
+   "options": {
+    "te": [
+     "పేలవమైన ఆరోగ్య మరియు వైద్య సేవలు",
+     "అసమర్థమైన ఆహార పంపిణీ వ్యవస్థ",
+     "ప్రజల నిరక్షరాస్యత",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Poor health and medical services",
+     "Inefficient food distribution system",
+     "Illiteracy of people",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వైద్య సేవలు సరిగా లేకపోవడం, నిరక్షరాస్యత మరియు ప్రాథమిక అవసరాల పంపిణీలో లోపాల వల్ల దశ Iలో జనన, మరణాల రేట్లు ఎక్కువగా ఉన్నాయి.",
+    "en": "The high birth and death rates in Phase I were due to a combination of poor medical services, illiteracy, and inefficient distribution of basic necessities."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T22-0056",
+   "section": {
+    "te": "Population Structure",
+    "en": "Population Structure"
+   },
+   "q": {
+    "te": "జనాభా నిర్మాణ రేఖాచిత్రంలో (population structure diagram), గ్రాఫ్ యొక్క మధ్య భాగం వెడల్పుగా ఉంటే అది దేనిని సూచిస్తుంది?",
+    "en": "In a population structure diagram, what does it indicate if the middle part of the graph is the widest?"
+   },
+   "options": {
+    "te": [
+     "దేశం యువ మరియు పెరుగుతున్న జనాభాను కలిగి ఉంది",
+     "దేశం వృద్ధాప్య జనాభాను కలిగి ఉంది",
+     "జనన రేటు చాలా ఎక్కువగా ఉంది",
+     "ఎక్కువ మంది పని చేసే వయోజనులు మరియు జనాభా స్థిరంగా ఉంది"
+    ],
+    "en": [
+     "The country has a young and growing population",
+     "The country has an ageing population",
+     "The birth rate is extremely high",
+     "Most people are working adults and the population is stable"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జనాభా పిరమిడ్‌లో వెడల్పుగా ఉన్న మధ్య భాగం జనాభాలో ఎక్కువ మంది పని చేసే వయోజనులు ఉన్నారని సూచిస్తుంది, ఇది స్థిరమైన జనాభాను తెలియజేస్తుంది.",
+    "en": "A wide middle section in a population pyramid signifies that the majority of the population consists of working adults, indicating a stable population."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T22-0015",
+   "section": {
+    "te": "African Population Growth",
+    "en": "African Population Growth"
+   },
+   "q": {
+    "te": "ఏ ఆఫ్రికా దేశాల జనాభా వేగంగా పెరుగుతూనే ఉందని ప్రత్యేకంగా పేర్కొనబడింది?",
+    "en": "Which African nations are specifically mentioned as having populations that continue to grow rapidly?"
+   },
+   "options": {
+    "te": [
+     "ఈజిప్ట్ మరియు దక్షిణాఫ్రికా",
+     "అల్జీరియా మరియు మొరాకో",
+     "కెన్యా మరియు సూడాన్",
+     "నైజీరియా మరియు ఇథియోపియా"
+    ],
+    "en": [
+     "Egypt and South Africa",
+     "Algeria and Morocco",
+     "Kenya and Sudan",
+     "Nigeria and Ethiopia"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నైజీరియా మరియు ఇథియోపియాలను జనాభా వేగంగా పెరుగుతున్న ఆఫ్రికా దేశాలుగా పాఠ్యం గుర్తిస్తుంది.",
+    "en": "The text identifies Nigeria and Ethiopia as African nations where the population continues to grow rapidly."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T22-0030",
+   "section": {
+    "te": "India Population Campaign",
+    "en": "India Population Campaign"
+   },
+   "q": {
+    "te": "భారతదేశం 'హమ్ దో హమారే దో' వంటి జనాభా నియంత్రణ ప్రచారాలను ఏ సంవత్సరంలో ప్రారంభించింది?",
+    "en": "In which year did India start population control campaigns like 'Hum do humare do'?"
+   },
+   "options": {
+    "te": [
+     "1952",
+     "1947",
+     "1989",
+     "1979"
+    ],
+    "en": [
+     "1952",
+     "1947",
+     "1989",
+     "1979"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఇద్దరు పిల్లల పరిమితిని నొక్కిచెప్పే భారతదేశం యొక్క 'హమ్ దో హమారే దో' ప్రచారం 1952లో ప్రారంభమైంది.",
+    "en": "India's 'Hum do humare do' campaign, emphasizing a two-child limit, began in 1952."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T22-0179",
+   "section": {
+    "te": "Adolescent Gender Composition",
+    "en": "Adolescent Gender Composition"
+   },
+   "q": {
+    "te": "భారతదేశంలోని కౌమార జనాభాకు (2011) సంబంధించి ఈ క్రింది ప్రకటనలను గమనించండి:\n1. కౌమార జనాభాలో ఆడపిల్లల కంటే మగపిల్లల శాతం ఎక్కువగా ఉంది.\n2. మొత్తం జనాభాలో కౌమారదశలో ఉన్నవారి వాటా సుమారు 25 శాతం.\nపై ప్రకటనలలో ఏది/ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding the adolescent population in India (2011):\n1. Male adolescents constitute a higher percentage of the adolescent population than female adolescents.\n2. The share of adolescents in the total population is approximately 25 per cent.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రకటన 1 సరైనది ఎందుకంటే మగపిల్లలు 52.7% మరియు ఆడపిల్లలు 47.3% ఉన్నారు. ప్రకటన 2 తప్పు ఎందుకంటే కౌమార జనాభా వాటా 20.9%, 25% కాదు.",
+    "en": "Statement 1 is correct as males constitute 52.7% and females 47.3%. Statement 2 is incorrect because the share of adolescents is 20.9%, not 25%."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T22-0049",
+   "section": {
+    "te": "Demographic Transition",
+    "en": "Demographic Transition"
+   },
+   "q": {
+    "te": "జనాభా పరివర్తన యొక్క రెండవ దశ (Stage 2) లో, మరణాల రేటు తగ్గడానికి ప్రధాన కారణం ఏమిటి?",
+    "en": "In Stage 2 of demographic transition, what is the primary cause for the fall in the death rate?"
+   },
+   "options": {
+    "te": [
+     "తక్కువ అక్షరాస్యత రేటు",
+     "శ్రామిక శక్తిలో మహిళల తగ్గుదల",
+     "పెరుగుతున్న పట్టణీకరణ",
+     "మెరుగైన ఆరోగ్య సంరక్షణ లభ్యత"
+    ],
+    "en": [
+     "Lower literacy rates",
+     "Decrease in women in the workforce",
+     "Rising urbanization",
+     "Availability of better healthcare"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రెండవ దశలో, దేశాలు ఆర్థికంగా పురోగమిస్తున్నప్పుడు మెరుగైన ఆరోగ్య సంరక్షణ లభ్యత కారణంగా మరణాల రేటు తగ్గుతుంది.",
+    "en": "In Stage 2, the death rate falls primarily due to the availability of better healthcare as nations progress economically."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T22-0168",
+   "section": {
+    "te": "Phase II Context",
+    "en": "Phase II Context"
+   },
+   "q": {
+    "te": "దశ II (1921-1951)లో స్థిరమైన జనాభా వృద్ధి ఏ ప్రధాన ప్రపంచ సంఘటన(లు) జరిగినప్పటికీ ఆకట్టుకునేలా పరిగణించబడుతుంది?",
+    "en": "The steady population growth in Phase II (1921-1951) is considered impressive because it occurred despite which major global event(s)?"
+   },
+   "options": {
+    "te": [
+     "1920ల నాటి గొప్ప ఆర్థిక మాంద్యం",
+     "రెండవ ప్రపంచ యుద్ధం",
+     "A మరియు B రెండూ",
+     "పారిశ్రామిక విప్లవం"
+    ],
+    "en": [
+     "Great Economic Depression of the 1920s",
+     "World War II",
+     "Both A and B",
+     "The Industrial Revolution"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "1921-1951 మధ్య స్థిరమైన వృద్ధి, ఆర్థిక మాంద్యం మరియు రెండవ ప్రపంచ యుద్ధం వంటి సవాళ్లు ఉన్నప్పటికీ కొనసాగింది.",
+    "en": "The steady growth during 1921-1951 happened despite the challenges of the Great Economic Depression and World War II."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T22-0028",
+   "section": {
+    "te": "Kinship Networks",
+    "en": "Kinship Networks"
+   },
+   "q": {
+    "te": "రక్తం, వివాహం మరియు దత్తత ద్వారా ఏర్పడిన పరస్పర అనుసంధానిత సామాజిక సంబంధాల నెట్‌వర్క్‌ను ఏమంటారు?",
+    "en": "What is defined as an interconnected web of social relationships through blood, marriage, and adoption?"
+   },
+   "options": {
+    "te": [
+     "సామాజిక వర్గీకరణ (Social stratification)",
+     "వలస నమూనాలు (Migration patterns)",
+     "జనాభా పరివర్తన (Demographic transition)",
+     "బంధుత్వ నెట్‌వర్క్‌లు (Kinship networks)"
+    ],
+    "en": [
+     "Social stratification",
+     "Migration patterns",
+     "Demographic transition",
+     "Kinship networks"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రక్తం, వివాహం మరియు దత్తత ద్వారా ఏర్పడిన పరస్పర అనుసంధానిత సామాజిక సంబంధాలను బంధుత్వ నెట్‌వర్క్‌లు అంటారు.",
+    "en": "Kinship networks are the interconnected social relationships formed via blood, marriage, and adoption."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T22-0018",
+   "section": {
+    "te": "Population Structure",
+    "en": "Population Structure"
+   },
+   "q": {
+    "te": "వయస్సు, లింగం మరియు విద్య వంటి లక్షణాల ఆధారంగా జనాభా ఎలా రూపొందించబడిందో సూచించే పదం ఏది?",
+    "en": "Which term refers to how a population is made up based on characteristics like age, gender, and education?"
+   },
+   "options": {
+    "te": [
+     "జనాభా నిర్మాణం (Population Structure)",
+     "జనాభా వృద్ధి",
+     "జనాభా విస్తరణ",
+     "జనాభా సాంద్రత"
+    ],
+    "en": [
+     "Population Structure",
+     "Population Growth",
+     "Population Distribution",
+     "Population Density"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వయస్సు మరియు లింగం వంటి లక్షణాల ఆధారంగా జనాభా యొక్క కూర్పును దాని నిర్మాణంగా మూలం నిర్వచిస్తుంది.",
+    "en": "The source defines the makeup of a population based on characteristics like age and gender as its structure."
+   }
+  }
+ ]
+}

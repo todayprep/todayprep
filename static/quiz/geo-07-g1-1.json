@@ -1,0 +1,942 @@
+{
+ "id": "geo-07-g1-1",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Climate Elements – క్విజ్ 1",
+  "en": "Climate Elements – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T07-0055",
+   "section": {
+    "te": "Humidity and Temperature",
+    "en": "Humidity and Temperature"
+   },
+   "q": {
+    "te": "గాలి ఉష్ణోగ్రత పెరిగేకొద్దీ, నీటి ఆవిరిని పట్టి ఉంచే గాలి సామర్థ్యం ఏమవుతుంది?",
+    "en": "What happens to the capacity of air to hold water vapour as the air temperature increases?"
+   },
+   "options": {
+    "te": [
+     "అదే విధంగా ఉంటుంది",
+     "తగ్గుతుంది",
+     "మొదట పెరిగి తర్వాత తగ్గుతుంది",
+     "పెరుగుతుంది"
+    ],
+    "en": [
+     "It remains the same",
+     "It decreases",
+     "It first increases then decreases",
+     "It increases"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వెచ్చని గాలికి నీటి ఆవిరిని పట్టి ఉంచే సామర్థ్యం ఎక్కువగా ఉంటుంది, ఇది అధిక ఆర్ద్రత స్థాయిలకు దారితీస్తుంది.",
+    "en": "Warmer air has a higher capacity to hold water vapour, which leads to higher humidity levels."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T07-0194",
+   "section": {
+    "te": "Orographic Rainfall",
+    "en": "Orographic Rainfall"
+   },
+   "q": {
+    "te": "తక్కువ వర్షపాతం పొందే పర్వతం యొక్క లీవార్డ్ (leeward) వైపు ఉన్న పొడి ప్రాంతాన్ని ఏమని పిలుస్తారు?",
+    "en": "What is the term used for the dry area on the leeward side of a mountain that receives less rainfall?"
+   },
+   "options": {
+    "te": [
+     "ఫ్రంటల్ మండలం (Frontal zone)",
+     "వర్షచ్ఛాయా ప్రాంతం (Rain-shadow area)",
+     "విండ్‌వర్డ్ (Windward) ప్రాంతం",
+     "సంవహన మండలం (Convectional zone)"
+    ],
+    "en": [
+     "Frontal zone",
+     "Rain-shadow area",
+     "Windward area",
+     "Convectional zone"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పర్వతం యొక్క లీవార్డ్ వైపు, క్రిందికి దిగే గాలి వేడెక్కి తేమను పట్టి ఉంచే సామర్థ్యం పెరగడం వల్ల పొడి 'వర్షచ్ఛాయా ప్రాంతం' ఏర్పడుతుంది.",
+    "en": "The leeward side of a mountain, where descending air warms up and capacity to hold moisture increases, results in a dry 'rain-shadow area'."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T07-0103",
+   "section": {
+    "te": "Normal Lapse Rate",
+    "en": "Normal Lapse Rate"
+   },
+   "q": {
+    "te": "ఎత్తు పెరిగేకొద్దీ ఉష్ణోగ్రత తగ్గే 'సాధారణ క్షీణత రేటు' (normal lapse rate) విలువ ఎంత?",
+    "en": "What is the value of the 'normal lapse rate' at which temperature decreases with increasing height?"
+   },
+   "options": {
+    "te": [
+     "ప్రతి 1,000 మీటర్లకు 5.5°C",
+     "ప్రతి 1,000 మీటర్లకు 7.5°C",
+     "ప్రతి 1,000 మీటర్లకు 6.5°C",
+     "ప్రతి 1,000 మీటర్లకు 6.0°C"
+    ],
+    "en": [
+     "5.5°C per 1,000 m",
+     "7.5°C per 1,000 m",
+     "6.5°C per 1,000 m",
+     "6.0°C per 1,000 m"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సాధారణ క్షీణత రేటు అనేది ఎత్తుతో పాటు ఉష్ణోగ్రత తగ్గే రేటు, ఇది ప్రతి 1,000 మీటర్లకు 6.5°C గా ఉంటుంది.",
+    "en": "The normal lapse rate is the rate at which temperature decreases with height, which is 6.5°C for every 1,000 meters."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T07-0186",
+   "section": {
+    "te": "Factors Affecting Evaporation",
+    "en": "Factors Affecting Evaporation"
+   },
+   "q": {
+    "te": "బాష్పీభవనానికి (Evaporation) సంబంధించి ఈ క్రింది ప్రకటనలను గమనించండి:\n1. ఉష్ణోగ్రత పెరగడం వల్ల గాలి యొక్క నీటిని నిలుపుకునే సామర్థ్యం పెరుగుతుంది.\n2. గాలి కదలిక సంతృప్త పొరను అసంతృప్త పొరతో భర్తీ చేయడం ద్వారా బాష్పీభవనాన్ని పెంచుతుంది.\n3. తేమ తక్కువగా ఉంటే, గాలికి తేమను గ్రహించే సామర్థ్యం ఎక్కువగా ఉంటుంది.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding evaporation:\n1. Increase in temperature increases the water retention capacity of air.\n2. Movement of air increases evaporation by replacing the saturated layer with an unsaturated one.\n3. If moisture content is low, air has a higher potentiality of absorbing moisture.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అధిక ఉష్ణోగ్రతలు, గాలి కదలిక మరియు గాలిలో ప్రారంభ తేమ తక్కువగా ఉండటం వల్ల బాష్పీభవనం పెరుగుతుంది.",
+    "en": "Evaporation is increased by higher temperatures, air movement, and low initial moisture content in the air."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T07-0117",
+   "section": {
+    "te": "Total Atmospheric Absorption",
+    "en": "Total Atmospheric Absorption"
+   },
+   "q": {
+    "te": "సౌర వికిరణం మరియు భూ వికిరణం రెండింటి నుండి వాతావరణం గ్రహించిన మొత్తం యూనిట్ల సంఖ్య ఎంత?",
+    "en": "What is the total number of units absorbed by the atmosphere from both insolation and terrestrial radiation?"
+   },
+   "options": {
+    "te": [
+     "34 యూనిట్లు",
+     "48 యూనిట్లు",
+     "14 యూనిట్లు",
+     "65 యూనిట్లు"
+    ],
+    "en": [
+     "34 units",
+     "48 units",
+     "14 units",
+     "65 units"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వాతావరణం వచ్చే సౌర వికిరణం నుండి 14 యూనిట్లను మరియు వెళ్ళే భూ వికిరణం నుండి 34 యూనిట్లను గ్రహిస్తుంది, మొత్తం 48 యూనిట్లు.",
+    "en": "The atmosphere absorbs 14 units from incoming solar radiation and 34 units from outgoing terrestrial radiation, totaling 48 units."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T07-0171",
+   "section": {
+    "te": "Air Mass Definition",
+    "en": "Air Mass Definition"
+   },
+   "q": {
+    "te": "ఉష్ణోగ్రత మరియు తేమలో తక్కువ క్షితిజ సమాంతర వైవిధ్యం కలిగిన పెద్ద గాలి రాశిని ఏమని పిలుస్తారు?",
+    "en": "What is a large body of air with little horizontal variation in temperature and moisture called?"
+   },
+   "options": {
+    "te": [
+     "ఫ్రంట్ (Front)",
+     "వాయురాశి (Air mass)",
+     "చక్రవాతం (Cyclone)",
+     "జెట్ స్ట్రీమ్ (Jet stream)"
+    ],
+    "en": [
+     "Front",
+     "Air mass",
+     "Cyclone",
+     "Jet stream"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వాయురాశి అనేది దాని మూల ప్రాంతం నుండి ఉష్ణోగ్రత మరియు తేమ యొక్క ఏకరీతి లక్షణాలను పొందిన పెద్ద గాలి రాశిగా నిర్వచించబడింది.",
+    "en": "An air mass is defined as a large body of air that has acquired homogenous characteristics of temperature and humidity from its source region."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T07-0100",
+   "section": {
+    "te": "Atmospheric Absorption",
+    "en": "Atmospheric Absorption"
+   },
+   "q": {
+    "te": "దీర్ఘ తరంగ భూ వికిరణాన్ని శోషించుకోవడానికి (absorb) బాధ్యత వహించే వాయువుగా దేనిని ప్రత్యేకంగా పేర్కొన్నారు?",
+    "en": "Which gas is specifically mentioned as being responsible for absorbing long wave terrestrial radiation?"
+   },
+   "options": {
+    "te": [
+     "ఆక్సిజన్",
+     "కార్బన్ డయాక్సైడ్",
+     "నైట్రోజన్",
+     "ఆర్గాన్"
+    ],
+    "en": [
+     "Oxygen",
+     "Carbon dioxide",
+     "Nitrogen",
+     "Argon"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కార్బన్ డయాక్సైడ్ మరియు ఇతర గ్రీన్ హౌస్ వాయువులు భూమి విడుదల చేసే దీర్ఘ తరంగ వికిరణాన్ని శోషించుకుంటాయి, తద్వారా వాతావరణాన్ని పరోక్షంగా వేడి చేస్తాయి.",
+    "en": "Carbon dioxide and other greenhouse gases absorb the long wave radiation emitted by the Earth, indirectly heating the atmosphere."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T07-0125",
+   "section": {
+    "te": "Temperature Inversion",
+    "en": "Temperature Inversion"
+   },
+   "q": {
+    "te": "ఉష్ణోగ్రత విలోమం (temperature inversion) సంభవించడానికి ఈ క్రింది వాటిలో ఏ పరిస్థితులు అనువైనవి?",
+    "en": "Which of the following conditions are ideal for the occurrence of temperature inversion?"
+   },
+   "options": {
+    "te": [
+     "సుదీర్ఘ శీతాకాలపు రాత్రులు",
+     "నిర్మలమైన ఆకాశం మరియు నిశ్చలమైన గాలి",
+     "మేఘావృతమైన ఆకాశంతో కూడిన చిన్న వేసవి పగళ్లు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Long winter nights",
+     "Clear skies and still air",
+     "Short summer days with cloudy skies",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నిర్మలమైన ఆకాశం మరియు నిశ్చలమైన గాలితో కూడిన సుదీర్ఘ శీతాకాలపు రాత్రి ఉష్ణోగ్రత విలోమానికి అనువైన పరిస్థితి అని పాఠ్యాంశం పేర్కొంది.",
+    "en": "A long winter night with clear skies and still air provides the ideal situation for temperature inversion."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T07-0139",
+   "section": {
+    "te": "Standard Pressure Levels",
+    "en": "Standard Pressure Levels"
+   },
+   "q": {
+    "te": "పట్టిక 9.1 ప్రకారం క్రింది ఎత్తులను వాటి సగటు వాతావరణ పీడనంతో జతపరచండి:\nజాబితా I (స్థాయి) : జాబితా II (పీడనం mbలో)\nI. సముద్ర మట్టం : a. 540.48\nII. 5 కి.మీ : b. 1,013.25\nIII. 10 కి.మీ : c. 265.00",
+    "en": "Match the following elevation levels with their corresponding average atmospheric pressure as per Table 9.1:\nList I (Level) : List II (Pressure in mb)\nI. Sea Level : a. 540.48\nII. 5 km : b. 1,013.25\nIII. 10 km : c. 265.00"
+   },
+   "options": {
+    "te": [
+     "I-b, II-a, III-c",
+     "I-a, II-b, III-c",
+     "I-c, II-a, III-b",
+     "I-b, II-c, III-a"
+    ],
+    "en": [
+     "I-b, II-a, III-c",
+     "I-a, II-b, III-c",
+     "I-c, II-a, III-b",
+     "I-b, II-c, III-a"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పట్టిక 9.1 ప్రకారం, సముద్ర మట్టం వద్ద పీడనం 1,013.25 mb, 5 కి.మీ వద్ద 540.48 mb మరియు 10 కి.మీ వద్ద 265.00 mb.",
+    "en": "According to Table 9.1, the pressure at Sea Level is 1,013.25 mb, at 5 km it is 540.48 mb, and at 10 km it is 265.00 mb."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T07-0119",
+   "section": {
+    "te": "Heat Budget Units",
+    "en": "Heat Budget Units"
+   },
+   "q": {
+    "te": "ఉష్ణ బడ్జెట్‌లోని ఈ క్రింది అంశాలను వాటి సంబంధిత యూనిట్లతో జతపరచండి:\n1. సౌర వికిరణం నుండి వాతావరణంలో గ్రహించబడినవి - a. 17 యూనిట్లు\n2. భూమి ఉపరితలం ద్వారా గ్రహించబడినవి - b. 14 యూనిట్లు\n3. భూమి నుండి నేరుగా అంతరిక్షంలోకి వికిరణం చెందినవి - c. 51 యూనిట్లు",
+    "en": "Match the following components of the heat budget with their respective units:\n1. Absorbed within the atmosphere from insolation - a. 17 units\n2. Absorbed by the earth’s surface - b. 14 units\n3. Radiated from earth directly to space - c. 51 units"
+   },
+   "options": {
+    "te": [
+     "1-b, 2-c, 3-a",
+     "1-a, 2-b, 3-c",
+     "1-c, 2-a, 3-b",
+     "1-b, 2-a, 3-c"
+    ],
+    "en": [
+     "1-b, 2-c, 3-a",
+     "1-a, 2-b, 3-c",
+     "1-c, 2-a, 3-b",
+     "1-b, 2-a, 3-c"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఉష్ణ బడ్జెట్ ప్రకారం, సౌర వికిరణం నుండి 14 యూనిట్లు వాతావరణం ద్వారా, 51 యూనిట్లు భూమి ఉపరితలం ద్వారా గ్రహించబడతాయి మరియు 17 యూనిట్లు నేరుగా అంతరిక్షంలోకి వికిరణం చెందుతాయి.",
+    "en": "According to the heat budget, 14 units are absorbed by the atmosphere from insolation, 51 units are absorbed by the Earth's surface, and 17 units are radiated directly to space."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T07-0167",
+   "section": {
+    "te": "Atmospheric Cells",
+    "en": "Atmospheric Cells"
+   },
+   "q": {
+    "te": "ఉష్ణమండల ప్రాంతాలలో ఉండే వాతావరణ ప్రసరణ సెల్ (cell) ను ఏమని పిలుస్తారు?",
+    "en": "What is the atmospheric circulation cell located in the tropical regions called?"
+   },
+   "options": {
+    "te": [
+     "ఫెర్రల్ సెల్ (Ferrel Cell)",
+     "ధ్రువ సెల్ (Polar Cell)",
+     "హ్యాడ్లీ సెల్ (Hadley Cell)",
+     "వాకర్ సెల్ (Walker Cell)"
+    ],
+    "en": [
+     "Ferrel Cell",
+     "Polar Cell",
+     "Hadley Cell",
+     "Walker Cell"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఐటిసిజెడ్ (ITCZ) వద్ద గాలి పైకి లేచి, ఉపఉష్ణమండలంలో క్రిందికి దిగే ఉష్ణమండల ప్రసరణ సెల్‌ను హ్యాడ్లీ సెల్ అని పిలుస్తారు.",
+    "en": "The circulation cell in the tropics, where air rises at the ITCZ and sinks at the subtropics, is known as the Hadley Cell."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T07-0045",
+   "section": {
+    "te": "Humidity and Evaporation",
+    "en": "Humidity and Evaporation"
+   },
+   "q": {
+    "te": "ఈ క్రింది పరిస్థితిని గమనించండి: ఒకే ఉష్ణోగ్రత వద్ద ఢిల్లీలో 52% ఆర్ద్రత మరియు కొచ్చిలో 84% ఆర్ద్రత ఉంది. ఏ ప్రకటన సరైనది?",
+    "en": "Consider the following scenario: Delhi has 52% humidity and Kochi has 84% humidity at the same temperature. Which statement is correct?"
+   },
+   "options": {
+    "te": [
+     "కొచ్చిలో తడి బట్టలు వేగంగా ఆరుతాయి",
+     "ఢిల్లీలో తడి బట్టలు వేగంగా ఆరుతాయి",
+     "మీరు ఢిల్లీలో ఎక్కువగా చెమట పట్టే అవకాశం ఉంది",
+     "ఢిల్లీ కంటే కొచ్చిలో బాష్పీభవనం వేగంగా జరుగుతుంది"
+    ],
+    "en": [
+     "Wet clothes will dry faster in Kochi",
+     "Wet clothes will dry faster in Delhi",
+     "You are likely to sweat more in Delhi",
+     "Evaporation is faster in Kochi than in Delhi"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "తక్కువ ఆర్ద్రత (ఢిల్లీ 52%) వేగంగా బాష్పీభవనం చెందడానికి అనుమతిస్తుంది, అంటే అధిక ఆర్ద్రత ఉన్న ప్రాంతాలతో (కొచ్చి 84%) పోలిస్తే తడి బట్టలు వేగంగా ఆరుతాయి మరియు ప్రజలకు తక్కువ చెమట పడుతుంది.",
+    "en": "Lower humidity (Delhi at 52%) allows for faster evaporation, meaning wet clothes dry faster and people sweat less compared to high humidity areas (Kochi at 84%)."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T07-0046",
+   "section": {
+    "te": "Cause of seasons",
+    "en": "Cause of seasons"
+   },
+   "q": {
+    "te": "ఋతువులు ఏర్పడటానికి ప్రాథమిక కారణం ఏమిటి?",
+    "en": "What is the primary cause for the occurrence of seasons?"
+   },
+   "options": {
+    "te": [
+     "భూమి తన అక్షం మీద తాను తిరగడం (భ్రమణం)",
+     "చంద్రుని కదలిక",
+     "సూర్యుని చుట్టూ భూమి తిరగడం (పరిభ్రమణం)",
+     "సూర్యుని ఉష్ణోగ్రతలో మార్పులు"
+    ],
+    "en": [
+     "Earth's rotation on its axis",
+     "The movement of the Moon",
+     "Earth's revolution around the Sun",
+     "Changes in the Sun's temperature"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూమి తన కక్ష్యలో సూర్యుని చుట్టూ తిరగడం వల్ల ఋతువులు ఏర్పడతాయి.",
+    "en": "Seasons occur because the Earth revolves around the Sun in its orbit."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T07-0042",
+   "section": {
+    "te": "Automated Weather Station",
+    "en": "Automated Weather Station"
+   },
+   "q": {
+    "te": "ఆటోమేటెడ్ వెదర్ స్టేషన్ (AWS) యొక్క లక్షణాలు ఈ క్రింది వాటిలో ఏవి?",
+    "en": "Which of the following are characteristics of an Automated Weather Station (AWS)?"
+   },
+   "options": {
+    "te": [
+     "ఇది స్వయంచాలక వ్యవస్థ",
+     "ఇది మానవ ప్రమేయం లేకుండా డేటాను రికార్డ్ చేయడానికి సెన్సార్లను ఉపయోగిస్తుంది",
+     "ఇది గాలి వేగం, పీడనం మరియు అవపాతాన్ని కొలుస్తుంది",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "It is a self-operating system",
+     "It uses sensors to record data without human intervention",
+     "It measures wind speed, pressure, and precipitation",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "AWS అనేది మానవ ప్రమేయం అవసరం లేకుండా గాలి, పీడనం మరియు అవపాతం వంటి వివిధ వాతావరణ డేటాను రికార్డ్ చేయడానికి సెన్సార్లను ఉపయోగించే స్వయంచాలక వ్యవస్థ.",
+    "en": "An AWS is a self-operating system using sensors to record various weather data like wind, pressure, and precipitation without needing humans."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T07-0026",
+   "section": {
+    "te": "Wind Movement",
+    "en": "Wind Movement"
+   },
+   "q": {
+    "te": "గాలి (Wind) అనేది దేని కదలికగా నిర్వచించబడింది?",
+    "en": "Wind is defined as the movement of air from:"
+   },
+   "options": {
+    "te": [
+     "అల్పపీడన ప్రాంతాల నుండి అధిక పీడన ప్రాంతాలకు",
+     "అధిక పీడన ప్రాంతాల నుండి అల్పపీడన ప్రాంతాలకు",
+     "సముద్ర తీరం నుండి పర్వతాలకు మాత్రమే",
+     "వెచ్చని ప్రాంతాల నుండి చల్లని ప్రాంతాలకు మాత్రమే"
+    ],
+    "en": [
+     "Areas of low pressure to areas of high pressure",
+     "Areas of high pressure to areas of low pressure",
+     "Sea coast to mountains only",
+     "Warm areas to cool areas only"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "గాలి అనేది ప్రత్యేకంగా అధిక పీడన ప్రాంతాల నుండి అల్పపీడన ప్రాంతాలకు గాలి కదలడం.",
+    "en": "Wind is the movement of air specifically from high-pressure areas to low-pressure areas."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T07-0008",
+   "section": {
+    "te": "Temperature Scales",
+    "en": "Temperature Scales"
+   },
+   "q": {
+    "te": "15 డిగ్రీల సెల్సియస్ ఉష్ణోగ్రత ఫారెన్‌హీట్ స్కేల్‌లో ఎన్ని డిగ్రీలకు సమానం?",
+    "en": "A temperature of 15 degrees Celsius is equivalent to how many degrees on the Fahrenheit scale?"
+   },
+   "options": {
+    "te": [
+     "45°F",
+     "32°F",
+     "59°F",
+     "75°F"
+    ],
+    "en": [
+     "45°F",
+     "32°F",
+     "59°F",
+     "75°F"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం 15°C అనేది 59°F కి సమానం.",
+    "en": "15°C is the same as 59°F."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T07-0147",
+   "section": {
+    "te": "Pressure Units",
+    "en": "Pressure Units"
+   },
+   "q": {
+    "te": "వాతావరణ పీడనాన్ని సాధారణంగా ఈ క్రింది ఏ యూనిట్లలో వ్యక్తపరుస్తారు?",
+    "en": "In which of the following units is atmospheric pressure commonly expressed?"
+   },
+   "options": {
+    "te": [
+     "ఐసోథెర్మ్స్",
+     "మిల్లీబార్‌లు",
+     "కిలోగ్రాములు",
+     "డిగ్రీ సెల్సియస్"
+    ],
+    "en": [
+     "Isotherms",
+     "Millibars",
+     "Kilograms",
+     "Degrees Celsius"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యాంశంలో పేర్కొన్న విధంగా వాతావరణ పీడనాన్ని కొలవడానికి మరియు వ్యక్తపరచడానికి ప్రామాణిక యూనిట్ మిల్లీబార్ (mb).",
+    "en": "The standard unit for measuring and expressing atmospheric pressure mentioned in the text is the millibar (mb)."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T07-0162",
+   "section": {
+    "te": "Coriolis Force Origin",
+    "en": "Coriolis Force Origin"
+   },
+   "q": {
+    "te": "1844లో కొరియాలిస్ బలాన్ని వివరించిన ఏ దేశ భౌతిక శాస్త్రవేత్త పేరు మీద దీనికి ఆ పేరు పెట్టారు?",
+    "en": "The Coriolis force is named after a physicist from which country who described it in 1844?"
+   },
+   "options": {
+    "te": [
+     "జర్మనీ",
+     "యునైటెడ్ కింగ్‌డమ్",
+     "ఫ్రాన్స్",
+     "యునైటెడ్ స్టేట్స్"
+    ],
+    "en": [
+     "Germany",
+     "United Kingdom",
+     "France",
+     "United States"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కొరియాలిస్ బలానికి 1844లో దాని వివరణను అందించిన ఫ్రెంచ్ భౌతిక శాస్త్రవేత్త పేరు పెట్టారు.",
+    "en": "The Coriolis force was named after a French physicist who provided its description in 1844."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T07-0081",
+   "section": {
+    "te": "Aphelion",
+    "en": "Aphelion"
+   },
+   "q": {
+    "te": "అఫెలియన్ (Aphelion) సమయంలో భూమికి మరియు సూర్యుడికి మధ్య దూరం ఎంత?",
+    "en": "What is the distance between the Earth and the Sun during Aphelion?"
+   },
+   "options": {
+    "te": [
+     "155 మిలియన్ కి.మీ.",
+     "152 మిలియన్ కి.మీ.",
+     "150 మిలియన్ కి.మీ.",
+     "147 మిలియన్ కి.మీ."
+    ],
+    "en": [
+     "155 million km",
+     "152 million km",
+     "150 million km",
+     "147 million km"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "జూలై 4న భూమి సూర్యుడికి అత్యంత దూరంలో (152 మిలియన్ కి.మీ.) ఉన్నప్పుడు అఫెలియన్ సంభవిస్తుంది.",
+    "en": "Aphelion occurs on 4th July when the Earth is farthest from the sun at a distance of 152 million km."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T07-0078",
+   "section": {
+    "te": "Pressure Differences",
+    "en": "Pressure Differences"
+   },
+   "q": {
+    "te": "గాలి ఏర్పడటానికి దారితీసే వాతావరణ పీడన వ్యత్యాసాలకు ప్రాథమిక కారణం ఏమిటి?",
+    "en": "What is the primary cause of pressure differences in the atmosphere that lead to wind formation?"
+   },
+   "options": {
+    "te": [
+     "భూమిలోని వివిధ భాగాలు గ్రహించిన ఉష్ణంలో వైవిధ్యం",
+     "భూమి భ్రమణం",
+     "ఆర్ద్రత స్థాయిలు",
+     "మేఘాల ఏర్పాటు"
+    ],
+    "en": [
+     "Variation in heat received by different parts of the earth",
+     "Rotation of the earth",
+     "Humidity levels",
+     "Cloud formation"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూమిలోని వివిధ భాగాలు గ్రహించే ఉష్ణ పరిమాణంలో తేడాలు ఉండటం వల్ల వాతావరణ పీడన వ్యత్యాసాలు ఏర్పడతాయి, ఇది గాలులకు దారితీస్తుంది.",
+    "en": "The variation in the amount of heat received by different parts of the earth causes pressure differences, which lead to winds."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T07-0044",
+   "section": {
+    "te": "Seasons in India",
+    "en": "Seasons in India"
+   },
+   "q": {
+    "te": "నాలుగు ప్రధాన ప్రపంచ ఋతువులతో (వసంత, వేసవి, శరదృతువు, శీతాకాలం) పాటు భారతదేశం అదనంగా ఏ నిర్దిష్ట ఋతువును అనుభవిస్తుంది?",
+    "en": "Which specific season does India experience in addition to the four main global seasons (spring, summer, autumn, winter)?"
+   },
+   "options": {
+    "te": [
+     "తుఫాను కాలం",
+     "టొర్నాడో కాలం",
+     "పొడి కాలం",
+     "రుతుపవనాలు (Monsoon)"
+    ],
+    "en": [
+     "Cyclone season",
+     "Tornado season",
+     "Dry season",
+     "Monsoon"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నాలుగు ప్రధాన ఋతువులతో పాటు, భారతదేశం రుతుపవనాలు లేదా వర్షాకాలం అని పిలువబడే నిర్దిష్ట కాలంలో వర్షపాతాన్ని పొందుతుంది.",
+    "en": "In addition to the four main seasons, India receives rainfall during a specific period called the monsoon or rainy season."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T07-0009",
+   "section": {
+    "te": "Temperature Statistics",
+    "en": "Temperature Statistics"
+   },
+   "q": {
+    "te": "'సగటు రోజువారీ ఉష్ణోగ్రత' (Mean daily temperature) ఎలా లెక్కించబడుతుంది?",
+    "en": "How is the 'Mean daily temperature' calculated?"
+   },
+   "options": {
+    "te": [
+     "(గరిష్ట ఉష్ణోగ్రత + కనిష్ట ఉష్ణోగ్రత) / 2",
+     "ప్రతి గంటకు నమోదైన ఉష్ణోగ్రతల సగటు",
+     "గరిష్ట ఉష్ణోగ్రత మైనస్ కనిష్ట ఉష్ణోగ్రత",
+     "గరిష్ట ఉష్ణోగ్రత ప్లస్ కనిష్ట ఉష్ظోగ్రత"
+    ],
+    "en": [
+     "(Maximum temperature + Minimum temperature) / 2",
+     "Average of temperatures recorded every hour",
+     "Maximum temperature minus Minimum temperature",
+     "Maximum temperature plus Minimum temperature"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "రోజువారీ సగటు ఉష్ణోగ్రతను ఆ రోజు గరిష్ట మరియు కనిష్ట ఉష్ణోగ్రతలను కలిపి, ఆ మొత్తాన్ని రెండుతో భాగించడం ద్వారా లెక్కిస్తారు.",
+    "en": "Mean daily temperature is calculated by adding the maximum and minimum temperatures of the day and dividing the sum by two."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T07-0115",
+   "section": {
+    "te": "Ocean Currents and Temperature",
+    "en": "Ocean Currents and Temperature"
+   },
+   "q": {
+    "te": "తీర ప్రాంతాల ఉష్ణోగ్రతపై వెచ్చని సముద్ర ప్రవాహాల ప్రభావం ఏమిటి?",
+    "en": "What is the effect of warm ocean currents on the temperature of coastal places?"
+   },
+   "options": {
+    "te": [
+     "ఉష్ణోగ్రతపై వాటికి ఎటువంటి ప్రభావం ఉండదు",
+     "అవి అధిక ఉష్ణోగ్రతను నమోదు చేస్తాయి",
+     "అవి తక్కువ ఉష్ణోగ్రతను నమోదు చేస్తాయి",
+     "అవి ఉష్ణోగ్రత గడ్డకట్టే స్థాయికి పడిపోయేలా చేస్తాయి"
+    ],
+    "en": [
+     "They have no effect on temperature",
+     "They record higher temperature",
+     "They record lower temperature",
+     "They cause temperature to drop to freezing"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వెచ్చని సముద్ర ప్రవాహాల ప్రభావంతో ఉన్న తీర ప్రాంతాలు, చల్లని ప్రవాహాల ప్రభావంతో ఉన్న ప్రాంతాలతో పోలిస్తే అధిక ఉష్ణోగ్రతలను నమోదు చేస్తాయి.",
+    "en": "Coastal places influenced by warm ocean currents record higher temperatures compared to those influenced by cold currents."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T07-0135",
+   "section": {
+    "te": "Specific Heat",
+    "en": "Specific Heat"
+   },
+   "q": {
+    "te": "ఒక గ్రాము పదార్థం యొక్క ఉష్ణోగ్రతను ఒక డిగ్రీ సెల్సియస్ పెంచడానికి అవసరమైన శక్తిని ఏమంటారు?",
+    "en": "What is defined as the energy needed to raise the temperature of one gram of a substance by one degree Celsius?"
+   },
+   "options": {
+    "te": [
+     "విలోమ ఉష్ణోగ్రత (Inversion temperature)",
+     "విశిష్ట ఉష్ణము (Specific heat)",
+     "సాధారణ క్షీణత రేటు (Normal lapse rate)",
+     "గుప్త ఉష్ణము (Latent heat)"
+    ],
+    "en": [
+     "Inversion temperature",
+     "Specific heat",
+     "Normal lapse rate",
+     "Latent heat"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఒక గ్రాము పదార్థం యొక్క ఉష్ణోగ్రతను ఒక డిగ్రీ సెల్సియస్ పెంచడానికి అవసరమైన శక్తిని విశిష్ట ఉష్ణము అంటారు.",
+    "en": "Specific heat is the term used for the energy required to increase the temperature of one gram of a substance by one degree Celsius."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T07-0202",
+   "section": {
+    "te": "Fog and Mist Formation",
+    "en": "Fog and Mist Formation"
+   },
+   "q": {
+    "te": "వాతావరణ అంశాలకు సంబంధించి పట్టణ మరియు పారిశ్రామిక కేంద్రాలలో పొగ ఏ పాత్ర పోషిస్తుంది?",
+    "en": "What role does smoke play in urban and industrial centers regarding weather elements?"
+   },
+   "options": {
+    "te": [
+     "ఇది మేఘాలు ఏర్పడకుండా నిరోధిస్తుంది",
+     "ఇది మంచు మరియు పొగమంచు ఏర్పడటానికి సహాయపడే కేంద్రకాలను (nuclei) అందిస్తుంది",
+     "ఇది క్షితిజ సమాంతర దృశ్యమానతను పెంచుతుంది",
+     "ఇది ఉష్ణోగ్రతను మంచు బిందువు కంటే పైకి పెంచుతుంది"
+    ],
+    "en": [
+     "It prevents the formation of clouds",
+     "It provides nuclei that help the formation of fog and mist",
+     "It increases horizontal visibility",
+     "It raises the temperature above the dew point"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పారిశ్రామిక ప్రాంతాలలో పొగ ద్రవీభవన కేంద్రకాలను అందిస్తుంది, ఇది మంచు మరియు పొగమంచు ఏర్పడటాన్ని సులభతరం చేస్తుంది.",
+    "en": "Smoke in industrial areas provides condensation nuclei, which facilitates the formation of fog and mist."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T07-0022",
+   "section": {
+    "te": "Rain Gauge Placement",
+    "en": "Rain Gauge Placement"
+   },
+   "q": {
+    "te": "వర్షమాపకం (Rain gauge) ఏర్పాటుకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. దీనిని బహిరంగ ప్రదేశంలో ఉంచాలి.\n2. వర్షానికి అడ్డుగా ఉండే వస్తువులకు దూరంగా ఉంచాలి.\n3. అది వంగిపోకుండా ఉండటానికి చదునైన ఉపరితలంపై ఉంచాలి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the placement of a rain gauge:\n1. It should be placed in an open area.\n2. It should be kept away from objects that might obstruct rain.\n3. It must be placed on a flat surface to prevent tilting.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వర్షమాపకాన్ని బహిరంగ ప్రదేశంలో, అడ్డంకులకు దూరంగా మరియు అది పడిపోకుండా ఉండటానికి చదునైన ఉపరితలంపై ఉంచాలని వచనం పేర్కొంది.",
+    "en": "The text specifies that a rain gauge should be in an open area, away from obstructions, and on a flat surface to ensure it does not tilt or topple."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T07-0012",
+   "section": {
+    "te": "Water Vapour State",
+    "en": "Water Vapour State"
+   },
+   "q": {
+    "te": "నీటి ఆవిరి ఏ స్థితిలో ఉంటుంది?",
+    "en": "In which state of matter does water vapour exist?"
+   },
+   "options": {
+    "te": [
+     "వాయు స్థితి (Gaseous)",
+     "ఘన స్థితి",
+     "ద్రవ స్థితి",
+     "ప్లాస్మా స్థితి"
+    ],
+    "en": [
+     "Gaseous",
+     "Solid",
+     "Liquid",
+     "Plasma"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నీటి ఆవిరి అనేది ద్రవ రూపంలో కాకుండా వాయు రూపంలో ఉన్న నీరు.",
+    "en": "Water vapour is water in its gaseous form rather than its liquid form."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T07-0038",
+   "section": {
+    "te": "Hygrometer applications",
+    "en": "Hygrometer applications"
+   },
+   "q": {
+    "te": "ఈ క్రింది ఏ రంగాలలో ఆర్ద్రతను కొలవడం చాలా ముఖ్యమైనదిగా పరిగణించబడుతుంది?",
+    "en": "In which of the following areas is the measurement of humidity considered very important?"
+   },
+   "options": {
+    "te": [
+     "ఆహార శుద్ధి పరిశ్రమలు",
+     "మ్యూజియం ప్రదర్శన వస్తువుల పరిరక్షణ",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Food processing industries",
+     "Museum exhibits preservation",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఆహార శుద్ధి వంటి పారిశ్రామిక ప్రక్రియలకు మరియు మ్యూజియంలలో పొడి వాతావరణాన్ని నిర్వహించడానికి ఆర్ద్రత కొలత చాలా ముఖ్యం.",
+    "en": "Humidity measurement is crucial for industrial processes like food processing and for maintaining dry environments in museums."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T07-0131",
+   "section": {
+    "te": "Surface Inversion",
+    "en": "Surface Inversion"
+   },
+   "q": {
+    "te": "వాతావరణం యొక్క దిగువ పొరలలో ఉపరితల విలోమం (surface inversion) వల్ల కలిగే ప్రభావాలు ఏమిటి?",
+    "en": "Which of the following are effects of surface inversion in the lower layers of the atmosphere?"
+   },
+   "options": {
+    "te": [
+     "వాతావరణ స్థిరత్వాన్ని ప్రోత్సహించడం",
+     "పొగ మరియు ధూళి కణాలు క్షితిజ సమాంతరంగా వ్యాపించడం",
+     "శీతాకాలంలో ఉదయం వేళ దట్టమైన పొగమంచు ఏర్పడటం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Promotion of atmospheric stability",
+     "Horizontal spreading of smoke and dust particles",
+     "Occurrence of dense morning fogs in winter",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఉపరితల విలోమం స్థిరత్వాన్ని ప్రోత్సహిస్తుంది, పొగ మరియు ధూళి క్షితిజ సమాంతరంగా వ్యాపించేలా చేస్తుంది మరియు ముఖ్యంగా శీతాకాలంలో దట్టమైన పొగమంచుకు దారితీస్తుంది.",
+    "en": "Surface inversion promotes stability, causes smoke and dust to spread horizontally, and leads to dense morning fogs, especially in winter."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T07-0018",
+   "section": {
+    "te": "Wind Definition",
+    "en": "Wind Definition"
+   },
+   "q": {
+    "te": "'గాలి' (Wind) గురించి క్రింది వాటిని పరిశీలించండి:\n1. ఇది గాలి యొక్క కదలిక.\n2. ఇది గాలి యొక్క దిశను మాత్రమే కలిగి ఉంటుంది.\nపై వాటిలో ఏది/వి సరైనవి?",
+    "en": "Consider the following about 'Wind':\n1. It is the movement of air.\n2. It includes only the direction of air.\nWhich of the above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "గాలి అనేది గాలి యొక్క కదలిక మరియు ఇది వేగం మరియు దిశ రెండింటినీ కలిగి ఉంటుంది, కేవలం దిశను మాత్రమే కాదు.",
+    "en": "Wind is the movement of air and it includes BOTH speed and direction, not just direction."
+   }
+  }
+ ]
+}

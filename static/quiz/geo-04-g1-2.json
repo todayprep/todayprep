@@ -1,0 +1,942 @@
+{
+ "id": "geo-04-g1-2",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Landforms – క్విజ్ 2",
+  "en": "Landforms – Quiz 2"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T04-0226",
+   "section": {
+    "te": "Ground moraine definition",
+    "en": "Ground moraine definition"
+   },
+   "q": {
+    "te": "వేగంగా వెనక్కి తగ్గే లోయ హిమానీనదాలు తమ లోయ నేలపై వదిలివెళ్ళే అసమానమైన టిల్ పొరను ఏమని పిలుస్తారు?",
+    "en": "An irregular sheet of till left over the valley floor by rapidly retreating valley glaciers is referred to as a:"
+   },
+   "options": {
+    "te": [
+     "ఎస్కర్ (Esker)",
+     "పార్శ్వ మొరైన్ (Lateral moraine)",
+     "మధ్యస్థ మొరైన్ (Medial moraine)",
+     "భూతల మొరైన్ (Ground moraine)"
+    ],
+    "en": [
+     "Esker",
+     "Lateral moraine",
+     "Medial moraine",
+     "Ground moraine"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "లోయ హిమానీనదాలు వేగంగా వెనక్కి తగ్గినప్పుడు లోయ నేలపై వదిలివేసే అసమాన టిల్ నిక్షేపాలను భూతల మొరైన్లు (ground moraines) అంటారు.",
+    "en": "Ground moraines are irregular sheets of till of varying thickness left over valley floors by rapidly retreating valley glaciers."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T04-0135",
+   "section": {
+    "te": "Orogeny Impact Area",
+    "en": "Orogeny Impact Area"
+   },
+   "q": {
+    "te": "ఓరోజెనీ (Orogeny) భూపటలంలోని ఏ భాగాలను ప్రభావితం చేస్తుంది?",
+    "en": "Orogeny affects which parts of the earth's crust?"
+   },
+   "options": {
+    "te": [
+     "భూపటలంలోని పెద్ద భాగాలు",
+     "పొడవైన మరియు ఇరుకైన మండలాలు (belts)",
+     "స్థానిక చిన్న ప్రాంతాలు",
+     "సముద్ర పలకలు మాత్రమే"
+    ],
+    "en": [
+     "Large parts of the crust",
+     "Long and narrow belts",
+     "Local minor areas",
+     "Only oceanic plates"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఓరోజెనిక్ ప్రక్రియలు భూపటలంలోని పొడవైన మరియు ఇరుకైన మండలాలను ప్రభావితం చేసే పర్వత నిర్మాణాన్ని కలిగి ఉంటాయి.",
+    "en": "Orogenic processes involve mountain building that affects long and narrow belts of the earth's crust."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T04-0125",
+   "section": {
+    "te": "Epeirogenic Processes",
+    "en": "Epeirogenic Processes"
+   },
+   "q": {
+    "te": "భూమి పైపెంకు (crust) యొక్క పెద్ద భాగాలను పైకి లేపడం లేదా వంచడం వంటి ప్రక్రియలను ఏమంటారు?",
+    "en": "Which process involves the uplift or warping of large parts of the earth's crust?"
+   },
+   "options": {
+    "te": [
+     "ఎపిరోజెనిక్ ప్రక్రియలు",
+     "ప్లేట్ టెక్టోనిక్స్",
+     "భూకంపాలు",
+     "ఓరోజెనిక్ ప్రక్రియలు"
+    ],
+    "en": [
+     "Epeirogenic processes",
+     "Plate tectonics",
+     "Earthquakes",
+     "Orogenic processes"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూపటలంలోని పెద్ద భాగాలను పైకి లేపడం లేదా వంచడం వంటివి ఎపిరోజెనిక్ ప్రక్రియల కిందకు వస్తాయి.",
+    "en": "Epeirogenic processes are defined by the uplift or warping of large portions of the crust."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T04-0280",
+   "section": {
+    "te": "Valley formation agents",
+    "en": "Valley formation agents"
+   },
+   "q": {
+    "te": "రెండు కొండలు లేదా పర్వత శ్రేణుల మధ్య ఉండే లోయ (valley), వేటి ద్వారా జరిగే పార్శ్వ కోత ఫలితంగా ఏర్పడుతుంది?",
+    "en": "A valley lying between two hills or ridges is formed as a result of lateral erosion by:"
+   },
+   "options": {
+    "te": [
+     "నది",
+     "హిమానీనదం",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "A river",
+     "A glacier",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, రెండు కొండల మధ్య ఉండే లోయ అనేది నది లేదా హిమానీనదం ద్వారా జరిగే పార్శ్వ కోత వలన ఏర్పడుతుంది.",
+    "en": "A valley is formed as a result of lateral erosion by either a river or a glacier."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T04-0239",
+   "section": {
+    "te": "Shingle Beaches",
+    "en": "Shingle Beaches"
+   },
+   "q": {
+    "te": "మిక్కిలి చిన్న గులకరాళ్ళు మరియు పెద్ద గులకరాళ్ళతో (cobbles) కూడిన తీరాలను నిర్దిష్టంగా ఏమని పిలుస్తారు?",
+    "en": "Beaches containing excessively small pebbles and even cobbles are specifically called:"
+   },
+   "options": {
+    "te": [
+     "షింగిల్ బీచ్‌లు",
+     "బారియర్ బీచ్‌లు",
+     "ఇసుక బీచ్‌లు",
+     "స్పిట్ బీచ్‌లు"
+    ],
+    "en": [
+     "Shingle beaches",
+     "Barrier beaches",
+     "Sandy beaches",
+     "Spit beaches"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "చాలా బీచ్‌లు ఇసుక పదార్థాలతో ఏర్పడినప్పటికీ, మిక్కిలి చిన్న గులకరాళ్ళు మరియు గులకరాళ్ళతో కూడిన బీచ్‌లను 'షింగిల్ బీచ్‌లు' అని పిలుస్తారు.",
+    "en": "While most beaches are made of sand-sized materials, beaches that contain excessively small pebbles and cobbles are called shingle beaches."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T04-0131",
+   "section": {
+    "te": "Exogenic Processes",
+    "en": "Exogenic Processes"
+   },
+   "q": {
+    "te": "సాధారణ పరంగా, బహిర్జనిత ప్రక్రియలు (exogenic processes) ప్రధానంగా:",
+    "en": "In general terms, exogenic processes are mainly:"
+   },
+   "options": {
+    "te": [
+     "భూమిని నిర్మించే శక్తులు",
+     "భూమిని క్షీణింపజేసే శక్తులు (Land wearing forces)",
+     "టెక్టోనిక్ శక్తులు",
+     "అగ్నిపర్వత శక్తులు"
+    ],
+    "en": [
+     "Land building forces",
+     "Land wearing forces",
+     "Tectonic forces",
+     "Volcanic forces"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "బహిర్జనిత ప్రక్రియలు భూమి ఉపరితల వ్యత్యాసాలను తగ్గించే లేదా క్షీణింపజేసే శక్తులుగా వర్ణించబడ్డాయి.",
+    "en": "Exogenic processes are described as land wearing forces that even out relief variations."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T04-0025",
+   "section": {
+    "te": "Deccan Plateau Formation",
+    "en": "Deccan Plateau Formation"
+   },
+   "q": {
+    "te": "మధ్య మరియు దక్షిణ భారతదేశంలోని దక్కన్ పీఠభూమి మిలియన్ల సంవత్సరాల క్రితం దేని ద్వారా ఏర్పడింది?",
+    "en": "How was the Deccan Plateau of central and south India formed millions of years ago?"
+   },
+   "options": {
+    "te": [
+     "నదీ ఒండ్రు నిక్షేపణ ద్వారా",
+     "హిమానీనదాల చర్య ద్వారా",
+     "గాలి కోత ద్వారా",
+     "అగ్నిపర్వత చర్య (volcanic activity) ద్వారా"
+    ],
+    "en": [
+     "Through river silt deposition",
+     "Through glacial action",
+     "Through wind erosion",
+     "Through volcanic activity"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "దక్కన్ పీఠభూమి మిలియన్ల సంవత్సరాల క్రితం అగ్నిపర్వత చర్యల వల్ల ఏర్పడిన పురాతన పీఠభూములలో ఒకటి.",
+    "en": "The Deccan Plateau is one of the oldest plateaus in the world, formed through volcanic activity millions of years ago."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T04-0293",
+   "section": {
+    "te": "Differential Rates of Processes",
+    "en": "Differential Rates of Processes"
+   },
+   "q": {
+    "te": "భూస్వరూప ప్రక్రియలు ఎందుకు విభిన్న రేట్లలో పనిచేస్తాయి మరియు భూభాగంలో తేడాలకు దారితీస్తాయి?",
+    "en": "Why do geomorphic processes operate at differential rates and give rise to differences in topography?"
+   },
+   "options": {
+    "te": [
+     "అన్ని శిలలు ఒకే రకమైన రసాయన గ్రహణశీలతను కలిగి ఉండటం వల్ల",
+     "మారుతున్న వాతావరణ పరిస్థితులు మరియు శిలల నిరోధకతలో తేడాల వల్ల",
+     "కొన్ని ప్రాంతాలలో గురుత్వాకర్షణ ఒత్తిడి లేకపోవడం వల్ల",
+     "అన్ని ప్రాంతాలలో గాలి వేగం స్థిరంగా ఉండటం వల్ల"
+    ],
+    "en": [
+     "Because all rocks have the same chemical susceptibility",
+     "Due to varying climatic conditions and different degrees of rock resistance",
+     "Due to the lack of gravitational stress in certain areas",
+     "Because wind velocity is constant across all regions"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మారుతున్న వాతావరణ పరిస్థితులు మరియు శిలలు చూపే వివిధ స్థాయిల నిరోధకత వల్ల భూస్వరూప ప్రక్రియలు వేర్వేరు రేట్లలో పనిచేస్తాయి.",
+    "en": "Varying climatic conditions and the different degrees of resistance offered by rocks cause geomorphic processes to operate at different rates."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T04-0185",
+   "section": {
+    "te": "Delta plains",
+    "en": "Delta plains"
+   },
+   "q": {
+    "te": "డెల్టా ప్రాంతంలో ఏర్పడే వరద మైదానాలను ఏమని పిలుస్తారు?",
+    "en": "What are the flood plains formed in a delta region called?"
+   },
+   "options": {
+    "te": [
+     "ఒండలి మైదానాలు",
+     "డెల్టా మైదానాలు",
+     "పెనెప్లెయిన్లు",
+     "అవుట్‌వాష్ మైదానాలు"
+    ],
+    "en": [
+     "Alluvial plains",
+     "Delta plains",
+     "Peneplains",
+     "Outwash plains"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "డెల్టాలో ఏర్పడే వరద మైదానాలను డెల్టా మైదానాలు (డెల్టా ప్లెయిన్స్) అని పిలుస్తారు.",
+    "en": "The flood plains that develop within a delta are specifically called delta plains."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T04-0203",
+   "section": {
+    "te": "Sinkholes comparison",
+    "en": "Sinkholes comparison"
+   },
+   "q": {
+    "te": "కార్స్ట్ భూస్వరూపాలకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిగణించండి:\n1. ద్రావణ సింక్‌ల కంటే కూలిపోయే సింక్‌లు (collapse sinks) సర్వసాధారణం.\n2. లాపీస్ క్షేత్రం చివరికి నునుపైన సున్నపురాయి పేవ్‌మెంట్‌లుగా మారవచ్చు.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding karst landforms:\n1. Collapse sinks are more common than solution sinks.\n2. A lapie field may eventually turn into somewhat smooth limestone pavements.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కూలిపోయే సింక్‌ల కంటే ద్రావణ సింక్‌లే (solution sinks) సర్వసాధారణం, కాబట్టి ప్రకటన 1 తప్పు. లాపీ క్షేత్రం క్రమంగా సున్నపురాయి పేవ్‌మెంట్‌లుగా మారవచ్చు కాబట్టి ప్రకటన 2 సరైనది.",
+    "en": "Statement 1 is incorrect because solution sinks are more common than collapse sinks. Statement 2 is correct as the text notes a lapie field may eventually turn into somewhat smooth limestone pavements."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T04-0072",
+   "section": {
+    "te": "River upper course",
+    "en": "River upper course"
+   },
+   "q": {
+    "te": "నది తన ఎగువ భాగంలో (upper course) సాధారణంగా క్రింది ఏ భూస్వరూపాలను ఏర్పరుస్తుంది?\n1. V-ఆకారపు లోయలు\n2. రాపిడ్స్ (Rapids)\n3. డెల్టాలు\nక్రింద ఇచ్చిన కోడ్‌ని ఉపయోగించి సరైన సమాధానాన్ని ఎంచుకోండి:",
+    "en": "Which of the following landforms are typically formed by a river at its upper course?\n1. V-shaped valleys\n2. Rapids\n3. Deltas\nSelect the correct answer using the code given below:"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నది తన ఎగువ భాగంలో నిటారైన వాలు మరియు తీవ్రమైన కోత కారణంగా V-ఆకారపు లోయలు, జలపాతాలు మరియు రాపిడ్స్‌లను ఏర్పరుస్తుంది, కాగా డెల్టాలు దిగువ భాగంలో ఏర్పడతాయి.",
+    "en": "In its upper course, a river forms V-shaped valleys, waterfalls, and rapids due to steep slopes and intense erosion, while deltas are formed in its lower course."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T04-0147",
+   "section": {
+    "te": "Chemical weathering types",
+    "en": "Chemical weathering types"
+   },
+   "q": {
+    "te": "క్రింది శైథిల్య ప్రక్రియలను పరిశీలించండి:\n1. కార్బోనేషన్\n2. జలీకరణం (Hydration)\n3. ఆక్సీకరణం మరియు క్షయకరణం (Oxidation and reduction)\nపై వాటిలో రసాయన శైథిల్య ప్రక్రియలుగా వర్గీకరించబడినవి ఏవి?",
+    "en": "Consider the following weathering processes:\n1. Carbonation\n2. Hydration\n3. Oxidation and reduction\nWhich of the above are classified as chemical weathering processes?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ద్రావణం, కార్బోనేషన్, జలీకరణం, ఆక్సీకరణం మరియు క్షయకరణం అన్నీ రసాయన శైథిల్య ప్రక్రియల కిందకు వస్తాయి.",
+    "en": "Chemical weathering processes include solution, carbonation, hydration, oxidation, and reduction."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T04-0019",
+   "section": {
+    "te": "Alps Peak",
+    "en": "Alps Peak"
+   },
+   "q": {
+    "te": "పశ్చిమ యూరప్‌లోని ఆల్ప్స్ పర్వత శ్రేణిలో అత్యంత ఎత్తైన పర్వతం ఏది?",
+    "en": "Which is the highest mountain of the Alps range in Western Europe?"
+   },
+   "options": {
+    "te": [
+     "మౌంట్ బ్లాంక్",
+     "మౌంట్ కాంచనజంగా",
+     "మౌంట్ ఎవరెస్ట్",
+     "మౌంట్ అనముడి"
+    ],
+    "en": [
+     "Mont Blanc",
+     "Mount Kanchenjunga",
+     "Mount Everest",
+     "Mount Anamudi"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పశ్చిమ యూరప్‌లోని ఆల్ప్స్ శ్రేణిలో మౌంట్ బ్లాంక్ అత్యంత ఎత్తైన పర్వతం.",
+    "en": "Mont Blanc is the highest mountain in the Alps range, located in Western Europe."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T04-0068",
+   "section": {
+    "te": "Plate Collisions",
+    "en": "Plate Collisions"
+   },
+   "q": {
+    "te": "అభిసరణ సరిహద్దు వద్ద ఒక సముద్ర ఫలక (oceanic plate) మరియు ఒక ఖండ ఫలక (continental plate) ఢీకొన్నప్పుడు ఏమి జరుగుతుంది?",
+    "en": "What happens when an oceanic plate collides with a continental plate at a convergent boundary?"
+   },
+   "options": {
+    "te": [
+     "ఖండ ఫలక సముద్ర ఫలక క్రిందకు మునుగుతుంది.",
+     "సముద్ర ఫలక ఖండ ఫలక క్రిందకు మునుగుతుంది.",
+     "రెండు ఫలకలు పైకి లేచి ముడత పర్వతాలను ఏర్పరుస్తాయి.",
+     "ఫలకల మధ్య కొత్త భూపటలం సృష్టించబడుతుంది."
+    ],
+    "en": [
+     "The continental plate sinks beneath the oceanic plate.",
+     "The oceanic plate sinks beneath the continental plate.",
+     "Both plates rise to form fold mountains.",
+     "New crust is created between the plates."
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, సముద్ర మరియు ఖండ ఫలకల మధ్య ఘర్షణ జరిగినప్పుడు, సముద్ర ఫలక ఖండ ఫలక క్రిందకు మునుగుతుంది.",
+    "en": "In a collision between an oceanic and a continental plate, the oceanic plate sinks beneath the continental plate."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T04-0022",
+   "section": {
+    "te": "Sagarmatha Meaning",
+    "en": "Sagarmatha Meaning"
+   },
+   "q": {
+    "te": "ఎవరెస్ట్ పర్వతానికి నేపాలీలు పెట్టిన 'సాగరమాత' అనే పేరుకు అర్థం ఏమిటి?",
+    "en": "What is the literal meaning of 'Sagarmatha', the Nepali name for Mount Everest?"
+   },
+   "options": {
+    "te": [
+     "మంచు నిలయం",
+     "ప్రపంచ పైకప్పు",
+     "ఆకాశ దేవత",
+     "ప్రపంచ జగన్మాత"
+    ],
+    "en": [
+     "Abode of Snow",
+     "Roof of the World",
+     "Goddess of the Sky",
+     "Mother Goddess of the World"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నేపాలీలు ఎవరెస్ట్ పర్వతాన్ని 'సాగరమాత' అని పిలుస్తారు, దీని అర్థం 'ఆకాశ దేవత' (Goddess of the Sky).",
+    "en": "Nepalis call Mount Everest 'Sagarmatha', which means 'Goddess of the Sky'."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T04-0297",
+   "section": {
+    "te": "Deformation in Solids",
+    "en": "Deformation in Solids"
+   },
+   "q": {
+    "te": "ఒక ఘనపదార్థంలో నెట్టడం లేదా లాగడం ద్వారా ఒత్తిడి ఏర్పడినప్పుడు ఏమి ప్రేరేపించబడుతుంది?",
+    "en": "What is induced in a solid when stress is produced by pushing or pulling?"
+   },
+   "options": {
+    "te": [
+     "అవపాతం",
+     "స్పటికీకరణ",
+     "వైకల్యం (Deformation)",
+     "సౌరపుటం"
+    ],
+    "en": [
+     "Precipitation",
+     "Crystallisation",
+     "Deformation",
+     "Insolation"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, ఒక ఘనపదార్థంలో నెట్టడం లేదా లాగడం ద్వారా ఏర్పడే ఒత్తిడి వైకల్యాన్ని (deformation) ప్రేరేపిస్తుంది.",
+    "en": "Stress produced by pushing or pulling in a solid induces deformation."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T04-0006",
+   "section": {
+    "te": "Himalayan Peaks",
+    "en": "Himalayan Peaks"
+   },
+   "q": {
+    "te": "హిమాలయ పర్వత శ్రేణిలో అత్యంత ఎత్తైన రెండు శిఖరాలు ఏవి?",
+    "en": "Which of the following are the two highest peaks of the Himalayan range?"
+   },
+   "options": {
+    "te": [
+     "మౌంట్ ఎవరెస్ట్",
+     "మౌంట్ కాంచనజంగా",
+     "A మరియు B రెండూ",
+     "మౌంట్ అకాన్కాగువా"
+    ],
+    "en": [
+     "Mount Everest",
+     "Mount Kanchenjunga",
+     "Both A and B",
+     "Mount Aconcagua"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "హిమాలయ శ్రేణిలో మౌంట్ ఎవరెస్ట్ మరియు కాంచనజంగా రెండు అత్యంత ఎత్తైన శిఖరాలు.",
+    "en": "Mount Everest and Kanchenjunga are the two highest peaks of the Himalayan range."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T04-0141",
+   "section": {
+    "te": "Ore enrichment",
+    "en": "Ore enrichment"
+   },
+   "q": {
+    "te": "శిలలు మరియు నిక్షేపాల శైథిల్యం క్రింది ఏ లోహాల విలువైన ఖనిజాల సాంద్రీకరణకు (enrichment) సహాయపడుతుంది?",
+    "en": "Weathering of rocks and deposits aids in the enrichment and concentration of valuable ores of which of the following metals?"
+   },
+   "options": {
+    "te": [
+     "ఇనుము మరియు మాంగనీస్",
+     "అల్యూమినియం మరియు రాగి",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Iron and Manganese",
+     "Aluminium and Copper",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "శైథిల్యం ఇనుము, మాంగనీస్, అల్యూమినియం మరియు రాగి వంటి విలువైన ఖనిజాల సాంద్రీకరణకు సహాయపడుతుందని పేర్కొనబడింది.",
+    "en": "Weathering helps in the enrichment and concentration of valuable ores of iron, manganese, aluminium, and copper."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T04-0225",
+   "section": {
+    "te": "Medial moraine definition",
+    "en": "Medial moraine definition"
+   },
+   "q": {
+    "te": "ఇరువైపులా పార్శ్వ మొరైన్లు ఉండి, హిమానీనద లోయ మధ్యభాగంలో ఏర్పడే మొరైన్‌ను ఏమని పిలుస్తారు?",
+    "en": "The moraine formed in the centre of a glacial valley flanked by lateral moraines is called a:"
+   },
+   "options": {
+    "te": [
+     "సిర్క్ మొరైన్ (Cirque moraine)",
+     "భూతల మొరైన్ (Ground moraine)",
+     "టెర్మినల్ మొరైన్ (Terminal moraine)",
+     "మధ్యస్థ మొరైన్ (Medial moraine)"
+    ],
+    "en": [
+     "Cirque moraine",
+     "Ground moraine",
+     "Terminal moraine",
+     "Medial moraine"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పార్శ్వ మొరైన్ల మధ్యలో, హిమానీనద లోయ కేంద్ర భాగంలో ఏర్పడే మొరైన్‌ను మధ్యస్థ మొరైన్ (medial moraine) అంటారు.",
+    "en": "A moraine situated in the centre of a glacial valley flanked on either side by lateral moraines is called a medial moraine."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T04-0157",
+   "section": {
+    "te": "Mature stage features",
+    "en": "Mature stage features"
+   },
+   "q": {
+    "te": "నదీ లోయ అభివృద్ధి యొక్క ప్రౌఢ దశలో (mature stage) కింది వాటిలో ఏవి అదృశ్యమవుతాయి?",
+    "en": "During the mature stage of river valley development, which of the following features disappear?"
+   },
+   "options": {
+    "te": [
+     "నదీ వంపులు (Meanders)",
+     "V-ఆకారపు లోయలు",
+     "జలపాతాలు మరియు రాపిడ్స్ (వేగ ప్రవాహాలు)",
+     "వరద మైదానాలు"
+    ],
+    "en": [
+     "Meanders",
+     "V-shaped valleys",
+     "Waterfalls and rapids",
+     "Floodplains"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రౌఢ దశలో నదులు మరింత సమాన స్థాయిని చేరుకోవడంతో జలపాతాలు మరియు వేగ ప్రవాహాలు (rapids) అదృశ్యమవుతాయి.",
+    "en": "During the mature stage, waterfalls and rapids disappear, and stream divides turn sharp."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T04-0300",
+   "section": {
+    "te": "Surface Differences",
+    "en": "Surface Differences"
+   },
+   "q": {
+    "te": "భూమి ఉపరితలంపై తేడాలు ఎందుకు కొనసాగుతున్నాయో ఈ క్రింది కారణాలను పరిశీలించండి:\n1. భూమిలోని పదార్థాల రకం మరియు నిర్మాణంలో తేడాలు.\n2. భూస్వరూప ప్రక్రియలలో తేడాలు.\n3. భూస్వరూప ప్రక్రియల నిర్వహణ రేట్లలో తేడాలు.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following reasons why differences on the surface of the earth continue to exist:\n1. Differences in the type and structure of earth materials.\n2. Differences in geomorphic processes.\n3. Differences in the rates of operation of geomorphic processes.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పదార్థాలు, ప్రక్రియలు మరియు వాటి నిర్వహణ రేట్లలో వైవిధ్యాల వల్ల ఉపరితల తేడాలు కొనసాగుతాయని పాఠ్యాంశం పేర్కొంది.",
+    "en": "Surface differences persist due to variations in materials, processes, and their operating rates."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T04-0159",
+   "section": {
+    "te": "Old age stage characteristics",
+    "en": "Old age stage characteristics"
+   },
+   "q": {
+    "te": "విశాలమైన వరద మైదానాలపై సహజ కట్టలు (natural levees) మరియు గుర్రపునాడా సరస్సులు (oxbow lakes) ఏ దశలో ప్రధానంగా కనిపిస్తాయి?",
+    "en": "Natural levees and oxbow lakes over vast floodplains are characteristically formed during which stage of landform evolution?"
+   },
+   "options": {
+    "te": [
+     "బాల్య దశ",
+     "వృద్ధ దశ (Old stage)",
+     "యువ దశ (Youth stage)",
+     "ప్రారంభ ప్రౌఢ దశ"
+    ],
+    "en": [
+     "Juvenile stage",
+     "Old stage",
+     "Youth stage",
+     "Early mature stage"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వృద్ధ దశలో నదులు విశాల వరద మైదానాలపై స్వేచ్ఛగా వంపులు తిరుగుతూ సహజ కట్టలు, గుర్రపునాడా సరస్సులను ఏర్పరుస్తాయి.",
+    "en": "During the old stage, streams meander freely over vast floodplains, displaying features like natural levees and oxbow lakes."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T04-0031",
+   "section": {
+    "te": "Plains Altitude Limit",
+    "en": "Plains Altitude Limit"
+   },
+   "q": {
+    "te": "మైదానాలు సాధారణంగా సముద్ర మట్టానికి ఎన్ని మీటర్ల కంటే ఎక్కువ ఎత్తులో ఉండవు?",
+    "en": "Plains are extensive flat landforms that are generally NOT more than how many metres above sea level?"
+   },
+   "options": {
+    "te": [
+     "300 మీటర్లు",
+     "800 మీటర్లు",
+     "150 మీటర్లు",
+     "500 మీటర్లు"
+    ],
+    "en": [
+     "300 metres",
+     "800 metres",
+     "150 metres",
+     "500 metres"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, మైదానాలు సాధారణంగా సముద్ర మట్టం నుండి 300 మీటర్ల కంటే ఎక్కువ ఎత్తులో ఉండవు.",
+    "en": "Plains are generally not more than 300 metres above sea level."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T04-0112",
+   "section": {
+    "te": "Batholiths",
+    "en": "Batholiths"
+   },
+   "q": {
+    "te": "'బాథోలిత్‌ల'కు (Batholiths) సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి భూపటలంలో అత్యంత లోతుల్లో పెద్ద గుమ్మటాల వలె చల్లబడే గ్రానైట్ శిలా ద్రవ్యరాశులు.\n2. ఇవి శిలాద్రవ గదుల (magma chambers) యొక్క శీతలీకరణ చెందిన భాగాలు.\n3. ఉపరితల శిలలు క్రమక్షయం వల్ల తొలగింపబడిన తర్వాత మాత్రమే ఇవి భూమిపై కనిపిస్తాయి.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding 'Batholiths':\n1. They are large granitic bodies that cool in the deeper depths of the crust as large domes.\n2. They represent the cooled portions of magma chambers.\n3. They appear on the surface only after denudational processes remove the overlying materials.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "బాథోలిత్‌లు భూపటలపు లోతుల్లో ఏర్పడే గ్రానైట్ గుమ్మటాలు, ఇవి పూర్వపు మాగ్మా గదులు మరియు ఉపరితల శిలల క్రమక్షయం తర్వాతే బయల్పడతాయి.",
+    "en": "All three statements are correct: batholiths are deep granitic cooled magma chambers that appear at the surface only after denudation removes overlying rocks."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T04-0066",
+   "section": {
+    "te": "Earth Layers",
+    "en": "Earth Layers"
+   },
+   "q": {
+    "te": "భూమి యొక్క పొరల గురించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. భూపటలం (crust) అనేది మానవులు నివసించే వెలుపలి పొర.\n2. ప్రావారం (mantle) భూపటలం క్రింద ఉంటుంది మరియు ఇది చాలా మందంగా, వేడిగా ఉంటుంది.\n3. భూకేంద్ర మండలం (core) లోపలి పొర మరియు ఇది అత్యంత వేడిగా, బరువుగా ఉంటుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements about the Earth's layers:\n1. The crust is the outermost layer where humans live.\n2. The mantle is located below the crust and is very thick and hot.\n3. The core is the innermost layer and is extremely hot and heavy.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం భూపటలం, ప్రావారం మరియు భూకేంద్ర మండలం యొక్క లక్షణాలను ఈ మూడు ప్రకటనలు ఖచ్చితంగా వివరిస్తున్నాయి.",
+    "en": "All three statements accurately describe the characteristics of the Earth's crust, mantle, and core as per the text."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T04-0087",
+   "section": {
+    "te": "Glacial Deposition Till",
+    "en": "Glacial Deposition Till"
+   },
+   "q": {
+    "te": "హిమానీనదాలు తమ వెంట తీసుకువచ్చి మేటవేసే రాళ్ళు, మట్టి మరియు శిథిలాలను (డిబ్రిస్) ఏమని పిలుస్తారు?",
+    "en": "The rocks, soil, and debris carried along and deposited by glaciers to form moraines are called:"
+   },
+   "options": {
+    "te": [
+     "ఒండ్రు మట్టి (Alluvium)",
+     "లోయెస్",
+     "టిల్ (Till)",
+     "వెంటిఫాక్ట్‌లు"
+    ],
+    "en": [
+     "Alluvium",
+     "Loess",
+     "Till",
+     "Ventifacts"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "హిమానీనదం ద్వారా నిక్షేపించబడే రాళ్ళు, నేల మరియు శిథిలాలను 'టిల్' అని పిలుస్తారు.",
+    "en": "The material composed of rocks, soil, and debris deposited by glaciers is called till."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T04-0142",
+   "section": {
+    "te": "Physical weathering causes",
+    "en": "Physical weathering causes"
+   },
+   "q": {
+    "te": "చాలా వరకు భౌతిక శైథిల్య ప్రక్రియలు వేటి వలన సంభవిస్తాయి?",
+    "en": "Most of the physical weathering processes are caused by:"
+   },
+   "options": {
+    "te": [
+     "ఉష్ణ వ్యాకోచం",
+     "పీడన విడుదల (Pressure release)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Thermal expansion",
+     "Pressure release",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "చాలా భౌతిక శైథిల్య ప్రక్రియలు ఉష్ణ వ్యాకోచం మరియు పీడన విడుదల వలన సంభవిస్తాయి.",
+    "en": "Most physical weathering processes are caused by thermal expansion and pressure release."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T04-0057",
+   "section": {
+    "te": "Plate Movement",
+    "en": "Plate Movement"
+   },
+   "q": {
+    "te": "టెక్టోనిక్ ఫలకల కదలికకు ప్రధాన కారణం ఏమిటి?",
+    "en": "What is the primary cause of the movement of tectonic plates?"
+   },
+   "options": {
+    "te": [
+     "సముద్ర ప్రవాహాలు",
+     "భూమి యొక్క భ్రమణం",
+     "ప్రావారంలోని (mantle) సంవహన ప్రవాహాలు",
+     "చంద్రుని గురుత్వాకర్షణ శక్తి"
+    ],
+    "en": [
+     "Ocean currents",
+     "Rotation of the Earth",
+     "Convection currents in the mantle",
+     "Gravitational pull of the moon"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూకేంద్ర మండలం నుండి వచ్చే వేడి వల్ల ప్రావారంలో ఏర్పడే సంవహన ప్రవాహాలు టెక్టోనిక్ ఫలకలను నెట్టడం మరియు లాగడం చేస్తాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Convection currents in the mantle, created by heat from the core, push and pull the tectonic plates."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T04-0007",
+   "section": {
+    "te": "Mount Kilimanjaro",
+    "en": "Mount Kilimanjaro"
+   },
+   "q": {
+    "te": "తూర్పు ఆఫ్రికాలోని ఏ పర్వతం ఏ శ్రేణిలోనూ భాగం కాని వివిక్త (isolated) పర్వతంగా వర్ణించబడింది?",
+    "en": "Which mountain in eastern Africa is described as an isolated mountain that is NOT part of any range?"
+   },
+   "options": {
+    "te": [
+     "మౌంట్ ఎవరెస్ట్",
+     "మౌంట్ బ్లాంక్",
+     "మౌంట్ కిలిమంజారో",
+     "మౌంట్ అకాన్కాగువా"
+    ],
+    "en": [
+     "Mount Everest",
+     "Mont Blanc",
+     "Mount Kilimanjaro",
+     "Mount Aconcagua"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "తూర్పు ఆఫ్రికాలోని మౌంట్ కిలిమంజారో ఏ పర్వత శ్రేణిలోనూ భాగం కాని ఒక వివిక్త పర్వతం.",
+    "en": "Mount Kilimanjaro in eastern Africa is an isolated mountain, meaning it does not belong to a mountain range."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T04-0011",
+   "section": {
+    "te": "Mountain Occupations",
+    "en": "Mountain Occupations"
+   },
+   "q": {
+    "te": "పర్వత ప్రాంతాలలో సాధారణ వృత్తులు లేదా ఆదాయ వనరులు ఏవి?",
+    "en": "Which of the following are common occupations or sources of income in mountainous regions?"
+   },
+   "options": {
+    "te": [
+     "పశువుల పెంపకం (Herding)",
+     "పర్యాటకం",
+     "మెట్ల వ్యవసాయం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Herding",
+     "Tourism",
+     "Terrace farming",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పర్వత ప్రాంతాలలో పశువుల పెంపకం, వ్యవసాయం (మెట్ల వ్యవసాయం) మరియు పర్యాటకం ప్రధాన కార్యకలాపాలుగా పేర్కొనబడ్డాయి.",
+    "en": "Herding, agriculture (terrace farming), and tourism as activities or income sources in mountains."
+   }
+  }
+ ]
+}

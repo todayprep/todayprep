@@ -1,0 +1,942 @@
+{
+ "id": "geo-15-g1-2",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Northern Plains – క్విజ్ 2",
+  "en": "Northern Plains – Quiz 2"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T15-0015",
+   "section": {
+    "te": "Plateau Rivers",
+    "en": "Plateau Rivers"
+   },
+   "q": {
+    "te": "కింది వాటిలో ఏ నదులు దక్కన్ పీఠభూమి గుండా పడమర నుండి తూర్పుకు ప్రవహిస్తాయి?",
+    "en": "Which of the following rivers flow across the Deccan Plateau from west to east?"
+   },
+   "options": {
+    "te": [
+     "గోదావరి మరియు కృష్ణ",
+     "కృష్ణ మరియు కావేరి",
+     "A మరియు B రెండూ",
+     "నర్మదా మరియు తపతి"
+    ],
+    "en": [
+     "Godavari and Krishna",
+     "Krishna and Kaveri",
+     "Both A and B",
+     "Narmada and Tapti"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "గోదావరి, కృష్ణ మరియు కావేరి నదులు పీఠభూమి గుండా పడమర నుండి తూర్పుకు ప్రవహిస్తాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Godavari, Krishna, and Kaveri flow across the plateau from west to east."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T15-0017",
+   "section": {
+    "te": "Plateau Tribes",
+    "en": "Plateau Tribes"
+   },
+   "q": {
+    "te": "భారతీయ పీఠభూమిలోని దట్టమైన అడవులలో నివసించే తెగలలో కింది వాటిలో ఏది పేర్కొనబడలేదు?",
+    "en": "Which of the following tribal communities is NOT mentioned as living in the dense forests of the Indian plateau?"
+   },
+   "options": {
+    "te": [
+     "సంతాల్",
+     "గోండ్",
+     "జరావా",
+     "కోర్కు"
+    ],
+    "en": [
+     "Santhal",
+     "Gond",
+     "Jarawa",
+     "Korku"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం సంతాల్, గోండ్, బైగా, భిల్ మరియు కోర్కులను పీఠభూమి తెగలుగా జాబితా చేసింది. జరావా ఈ విభాగంలో పేర్కొనబడలేదు.",
+    "en": "The text lists Santhal, Gond, Baiga, Bhil, and Korku as plateau tribes. Jarawa is not mentioned in this section."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T15-0077",
+   "section": {
+    "te": "Plateau Relief",
+    "en": "Plateau Relief"
+   },
+   "q": {
+    "te": "ద్వీపకల్ప పీఠభూమి యొక్క వాయువ్య భాగంలో ఉన్న లోతైన లోయలకు (ravines) ప్రసిద్ధ ఉదాహరణలు ఏవి?\nA. చంబల్\nB. భింద్\nC. మోరెనా",
+    "en": "Which of the following are well-known examples of ravines in the northwestern part of the Peninsular plateau?\nA. Chambal\nB. Bhind\nC. Morena"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వాయువ్య పీఠభూమిలోని లోతైన లోయలకు చంబల్, భింద్ మరియు మోరెనాలను వచనం స్పష్టంగా ఉదాహరణలుగా పేర్కొంది.",
+    "en": "The text explicitly lists Chambal, Bhind, and Morena as well-known examples of ravines in the northwestern plateau."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T15-0059",
+   "section": {
+    "te": "Northern Plain Formation",
+    "en": "Northern Plain Formation"
+   },
+   "q": {
+    "te": "ఇండో-గంగా-బ్రహ్మపుత్ర మైదానాల ఏర్పాటుకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది మొదట భూ-సన్నతి లోయ (geo-synclinal depression).\n2. ఇది సుమారు 64 మిలియన్ సంవత్సరాల క్రితం గరిష్ట అభివృద్ధిని సాధించింది.\n3. ఇది హిమాలయ మరియు ద్వీపకల్ప నదులు రెండింటి నుండి వచ్చిన అవక్షేపాలతో నిండిపోయింది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about the formation of the Indo-Ganga-Brahmaputra plain:\n1. It was originally a geo-synclinal depression.\n2. It attained maximum development about 64 million years ago.\n3. It has been filled by sediments from both Himalayan and Peninsular rivers.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఉత్తర మైదానాల పుట్టుక మరియు నింపడానికి సంబంధించి పాఠ్యభాగం ప్రకారం మూడు ప్రకటనలు సరైనవే.",
+    "en": "All three statements are correct according to the text regarding the origin and filling of the northern plains."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T15-0086",
+   "section": {
+    "te": "Peninsular Peaks",
+    "en": "Peninsular Peaks"
+   },
+   "q": {
+    "te": "'దొడబెట్ట' శిఖరం ఏ కొండలలో ఉంది?",
+    "en": "On which hills is the peak 'Dodabetta' located?"
+   },
+   "options": {
+    "te": [
+     "నీలగిరి కొండలు",
+     "ఏలకుల (Cardamom) కొండలు",
+     "అనైమలై కొండలు",
+     "జావాడి కొండలు"
+    ],
+    "en": [
+     "Nilgiri hills",
+     "Cardamom hills",
+     "Anaimalai hills",
+     "Javadi hills"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పేర్కొన్న రెండవ అత్యంత ఎత్తైన శిఖరం దొడబెట్ట (2,637 మీ), ఇది నీలగిరి కొండలలో ఉంది.",
+    "en": "Dodabetta, the second highest peak mentioned (2,637 m), is located on the Nilgiri hills."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T15-0028",
+   "section": {
+    "te": "West Coast River Features",
+    "en": "West Coast River Features"
+   },
+   "q": {
+    "te": "భారతదేశ పశ్చిమ తీరానికి సంబంధించి, ఈ ప్రకటనలను పరిశీలించండి:\n1. ఇది గుజరాత్ నుండి కేరళ వరకు విస్తరించి ఉంది.\n2. ఇక్కడ మెజారిటీ నదులు పశ్చిమ కనుమలలో పుట్టి వేగంగా ప్రవహిస్తాయి.\n3. ఈ తీరంలోని నదులు సాధారణంగా పెద్ద డెల్టాలను ఏర్పరుస్తాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Regarding the West Coast of India, consider these statements:\n1. It stretches from Gujarat to Kerala.\n2. Most rivers here originate in the Western Ghats and flow swiftly.\n3. The rivers on this coast typically form large deltas.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రకటనలు 1 మరియు 2 సరైనవి. ప్రకటన 3 తప్పు ఎందుకంటే పశ్చిమ తీర నదులు ఎస్ట్యూరీలను ఏర్పరుస్తాయి, డెల్టాలను కాదు.",
+    "en": "Statements 1 and 2 are correct. Statement 3 is incorrect because west coast rivers form estuaries, not deltas."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T15-0062",
+   "section": {
+    "te": "Plateau Black Soil",
+    "en": "Plateau Black Soil"
+   },
+   "q": {
+    "te": "ద్వీపకల్ప పీఠభూమిలోని ఏ భాగంలో నల్ల రేగడి మట్టి (black soil) ఎక్కువగా కనిపిస్తుంది?",
+    "en": "In which part of the Peninsular plateau is black soil emphatically present?"
+   },
+   "options": {
+    "te": [
+     "మధ్య మరియు దక్షిణ",
+     "తూర్పు మరియు దక్షిణ",
+     "పశ్చిమ మరియు వాయువ్య",
+     "ఉత్తర మరియు తూర్పు"
+    ],
+    "en": [
+     "Central and Southern",
+     "Eastern and Southern",
+     "Western and Northwestern",
+     "Northern and Eastern"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, పీఠభూమి యొక్క పశ్చిమ మరియు వాయువ్య భాగాలలో నల్ల రేగడి మట్టి ఎక్కువగా ఉంటుంది.",
+    "en": "Black soil is emphatically present in the western and northwestern parts of the plateau."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T15-0102",
+   "section": {
+    "te": "Lakshadweep Storm Beaches",
+    "en": "Lakshadweep Storm Beaches"
+   },
+   "q": {
+    "te": "లక్షద్వీప్ ద్వీపసమూహంలో ఏ వైపున గులకరాళ్లు మరియు బండరాళ్లతో కూడిన స్టార్మ్ బీచ్‌లు (storm beaches) కనిపిస్తాయి?",
+    "en": "On which side of the Lakshadweep archipelago are storm beaches consisting of pebbles and boulders found?"
+   },
+   "options": {
+    "te": [
+     "ఉత్తర తీరం",
+     "దక్షిణ తీరం",
+     "పశ్చిమ తీరం",
+     "తూర్పు తీరం"
+    ],
+    "en": [
+     "Northern seaboard",
+     "Southern seaboard",
+     "Western seaboard",
+     "Eastern seaboard"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "లక్షద్వీప్ ద్వీపాల తూర్పు తీరంలో గులకరాళ్లు మరియు బండరాళ్లతో కూడిన స్టార్మ్ బీచ్‌లు ఉన్నాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text specifies that storm beaches with unconsolidated pebbles and boulders are located on the eastern seaboard of the Lakshadweep islands."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T15-0097",
+   "section": {
+    "te": "Indian Desert Salt Source",
+    "en": "Indian Desert Salt Source"
+   },
+   "q": {
+    "te": "భారతీయ ఎడారి ప్రాంతంలో ఉప్పును పొందే ప్రధాన వనరు ఏది?",
+    "en": "What is the main source of obtaining salt in the Indian desert region?"
+   },
+   "options": {
+    "te": [
+     "లూనీ నది నీరు",
+     "భూగర్భ గనులు",
+     "కచ్ రన్ నుండి దిగుమతి చేసుకున్నది",
+     "సరస్సులు మరియు ప్లాయాస్ (playas) లోని ఉప్పు నీరు"
+    ],
+    "en": [
+     "The Luni river water",
+     "Underground mines",
+     "Imported from the Rann of Kachchh",
+     "Brackish water of lakes and playas"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఎడారి ప్రాంతంలోని సరస్సులు మరియు ప్లాయాలలో లభించే ఉప్పు నీటి నుండి ఉప్పును పొందుతారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Salt is obtained from the brackish water found in the lakes and playas of the desert region."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T15-0033",
+   "section": {
+    "te": "Cellular Jail",
+    "en": "Cellular Jail"
+   },
+   "q": {
+    "te": "అండమాన్ దీవులలోని ఏ జైలు సముదాయంలో చాలా మంది భారతీయ స్వాతంత్ర్య సమరయోధులు కఠినమైన పరిస్థితుల్లో బంధించబడ్డారు?",
+    "en": "In which prison complex in the Andaman Islands were many Indian freedom fighters jailed under severe conditions?"
+   },
+   "options": {
+    "te": [
+     "సెల్యులార్ జైలు",
+     "రాజమండ్రి జైలు",
+     "తీహార్ జైలు",
+     "ఎరవాడ జైలు"
+    ],
+    "en": [
+     "Cellular Jail",
+     "Rajahmundry Jail",
+     "Tihar Jail",
+     "Yerwada Jail"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అండమాన్ దీవులలో ఉన్న 'సెల్యులార్ జైలు'లో చాలా మంది స్వాతంత్ర్య సమరయోధులు బంధించబడ్డారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Many freedom fighters were jailed in the 'Cellular Jail' located in the Andaman Islands."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T15-0011",
+   "section": {
+    "te": "Northern Plains Transport",
+    "en": "Northern Plains Transport"
+   },
+   "q": {
+    "te": "ఉత్తర మైదానాల యొక్క ఏ లక్షణం రోడ్లు మరియు రైల్వేల విస్తృత రవాణా నెట్‌వర్క్ అభివృద్ధికి అనుమతించింది?",
+    "en": "What feature of the Northern Plains has allowed for the development of an elaborate transportation network of roads and railways?"
+   },
+   "options": {
+    "te": [
+     "దట్టమైన అడవులు",
+     "చదునైన భూమి",
+     "అధిక ఎత్తు",
+     "ఎడారి భూభాగం"
+    ],
+    "en": [
+     "Dense forests",
+     "Flat land",
+     "High altitude",
+     "Desert terrain"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఉత్తర మైదానాల్లోని భూమి చదునుగా ఉండటం వల్ల విస్తృతమైన రోడ్డు మరియు రైల్వే నెట్‌వర్క్‌ల నిర్మాణం మరియు అభివృద్ధి సులభతరం అవుతుంది.",
+    "en": "The flat nature of the land in the Northern Plains facilitates the construction and development of extensive road and railway networks."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T15-0024",
+   "section": {
+    "te": "West-flowing rivers",
+    "en": "West-flowing rivers"
+   },
+   "q": {
+    "te": "అరేబియా సముద్రంలో కలిసే పశ్చిమ దిశగా ప్రవహించే నదులు కింది వాటిలో ఏవి?",
+    "en": "Which of the following are west-flowing rivers that drain into the Arabian Sea?"
+   },
+   "options": {
+    "te": [
+     "నర్మదా",
+     "తపతి",
+     "A మరియు B రెండూ",
+     "మహానది"
+    ],
+    "en": [
+     "Narmada",
+     "Tapti",
+     "Both A and B",
+     "Mahanadi"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నర్మదా మరియు తపతి నదులు పశ్చిమ దిశగా ప్రవహించి అరేబియా సముద్రంలో కలుస్తాయని పాఠ్యభాగం స్పష్టంగా పేర్కొంది.",
+    "en": "Narmada and Tapti as west-flowing rivers that drain into the Arabian Sea."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T15-0093",
+   "section": {
+    "te": "Lakshadweep Islands",
+    "en": "Lakshadweep Islands"
+   },
+   "q": {
+    "te": "లక్షద్వీప్ ద్వీప సమూహంలో, మొత్తం సుమారు 36 ద్వీపాలలో ఎన్ని ద్వీపాలలో జనాభా నివసిస్తున్నారు?",
+    "en": "In the Lakshadweep island group, how many islands are inhabited out of the total approximately 36 islands?"
+   },
+   "options": {
+    "te": [
+     "5",
+     "21",
+     "11",
+     "36"
+    ],
+    "en": [
+     "5",
+     "21",
+     "11",
+     "36"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "లక్షద్వీప్ సమూహంలో సుమారు 36 ద్వీపాలు ఉన్నాయని, వాటిలో 11 ద్వీపాలలో జనాభా నివసిస్తున్నారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text specifies that there are approximately 36 islands in the Lakshadweep group, and 11 of them are inhabited."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T15-0030",
+   "section": {
+    "te": "Plateau Resources",
+    "en": "Plateau Resources"
+   },
+   "q": {
+    "te": "పీఠభూమిలో లభించే ఏ ఖనిజ వనరు విద్యుత్ ఉత్పత్తికి ముఖ్యమైనదిగా ప్రత్యేకంగా పేర్కొనబడింది?",
+    "en": "Which mineral resource found in the plateau is specifically mentioned as being important for the production of electricity?"
+   },
+   "options": {
+    "te": [
+     "రాగి",
+     "ఇనుప ఖనిజం",
+     "బంగారం",
+     "బొగ్గు"
+    ],
+    "en": [
+     "Copper",
+     "Iron ore",
+     "Gold",
+     "Coal"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పీఠభూమిలోని బొగ్గు గనులు విద్యుత్ ఉత్పత్తికి ముఖ్యమైన వనరుగా పాఠ్యభాగం పేర్కొంది.",
+    "en": "Coal mines in the plateau as an important resource for electricity production."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T15-0040",
+   "section": {
+    "te": "Indian Plate History",
+    "en": "Indian Plate History"
+   },
+   "q": {
+    "te": "మిలియన్ల సంవత్సరాల క్రితం, భారతీయ ప్లేట్ చాలా పెద్దదిగా ఉండేది మరియు ఏ ఇతర ప్లేట్ అందులో భాగంగా ఉండేది?",
+    "en": "Millions of years ago, the Indian plate was much larger and included which other plate as a part of it?"
+   },
+   "options": {
+    "te": [
+     "యురేషియన్ ప్లేట్",
+     "ఆస్ట్రేలియన్ ప్లేట్",
+     "ఆఫ్రికన్ ప్లేట్",
+     "పసిఫిక్ ప్లేట్"
+    ],
+    "en": [
+     "Eurasian plate",
+     "Australian plate",
+     "African plate",
+     "Pacific plate"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మిలియన్ల సంవత్సరాల క్రితం, ఆస్ట్రేలియన్ ప్లేట్ పెద్దదైన భారతీయ ప్లేట్‌లో భాగంగా ఉండేదని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Millions of years ago, the Australian plate was a part of the larger Indian plate."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T15-0012",
+   "section": {
+    "te": "Ganga Plain Food Crops",
+    "en": "Ganga Plain Food Crops"
+   },
+   "q": {
+    "te": "గంగా మైదానంలో పండించే ఆహార పంటగా ఈ క్రింది వాటిలో ఏది పేర్కొనబడలేదు?",
+    "en": "Which of the following is NOT mentioned as a food crop grown in the Ganga plain?"
+   },
+   "options": {
+    "te": [
+     "వరి",
+     "మొక్కజొన్న",
+     "కాఫీ",
+     "గోధుమ"
+    ],
+    "en": [
+     "Rice",
+     "Maize",
+     "Coffee",
+     "Wheat"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యాంశం వరి, గోధుమ, మొక్కజొన్న, బార్లీ మరియు చిరుధాన్యాలను ఆహార పంటలుగా జాబితా చేసింది, కానీ కాఫీని పేర్కొనలేదు.",
+    "en": "The text lists rice, wheat, maize, barley, and millets as food crops, but does not mention coffee."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T15-0020",
+   "section": {
+    "te": "East Coast Lakes",
+    "en": "East Coast Lakes"
+   },
+   "q": {
+    "te": "కింది లక్షణాలను వాటి వివరణలు/ప్రాంతాలతో జతపరచండి:\n1. పులికాట్ సరస్సు - i. పశ్చిమ తీరంలో అతిపెద్ద ఎస్ట్యూరీలు\n2. నర్మదా & తపతి - ii. తూర్పు తీరంలోని లాగూన్\n3. లక్షద్వీప్ - iii. బంగాళాఖాతం\n4. అండమాన్ & నికోబార్ - iv. అరేబియా సముద్రం",
+    "en": "Match the following features with their descriptions/locations:\n1. Pulicat Lake - i. Largest estuaries on West Coast\n2. Narmada & Tapti - ii. Lagoon on the East Coast\n3. Lakshadweep - iii. Bay of Bengal\n4. Andaman & Nicobar - iv. Arabian Sea"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-i, 3-iv, 4-iii",
+     "1-ii, 2-i, 3-iii, 4-iv",
+     "1-i, 2-ii, 3-iv, 4-iii",
+     "1-iii, 2-iv, 3-i, 4-ii"
+    ],
+    "en": [
+     "1-ii, 2-i, 3-iv, 4-iii",
+     "1-ii, 2-i, 3-iii, 4-iv",
+     "1-i, 2-ii, 3-iv, 4-iii",
+     "1-iii, 2-iv, 3-i, 4-ii"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పులికాట్ తూర్పు తీరంలో ఉన్న లాగూన్, నర్మదా/తపతి పశ్చిమ తీర ఎస్ట్యూరీలు, లక్షద్వీప్ అరేబియా సముద్రంలో ఉంది మరియు అండమాన్/నికోబార్ బంగాళాఖాతంలో ఉన్నాయి.",
+    "en": "Pulicat is a lagoon on the East Coast, Narmada/Tapti are West Coast estuaries, Lakshadweep is in the Arabian Sea, and Andaman/Nicobar are in the Bay of Bengal."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T15-0043",
+   "section": {
+    "te": "Sundarbans Features",
+    "en": "Sundarbans Features"
+   },
+   "q": {
+    "te": "సుందర్బన్స్ గురించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది గంగా మరియు బ్రహ్మపుత్ర నదుల డెల్టాలో ఉంది.\n2. ఇది యునెస్కో (UNESCO) హెరిటేజ్ సైట్.\n3. ఇది రాయల్ బెంగాల్ టైగర్‌కు నివాసం.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the Sundarbans:\n1. It is located in the delta of the Ganga and Brahmaputra rivers.\n2. It is a UNESCO Heritage site.\n3. It is home to the Royal Bengal Tiger.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3",
+     "1 మరియు 3 మాత్రమే"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1, 2 and 3",
+     "1 and 3 only"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం మూడు ప్రకటనలు సరైనవే: ఇది గంగా-బ్రహ్మపుత్ర డెల్టా, యునెస్కో సైట్ మరియు రాయల్ బెంగాల్ టైగర్‌కు నివాసం.",
+    "en": "All three statements are correct as per the text: it is a delta of Ganga-Brahmaputra, a UNESCO site, and home to the Royal Bengal Tiger."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T15-0091",
+   "section": {
+    "te": "Indian Desert Slope",
+    "en": "Indian Desert Slope"
+   },
+   "q": {
+    "te": "భారతీయ ఎడారి యొక్క దక్షిణ భాగం ఏ దిశలో వాలును కలిగి ఉంటుంది?",
+    "en": "In which direction does the southern part of the Indian desert slope?"
+   },
+   "options": {
+    "te": [
+     "బంగాళాఖాతం వైపు",
+     "సింధు వైపు",
+     "హిమాలయాల వైపు",
+     "కచ్ రన్ (Rann of Kachchh) వైపు"
+    ],
+    "en": [
+     "Towards the Bay of Bengal",
+     "Towards Sindh",
+     "Towards the Himalayas",
+     "Towards the Rann of Kachchh"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఎడారి యొక్క దక్షిణ భాగం కచ్ రన్ వైపు వాలుగా ఉంటుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The southern part of the desert slopes towards the Rann of Kachchh."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T15-0031",
+   "section": {
+    "te": "Plateau Waterfalls",
+    "en": "Plateau Waterfalls"
+   },
+   "q": {
+    "te": "భారతీయ పీఠభూమి ప్రాంతంలో కనిపించే జలపాతాల వల్ల కలిగే ప్రయోజనాలు ఏమిటి?",
+    "en": "What are the benefits of waterfalls found in the Indian plateau region?"
+   },
+   "options": {
+    "te": [
+     "జలవిద్యుత్ ఉత్పత్తి",
+     "సాగునీటి సరఫరా",
+     "పర్యాటకులను ఆకర్షించడం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Hydroelectric power generation",
+     "Water for irrigation",
+     "Attracting tourists",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జలపాతాలు పర్యాటకులను ఆకర్షిస్తాయని, జలవిద్యుత్ ఉత్పత్తికి సహాయపడతాయని మరియు సాగునీటిని అందిస్తాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Waterfalls attract tourists, help in hydroelectric power generation, and provide water for irrigation."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T15-0036",
+   "section": {
+    "te": "Meghalaya Plateau Hills",
+    "en": "Meghalaya Plateau Hills"
+   },
+   "q": {
+    "te": "మేఘాలయ పీఠభూమిలో భాగంగా ఈ క్రింది కొండలలో ఏవి పేర్కొనబడ్డాయి?",
+    "en": "Which of the following hills are mentioned as being part of the Meghalaya Plateau?"
+   },
+   "options": {
+    "te": [
+     "గారో",
+     "ఖాసీ",
+     "జైంతియా",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Garo",
+     "Khasi",
+     "Jantia",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఈశాన్యంలోని మేఘాలయ పీఠభూమిలో గారో, ఖాసీ మరియు జైంతియా కొండలు భాగంగా గుర్తించబడ్డాయి.",
+    "en": "The Garo, Khasi, and Jantia hills are all identified as parts of the Meghalaya Plateau in the Northeast."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T15-0098",
+   "section": {
+    "te": "Western Coastal Plain Rivers",
+    "en": "Western Coastal Plain Rivers"
+   },
+   "q": {
+    "te": "పశ్చిమ తీర మైదానాల గుండా ప్రవహించే నదులకు సంబంధించి కింది వాటిలో ఏది నిజం?",
+    "en": "Which of the following is true regarding the rivers flowing through the western coastal plains?"
+   },
+   "options": {
+    "te": [
+     "అవి బంగాళాఖాతంలోకి ప్రవహిస్తాయి",
+     "అవి బాగా అభివృద్ధి చెందిన డెల్టాలను ఏర్పరుస్తాయి",
+     "అవి ఎటువంటి డెల్టాను ఏర్పరచవు",
+     "అవన్నీ జీవనదులు"
+    ],
+    "en": [
+     "They flow into the Bay of Bengal",
+     "They form well-developed deltas",
+     "They do NOT form any delta",
+     "They are all perennial rivers"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "తూర్పు తీర నదుల వలె కాకుండా, పశ్చిమ తీర మైదానం గుండా ప్రవహించే నదులు ఎటువంటి డెల్టాలను ఏర్పరచవు.",
+    "en": "Unlike the eastern coastal rivers, the rivers flowing through the western coastal plain do not form any deltas."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T15-0038",
+   "section": {
+    "te": "Living Root Bridges",
+    "en": "Living Root Bridges"
+   },
+   "q": {
+    "te": "ఈశాన్య భారతదేశంలోని 'లివింగ్ రూట్ బ్రిడ్జెస్' (సజీవ వేర్ల వంతెనలు) ఎలా నిర్మించబడతాయి?",
+    "en": "How are the 'living root bridges' of the Northeast created?"
+   },
+   "options": {
+    "te": [
+     "పెద్ద రాళ్లను చెక్కడం ద్వారా",
+     "పర్యావరణ హితమైన సిమెంటుతో నిర్మించడం ద్వారా",
+     "శుద్ధి చేసిన వెదురు కర్రలను ఉపయోగించడం ద్వారా",
+     "అనేక సంవత్సరాల పాటు చెట్ల వేర్లను అల్లడం ద్వారా"
+    ],
+    "en": [
+     "By carving large stones",
+     "By building with eco-friendly cement",
+     "By using treated bamboo sticks",
+     "By weaving tree roots over many years"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "లివింగ్ రూట్ బ్రిడ్జెస్ అనేవి సుదీర్ఘ కాలం పాటు చెట్ల వేర్లను అల్లడం ద్వారా సృష్టించబడిన ఒక ప్రత్యేకమైన నిర్మాణాలు.",
+    "en": "Living root bridges are a unique feature created by weaving the roots of trees over a long period."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T15-0039",
+   "section": {
+    "te": "Malda Fault",
+    "en": "Malda Fault"
+   },
+   "q": {
+    "te": "ద్వీపకల్ప బ్లాక్ యొక్క ఈశాన్య భాగం మాల్దా ఫాల్ట్ (Malda fault) ద్వారా ఏ ప్రాంతం నుండి వేరు చేయబడింది?",
+    "en": "From which feature is the northeastern part of the Peninsular block separated by the Malda fault?"
+   },
+   "options": {
+    "te": [
+     "ఆరావళి శ్రేణి",
+     "ఛోటా నాగ్‌పూర్ పీఠభూమి",
+     "కచ్ (Kachchh)",
+     "రాజ్‌మహల్ కొండలు"
+    ],
+    "en": [
+     "Aravali Range",
+     "Chotanagpur plateau",
+     "Kachchh",
+     "Rajmahal Hills"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పశ్చిమ బెంగాల్‌లోని మాల్దా ఫాల్ట్, ఈశాన్య విస్తరణలకు (మేఘాలయ పీఠభూమి వంటివి) మరియు ఛోటా నాగ్‌పూర్ పీఠభూమికి మధ్య విభజనగా పనిచేస్తుంది.",
+    "en": "The Malda fault in West Bengal acts as a separator between the northeastern extensions (like Meghalaya Plateau) and the Chotanagpur plateau."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T15-0010",
+   "section": {
+    "te": "Gangetic Plains Features",
+    "en": "Gangetic Plains Features"
+   },
+   "q": {
+    "te": "గంగా మైదానాలకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి హిమాలయాల నుండి ఉద్భవించే నదుల ద్వారా పోషించబడతాయి.\n2. నదులు నేలను సారవంతం చేసే ఖనిజాలను తెస్తాయి.\n3. నదులు విద్యుత్ ఉత్పత్తికి ఉపయోగించబడతాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Regarding the Gangetic Plains, consider these statements:\n1. They are nourished by rivers originating from the Himalayas.\n2. The rivers bring minerals that enrich the soil.\n3. The rivers are used for generating electricity.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మైదానాలు హిమాలయ నదుల ద్వారా పోషించబడతాయని, ఇవి నేల సారానికి ఖనిజాలను తెస్తాయని మరియు విద్యుత్ ఉత్పత్తికి కూడా ఉపయోగించబడతాయని పాఠ్యాంశం పేర్కొంది.",
+    "en": "The plains are nourished by Himalayan rivers, which bring minerals for soil fertility and are also used for electricity generation."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T15-0023",
+   "section": {
+    "te": "Deltas and Farming",
+    "en": "Deltas and Farming"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): గోదావరి మరియు కృష్ణ నదీ ముఖద్వారాల (డెల్టాల) వద్ద భూమి వ్యవసాయానికి అనువైనది.\nకారణం (R): నదులు తమ ముఖద్వారం వద్ద అవక్షేపాలను నిక్షేపించడం వల్ల డెల్టాలు ఏర్పడతాయి, ఇది సారవంతమైన భూమిని సృష్టిస్తుంది.",
+    "en": "Assertion (A): The land in the deltas of the Godavari and Krishna is ideal for farming.\nReason (R): Deltas are formed when rivers deposit sediments at their mouth, creating fertile land."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నదులు అవక్షేపాలను నిక్షేపించడం వల్ల డెల్టాలు ఏర్పడతాయని, ఇది భూమిని సారవంతం చేసి వ్యవసాయానికి అనువుగా మారుస్తుందని పాఠ్యభాగం వివరిస్తుంది.",
+    "en": "Deltas are formed by sediment deposits which make the land fertile and ideal for farming."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T15-0019",
+   "section": {
+    "te": "West Coast Estuaries",
+    "en": "West Coast Estuaries"
+   },
+   "q": {
+    "te": "భారతదేశ పశ్చిమ తీరంలో ఉన్న అతిపెద్ద ఎస్ట్యూరీలు (నదీ ముఖద్వారాలు) ఏవి?",
+    "en": "Which are the largest estuaries found on the West Coast of India?"
+   },
+   "options": {
+    "te": [
+     "గంగ మరియు బ్రహ్మపుత్ర",
+     "కృష్ణ మరియు కావేరి",
+     "నర్మదా మరియు తపతి",
+     "మహానది మరియు గోదావరి"
+    ],
+    "en": [
+     "Ganga and Brahmaputra",
+     "Krishna and Kaveri",
+     "Narmada and Tapti",
+     "Mahanadi and Godavari"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పశ్చిమ తీరంలో నర్మదా మరియు తపతి ఎస్ట్యూరీలు అతిపెద్దవని పాఠ్యభాగం గుర్తిస్తుంది.",
+    "en": "The text identifies the Narmada and Tapti estuaries as the largest on the west coast."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T15-0089",
+   "section": {
+    "te": "West Coast Divisions",
+    "en": "West Coast Divisions"
+   },
+   "q": {
+    "te": "కింది తీర ప్రాంత విభాగాలను అవి ప్రధానంగా అనుబంధించబడిన రాష్ట్రాలతో జతపరచండి:\n1. కొంకణ్ తీరం - i. గుజరాత్\n2. మలబార్ తీరం - ii. మహారాష్ట్ర\n3. కచ్ తీరం - iii. కేరళ",
+    "en": "Match the following coastal divisions with the states they are primarily associated with:\n1. Konkan coast - i. Gujarat\n2. Malabar coast - ii. Maharashtra\n3. Kachchh coast - iii. Kerala"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-iii, 3-i",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-ii, 3-i",
+     "1-ii, 2-i, 3-iii"
+    ],
+    "en": [
+     "1-ii, 2-iii, 3-i",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-ii, 3-i",
+     "1-ii, 2-i, 3-iii"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, కొంకణ్ తీరం మహారాష్ట్రలో, మలబార్ తీరం కేరళలో మరియు కచ్ తీరం గుజరాత్‌లో ఉన్నాయి.",
+    "en": "The Konkan coast is in Maharashtra, the Malabar coast is in Kerala, and the Kachchh coast is in Gujarat."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T15-0032",
+   "section": {
+    "te": "Active Volcano",
+    "en": "Active Volcano"
+   },
+   "q": {
+    "te": "భారతదేశంలో ఉన్న ఏకైక క్రియాశీల అగ్నిపర్వతం ఏది?",
+    "en": "Which of the following is the only active volcano found in India?"
+   },
+   "options": {
+    "te": [
+     "నికోబార్ ద్వీపం",
+     "లక్షద్వీప్ ద్వీపం",
+     "అండమాన్ ద్వీపం",
+     "బారెన్ ద్వీపం"
+    ],
+    "en": [
+     "Nicobar Island",
+     "Lakshadweep Island",
+     "Andaman Island",
+     "Barren Island"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, అండమాన్ మరియు నికోబార్ దీవులలోని బారెన్ ద్వీపం భారతదేశంలోని ఏకైక క్రియాశీల అగ్నిపర్వతం.",
+    "en": "Barren Island in the Andaman and Nicobar Islands is the only active volcano in India."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T15-0057",
+   "section": {
+    "te": "Brahmaputra Course",
+    "en": "Brahmaputra Course"
+   },
+   "q": {
+    "te": "బంగ్లాదేశ్‌లోకి ప్రవేశించే ముందు బ్రహ్మపుత్ర నది ఏ ప్రదేశంలో దాదాపు 90° దక్షిణ దిశగా మలుపు తిరుగుతుంది?",
+    "en": "At which location does the Brahmaputra river take a 90° southward turn before entering Bangladesh?"
+   },
+   "options": {
+    "te": [
+     "తేజ్‌పూర్",
+     "గువహటి",
+     "డిబ్రూఘర్",
+     "ధుబ్రి"
+    ],
+    "en": [
+     "Tezpur",
+     "Guwahati",
+     "Dibrugarh",
+     "Dhubri"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "బంగ్లాదేశ్‌లోకి ప్రవేశించే ముందు బ్రహ్మపుత్ర నది ధుబ్రి వద్ద 90° దక్షిణ దిశగా మలుపు తిరుగుతుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The Brahmaputra takes a 90° southward turn at Dhubri before entering Bangladesh."
+   }
+  }
+ ]
+}

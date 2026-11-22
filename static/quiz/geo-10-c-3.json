@@ -1,0 +1,942 @@
+{
+ "id": "geo-10-c-3",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Oceans – క్విజ్ 3",
+  "en": "Oceans – Quiz 3"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T10-0147",
+   "section": {
+    "te": "Highest surface temperature location",
+    "en": "Highest surface temperature location"
+   },
+   "q": {
+    "te": "సముద్రాల అత్యధిక ఉపరితల నీటి ఉష్ణోగ్రత ఎక్కడ నమోదవుతుంది?",
+    "en": "Where is the highest surface water temperature of the oceans recorded?"
+   },
+   "options": {
+    "te": [
+     "సరిగ్గా భూమధ్యరేఖ వద్ద",
+     "భూమధ్యరేఖకు కాస్త దక్షిణం వైపు",
+     "మకర రేఖ వెంబడి",
+     "భూమధ్యరేఖకు కాస్త ఉత్తరం వైపు"
+    ],
+    "en": [
+     "Exactly at the equator",
+     "Slightly towards south of the equator",
+     "Along the Tropic of Capricorn",
+     "Slightly towards north of the equator"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సముద్రాలలో అత్యధిక ఉష్ణోగ్రత సరిగ్గా భూమధ్యరేఖ వద్ద కాకుండా, దానికి కొద్దిగా ఉత్తరం వైపున నమోదవుతుంది.",
+    "en": "The highest ocean surface temperature is not recorded at the equator but slightly towards north of it."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T10-0066",
+   "section": {
+    "te": "Cultural Significance of Oceans",
+    "en": "Cultural Significance of Oceans"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఏ సముద్ర వస్తువులు ఒకప్పుడు కరెన్సీగా ఉపయోగించబడ్డాయి మరియు పౌరాణిక సముద్ర మథనంతో సంబంధం కలిగి ఉన్నాయి?\nA. శంఖం (Śhaṅkha)\nB. గవ్వలు (Kapardikā)\nC. పగడపు పూసలు",
+    "en": "Which of the following marine items were once used as currency and are linked to the mythological Samudra Manthana?\nA. Śhaṅkha (Conch)\nB. Kapardikā (Cowrie shells)\nC. Coral beads"
+   },
+   "options": {
+    "te": [
+     "A మాత్రమే",
+     "B మాత్రమే",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "A only",
+     "B only",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "శంఖం మరియు గవ్వలు రెండూ ఒకప్పుడు కరెన్సీగా ఉపయోగించబడ్డాయని మరియు సముద్ర మథనం నుండి వచ్చిన దైవిక సంపదగా పరిగణించబడతాయని పేర్కొనబడింది.",
+    "en": "Both Śhaṅkha and Kapardikā are mentioned as items once used as currency and regarded as divine treasures from Samudra Manthana."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T10-0120",
+   "section": {
+    "te": "Ocean Floor Relief Factors",
+    "en": "Ocean Floor Relief Factors"
+   },
+   "q": {
+    "te": "మహాసముద్ర భూతలంపై కనిపించే సంక్లిష్ట నైసర్గిక స్వరూపాలు క్రింది ఏ ప్రక్రియల ద్వారా ఏర్పడతాయి?",
+    "en": "The complex relief features of the ocean floors are formed by which of the following processes?"
+   },
+   "options": {
+    "te": [
+     "విరూపకారక (టెక్టానిక్) ప్రక్రియలు",
+     "అగ్నిపర్వత ప్రక్రియలు",
+     "నిక్షేపణ ప్రక్రియలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Tectonic processes",
+     "Volcanic processes",
+     "Depositional processes",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఖండాల మాదిరిగానే సముద్ర గర్భంలోని నైసర్గిక స్వరూపాలు కూడా టెక్టానిక్, అగ్నిపర్వత మరియు నిక్షేపణ ప్రక్రియల ద్వారా ఏర్పడతాయి.",
+    "en": "Features of the ocean floors are formed by tectonic, volcanic, and depositional processes."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T10-0130",
+   "section": {
+    "te": "Pacific Seamounts Count",
+    "en": "Pacific Seamounts Count"
+   },
+   "q": {
+    "te": "అంచనాల ప్రకారం, కేవలం పసిఫిక్ మహాసముద్రంలోనే ఎన్ని సీమౌంట్లు మరియు గయోట్‌లు ఉన్నాయి?",
+    "en": "According to oceanic relief estimates, approximately how many seamounts and guyots exist in the Pacific Ocean alone?"
+   },
+   "options": {
+    "te": [
+     "50,000 కంటే ఎక్కువ",
+     "10,000 కంటే ఎక్కువ",
+     "1,000 కంటే ఎక్కువ",
+     "5,000 కంటే ఎక్కువ"
+    ],
+    "en": [
+     "More than 50,000",
+     "More than 10,000",
+     "More than 1,000",
+     "More than 5,000"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కేవలం పసిఫిక్ మహాసముద్రంలోనే 10,000 కంటే ఎక్కువ సీమౌంట్లు మరియు గయోట్‌లు ఉన్నాయని అంచనా.",
+    "en": "More than 10,000 seamounts and guyots are estimated to exist in the Pacific Ocean alone."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T10-0048",
+   "section": {
+    "te": "Marine Resources",
+    "en": "Marine Resources"
+   },
+   "q": {
+    "te": "భారతదేశంలో పోటు శక్తి (tidal energy) అభివృద్ధికి అనువైనవిగా గుర్తించబడిన ప్రాంతాలు ఏవి?\nA. కచ్ సింధుశాఖ\nB. ఖంభాత్ సింధుశాఖ\nC. సుందర్బన్స్",
+    "en": "Which of the following areas in India have been identified as suitable for the development of tidal energy?\nA. Gulf of Kutch\nB. Gulf of Khambhat\nC. Sundarbans"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశంలోని కచ్ సింధుశాఖ, ఖంభాత్ సింధుశాఖ మరియు సుందర్బన్స్‌లను ప్రధాన పోటు శక్తి కేంద్రాలుగా పాఠ్యభాగం గుర్తించింది.",
+    "en": "The text identifies the Gulf of Kutch, the Gulf of Khambhat, and the Sundarbans as major tidal energy sites in India."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T10-0083",
+   "section": {
+    "te": "EEZ Ownership",
+    "en": "EEZ Ownership"
+   },
+   "q": {
+    "te": "ప్రత్యేక ఆర్థిక మండలాలకు (EEZs) సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఒక దేశం తన EEZలో చేపలు, చమురు మరియు గ్యాస్ వంటి వనరులను ఉపయోగించుకోవడానికి ప్రత్యేక హక్కులను కలిగి ఉంటుంది.\n2. ఒక దేశం తన భూభాగం లాగే తన EEZ జలాలను కూడా పూర్తిగా సొంతం చేసుకుంటుంది మరియు నియంత్రిస్తుంది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding Exclusive Economic Zones (EEZs):\n1. A country has special rights to use resources like fish, oil, and gas in its EEZ.\n2. A country fully owns and controls the waters of its EEZ just like its territorial land.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఒక దేశం EEZలోని వనరులపై హక్కులను కలిగి ఉన్నప్పటికీ, ప్రాదేశిక జలాల వలె కాకుండా, ఆ జలాలను పూర్తిగా సొంతం చేసుకోదు లేదా నియంత్రించదు.",
+    "en": "While a country has rights to resources in the EEZ, it does not fully own or control the waters themselves, unlike territorial waters."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T10-0088",
+   "section": {
+    "te": "High Seas Challenges",
+    "en": "High Seas Challenges"
+   },
+   "q": {
+    "te": "ఏ ఒక్క దేశం నియంత్రణ లేకపోవడం వల్ల బహిరంగ సముద్రాలలో ఎదురయ్యే ప్రధాన సవాళ్లు ఏమిటి?",
+    "en": "What are the major challenges faced in the high seas due to the lack of control by a single country?"
+   },
+   "options": {
+    "te": [
+     "అతిగా చేపలు పట్టడం మరియు అక్రమ చేపల వేట",
+     "వనరులపై వివాదాలు",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Overfishing and illegal fishing",
+     "Conflicts over resources",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "బహిరంగ సముద్రాలు గ్లోబల్ కామన్స్ లో భాగంగా ఉండటం మరియు ఏ ఒక్క దేశం నియంత్రణలో లేకపోవడం వల్ల అతిగా చేపలు పట్టడం మరియు వనరుల వివాదాలు వంటి సమస్యలను ఎదుర్కొంటాయి.",
+    "en": "The high seas face problems like overfishing and resource conflicts because they are part of the global commons and not controlled by any one nation."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T10-0198",
+   "section": {
+    "te": "Current drift unit",
+    "en": "Current drift unit"
+   },
+   "q": {
+    "te": "సముద్ర ప్రవాహం యొక్క వేగాన్ని 'డ్రిఫ్ట్' (drift) అంటారు. డ్రిఫ్ట్‌ను క్రింది ఏ ప్రమాణాలలో కొలుస్తారు?",
+    "en": "The speed of an ocean current is referred to as its 'drift'. In which of the following units is drift measured?"
+   },
+   "options": {
+    "te": [
+     "నాట్లు (knots)",
+     "కిలోమీటర్లు/గంట",
+     "ఫాతోమ్‌లు",
+     "మీటర్లు/సెకను"
+    ],
+    "en": [
+     "Knots",
+     "Kilometres per hour",
+     "Fathoms",
+     "Metres per second"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సముద్ర ప్రవాహం యొక్క వేగాన్ని డ్రిఫ్ట్ అని పిలుస్తారు మరియు దీనిని 'నాట్లు' (knots) లలో కొలుస్తారు.",
+    "en": "The speed of an ocean current is referred to as its drift, and it is measured in terms of knots."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T10-0093",
+   "section": {
+    "te": "Oceanic Ridge Rocks",
+    "en": "Oceanic Ridge Rocks"
+   },
+   "q": {
+    "te": "మహాసముద్ర పటలం (oceanic crust) యొక్క శిలలకు సంబంధించి, మధ్య-మహాసముద్ర పర్వత శ్రేణుల శిఖరం నుండి సమాన దూరంలో ఉన్న శిలల కాల నిర్ణయం (dating) ద్వారా ఏమి వెల్లడైంది?",
+    "en": "Regarding the rocks of the oceanic crust, what was revealed by dating rocks located at equal distances from the crest of mid-oceanic ridges?"
+   },
+   "options": {
+    "te": [
+     "అవి వేర్వేరు భాగాలను కలిగి ఉంటాయి కానీ ఒకే వయస్సును కలిగి ఉంటాయి",
+     "అవి ఒకే రకమైన భాగాలను కలిగి ఉంటాయి కానీ వేర్వేరు వయస్సులను కలిగి ఉంటాయి",
+     "అవి వాటి భాగాలు మరియు వయస్సు రెండింటిలోనూ అద్భుతమైన పోలికలను కలిగి ఉన్నాయి",
+     "అవి ఖండాలలో కనిపించే శిలల కంటే చాలా పాతవి"
+    ],
+    "en": [
+     "They have different constituents but the same age",
+     "They have similar constituents but different ages",
+     "They have remarkable similarities in both constituents and age",
+     "They are much older than the rocks found on continents"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మధ్య-మహాసముద్ర పర్వత శ్రేణుల శిఖరానికి ఇరువైపులా సమాన దూరంలో ఉన్న శిలలు వాటి భాగాలు మరియు వయస్సు రెండింటిలోనూ ఒకేలా ఉన్నాయని కాల నిర్ణయం ద్వారా వెల్లడైంది.",
+    "en": "Dating revealed that rocks at equal distances from the crest on either side of mid-oceanic ridges are remarkably similar in both their constituents and their age."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T10-0151",
+   "section": {
+    "te": "Open ocean salinity",
+    "en": "Open ocean salinity"
+   },
+   "q": {
+    "te": "సాధారణ బహిరంగ సముద్రంలో నమోదయ్యే లవణీయత పరిధి ఎంత?",
+    "en": "What is the normal range of salinity in the open ocean?"
+   },
+   "options": {
+    "te": [
+     "20 o/oo నుండి 25 o/oo",
+     "33 o/oo నుండి 37 o/oo",
+     "38 o/oo నుండి 42 o/oo",
+     "28 o/oo నుండి 32 o/oo"
+    ],
+    "en": [
+     "20 o/oo to 25 o/oo",
+     "33 o/oo to 37 o/oo",
+     "38 o/oo to 42 o/oo",
+     "28 o/oo to 32 o/oo"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సాధారణ బహిరంగ సముద్రపు లవణీయత 33 o/oo నుండి 37 o/oo మధ్య ఉంటుంది.",
+    "en": "The salinity for a normal open ocean ranges between 33 o/oo and 37 o/oo."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T10-0141",
+   "section": {
+    "te": "Ocean Heat Transmission",
+    "en": "Ocean Heat Transmission"
+   },
+   "q": {
+    "te": "సముద్ర ఉపరితలం నుండి క్రింది భాగాలకు ఉష్ణం ఏ భౌతిక ప్రక్రియ ద్వారా వ్యాపిస్తుంది?",
+    "en": "Through which physical process is heat transmitted from the ocean surface to the lower sections of the ocean?"
+   },
+   "options": {
+    "te": [
+     "అభివహనం (Advection)",
+     "ఉష్ణ సంవహనం (Convection)",
+     "ఉష్ణ వహనం (Conduction)",
+     "వికిరణం (Radiation)"
+    ],
+    "en": [
+     "Advection",
+     "Convection",
+     "Conduction",
+     "Radiation"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సముద్రాల ఉపరితలంపై నేరుగా చేరే ఉష్ణం, ఉష్ణ సంవహన ప్రక్రియ (convection) ద్వారా దిగువ భాగాలకు ప్రసరిస్తుంది.",
+    "en": "Heat absorbed at the ocean surface is transmitted to the lower sections through the process of convection."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T10-0117",
+   "section": {
+    "te": "Oceanic Deeps Distribution",
+    "en": "Oceanic Deeps Distribution"
+   },
+   "q": {
+    "te": "మహాసముద్రాలను వాటిలో గుర్తించబడిన అగాధాల (డీప్స్) సంఖ్యతో జతపరచండి:\nజాబితా I (మహాసముద్రం)\nA. పసిఫిక్ మహాసముద్రం\nB. అట్లాంటిక్ మహాసముద్రం\nC. హిందూ మహాసముద్రం\n\nజాబితా II (అగాధాల సంఖ్య)\n1. 19\n2. 6\n3. 32\n\nసరైన కోడ్‌ను ఎంచుకోండి:",
+    "en": "Match the oceans with the number of oceanic deeps explored in them:\nList I (Ocean)\nA. Pacific Ocean\nB. Atlantic Ocean\nC. Indian Ocean\n\nList II (Number of Deeps)\n1. 19\n2. 6\n3. 32\n\nChoose the correct code:"
+   },
+   "options": {
+    "te": [
+     "A-3, B-1, C-2",
+     "A-1, B-3, C-2",
+     "A-3, B-2, C-1",
+     "A-2, B-1, C-3"
+    ],
+    "en": [
+     "A-3, B-1, C-2",
+     "A-1, B-3, C-2",
+     "A-3, B-2, C-1",
+     "A-2, B-1, C-3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఇప్పటివరకు కనుగొన్న 57 అగాధాలలో పసిఫిక్ మహాసముద్రంలో 32, అట్లాంటిక్ మహాసముద్రంలో 19, హిందూ మహాసముద్రంలో 6 ఉన్నాయి.",
+    "en": "Of the 57 deeps explored, 32 are in the Pacific Ocean, 19 in the Atlantic Ocean, and 6 in the Indian Ocean."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T10-0150",
+   "section": {
+    "te": "Factors affecting salinity",
+    "en": "Factors affecting salinity"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో సముద్ర జలాల ఉపరితల లవణీయతను ప్రభావితం చేసే అంశాలు ఏవి?",
+    "en": "Which of the following factors influence the surface salinity of ocean waters?"
+   },
+   "options": {
+    "te": [
+     "భాష్పీభవనం మరియు అవపాతం",
+     "నదుల నుండి మంచినీటి ప్రవాహం",
+     "ధ్రువ ప్రాంతాలలో మంచు గడ్డకట్టడం మరియు కరగడం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Evaporation and precipitation",
+     "Influx of fresh water from rivers",
+     "Freezing and thawing of ice in polar regions",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భాష్పీభవనం, అవపాతం, నదుల మంచినీటి ప్రవాహం, మంచు గడ్డకట్టడం మరియు కరగడం అన్నీ సముద్ర లవణీయతను ప్రభావితం చేస్తాయి.",
+    "en": "Ocean surface salinity depends on evaporation, precipitation, fresh water inflow from rivers, and freezing and thawing of ice."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T10-0170",
+   "section": {
+    "te": "Tidal Currents",
+    "en": "Tidal Currents"
+   },
+   "q": {
+    "te": "దీవుల మధ్య లేదా అఖాతాలు (bays) మరియు ఎస్ట్యూరీలలోకి పోటుపాట్లు ప్రవహించినప్పుడు వాటిని ఏమని పిలుస్తారు?",
+    "en": "What are tides called when they are channeled between islands or into bays and estuaries?"
+   },
+   "options": {
+    "te": [
+     "సర్జెస్ (Surges)",
+     "కేంద్రత్యాగ పోటులు",
+     "పోటు ప్రవాహాలు (Tidal currents)",
+     "తరంగ శ్రేణులు (Wave trains)"
+    ],
+    "en": [
+     "Surges",
+     "Centrifugal tides",
+     "Tidal currents",
+     "Wave trains"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "దీవుల మధ్య కాలువలు లేదా ఎస్ట్యూరీల వంటి పరిమిత ప్రాంతాల గుండా పోటుపాట్ల కదలికను ప్రత్యేకంగా పోటు ప్రవాహాలు (tidal currents) అని పిలుస్తారు.",
+    "en": "The movement of tides through restricted areas like channels between islands or into estuaries is specifically referred to as tidal currents."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T10-0027",
+   "section": {
+    "te": "Life in Ocean Trenches",
+    "en": "Life in Ocean Trenches"
+   },
+   "q": {
+    "te": "సూర్యరశ్మి లేని లోతైన సముద్రపు ట్రెంచ్‌లలోని జీవులు ఆహారాన్ని ఎలా ఉత్పత్తి చేస్తాయి?",
+    "en": "How do life forms in the complete darkness of deep ocean trenches produce food without sunlight?"
+   },
+   "options": {
+    "te": [
+     "అవి లోతైన నీటిలోకి చొచ్చుకుపోయే వెన్నెలను ఉపయోగిస్తాయి",
+     "అవి నీటిలోని రసాయనాల నుండి శక్తిని ఉపయోగిస్తాయి",
+     "అవి ఉపరితలం నుండి పడిపోయే చనిపోయిన జంతువులను మాత్రమే తింటాయి",
+     "కఠినమైన పరిస్థితుల్లో జీవించడానికి వాటికి ఆహారం అవసరం లేదు"
+    ],
+    "en": [
+     "They use moonlight that penetrates the deep water",
+     "They use energy from chemicals in the water",
+     "They only feed on dead animals falling from the surface",
+     "They do not need food to survive in harsh conditions"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కిరణజన్య సంయోగక్రియకు సూర్యరశ్మి లేనప్పుడు, లోతైన ట్రెంచ్‌లలోని జీవులు ఆహారాన్ని ఉత్పత్తి చేయడానికి రసాయన శక్తిని (chemosynthesis) ఉపయోగిస్తాయి.",
+    "en": "In the absence of sunlight for photosynthesis, organisms in deep trenches use chemical energy (chemosynthesis) to produce food."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T10-0158",
+   "section": {
+    "te": "Halocline zone",
+    "en": "Halocline zone"
+   },
+   "q": {
+    "te": "లోతు పెరిగే కొద్దీ లవణీయత వేగంగా పెరిగే ప్రత్యేక సముద్ర ప్రాంతాన్ని (zone) ఏమని పిలుస్తారు?",
+    "en": "What is the distinct oceanic zone where salinity increases sharply with increasing depth called?"
+   },
+   "options": {
+    "te": [
+     "మీసోక్లైన్",
+     "థర్మోక్లైన్",
+     "హాలోక్లైన్",
+     "పిక్నోక్లైన్"
+    ],
+    "en": [
+     "Mesocline",
+     "Thermocline",
+     "Halocline",
+     "Pycnocline"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "లోతుతో పాటు లవణీయత వేగంగా పెరిగే ప్రత్యేక సముద్ర పొరను హాలోక్లైన్ (Halocline) అంటారు.",
+    "en": "The distinct oceanic zone where salinity increases sharply with depth is called the halocline."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T10-0060",
+   "section": {
+    "te": "Labrador Current",
+    "en": "Labrador Current"
+   },
+   "q": {
+    "te": "తక్కువ అక్షాంశాల వద్ద కూడా కెనడా తూర్పు తీరంలో మంచు పర్వతాలు (icebergs) ఏర్పడటానికి ప్రధాన కారణం ఏ ప్రవాహం?",
+    "en": "The formation of icebergs along the east coast of Canada even at lower latitudes is primarily due to which current?"
+   },
+   "options": {
+    "te": [
+     "గల్ఫ్ స్ట్రీమ్",
+     "నార్వే ప్రవాహం",
+     "లాబ్రడార్ ప్రవాహం",
+     "కురోషియో ప్రవాహం"
+    ],
+    "en": [
+     "Gulf Stream",
+     "Norway Current",
+     "Labrador Current",
+     "Kuroshio Current"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "లాబ్రడార్ ప్రవాహం అనేది కెనడా తూర్పు తీరం వెంట గడ్డకట్టే నీటిని తీసుకువెళ్ళే శీతల ప్రవాహం, ఇది మంచు పర్వతాల ఏర్పడటానికి దోహదపడుతుంది.",
+    "en": "The Labrador Current is a cold current that carries freezing water along Canada's east coast, supporting iceberg formation."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T10-0156",
+   "section": {
+    "te": "Indian Ocean salinity",
+    "en": "Indian Ocean salinity"
+   },
+   "q": {
+    "te": "హిందూ మహాసముద్రం యొక్క సగటు లవణీయత ఎంత?",
+    "en": "What is the average salinity of the Indian Ocean?"
+   },
+   "options": {
+    "te": [
+     "36 o/oo",
+     "31 o/oo",
+     "33 o/oo",
+     "35 o/oo"
+    ],
+    "en": [
+     "36 o/oo",
+     "31 o/oo",
+     "33 o/oo",
+     "35 o/oo"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "హిందూ మహాసముద్రపు సగటు లవణీయత 35 o/oo.",
+    "en": "The average salinity of the Indian Ocean is 35 o/oo."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T10-0050",
+   "section": {
+    "te": "Navigation",
+    "en": "Navigation"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): వెరీ లార్జ్ క్రూడ్ క్యారియర్స్ (VLCCs) తరచుగా సింగపూర్ జలసంధి గుండా వెళ్ళడానికి అధిక పోటు కోసం వేచి ఉంటాయి.\nకారణం (R): లోతు తక్కువగా ఉన్న ప్రాంతాలలో పెద్ద ఓడలు నేలకు తగలకుండా ఉండటానికి అధిక పోటు తగినంత నీటి లోతును అందిస్తుంది.",
+    "en": "Assertion (A): Very Large Crude Carriers (VLCCs) often wait for high tide to pass through the Singapore Strait.\nReason (R): High tides provide sufficient water depth to prevent large ships from running aground in shallow areas."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సింగపూర్ జలసంధి వంటి లోతు తక్కువ కాలువలలో పెద్ద ఓడలు అధిక పోటు కోసం వేచి ఉంటాయి, ఎందుకంటే పెరిగిన నీటి మట్టం అవి సముద్ర గర్భానికి తగలకుండా చూస్తుంది.",
+    "en": "Large ships wait for high tide in shallow channels like the Singapore Strait because the increased water level ensures they don't hit the seabed."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T10-0099",
+   "section": {
+    "te": "UNCLOS",
+    "en": "UNCLOS"
+   },
+   "q": {
+    "te": "మహాసముద్రాలకు సంబంధించి UNCLOS వంటి అంతర్జాతీయ చట్టాల ప్రాథమిక పాత్ర ఏమిటి?",
+    "en": "What is the primary role of international laws like UNCLOS in relation to the oceans?"
+   },
+   "options": {
+    "te": [
+     "భూమి ఆధారిత ఖనిజ వనరులను నిర్వహించడం",
+     "అన్ని అంతర్జాతీయ షిప్పింగ్ కంపెనీలను నియంత్రించడం",
+     "సముద్ర మండలాలను (maritime zones) నిర్వచించడం మరియు దేశాల మధ్య వివాదాలను పరిష్కరించడం",
+     "ప్రపంచ వాతావరణ నమూనాలను నియంత్రించడం"
+    ],
+    "en": [
+     "To manage land-based mineral resources",
+     "To control all international shipping companies",
+     "To define maritime zones and settle disputes among countries",
+     "To regulate global weather patterns"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "UNCLOS వంటి అంతర్జాతీయ చట్టాలు సముద్ర మండలాలను నిర్వచించడానికి మరియు దేశాల మధ్య వివాదాలను పరిష్కరించడానికి సహాయపడతాయి.",
+    "en": "UNCLOS is an international law that helps define maritime boundaries and settle disputes between nations regarding ocean zones."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T10-0112",
+   "section": {
+    "te": "Average Shelf Width",
+    "en": "Average Shelf Width"
+   },
+   "q": {
+    "te": "ప్రపంచ మహాసముద్రాలలోని ఖండతీర అంచుల సగటు వెడల్పు దాదాపు ఎంత?",
+    "en": "What is the average width of continental shelves across the world's oceans?"
+   },
+   "options": {
+    "te": [
+     "సుమారు 150 కి.మీ.",
+     "సుమారు 500 కి.మీ.",
+     "సుమారు 80 కి.మీ.",
+     "సుమారు 30 కి.మీ."
+    ],
+    "en": [
+     "About 150 km",
+     "About 500 km",
+     "About 80 km",
+     "About 30 km"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఖండతీర అంచుల వెడల్పు ప్రాంతాన్ని బట్టి మారినప్పటికీ, వాటి సగటు వెడల్పు దాదాపు 80 కి.మీ.గా ఉంటుంది.",
+    "en": "The width of the continental shelves varies from one ocean to another, but the average width is about 80 km."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T10-0032",
+   "section": {
+    "te": "Climate Regulation",
+    "en": "Climate Regulation"
+   },
+   "q": {
+    "te": "మహాసముద్రాలు భూమి యొక్క వాతావరణాన్ని నియంత్రించడంలో ఎలా సహాయపడతాయి?",
+    "en": "How do oceans help regulate the Earth's climate?"
+   },
+   "options": {
+    "te": [
+     "వేడిని గ్రహించి, నెమ్మదిగా విడుదల చేయడం ద్వారా",
+     "మేఘాలు ఏర్పడకుండా నిరోధించడం ద్వారా",
+     "సూర్యరశ్మిని తిరిగి అంతరిక్షంలోకి ప్రతిబింబించడం ద్వారా",
+     "గాలిని పూర్తిగా పొడిగా ఉంచడం ద్వారా"
+    ],
+    "en": [
+     "By absorbing heat and slowly releasing it",
+     "By preventing the formation of clouds",
+     "By reflecting all sunlight back into space",
+     "By keeping the air completely dry"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మహాసముద్రాలు వేడిని గ్రహించి, నెమ్మదిగా విడుదల చేయడం ద్వారా మరియు వర్షపాతం కోసం తేమను అందించడం ద్వారా వాతావరణాన్ని నియంత్రిస్తాయి.",
+    "en": "Oceans regulate climate by absorbing heat, releasing it slowly, and contributing moisture for rainfall."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T10-0161",
+   "section": {
+    "te": "Wave Characteristics",
+    "en": "Wave Characteristics"
+   },
+   "q": {
+    "te": "తరంగం యొక్క ద్రోణి (trough) దిగువ నుండి శిఖరం (crest) పైభాగం వరకు ఉండే నిలువు దూరంలో సగభాగాన్ని ఏమని పిలుస్తారు?",
+    "en": "What is the term used to describe one-half of the vertical distance from the bottom of a trough to the top of a crest of a wave?"
+   },
+   "options": {
+    "te": [
+     "తరంగ దైర్ఘ్యం (Wavelength)",
+     "తరంగ వ్యాప్తి (Wave amplitude)",
+     "తరంగ కాలం (Wave period)",
+     "తరంగ పౌనఃపున్యం (Wave frequency)"
+    ],
+    "en": [
+     "Wavelength",
+     "Wave amplitude",
+     "Wave period",
+     "Wave frequency"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మూలం ప్రకారం, తరంగ వ్యాప్తి అనేది తరంగ ఎత్తులో సగభాగంగా నిర్వచించబడింది. తరంగ ఎత్తు అంటే ద్రోణి మరియు శిఖరం మధ్య ఉండే నిలువు దూరం.",
+    "en": "Wave amplitude is defined as one-half of the wave height, where wave height is the vertical distance between the trough and the crest."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T10-0155",
+   "section": {
+    "te": "Northern Indian Ocean salinity",
+    "en": "Northern Indian Ocean salinity"
+   },
+   "q": {
+    "te": "ఉత్తర హిందూ మహాసముద్ర లవణీయతకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. నదీ జలాల చేరిక వల్ల బంగాళాఖాతంలో తక్కువ లవణీయత కనిపిస్తుంది.\n2. అధిక భాష్పీభవనం మరియు తక్కువ మంచినీటి చేరిక వల్ల అరేబియా సముద్రం అధిక లవణీయతను చూపుతుంది.\nపై ప్రకటనలలో ఏది/ఏవి సరైనది/సరైనవి?",
+    "en": "Consider the following statements regarding the salinity of the northern Indian Ocean:\n1. Bay of Bengal records low salinity due to the influx of river water.\n2. Arabian Sea shows higher salinity due to high evaporation and low influx of fresh water.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నదుల నీరు చేరడం వల్ల బంగాళాఖాతంలో తక్కువ లవణీయత, అధిక భాష్పీభవనం వల్ల అరేబియా సముద్రంలో ఎక్కువ లవణీయత ఉంటాయి. కాబట్టి రెండు ప్రకటనలూ సరైనవే.",
+    "en": "Both statements are correct: Bay of Bengal has lower salinity due to river water influx, while the Arabian Sea has higher salinity due to high evaporation and low fresh water influx."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T10-0196",
+   "section": {
+    "te": "Primary forces of currents",
+    "en": "Primary forces of currents"
+   },
+   "q": {
+    "te": "సముద్ర ప్రవాహాలను ప్రభావితం చేసే ప్రాథమిక బలాలు (primary forces) ఏవి?\n1. సౌర శక్తి ద్వారా వేడెక్కడం\n2. పవనాలు\n3. గురుత్వాకర్షణ\n4. కొరియోలిస్ బలం\n\nక్రింది కోడ్‌ను ఉపయోగించి సరైన సమాధానాన్ని ఎంచుకోండి:",
+    "en": "Which of the following are primary forces that influence ocean currents?\n1. Heating by solar energy\n2. Wind\n3. Gravity\n4. Coriolis force\n\nSelect the correct answer using the code given below:"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2, 3 మరియు 4 మాత్రమే",
+     "1, 3 మరియు 4 మాత్రమే",
+     "1, 2, 3 మరియు 4"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2, 3 and 4 only",
+     "1, 3 and 4 only",
+     "1, 2, 3 and 4"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సౌరశక్తి ద్వారా వేడెక్కడం, పవనాలు, గురుత్వాకర్షణ మరియు కొరియోలిస్ బలం అన్నీ సముద్ర ప్రవాహాలను ప్రభావితం చేసే ప్రాథమిక బలాలు.",
+    "en": "The primary forces that initiate and influence the movement of currents are heating by solar energy, wind, gravity, and the Coriolis force."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T10-0126",
+   "section": {
+    "te": "Mid-Oceanic Ridge",
+    "en": "Mid-Oceanic Ridge"
+   },
+   "q": {
+    "te": "మధ్య మహాసముద్ర కటకం (Mid-Oceanic Ridge) సముద్ర ఉపరితలం పైకి పొడుచుకు వచ్చిన ప్రాంతానికి క్రింది ఏ ద్వీపం ఒక ఉదాహరణ?",
+    "en": "Which of the following islands is an example of a mid-oceanic ridge rising above the surface of the ocean?"
+   },
+   "options": {
+    "te": [
+     "మడగాస్కర్",
+     "శ్రీలంక",
+     "న్యూజిలాండ్",
+     "ఐస్‌లాండ్"
+    ],
+    "en": [
+     "Madagascar",
+     "Sri Lanka",
+     "New Zealand",
+     "Iceland"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మధ్య అట్లాంటిక్ కటకంలో భాగంగా ఉండి సముద్ర ఉపరితలం పైకి విస్తరించిన భూభాగానికి ఐస్‌లాండ్ ఒక ముఖ్యమైన ఉదాహరణ.",
+    "en": "Some peaks of mid-oceanic ridges reach above the ocean surface; Iceland, which is part of the Mid-Atlantic Ridge, is a prime example."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T10-0025",
+   "section": {
+    "te": "Gulf Stream Impact",
+    "en": "Gulf Stream Impact"
+   },
+   "q": {
+    "te": "యునైటెడ్ కింగ్‌డమ్ (UK)పై గల్ఫ్ స్ట్రీమ్ యొక్క నిర్దిష్ట వాతావరణ ప్రభావం ఏమిటి?",
+    "en": "What is the specific climatic effect of the Gulf Stream on the United Kingdom?"
+   },
+   "options": {
+    "te": [
+     "ఇది ఏడాది పొడవునా విపరీతమైన వర్షపాతానికి కారణమవుతుంది",
+     "ఇది UKని ఒకే అక్షాంశం వద్ద ఉన్న ఇతర ప్రాంతాల కంటే చల్లగా చేస్తుంది",
+     "ఇది UKని ఒకే అక్షాంశం వద్ద ఉన్న ఇతర ప్రాంతాల కంటే వెచ్చగా చేస్తుంది",
+     "ఇది UK వాతావరణంపై గణనీయమైన ప్రభావాన్ని చూపదు"
+    ],
+    "en": [
+     "It causes extreme rainfall throughout the year",
+     "It makes the UK colder than other places at the same latitude",
+     "It makes the UK warmer than other places at the same latitude",
+     "It has no significant effect on the UK's climate"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "గల్ఫ్ స్ట్రీమ్ భూమధ్యరేఖ నుండి వెచ్చని నీటిని తీసుకువస్తుంది, ఇది UKని అదే అక్షాంశంలో ఉన్న ఇతర ప్రాంతాల కంటే వెచ్చగా చేస్తుంది.",
+    "en": "The Gulf Stream brings warm water from the equator, making the UK warmer than other regions located at the same latitude."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T10-0127",
+   "section": {
+    "te": "Continental Slope",
+    "en": "Continental Slope"
+   },
+   "q": {
+    "te": "ఖండ తీర వాలు (Continental Slope) కు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. వాలు ప్రాంతం యొక్క వాలు ప్రవణత (gradient) 2° నుండి 5° మధ్య ఉంటుంది.\n2. ఈ వాలు ప్రాంతపు లోతు 200 నుండి 3,000 మీటర్ల మధ్య మారుతూ ఉంటుంది.\n3. ఈ వాలు సరిహద్దు ఖండాల ముగింపును సూచిస్తుంది.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding the continental slope:\n1. The gradient of the slope region varies between 2° and 5°.\n2. The depth of the slope region varies between 200 and 3,000 m.\n3. The slope boundary indicates the end of the continents.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఖండ తీర వాలు యొక్క ప్రవణత 2-5°, లోతు 200-3000 మీటర్లు మరియు దాని సరిహద్దు ఖండాల అంతాన్ని సూచిస్తుంది; కాబట్టి ఇచ్చిన మూడు ప్రకటనలూ సరైనవే.",
+    "en": "All three statements are correct: the gradient is 2-5°, the depth ranges from 200 to 3,000 m, and its boundary marks the end of the continents."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T10-0106",
+   "section": {
+    "te": "Coastal Features Match",
+    "en": "Coastal Features Match"
+   },
+   "q": {
+    "te": "క్రింది తీరప్రాంత లక్షణాలను వాటి వివరణలతో జతపరచండి:\nI. బార్‌లు - a. తీరానికి సమాంతరంగా ఉండే పొడవైన ఇసుక తిన్నెలు\nII. స్పిట్ - b. అఖాతం యొక్క అగ్రభాగానికి అనుసంధానించబడిన బారియర్ బార్\nIII. లాగూన్ - c. బారియర్ బార్‌లు మరియు స్పిట్‌లు అఖాతాన్ని అడ్డుకున్నప్పుడు ఏర్పడేది",
+    "en": "Match the following coastal features with their descriptions:\nI. Bars - a. Long ridges of sand parallel to the coast\nII. Spit - b. Barrier bar keyed up to the headland of a bay\nIII. Lagoon - c. Formed when barrier bars and spits block a bay"
+   },
+   "options": {
+    "te": [
+     "I-a, II-b, III-c",
+     "I-b, II-a, III-c",
+     "I-c, II-b, III-a",
+     "I-a, II-c, III-b"
+    ],
+    "en": [
+     "I-a, II-b, III-c",
+     "I-b, II-a, III-c",
+     "I-c, II-b, III-a",
+     "I-a, II-c, III-b"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "బార్‌లు తీరానికి సమాంతరంగా ఉండే ఇసుక తిన్నెలు. స్పిట్ అనేది అగ్రభాగానికి అతుక్కొని ఉండే బార్. ఇవి అఖాతాన్ని అడ్డుకున్నప్పుడు లాగూన్ ఏర్పడుతుంది.",
+    "en": "Bars are sand ridges parallel to the coast. A spit is a bar attached to a headland. A lagoon is formed when these block a bay."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T10-0010",
+   "section": {
+    "te": "Water Bodies near India",
+    "en": "Water Bodies near India"
+   },
+   "q": {
+    "te": "భారతదేశానికి పశ్చిమాన హిందూ మహాసముద్రంలోని ఏ భాగం ఉంది?",
+    "en": "Which part of the Indian Ocean is located to the west of India?"
+   },
+   "options": {
+    "te": [
+     "అరేబియా సముద్రం",
+     "దక్షిణ మహాసముద్రం",
+     "బంగాళాఖాతం",
+     "ఆర్కిటిక్ మహాసముద్రం"
+    ],
+    "en": [
+     "Arabian Sea",
+     "Southern Ocean",
+     "Bay of Bengal",
+     "Arctic Ocean"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భారతదేశానికి పశ్చిమాన అరేబియా సముద్రం, తూర్పున బంగాళాఖాతం ఉన్నాయి.",
+    "en": "The Arabian Sea is located to the west of India, while the Bay of Bengal is to the east."
+   }
+  }
+ ]
+}

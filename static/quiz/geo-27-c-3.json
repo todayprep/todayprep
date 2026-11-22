@@ -1,0 +1,942 @@
+{
+ "id": "geo-27-c-3",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Transport – క్విజ్ 3",
+  "en": "Transport – Quiz 3"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T27-0051",
+   "section": {
+    "te": "Sea trade volume and value",
+    "en": "Sea trade volume and value"
+   },
+   "q": {
+    "te": "సముద్ర మార్గం ద్వారా జరిగే భారతదేశ విదేశీ వాణిజ్యానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. దేశ వాణిజ్య పరిమాణంలో (volume) 95 శాతం సముద్రం ద్వారా రవాణా అవుతుంది.\n2. విలువల పరంగా (in terms of value) 68 శాతం వాణిజ్యం సముద్ర మార్గం ద్వారా జరుగుతుంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding India's foreign trade carried by sea:\n1. 95 per cent of the country's trade volume is moved by sea.\n2. In terms of value, 68 per cent of the trade is moved by sea.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రెండు ప్రకటనలు సరైనవే. భారతదేశ వాణిజ్య పరిమాణంలో 95% మరియు విలువ పరంగా 68% సముద్ర మార్గం ద్వారానే రవాణా అవుతుంది.",
+    "en": "Both statements are correct according to the text: 95% of trade by volume and 68% in terms of value is moved by sea."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T27-0182",
+   "section": {
+    "te": "Pipeline milk supply",
+    "en": "Pipeline milk supply"
+   },
+   "q": {
+    "te": "ఏ దేశంలో పొలాల నుండి కర్మాగారాలకు పైప్‌లైన్‌ల ద్వారా పాలు సరఫరా చేయబడుతున్నాయి?",
+    "en": "In which country is milk supplied through pipelines from farms to factories?"
+   },
+   "options": {
+    "te": [
+     "న్యూజిలాండ్",
+     "భారత్",
+     "తుర్క్మెనిస్తాన్",
+     "అమెరికా"
+    ],
+    "en": [
+     "New Zealand",
+     "India",
+     "Turkmenistan",
+     "USA"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "న్యూజిలాండ్ పొలాల నుండి నేరుగా కర్మాగారాలకు పాలను రవాణా చేయడానికి పైప్‌లైన్‌లను ఉపయోగిస్తుంది.",
+    "en": "New Zealand uses pipelines to transport milk from farms directly to factories."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T27-0149",
+   "section": {
+    "te": "Southern Atlantic Industries",
+    "en": "Southern Atlantic Industries"
+   },
+   "q": {
+    "te": "దక్షిణ అట్లాంటిక్ సముద్ర మార్గం వెంబడి, క్రింది ఏ ప్రాంతాలలో మాత్రమే భారీ తరహా పరిశ్రమలు ఉన్నాయి?\n1. ఆగ్నేయ బ్రెజిల్\n2. ప్లాటా ఎస్ట్యువరీ (Plata estuary)\n3. దక్షిణ ఆఫ్రికాలోని కొన్ని భాగాలు\nసరైన సమాధానాన్ని ఎంచుకోండి:",
+    "en": "Along the Southern Atlantic Sea Route, large-scale industries are found only in which of the following regions?\n1. South-eastern Brazil\n2. Plata estuary\n3. Parts of South Africa\nSelect the correct answer using the codes given below:"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం ఆగ్నేయ బ్రెజిల్, ప్లాటా ఎస్ట్యువరీ మరియు దక్షిణ ఆఫ్రికాలోని కొన్ని ప్రాంతాలలో మాత్రమే భారీ పరిశ్రమలు ఉన్నాయి.",
+    "en": "Along this route, only southeastern Brazil, the Plata estuary, and parts of South Africa have large-scale industries."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T27-0243",
+   "section": {
+    "te": "Railway Zones",
+    "en": "Railway Zones"
+   },
+   "q": {
+    "te": "క్రింది రైల్వే జోన్‌లను వాటి ప్రధాన కార్యాలయాలతో జతపరచండి:\n1. తూర్పు మధ్య - i. జైపూర్\n2. వాయువ్య - ii. హాజీపూర్\n3. పశ్చిమ మధ్య - iii. జబల్‌పూర్",
+    "en": "Match the following Railway Zones with their Headquarters:\n1. East Central - i. Jaipur\n2. North Western - ii. Hajipur\n3. West Central - iii. Jabalpur"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-i, 3-iii",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-iii, 3-i"
+    ],
+    "en": [
+     "1-ii, 2-i, 3-iii",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-iii, 3-i"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మూల పట్టిక ఆధారంగా: తూర్పు మధ్య హాజీపూర్, వాయువ్య జైపూర్ మరియు పశ్చిమ మధ్య జబల్‌పూర్.",
+    "en": "Table: East Central is Hajipur, North Western is Jaipur, and West Central is Jabalpur."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T27-0151",
+   "section": {
+    "te": "Great Circle Route",
+    "en": "Great Circle Route"
+   },
+   "q": {
+    "te": "ఉత్తర పసిఫిక్ సముద్ర మార్గంలో, ప్రయాణ దూరాన్ని సగానికి తగ్గించే 'గ్రేట్ సర్కిల్' ప్రత్యక్ష మార్గం ఏ రెండు నౌకాశ్రయాలను కలుపుతుంది?",
+    "en": "On the North Pacific Sea Route, the direct route on the Great Circle links which two ports, reducing the travelling distance by half?"
+   },
+   "options": {
+    "te": [
+     "శాన్ ఫ్రాన్సిస్కో మరియు షాంఘై",
+     "వాంకూవర్ మరియు యొకహోమా",
+     "లాస్ ఏంజెల్స్ మరియు కోబ్",
+     "సియాటెల్ మరియు మనీలా"
+    ],
+    "en": [
+     "San Francisco and Shanghai",
+     "Vancouver and Yokohama",
+     "Los Angeles and Kobe",
+     "Seattle and Manila"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "గ్రేట్ సర్కిల్ పై ఉండే ప్రత్యక్ష మార్గం వాంకూవర్ మరియు యొకహోమాలను కలుపుతూ ప్రయాణ దూరాన్ని (2,480 కి.మీ) సగానికి తగ్గిస్తుంది.",
+    "en": "The direct route on the Great Circle links Vancouver and Yokohama, reducing the travelling distance (2,480 km) by half."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T27-0066",
+   "section": {
+    "te": "Communication independence",
+    "en": "Communication independence"
+   },
+   "q": {
+    "te": "కింది వాటిలో ఏ పురోగతి సమాచార ప్రసారాన్ని (కమ్యూనికేషన్లను) రవాణాపై ఆధారపడకుండా స్వతంత్రంగా మార్చింది?",
+    "en": "Which of the following developments have made communications independent of transport?"
+   },
+   "options": {
+    "te": [
+     "మొబైల్ టెలిఫోనీ",
+     "ఉపగ్రహాలు (శాటిలైట్లు)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Mobile telephony",
+     "Satellites",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మొబైల్ టెలిఫోనీ మరియు ఉపగ్రహాల వంటి పరిణామాలు సమాచార ప్రసారాన్ని రవాణా సాధనాలపై ఆధారపడకుండా స్వతంత్రంగా మార్చాయని పాఠ్యాంశం పేర్కొంది.",
+    "en": "Certain developments, such as mobile telephony and satellites, have made communications independent of transport."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T27-0129",
+   "section": {
+    "te": "Trans-Siberian Railway length",
+    "en": "Trans-Siberian Railway length"
+   },
+   "q": {
+    "te": "ప్రపంచంలోనే అత్యంత పొడవైన విద్యుదీకరించబడిన ట్రాన్స్-కాంటినెంటల్ రైల్వే అయిన ట్రాన్స్-సైబీరియన్ రైల్వే మొత్తం పొడవు ఎంత?",
+    "en": "What is the total length of the Trans-Siberian Railway, the longest electrified trans-continental railway in the world?"
+   },
+   "options": {
+    "te": [
+     "7,050 కి.మీ.",
+     "9,332 కి.మీ.",
+     "9,120 కి.మీ.",
+     "8,450 కి.మీ."
+    ],
+    "en": [
+     "7,050 km",
+     "9,332 km",
+     "9,120 km",
+     "8,450 km"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ట్రాన్స్-సైబీరియన్ రైల్వే 9,332 కి.మీ. పొడవుతో ప్రపంచంలోనే అత్యంత పొడవైన డబుల్ ట్రాక్ మరియు విద్యుదీకరించబడిన రైలు మార్గంగా నిలిచింది.",
+    "en": "The Trans-Siberian Railway is 9,332 km long, making it the longest double-tracked and electrified trans-continental railway in the world."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T27-0049",
+   "section": {
+    "te": "Mormugao iron ore export share",
+    "en": "Mormugao iron ore export share"
+   },
+   "q": {
+    "te": "భారతదేశ ఇనుప ఖనిజ ఎగుమతుల్లో గోవాలోని మోర్ముగావ్ ఓడరేవు దాదాపు ఎంత శాతాన్ని కలిగి ఉంది?",
+    "en": "Mormugao port in Goa accounts for about what share of India's total iron ore exports?"
+   },
+   "options": {
+    "te": [
+     "50 శాతం",
+     "35 శాతం",
+     "40 శాతం",
+     "25 శాతం"
+    ],
+    "en": [
+     "50 per cent",
+     "35 per cent",
+     "40 per cent",
+     "25 per cent"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భారతదేశ మొత్తం ఇనుప ఖనిజ ఎగుమతుల్లో సుమారు యాభై (50) శాతం మోర్ముగావ్ పోర్ట్ ద్వారా జరుగుతుంది.",
+    "en": "Mormugao port in Goa accounts for about fifty per cent of India's iron ore export."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T27-0019",
+   "section": {
+    "te": "District Roads",
+    "en": "District Roads"
+   },
+   "q": {
+    "te": "జిల్లా ప్రధాన కేంద్రాన్ని జిల్లాలోని ఇతర ప్రాంతాలతో అనుసంధానించే రహదారులను ఏమని పిలుస్తారు?",
+    "en": "Which category of roads connects the district headquarters with other places of the district?"
+   },
+   "options": {
+    "te": [
+     "సరిహద్దు రోడ్లు (Border Roads)",
+     "జిల్లా రోడ్లు (District Roads)",
+     "జాతీయ రహదారులు (National Highways)",
+     "రాష్ట్ర రహదారులు (State Highways)"
+    ],
+    "en": [
+     "Border Roads",
+     "District Roads",
+     "National Highways",
+     "State Highways"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "జిల్లా ప్రధాన కేంద్రాన్ని జిల్లాలోని ఇతర ప్రదేశాలతో కలిపే రోడ్లను జిల్లా రోడ్లు అని పిలుస్తారు.",
+    "en": "District roads are defined as those that connect the district headquarters with other places within the district."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T27-0183",
+   "section": {
+    "te": "Big Inch pipeline",
+    "en": "Big Inch pipeline"
+   },
+   "q": {
+    "te": "అమెరికాలోని 'బిగ్ ఇంచ్' పైప్‌లైన్ మెక్సికో సింధుశాఖలోని చమురు బావుల నుండి ఏ ప్రాంతానికి పెట్రోలియంను రవాణా చేస్తుంది?",
+    "en": "The 'Big Inch' pipeline in the USA carries petroleum from the oil wells of the Gulf of Mexico to which region?"
+   },
+   "options": {
+    "te": [
+     "దక్షిణ రాష్ట్రాలు",
+     "మధ్య రాష్ట్రాలు",
+     "పశ్చిమ రాష్ట్రాలు",
+     "ఈశాన్య రాష్ట్రాలు"
+    ],
+    "en": [
+     "Southern States",
+     "Central States",
+     "Western States",
+     "North-eastern States"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "బిగ్ ఇంచ్ అనేది మెక్సికో సింధుశాఖ నుండి అమెరికాలోని ఈశాన్య రాష్ట్రాలకు పెట్రోలియంను రవాణా చేసే ప్రసిద్ధ పైప్‌లైన్.",
+    "en": "The Big Inch is a famous pipeline that transports petroleum from the Gulf of Mexico to the North-eastern States of the USA."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T27-0178",
+   "section": {
+    "te": "Rhine Waterway Usage",
+    "en": "Rhine Waterway Usage"
+   },
+   "q": {
+    "te": "రైన్ జలమార్గానికి సంబంధించి ఈ క్రింది ప్రకటనలను పరిగణించండి:\n1. ఇది ప్రపంచంలోనే అత్యధికంగా ఉపయోగించబడే జలమార్గం.\n2. ఏటా 2,00,000 కంటే ఎక్కువ సముద్ర నౌకలు దీనిని ఉపయోగిస్తాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the Rhine waterway:\n1. It is the world's most heavily used waterway.\n2. More than 2,00,000 ocean-going ships use it annually.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రకటన 1 సరైనది. ప్రకటన 2 తప్పు ఎందుకంటే 20,000 సముద్ర నౌకలు మరియు 2,00,000 అంతర్గత నౌకలు ఉన్నాయి.",
+    "en": "Statement 1 is correct. Statement 2 is incorrect because there are 20,000 ocean-going ships and 2,00,000 inland vessels."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T27-0233",
+   "section": {
+    "te": "NHAI Ministry",
+    "en": "NHAI Ministry"
+   },
+   "q": {
+    "te": "నేషనల్ హైవేస్ అథారిటీ ఆఫ్ ఇండియా (NHAI) ఏ మంత్రిత్వ శాఖ పరిధిలోని స్వయంప్రతిపత్తి కలిగిన సంస్థ?",
+    "en": "Under which ministry is the National Highways Authority of India (NHAI) an autonomous body?"
+   },
+   "options": {
+    "te": [
+     "ఉపరితల రవాణా మంత్రిత్వ శాఖ (Ministry of Surface Transport)",
+     "గ్రామీణాభివృద్ధి మంత్రిత్వ శాఖ",
+     "పట్టణ వ్యవహారాల మంత్రిత్వ శాఖ",
+     "రక్షణ మంత్రిత్వ శాఖ"
+    ],
+    "en": [
+     "Ministry of Surface Transport",
+     "Ministry of Rural Development",
+     "Ministry of Urban Affairs",
+     "Ministry of Defence"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "NHAI అనేది ఉపరితల రవాణా మంత్రిత్వ శాఖ పరిధిలో పనిచేసే స్వయంప్రతిపత్తి కలిగిన సంస్థ.",
+    "en": "NHAI is an autonomous body functioning under the Ministry of Surface Transport."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T27-0164",
+   "section": {
+    "te": "Rhine Waterway Navigation",
+    "en": "Rhine Waterway Navigation"
+   },
+   "q": {
+    "te": "రైన్ జలమార్గం ఏ రెండు ప్రాంతాల మధ్య 700 కిలోమీటర్ల మేర నౌకాయానానికి అనుకూలంగా ఉంది?",
+    "en": "The Rhine waterway is navigable for 700 km between which two locations?"
+   },
+   "options": {
+    "te": [
+     "రోటర్‌డ్యామ్ మరియు బాసెల్",
+     "కొలోన్ మరియు స్విట్జర్లాండ్",
+     "డ్యూసెల్డార్ఫ్ మరియు బాసెల్",
+     "రోటర్‌డ్యామ్ మరియు కొలోన్"
+    ],
+    "en": [
+     "Rotterdam and Basel",
+     "Cologne and Switzerland",
+     "Dusseldorf and Basel",
+     "Rotterdam and Cologne"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "రైన్ నది నెదర్లాండ్స్‌లోని రోటర్‌డ్యామ్ నుండి స్విట్జర్లాండ్‌లోని బాసెల్ వరకు నౌకాయానానికి అనుకూలంగా ఉంటుంది.",
+    "en": "The Rhine is navigable from Rotterdam in the Netherlands to Basel in Switzerland."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T27-0328",
+   "section": {
+    "te": "Cochin Port",
+    "en": "Cochin Port"
+   },
+   "q": {
+    "te": "భారతదేశంలోని ఏ ఓడరేవును 'అరేబియా సముద్రపు రాణి' (Queen of the Arabian Sea) అని పిలుస్తారు?",
+    "en": "Which Indian port is popularly known as the 'Queen of the Arabian Sea'?"
+   },
+   "options": {
+    "te": [
+     "కాండ్లా పోర్ట్",
+     "కొచ్చిన్ పోర్ట్",
+     "మర్మగోవా పోర్ట్",
+     "ముంబై పోర్ట్"
+    ],
+    "en": [
+     "Kandla Port",
+     "Cochin Port",
+     "Mormugao Port",
+     "Mumbai Port"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వెంబనాడ్ కాయల్ వద్ద ఉన్న కొచ్చిన్ పోర్ట్‌ను 'అరేబియా సముద్రపు రాణి' అని పిలుస్తారు.",
+    "en": "Cochin Port, situated at the head of Vembanad Kayal, is known as the 'Queen of the Arabian Sea'."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T27-0297",
+   "section": {
+    "te": "Agriculture Export Trends",
+    "en": "Agriculture Export Trends"
+   },
+   "q": {
+    "te": "వ్యవసాయ ఎగుమతుల వాటాలో మొత్తం తగ్గుదల ఉన్నప్పటికీ, ఈ క్రింది వాటిలో ఏ వస్తువుల ఎగుమతులు పెరిగాయి?",
+    "en": "Despite an overall decline in the share of agricultural exports, which of the following items have registered an increase in exports?"
+   },
+   "options": {
+    "te": [
+     "ఫ్లోరికల్చరల్ (పుష్పకృషి) ఉత్పత్తులు",
+     "తాజా పండ్లు మరియు సముద్ర ఉత్పత్తులు",
+     "చక్కెర",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Floricultural products",
+     "Fresh fruits and Marine products",
+     "Sugar",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జీడిపప్పు వంటి సాంప్రదాయ వస్తువులు తగ్గినప్పటికీ, పుష్పకృషి, తాజా పండ్లు, సముద్ర ఉత్పత్తులు మరియు చక్కెర ఎగుమతులు పెరిగాయి.",
+    "en": "While traditional items like cashew declined, exports of floriculture, fresh fruits, marine products, and sugar increased."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T27-0249",
+   "section": {
+    "te": "Konkan Railway Engineering",
+    "en": "Konkan Railway Engineering"
+   },
+   "q": {
+    "te": "ఇంజనీరింగ్ అద్భుతంగా పరిగణించబడే కొంకణ్ రైల్వేలో ఈ క్రింది ఏ లక్షణాలు ఉన్నాయి?",
+    "en": "The Konkan Railway, considered an engineering marvel, includes which of the following features?"
+   },
+   "options": {
+    "te": [
+     "200 నదులు మరియు 146 సొరంగాలు",
+     "91 నదులు మరియు 2000 సొరంగాలు",
+     "146 నదులు మరియు 91 సొరంగాలు",
+     "146 నదులు మరియు 200 సొరంగాలు"
+    ],
+    "en": [
+     "200 rivers and 146 tunnels",
+     "91 rivers and 2000 tunnels",
+     "146 rivers and 91 tunnels",
+     "146 rivers and 200 tunnels"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కొంకణ్ రైల్వే మార్గం 146 నదులు/వాగులు, దాదాపు 2000 వంతెనలు మరియు ఆసియాలోనే అతిపెద్ద సొరంగంతో సహా 91 సొరంగాలను దాటుతుంది.",
+    "en": "The Konkan Railway route crosses 146 rivers/streams, nearly 2000 bridges, and 91 tunnels, including Asia's largest tunnel."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T27-0252",
+   "section": {
+    "te": "Inland Waterways Authority",
+    "en": "Inland Waterways Authority"
+   },
+   "q": {
+    "te": "భారతదేశంలో జాతీయ జలమార్గాల నియంత్రణ కోసం ఇన్లాండ్ వాటర్వేస్ అథారిటీని ఏ సంవత్సరంలో ఏర్పాటు చేశారు?",
+    "en": "In which year was the Inland Waterways Authority set up for the regulation of national waterways in India?"
+   },
+   "options": {
+    "te": [
+     "2016",
+     "1998",
+     "1853",
+     "1986"
+    ],
+    "en": [
+     "2016",
+     "1998",
+     "1853",
+     "1986"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జాతీయ జలమార్గాల అభివృద్ధి, నిర్వహణ మరియు నియంత్రణ కోసం 1986లో ఇన్లాండ్ వాటర్వేస్ అథారిటీని స్థాపించారు.",
+    "en": "The Inland Waterways Authority was established in 1986 for the development, maintenance, and regulation of national waterways."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T27-0146",
+   "section": {
+    "te": "Mediterranean-Indian Ocean Route",
+    "en": "Mediterranean-Indian Ocean Route"
+   },
+   "q": {
+    "te": "ప్రాచీన ప్రపంచం (Old World) గుండా వెళుతూ, ఏ ఇతర మార్గం కంటే కూడా ఎక్కువ దేశాలకు మరియు ప్రజలకు సేవలందిస్తున్న సముద్ర మార్గం ఏది?",
+    "en": "Which sea route passes through the heart of the Old World and serves more countries and people than any other route?"
+   },
+   "options": {
+    "te": [
+     "దక్షిణ అట్లాంటిక్ సముద్ర మార్గం",
+     "మధ్యధరా-హిందూ మహాసముద్ర మార్గం",
+     "ఉత్తర పసిఫిక్ సముద్ర మార్గం",
+     "కేప్ ఆఫ్ గుడ్ హోప్ సముద్ర మార్గం"
+    ],
+    "en": [
+     "The Southern Atlantic Sea Route",
+     "The Mediterranean–Indian Ocean Sea Route",
+     "The North Pacific Sea Route",
+     "The Cape of Good Hope Sea Route"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మధ్యధరా-హిందూ మహాసముద్ర సముద్ర మార్గం ప్రాచీన ప్రపంచం గుండా వెళుతూ అన్ని ఇతర మార్గాల కంటే ఎక్కువ దేశాలకు, ప్రజలకు రవాణా సేవలు అందిస్తుంది.",
+    "en": "The Mediterranean–Indian Ocean Sea Route passes through the heart of the Old World and serves more countries and people than any other route."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T27-0287",
+   "section": {
+    "te": "IRS Satellite",
+    "en": "IRS Satellite"
+   },
+   "q": {
+    "te": "మొదటి ఇండియన్ రిమోట్ సెన్సింగ్ శాటిలైట్, IRS-IA, మార్చి 1988లో ఏ ప్రదేశం నుండి ప్రయోగించబడింది?",
+    "en": "From which location was the first Indian Remote Sensing Satellite, IRS-IA, launched in March 1988?"
+   },
+   "options": {
+    "te": [
+     "కేప్ కెనావెరల్, USA",
+     "వైకనూర్, రష్యా",
+     "కౌరౌ, ఫ్రెంచ్ గయానా",
+     "శ్రీహరికోట, భారతదేశం"
+    ],
+    "en": [
+     "Cape Canaveral, USA",
+     "Vaikanour, Russia",
+     "Kourou, French Guiana",
+     "Sriharikota, India"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "IRS-IA ఉపగ్రహం మార్చి 1988లో రష్యాలోని వైకనూర్ నుండి ప్రయోగించబడిన తర్వాత పని చేయడం ప్రారంభించింది.",
+    "en": "The IRS-IA satellite became operational after being launched from Vaikanour in Russia in March 1988."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T27-0309",
+   "section": {
+    "te": "Principal Commodities Import",
+    "en": "Principal Commodities Import"
+   },
+   "q": {
+    "te": "పట్టిక 8.5 ప్రకారం, 2021-22లో భారతదేశం దిగుమతి చేసుకున్న 'తినదగిన నూనెల' విలువ (కోట్ల రూపాయలలో) ఎంత?",
+    "en": "What was the value of 'Edible oils' imported by India in 2021-22 according to Table 8.5 (in crore rupees)?"
+   },
+   "options": {
+    "te": [
+     "1,41,532",
+     "94,053",
+     "67,545",
+     "1,05,796"
+    ],
+    "en": [
+     "1,41,532",
+     "94,053",
+     "67,545",
+     "1,05,796"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పట్టిక 8.5 ప్రకారం, 2021-22 సంవత్సరానికి తినదగిన నూనెల దిగుమతి విలువ 1,41,532 కోట్ల రూపాయలుగా ఉంది.",
+    "en": "Table 8.5 lists the import value of edible oils as 1,41,532 crore rupees for the year 2021-22."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T27-0299",
+   "section": {
+    "te": "Trade Value Growth",
+    "en": "Trade Value Growth"
+   },
+   "q": {
+    "te": "ఈ క్రింది సంవత్సరాలను భారతదేశ విదేశీ వాణిజ్య విలువతో జతపరచండి:\n1. 1950-51   i. రూ. 77,19,796 కోట్లు\n2. 2020-21   ii. రూ. 1,214 కోట్లు",
+    "en": "Match the following years with the value of India's external trade:\n1. 1950-51   i. Rs. 77,19,796 crore\n2. 2020-21   ii. Rs. 1,214 crore"
+   },
+   "options": {
+    "te": [
+     "1-i, 2-ii",
+     "1-ii, 2-i",
+     "1-i, 2-i",
+     "1-ii, 2-ii"
+    ],
+    "en": [
+     "1-i, 2-ii",
+     "1-ii, 2-i",
+     "1-i, 2-i",
+     "1-ii, 2-ii"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారతదేశ విదేశీ వాణిజ్యం 1950-51లో రూ. 1,214 కోట్లుగా ఉంది మరియు 2020-21 నాటికి రూ. 77,19,796 కోట్లకు పెరిగింది.",
+    "en": "India's external trade was Rs. 1,214 crore in 1950-51 and grew to Rs. 77,19,796 crore by 2020-21."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T27-0282",
+   "section": {
+    "te": "Radio History",
+    "en": "Radio History"
+   },
+   "q": {
+    "te": "భారత ప్రభుత్వం ఏ సంవత్సరంలో రేడియో ప్రసారాలను 'ఇండియన్ బ్రాడ్‌కాస్టింగ్ సిస్టమ్' పేరుతో తన నియంత్రణలోకి తెచ్చుకుంది?",
+    "en": "In which year did the Indian government bring radio broadcasting under its control as the 'Indian Broadcasting System'?"
+   },
+   "options": {
+    "te": [
+     "1936",
+     "1957",
+     "1930",
+     "1923"
+    ],
+    "en": [
+     "1936",
+     "1957",
+     "1930",
+     "1923"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రభుత్వం 1930లో రేడియో ప్రసారాలను తన నియంత్రణలోకి తీసుకుంది, దీనికి ఇండియన్ బ్రాడ్‌కాస్టింగ్ సిస్టమ్ అని పేరు పెట్టింది.",
+    "en": "The government took control of radio broadcasting in 1930, naming it the Indian Broadcasting System."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T27-0038",
+   "section": {
+    "te": "Pipeline slurry transport",
+    "en": "Pipeline slurry transport"
+   },
+   "q": {
+    "te": "ఘన పదార్థాలను క్రింది ఏ రూపంలోకి మార్చినప్పుడు పైప్‌లైన్ ద్వారా రవాణా చేయవచ్చు?",
+    "en": "Solids can also be transported through a pipeline after being converted into which of the following forms?"
+   },
+   "options": {
+    "te": [
+     "ఆవిరి",
+     "రవ్వ రూపం (గ్రాన్యూల్స్)",
+     "ఘన గుళికలు (పెల్లెట్లు)",
+     "స్లర్రీ (ద్రవ రూప మిశ్రమం)"
+    ],
+    "en": [
+     "Vapour",
+     "Granules",
+     "Solid pellets",
+     "Slurry"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఘనపదార్థాలను స్లర్రీగా (ద్రవ మిశ్రమంగా) మార్చిన తర్వాత పైప్‌లైన్ ద్వారా రవాణా చేయవచ్చు.",
+    "en": "Solids can be transported through pipelines when they are converted into slurry."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T27-0339",
+   "section": {
+    "te": "Paradwip Port Location",
+    "en": "Paradwip Port Location"
+   },
+   "q": {
+    "te": "పారాదీప్ ఓడరేవు ఈ క్రింది ఏ నది డెల్టాలో ఉంది?",
+    "en": "In which of the following river deltas is the Paradwip Port situated?"
+   },
+   "options": {
+    "te": [
+     "మహానది డెల్టా",
+     "కృష్ణా డెల్టా",
+     "గంగా డెల్టా",
+     "గోదావరి డెల్టా"
+    ],
+    "en": [
+     "Mahanadi delta",
+     "Krishna delta",
+     "Ganga delta",
+     "Godavari delta"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పారాదీప్ ఓడరేవు కటక్ నుండి సుమారు 100 కిలోమీటర్ల దూరంలో ఉన్న మహానది డెల్టాలో ఉంది.",
+    "en": "Paradwip Port is located in the Mahanadi delta, approximately 100 km away from Cuttack."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T27-0121",
+   "section": {
+    "te": "North America Railways",
+    "en": "North America Railways"
+   },
+   "q": {
+    "te": "ఉత్తర అమెరికాలోని రైల్వేలకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ప్రయాణీకుల కంటే సుదూర ప్రాంతాలకు బరువైన సరుకు రవాణా కోసం రైల్వేలను ఎక్కువగా ఉపయోగిస్తారు.\n2. ముఖ్యమైన సరుకు రవాణా వస్తువులలో ఖనిజాలు, ధాన్యాలు, కలప మరియు యంత్రాలు ఉన్నాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది సరైనది/వి?",
+    "en": "Consider the following statements regarding railways in North America:\n1. Railways are used more for long-distance bulky freight than for passengers.\n2. Important freight items include ores, grains, timber, and machinery.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 లేదా 2 ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఉత్తర అమెరికా రైల్వేలు ప్రయాణీకుల రవాణా కంటే ఖనిజాలు మరియు ధాన్యాలు వంటి బరువైన సరుకు రవాణాకు ప్రాధాన్యత ఇస్తాయని పాఠ్య భాగం ధృవీకరిస్తుంది.",
+    "en": "The text confirms that North American railways prioritize bulky freight like ores and grains over passenger transport."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T27-0044",
+   "section": {
+    "te": "National Waterway 1",
+    "en": "National Waterway 1"
+   },
+   "q": {
+    "te": "జాతీయ జలమార్గం నం. 1 (N.W. No.1) క్రింది ఏ నదీ మార్గాన్ని కవర్ చేస్తుంది?",
+    "en": "National Waterway No. 1 (N.W. No.1) covers which of the following stretches?"
+   },
+   "options": {
+    "te": [
+     "సాదియా మరియు ధుబ్రి మధ్య బ్రహ్మపుత్ర నది",
+     "ప్రయాగ్‌రాజ్ మరియు హల్దియా మధ్య గంగా నది",
+     "కేరళలోని వెస్ట్-కోస్ట్ కెనాల్",
+     "గోదావరి మరియు కృష్ణా నదుల నిర్దిష్ట భాగాలు"
+    ],
+    "en": [
+     "Brahmaputra river between Sadiya and Dhubri",
+     "Ganga river between Prayagraj and Haldia",
+     "West-Coast Canal in Kerala",
+     "Specified stretches of Godavari and Krishna rivers"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "జాతీయ జలమార్గం నం. 1 అనేది ప్రయాగ్‌రాజ్ మరియు హల్దియా మధ్య గంగా నదిలో 1620 కి.మీ మేర విస్తరించి ఉంది.",
+    "en": "National Waterway No. 1 is on the Ganga river between Prayagraj and Haldia covering a distance of 1620 km."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T27-0170",
+   "section": {
+    "te": "Great Lakes Canals",
+    "en": "Great Lakes Canals"
+   },
+   "q": {
+    "te": "ఉత్తర అమెరికాలోని గ్రేట్ లేక్స్‌ను నిరంతర అంతర్గత జలమార్గంగా మార్చడానికి ఈ క్రింది ఏ కాలువలు కలుపుతాయి?",
+    "en": "Which of the following canals connect the Great Lakes of North America to form a continuous inland waterway?"
+   },
+   "options": {
+    "te": [
+     "సూ కాలువ",
+     "వెల్లాండ్ కాలువ",
+     "A మరియు B రెండూ",
+     "వోల్గా-డాన్ కాలువ"
+    ],
+    "en": [
+     "Soo Canal",
+     "Welland Canal",
+     "Both A and B",
+     "Volga-Don Canal"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "గ్రేట్ లేక్స్ (సుపీరియర్, హురాన్, ఎరీ మరియు అంటారియో) సూ మరియు వెల్లాండ్ కాలువలు రెండింటి ద్వారా అనుసంధానించబడి ఉన్నాయి.",
+    "en": "The Great Lakes (Superior, Huron, Erie, and Ontario) are linked by both the Soo and Welland canals."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T27-0020",
+   "section": {
+    "te": "Rural Roads Scheme",
+    "en": "Rural Roads Scheme"
+   },
+   "q": {
+    "te": "దేశంలోని ప్రతి గ్రామాన్ని అన్ని కాలాల్లోనూ ప్రయాణించదగిన రోడ్డు ద్వారా ప్రధాన పట్టణంతో అనుసంధానించడానికి ఏ పథకం కింద ప్రత్యేక నిబంధనలు చేయబడ్డాయి?",
+    "en": "Under which scheme are special provisions made so that every village in the country is linked to a major town by an all-season motorable road?"
+   },
+   "options": {
+    "te": [
+     "భారత్‌మాలా పరియోజన",
+     "సేతు భారతం ప్రాజెక్ట్",
+     "ప్రధాన మంత్రి గ్రామీణ సడక్ యోజన",
+     "సాగర్‌మాలా ప్రోగ్రామ్"
+    ],
+    "en": [
+     "Bharatmala Pariyojana",
+     "Setu Bharatam Project",
+     "Pradhan Mantri Grameen Sadak Yojana",
+     "Sagarmala Programme"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రధాన మంత్రి గ్రామీణ సడక్ యోజన పథకం కింద ప్రతి గ్రామాన్ని అన్ని కాలాల్లోనూ మోటారు వాహనాలు నడిచే రోడ్డు ద్వారా ప్రధాన పట్టణానికి అనుసంధానించడానికి ప్రత్యేక చర్యలు చేపట్టారు.",
+    "en": "Rural roads received special impetus under the Pradhan Mantri Grameen Sadak Yojana to link every village to a major town with an all-season motorable road."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T27-0033",
+   "section": {
+    "te": "Metalled road materials",
+    "en": "Metalled road materials"
+   },
+   "q": {
+    "te": "భారతదేశంలో అన్ని కాలాలలోనూ ఉపయోగపడే మెటల్ రోడ్లను (Metalled roads) ఈ క్రింది ఏ పదార్థాలతో నిర్మించవచ్చు?",
+    "en": "Metalled roads in India are all-weather roads that may be made of which of the following materials?"
+   },
+   "options": {
+    "te": [
+     "సిమెంట్ లేదా కాంక్రీట్",
+     "బొగ్గు తారు (బిటుమిన్)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Cement or concrete",
+     "Bitumen of coal",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం మెటల్ రోడ్లను సిమెంట్, కాంక్రీట్ లేదా బొగ్గు తారుతో నిర్మిస్తారు, కాబట్టి ఇవి అన్ని కాలాల్లో ఉపయోగపడే రహదారులు.",
+    "en": "Metalled roads may be made of cement, concrete or bitumen of coal, making them all-weather roads."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T27-0246",
+   "section": {
+    "te": "Railway Track Gauges",
+    "en": "Railway Track Gauges"
+   },
+   "q": {
+    "te": "భారతీయ రైల్వేలోని 'బ్రాడ్ గేజ్' (Broad gauge) విభాగంలో పట్టాల మధ్య దూరం ఎంత?",
+    "en": "What is the distance between the rails in the 'Broad gauge' category of Indian Railways?"
+   },
+   "options": {
+    "te": [
+     "1.676 మీటర్లు",
+     "1.000 మీటర్లు",
+     "0.610 మీటర్లు",
+     "0.762 మీటర్లు"
+    ],
+    "en": [
+     "1.676 metre",
+     "1.000 metre",
+     "0.610 metre",
+     "0.762 metre"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మూలం ప్రకారం, వెడల్పు ఆధారంగా భారతీయ రైల్వే పట్టాలను మూడు రకాలుగా వర్గీకరించింది, ఇందులో బ్రాడ్ గేజ్ దూరం 1.676 మీటర్లు.",
+    "en": "Indian Railways classifies tracks into three categories based on width, where the broad gauge distance is 1.676 metres."
+   }
+  }
+ ]
+}

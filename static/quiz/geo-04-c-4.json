@@ -1,0 +1,942 @@
+{
+ "id": "geo-04-c-4",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Landforms – క్విజ్ 4",
+  "en": "Landforms – Quiz 4"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T04-0135",
+   "section": {
+    "te": "Orogeny Impact Area",
+    "en": "Orogeny Impact Area"
+   },
+   "q": {
+    "te": "ఓరోజెనీ (Orogeny) భూపటలంలోని ఏ భాగాలను ప్రభావితం చేస్తుంది?",
+    "en": "Orogeny affects which parts of the earth's crust?"
+   },
+   "options": {
+    "te": [
+     "భూపటలంలోని పెద్ద భాగాలు",
+     "పొడవైన మరియు ఇరుకైన మండలాలు (belts)",
+     "స్థానిక చిన్న ప్రాంతాలు",
+     "సముద్ర పలకలు మాత్రమే"
+    ],
+    "en": [
+     "Large parts of the crust",
+     "Long and narrow belts",
+     "Local minor areas",
+     "Only oceanic plates"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఓరోజెనిక్ ప్రక్రియలు భూపటలంలోని పొడవైన మరియు ఇరుకైన మండలాలను ప్రభావితం చేసే పర్వత నిర్మాణాన్ని కలిగి ఉంటాయి.",
+    "en": "Orogenic processes involve mountain building that affects long and narrow belts of the earth's crust."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T04-0230",
+   "section": {
+    "te": "Drumlin characteristics",
+    "en": "Drumlin characteristics"
+   },
+   "q": {
+    "te": "డ్రమ్లిన్లకి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. డ్రమ్లిన్లు అనేవి ప్రధానంగా హిమానీనద టిల్‌తో కూడిన మృదువైన అండాకారపు గట్ల వంటి నిర్మాణాలు.\n2. డ్రమ్లిన్ల పొడవాటి అక్షం (long axis) మంచు కదలిక దిశకు సమాంతరంగా ఉంటుంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding drumlins:\n1. Drumlins are smooth, oval-shaped ridge-like features composed mainly of glacial till.\n2. The long axes of drumlins are parallel to the direction of ice movement.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రెండు ప్రకటనలు సరైనవే. డ్రమ్లిన్లు టిల్‌తో కూడిన మృదువైన అండాకార గట్లు మరియు వాటి పొడవాటి అక్షం మంచు ప్రయాణించే దిశకు సమాంతరంగా ఉంటుంది.",
+    "en": "Both statements are correct. Drumlins are smooth oval ridges composed mainly of till, and their long axes run parallel to the direction of glacier movement."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T04-0151",
+   "section": {
+    "te": "Definition of erosion",
+    "en": "Definition of erosion"
+   },
+   "q": {
+    "te": "శిలా శకలాలను సేకరించడం మరియు వాటిని రవాణా చేయడం ఏ ప్రక్రియలో భాగం?",
+    "en": "Which of the following processes specifically involves the acquisition and transportation of rock debris?"
+   },
+   "options": {
+    "te": [
+     "క్రమక్షయం (Erosion)",
+     "శిలాశైథిల్యం (Weathering)",
+     "రూపాంతరం (Metamorphism)",
+     "పటల విరూపణము (Diastrophism)"
+    ],
+    "en": [
+     "Erosion",
+     "Weathering",
+     "Metamorphism",
+     "Diastrophism"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, శిలా శకలాలను సేకరించడం మరియు ఒక ప్రదేశం నుండి మరొక ప్రదేశానికి రవాణా చేయడం క్రమక్షయంలో భాగం.",
+    "en": "Erosion is defined as the process that involves the acquisition and transportation of rock debris."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T04-0248",
+   "section": {
+    "te": "Deflation",
+    "en": "Deflation"
+   },
+   "q": {
+    "te": "రాళ్ళ ఉపరితలం నుండి ధూళి మరియు చిన్న రేణువులను గాలి ద్వారా పైకి లేపి తొలగించడాన్ని ఏమంటారు?",
+    "en": "The lifting and removal of dust and smaller particles from the surface of rocks by wind is known as:"
+   },
+   "options": {
+    "te": [
+     "హైడ్రాలిక్ చర్య",
+     "అబ్రేషన్ (రాపిడి)",
+     "అట్రిషన్ (ఘర్షణ)",
+     "డిఫ్లేషన్ (ఎగురవేత)"
+    ],
+    "en": [
+     "Hydraulic action",
+     "Abrasion",
+     "Attrition",
+     "Deflation"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రాళ్ళ ఉపరితలాల నుండి ధూళి మరియు చిన్న కణాలను గాలి పైకి లేపి తొలగించే ప్రక్రియను 'డిఫ్లేషన్' అంటారు.",
+    "en": "Deflation refers specifically to the lifting and removal of dust and smaller particles from rock surfaces by wind."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T04-0132",
+   "section": {
+    "te": "Geomorphic Agent Identification",
+    "en": "Geomorphic Agent Identification"
+   },
+   "q": {
+    "te": "ఈ క్రింది వాటిలో ఏది భూస్వరూప కారకం (geomorphic agent) కాదు?",
+    "en": "Which of the following is NOT a geomorphic agent?"
+   },
+   "options": {
+    "te": [
+     "గాలి",
+     "అగ్నిపర్వత ప్రక్రియ (Volcanism)",
+     "ప్రవహించే నీరు",
+     "హిమానీనదాలు"
+    ],
+    "en": [
+     "Wind",
+     "Volcanism",
+     "Running water",
+     "Glaciers"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అగ్నిపర్వత ప్రక్రియ అనేది ఒక భూస్వరూప ప్రక్రియ, కారకం కాదు. కారకాలు అంటే నీరు, గాలి మరియు హిమానీనదాల వంటి మొబైల్ మాధ్యమాలు.",
+    "en": "Volcanism is a geomorphic process, not an agent. Agents are mobile mediums like water, wind, and glaciers."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T04-0146",
+   "section": {
+    "te": "Major groups of weathering",
+    "en": "Major groups of weathering"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో శైథిల్య ప్రక్రియల మూడు ప్రధాన సమూహాలలో లేనిది ఏది?",
+    "en": "Which of the following is NOT one of the three major groups of weathering processes?"
+   },
+   "options": {
+    "te": [
+     "జీవ సంబంధ శైథిల్యం",
+     "భౌతిక లేదా యాంత్రిక శైథిల్యం",
+     "టెక్టానిక్ శైథిల్యం",
+     "రసాయన శైథిల్యం"
+    ],
+    "en": [
+     "Biological weathering",
+     "Physical or mechanical weathering",
+     "Tectonic weathering",
+     "Chemical weathering"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "శైథిల్యంలో రసాయన, భౌతిక (యాంత్రిక), మరియు జీవ సంబంధ శైథిల్యాలు మాత్రమే మూడు ప్రధాన విభాగాలు.",
+    "en": "The three major groups of weathering processes are chemical, physical (mechanical), and biological weathering. Tectonic weathering is not one of them."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T04-0044",
+   "section": {
+    "te": "Human impact on environment",
+    "en": "Human impact on environment"
+   },
+   "q": {
+    "te": "ప్రతిపాదన (A): అటవీ నిర్మూలన మరియు కాలుష్యం వంటి మానవ చర్యలు భూస్వరూపాల సహజ సమతుల్యతను దెబ్బతీస్తాయి.\nకారణం (R): ఈ చర్యలు ఎడారీకరణ మరియు జీవవైవిధ్య నష్టం వంటి సమస్యలకు దారితీస్తాయి.",
+    "en": "Assertion (A): Human actions like deforestation and pollution disturb the natural balance of landforms.\nReason (R): These actions can lead to issues such as desertification and biodiversity loss."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అటవీ నిర్మూలన మరియు కాలుష్యం వంటి మానవ కార్యకలాపాలు పర్యావరణ సమతుల్యతను దెబ్బతీస్తాయి, ఇది నేరుగా ఎడారీకరణ మరియు జీవవైవిధ్య నష్టం వంటి పరిణామాలకు దారితీస్తుంది.",
+    "en": "Human activities like deforestation and pollution disturb the environmental balance, which directly results in consequences like desertification and loss of biodiversity."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T04-0268",
+   "section": {
+    "te": "Longitudinal dunes",
+    "en": "Longitudinal dunes"
+   },
+   "q": {
+    "te": "లాంగిట్యూడినల్ (Longitudinal) ఇసుక దిబ్బలు ఈ క్రింది ఏ పరిస్థితులలో ఏర్పడతాయి?",
+    "en": "Longitudinal dunes form under which of the following conditions?"
+   },
+   "options": {
+    "te": [
+     "ఇసుక సరఫరా తక్కువగా ఉన్నప్పుడు",
+     "స్థిరమైన గాలి దిశ ఉన్నప్పుడు",
+     "A మరియు B రెండూ",
+     "అధిక ఇసుక మరియు మారుతున్న గాలులు ఉన్నప్పుడు"
+    ],
+    "en": [
+     "Poor supply of sand",
+     "Constant wind direction",
+     "Both A and B",
+     "Abundant sand and shifting winds"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఇసుక సరఫరా తక్కువగా ఉన్నప్పుడు మరియు గాలి దిశ స్థిరంగా ఉన్నప్పుడు లాంగిట్యూడినల్ దిబ్బలు ఏర్పడతాయి.",
+    "en": "Longitudinal dunes form when the sand supply is poor and the wind direction remains constant."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T04-0077",
+   "section": {
+    "te": "Meander formation mechanism",
+    "en": "Meander formation mechanism"
+   },
+   "q": {
+    "te": "నది మలుపులు (meanders) ఏర్పడే ప్రక్రియలో, నది వంపుల వెంబడి ఎలాంటి కోత మరియు నిక్షేపణ చర్యలు జరుగుతాయి?",
+    "en": "During the formation of a river meander, what erosional and depositional actions take place along its bends?"
+   },
+   "options": {
+    "te": [
+     "బాహ్య ఒడ్డులపై కోత జరుగుతుంది మరియు అంతర్గత ఒడ్డులపై అవక్షేపాలు నిక్షిప్తమవుతాయి",
+     "బాహ్య ఒడ్డులపై అవక్షేపాలు నిక్షిప్తమవుతాయి మరియు అంతర్గత ఒడ్డులపై కోత జరుగుతుంది",
+     "అంతర్గత మరియు బాహ్య ఒడ్డులు రెండింటిపై సమానంగా కోత జరుగుతుంది",
+     "పార్శ్వ కోత లేకుండా రెండు ఒడ్డులపైనా నిక్షేపణ మాత్రమే జరుగుతుంది"
+    ],
+    "en": [
+     "Erosion occurs on the outer banks and sediment is deposited on the inner banks",
+     "Sediment is deposited on the outer banks and erosion occurs on the inner banks",
+     "Erosion occurs equally on both the inner and outer banks",
+     "Deposition occurs across both banks without any lateral erosion"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నది ప్రవహించేటప్పుడు వంపుల యొక్క బాహ్య ఒడ్డులను కోతకు గురిచేసి, అంతర్గత ఒడ్డులపై అవక్షేపాలను నిక్షిప్తం చేయడం ద్వారా పెద్ద మలుపులను ఏర్పరుస్తుంది.",
+    "en": "As a river meanders, it erodes the outer banks of bends and deposits sediments on the inner banks, forming broad loops."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T04-0263",
+   "section": {
+    "te": "Blow outs and Caves",
+    "en": "Blow outs and Caves"
+   },
+   "q": {
+    "te": "గాలి రాపిడి వల్ల రాతి ముఖభాగాలపై ఏర్పడిన నిస్సారమైన పల్లాలు లోతుగా మరియు వెడల్పుగా మారినప్పుడు వాటిని ఏమని పిలుస్తారు?",
+    "en": "When shallow depressions on rock faces, caused by wind abrasion, become deeper and wider, they are referred to as:"
+   },
+   "options": {
+    "te": [
+     "బ్లో అవుట్స్",
+     "గుహలు (Caves)",
+     "మష్రూమ్ రాక్స్",
+     "డీఫ్లేషన్ హాలోస్"
+    ],
+    "en": [
+     "Blow outs",
+     "Caves",
+     "Mushroom rocks",
+     "Deflation hollows"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "బ్లో అవుట్స్ (ప్రారంభ నిస్సార పల్లాలు) లోతుగా మరియు వెడల్పుగా మారి గుహలుగా ఏర్పడతాయని పాఠ్యభాగం వివరిస్తుంది.",
+    "en": "Blow outs (initial shallow depressions) can become deeper and wider to form caves."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T04-0258",
+   "section": {
+    "te": "Pediplains",
+    "en": "Pediplains"
+   },
+   "q": {
+    "te": "ఎడారి ప్రాంతాలలో ఎత్తైన భూభాగాలు తగ్గిన తర్వాత ఏర్పడే తక్కువ ఎత్తులో ఉండే, లక్షణాలు లేని మైదానాలను ఏమంటారు?",
+    "en": "The low, featureless plains formed in desert areas after the reduction of high relief are termed as:"
+   },
+   "options": {
+    "te": [
+     "ప్లాయాస్",
+     "ఆల్కలీ ఫ్లాట్స్",
+     "పెడిప్లెయిన్స్",
+     "అల్యూవియల్ ఫ్యాన్స్"
+    ],
+    "en": [
+     "Playas",
+     "Alkali flats",
+     "Pediplains",
+     "Alluvial fans"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఎడారులలోని ఎత్తైన భూభాగాలు క్రమంగా తగ్గిపోయి పెడిప్లెయిన్స్ అని పిలువబడే తక్కువ ఎత్తులో ఉండే మైదానాలుగా మారుతాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "High relief in deserts is eventually reduced to low featureless plains known as pediplains."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T04-0222",
+   "section": {
+    "te": "Hanging valleys triangular facets",
+    "en": "Hanging valleys triangular facets"
+   },
+   "q": {
+    "te": "హిమానీనద లోయలలో, ప్రధాన లోయలోకి తెరుచుకునే వేలాడే లోయల (hanging valleys) పర్వత పార్శ్వాల మొనలు కత్తిరించబడి క్రింది వాటిలో దేని వలె కనిపిస్తాయి?",
+    "en": "In glaciated valleys, the truncated faces of divides or spurs of hanging valleys opening into the main valley often resemble:"
+   },
+   "options": {
+    "te": [
+     "త్రిభుజాకార ఫాసెట్లు (Triangular facets)",
+     "వృత్తాకార గుంటలు",
+     "అర్ధచంద్రాకార దిబ్బలు",
+     "వంకరటింకర గట్లు"
+    ],
+    "en": [
+     "Triangular facets",
+     "Circular depressions",
+     "Crescentic dunes",
+     "Sinuous ridges"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రధాన హిమానీనద లోయల్లోకి తెరుచుకునే వేలాడే లోయల కొనలు కత్తిరించబడి త్రిభుజాకార ముఖాలు (త్రిభుజాకార ఫాసెట్లు) వలె కనిపిస్తాయి.",
+    "en": "The faces of divides or spurs of hanging valleys opening into main glacial valleys are truncated to give them an appearance like triangular facets."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T04-0160",
+   "section": {
+    "te": "Stream divides in old stage",
+    "en": "Stream divides in old stage"
+   },
+   "q": {
+    "te": "ప్రవహించే నీటి భూస్వరూప పరిణామంలో వృద్ధ దశలో జలవిభాజకాలు (stream divides) ఎలా ఉంటాయి?",
+    "en": "In the old stage of running water landscape evolution, the stream divides are:"
+   },
+   "options": {
+    "te": [
+     "ఎలాంటి చిత్తడి నేలలు లేని ఇరుకైన అంచులుగా",
+     "సరస్సులు, చిత్తడి నేలలతో విశాలంగా మరియు చదునుగా",
+     "జలపాతాలతో కూడిన ఎత్తైన పర్వత శ్రేణులుగా",
+     "తీవ్రమైన మరియు నిటారైన శిఖరాలుగా"
+    ],
+    "en": [
+     "Narrow divides without any lakes or marshes",
+     "Broad and flat with lakes, swamps and marshes",
+     "High mountain barriers with active waterfalls",
+     "Sharp and steep ridges"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వృద్ధ దశలో జలవిభాజక ప్రాంతాలు చదునుగా, విశాలంగా మారి సరస్సులు మరియు చిత్తడి నేలలను కలిగి ఉంటాయి.",
+    "en": "In the old age stage, stream divides are broad and flat, often containing lakes, swamps, and marshes."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T04-0155",
+   "section": {
+    "te": "Erosional landforms of running water",
+    "en": "Erosional landforms of running water"
+   },
+   "q": {
+    "te": "ప్రవహించే నీటి ద్వారా ఏర్పడే క్రమక్షయ భూస్వరూపాలలో ఎక్కువ భాగం వేటితో ముడిపడి ఉంటాయి?",
+    "en": "Most of the erosional landforms created by running water are associated with:"
+   },
+   "options": {
+    "te": [
+     "విశాల వరద మైదానాలలో వంపులు తిరిగే వృద్ధ దశ నదులతో",
+     "భూగర్భ గుహలను ఏర్పరచే భూగర్భ జల ప్రవాహాలతో",
+     "సమతల తీర మైదానాలలో నెమ్మదిగా ప్రవహించే నదులతో",
+     "తీవ్రమైన వాలుపై వేగంగా ప్రవహించే ప్రచండమైన యువ దశ నదులతో"
+    ],
+    "en": [
+     "Old rivers meandering through broad floodplains",
+     "Subterranean flows carving underground caverns",
+     "Slow rivers flowing across flat coastal plains",
+     "Vigorous and youthful rivers flowing over steep gradients"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "తీవ్రమైన వాలుపై వేగంగా ప్రవహించే యువ దశలోని నదుల వల్ల ప్రవహించే నీటి క్రమక్షయ భూస్వరూపాలు ఎక్కువగా ఏర్పడతాయి.",
+    "en": "Running water creates most of its erosional landforms in association with vigorous, youthful rivers flowing over steep gradients."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T04-0243",
+   "section": {
+    "te": "Barrier Bar",
+    "en": "Barrier Bar"
+   },
+   "q": {
+    "te": "మరింత ఇసుక చేరడం వల్ల నీటి పైకి కనిపించే విధంగా బహిర్గతమయ్యే ఆఫ్-షోర్ బార్‌ను ఏమని పిలుస్తారు?",
+    "en": "An off-shore bar that gets exposed above the water surface due to the further addition of sand is termed a:"
+   },
+   "options": {
+    "te": [
+     "సీ స్టాక్",
+     "తరంగ కోత క్లిఫ్",
+     "షింగిల్ బీచ్",
+     "బారియర్ బార్ (అవరోధక గట్టు)"
+    ],
+    "en": [
+     "Sea stack",
+     "Wave-cut cliff",
+     "Shingle beach",
+     "Barrier bar"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మరింత ఇసుక పేరుకుపోవడం వల్ల బయటకు కనిపించే ఆఫ్-షోర్ బార్‌ను 'బారియర్ బార్' అని పిలుస్తారు.",
+    "en": "When an off-shore bar receives further addition of sand and becomes exposed, it is termed a barrier bar."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T04-0290",
+   "section": {
+    "te": "Molecular Stresses",
+    "en": "Molecular Stresses"
+   },
+   "q": {
+    "te": "భూమిలోని పదార్థాలలో అణు ఒత్తిళ్లను (molecular stresses) కలిగించే ఈ క్రింది కారకాలను పరిశీలించండి:\n1. ఉష్ణోగ్రత మార్పులు\n2. స్పటికీకరణ (Crystallisation)\n3. కరగడం (Meling)\nపైన పేర్కొన్న కారకాల్లో ఏవి సరైనవి?",
+    "en": "Consider the following factors that cause molecular stresses in earth materials:\n1. Temperature changes\n2. Crystallisation\n3. Melting\nWhich of the factors mentioned above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూమిలోని పదార్థాలలో అణు ఒత్తిళ్లను కలిగించే అత్యంత సాధారణ కారకాలుగా ఉష్ణోగ్రత మార్పులు, స్పటికీకరణ మరియు కరగడం వంటి వాటిని పాఠ్యాంశం పేర్కొంది.",
+    "en": "The text lists temperature changes, crystallisation, and melting as the most common factors causing molecular stresses in earth materials."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T04-0008",
+   "section": {
+    "te": "South Indian Peaks",
+    "en": "South Indian Peaks"
+   },
+   "q": {
+    "te": "దక్షిణ భారతదేశంలో అత్యంత ఎత్తైన పర్వతం ఏది?",
+    "en": "Which is the highest mountain in south India?"
+   },
+   "options": {
+    "te": [
+     "మౌంట్ అకాన్కాగువా",
+     "మౌంట్ బ్లాంక్",
+     "మౌంట్ కాంచనజంగా",
+     "అనముడి"
+    ],
+    "en": [
+     "Mount Aconcagua",
+     "Mont Blanc",
+     "Mount Kanchenjunga",
+     "Anamudi"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "కేరళలోని అనముడి (దీనిని 'ఆనై పీక్' అని కూడా పిలుస్తారు) దక్షిణ భారతదేశంలో అత్యంత ఎత్తైన పర్వతం.",
+    "en": "Anamudi, located in Kerala and also known as Anai Peak, is the highest mountain in south India."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T04-0260",
+   "section": {
+    "te": "Playas",
+    "en": "Playas"
+   },
+   "q": {
+    "te": "ప్లాయాస్ (Playas) కు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి ఎడారి బేసిన్ల మధ్యలో ఏర్పడే నిస్సారమైన (shallow) సరస్సులు.\n2. అధిక వర్షపాతం కారణంగా వీటిలో నీరు ఎక్కువ కాలం నిల్వ ఉంటుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding Playas:\n1. They are shallow lakes formed in the centre of desert basins.\n2. Water is retained in them for long durations due to high rainfall.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రకటన 1 సరైనది ఎందుకంటే ప్లాయాస్ బేసిన్లలో ఉండే నిస్సార సరస్సులు. ఆవిరి కావడం వల్ల నీరు తక్కువ కాలం మాత్రమే ఉంటుంది కాబట్టి ప్రకటన 2 తప్పు.",
+    "en": "Statement 1 is correct as playas are shallow lakes in basins. Statement 2 is incorrect because water is retained only for a short duration due to evaporation."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T04-0037",
+   "section": {
+    "te": "Plateaus as Storehouses of Minerals",
+    "en": "Plateaus as Storehouses of Minerals"
+   },
+   "q": {
+    "te": "క్రింద రెండు ప్రకటనలు ఇవ్వబడ్డాయి:\nనిశ్చితం (A): పీఠభూములలో మైనింగ్ (గనుల తవ్వకం) ఒక ప్రధాన ఆర్థిక కార్యకలాపం.\nకారణం (R): పీఠభూములు ఖనిజ నిక్షేపాలతో సమృద్ధిగా ఉంటాయి, వీటిని 'ఖనిజాల భాండాగారాలు' అని పిలుస్తారు.\nసరైన సమాధానాన్ని ఎంచుకోండి:",
+    "en": "Given below are two statements:\nAssertion (A): Mining is a major economic activity on plateaus.\nReason (R): Plateaus are rich in mineral deposits and have been called 'storehouses of minerals'.\nSelect the correct answer:"
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ సరైనవి, మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ సరైనవి, కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పీఠభూములు ఖనిజ సమృద్ధిని కలిగి ఉండడం వల్లనే అక్కడ మైనింగ్ ప్రధాన కార్యకలాపంగా మారింది; కాబట్టి A మరియు R రెండూ సరైనవి మరియు R అనేది A కి సరైన వివరణ.",
+    "en": "Both statements are correct, and R explains why mining is a major activity on plateaus, as they are rich in minerals."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T04-0150",
+   "section": {
+    "te": "Deposition order of materials",
+    "en": "Deposition order of materials"
+   },
+   "q": {
+    "te": "భూస్వరూప కారకాల నిక్షేపణ ప్రక్రియలో, పదార్థాలు ఏ క్రమంలో నిక్షేపించబడతాయి?",
+    "en": "In the process of deposition by geomorphic agents, in what sequence are materials deposited?"
+   },
+   "options": {
+    "te": [
+     "సూక్ష్మ పదార్థాలు మొదట మరియు ముతక పదార్థాలు తరువాత నిక్షేపించబడతాయి",
+     "ముతక పదార్థాలు మొదట మరియు సూక్ష్మ పదార్థాలు తరువాత నిక్షేపించబడతాయి",
+     "సూక్ష్మ మరియు ముతక పదార్థాలు రెండూ ఒకే సమయంలో నిక్షేపించబడతాయి",
+     "సూక్ష్మ పదార్థాలు మాత్రమే నిక్షేపించబడతాయి; ముతక పదార్థాలు ఎప్పుడూ నిక్షేపించబడవు"
+    ],
+    "en": [
+     "Finer materials get deposited first and coarser ones later",
+     "Coarser materials get deposited first and finer ones later",
+     "Finer and coarser materials get deposited simultaneously",
+     "Only finer materials get deposited; coarser materials never deposit"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వాలు తగ్గినప్పుడు కారకాలు వేగాన్ని కోల్పోవడం వల్ల ముతక పదార్థాలు మొదట నిక్షేపించబడతాయి మరియు సూక్ష్మ పదార్థాలు తరువాత నిక్షేపించబడతాయి.",
+    "en": "As erosional agents lose velocity and energy on gentler slopes, the coarser materials settle first followed by the finer ones."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T04-0218",
+   "section": {
+    "te": "Horn landform mechanism",
+    "en": "Horn landform mechanism"
+   },
+   "q": {
+    "te": "హిమానీనద ప్రాంతాలలో 'హార్న్‌లు' (horns) అని పిలువబడే ఎత్తైన, కోణీయ శిఖరాలు ఏ విధంగా ఏర్పడతాయి?",
+    "en": "In glaciated mountains, high, sharp-pointed and steep-sided peaks called 'horns' form when:"
+   },
+   "options": {
+    "te": [
+     "హిమానీనద ప్రవాహాలు అడుగుభాగంలో ఒండ్రు నిక్షేపాలను జమ చేసినప్పుడు",
+     "మూడు లేదా అంతకంటే ఎక్కువ హిమానీనదాలు తమ సర్క్‌లు కలిసే వరకు శీర్షకోత చేసినప్పుడు",
+     "పీడ్‌మాంట్ హిమానీనదాలు మైదానాలపై వ్యాపించినప్పుడు",
+     "భూగర్భ గుహల పైకప్పులు కూలిపోయి భారీ లోయలు ఏర్పడినప్పుడు"
+    ],
+    "en": [
+     "Meltwater streams deposit layers of sorted alluvium at the base",
+     "Three or more radiating glaciers cut headward until their cirques meet",
+     "Piedmont glaciers spread across vast piedmont plains",
+     "Sinkholes collapse to create deep underground depressions"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మూడు లేదా అంతకంటే ఎక్కువ దిశల్లో కదిలే హిమానీనదాల సర్క్‌లు కలిసేంత వరకు వెనుకకు కోత (headward erosion) జరపడం వల్ల హార్న్‌లు ఏర్పడతాయి.",
+    "en": "Horns form when three or more radiating glaciers cut headward until their cirques meet, creating a sharp-pointed, steep-sided peak."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T04-0197",
+   "section": {
+    "te": "Swallow holes",
+    "en": "Swallow holes"
+   },
+   "q": {
+    "te": "సున్నపురాయి ఉపరితలంపై రసాయన ద్రావణ ప్రక్రియ ద్వారా ఏర్పడే చిన్న నుండి మధ్యస్థ పరిమాణంగల గుండ్రని నిస్సారమైన గుంటలను ఏమంటారు?",
+    "en": "Small to medium-sized, round to sub-rounded shallow depressions formed on the surface of limestones through solution are known as:"
+   },
+   "options": {
+    "te": [
+     "స్వాలో హోల్స్ (Swallow holes)",
+     "ప్లంజ్ పూల్స్",
+     "లాపీస్",
+     "పాట్‌హోల్స్"
+    ],
+    "en": [
+     "Swallow holes",
+     "Plunge pools",
+     "Lapies",
+     "Potholes"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సున్నపురాతి నేలపై రసాయన చర్య ద్వారా ఏర్పడే చిన్న లేదా మధ్యస్థ గుండ్రని గుంటలను స్వాలో హోల్స్ అంటారు.",
+    "en": "Swallow holes are small to medium-sized round to sub-rounded shallow depressions formed on the limestone surface through chemical solution."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T04-0159",
+   "section": {
+    "te": "Old age stage characteristics",
+    "en": "Old age stage characteristics"
+   },
+   "q": {
+    "te": "విశాలమైన వరద మైదానాలపై సహజ కట్టలు (natural levees) మరియు గుర్రపునాడా సరస్సులు (oxbow lakes) ఏ దశలో ప్రధానంగా కనిపిస్తాయి?",
+    "en": "Natural levees and oxbow lakes over vast floodplains are characteristically formed during which stage of landform evolution?"
+   },
+   "options": {
+    "te": [
+     "ప్రారంభ ప్రౌఢ దశ",
+     "యువ దశ (Youth stage)",
+     "వృద్ధ దశ (Old stage)",
+     "బాల్య దశ"
+    ],
+    "en": [
+     "Early mature stage",
+     "Youth stage",
+     "Old stage",
+     "Juvenile stage"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వృద్ధ దశలో నదులు విశాల వరద మైదానాలపై స్వేచ్ఛగా వంపులు తిరుగుతూ సహజ కట్టలు, గుర్రపునాడా సరస్సులను ఏర్పరుస్తాయి.",
+    "en": "During the old stage, streams meander freely over vast floodplains, displaying features like natural levees and oxbow lakes."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T04-0152",
+   "section": {
+    "te": "Landforms and landscapes",
+    "en": "Landforms and landscapes"
+   },
+   "q": {
+    "te": "కింది ప్రకటనలను పరిశీలించండి:\n1. భూ ఉపరితలంలోని చిన్న నుండి మధ్యస్థ భాగాలను భూస్వరూపాలు (landforms) అంటారు.\n2. పరస్పర సంబంధం ఉన్న అనేక భూస్వరూపాలు కలిసి ప్రకృతి దృశ్యాలుగా (landscapes) ఏర్పడతాయి.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements:\n1. Small to medium tracts or parcels of the earth's surface are called landforms.\n2. Several related landforms together make up landscapes.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రెండు ప్రకటనలు సరైనవే. భూమిపై చిన్న నుండి మధ్యస్థ భాగాలను భూస్వరూపాలని, అనేక సంబంధిత భూస్వరూపాల సమూహాన్ని ప్రకృతి దృశ్యాలు (landscapes) అని అంటారు.",
+    "en": "Both statements are correct. Landforms are small to medium parcels of the earth's surface, and several related landforms together make up landscapes."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T04-0078",
+   "section": {
+    "te": "River lower course",
+    "en": "River lower course"
+   },
+   "q": {
+    "te": "నది తన దిగువ భాగంలో (lower course) భారీ పరిమాణంలో అవక్షేపాలను నిక్షిప్తం చేయడం ద్వారా క్రింది ఏ భూస్వరూపాలను ఏర్పరుస్తుంది?",
+    "en": "Which of the following landforms are formed by a river in its lower course due to the deposition of large amounts of sediment?"
+   },
+   "options": {
+    "te": [
+     "డెల్టాలు",
+     "సహజ కట్టలు (Levees)",
+     "ఒండ్రు విసనకర్రలు (Alluvial fans)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Deltas",
+     "Levees",
+     "Alluvial fans",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "దిగువ భాగంలో నది వేగం మరింత తగ్గి భారీగా అవక్షేపాలను నిక్షేపించడం ద్వారా డెల్టాలు, సహజ కట్టలు మరియు ఒండ్రు విసనకర్రలను ఏర్పరుస్తుంది.",
+    "en": "In its lower course, a river slows down and deposits large amounts of sediment, creating deltas, levees, and alluvial fans."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T04-0172",
+   "section": {
+    "te": "Plunge pools",
+    "en": "Plunge pools"
+   },
+   "q": {
+    "te": "నీటి తీవ్రమైన తాకిడి మరియు బండరాళ్ల భ్రమణం వల్ల జలపాతాల అడుగుభాగంలో ఏర్పడే పెద్ద, లోతైన గుంటలను ఏమంటారు?",
+    "en": "Large and deep holes formed at the base of waterfalls due to the sheer impact of water and rotation of boulders are called:"
+   },
+   "options": {
+    "te": [
+     "పోట్‌హోల్స్",
+     "గుర్రపునాడా సరస్సులు",
+     "కెటిల్ రంధ్రాలు",
+     "ప్లంజ్ పూల్స్ (Plunge pools)"
+    ],
+    "en": [
+     "Potholes",
+     "Oxbow lakes",
+     "Kettle holes",
+     "Plunge pools"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జలపాతాల వద్ద నీటి వేగం మరియు బండరాళ్లు గుండ్రంగా తిరగడం వల్ల వాటి పాదాల వద్ద ఏర్పడే లోతైన భారీ గుంటలను ప్లంజ్ పూల్స్ అంటారు.",
+    "en": "Large, deep potholes formed at the base of waterfalls due to water impact and boulder rotation are termed plunge pools."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T04-0088",
+   "section": {
+    "te": "Types of Moraines",
+    "en": "Types of Moraines"
+   },
+   "q": {
+    "te": "కింది మొరైన్ల రకాలను వాటి సరైన వివరణలతో జతపరచండి:\n1. పార్శ్వ మొరైన్లు (Lateral) - i. హిమానీనదం చివరన ఏర్పడి దాని చివరి హద్దును సూచిస్తాయి\n2. టెర్మినల్ మొరైన్లు - ii. రెండు హిమానీనదాలు కలిసినప్పుడు వాటి పార్శ్వ భాగాలు కలిసి ఏర్పడతాయి\n3. మధ్యస్థ మొరైన్లు (Medial) - iii. హిమానీనదం యొక్క పక్క భాగాలలో (వైపులా) ఏర్పడతాయి\n\nసరైన కోడ్‌ను ఎంచుకోండి:",
+    "en": "Match the following types of moraines with their correct descriptions:\n1. Lateral moraines - i. Found at the end of glaciers, marking furthest advance\n2. Terminal moraines - ii. Formed when two glaciers meet and lateral moraines join\n3. Medial moraines - iii. Form along the sides of glaciers\n\nChoose the correct code:"
+   },
+   "options": {
+    "te": [
+     "1-iii, 2-i, 3-ii",
+     "1-i, 2-iii, 3-ii",
+     "1-ii, 2-i, 3-iii",
+     "1-iii, 2-ii, 3-i"
+    ],
+    "en": [
+     "1-iii, 2-i, 3-ii",
+     "1-i, 2-iii, 3-ii",
+     "1-ii, 2-i, 3-iii",
+     "1-iii, 2-ii, 3-i"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పార్శ్వ మొరైన్లు పక్కభాగాలలో (1-iii), టెర్మినల్ మొరైన్లు చివరన (2-i), మధ్యస్థ మొరైన్లు రెండు కలయిక వద్ద (3-ii) ఏర్పడతాయి.",
+    "en": "Lateral moraines form along the sides (1-iii), terminal moraines mark the furthest advance at the end (2-i), and medial moraines form when two glaciers meet (3-ii)."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T04-0026",
+   "section": {
+    "te": "East African Mining",
+    "en": "East African Mining"
+   },
+   "q": {
+    "te": "తూర్పు ఆఫ్రికా పీఠభూమి ప్రత్యేకించి ఏ ఖనిజాల తవ్వకానికి ప్రసిద్ధి చెందింది?",
+    "en": "The East African Plateau is particularly famous for the mining of which minerals?"
+   },
+   "options": {
+    "te": [
+     "పెట్రోలియం మరియు బాక్సైట్",
+     "ఇనుము మరియు బొగ్గు",
+     "మాంగనీస్ మరియు రాగి",
+     "బంగారం మరియు వజ్రాలు"
+    ],
+    "en": [
+     "Petroleum and bauxite",
+     "Iron and coal",
+     "Manganese and copper",
+     "Gold and diamond"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, తూర్పు ఆఫ్రికా పీఠభూమి బంగారం మరియు వజ్రాల గనులకు ప్రసిద్ధి చెందింది.",
+    "en": "The East African Plateau is famous for gold and diamond mining."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T04-0203",
+   "section": {
+    "te": "Sinkholes comparison",
+    "en": "Sinkholes comparison"
+   },
+   "q": {
+    "te": "కార్స్ట్ భూస్వరూపాలకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిగణించండి:\n1. ద్రావణ సింక్‌ల కంటే కూలిపోయే సింక్‌లు (collapse sinks) సర్వసాధారణం.\n2. లాపీస్ క్షేత్రం చివరికి నునుపైన సున్నపురాయి పేవ్‌మెంట్‌లుగా మారవచ్చు.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding karst landforms:\n1. Collapse sinks are more common than solution sinks.\n2. A lapie field may eventually turn into somewhat smooth limestone pavements.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కూలిపోయే సింక్‌ల కంటే ద్రావణ సింక్‌లే (solution sinks) సర్వసాధారణం, కాబట్టి ప్రకటన 1 తప్పు. లాపీ క్షేత్రం క్రమంగా సున్నపురాయి పేవ్‌మెంట్‌లుగా మారవచ్చు కాబట్టి ప్రకటన 2 సరైనది.",
+    "en": "Statement 1 is incorrect because solution sinks are more common than collapse sinks. Statement 2 is correct as the text notes a lapie field may eventually turn into somewhat smooth limestone pavements."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T04-0142",
+   "section": {
+    "te": "Physical weathering causes",
+    "en": "Physical weathering causes"
+   },
+   "q": {
+    "te": "చాలా వరకు భౌతిక శైథిల్య ప్రక్రియలు వేటి వలన సంభవిస్తాయి?",
+    "en": "Most of the physical weathering processes are caused by:"
+   },
+   "options": {
+    "te": [
+     "ఉష్ణ వ్యాకోచం",
+     "పీడన విడుదల (Pressure release)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Thermal expansion",
+     "Pressure release",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "చాలా భౌతిక శైథిల్య ప్రక్రియలు ఉష్ణ వ్యాకోచం మరియు పీడన విడుదల వలన సంభవిస్తాయి.",
+    "en": "Most physical weathering processes are caused by thermal expansion and pressure release."
+   }
+  }
+ ]
+}

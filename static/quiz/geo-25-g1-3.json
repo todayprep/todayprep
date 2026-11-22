@@ -1,0 +1,942 @@
+{
+ "id": "geo-25-g1-3",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Agriculture – క్విజ్ 3",
+  "en": "Agriculture – Quiz 3"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T25-0197",
+   "section": {
+    "te": "Farm Forestry Definition",
+    "en": "Farm Forestry Definition"
+   },
+   "q": {
+    "te": "రైతులు తమ సొంత వ్యవసాయ భూములలో వాణిజ్య మరియు వాణిజ్యేతర ప్రయోజనాల కోసం చెట్లను పెంచే పద్ధతిని ఏమంటారు?",
+    "en": "The practice under which farmers grow trees for commercial and non-commercial purposes on their own farm lands is termed as:"
+   },
+   "options": {
+    "te": [
+     "వాణిజ్య అటవీకరణ",
+     "వ్యవసాయ-అటవీకరణ",
+     "ఫార్మ్ అటవీకరణ (Farm forestry)",
+     "కమ్యూనిటీ అటవీకరణ"
+    ],
+    "en": [
+     "Commercial forestry",
+     "Agro-forestry",
+     "Farm forestry",
+     "Community forestry"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రైతులు తమ స్వంత వ్యవసాయ భూములలో చెట్లను పెంచే ప్రక్రియను 'ఫార్మ్ ఫారెస్ట్రీ' అని పిలుస్తారు.",
+    "en": "Farm forestry refers to the process where farmers grow trees for commercial and non-commercial purposes on their farm lands."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T25-0042",
+   "section": {
+    "te": "Arthashastra rainy season",
+    "en": "Arthashastra rainy season"
+   },
+   "q": {
+    "te": "అర్థశాస్త్రం ప్రకారం, మంచి వర్షాకాలం యొక్క ప్రారంభాన్ని (జూలై-ఆగస్టు) సూచించే మాసం ఏది?",
+    "en": "According to the Arthaśāstra, which month marks the beginning (July-August) of a good rainy season?"
+   },
+   "options": {
+    "te": [
+     "శ్రావణ",
+     "ప్రౌష్ఠపద",
+     "కార్తీక",
+     "ఆశ్వయుజ"
+    ],
+    "en": [
+     "Śrāvaṇa",
+     "Prauṣhṭhapada",
+     "Kārtika",
+     "Āśhvayuja"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అర్థశాస్త్రం ప్రకారం మంచి వర్షాకాలం ప్రారంభం శ్రావణ మాసంలో (జూలై-ఆగస్టు) జరుగుతుంది.",
+    "en": "The Arthaśāstra identifies Śrāvaṇa (July-August) as the beginning of a good rainy season."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T25-0149",
+   "section": {
+    "te": "Oil seeds usage",
+    "en": "Oil seeds usage"
+   },
+   "q": {
+    "te": "వంట నూనెలుగా కాకుండా, నూనె గింజలను ఈ క్రింది వాటిలో దేని ఉత్పత్తికి ముడి పదార్థాలుగా ఉపయోగిస్తారు?",
+    "en": "Apart from being used as cooking mediums, oil seeds are used as raw materials for the production of which of the following?"
+   },
+   "options": {
+    "te": [
+     "సబ్బులు",
+     "సౌందర్య సాధనాలు (Cosmetics)",
+     "మందు పూతలు (Ointments)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Soap",
+     "Cosmetics",
+     "Ointments",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సబ్బులు, సౌందర్య సాధనాలు మరియు మందు పూతల తయారీలో కొన్ని నూనె గింజలను ముడి పదార్థాలుగా ఉపయోగిస్తారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Some oil seeds are used as raw materials in making soap, cosmetics, and ointments."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T25-0161",
+   "section": {
+    "te": "Coffee variety origin",
+    "en": "Coffee variety origin"
+   },
+   "q": {
+    "te": "భారతదేశంలో ఉత్పత్తి చేయబడే 'అరబికా' రకం కాఫీని మొదట ఏ దేశం నుండి తీసుకువచ్చారు?",
+    "en": "The 'Arabica' variety of coffee produced in India was initially brought from which country?"
+   },
+   "options": {
+    "te": [
+     "యెమెన్",
+     "ఇథియోపియా",
+     "బ్రెజిల్",
+     "వియత్నాం"
+    ],
+    "en": [
+     "Yemen",
+     "Ethiopia",
+     "Brazil",
+     "Vietnam"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రపంచవ్యాప్తంగా మంచి డిమాండ్ ఉన్న అరబికా రకం కాఫీని మొదట యెమెన్ నుండి భారతదేశానికి తీసుకువచ్చారు.",
+    "en": "The Arabica variety of coffee, which is in great demand globally, was originally brought to India from Yemen."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T25-0227",
+   "section": {
+    "te": "Market Gardening Netherlands",
+    "en": "Market Gardening Netherlands"
+   },
+   "q": {
+    "te": "యూరప్‌లోని అన్ని ప్రధాన నగరాలకు విమానాల ద్వారా రవాణా చేయబడే పూలు, ఉద్యానవన పంటలు, ప్రత్యేకించి 'ట్యూలిప్' (Tulips) పూల సాగులో ప్రత్యేకత సాధించిన దేశం ఏది?",
+    "en": "Which country specialises in growing flowers and horticultural crops, especially tulips, which are flown to all major cities of Europe?"
+   },
+   "options": {
+    "te": [
+     "ఆస్ట్రియా",
+     "నెదర్లాండ్స్",
+     "కజకిస్తాన్",
+     "స్విట్జర్లాండ్"
+    ],
+    "en": [
+     "Austria",
+     "The Netherlands",
+     "Kazakhstan",
+     "Switzerland"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "నెదర్లాండ్స్ పూలు మరియు ఉద్యాన పంటల సాగులో, ప్రత్యేకించి ట్యూలిప్స్ పెంపకంలో ప్రత్యేకత కలిగి ఉంది.",
+    "en": "The Netherlands specialises in flowers and horticultural crops, particularly tulips, which are flown across Europe."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T25-0284",
+   "section": {
+    "te": "Global Rice Production",
+    "en": "Global Rice Production"
+   },
+   "q": {
+    "te": "2018 నాటికి ప్రపంచ వరి ఉత్పత్తిలో భారతదేశం ఎంత శాతం వాటాను కలిగి ఉంది?",
+    "en": "What was India's percentage contribution to world rice production in 2018?"
+   },
+   "options": {
+    "te": [
+     "11 శాతం",
+     "22.07 శాతం",
+     "25 శాతం",
+     "12.8 శాతం"
+    ],
+    "en": [
+     "11 per cent",
+     "22.07 per cent",
+     "25 per cent",
+     "12.8 per cent"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "2018లో భారతదేశం ప్రపంచంలోనే రెండవ అతిపెద్ద వరి ఉత్పత్తిదారుగా ఉంది, మొత్తం ఉత్పత్తిలో 22.07 శాతం వాటాను అందించింది.",
+    "en": "In 2018, India was the second-largest producer of rice in the world, contributing 22.07 per cent of the total production."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T25-0348",
+   "section": {
+    "te": "Land reforms implementation",
+    "en": "Land reforms implementation"
+   },
+   "q": {
+    "te": "క్రింద రెండు ప్రకటనలు ఇవ్వబడ్డాయి, ఒకటి నిశ్చితార్థం (A) మరియు రెండవది కారణం (R):\nనిశ్చితార్థం (A): స్వాతంత్ర్యం వచ్చిన తర్వాత భారతదేశంలో భూసంస్కరణలు సమర్థవంతంగా అమలు కాలేదు.\nకారణం (R): భూస్వాముల బలమైన రాజకీయ లాబీలకు వ్యతిరేకంగా కఠిన నిర్ణయాలు తీసుకోవడాన్ని చాలా రాష్ట్ర ప్రభుత్వాలు తప్పించుకున్నాయి.\nఈ ప్రకటనల సందర్భంలో, క్రింది వాటిలో ఏది సరైనది?",
+    "en": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R):\nAssertion (A): After Independence, land reforms were not implemented effectively in India.\nReason (R): Most state governments avoided taking politically tough decisions against strong political lobbies of landlords.\nIn the context of the statements, which of the following is correct?"
+   },
+   "options": {
+    "te": [
+     "(A) మరియు (R) రెండూ సరైనవి మరియు (A) కి (R) సరైన వివరణ",
+     "(A) మరియు (R) రెండూ సరైనవి కానీ (A) కి (R) సరైన వివరణ కాదు",
+     "(A) సరైనది కానీ (R) తప్పు",
+     "(A) తప్పు కానీ (R) సరైనది"
+    ],
+    "en": [
+     "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+     "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+     "(A) is true but (R) is false",
+     "(A) is false but (R) is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "బలమైన రాజకీయ సంకల్పం లోపించడం మరియు భూస్వామ్య లాబీలకు వ్యతిరేకంగా కఠిన నిర్ణయాలు తీసుకోకపోవడం వల్ల భూసంస్కరణలు సమర్థవంతంగా అమలు కాలేదు.",
+    "en": "Land reforms lacked effective implementation because state governments avoided politically tough decisions that went against the powerful landlord lobbies."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T25-0338",
+   "section": {
+    "te": "Agro-climatic planning year",
+    "en": "Agro-climatic planning year"
+   },
+   "q": {
+    "te": "దేశంలో ప్రాంతీయ సమతుల్య వ్యవసాయాభివృద్ధిని ప్రోత్సహించడానికి ప్రణాళికా సంఘం ఏ సంవత్సరంలో వ్యవసాయ-వాతావరణ ప్రణాళికను (Agro-climatic planning) ప్రారంభించింది?",
+    "en": "In which year did the Planning Commission of India initiate agro-climatic planning to induce regionally balanced agricultural development?"
+   },
+   "options": {
+    "te": [
+     "1988",
+     "1991",
+     "1982",
+     "1978"
+    ],
+    "en": [
+     "1988",
+     "1991",
+     "1982",
+     "1978"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "దేశంలో ప్రాంతీయంగా సమతుల్యమైన వ్యవసాయ అభివృద్ధిని సాధించేందుకు ప్రణాళికా సంఘం 1988లో వ్యవసాయ-వాతావరణ ప్రణాళికను చేపట్టింది.",
+    "en": "The Planning Commission initiated agro-climatic planning in 1988 to promote regionally balanced agricultural development."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T25-0202",
+   "section": {
+    "te": "Intensive Subsistence Productivity",
+    "en": "Intensive Subsistence Productivity"
+   },
+   "q": {
+    "te": "వరి పంట ప్రాధాన్యత కలిగిన సాంద్ర జీవనాధార వ్యవసాయంలో ఉత్పాదకతకు సంబంధించి క్రింది వాటిలో ఏది సరైనది?",
+    "en": "In intensive subsistence agriculture dominated by wet paddy cultivation, which of the following is true regarding its productivity?"
+   },
+   "options": {
+    "te": [
+     "యూనిట్ వైశాల్యానికి దిగుబడి తక్కువ, కానీ శ్రామిక ఉత్పాదకత ఎక్కువ",
+     "యూనిట్ వైశాల్యానికి దిగుబడి ఎక్కువ, కానీ శ్రామిక ఉత్పాదకత తక్కువ",
+     "యూనిట్ వైశాల్యానికి దిగుబడి మరియు శ్రామిక ఉత్పాదకత రెండూ ఎక్కువే",
+     "యూనిట్ వైశాల్యానికి దిగుబడి మరియు శ్రామిక ఉత్పాదకత రెండూ తక్కువే"
+    ],
+    "en": [
+     "Yield per unit area is low, but per labour productivity is high",
+     "Yield per unit area is high, but per labour productivity is low",
+     "Both yield per unit area and per labour productivity are high",
+     "Both yield per unit area and per labour productivity are low"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఈ తరహా వ్యవసాయంలో విస్తీర్ణ పరంగా (యూనిట్ వైశాల్యానికి) దిగుబడి ఎక్కువగా ఉంటుంది, కానీ శ్రామికుల పరంగా ఉత్పాదకత తక్కువగా ఉంటుంది.",
+    "en": "In intensive subsistence agriculture dominated by wet paddy cultivation, the yield per unit area is high but per labour productivity is low."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T25-0017",
+   "section": {
+    "te": "Agricultural Transport",
+    "en": "Agricultural Transport"
+   },
+   "q": {
+    "te": "కాశ్మీర్‌లోని ఏ సరస్సులో కూరగాయల రవాణా సాధారణంగా కనిపిస్తుంది?",
+    "en": "In which lake of Kashmir is the transportation of vegetables commonly seen?"
+   },
+   "options": {
+    "te": [
+     "వూలర్ సరస్సు",
+     "పాంగాంగ్ సరస్సు",
+     "చిలికా సరస్సు",
+     "దాల్ సరస్సు"
+    ],
+    "en": [
+     "Wular Lake",
+     "Pangong Lake",
+     "Chilika Lake",
+     "Dal Lake"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "కాశ్మీర్‌లోని దాల్ సరస్సుపై కూరగాయల రవాణా జరుగుతుందని పాఠంలో పేర్కొన్నారు.",
+    "en": "The transportation of vegetables on the Dal Lake in Kashmir."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T25-0237",
+   "section": {
+    "te": "Non-Agricultural Land Uses",
+    "en": "Non-Agricultural Land Uses"
+   },
+   "q": {
+    "te": "ద్వితీయ మరియు తృతీయ రంగాల ఆర్థిక కార్యకలాపాల విస్తరణ నేరుగా క్రింది ఏ భూవినియోగ వర్గం పెరగడానికి దారితీస్తుంది?",
+    "en": "An expansion in secondary and tertiary economic activities directly leads to an increase in which of the following land-use categories?"
+   },
+   "options": {
+    "te": [
+     "సాగుయోగ్యమైన వ్యర్థ భూమి",
+     "వ్యవసాయేతర ఉపయోగాలకు కేటాయించిన భూమి",
+     "వివిధ రకాల చెట్ల పంటలు మరియు తోటల క్రింద ఉన్న భూమి",
+     "ప్రస్తుత బీడు భూమి"
+    ],
+    "en": [
+     "Culturable Wasteland",
+     "Land put to Non-agricultural Uses",
+     "Area under Miscellaneous Tree Crops",
+     "Current Fallow"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ద్వితీయ, తృతీయ రంగాలు విస్తరించినప్పుడు పరిశ్రమలు, దుకాణాలు, రవాణా అవసరాలు పెరిగి 'వ్యవసాయేతర ఉపయోగాలకు కేటాయించిన భూమి' విస్తీర్ణం పెరుగుతుంది.",
+    "en": "Land under settlements, infrastructure, industries, and shops falls under 'Land put to Non-agricultural Uses', which increases with expanding secondary and tertiary activities."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T25-0053",
+   "section": {
+    "te": "Drip irrigation alias",
+    "en": "Drip irrigation alias"
+   },
+   "q": {
+    "te": "ఏ ఆధునిక నీటిపారుదల పద్ధతిని 'ట్రికిల్ ఇరిగేషన్' (trickle irrigation) అని కూడా పిలుస్తారు?",
+    "en": "Which modern irrigation method is also known as 'trickle irrigation'?"
+   },
+   "options": {
+    "te": [
+     "కాలువ నీటిపారుదల (Canal irrigation)",
+     "ఫాద్ వ్యవస్థ (Phad system)",
+     "బిందు సేద్యం (Drip irrigation)",
+     "తుంపర సేద్యం (Sprinkler irrigation)"
+    ],
+    "en": [
+     "Canal irrigation",
+     "Phad system",
+     "Drip irrigation",
+     "Sprinkler irrigation"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "బిందు సేద్యాన్ని (Drip irrigation) 'ట్రికిల్ ఇరిగేషన్' అని కూడా పిలుస్తారు, ఇది మొక్కల వేర్లకు నేరుగా నీటిని నెమ్మదిగా అందిస్తుంది.",
+    "en": "Drip irrigation is also known as trickle irrigation because it delivers water slowly and directly to the plant's roots."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T25-0057",
+   "section": {
+    "te": "Indian seed drill",
+    "en": "Indian seed drill"
+   },
+   "q": {
+    "te": "పురాతన భారతీయ విత్తన గొర్రు (seed drill) ఒక అద్భుతమైన ఆవిష్కరణగా పరిగణించబడింది, ఎందుకంటే ఇది ఈ క్రింది ఏ పనులను ఒకటిగా కలిపింది?",
+    "en": "The ancient Indian seed drill was considered an ingenious invention because it combined which of the following operations into one?"
+   },
+   "options": {
+    "te": [
+     "నేల తయారీ మరియు విత్తనాలు నాటడం మాత్రమే",
+     "విత్తనాలు నాటడం మరియు చాలును (furrow) మూసివేయడం మాత్రమే",
+     "నేల తయారీ, విత్తనాలు నాటడం మరియు చాలును మూసివేయడం",
+     "నేల తయారీ, నీటి పారుదల మరియు విత్తనాలు నాటడం"
+    ],
+    "en": [
+     "Soil preparation and seed planting only",
+     "Seed planting and closing of the furrow only",
+     "Soil preparation, seed planting, and closing of the furrow",
+     "Soil preparation, irrigation, and seed planting"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతీయ విత్తన గొర్రు నేల తయారీ, విత్తనాలు నాటడం మరియు చాలును మూసివేయడం వంటి పనులను ఒకేసారి చేసేది, దీనివల్ల మూడు దశల పని ఒకే దశకు తగ్గింది.",
+    "en": "The Indian seed drill performed soil preparation, seed planting, and closing the furrow simultaneously, reducing labor from a three-step to a one-step operation."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T25-0221",
+   "section": {
+    "te": "Dairy Farming Features",
+    "en": "Dairy Farming Features"
+   },
+   "q": {
+    "te": "పంటల సాగు వలె కాకుండా, సంవత్సరం పొడుగునా ఎటువంటి 'ఆఫ్ సీజన్' (విరామ కాలం) ఉండని వ్యవసాయ విధానం ఏది?",
+    "en": "Which of the following types of farming is characterized by having 'no off season' during the year, unlike crop raising?"
+   },
+   "options": {
+    "te": [
+     "పాడి వ్యవసాయం (డైరీ ఫార్మింగ్)",
+     "మధ్యధరా వ్యవసాయం",
+     "ప్రాచీన జీవనాధార వ్యవసాయం",
+     "విస్తృత వాణిజ్య ధాన్య వ్యవసాయం"
+    ],
+    "en": [
+     "Dairy farming",
+     "Mediterranean agriculture",
+     "Primitive subsistence agriculture",
+     "Extensive commercial grain farming"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాడి వ్యవసాయంలో పశువులకు దాణా వేయడం, పాలు పితకడం వంటి నిరంతర పనులు ఉంటాయి కాబట్టి, పంటల సాగులాగా ఇందులో సంవత్సరం పొడుగునా విరామ కాలం (ఆఫ్ సీజన్) ఉండదు.",
+    "en": "Dairy farming involves continuous and rigorous care in feeding and milching animals, meaning there is no off season during the year unlike crop cultivation."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T25-0071",
+   "section": {
+    "te": "Ancient seed prep (Cotton)",
+    "en": "Ancient seed prep (Cotton)"
+   },
+   "q": {
+    "te": "అర్థశాస్త్రం ప్రకారం, పత్తి విత్తనాలను నాటడానికి ముందు దేనితో పూయాలి?",
+    "en": "According to the Arthaśhāstra, cotton seeds should be smeared with which of the following before planting?"
+   },
+   "options": {
+    "te": [
+     "తేనె",
+     "పంది కొవ్వు",
+     "నెయ్యి",
+     "ఆవు పేడ"
+    ],
+    "en": [
+     "Honey",
+     "Lard",
+     "Ghee",
+     "Cow dung"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పత్తి విత్తనాలను సిద్ధం చేయడానికి వాటికి ఆవు పేడను పూయాలని అర్థశాస్త్రం ప్రత్యేకంగా పేర్కొంది.",
+    "en": "The Arthaśhāstra specifically mentions that cotton seeds are to be smeared with cow dung for preparation."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T25-0156",
+   "section": {
+    "te": "Oil seeds cropped area",
+    "en": "Oil seeds cropped area"
+   },
+   "q": {
+    "te": "భారతదేశంలోని మొత్తం సాగు విస్తీర్ణంలో సుమారు ఎంత శాతం వివిధ నూనె గింజల సాగు కింద ఉంది?",
+    "en": "Approximately what percentage of the total cropped area of India is covered by different oil seeds?"
+   },
+   "options": {
+    "te": [
+     "12 శాతం",
+     "25 శాతం",
+     "5 శాతం",
+     "20 శాతం"
+    ],
+    "en": [
+     "12 per cent",
+     "25 per cent",
+     "5 per cent",
+     "20 per cent"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భారతదేశంలోని మొత్తం సాగు విస్తీర్ణంలో సుమారు 12 శాతం వివిధ నూనె గింజల సాగు కింద ఉందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Various oil seeds cover about 12% of the total cropped area in India."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T25-0039",
+   "section": {
+    "te": "Rabi crops",
+    "en": "Rabi crops"
+   },
+   "q": {
+    "te": "క్రింది పంటలను పరిశీలించండి:\n1. బార్లీ\n2. శనగలు (Gram)\n3. ఆవాలు (Mustard)\nపాఠ్యపుస్తకం ప్రకారం పైవాటిలో ఏవి రబీ పంటలుగా వర్గీకరించబడ్డాయి?",
+    "en": "Consider the following crops:\n1. Barley\n2. Gram\n3. Mustard\nWhich of the above are classified as rabi crops in the textbook?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యపుస్తకం ప్రకారం బఠానీలు, శనగలు, బార్లీ, గోధుమలు మరియు ఆవాలు రబీ పంటలు.",
+    "en": "Rabi crops listed in the text include peas, gram, barley, wheat, and mustard."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T25-0069",
+   "section": {
+    "te": "Seed drill efficiency",
+    "en": "Seed drill efficiency"
+   },
+   "q": {
+    "te": "భారతీయ విత్తన గొర్రు వాడకం వల్ల ఎన్ని వేర్వేరు పనులు ఒకటిగా కలిసి శ్రమ తగ్గింది?",
+    "en": "The use of the Indian seed drill reduced labor by combining how many separate operations into one?"
+   },
+   "options": {
+    "te": [
+     "రెండు",
+     "ఐదు",
+     "మూడు",
+     "నాలుగు"
+    ],
+    "en": [
+     "Two",
+     "Five",
+     "Three",
+     "Four"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "విత్తన గొర్రు నేల తయారీ, విత్తడం మరియు చాలును మూసివేయడం అనే మూడు వేర్వేరు దశలను ఒకటిగా కలిపింది.",
+    "en": "The seed drill combined soil preparation, planting, and furrow closing, which were originally three separate steps."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T25-0277",
+   "section": {
+    "te": "Agricultural Technology",
+    "en": "Agricultural Technology"
+   },
+   "q": {
+    "te": "నిశ్చయం (A): భూ వినియోగ తీవ్రతను పెంచడం భారతదేశానికి ఆవశ్యకమైన భూమిని ఆదా చేసే సాంకేతికత.\nకారణం (R): ఇది యూనిట్ విస్తీర్ణంలో మొత్తం ఉత్పత్తిని పెంచుతుంది మరియు శ్రమకు డిమాండ్‌ను గణనీయంగా పెంచుతుంది.",
+    "en": "Assertion (A): Increasing land-use intensity is a desirable land-saving technology for India.\nReason (R): It increases the total output per unit area and significantly increases the demand for labour."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ సరైనవి మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ సరైనవి కానీ A కి R సరైన వివరణ కాదు",
+     "A సరైనది కానీ R తప్పు",
+     "A తప్పు కానీ R సరైనది"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూ వినియోగ తీవ్రతను పెంచడం వల్ల ఉత్పత్తి మరియు శ్రమకు డిమాండ్ పెరుగుతుందని, ఇది భారతదేశం వంటి శ్రమ అధికంగా ఉన్న దేశానికి చాలా ముఖ్యమని పాఠ్య భాగం పేర్కొంది.",
+    "en": "Increasing land-use intensity is desirable because it increases output and labour demand, which is crucial for a labour-abundant country like India."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T25-0333",
+   "section": {
+    "te": "Post-Independence Strategy",
+    "en": "Post-Independence Strategy"
+   },
+   "q": {
+    "te": "స్వాతంత్య్రం వచ్చిన వెంటనే ఆహార ధాన్యాల ఉత్పత్తిని పెంచడానికి ప్రభుత్వం చేపట్టిన తక్షణ వ్యూహాలలో క్రింది వాటిలో లేనిది (NOT) ఏది?",
+    "en": "Which of the following was NOT among the immediate strategies adopted by the Government after Independence to increase foodgrains production?"
+   },
+   "options": {
+    "te": [
+     "వాణిజ్య పంటల నుండి ఆహార పంటల సాగుకు మారడం",
+     "సాగుయోగ్యమైన మరియు బీడు భూములను నాగలి కిందకు తేవడం (సాగులోకి తేవడం)",
+     "ఇప్పటికే సాగులో ఉన్న భూమిపై పంటల సాంద్రతను పెంచడం",
+     "భారీ అటవీ ప్రాంతాలను వ్యవసాయ భూములుగా మార్చడం"
+    ],
+    "en": [
+     "Switching over from cash crops to food crops",
+     "Increasing cultivated area by bringing cultivable and fallow land under plough",
+     "Intensification of cropping over already cultivated land",
+     "Converting large forest tracts into agricultural land"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వాణిజ్య పంటలను ఆహార పంటలుగా మార్చడం, సాగు తీవ్రతను పెంచడం, బీడు భూములను సాగులోకి తేవడం ప్రభుత్వ వ్యూహాలు; అటవీ ప్రాంతాలను వ్యవసాయ భూములుగా మార్చడం కాదు.",
+    "en": "The three strategies mentioned were: switching from cash to food crops, intensification of cropping, and bringing cultivable fallow land under plough. Converting forests was not a strategy."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T25-0004",
+   "section": {
+    "te": "History of Rice Cultivation",
+    "en": "History of Rice Cultivation"
+   },
+   "q": {
+    "te": "భారతదేశంలోని ఏ ప్రాంతంలో క్రీస్తుపూర్వం 7వ లేదా 8వ సహస్రాబ్ది నాటికే వరి ధాన్యాలు ఉన్నట్లు పురావస్తు పరిశోధనలు వెల్లడించాయి?",
+    "en": "In which region of India has the presence of rice grains been found as early as the 7th or 8th millennium BCE?"
+   },
+   "options": {
+    "te": [
+     "గంగా మైదానం",
+     "బ్రహ్మపుత్ర లోయ",
+     "దక్కన్ పీఠభూమి",
+     "సింధు లోయ"
+    ],
+    "en": [
+     "Ganga Plain",
+     "Brahmaputra Valley",
+     "Deccan Plateau",
+     "Indus Valley"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పురావస్తు ఆధారాల ప్రకారం క్రీస్తుపూర్వం 7వ లేదా 8వ సహస్రాబ్దిలో గంగా మైదానంలో వరి ధాన్యాలు ఉన్నట్లు తెలుస్తోంది.",
+    "en": "Archaeological evidence indicates that rice grains were present in the Ganga Plain during the 7th or 8th millennium BCE."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T25-0192",
+   "section": {
+    "te": "Monsoon and Agriculture",
+    "en": "Monsoon and Agriculture"
+   },
+   "q": {
+    "te": "భారతదేశపు మొత్తం వ్యవసాయ చక్రం ఏ రుతుపవనం చుట్టూ తిరుగుతుంది మరియు భారత వ్యవసాయం ప్రాథమికంగా దేనిపై ఆధారపడి ఉంది?",
+    "en": "On which of the following is Indian agriculture fundamentally based, serving as the axis around which the entire agricultural cycle revolves?"
+   },
+   "options": {
+    "te": [
+     "పశ్చిమ విక్షోభాలు",
+     "తిరోగమన రుతుపవనాలు",
+     "ఈశాన్య రుతుపవనాలు",
+     "నైరుతి రుతుపవనాలు"
+    ],
+    "en": [
+     "Western disturbances",
+     "Retreating monsoon",
+     "Northeast monsoon",
+     "Southwest monsoon"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశ వ్యవసాయ చక్రం మొత్తం నైరుతి రుతుపవనాల ఆధారంగానే సాగుతుందని పాఠ్యాంశం స్పష్టం చేస్తోంది.",
+    "en": "Monsoon is the axis of the agricultural cycle because Indian agriculture itself is based on the southwest monsoon."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T25-0260",
+   "section": {
+    "te": "Net sown area past trend",
+    "en": "Net sown area past trend"
+   },
+   "q": {
+    "te": "ఇటీవల పెరగడానికి ముందు, భారతదేశంలో 'నికర సాగు విస్తీర్ణం' చూపిన చారిత్రక ధోరణి ఏమిటి?",
+    "en": "Prior to its recent increase, what historical trend was registered by the 'net area sown' in India?"
+   },
+   "options": {
+    "te": [
+     "అధిక కాలానుగుణ హెచ్చుతగ్గులు",
+     "పూర్తిగా స్థిరంగా ఉండటం",
+     "నెమ్మదిగా తగ్గుదల",
+     "వేగవంతమైన పెరుగుదల"
+    ],
+    "en": [
+     "High seasonal fluctuations",
+     "Remaining completely constant",
+     "A slow decrease",
+     "A rapid increase"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సాగుయోగ్యమైన బంజరు భూముల వినియోగం వల్ల ఇటీవల పెరగడానికి ముందు, నికర సాగు విస్తీర్ణం నెమ్మదిగా తగ్గుతూ వచ్చింది.",
+    "en": "Before the recent increase due to bringing culturable wasteland into cultivation, the net area sown had been registering a slow decrease."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T25-0032",
+   "section": {
+    "te": "Rainfall from both monsoons",
+    "en": "Rainfall from both monsoons"
+   },
+   "q": {
+    "te": "నైరుతి మరియు ఈశాన్య రుతుపవనాలు రెండింటి ద్వారా వర్షపాతం పొందే తీర మైదానాలు ఏవి?",
+    "en": "Which of the following coastal plains receive rainfall from both the southwest and northeast monsoons?"
+   },
+   "options": {
+    "te": [
+     "మలబార్ తీర మైదానాలు",
+     "కోరమాండల్ తీర మైదానాలు",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Malabar plains",
+     "Coromandel plains",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మలబార్ (కేరళ) మరియు కోరమాండల్ (తమిళనాడు) మైదానాలు నైరుతి మరియు ఈశాన్య రుతుపవనాలు రెండింటి ద్వారా వర్షాన్ని పొందుతాయి.",
+    "en": "Both the Malabar plains (Kerala) and Coromandel plains (Tamil Nadu) receive rain from both southwest and northeast monsoons."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T25-0329",
+   "section": {
+    "te": "Chemical Fertilizer Consumption",
+    "en": "Chemical Fertilizer Consumption"
+   },
+   "q": {
+    "te": "1960ల మధ్య కాలం నుండి భారతదేశంలో రసాయన ఎరువుల వినియోగం ఎన్ని రెట్లు పెరిగింది?",
+    "en": "Since the mid-1960s, the consumption of chemical fertilizers in India has increased by how many times?"
+   },
+   "options": {
+    "te": [
+     "5 రెట్లు",
+     "15 రెట్లు",
+     "10 రెట్లు",
+     "20 రెట్లు"
+    ],
+    "en": [
+     "5 times",
+     "15 times",
+     "10 times",
+     "20 times"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "1960ల మధ్య కాలం నుండి దేశంలో రసాయన ఎరువుల వినియోగం 15 రెట్లు పెరిగింది.",
+    "en": "Consumption of chemical fertilizers in India has increased by 15 times since the mid-1960s."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T25-0178",
+   "section": {
+    "te": "Rubber Regions",
+    "en": "Rubber Regions"
+   },
+   "q": {
+    "te": "దక్షిణ భారత రాష్ట్రాలు మరియు అండమాన్ నికోబార్ దీవులు కాకుండా, ఈ క్రింది ఏ కొండ ప్రాంతాలలో రబ్బరు ప్రధానంగా పండుతుంది?",
+    "en": "Apart from South Indian states and Andaman and Nicobar islands, in which of the following hilly regions is rubber mainly grown?"
+   },
+   "options": {
+    "te": [
+     "ఖాసీ కొండలు",
+     "నాగా కొండలు",
+     "జైంతియా కొండలు",
+     "గారో కొండలు"
+    ],
+    "en": [
+     "Khasi hills",
+     "Naga hills",
+     "Jaintia hills",
+     "Garo hills"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, దక్షిణ భారతదేశం మరియు అండమాన్ నికోబార్ దీవులతో పాటు మేఘాలయలోని గారో కొండలలో రబ్బరు పండుతుంది.",
+    "en": "Rubber is grown in the Garo hills of Meghalaya besides South India and Andaman and Nicobar islands."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T25-0092",
+   "section": {
+    "te": "Cropping seasons in India",
+    "en": "Cropping seasons in India"
+   },
+   "q": {
+    "te": "భారతదేశ విభిన్న వాతావరణాలు మరియు రుతుపవనాలతో ముడిపడి ఉన్న మూడు పంట కాలాలకు సంబంధించి కింది వాటిలో ఏది సరైన సమాధానం?",
+    "en": "Which of the following are the three cropping seasons connected with the diverse climates and monsoons in India?"
+   },
+   "options": {
+    "te": [
+     "ఖరీఫ్ మరియు రబీ",
+     "జైద్ మరియు పోడు",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Kharif and Rabi",
+     "Zaid and Podu",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశంలో మూడు పంట కాలాలు ఖరీఫ్, రబీ మరియు జైద్. పోడు అనేది పోడు వ్యవసాయ పద్ధతి మాత్రమే, పంట కాలం కాదు. కాబట్టి సరైన సమాధానం 'పైవేవీ కావు'.",
+    "en": "The three cropping seasons are kharif, rabi, and zaid. Podu is a form of shifting cultivation, not a cropping season."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T25-0200",
+   "section": {
+    "te": "Shifting Cultivation Alternative Name",
+    "en": "Shifting Cultivation Alternative Name"
+   },
+   "q": {
+    "te": "ప్రాథమిక జీవనాధార వ్యవసాయాన్ని (Primitive subsistence agriculture) క్రింది వాటిలో ఏ పేరుతో కూడా పిలుస్తారు?",
+    "en": "Primitive subsistence agriculture is also known by which of the following terms?"
+   },
+   "options": {
+    "te": [
+     "పోడు లేదా బదిలీ వ్యవసాయం (Shifting cultivation)",
+     "తోటల వ్యవసాయం",
+     "వాణిజ్య ఉద్యానవన వ్యవసాయం",
+     "సాంద్ర వ్యవసాయం"
+    ],
+    "en": [
+     "Shifting cultivation",
+     "Plantation farming",
+     "Commercial gardening",
+     "Intensive farming"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం ప్రాథమిక జీవనాధార వ్యవసాయాన్ని 'షిఫ్టింగ్ కల్టివేషన్' (పోడు వ్యవసాయం) అని కూడా అంటారు.",
+    "en": "Primitive subsistence agriculture as shifting cultivation."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T25-0336",
+   "section": {
+    "te": "Green Revolution requirement",
+    "en": "Green Revolution requirement"
+   },
+   "q": {
+    "te": "హరిత విప్లవం సమయంలో ప్రవేశపెట్టబడిన నూతన వ్యవసాయ సాంకేతికత విజయవంతం కావడానికి ప్రాథమిక ముందస్తు అవసరం ఏమిటి?",
+    "en": "What was the basic pre-requisite for the success of the new agricultural technology introduced during the Green Revolution?"
+   },
+   "options": {
+    "te": [
+     "కంబైన్ హార్వెస్టర్లతో భారీ యాంత్రీకరణ",
+     "రసాయన పురుగుమందులను పూర్తిగా తొలగించడం",
+     "50 హెక్టార్ల కంటే ఎక్కువ విస్తీర్ణంలో ఉన్న భారీ కమతాలు",
+     "నీటిపారుదల ద్వారా నేలలో తేమ లభ్యతను నిర్ధారించడం"
+    ],
+    "en": [
+     "Heavy mechanisation with combine harvesters",
+     "Complete elimination of chemical pesticides",
+     "Large contiguous landholdings above 50 hectares",
+     "Assured supply of soil moisture through irrigation"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఈ నూతన వ్యవసాయ సాంకేతికత విజయవంతం కావడానికి నీటిపారుదల ద్వారా నేలలో తేమ నిరంతరం ఉండేలా చూసుకోవడం ప్రాథమిక అవసరం.",
+    "en": "An assured supply of soil moisture through irrigation was a basic pre-requisite for the success of this new agricultural technology."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T25-0147",
+   "section": {
+    "te": "Pulses nitrogen fixation",
+    "en": "Pulses nitrogen fixation"
+   },
+   "q": {
+    "te": "ఈ క్రింది లెగ్యుమినస్ పంటలలో ఏది గాలి నుండి నత్రజనిని గ్రహించి నేల సారవంతాన్ని పునరుద్ధరించడానికి సహాయపడదు?",
+    "en": "Which of the following leguminous crops does NOT help in restoring soil fertility by fixing nitrogen from the air?"
+   },
+   "options": {
+    "te": [
+     "మసూర్ (Masur)",
+     "పెసలు (Moong)",
+     "కందులు (Arhar)",
+     "మినుములు (Urad)"
+    ],
+    "en": [
+     "Masur",
+     "Moong",
+     "Arhar",
+     "Urad"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "చాలా పప్పుధాన్యాలు లెగ్యుమినస్ జాతికి చెందినవి మరియు నేల సారాన్ని పెంచడానికి నత్రజనిని స్థాపిస్తాయి, అయితే కందులు (అర్హర్) దీనికి మినహాయింపు అని పాఠ్యభాగంలో పేర్కొనబడింది.",
+    "en": "While most pulses are leguminous and fix nitrogen to restore soil fertility, arhar (tur) is the exception mentioned in the text."
+   }
+  }
+ ]
+}

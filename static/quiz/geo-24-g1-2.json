@@ -1,0 +1,942 @@
+{
+ "id": "geo-24-g1-2",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Urbanisation – క్విజ్ 2",
+  "en": "Urbanisation – Quiz 2"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T24-0001",
+   "section": {
+    "te": "India's financial centre",
+    "en": "India's financial centre"
+   },
+   "q": {
+    "te": "పశ్చిమ తీరంలో ఉన్న ఏ నగరం భారతదేశపు ఆర్థిక కేంద్రంగా ప్రసిద్ధి చెందింది?",
+    "en": "Which city located on the west coast is known as India's financial centre?"
+   },
+   "options": {
+    "te": [
+     "చెన్నై",
+     "సూరత్",
+     "ముంబై",
+     "కోల్‌కతా"
+    ],
+    "en": [
+     "Chennai",
+     "Surat",
+     "Mumbai",
+     "Kolkata"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వనరు ప్రకారం, పశ్చిమ తీరాన ఉన్న ముంబై నగరం భారతదేశపు ఆర్థిక కేంద్రం.",
+    "en": "Mumbai, located on the west coast, is India's financial centre."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T24-0092",
+   "section": {
+    "te": "Settlement Characteristics",
+    "en": "Settlement Characteristics"
+   },
+   "q": {
+    "te": "గ్రామీణ మరియు పట్టణ నివాసాలకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. గ్రామీణ నివాసాలు ద్వితీయ మరియు తృతీయ కార్యకలాపాలలో నైపుణ్యం కలిగి ఉంటాయి.\n2. పట్టణ నివాసాలు సాధారణంగా పెద్దవిగా మరియు దగ్గరదగ్గరగా ఉంటాయి.\n3. గ్రామీణ నివాసాలు తక్కువ సాంద్రతతో మరియు చిన్నవిగా ఉంటాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding rural and urban settlements:\n1. Rural settlements specialize in secondary and tertiary activities.\n2. Urban settlements are generally larger and closely spaced.\n3. Rural settlements are sparsely located and small.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "గ్రామీణ నివాసాలు వ్యవసాయం వంటి ప్రాథమిక కార్యకలాపాలలో నైపుణ్యం కలిగి ఉంటాయి కాబట్టి ప్రకటన 1 తప్పు. ప్రకటనలు 2 మరియు 3 మూల పాఠ్యం ప్రకారం సరైనవి.",
+    "en": "Statement 1 is incorrect because rural settlements specialize in primary activities like agriculture. Statements 2 and 3 are correct as per the source."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T24-0009",
+   "section": {
+    "te": "Urban population projections",
+    "en": "Urban population projections"
+   },
+   "q": {
+    "te": "జనాభా పోకడలకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఐక్యరాజ్యసమితి అంచనాల ప్రకారం, 2050 నాటికి ప్రపంచ జనాభాలో 68 శాతం మంది నగరాల్లో నివసిస్తారు.\n2. భారతదేశంలో పట్టణ జనాభా 1951 లో 17 శాతం నుండి 2025 నాటికి సుమారు 40 శాతానికి పెరిగింది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements based on demographic trends:\n1. According to the United Nations' estimates, 68 per cent of the world's population will be living in cities by 2050.\n2. In India, the urban population has grown from 17 per cent in 1951 to around 40 per cent in 2025.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రెండు ప్రకటనలూ సరైనవే. ఐరాస ప్రకారం 2050 నాటికి ప్రపంచంలో 68% నగరాల్లో ఉంటారు; భారతదేశంలో పట్టణ జనాభా 1951లో 17% నుండి 2025 నాటికి దాదాపు 40%కి చేరింది.",
+    "en": "Both statements are direct facts from the text. UN estimates project 68% world urban population by 2050, and India's urban share rose from 17% in 1951 to around 40% in 2025."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T24-0035",
+   "section": {
+    "te": "Bengaluru Lake Depletion",
+    "en": "Bengaluru Lake Depletion"
+   },
+   "q": {
+    "te": "వేగవంతమైన పట్టణీకరణ కారణంగా, బెంగళూరులోని సరస్సుల సంఖ్య సుమారు 1,000 నుండి ఎంతకు తగ్గింది?",
+    "en": "Due to rapid urbanisation, the number of lakes in Bengaluru has reduced from approximately 1,000 to about how many?"
+   },
+   "options": {
+    "te": [
+     "200",
+     "100",
+     "50",
+     "500"
+    ],
+    "en": [
+     "200",
+     "100",
+     "50",
+     "500"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పట్టణీకరణ కారణంగా బెంగళూరు సరస్సులు సుమారు 1,000 నుండి 200కి తగ్గాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Bengaluru's lakes decreased from around 1,000 to about 200 due to urbanisation."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T24-0020",
+   "section": {
+    "te": "Historical development of Delhi",
+    "en": "Historical development of Delhi"
+   },
+   "q": {
+    "te": "ఢిల్లీ చారిత్రక అభివృద్ధికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఈ నగరం కాంస్య యుగం (Bronze Age) నుండి సంస్కృతి, వాణిజ్యం మరియు పరిపాలనా కేంద్రంగా వర్ధిల్లింది.\n2. బ్రిటిష్ వారు తమ భారత సామ్రాజ్యానికి కొత్త రాజధానిని నిర్మించి, రైల్వేలు మరియు విద్యుత్తును ప్రవేశపెట్టారు.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "With reference to the historical development of Delhi, consider the following statements:\n1. The city has thrived as a centre of culture, trade, and administration from the Bronze Age.\n2. The British built a new capital for their Indian empire and introduced railways and electricity.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఢిల్లీ ఇనుప యుగం (Iron Age) నుండి సంస్కృతి, వాణిజ్యం మరియు పరిపాలనా కేంద్రంగా వర్ధిల్లింది, కాబట్టి ప్రకటన 1 తప్పు. ప్రకటన 2 సరైనది.",
+    "en": "Statement 1 is incorrect because Delhi has thrived as a centre of culture, trade, and administration from the Iron Age, not the Bronze Age. Statement 2 is correct."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T24-0051",
+   "section": {
+    "te": "Jaipur Aesthetics",
+    "en": "Jaipur Aesthetics"
+   },
+   "q": {
+    "te": "ఏకరీతి రూపాన్ని సృష్టించడానికి జైపూర్‌లోని ప్రధాన వీధుల వెంబడి ఉన్న భవనాల కోసం ఏ నిర్దిష్ట పదార్థాన్ని ఉపయోగించారు?",
+    "en": "Which specific material was used for buildings along major streets in Jaipur to create a uniform appearance?"
+   },
+   "options": {
+    "te": [
+     "గులాబీ రంగు ఇసుక రాయి (pink sandstone)",
+     "తెల్లటి సున్నపురాయి",
+     "ఎరుపు రంగు మార్బుల్",
+     "పసుపు రంగు గ్రానైట్"
+    ],
+    "en": [
+     "Pink sandstone",
+     "White limestone",
+     "Red marble",
+     "Yellow granite"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రధాన వీధుల వెంబడి ఉన్న భవనాల కోసం గులాబీ రంగు ఇసుక రాయిని ఉపయోగించారు, ఇది జైపూర్‌కు ఏకరీతి రూపాన్ని మరియు 'పింక్ సిటీ' అనే పేరును ఇచ్చింది.",
+    "en": "Pink sandstone was used for buildings along major streets, giving Jaipur its uniform look and the name 'Pink City'."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T24-0074",
+   "section": {
+    "te": "Urban Settlement Patterns",
+    "en": "Urban Settlement Patterns"
+   },
+   "q": {
+    "te": "పట్టణ నివాసాలలో, 'క్రాస్-రోడ్ టౌన్' (cross-road town) సాధారణంగా ఏ నమూనాను కలిగి ఉంటుంది?",
+    "en": "In an urban settlement, what pattern does a 'cross-road town' typically assume?"
+   },
+   "options": {
+    "te": [
+     "వృత్తాకార నమూనా (Circular pattern)",
+     "విసనకర్ర ఆకారం (Fan-shaped pattern)",
+     "నోడల్ నమూనా (Nodal pattern)",
+     "రేఖీయ నమూనా (Linear pattern)"
+    ],
+    "en": [
+     "Circular pattern",
+     "Fan-shaped pattern",
+     "Nodal pattern",
+     "Linear pattern"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పట్టణ ప్రాంతంలో క్రాస్-రోడ్ టౌన్ విసనకర్ర ఆకారాన్ని (fan-shaped) కలిగి ఉంటుంది, ఇక్కడ ఇళ్ళు రోడ్డు పక్కన అమర్చబడి ఉంటాయి.",
+    "en": "A cross-road town in an urban setting assumes a fan-shaped pattern where houses are along the roadside and the crossing is the heart of the town."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T24-0095",
+   "section": {
+    "te": "Rural-Urban Functional Relationship",
+    "en": "Rural-Urban Functional Relationship"
+   },
+   "q": {
+    "te": "ప్రతిపాదన (A): నగరాలు వాటి పరిసర గ్రామీణ ప్రాంతాలకు (hinterlands) ఆర్థిక వృద్ధి కేంద్రాలుగా పనిచేస్తాయి.\nకారణం (R): పట్టణ ప్రాంతాలు వస్తువులు మరియు సేవలను అందిస్తాయి, దానికి బదులుగా గ్రామీణ ప్రాంతాల నుండి ఆహారం మరియు ముడి పదార్థాలను పొందే క్రియాత్మక సంబంధం ఉంది.",
+    "en": "Assertion (A): Cities act as nodes of economic growth for their hinterlands.\nReason (R): There is a functional relationship where urban areas provide goods and services in return for food and raw materials from rural areas."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ.",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు.",
+     "A నిజం కానీ R తప్పు.",
+     "A తప్పు కానీ R నిజం."
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A.",
+     "Both A and R are true but R is not the correct explanation of A.",
+     "A is true but R is false.",
+     "A is false but R is true."
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నగరాలు ఆర్థిక కేంద్రాలుగా పనిచేస్తాయి ఎందుకంటే అవి గ్రామీణ ప్రాంతాల్లో ఉత్పత్తి అయ్యే ఆహారం మరియు ముడి పదార్థాలకు బదులుగా వస్తువులను మరియు సేవలను అందిస్తాయి.",
+    "en": "Cities serve as economic nodes because they exchange goods and services for the food and raw materials produced in rural hinterlands."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T24-0015",
+   "section": {
+    "te": "Jamshedpur naming year",
+    "en": "Jamshedpur naming year"
+   },
+   "q": {
+    "te": "సాక్షి (Sakchi) గ్రామం ఏ సంవత్సరంలో జంషెడ్‌పూర్‌గా పేరు మార్చబడింది?",
+    "en": "In which year was the village of Sakchi renamed as Jamshedpur?"
+   },
+   "options": {
+    "te": [
+     "1924",
+     "1919",
+     "1911",
+     "1947"
+    ],
+    "en": [
+     "1924",
+     "1919",
+     "1911",
+     "1947"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సాక్షి అనే చిన్న గ్రామం రద్దీగా ఉండే నగరంగా ఎదిగి, 1919 లో జంషెడ్‌పూర్‌గా పేరు మార్చబడింది.",
+    "en": "Sakchi grew from a small village into a bustling city and was renamed Jamshedpur in 1919."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T24-0124",
+   "section": {
+    "te": "20th Century Urban Growth",
+    "en": "20th Century Urban Growth"
+   },
+   "q": {
+    "te": "ఇరవయ్యవ శతాబ్దంలో భారతదేశ మొత్తం పట్టణ జనాభా ఎన్ని రెట్లు పెరిగింది?",
+    "en": "During the twentieth century, by how many times did the total urban population of India increase?"
+   },
+   "options": {
+    "te": [
+     "పదకొండు రెట్లు",
+     "ఐదు రెట్లు",
+     "ఎనిమిది రెట్లు",
+     "పదిహేను రెట్లు"
+    ],
+    "en": [
+     "Eleven-fold",
+     "Five-fold",
+     "Eight-fold",
+     "Fifteen-fold"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఇరవయ్యవ శతాబ్దంలో భారతదేశ మొత్తం పట్టణ జనాభా పదకొండు రెట్లు పెరిగిందని పాఠ్యాంశంలో స్పష్టంగా పేర్కొనబడింది.",
+    "en": "Total urban population has increased eleven-fold during the twentieth century."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T24-0107",
+   "section": {
+    "te": "Hamleted settlement units",
+    "en": "Hamleted settlement units"
+   },
+   "q": {
+    "te": "స్థానికంగా 'పన్నా', 'పారా', 'పల్లి', 'నగ్లా' మరియు 'ధాని' అని పిలువబడే విభాగాలు ఏ రకమైన గ్రామీణ నివాసాలతో సంబంధం కలిగి ఉన్నాయి?",
+    "en": "Units locally known as 'Panna', 'Para', 'Palli', 'Nagla', and 'Dhani' are associated with which type of rural settlement?"
+   },
+   "options": {
+    "te": [
+     "కుగ్రామ నివాసాలు (హామ్లెటెడ్ సెటిల్‌మెంట్స్)",
+     "చెల్లాచెదురైన నివాసాలు (డిస్పర్స్‌డ్ సెటిల్‌మెంట్స్)",
+     "కేంద్రీకృత నివాసాలు (క్లస్టర్డ్ సెటిల్‌మెంట్స్)",
+     "వివిక్త నివాసాలు (ఐసోలేటెడ్ సెటిల్‌మెంట్స్)"
+    ],
+    "en": [
+     "Hamleted settlements",
+     "Dispersed settlements",
+     "Clustered settlements",
+     "Isolated settlements"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "కుగ్రామ నివాసాలలో (హామ్లెటెడ్ సెటిల్‌మెంట్స్) ఉమ్మడి పేరు కలిగి భౌతికంగా వేరు చేయబడిన విభాగాలను స్థానికంగా పన్నా, పారా, పల్లి, నగ్లా, ధాని అని పిలుస్తారు.",
+    "en": "In hamleted settlements, the fragmented units physically separated from each other bearing a common name are locally called panna, para, palli, nagla, dhani, etc."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T24-0029",
+   "section": {
+    "te": "Pradhanmantri Sangrahalay",
+    "en": "Pradhanmantri Sangrahalay"
+   },
+   "q": {
+    "te": "భారత ప్రధాన మంత్రుల కథను మరియు దేశాభివృద్ధికి వారు చేసిన కృషిని వివరించడానికి న్యూఢిల్లీలోని ఏ సంస్థ అంకితం చేయబడింది?",
+    "en": "Which institution in New Delhi is dedicated to telling the story of India's Prime Ministers and their contributions?"
+   },
+   "options": {
+    "te": [
+     "విక్టోరియా మెమోరియల్",
+     "నేషనల్ కల్చరల్ సెంటర్",
+     "ఇండియన్ మ్యూజియం",
+     "ప్రధానమంత్రి సంగ్రహాలయ"
+    ],
+    "en": [
+     "Victoria Memorial",
+     "National Cultural Centre",
+     "Indian Museum",
+     "Pradhanmantri Sangrahalay"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "న్యూఢిల్లీలోని ప్రధానమంత్రి సంగ్రహాలయ భారత ప్రధాన మంత్రుల చరిత్ర మరియు వారి సహకారాన్ని నమోదు చేస్తుంది.",
+    "en": "The Pradhanmantri Sangrahalay in New Delhi documents the history and contributions of India's Prime Ministers."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T24-0089",
+   "section": {
+    "te": "Rural Population Percentage",
+    "en": "Rural Population Percentage"
+   },
+   "q": {
+    "te": "2011 జనాభా లెక్కల ప్రకారం, భారతదేశ మొత్తం జనాభాలో ఎంత శాతం గ్రామాల్లో నివసిస్తున్నారు?",
+    "en": "According to the 2011 Census, what percentage of India's total population lives in villages?"
+   },
+   "options": {
+    "te": [
+     "93.2%",
+     "68.8%",
+     "50.5%",
+     "72.4%"
+    ],
+    "en": [
+     "93.2%",
+     "68.8%",
+     "50.5%",
+     "72.4%"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్య భాగంలో పేర్కొన్న 2011 జనాభా లెక్కల ప్రకారం, భారతదేశ మొత్తం జనాభాలో సుమారు 68.8 శాతం మంది గ్రామీణ ప్రాంతాల్లో (గ్రామాల్లో) నివసిస్తున్నారు.",
+    "en": "As per the 2011 Census data mentioned in the text, approximately 68.8 per cent of India's total population resides in rural areas (villages)."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T24-0108",
+   "section": {
+    "te": "Hamleted settlements distribution",
+    "en": "Hamleted settlements distribution"
+   },
+   "q": {
+    "te": "కుగ్రామ నివాసాలు (హామ్లెటెడ్ సెటిల్‌మెంట్స్) క్రింది ఏ ప్రాంతాలలో ఎక్కువగా కనిపిస్తాయి?",
+    "en": "Hamleted settlements are more frequently found in which of the following regions?"
+   },
+   "options": {
+    "te": [
+     "మధ్య మరియు దిగువ గంగా మైదానం, ఛత్తీస్‌గఢ్ మరియు హిమాలయాల దిగువ లోయలు",
+     "మేఘాలయ, ఉత్తరాఖండ్ మరియు కేరళ",
+     "గుజరాత్ మైదానం మరియు రాజస్థాన్‌లోని కొన్ని ప్రాంతాలు",
+     "మధ్య భారతదేశంలోని బుందేల్‌ఖండ్ ప్రాంతం"
+    ],
+    "en": [
+     "Middle and lower Ganga plain, Chhattisgarh and lower valleys of the Himalayas",
+     "Meghalaya, Uttarakhand and Kerala",
+     "Gujarat plain and parts of Rajasthan",
+     "Bundelkhand region of central India"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మధ్య మరియు దిగువ గంగా మైదానం, ఛత్తీస్‌గఢ్ మరియు హిమాలయాల దిగువ లోయలలో కుగ్రామ నివాసాలు తరచుగా కనిపిస్తాయి.",
+    "en": "Hamleted settlements are more frequently found in the middle and lower Ganga plain, Chhattisgarh, and lower valleys of the Himalayas."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T24-0058",
+   "section": {
+    "te": "Singapore History",
+    "en": "Singapore History"
+   },
+   "q": {
+    "te": "ఆధునిక నగర-రాజ్యంగా మారకముందు 1960లలో సింగపూర్ పరిస్థితి ఏమిటి?",
+    "en": "What was the status of Singapore in the 1960s before its transformation into a modern city-state?"
+   },
+   "options": {
+    "te": [
+     "ఒక బ్లూ జోన్",
+     "కిక్కిరిసిన ఓడరేవు (overcrowded port)",
+     "ఒక గార్డెన్ సిటీ",
+     "ఒక ఆర్థిక వ్యాపార జిల్లా"
+    ],
+    "en": [
+     "A blue zone",
+     "An overcrowded port",
+     "A garden city",
+     "A financial business district"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "1960లలో, సింగపూర్ ఆధునిక నగర-రాజ్యంగా అభివృద్ధి చెందకముందు కిక్కిరిసిన ఓడరేవుగా ఉండేది.",
+    "en": "In the 1960s, Singapore was an overcrowded port before it developed into a modern city-state."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T24-0125",
+   "section": {
+    "te": "Level of Urbanisation",
+    "en": "Level of Urbanisation"
+   },
+   "q": {
+    "te": "భారతదేశంలో పట్టణీకరణకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. పట్టణీకరణ స్థాయిని మొత్తం జనాభాలో పట్టణ జనాభా శాతంగా కొలుస్తారు.\n2. గత రెండు దశాబ్దాలలో పట్టణీకరణ వృద్ధి రేటు మందగించింది.\nపై ప్రకటనలలో ఏది/ఏవి సరైనది/సరైనవి?",
+    "en": "Consider the following statements regarding urbanisation in India:\n1. The level of urbanisation is measured in terms of percentage of urban population to total population.\n2. The growth rate of urbanisation has slowed down during the last two decades.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 కాదు మరియు 2 కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మొత్తం జనాభాలో పట్టణ జనాభా శాతంగా పట్టణీకరణ స్థాయిని కొలుస్తారు మరియు గత రెండు దశాబ్దాలలో దీని వృద్ధి రేటు మందగించిందనే రెండు ప్రకటనలు సరైనవే.",
+    "en": "Both statements are correct: urbanisation level is measured as percentage of urban population to total population, and its growth rate has slowed down during the last two decades."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T24-0031",
+   "section": {
+    "te": "Urban Crime Rates",
+    "en": "Urban Crime Rates"
+   },
+   "q": {
+    "te": "ప్రకటన (A): గ్రామీణ ప్రాంతాల కంటే పట్టణ ప్రాంతాల్లో తరచుగా నేరాల రేటు ఎక్కువగా ఉంటుంది.\nకారణం (R): అధిక జనాభా సాంద్రత మరియు ఆర్థిక అసమానతలు పట్టణ నేరాలకు దోహదపడే అంశాలు.",
+    "en": "Assertion (A): Urban areas often experience higher crime rates than rural regions.\nReason (R): Higher population density and economic inequality are factors contributing to urban crime."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అధిక పట్టణ నేరాల రేటును జనాభా సాంద్రత మరియు ఆర్థిక అసమానతలతో పాఠ్యభాగం స్పష్టంగా ముడిపెట్టింది.",
+    "en": "The text explicitly links higher urban crime rates to both population density and economic inequality."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T24-0071",
+   "section": {
+    "te": "Urban Planning Examples",
+    "en": "Urban Planning Examples"
+   },
+   "q": {
+    "te": "కింది పట్టణ ప్రణాళిక ఉదాహరణలను వాటి లక్షణాలతో జతపరచండి:\n1. సబర్మతి రివర్‌ఫ్రంట్ - (ii) అటల్ బ్రిడ్జ్\n2. ఎం.జి. రోడ్, గాంగ్‌టక్ - (i) పాదచారులకు మాత్రమే కేటాయించిన ప్రాంతం\n3. సింగపూర్ - (iii) తరాల మధ్య జీవనం (Intergenerational living)",
+    "en": "Match the following urban planning examples with their features:\n1. Sabarmati Riverfront - (i) Pedestrian-only zone\n2. M.G. Road, Gangtok - (ii) Atal Bridge\n3. Singapore - (iii) Intergenerational living"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-i, 3-iii",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-iii, 3-i"
+    ],
+    "en": [
+     "1-ii, 2-i, 3-iii",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-iii, 3-i"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సబర్మతి రివర్‌ఫ్రంట్‌లో అటల్ బ్రిడ్జ్ ఉంది, గాంగ్‌టక్‌లోని ఎం.జి. రోడ్ పాదచారులకు మాత్రమే కేటాయించిన ప్రాంతం, మరియు సింగపూర్ తరాల మధ్య జీవనానికి ఒక నమూనా.",
+    "en": "The Sabarmati Riverfront features the Atal Bridge, M.G. Road in Gangtok is a pedestrian-only zone, and Singapore is a model for intergenerational living."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T24-0104",
+   "section": {
+    "te": "Defence based settlements",
+    "en": "Defence based settlements"
+   },
+   "q": {
+    "te": "క్రింది ప్రాంతాలలో ఎక్కడ ప్రజలు భద్రత లేదా రక్షణ కారణాల దృష్ట్యా ప్రధానంగా కేంద్రీకృత (కాంపాక్ట్) గ్రామాలలో నివసిస్తున్నారు?",
+    "en": "In which of the following regions do people live in compact villages primarily for security or defence reasons?"
+   },
+   "options": {
+    "te": [
+     "మధ్య మరియు దిగువ గంగా మైదానం",
+     "మేఘాలయ మరియు హిమాచల్ ప్రదేశ్",
+     "బుందేల్‌ఖండ్ ప్రాంతం మరియు నాగాలాండ్",
+     "గుజరాత్ మైదానం మరియు రాజస్థాన్"
+    ],
+    "en": [
+     "Middle and lower Ganga plain",
+     "Meghalaya and Himachal Pradesh",
+     "Bundelkhand region and Nagaland",
+     "Gujarat plain and Rajasthan"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మధ్య భారతదేశంలోని బుందేల్‌ఖండ్ ప్రాంతం మరియు నాగాలాండ్‌లలో రక్షణ లేదా భద్రతా కారణాల వల్ల ప్రజలు కేంద్రీకృత గ్రామాలలో నివసిస్తున్నారు.",
+    "en": "People live in compact villages for security or defence reasons in the Bundelkhand region of central India and in Nagaland."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T24-0075",
+   "section": {
+    "te": "Topographical Map Interpretation",
+    "en": "Topographical Map Interpretation"
+   },
+   "q": {
+    "te": "టోపోగ్రాఫికల్ షీట్ యొక్క 'మార్జినల్ ఇన్ఫర్మేషన్' (Marginal Information) కు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇందులో టోపోగ్రాఫికల్ షీట్ సంఖ్య మరియు దాని స్థానం ఉంటాయి.\n2. ఇది డిగ్రీలు మరియు నిమిషాలలో ప్రాంతం యొక్క విస్తృతిని అందిస్తుంది.\n3. ఇది మ్యాప్ ద్వారా కవర్ చేయబడిన జిల్లాలను నిర్దేశిస్తుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding the 'Marginal Information' of a topographical sheet:\n1. It includes the topographical sheet number and its location.\n2. It provides the extent of the area in degrees and minutes.\n3. It specifies the districts covered by the map.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యం ప్రకారం, మార్జినల్ ఇన్ఫర్మేషన్‌లో షీట్ సంఖ్య, స్థానం, గ్రిడ్ రిఫరెన్స్‌లు, డిగ్రీలు/నిమిషాలలో విస్తృతి, స్కేల్ మరియు కవర్ చేయబడిన జిల్లాలు ఉంటాయి.",
+    "en": "Marginal information includes the sheet number, location, grid references, extent in degrees/minutes, scale, and districts covered."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T24-0093",
+   "section": {
+    "te": "Low Rural Population States",
+    "en": "Low Rural Population States"
+   },
+   "q": {
+    "te": "కింది వాటిలో ఏ రాష్ట్రంలో మొత్తం జనాభాలో సగం కంటే కొంచెం ఎక్కువ మంది మాత్రమే గ్రామాల్లో నివసిస్తున్నారు?",
+    "en": "In which of the following states does only a little over half of the total population reside in villages?"
+   },
+   "options": {
+    "te": [
+     "గోవా",
+     "బీహార్",
+     "హిమాచల్ ప్రదేశ్",
+     "తెలంగాణ"
+    ],
+    "en": [
+     "Goa",
+     "Bihar",
+     "Himachal Pradesh",
+     "Telangana"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్య భాగం ప్రకారం, గోవా మరియు మిజోరం రాష్ట్రాల్లో సగం కంటే కొంచెం ఎక్కువ మంది జనాభా మాత్రమే గ్రామీణ ప్రాంతాల్లో నివసిస్తున్నారు.",
+    "en": "Goa and Mizoram have only slightly more than half of their population living in rural areas."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T24-0131",
+   "section": {
+    "te": "Matching Towns by Function",
+    "en": "Matching Towns by Function"
+   },
+   "q": {
+    "te": "క్రింది పట్టణాలను వాటి కార్యాచరణ వర్గంతో (ఫంక్షనల్ కేటగిరీ) జతపరచండి:\nI. దిగ్‌బోయ్ - (a) విద్యా పట్టణం\nII. మోదీనగర్ - (b) గ్యారిసన్ పట్టణం\nIII. రూర్కీ - (c) గనుల పట్టణం\nIV. బబినా - (d) పారిశ్రామిక పట్టణం\n\nసరైన కోడ్‌ను ఎంచుకోండి:",
+    "en": "Match the following towns with their functional category:\nI. Digboi - (a) Educational town\nII. Modinagar - (b) Garrison town\nIII. Roorki - (c) Mining town\nIV. Babina - (d) Industrial town\n\nChoose the correct code:"
+   },
+   "options": {
+    "te": [
+     "I-c, II-d, III-a, IV-b",
+     "I-d, II-c, III-a, IV-b",
+     "I-c, II-a, III-d, IV-b",
+     "I-b, II-d, III-a, IV-c"
+    ],
+    "en": [
+     "I-c, II-d, III-a, IV-b",
+     "I-d, II-c, III-a, IV-b",
+     "I-c, II-a, III-d, IV-b",
+     "I-b, II-d, III-a, IV-c"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "దిగ్‌బోయ్ గనుల పట్టణం (మైనింగ్), మోదీనగర్ పారిశ్రామిక పట్టణం, రూర్కీ విద్యా పట్టణం మరియు బబినా గ్యారిసన్ కంటోన్మెంట్ పట్టణం.",
+    "en": "Digboi is a mining town, Modinagar is an industrial town, Roorki is an educational town, and Babina is a garrison town."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T24-0044",
+   "section": {
+    "te": "Durga Puja Season",
+    "en": "Durga Puja Season"
+   },
+   "q": {
+    "te": "కోల్‌కతాలో ఐదు రోజుల దుర్గాపూజ పండుగ ఏ కాలంలో జరుగుతుంది?",
+    "en": "In which season does the five-day Durga Puja festival take place in Kolkata?"
+   },
+   "options": {
+    "te": [
+     "శరదృతువు (Autumn)",
+     "వసంత కాలం",
+     "శీతాకాలం",
+     "వేసవి కాలం"
+    ],
+    "en": [
+     "Autumn",
+     "Spring",
+     "Winter",
+     "Summer"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "కోల్‌కతాలో దుర్గాపూజ పండుగ ప్రతి సంవత్సరం శరదృతువులో జరుగుతుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text specifies that the Durga Puja festival in Kolkata takes place every autumn."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T24-0098",
+   "section": {
+    "te": "Social Relations in Settlements",
+    "en": "Social Relations in Settlements"
+   },
+   "q": {
+    "te": "నివాసాలలో సామాజిక సంబంధాలకు సంబంధించి, కింది ప్రకటనలను పరిశీలించండి:\n1. పట్టణ నివాసులతో పోలిస్తే గ్రామీణ ప్రజలు ఎక్కువ చలనశీలత (mobile) కలిగి ఉంటారు.\n2. గ్రామీణ ప్రాంతాల్లో సామాజిక సంబంధాలు సన్నిహితంగా ఉంటాయి.\n3. పట్టణ సామాజిక సంబంధాలు అధికారికంగా (formal) ఉంటాయి మరియు జీవన విధానం సంక్లిష్టంగా ఉంటుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Regarding social relationships in settlements, consider the following statements:\n1. Rural people are more mobile compared to urban dwellers.\n2. Social relations are intimate in rural areas.\n3. Urban social relations are formal and the way of life is complex.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "గ్రామీణ ప్రజలు 'తక్కువ చలనశీలత' కలిగి ఉంటారని పాఠ్య భాగం పేర్కొన్నందున ప్రకటన 1 తప్పు. ప్రకటనలు 2 మరియు 3 గ్రామీణ మరియు పట్టణ ప్రాంతాల సామాజిక స్వభావాన్ని సరిగ్గా వివరిస్తాయి.",
+    "en": "Statement 1 is false because the text states rural people are 'less mobile'. Statements 2 and 3 correctly describe the social nature of rural and urban areas."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T24-0084",
+   "section": {
+    "te": "Map Interpretation",
+    "en": "Map Interpretation"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): భూస్వరూపం మరియు డ్రైనేజీని అధ్యయనం చేయడం ద్వారా సహజ వృక్షసంపద పంపిణీని బాగా అర్థం చేసుకోవచ్చు.\nకారణం (R): మ్యాప్ వివరణ (Map interpretation) అనేది మ్యాప్‌లో చూపబడిన అనేక లక్షణాల మధ్య కారణ సంబంధాన్ని (causal relationship) అధ్యయనం చేయడాన్ని కలిగి ఉంటుంది.",
+    "en": "Assertion (A): The distribution of natural vegetation can be better understood by studying landform and drainage.\nReason (R): Map interpretation involves studying the causal relationship among several features shown on the map."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ.",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు.",
+     "A నిజం కానీ R తప్పు.",
+     "A తప్పు కానీ R నిజం."
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A.",
+     "Both A and R are true but R is NOT the correct explanation of A.",
+     "A is true but R is false.",
+     "A is false but R is true."
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూస్వరూపాలు వృక్షసంపద పంపిణీని ఎలా ప్రభావితం చేస్తాయనే దాని వంటి కారణ సంబంధాలను మ్యాప్ వివరణ వెతుకుతుందని పాఠ్యం వివరిస్తుంది.",
+    "en": "Map interpretation looks for causal relationships, such as how landforms influence vegetation distribution."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T24-0048",
+   "section": {
+    "te": "Urban Planning Factors",
+    "en": "Urban Planning Factors"
+   },
+   "q": {
+    "te": "నగర నివాసుల జీవితాలను మెరుగుపరచడానికి పట్టణ ప్రణాళికాకర్త (urban planner) ఈ క్రింది ఏ అంశాలను పరిష్కరించాలి?",
+    "en": "Which of the following factors must an urban planner address to improve the lives of city inhabitants?"
+   },
+   "options": {
+    "te": [
+     "జనాభా పరిమాణం మరియు ఉద్యోగ రకాలు",
+     "పరస్పరం అనుసంధానించబడిన రవాణా వ్యవస్థలు",
+     "పాఠశాలలు మరియు ఆసుపత్రుల వంటి ప్రజా సౌకర్యాల ప్రాంతాలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Population size and types of jobs",
+     "Interconnected transportation systems",
+     "Location of public facilities like schools and hospitals",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మౌలిక సదుపాయాలు మరియు జీవన నాణ్యతను ఆప్టిమైజ్ చేయడానికి పట్టణ ప్రణాళికాకర్తలు జనాభా, ఉద్యోగాలు, రవాణా మరియు ప్రజా సౌకర్యాల స్థానాలను పరిష్కరిస్తారు.",
+    "en": "Urban planners address population, jobs, transportation, and the location of public facilities to optimize infrastructure and quality of life."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T24-0115",
+   "section": {
+    "te": "European Trading Ports",
+    "en": "European Trading Ports"
+   },
+   "q": {
+    "te": "బ్రిటిషర్లు మరియు ఇతర యూరోపియన్లు భారతదేశ తీర ప్రాంతాలలో క్రింది ఏ వ్యాపార రేవులను (ట్రేడింగ్ పోర్టులను) అభివృద్ధి చేశారు?",
+    "en": "Which of the following trading ports were developed by the British and other Europeans on coastal locations in India?"
+   },
+   "options": {
+    "te": [
+     "సూరత్",
+     "డామన్",
+     "గోవా",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Surat",
+     "Daman",
+     "Goa",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "తీర ప్రాంతాలలో పట్టు సాధిస్తూ, బ్రిటిషర్లు మరియు ఇతర యూరోపియన్లు మొదట సూరత్, డామన్, గోవా, పాండిచ్చేరి వంటి వ్యాపార రేవులను అభివృద్ధి చేశారు.",
+    "en": "Starting their foothold on coastal locations, the British and other Europeans developed trading ports such as Surat, Daman, Goa, and Pondicherry."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T24-0090",
+   "section": {
+    "te": "Inhabited Villages Count",
+    "en": "Inhabited Villages Count"
+   },
+   "q": {
+    "te": "2011 జనాభా లెక్కల ప్రకారం, భారతదేశంలోని మొత్తం గ్రామాలలో ఎన్ని 'నివసించే గ్రామాలు' (inhabited villages) గా వర్గీకరించబడ్డాయి?",
+    "en": "According to the 2011 Census, how many of the total villages in India are classified as 'inhabited villages'?"
+   },
+   "options": {
+    "te": [
+     "597,608",
+     "688,000",
+     "640,867",
+     "550,000"
+    ],
+    "en": [
+     "597,608",
+     "688,000",
+     "640,867",
+     "550,000"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "2011 జనాభా లెక్కల ప్రకారం భారతదేశంలోని మొత్తం 640,867 గ్రామాలలో, 597,608 (93.2%) నివసించే గ్రామాలు.",
+    "en": "Out of the total 640,867 villages in India, 597,608 (93.2%) are inhabited villages according to the 2011 Census."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T24-0008",
+   "section": {
+    "te": "Definition of satellite view",
+    "en": "Definition of satellite view"
+   },
+   "q": {
+    "te": "భూమి చుట్టూ తిరిగే ఉపగ్రహాల ద్వారా సేకరించబడిన భూ ఉపరితలం యొక్క పైనుంచి చూసే దృశ్యం (టాప్-డౌన్ వ్యూ) లేదా దృశ్య డేటాను ఏమని పిలుస్తారు?",
+    "en": "What is defined as a top-down view or visual data of the Earth's surface captured by satellites orbiting the Earth?"
+   },
+   "options": {
+    "te": [
+     "కాడస్ట్రల్ సర్వే",
+     "టోపోగ్రాఫిక్ కాంటూర్",
+     "ఏరియల్ స్కెచ్",
+     "శాటిలైట్ వ్యూ (Satellite view)"
+    ],
+    "en": [
+     "Cadastral survey",
+     "Topographic contour",
+     "Aerial sketch",
+     "Satellite view"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూమి చుట్టూ పరిభ్రమించే ఉపగ్రహాల ద్వారా భూ ఉపరితలాన్ని పైనుంచి తీసిన దృశ్యాన్ని 'శాటిలైట్ వ్యూ' అంటారు.",
+    "en": "A top-down view or visual data of the earth's surface captured by satellites orbiting the Earth is defined as a 'Satellite view'."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T24-0062",
+   "section": {
+    "te": "ICT in Urban Planning",
+    "en": "ICT in Urban Planning"
+   },
+   "q": {
+    "te": "పట్టణ జీవితాన్ని మరింత సౌకర్యవంతంగా మరియు సుస్థిరంగా మార్చడానికి కింది వాటిలో ఏ ICT (Information and Communication Technology) ఉదాహరణలు పేర్కొనబడ్డాయి?",
+    "en": "Which of the following ICT (Information and Communication Technology) examples are mentioned to make urban life more convenient and sustainable?"
+   },
+   "options": {
+    "te": [
+     "ఇంటెలిజెంట్ ట్రాఫిక్ సిస్టమ్స్",
+     "డిజిటల్ నిఘా (Digital surveillance)",
+     "ఆన్‌లైన్ ఫిర్యాదుల పరిష్కార వేదికలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Intelligent traffic systems",
+     "Digital surveillance",
+     "Online grievance redressal platforms",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సుస్థిర పట్టణ జీవితం కోసం ఇంటెలిజెంట్ ట్రాఫిక్ సిస్టమ్స్, డిజిటల్ నిఘా మరియు ఆన్‌లైన్ ఫిర్యాదుల పరిష్కార వేదికలను ICT సాధనాలుగా టెక్స్ట్ పేర్కొంది.",
+    "en": "The text lists intelligent traffic systems, digital surveillance, and online grievance redressal platforms as ICT tools for sustainable urban life."
+   }
+  }
+ ]
+}

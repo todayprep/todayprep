@@ -1,0 +1,942 @@
+{
+ "id": "geo-16-c-2",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Rivers – క్విజ్ 2",
+  "en": "Rivers – Quiz 2"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T16-0064",
+   "section": {
+    "te": "Krishna river length",
+    "en": "Krishna river length"
+   },
+   "q": {
+    "te": "కృష్ణా నది మొత్తం పొడవు ఎంత?",
+    "en": "What is the total length of the Krishna river?"
+   },
+   "options": {
+    "te": [
+     "1,465 కి.మీ.",
+     "851 కి.మీ.",
+     "1,401 కి.మీ.",
+     "724 కి.మీ."
+    ],
+    "en": [
+     "1,465 km",
+     "851 km",
+     "1,401 km",
+     "724 km"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "తూర్పు ముఖంగా ప్రవహించే రెండవ అతిపెద్ద ద్వీపకల్ప నది అయిన కృష్ణా నది మొత్తం పొడవు 1,401 కి.మీ.",
+    "en": "The Krishna is the second largest east-flowing Peninsular river with a total length of 1,401 km."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T16-0024",
+   "section": {
+    "te": "Major River Basins",
+    "en": "Major River Basins"
+   },
+   "q": {
+    "te": "భారతదేశంలో 20,000 చదరపు కిలోమీటర్ల కంటే ఎక్కువ క్యాచ్‌మెంట్ ఏరియా ఉన్న ప్రధాన నదీ పరివాహక ప్రాంతాలు ఎన్ని ఉన్నాయి?",
+    "en": "How many major drainage basins with a catchment area of more than 20,000 sq. km are there in India?"
+   },
+   "options": {
+    "te": [
+     "44",
+     "77",
+     "23",
+     "14"
+    ],
+    "en": [
+     "44",
+     "77",
+     "23",
+     "14"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశంలో 14 ప్రధాన నదీ పరివాహక ప్రాంతాలు ఉన్నాయి, ఒక్కొక్కటి 20,000 చదరపు కిలోమీటర్ల కంటే ఎక్కువ క్యాచ్‌మెంట్ ఏరియాను కలిగి ఉన్నాయి.",
+    "en": "India has 14 major river basins, each having a catchment area exceeding 20,000 square kilometers."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T16-0098",
+   "section": {
+    "te": "Agricultural surface water share",
+    "en": "Agricultural surface water share"
+   },
+   "q": {
+    "te": "భారతదేశంలో ఉపరితల నీటి వినియోగంలో వ్యవసాయ రంగం ఎంత శాతం వాటాను కలిగి ఉంది?",
+    "en": "What percentage of the total surface water utilisation in India is accounted for by agriculture?"
+   },
+   "options": {
+    "te": [
+     "92 శాతం",
+     "89 శాతం",
+     "32 శాతం",
+     "60 శాతం"
+    ],
+    "en": [
+     "92 per cent",
+     "89 per cent",
+     "32 per cent",
+     "60 per cent"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారతదేశంలో ఉపరితల నీటి వినియోగంలో వ్యవసాయ రంగం 89 శాతం వాటాను కలిగి ఉంది.",
+    "en": "The agricultural sector accounts for 89 per cent of surface water utilisation and 92 per cent of groundwater utilisation in India."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T16-0095",
+   "section": {
+    "te": "Surface water utilisable volume",
+    "en": "Surface water utilisable volume"
+   },
+   "q": {
+    "te": "స్థలాకృతి, జలసంబంధిత మరియు ఇతర పరిమితుల కారణంగా భారతదేశంలో అందుబాటులో ఉన్న ఉపరితల నీటిలో ఎంత పరిమాణాన్ని మాత్రమే వినియోగించుకోవచ్చు?",
+    "en": "Due to topographical, hydrological and other constraints, what quantity of available surface water can be utilised in India?"
+   },
+   "options": {
+    "te": [
+     "సుమారు 1,869 క్యూబిక్ కి.మీ. (100 శాతం)",
+     "సుమారు 432 క్యూబిక్ కి.మీ. (23 శాతం)",
+     "సుమారు 690 క్యూబిక్ కి.మీ. (32 శాతం)",
+     "సుమారు 1,122 క్యూబిక్ కి.మీ. (60 శాతం)"
+    ],
+    "en": [
+     "About 1,869 cubic km (100 per cent)",
+     "About 432 cubic km (23 per cent)",
+     "About 690 cubic km (32 per cent)",
+     "About 1,122 cubic km (60 per cent)"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "స్థలాకృతి మరియు ఇతర పరిమితుల వల్ల లభించే ఉపరితల నీటిలో సుమారు 690 క్యూబిక్ కి.మీ. (32 శాతం) మాత్రమే వినియోగించుకోగలరు.",
+    "en": "Because of hydrological and topographical constraints, only about 690 cubic km, or 32 per cent of available surface water, can be utilised."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T16-0048",
+   "section": {
+    "te": "Satluj Antecedent Nature",
+    "en": "Satluj Antecedent Nature"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): సట్లెజ్ నది ఒక పూర్వగామి (antecedent) నదిగా పరిగణించబడుతుంది.\nకారణం (R): ఇది హిమాలయ శ్రేణులపై షిప్కీ లా గుండా ప్రవహించి పంజాబ్ మైదానంలోకి ప్రవేశిస్తుంది.",
+    "en": "Assertion (A): The Satluj river is considered an antecedent river.\nReason (R): It passes through the Shipki La on the Himalayan ranges and enters the Punjab plains."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సట్లెజ్ ఒక పూర్వగామి నది ఎందుకంటే హిమాలయ శ్రేణులు పైకి లేస్తున్నప్పుడు వాటిని కోసుకుంటూ (షిప్కీ లా వద్ద ఉన్నట్లుగా) తన మార్గాన్ని నిలుపుకుంది.",
+    "en": "The Satluj is an antecedent river because it maintained its course by cutting through the Himalayan ranges (like at Shipki La) as they rose."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T16-0007",
+   "section": {
+    "te": "Bihar Fisheries Act",
+    "en": "Bihar Fisheries Act"
+   },
+   "q": {
+    "te": "చేపల పెంపకంలో కమ్యూనిటీ నేతృత్వంలోని నిర్వహణ మరియు సహకార వనరుల సారథ్యాన్ని ప్రోత్సహించడానికి బీహార్‌లో ఏ నిర్దిష్ట చట్టాన్ని ప్రవేశపెట్టారు?",
+    "en": "Which specific Act was introduced in Bihar to promote community-led management and cooperative resource stewardship of fisheries?"
+   },
+   "options": {
+    "te": [
+     "ది కామన్స్ మేనేజ్‌మెంట్ యాక్ట్, 1897",
+     "బీహార్ ఫిష్ జల్కర్ మేనేజ్‌మెంట్ యాక్ట్, 2006",
+     "బీహార్ రివరైన్ ప్రొటెక్షన్ యాక్ట్, 2006",
+     "ది ఇండియన్ ఫిషరీస్ యాక్ట్, 1897"
+    ],
+    "en": [
+     "The Commons Management Act, 1897",
+     "Bihar Fish Jalkar Management Act, 2006",
+     "Bihar Riverine Protection Act, 2006",
+     "The Indian Fisheries Act, 1897"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కమ్యూనిటీ నేతృత్వంలోని నిర్వహణ మరియు స్థిరమైన వనరుల వినియోగాన్ని ప్రోత్సహించడానికి బీహార్ ఫిష్ జల్కర్ మేనేజ్‌మెంట్ యాక్ట్, 2006 ప్రవేశపెట్టబడింది.",
+    "en": "The Bihar Fish Jalkar Management Act, 2006 was introduced to promote community-led management and sustainable resource use."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T16-0028",
+   "section": {
+    "te": "River Landforms",
+    "en": "River Landforms"
+   },
+   "q": {
+    "te": "మైదాన ప్రాంతాలలో హిమాలయ నదుల ద్వారా ఏర్పడే నిక్షేపణ లక్షణం (depositional feature) కానిది ఏది?",
+    "en": "Which of the following is NOT a depositional feature formed by Himalayan rivers in the plains?"
+   },
+   "options": {
+    "te": [
+     "ఆక్స్-బౌ సరస్సులు (Ox-bow lakes)",
+     "డెల్టాలు (Deltas)",
+     "అల్లిన ఛానెల్‌లు (Braided channels)",
+     "లోతైన గొర్జెలు (Deep gorges)"
+    ],
+    "en": [
+     "Ox-bow lakes",
+     "Deltas",
+     "Braided channels",
+     "Deep gorges"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "గొర్జెలు హిమాలయ ప్రాంతాలలో ఏర్పడే క్రమక్షయ లక్షణాలు, అయితే ఆక్స్-బౌ సరస్సులు, అల్లిన ఛానెల్‌లు మరియు డెల్టాలు మైదానాలలో ఏర్పడే నిక్షేపణ లక్షణాలు.",
+    "en": "Gorges are erosional features formed in the Himalayan reaches, while ox-bow lakes, braided channels, and deltas are depositional features formed in the plains."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T16-0025",
+   "section": {
+    "te": "Medium River Basins",
+    "en": "Medium River Basins"
+   },
+   "q": {
+    "te": "2,000-20,000 చదరపు కిలోమీటర్ల మధ్య క్యాచ్‌మెంట్ ఏరియా ఉన్న మధ్యస్థ నదీ పరివాహక ప్రాంతానికి క్రింది వాటిలో ఏది ఉదాహరణ?",
+    "en": "Which of the following is an example of a medium river basin with a catchment area between 2,000-20,000 sq. km?"
+   },
+   "options": {
+    "te": [
+     "పెరియార్",
+     "గంగ",
+     "నర్మద",
+     "సబర్మతి"
+    ],
+    "en": [
+     "Periyar",
+     "Ganga",
+     "Narmada",
+     "Sabarmati"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పెరియార్ మధ్యస్థ నదీ పరివాహక ప్రాంతంగా వర్గీకరించబడింది, అయితే గంగ, నర్మద మరియు సబర్మతి ప్రధాన నదీ పరివాహక ప్రాంతాలు.",
+    "en": "The Periyar is classified as a medium river basin, whereas the Ganga, Narmada, and Sabarmati are major river basins."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T16-0065",
+   "section": {
+    "te": "Tapi river origin",
+    "en": "Tapi river origin"
+   },
+   "q": {
+    "te": "తాపి నది క్రింది ఏ ప్రాంతం నుండి ఉద్భవిస్తుంది?",
+    "en": "From which of the following places does the Tapi river originate?"
+   },
+   "options": {
+    "te": [
+     "రాయ్‌పూర్ జిల్లాలోని సిహావా",
+     "బేతుల్ జిల్లాలోని ముల్తాయ్",
+     "అజ్మీర్ జిల్లాలోని పుష్కర్",
+     "సహ్యాద్రిలోని మహాబలేశ్వర్"
+    ],
+    "en": [
+     "Sihawa in Raipur district",
+     "Multai in Betul district",
+     "Pushkar in Ajmer district",
+     "Mahabaleshwar in Sahyadri"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "తాపి నది మధ్యప్రదేశ్‌లోని బేతుల్ జిల్లాలోని ముల్తాయ్ వద్ద జన్మిస్తుంది.",
+    "en": "The Tapi river originates from Multai in the Betul district of Madhya Pradesh."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T16-0023",
+   "section": {
+    "te": "Himalayan Rivers",
+    "en": "Himalayan Rivers"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): హిమాలయ డ్రైనేజీ వ్యవస్థలోని నదులు జీవనదులు (perennial).\nకారణం (R): ఈ నదులకు మంచు కరగడం మరియు వర్షపాతం రెండింటి ద్వారా నీరు అందుతుంది.",
+    "en": "Assertion (A): Rivers of the Himalayan drainage system are perennial in nature.\nReason (R): These rivers are fed both by the melting of snow and precipitation."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "హిమాలయ నదులు వర్షపాతం మరియు మంచు కరగడం రెండింటి నుండి నీటిని పొందుతాయి కాబట్టి అవి ఏడాది పొడవునా ప్రవహిస్తాయి.",
+    "en": "Himalayan rivers flow throughout the year (perennial) because they receive water from both rainfall and melting glaciers."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T16-0026",
+   "section": {
+    "te": "Geological History",
+    "en": "Geological History"
+   },
+   "q": {
+    "te": "ఏ భౌగోళిక కాలంలో మాల్డా గ్యాప్ ప్రాంతం కుంగిపోవడం వల్ల గంగా మరియు బ్రహ్మపుత్ర వ్యవస్థలు బంగాళాఖాతం వైపు మళ్లాయి?",
+    "en": "During which geological period did the downthrusting of the Malda gap occur, diverting the Ganga and Brahmaputra systems towards the Bay of Bengal?"
+   },
+   "options": {
+    "te": [
+     "ప్రారంభ-ప్లీస్టోసీన్ (Early-pleistocene)",
+     "మధ్య-ప్లీస్టోసీన్ (Mid-pleistocene)",
+     "చివరి-ప్లీస్టోసీన్ (Late-pleistocene)",
+     "హోలోసీన్ (Holocene)"
+    ],
+    "en": [
+     "Early-pleistocene",
+     "Mid-pleistocene",
+     "Late-pleistocene",
+     "Holocene"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "రాజ్‌మహల్ కొండలు మరియు మేఘాలయ పీఠభూమి మధ్య మాల్డా గ్యాప్ ప్రాంతం కుంగిపోవడం మధ్య-ప్లీస్టోసీన్ కాలంలో జరిగింది.",
+    "en": "The downthrusting of the Malda gap area between the Rajmahal hills and the Meghalaya plateau occurred during the mid-pleistocene period."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T16-0060",
+   "section": {
+    "te": "Mahanadi river source",
+    "en": "Mahanadi river source"
+   },
+   "q": {
+    "te": "ఛత్తీస్‌గఢ్‌లోని రాయ్‌పూర్ జిల్లాలోని ఏ ప్రాంతానికి సమీపంలో మహానది జన్మిస్తుంది?",
+    "en": "Near which place in Raipur district of Chhattisgarh does the Mahanadi river rise?"
+   },
+   "options": {
+    "te": [
+     "సిహావా",
+     "ముల్తాయ్",
+     "త్రియంబక్",
+     "మహాబలేశ్వర్"
+    ],
+    "en": [
+     "Sihawa",
+     "Multai",
+     "Trimbak",
+     "Mahabaleshwar"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మహానది ఛత్తీస్‌గఢ్‌లోని రాయ్‌పూర్ జిల్లాలోని సిహావా సమీపంలో ఉద్భవించి ఒడిశా గుండా ప్రవహిస్తుంది.",
+    "en": "The Mahanadi rises near Sihawa in the Raipur district of Chhattisgarh and flows through Odisha into the Bay of Bengal."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T16-0057",
+   "section": {
+    "te": "Brahmaputra entry Bangladesh",
+    "en": "Brahmaputra entry Bangladesh"
+   },
+   "q": {
+    "te": "బ్రహ్మపుత్ర నది క్రింది ఏ ప్రాంతానికి సమీపంలో బంగ్లాదేశ్‌లోకి ప్రవేశిస్తుంది?",
+    "en": "Near which of the following places does the Brahmaputra river enter into Bangladesh?"
+   },
+   "options": {
+    "te": [
+     "సదియా",
+     "పాసిఘాట్",
+     "గౌహతి",
+     "ధుబ్రి"
+    ],
+    "en": [
+     "Sadiya",
+     "Pasighat",
+     "Guwahati",
+     "Dhubri"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "బ్రహ్మపుత్ర నది ధుబ్రి సమీపంలో బంగ్లాదేశ్‌లోకి ప్రవేశించి దక్షిణ దిశగా ప్రవహిస్తుంది.",
+    "en": "The Brahmaputra river enters Bangladesh near Dhubri and flows southward."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T16-0092",
+   "section": {
+    "te": "Rivers in India",
+    "en": "Rivers in India"
+   },
+   "q": {
+    "te": "భారతదేశంలో ఒక్కొక్కటి 1.6 కి.మీ కంటే ఎక్కువ పొడవు ఉన్న నదులు మరియు ఉపనదుల సంఖ్య సుమారు ఎంత?",
+    "en": "How many rivers and tributaries longer than 1.6 km each are there in India?"
+   },
+   "options": {
+    "te": [
+     "సుమారు 8,500",
+     "సుమారు 10,360",
+     "సుమారు 6,420",
+     "సుమారు 12,150"
+    ],
+    "en": [
+     "About 8,500",
+     "About 10,360",
+     "About 6,420",
+     "About 12,150"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారతదేశంలో 1.6 కి.మీ కంటే ఎక్కువ పొడవు ఉన్న నదులు మరియు వాటి ఉపనదుల సంఖ్య దాదాపు 10,360 గా ఉంది.",
+    "en": "In India, there are approximately 10,360 rivers and tributaries that are each longer than 1.6 km."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T16-0067",
+   "section": {
+    "te": "Luni confluence Govindgarh",
+    "en": "Luni confluence Govindgarh"
+   },
+   "q": {
+    "te": "లూనీ నది యొక్క రెండు ప్రారంభ శాఖలు (సరస్వతి మరియు సబర్మతి) ఏ ప్రాంతం వద్ద ఒకదానితో ఒకటి కలుస్తాయి?",
+    "en": "At which of the following places do the two headwater branches of the Luni river (Saraswati and Sabarmati) join together?"
+   },
+   "options": {
+    "te": [
+     "గోవింద్‌గఢ్",
+     "రాన్ ఆఫ్ కచ్",
+     "తెల్వారా",
+     "పుష్కర్"
+    ],
+    "en": [
+     "Govindgarh",
+     "Rann of Kuchchh",
+     "Telwara",
+     "Pushkar"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సరస్వతి మరియు సబర్మతి శాఖలు గోవింద్‌గఢ్ వద్ద కలిసి, అక్కడి నుండి లూనీ నదిగా పిలువబడుతుంది.",
+    "en": "The two branches of the Luni river join each other at Govindgarh, from where it is known as the Luni."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T16-0003",
+   "section": {
+    "te": "Bhagirathi Origin",
+    "en": "Bhagirathi Origin"
+   },
+   "q": {
+    "te": "భగీరథి నది ఈ క్రింది ఏ ప్రదేశం నుండి ఉద్భవిస్తుంది?",
+    "en": "The Bhagirathi river originates from which of the following locations?"
+   },
+   "options": {
+    "te": [
+     "మెట్టూరు",
+     "వింధ్య పర్వత శ్రేణి",
+     "బాంధవ్‌గఢ్",
+     "గోముఖ్"
+    ],
+    "en": [
+     "Mettur",
+     "Vindhya Range",
+     "Bandhavgarh",
+     "Gaumukh"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భగీరథి ఉత్తరాఖండ్‌లోని గంగోత్రి హిమానీనదం అంచున ఉన్న గోముఖ్ నుండి ఉద్భవిస్తుంది.",
+    "en": "The Bhagirathi originates from Gaumukh, which is at the edge of the Gangotri Glacier in Uttarakhand."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T16-0041",
+   "section": {
+    "te": "Ganga State-wise Length",
+    "en": "Ganga State-wise Length"
+   },
+   "q": {
+    "te": "క్రింది ఏ రాష్ట్రంలో గంగా నది అత్యధిక పొడవు (1,450 కి.మీ) ప్రవహిస్తుంది?",
+    "en": "In which of the following states does the Ganga river have its longest stretch (1,450 km)?"
+   },
+   "options": {
+    "te": [
+     "ఉత్తర ప్రదేశ్",
+     "పశ్చిమ బెంగాల్",
+     "ఉత్తరాఖండ్",
+     "బీహార్"
+    ],
+    "en": [
+     "Uttar Pradesh",
+     "West Bengal",
+     "Uttarakhand",
+     "Bihar"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, గంగా నది ఉత్తర ప్రదేశ్‌లో 1,450 కి.మీ ప్రవహిస్తుంది, ఇది పేర్కొన్న రాష్ట్రాలలో అత్యధికం.",
+    "en": "The Ganga flows for 1,450 km in Uttar Pradesh, which is its longest stretch among the states mentioned."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T16-0078",
+   "section": {
+    "te": "Narmada rift valley",
+    "en": "Narmada rift valley"
+   },
+   "q": {
+    "te": "నర్మదా నది ఉత్తరాన మరియు దక్షిణాన ఏ పర్వత శ్రేణుల మధ్య పగులు లోయలో ప్రవహిస్తుంది?",
+    "en": "The Narmada river flows in a rift valley bounded by which ranges to its north and south?"
+   },
+   "options": {
+    "te": [
+     "ఉత్తరాన సాత్పురా మరియు దక్షిణాన వింధ్య శ్రేణి",
+     "ఉత్తరాన ఆరవల్లి శ్రేణి మరియు దక్షిణాన వింధ్య శ్రేణి",
+     "ఉత్తరాన అజంతా శ్రేణి మరియు దక్షిణాన సాత్పురా",
+     "ఉత్తరాన వింధ్య శ్రేణి మరియు దక్షిణాన సాత్పురా"
+    ],
+    "en": [
+     "Satpura in the north and Vindhyan range in the south",
+     "Aravalli range in the north and Vindhyan range in the south",
+     "Ajanta range in the north and Satpura in the south",
+     "Vindhyan range in the north and Satpura in the south"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నర్మదా నది ఉత్తరాన వింధ్య పర్వత శ్రేణికి, దక్షిణాన సాత్పురా పర్వత శ్రేణికి మధ్య ఉన్న పగులు లోయ గుండా ప్రవహిస్తుంది.",
+    "en": "The Narmada flows in a rift valley between the Vindhyan range in the north and the Satpura range in the south."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T16-0035",
+   "section": {
+    "te": "Indus River Path",
+    "en": "Indus River Path"
+   },
+   "q": {
+    "te": "సింధు నది వాయువ్య దిశలో ఏ రెండు పర్వత శ్రేణుల మధ్య ప్రవహిస్తుంది?",
+    "en": "Between which two mountain ranges does the Indus river flow in the northwest direction?"
+   },
+   "options": {
+    "te": [
+     "పీర్ పంజాల్ మరియు ధౌలాధర్",
+     "జస్కర్ మరియు పీర్ పంజాల్",
+     "లడఖ్ మరియు జస్కర్",
+     "కారకోరం మరియు లడఖ్"
+    ],
+    "en": [
+     "Pir Panjal and Dhauladhar",
+     "Zaskar and Pir Panjal",
+     "Ladakh and Zaskar",
+     "Karakoram and Ladakh"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సింధు నది వాయువ్య దిశలో ప్రత్యేకంగా లడఖ్ మరియు జస్కర్ పర్వత శ్రేణుల మధ్య ప్రవహిస్తుంది.",
+    "en": "The Indus river flows in a northwest direction specifically between the Ladakh and Zaskar mountain ranges."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T16-0039",
+   "section": {
+    "te": "Alaknanda Confluences",
+    "en": "Alaknanda Confluences"
+   },
+   "q": {
+    "te": "అలకనంద నది యొక్క సంగమాలను వాటి సంబంధిత ఉపనదులతో జతపరచండి:\nI. విష్ణు ప్రయాగ - a. మందాకిని\nII. కర్ణ ప్రయాగ - b. ధౌలీ గంగ\nIII. రుద్ర ప్రయాగ - c. పిండార్",
+    "en": "Match the following confluences of the Alaknanda river with their respective joining tributaries:\nI. Vishnu Prayag - a. Mandakini\nII. Karna Prayag - b. Dhauli Ganga\nIII. Rudra Prayag - c. Pindar"
+   },
+   "options": {
+    "te": [
+     "I-b, II-c, III-a",
+     "I-a, II-b, III-c",
+     "I-c, II-a, III-b",
+     "I-b, II-a, III-c"
+    ],
+    "en": [
+     "I-b, II-c, III-a",
+     "I-a, II-b, III-c",
+     "I-c, II-a, III-b",
+     "I-b, II-a, III-c"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ధౌలీ గంగ విష్ణు ప్రయాగ వద్ద, పిండార్ కర్ణ ప్రయాగ వద్ద మరియు మందాకిని రుద్ర ప్రయాగ వద్ద అలకనందను కలుస్తాయి.",
+    "en": "Dhauli Ganga meets Alaknanda at Vishnu Prayag, Pindar meets it at Karna Prayag, and Mandakini meets it at Rudra Prayag."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T16-0076",
+   "section": {
+    "te": "Kaveri tributaries",
+    "en": "Kaveri tributaries"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో కావేరి నది యొక్క ముఖ్యమైన ఉపనదులు ఏవి?",
+    "en": "Which of the following are important tributaries of the Kaveri river?"
+   },
+   "options": {
+    "te": [
+     "కబిని",
+     "భవాని",
+     "అమరావతి",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Kabini",
+     "Bhavani",
+     "Amravati",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "కబిని, భవాని మరియు అమరావతి కావేరి నదికి ముఖ్యమైన ఉపనదులు.",
+    "en": "The important tributaries of the Kaveri river include the Kabini, the Bhavani, and the Amravati."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T16-0103",
+   "section": {
+    "te": "Moderate groundwater utilisation states",
+    "en": "Moderate groundwater utilisation states"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో తమ భూగర్భ జల వనరులను మితమైన రేటుతో (moderate rate) వినియోగించుకుంటున్న రాష్ట్రాలు ఏవి?",
+    "en": "Which of the following states are utilising their groundwater resources at a moderate rate?"
+   },
+   "options": {
+    "te": [
+     "గుజరాత్ మరియు ఉత్తరప్రదేశ్",
+     "బీహార్, త్రిపుర మరియు మహారాష్ట్ర",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Gujarat and Uttar Pradesh",
+     "Bihar, Tripura and Maharashtra",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "గుజరాత్, ఉత్తరప్రదేశ్, బీహార్, త్రిపుర మరియు మహారాష్ట్ర రాష్ట్రాలు భూగర్భ జలాలను మితమైన రేటుతో వినియోగిస్తున్నాయి.",
+    "en": "The states utilising groundwater at a moderate rate include Gujarat, Uttar Pradesh, Bihar, Tripura, and Maharashtra."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T16-0020",
+   "section": {
+    "te": "Drainage Classification",
+    "en": "Drainage Classification"
+   },
+   "q": {
+    "te": "భారతీయ డ్రైనేజీ వర్గీకరణకు సంబంధించి క్రింది ప్రకటనలను పరిగణించండి:\n1. మూలం మరియు స్వభావం ఆధారంగా దీనిని హిమాలయ మరియు ద్వీపకల్ప డ్రైనేజీగా వర్గీకరించారు.\n2. చంబల్ మరియు బెత్వా వంటి నదులు ఇతర హిమాలయ నదుల కంటే వయస్సులో పాతవి, కానీ హిమాలయ డ్రైనేజీ వర్గీకరణలో చేర్చబడ్డాయి.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the classification of Indian drainage:\n1. It is classified into Himalayan and Peninsular drainage based on origin and nature.\n2. Rivers like Chambal and Betwa are older in age than other Himalayan rivers but are included in the Himalayan drainage classification.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "చంబల్ మరియు బెత్వా వంటి కొన్ని నదులు భౌగోళికంగా హిమాలయాల కంటే పాతవైనప్పటికీ, మూలం ఆధారంగా వర్గీకరణ విస్తృతంగా ఆమోదించబడింది.",
+    "en": "The classification based on origin is widely accepted despite the fact that some rivers like Chambal and Betwa are geologically older than the Himalayas."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T16-0097",
+   "section": {
+    "te": "Total replenishable groundwater",
+    "en": "Total replenishable groundwater"
+   },
+   "q": {
+    "te": "భారతదేశంలో మొత్తం పునరుద్ధరించదగిన భూగర్భ జల వనరుల పరిమాణం ఎంత?",
+    "en": "What is the total replenishable groundwater resource available in India?"
+   },
+   "options": {
+    "te": [
+     "సుమారు 432 క్యూబిక్ కి.మీ.",
+     "సుమారు 1,122 క్యూబిక్ కి.మీ.",
+     "సుమారు 690 క్యూబిక్ కి.మీ.",
+     "సుమారు 1,869 క్యూబిక్ కి.మీ."
+    ],
+    "en": [
+     "About 432 cubic km",
+     "About 1,122 cubic km",
+     "About 690 cubic km",
+     "About 1,869 cubic km"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "దేశంలో మొత్తం పునరుద్ధరించదగిన భూగర్భ జల వనరులు దాదాపు 432 క్యూబిక్ కి.మీ.గా ఉన్నాయి.",
+    "en": "The total replenishable groundwater resources in India are estimated at about 432 cubic km."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T16-0013",
+   "section": {
+    "te": "Inland Fisheries Governance",
+    "en": "Inland Fisheries Governance"
+   },
+   "q": {
+    "te": "స్వాతంత్ర్యం తర్వాత భారతదేశంలో అంతర్గత మత్స్య పరిశ్రమ పాలనకు ఏ వలస కాలం నాటి చట్టం ప్రాతిపదికగా ఉంది?",
+    "en": "Which colonial-era act remained the basis for inland fisheries governance in India after independence?"
+   },
+   "options": {
+    "te": [
+     "బీహార్ ఫిష్ యాక్ట్, 1897",
+     "ది ఇన్లాండ్ వాటర్వేస్ యాక్ట్, 1906",
+     "ది ఇండియన్ ఫిషరీస్ యాక్ట్, 1897",
+     "ది జల్కర్ మేనేజ్‌మెంట్ యాక్ట్, 1897"
+    ],
+    "en": [
+     "The Bihar Fish Act, 1897",
+     "The Inland Waterways Act, 1906",
+     "The Indian Fisheries Act, 1897",
+     "The Jalkar Management Act, 1897"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "స్వాతంత్ర్యం తర్వాత ది ఇండియన్ ఫిషరీస్ యాక్ట్, 1897 పాలనకు ప్రాతిపదికగా ఉందని పాఠం పేర్కొంది.",
+    "en": "The Indian Fisheries Act, 1897, remained the basis for governance after independence."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T16-0053",
+   "section": {
+    "te": "Damodar River Tributary",
+    "en": "Damodar River Tributary"
+   },
+   "q": {
+    "te": "కింది వాటిలో దామోదర్ నది యొక్క ప్రధాన ఉపనది ఏది?",
+    "en": "Which of the following is the main tributary of the Damodar river?"
+   },
+   "options": {
+    "te": [
+     "హిండన్",
+     "బరాకర్",
+     "గోమతి",
+     "మహానంద"
+    ],
+    "en": [
+     "Hindan",
+     "Barakar",
+     "Gomati",
+     "Mahananda"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "బరాకర్ దామోదర్ నది యొక్క ప్రధాన ఉపనది.",
+    "en": "The Barakar is the main tributary of the Damodar river."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T16-0005",
+   "section": {
+    "te": "Kaveri Water Sharing",
+    "en": "Kaveri Water Sharing"
+   },
+   "q": {
+    "te": "కావేరీ నది నీటి పంపకంలో ఈ క్రింది ఏ రాష్ట్రాలు/కేంద్రపాలిత ప్రాంతాలు పాలుపంచుకున్నాయి?",
+    "en": "Which of the following states/union territories are involved in the sharing of Kaveri River water?"
+   },
+   "options": {
+    "te": [
+     "కర్ణాటక మరియు తమిళనాడు మాత్రమే",
+     "కర్ణాటక, తమిళనాడు మరియు కేరళ మాత్రమే",
+     "కర్ణాటక, తమిళనాడు, కేరళ మరియు పుదుచ్చేరి",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Karnataka and Tamil Nadu only",
+     "Karnataka, Tamil Nadu and Kerala only",
+     "Karnataka, Tamil Nadu, Kerala and Puducherry",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కావేరీ నది నీటిని కర్ణాటక, తమిళనాడు, కేరళ మరియు కేంద్రపాలిత ప్రాంతమైన పుదుచ్చేరి మధ్య పంచుకుంటారు.",
+    "en": "The Kaveri river water is shared among Karnataka, Tamil Nadu, Kerala, and the union territory of Puducherry."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T16-0102",
+   "section": {
+    "te": "Low groundwater utilisation states",
+    "en": "Low groundwater utilisation states"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో తమ భూగర్భ జల సామర్థ్యంలో చాలా తక్కువ శాతాన్ని మాత్రమే వినియోగించుకుంటున్న రాష్ట్రాల సమూహం ఏది?",
+    "en": "Which of the following groups of states utilise only a small proportion of their groundwater potentials?"
+   },
+   "options": {
+    "te": [
+     "తమిళనాడు, మహారాష్ట్ర మరియు త్రిపుర",
+     "పంజాబ్, హర్యానా మరియు రాజస్థాన్",
+     "గుజరాత్, ఉత్తరప్రదేశ్ మరియు బీహార్",
+     "ఛత్తీస్‌గఢ్, ఒడిశా మరియు కేరళ"
+    ],
+    "en": [
+     "Tamil Nadu, Maharashtra, and Tripura",
+     "Punjab, Haryana, and Rajasthan",
+     "Gujarat, Uttar Pradesh, and Bihar",
+     "Chhattisgarh, Odisha, and Kerala"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఛత్తీస్‌గఢ్, ఒడిశా, కేరళ వంటి రాష్ట్రాలు తమ భూగర్భ జల వనరుల సామర్థ్యంలో చాలా తక్కువ భాగాన్ని మాత్రమే వినియోగిస్తున్నాయి.",
+    "en": "States like Chhattisgarh, Odisha, and Kerala utilise only a small proportion of their groundwater potentials."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T16-0042",
+   "section": {
+    "te": "Ravi River Origin",
+    "en": "Ravi River Origin"
+   },
+   "q": {
+    "te": "రావి నది ఎక్కడ జన్మిస్తుంది?",
+    "en": "Where does the Ravi river rise?"
+   },
+   "options": {
+    "te": [
+     "బియాస్ కుండ్",
+     "రోహ్‌తంగ్ కనుమకు తూర్పున",
+     "రోహ్‌తంగ్ కనుమకు పశ్చిమన",
+     "వెరినాగ్ బుగ్గ"
+    ],
+    "en": [
+     "Beas Kund",
+     "East of the Rohtang pass",
+     "West of the Rohtang pass",
+     "Verinag spring"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రావి నది హిమాచల్ ప్రదేశ్‌లోని కులు కొండలలోని రోహ్‌తంగ్ కనుమకు పశ్చిమాన జన్మిస్తుంది.",
+    "en": "The Ravi river rises west of the Rohtang pass in the Kullu hills of Himachal Pradesh."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T16-0073",
+   "section": {
+    "te": "Length of Kaveri",
+    "en": "Length of Kaveri"
+   },
+   "q": {
+    "te": "కావేరి నది మొత్తం పొడవు ఎంత?",
+    "en": "What is the total length of the Kaveri river?"
+   },
+   "options": {
+    "te": [
+     "800 కి.మీ.",
+     "1,312 కి.మీ.",
+     "720 కి.మీ.",
+     "1,401 కి.మీ."
+    ],
+    "en": [
+     "800 km",
+     "1,312 km",
+     "720 km",
+     "1,401 km"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "కావేరి నది మొత్తం పొడవు 800 కి.మీ. మరియు ఇది 81,155 చ.కి.మీ. విస్తీర్ణంలో ప్రవహిస్తుంది.",
+    "en": "The Kaveri river has a total length of 800 km and drains an area of 81,155 sq. km."
+   }
+  }
+ ]
+}

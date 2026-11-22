@@ -1,0 +1,942 @@
+{
+ "id": "geo-17-g1-2",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Monsoon – క్విజ్ 2",
+  "en": "Monsoon – Quiz 2"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T17-0033",
+   "section": {
+    "te": "Rainfall Distribution",
+    "en": "Rainfall Distribution"
+   },
+   "q": {
+    "te": "నైరుతి ఋతుపవనాల సమయంలో, పశ్చిమ కనుమల పశ్చిమ వాలులతో పోలిస్తే దక్కన్ పీఠభూమికి తక్కువ వర్షపాతం ఎందుకు అందుతుంది?",
+    "en": "During the southwest monsoon, why does the Deccan plateau receive less rainfall compared to the western slopes of the Western Ghats?"
+   },
+   "options": {
+    "te": [
+     "పీఠభూమి చదునైన భూభాగాన్ని కలిగి ఉండటం వల్ల",
+     "పశ్చిమ కనుమలు సహజ అవరోధంగా పనిచేయడం వల్ల",
+     "ఇది అధిక అక్షాంశంలో ఉండటం వల్ల",
+     "పీఠభూమికి చేరుకోవడానికి ముందే గాలులు దిశను మార్చుకోవడం వల్ల"
+    ],
+    "en": [
+     "Because the plateau has a flat topography",
+     "Because the Western Ghats act as a natural barrier",
+     "Because it is located at a higher latitude",
+     "Because the winds reverse direction before reaching the plateau"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పశ్చిమ కనుమలు ఒక అవరోధంగా పనిచేస్తాయి, దీనివల్ల పశ్చిమ వాలులలో భారీ వర్షం కురుస్తుంది మరియు తూర్పున ఉన్న దక్కన్ పీఠభూమికి తక్కువ వర్షపాతం అందుతుంది.",
+    "en": "The Western Ghats act as a barrier, causing heavy rain on the western slopes and leaving the Deccan plateau to the east with less rainfall."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T17-0119",
+   "section": {
+    "te": "Arabian Sea branch rainfall",
+    "en": "Arabian Sea branch rainfall"
+   },
+   "q": {
+    "te": "అరేబియా శాఖ మొదటి పవనాలు పశ్చిమ కనుమల వాలులను తాకడం వల్ల సహ్యాద్రి పర్వతాల పవనాభిముఖ దిశ మరియు పశ్చిమ తీర మైదానం ఎంత వర్షపాతాన్ని పొందుతాయి?",
+    "en": "How much rainfall does the windward side of the Sahyadris and the Western Coastal Plain receive from the first branch of the Arabian Sea monsoon?"
+   },
+   "options": {
+    "te": [
+     "250 సెం.మీ నుండి 400 సెం.మీ",
+     "50 సెం.మీ నుండి 150 సెం.మీ",
+     "100 సెం.మీ నుండి 200 సెం.మీ",
+     "450 సెం.మీ నుండి 600 సెం.మీ"
+    ],
+    "en": [
+     "250 cm to 400 cm",
+     "50 cm to 150 cm",
+     "100 cm to 200 cm",
+     "450 cm to 600 cm"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఈ గాలులు పశ్చిమ కనుమల వాలులను అధిరోహించి చల్లబడటం వల్ల పవనాభిముఖ ప్రాంతం 250 సెం.మీ నుండి 400 సెం.మీ వరకు భారీ వర్షపాతాన్ని పొందుతుంది.",
+    "en": "The winds climb the slopes of the Western Ghats, cool down, and cause very heavy rainfall ranging between 250 cm and 400 cm on the windward side."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T17-0042",
+   "section": {
+    "te": "Southwest Monsoon Mechanism",
+    "en": "Southwest Monsoon Mechanism"
+   },
+   "q": {
+    "te": "నైరుతి రుతుపవనాలకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఇది జూన్ మరియు సెప్టెంబర్ మధ్య సముద్రం నుండి భూమి వైపు వీస్తుంది.\n2. ఇది ప్రధానంగా భూమి మరియు సముద్రం అసమానంగా వేడెక్కడం వల్ల సంభవిస్తుంది.\n3. ఈ కాలంలో, భారత ఉపఖండంపై అధిక పీడన ప్రాంతం ఏర్పడుతుంది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the Southwest monsoon:\n1. It blows from sea to land between June and September.\n2. It is primarily caused by the unequal heating of land and sea.\n3. During this period, a high-pressure area develops over the Indian subcontinent.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రకటనలు 1 మరియు 2 సరైనవి. ప్రకటన 3 తప్పు ఎందుకంటే భూభాగం వేడెక్కడం వల్ల భారత ఉపఖండంపై అల్పపీడన ప్రాంతం ఏర్పడుతుంది, అధిక పీడనం కాదు.",
+    "en": "Statements 1 and 2 are correct. Statement 3 is wrong because the heating of the landmass creates a low-pressure area, not high-pressure, over the Indian subcontinent."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T17-0023",
+   "section": {
+    "te": "Topographic Barriers",
+    "en": "Topographic Barriers"
+   },
+   "q": {
+    "te": "మధ్య ఆసియాలోని శీతల ఎడారి గాలుల నుండి భారత ఉపఖండాన్ని ఏ పర్వత శ్రేణులు రక్షిస్తాయి?",
+    "en": "Which mountain ranges protect the Indian subcontinent from the cold desert winds of Central Asia?"
+   },
+   "options": {
+    "te": [
+     "వింధ్య మరియు సాత్పురా",
+     "పశ్చిమ కనుమలు మరియు ఆరావళి",
+     "హిమాలయాలు మరియు కారకోరం",
+     "తూర్పు కనుమలు మరియు నీలగిరి"
+    ],
+    "en": [
+     "Vindhyas and Satpuras",
+     "Western Ghats and Aravallis",
+     "Himalayas and Karakoram",
+     "Eastern Ghats and Nilgiris"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "హిమాలయాలు మరియు కారకోరం శ్రేణులు మధ్య ఆసియా శీతల గాలుల నుండి రక్షణ కల్పిస్తాయని పాఠ్యభాగం స్పష్టంగా పేర్కొంది.",
+    "en": "The Himalayas and the Karakoram ranges provide protection from Central Asian cold winds."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T17-0098",
+   "section": {
+    "te": "Winter depressions origin",
+    "en": "Winter depressions origin"
+   },
+   "q": {
+    "te": "శీతాకాలంలో వాయువ్య భారతదేశంలో ఆహ్లాదకరమైన వాతావరణాన్ని భంగపరిచే నిస్సార తుఫాను వాయుగుండాలు క్రింది ఏ సముద్రంపై ఉద్భవిస్తాయి?",
+    "en": "The shallow cyclonic depressions that disturb the pleasant winter weather in northwestern India originate over which of the following water bodies?"
+   },
+   "options": {
+    "te": [
+     "తూర్పు మధ్యధరా సముద్రం",
+     "ఎర్ర సముద్రం",
+     "నల్ల సముద్రం",
+     "అరేబియా సముద్రం"
+    ],
+    "en": [
+     "East Mediterranean Sea",
+     "Red Sea",
+     "Black Sea",
+     "Arabian Sea"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఈ తుఫాను వాయుగుండాలు తూర్పు మధ్యధరా సముద్రంపై ఉద్భవించి, పశ్చిమాసియా గుండా ప్రయాణించి భారతదేశాన్ని చేరుకుంటాయి.",
+    "en": "The shallow cyclonic depressions disturbing winter weather originate over the east Mediterranean Sea."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T17-0066",
+   "section": {
+    "te": "Himalayas as climatic divide",
+    "en": "Himalayas as climatic divide"
+   },
+   "q": {
+    "te": "ఉత్తరాన ఉన్న ఏ ఎత్తైన భౌగోళిక స్వరూపం తన విస్తరణలతో కలిసి భారత ఉపఖండానికి సమర్థవంతమైన శీతోష్ణస్థితి విభజన రేఖగా (climatic divide) పనిచేస్తుంది?",
+    "en": "Which towering physical feature in the north along with its extensions acts as an effective climatic divide for the Indian subcontinent?"
+   },
+   "options": {
+    "te": [
+     "పశ్చిమ కనుమలు",
+     "ఆరవల్లీ పర్వత శ్రేణి",
+     "వింధ్య పర్వత శ్రేణి",
+     "హిమాలయాలు"
+    ],
+    "en": [
+     "Western Ghats",
+     "Aravalli Range",
+     "Vindhya Range",
+     "The Himalayas"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఉత్తరాన ఉన్న ఉన్నతమైన హిమాలయ పర్వతాలు వాటి విస్తరణలతో కలిసి భారతదేశానికి సమర్థవంతమైన శీతోష్ణస్థితి విభజన రేఖగా పనిచేస్తాయి.",
+    "en": "The Himalayas in the north along with their extensions act as an effective climatic divide by blocking cold winds and trapping monsoons."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T17-0044",
+   "section": {
+    "te": "Meghadutam and Monsoon",
+    "en": "Meghadutam and Monsoon"
+   },
+   "q": {
+    "te": "క్రీ.శ. 5వ శతాబ్దంలో వ్రాయబడిన ఏ ప్రాచీన సాహిత్య గ్రంథం మధ్య భారతదేశంపై రుతుపవన మేఘాల మార్గాన్ని వివరిస్తుంది?",
+    "en": "Which ancient literary work, written around the 5th century CE, traces the path of monsoon clouds over central India?"
+   },
+   "options": {
+    "te": [
+     "అర్థశాస్త్రం",
+     "కృషిపరాశర",
+     "బృహత్సంహిత",
+     "మేఘదూతం"
+    ],
+    "en": [
+     "Arthashastra",
+     "Krishiparashara",
+     "Brihatsamhita",
+     "Meghadūtam"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "క్రీ.శ. 5వ శతాబ్దంలో కాళిదాసు రాసిన మేఘదూతం, మధ్య భారతదేశంలో రుతుపవనాల ప్రారంభాన్ని మరియు మేఘాల మార్గాన్ని పేర్కొంటుంది.",
+    "en": "Kalidasa's Meghadutam, written around the 5th century CE, mentions the onset and traces the path of monsoon clouds over central India."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T17-0113",
+   "section": {
+    "te": "Temperature decline during monsoon",
+    "en": "Temperature decline during monsoon"
+   },
+   "q": {
+    "te": "రుతుపవనాల రాకతో, జూన్ మధ్య నుండి జూలై మధ్య కాలంలో పగటి ఉష్ణోగ్రత ఎంత మేర తగ్గుతుంది?",
+    "en": "With the arrival and burst of the monsoon, by how much does the day temperature decline between mid-June and mid-July?"
+   },
+   "options": {
+    "te": [
+     "13°C నుండి 16°C",
+     "9°C నుండి 12°C",
+     "2°C నుండి 4°C",
+     "5°C నుండి 8°C"
+    ],
+    "en": [
+     "13°C to 16°C",
+     "9°C to 12°C",
+     "2°C to 4°C",
+     "5°C to 8°C"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రుతుపవనాల ఆగమనంతో జూన్ మధ్య నుండి జూలై మధ్య కాలంలో పగటి ఉష్ణోగ్రత 5°C నుండి 8°C వరకు తగ్గుముఖం పడుతుంది.",
+    "en": "Between mid-June and mid-July, the day temperature registers a decline of 5°C to 8°C."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T17-0123",
+   "section": {
+    "te": "Mawsynram location",
+    "en": "Mawsynram location"
+   },
+   "q": {
+    "te": "ప్రపంచంలోనే అత్యధిక సగటు వార్షిక వర్షపాతం నమోదయ్యే మాసిన్‌రామ్ ఏ కొండల శిఖరంపై ఉంది?",
+    "en": "Mawsynram, which receives the highest average annual rainfall in the world, is located on the crest of which hills?"
+   },
+   "options": {
+    "te": [
+     "జైంతియా కొండలు",
+     "మిజో కొండలు",
+     "గారో కొండలు",
+     "ఖాసీ కొండలు"
+    ],
+    "en": [
+     "Jaintia hills",
+     "Mizo hills",
+     "Garo hills",
+     "Khasi hills"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మేఘాలయలోని ఖాసీ కొండల శిఖరంపై ఉన్న మాసిన్‌రామ్ ప్రపంచంలోనే అత్యధిక సగటు వార్షిక వర్షపాతాన్ని నమోదు చేస్తుంది.",
+    "en": "Mawsynram is located on the crest of the Khasi hills in Meghalaya and records the highest average annual rainfall in the world."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T17-0117",
+   "section": {
+    "te": "Loo intensity",
+    "en": "Loo intensity"
+   },
+   "q": {
+    "te": "'లూ' అని పిలువబడే వేడి, పొడి మరియు బాధాకరమైన గాలులు ఉత్తర మైదానాలలో పంజాబ్ నుండి బీహార్ వరకు వీస్తాయి; అయితే ఇవి ఏ రెండు ప్రాంతాల మధ్య అత్యధిక తీవ్రతతో ఉంటాయి?",
+    "en": "The hot, dry and oppressing winds known as 'Loo' blow across the Northern plains with higher intensity between which two locations?"
+   },
+   "options": {
+    "te": [
+     "అమృత్‌సర్ మరియు చండీగఢ్",
+     "లక్నో మరియు వారణాసి",
+     "జైపూర్ మరియు ఆగ్రా",
+     "ఢిల్లీ మరియు పాట్నా"
+    ],
+    "en": [
+     "Amritsar and Chandigarh",
+     "Lucknow and Varanasi",
+     "Jaipur and Agra",
+     "Delhi and Patna"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "'లూ' గాలులు పంజాబ్ నుండి బీహార్ వరకు వీచినప్పటికీ, ఢిల్లీ మరియు పాట్నా నగరాల మధ్య వాటి తీవ్రత చాలా ఎక్కువగా ఉంటుంది.",
+    "en": "Loo winds blow in the Northern plains from Punjab to Bihar, having higher intensity between Delhi and Patna."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T17-0128",
+   "section": {
+    "te": "Tropical cyclones targets",
+    "en": "Tropical cyclones targets"
+   },
+   "q": {
+    "te": "తిరోగమన రుతుపవనాల కాలంలో వచ్చే వినాశకర ఉష్ణమండల తుఫానులు ఏ నదుల జనసాంద్రత గల డెల్టాలను ఎక్కువగా తాకుతాయి?",
+    "en": "The destructive tropical cyclones originating during the retreating monsoon season frequently target the thickly populated deltas of which rivers?"
+   },
+   "options": {
+    "te": [
+     "గోదావరి",
+     "కృష్ణా",
+     "కావేరి",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Godavari",
+     "Krishna",
+     "Kaveri",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "గోదావరి, కృష్ణా మరియు కావేరి నదుల జనసాంద్రత కలిగిన డెల్టాలు ఈ తుఫానుల ప్రధాన లక్ష్యాలుగా ఉంటాయి.",
+    "en": "The thickly populated deltas of the Godavari, Krishna, and Kaveri rivers are the preferred targets of these destructive cyclones."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T17-0002",
+   "section": {
+    "te": "Solar Radiation Angle",
+    "en": "Solar Radiation Angle"
+   },
+   "q": {
+    "te": "ధృవ ప్రాంతాల కంటే భూమధ్యరేఖకు సమీపంలో ఉన్న ప్రాంతాలు ఎందుకు వెచ్చగా ఉంటాయి?",
+    "en": "Why are places near the Equator warmer than those near the poles?"
+   },
+   "options": {
+    "te": [
+     "సూర్యకిరణాలు భూమధ్యరేఖను వాలుగా తాకుతాయి",
+     "భూమధ్యరేఖ వద్ద వాతావరణం మందంగా ఉంటుంది",
+     "భూమధ్యరేఖ సూర్యుడికి దూరంగా ఉంటుంది",
+     "భూమధ్యరేఖ వద్ద సూర్యకిరణాలు దాదాపు లంబంగా ఉంటాయి"
+    ],
+    "en": [
+     "The sun's rays hit the Equator at an oblique angle",
+     "The atmosphere is thicker at the Equator",
+     "The Equator is farther away from the sun",
+     "The sun's rays are nearly perpendicular at the Equator"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూమధ్యరేఖ వద్ద సూర్యకిరణాలు దాదాపు లంబంగా పడతాయి, దీనివల్ల శక్తి తక్కువ వైశాల్యంపై కేంద్రీకృతమై ఆ ప్రాంతం వెచ్చగా ఉంటుంది.",
+    "en": "At the Equator, sun rays are nearly perpendicular, focusing energy on a smaller area, making it warmer compared to the poles where rays are oblique."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T17-0126",
+   "section": {
+    "te": "October heat",
+    "en": "October heat"
+   },
+   "q": {
+    "te": "తిరోగమన రుతుపవనాల కాలంలో 'అక్టోబర్ వేడి' (October heat) అని పిలువబడే అసౌకర్య వాతావరణానికి కారణమైన పరిస్థితులు ఏవి?",
+    "en": "The oppressive weather condition commonly known as 'October heat' during the retreating monsoon is caused by which conditions?"
+   },
+   "options": {
+    "te": [
+     "ఎడతెరిపిలేని భారీ వర్షాలు మరియు తక్కువ ఉష్ణోగ్రత",
+     "తీవ్రమైన శీతల గాలులు మరియు తక్కువ ఆర్ద్రత",
+     "తీవ్రమైన గాలుల వేగం మరియు మేఘావృతం",
+     "తేమతో కూడిన నేల, అధిక ఉష్ణోగ్రత మరియు అధిక ఆర్ద్రత"
+    ],
+    "en": [
+     "Continuous torrential downpours and low temperature",
+     "Severe cold waves and low humidity",
+     "High wind velocities and cloudiness",
+     "High temperature and humidity with moist land"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నిర్మలమైన ఆకాశం, నేలలో ఇంకా తేమ ఉండటం, అధిక ఉష్ణోగ్రత మరియు ఆర్ద్రతల కలయిక వల్ల ఉక్కపోతతో కూడిన 'అక్టోబర్ వేడి' ఏర్పడుతుంది.",
+    "en": "During the retreating monsoon, clear skies, moist land, high temperatures, and high humidity create oppressive weather called 'October heat'."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T17-0014",
+   "section": {
+    "te": "J&K Snowfall Data",
+    "en": "J&K Snowfall Data"
+   },
+   "q": {
+    "te": "జమ్మూ & కాశ్మీర్ వాతావరణ డేటా ప్రకారం, 0830 గంటలకు ముగిసిన 24 గంటల కాలానికి పహల్గామ్ వద్ద నమోదైన అసలు మంచు కురుపు (S/N) సెం.మీలలో ఎంత?",
+    "en": "According to the J&K weather data, what was the actual snowfall (S/N) in cm recorded at Pahalgam for the 24 hours ending at 0830 hrs?"
+   },
+   "options": {
+    "te": [
+     "8.0",
+     "6.0",
+     "19.4",
+     "23.0"
+    ],
+    "en": [
+     "8.0",
+     "6.0",
+     "19.4",
+     "23.0"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పహల్గామ్ పట్టికలో, 0830కి ముగిసిన 24 గంటల అసలు మంచు కురుపు (S/N) 8.0 సెం.మీ.",
+    "en": "In the table for Pahalgam, the actual snowfall (S/N) for the 24 hours ending 0830 is 8.0 cm."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T17-0030",
+   "section": {
+    "te": "Rainfall Record",
+    "en": "Rainfall Record"
+   },
+   "q": {
+    "te": "ప్రపంచంలోనే అత్యధిక సగటు వార్షిక వర్షపాతం నమోదయ్యే మాసిన్రామ్ భారతదేశంలోని ఏ రాష్ట్రంలో ఉంది?",
+    "en": "Mawsynram, the place with the highest average annual rainfall in the world, is located in which Indian state?"
+   },
+   "options": {
+    "te": [
+     "అరుణాచల్ ప్రదేశ్",
+     "సిక్కిం",
+     "మేఘాలయ",
+     "అస్సాం"
+    ],
+    "en": [
+     "Arunachal Pradesh",
+     "Sikkim",
+     "Meghalaya",
+     "Assam"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మాసిన్రామ్ మేఘాలయ రాష్ట్రంలో ఉంది.",
+    "en": "Mawsynram is located in the state of Meghalaya."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T17-0071",
+   "section": {
+    "te": "ITCZ position in July",
+    "en": "ITCZ position in July"
+   },
+   "q": {
+    "te": "జూలై నెలలో గంగా మైదానంపై అంతర అయనరేఖా కలయిక ప్రాంతం (ITCZ) దాదాపు ఏ అక్షాంశాల మధ్య విస్తరించి ఉంటుంది?",
+    "en": "In the month of July, around which latitudes is the Inter Tropical Convergence Zone (ITCZ) located over the Gangetic plain?"
+   },
+   "options": {
+    "te": [
+     "5°N-10°N అక్షాంశాల చుట్టూ",
+     "30°N-35°N అక్షాంశాల చుట్టూ",
+     "10°S-15°S అక్షాంశాల చుట్టూ",
+     "20°N-25°N అక్షాంశాల చుట్టూ"
+    ],
+    "en": [
+     "Around 5°N-10°N latitudes",
+     "Around 30°N-35°N latitudes",
+     "Around 10°S-15°S latitudes",
+     "Around 20°N-25°N latitudes"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జూలై నెలలో ITCZ గంగా మైదానంపై సుమారు 20°N-25°N అక్షాంశాల వద్ద కేంద్రీకృతమవుతుంది, దీనిని కొన్నిసార్లు రుతుపవన ద్రోణి అని కూడా పిలుస్తారు.",
+    "en": "In July, the ITCZ shifts northward and is located around 20°N-25°N latitudes over the Gangetic plain, where it is known as the monsoon trough."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T17-0078",
+   "section": {
+    "te": "Origin of southwest monsoon",
+    "en": "Origin of southwest monsoon"
+   },
+   "q": {
+    "te": "భారత ఉపఖండం వైపు వీచే నైరుతి రుతుపవనాలు క్రింది ఏ పవన వ్యవస్థ యొక్క కొనసాగింపుగా పరిగణించవచ్చు?",
+    "en": "The southwest monsoon blowing over the Indian subcontinent can be seen as a continuation of which of the following wind systems?"
+   },
+   "options": {
+    "te": [
+     "ధ్రువ తూర్పు పవనాలు",
+     "ఆగ్నేయ వ్యాపార పవనాలు",
+     "పశ్చిమ పవనాలు (Westerlies)",
+     "ఈశాన్య వ్యాపార పవనాలు"
+    ],
+    "en": [
+     "Polar easterlies",
+     "Southeast trades",
+     "Westerlies",
+     "Northeast trades"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భూమధ్యరేఖను దాటిన తర్వాత భారతదేశం వైపునకు మళ్ళించబడే దక్షిణార్థగోళపు ఆగ్నేయ వ్యాపార పవనాల కొనసాగింపే నైరుతి రుతుపవనాలు.",
+    "en": "The southwest monsoon is a continuation of the southeast trade winds that cross the Equator and are deflected towards the Indian subcontinent."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T17-0132",
+   "section": {
+    "te": "Meeting of monsoon branches",
+    "en": "Meeting of monsoon branches"
+   },
+   "q": {
+    "te": "పశ్చిమ హిమాలయాలలో వర్షాలు కురిపించడానికి అరేబియా సముద్రపు మూడవ శాఖ బంగాళాఖాత శాఖతో ఏ రాష్ట్రాలలో కలుస్తుంది?",
+    "en": "In which states does the third branch of the Arabian Sea monsoon join the Bay of Bengal branch to cause rains in the western Himalayas?"
+   },
+   "options": {
+    "te": [
+     "పంజాబ్ మరియు హర్యానా",
+     "ఉత్తరప్రదేశ్ మరియు బీహార్",
+     "గుజరాత్ మరియు రాజస్థాన్",
+     "మధ్యప్రదేశ్ మరియు ఛత్తీస్‌గఢ్"
+    ],
+    "en": [
+     "Punjab and Haryana",
+     "Uttar Pradesh and Bihar",
+     "Gujarat and Rajasthan",
+     "Madhya Pradesh and Chhattisgarh"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అరేబియా సముద్రపు మూడవ శాఖ పంజాబ్ మరియు హర్యానాలలో బంగాళాఖాత శాఖతో కలిసి పశ్చిమ హిమాలయాలలో వర్షాలకు కారణమవుతుంది.",
+    "en": "The third branch of the Arabian Sea monsoon joins the Bay of Bengal branch in Punjab and Haryana, causing rains in the western Himalayas."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T17-0087",
+   "section": {
+    "te": "West coast dry spells",
+    "en": "West coast dry spells"
+   },
+   "q": {
+    "te": "భారతదేశ పశ్చిమ తీరంలో ఋతుపవన కాలంలో పొడి వాతావరణం (dry spells) ఈ క్రింది ఏ పరిస్థితితో ముడిపడి ఉంటుంది?",
+    "en": "Over the west coast of India, dry spells during the monsoon period are associated with which of the following conditions?"
+   },
+   "options": {
+    "te": [
+     "తీరానికి సమాంతరంగా గాలులు వీచే రోజులు",
+     "భూమధ్యరేఖ సముద్రపు గాలి వేగంగా ఉపసంహరించుకోవడం",
+     "తీరానికి లంబంగా గాలులు వీచడం",
+     "అరేబియా సముద్రంపై అధిక పీడనం ఏర్పడటం"
+    ],
+    "en": [
+     "Days when winds blow parallel to the coast",
+     "Rapid withdrawal of the equatorial maritime air mass",
+     "Winds blowing perpendicular to the coast",
+     "Formation of high pressure over the Arabian Sea"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పశ్చిమ తీరంలో గాలులు తీరానికి సమాంతరంగా వీచే రోజుల్లో వర్షాలు పడక పొడి వాతావరణం ఏర్పడుతుంది.",
+    "en": "Over the west coast, dry spells (breaks in monsoon) are associated with days when winds blow parallel to the coast."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T17-0016",
+   "section": {
+    "te": "Polar Heating Factors",
+    "en": "Polar Heating Factors"
+   },
+   "q": {
+    "te": "ధృవ ప్రాంతాలు భూమధ్యరేఖ ప్రాంతం కంటే తక్కువ వేడిని ఎందుకు పొందుతాయి?\n1. ధృవ ప్రాంతాలలో సూర్యకిరణాలు వాలుగా ఉంటాయి.\n2. ధృవ ప్రాంతాలలో సౌర శక్తి పెద్ద ఉపరితల వైశాల్యంపై విస్తరిస్తుంది.\n3. సూర్యకిరణాలు ధృవ ప్రాంతాలకు చేరుకోవడానికి భూమి యొక్క వాతావరణంలో ఎక్కువ దూరం ప్రయాణించాలి.",
+    "en": "Why do polar regions receive less heat than the equatorial zone?\n1. The sun's rays are oblique in polar regions.\n2. Solar energy is distributed over a larger surface area in polar regions.\n3. Sun rays pass through more of the Earth's atmosphere to reach polar regions."
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వాలుగా ఉండే కిరణాలు, పెద్ద వైశాల్యంపై విస్తరించడం మరియు ఎక్కువ వాతావరణం గుండా ప్రయాణించడం అనే మూడు అంశాలు పేర్కొనబడ్డాయి.",
+    "en": "All three factors are mentioned: oblique rays, distribution over a larger area, and passing through more atmosphere."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T17-0060",
+   "section": {
+    "te": "Summer temperature contrast",
+    "en": "Summer temperature contrast"
+   },
+   "q": {
+    "te": "జూన్ నెలలో ఒక రోజున రాజస్థాన్‌లోని చురులో 50°C లేదా అంతకంటే ఎక్కువ ఉష్ణోగ్రత నమోదైనప్పుడు, అదే రోజున అరుణాచల్ ప్రదేశ్‌లోని తవాంగ్‌లో ఉష్ణోగ్రత దాదాపు ఎంత కంటే పెరగదు?",
+    "en": "On a June day when Churu in Rajasthan records a temperature of 50°C or more, what temperature is hardly touched in Tawang (Arunachal Pradesh)?"
+   },
+   "options": {
+    "te": [
+     "19°C",
+     "15°C",
+     "22°C",
+     "12°C"
+    ],
+    "en": [
+     "19°C",
+     "15°C",
+     "22°C",
+     "12°C"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "రాజస్థాన్‌లోని చురులో 50°C ఉష్ణోగ్రత నమోదైన అదే రోజున, తవాంగ్ (అరుణాచల్ ప్రదేశ్) లో ఉష్ణోగ్రత 19°C ని కూడా దాటదు.",
+    "en": "On a June day when Churu reaches 50°C or more, the mercury hardly touches 19°C in Tawang."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T17-0125",
+   "section": {
+    "te": "Monsoon withdrawal timeline",
+    "en": "Monsoon withdrawal timeline"
+   },
+   "q": {
+    "te": "తిరోగమన రుతుపవనాల కాలంలో ఏ సమయానికి అల్పపీడన కేంద్రం ద్వీపకల్పం నుండి పూర్తిగా తొలగిపోతుంది?",
+    "en": "By which time is the centre of low pressure completely removed from the Indian Peninsula during the retreating monsoon season?"
+   },
+   "options": {
+    "te": [
+     "నవంబర్ చివరి నాటికి",
+     "నవంబర్ ప్రారంభం నాటికి",
+     "అక్టోబర్ చివరి నాటికి",
+     "డిసెంబర్ మధ్య నాటికి"
+    ],
+    "en": [
+     "End of November",
+     "Early November",
+     "End of October",
+     "Middle of December"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "టెక్స్ట్ ప్రకారం, డిసెంబర్ మధ్య నాటికి అల్పపీడన కేంద్రం ద్వీపకల్పం నుండి పూర్తిగా తొలగిపోతుంది.",
+    "en": "The centre of low pressure is completely removed from the Peninsula by the middle of December."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T17-0036",
+   "section": {
+    "te": "Traditional Monsoon Prediction",
+    "en": "Traditional Monsoon Prediction"
+   },
+   "q": {
+    "te": "దక్షిణ భారతదేశంలోని కొన్ని ప్రాంతాలలో, గోల్డెన్ షవర్ చెట్టు (కాసియా ఫిస్టులా) పూసిన ఎన్ని రోజుల తర్వాత సాధారణంగా రుతుపవనాలు వస్తాయని భావిస్తారు?",
+    "en": "In parts of southern India, the monsoon is traditionally expected to arrive within how many days after the Golden Shower tree (Cassia fistula) blossoms?"
+   },
+   "options": {
+    "te": [
+     "50 రోజులు",
+     "40 రోజులు",
+     "30 రోజులు",
+     "60 రోజులు"
+    ],
+    "en": [
+     "50 days",
+     "40 days",
+     "30 days",
+     "60 days"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "దక్షిణ భారతదేశంలోని కొన్ని ప్రాంతాల్లోని సాంప్రదాయ జ్ఞానం ప్రకారం, గోల్డెన్ షవర్ చెట్టు పూసిన 50 రోజులలోపు రుతుపవనాలు వస్తాయి.",
+    "en": "According to traditional knowledge in parts of southern India, the monsoon arrives within 50 days of the Golden Shower tree's blossoming."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T17-0035",
+   "section": {
+    "te": "Climate Components",
+    "en": "Climate Components"
+   },
+   "q": {
+    "te": "ఒక ప్రాంతం యొక్క శీతోష్ణస్థితి నమూనాల వివరణలో ఈ క్రింది వాటిలో ఏవి చేర్చబడ్డాయి?\n1. ఉష్ణోగ్రత\n2. అవపాతం (మంచు లేదా పొగమంచుతో సహా)\n3. గాలి పరిస్థితులు",
+    "en": "Which of the following are included in the description of a region's climate patterns?\n1. Temperature\n2. Precipitation (including fog or mist)\n3. Wind conditions"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, శీతోష్ణస్థితి వివరణలో ఉష్ణోగ్రత, అవపాతం మరియు గాలి పరిస్థితుల నమూనాలు ఉంటాయి.",
+    "en": "Climate description involves patterns of temperature, precipitation, and wind conditions."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T17-0102",
+   "section": {
+    "te": "Winter monsoon rainfall",
+    "en": "Winter monsoon rainfall"
+   },
+   "q": {
+    "te": "భారతదేశంలోని చాలా ప్రాంతాలలో శీతాకాలపు రుతుపవనాలు సాధారణంగా వర్షపాతాన్ని ఎందుకు కలిగించవు?",
+    "en": "Why do winter monsoons generally NOT cause rainfall in most parts of India?"
+   },
+   "options": {
+    "te": [
+     "వాటికి తేమ చాలా తక్కువగా ఉండటం వల్ల",
+     "నేలపై ఏర్పడే ప్రతి-చక్రవాత ప్రసరణ వర్షపాత సంభావ్యతను తగ్గించడం వల్ల",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "They have little humidity",
+     "Anti-cyclonic circulation on land reduces rainfall possibility",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "శీతాకాలపు రుతుపవనాలు భూమి నుండి సముద్రం వైపు వీస్తాయి మరియు వాటిలో తేమ తక్కువగా ఉంటుంది; అంతేకాకుండా భూమిపై ఉండే ప్రతి-చక్రవాత ప్రసరణ వల్ల వర్షం పడే అవకాశం తగ్గుతుంది.",
+    "en": "Winter monsoons move from land to sea and have little humidity; additionally, anti-cyclonic circulation on land reduces the possibility of rainfall."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T17-0134",
+   "section": {
+    "te": "End of September monsoon withdrawal",
+    "en": "End of September monsoon withdrawal"
+   },
+   "q": {
+    "te": "సెప్టెంబర్ చివరి నాటికి నైరుతి రుతుపవనాలు క్రింది ఏ ప్రాంతాల నుండి ఉపసంహరించుకుంటాయి?",
+    "en": "By the end of September, the southwest monsoon withdraws from which of the following regions?"
+   },
+   "options": {
+    "te": [
+     "గుజరాత్",
+     "పశ్చిమ గంగా మైదానం",
+     "మధ్య ఉన్నత భూములు (Central Highlands)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Gujarat",
+     "Western Ganga plain",
+     "Central Highlands",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సెప్టెంబర్ నెలాఖరు నాటికి రుతుపవనాలు రాజస్థాన్, గుజరాత్, పశ్చిమ గంగా మైదానం మరియు మధ్య ఉన్నత భూముల నుండి ఉపసంహరించుకుంటాయి.",
+    "en": "By the end of September, the monsoon withdraws from Rajasthan, Gujarat, the Western Ganga plain, and the Central Highlands."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T17-0031",
+   "section": {
+    "te": "Cultural Impact of Monsoon",
+    "en": "Cultural Impact of Monsoon"
+   },
+   "q": {
+    "te": "ఋతుపవనాల ద్వారా ప్రేరణ పొందినట్లుగా ఈ క్రింది ఏ శాస్త్రీయ రాగాలను పేర్కొన్నారు?",
+    "en": "Which of the following classical ragas are mentioned as being inspired by the monsoons?"
+   },
+   "options": {
+    "te": [
+     "మేఘమల్హర్ మాత్రమే",
+     "అమృతవర్షిణి మాత్రమే",
+     "మేఘమల్హర్ మరియు అమృతవర్షిణి రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Meghamalhar only",
+     "Amruthavarshini only",
+     "Both Meghamalhar and Amruthavarshini",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఋతుపవనాల ద్వారా ప్రేరణ పొందిన రాగాలుగా మేఘమల్హర్ మరియు అమృతవర్షిణి రెండింటినీ పాఠ్యభాగం పేర్కొంది.",
+    "en": "Both Meghamalhar and Amruthavarshini as ragas inspired by the monsoons."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T17-0101",
+   "section": {
+    "te": "Ganga Valley winter winds",
+    "en": "Ganga Valley winter winds"
+   },
+   "q": {
+    "te": "ప్రాంతీయ స్థలాకృతి ప్రభావం వలన శీతాకాలంలో గంగా లోయ గుండా వీచే గాలుల దిశ ఏది?",
+    "en": "Influenced by the topography of the region, what is the direction of winter winds down the Ganga Valley?"
+   },
+   "options": {
+    "te": [
+     "దక్షిణ గాలులు",
+     "పశ్చిమ లేదా వాయువ్య గాలులు",
+     "నైరుతి గాలులు",
+     "తూర్పు లేదా ఆగ్నేయ గాలులు"
+    ],
+    "en": [
+     "Southerly",
+     "Westerly or northwesterly",
+     "Southwesterly",
+     "Easterly or southeasterly"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "స్థలాకృతి ప్రభావం వల్ల శీతాకాలంలో గంగా లోయలో గాలులు పశ్చిమ లేదా వాయువ్య దిశగా వీస్తాయి.",
+    "en": "The winds down the Ganga Valley in winter are westerly or northwesterly due to the local topography."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T17-0118",
+   "section": {
+    "te": "Southwest monsoon onset",
+    "en": "Southwest monsoon onset"
+   },
+   "q": {
+    "te": "జూన్ ప్రారంభం నాటికి, వాయవ్య భారతదేశంలో తీవ్రతరం అయిన అల్పపీడనం ఏ పవనాలను ఆకర్షించేంత శక్తివంతంగా మారుతుంది?",
+    "en": "By early June, the intensified low-pressure conditions over northwestern India are powerful enough to attract which winds?"
+   },
+   "options": {
+    "te": [
+     "దక్షిణార్ధగోళ వ్యాపార పవనాలు",
+     "ధ్రువ తూర్పు పవనాలు",
+     "ఉత్తరార్ధగోళ పశ్చిమ పవనాలు",
+     "ఈశాన్య వ్యాపార పవనాలు"
+    ],
+    "en": [
+     "Trade winds of the Southern Hemisphere",
+     "Polar easterlies",
+     "Westerlies of the Northern Hemisphere",
+     "Northeast trade winds"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "జూన్ ప్రారంభం నాటికి వాయవ్య మైదానాలలో ఏర్పడే అల్పపీడనం హిందూ మహాసముద్రం నుంచి వచ్చే దక్షిణార్ధగోళ వ్యాపార పవనాలను ఆకర్షించేంత శక్తివంతంగా మారుతుంది.",
+    "en": "By early June, the low pressure over northwestern plains is powerful enough to attract the trade winds of the Southern Hemisphere coming from the Indian Ocean."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T17-0056",
+   "section": {
+    "te": "Regional monsoon variations",
+    "en": "Regional monsoon variations"
+   },
+   "q": {
+    "te": "జూలై మరియు ఆగస్టు నెలలలో గంగా డెల్టా మరియు ఒడిశా తీర మైదానాలు తరచుగా వర్షపు తుఫానులను ఎదుర్కొంటున్నప్పుడు, క్రింది వాటిలో సాధారణంగా పొడిగా ఉండే ప్రాంతం ఏది?",
+    "en": "During July and August, while the Ganga delta and Odisha coastal plains experience frequent rain-bearing storms, which of the following regions generally remains dry?"
+   },
+   "options": {
+    "te": [
+     "మలబార్ తీరం",
+     "కోరమాండల్ తీరం",
+     "కొంకణ్ తీరం",
+     "A మరియు B రెండూ"
+    ],
+    "en": [
+     "Malabar coast",
+     "Coromandal coast",
+     "Konkan coast",
+     "Both A and B"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "జూలై మరియు ఆగస్టులలో గంగా డెల్టా, ఒడిశా తీరాలలో తరచుగా తుఫాను వర్షాలు కురిసినప్పటికీ, దక్షిణాన ఉన్న కోరమాండల్ తీరం సాధారణంగా పొడిగా ఉంటుంది.",
+    "en": "While the Ganga delta and Odisha coastal plains are hit by storms every third or fifth day in July and August, the Coromandal coast generally stays dry during this time."
+   }
+  }
+ ]
+}

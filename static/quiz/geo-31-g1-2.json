@@ -1,0 +1,942 @@
+{
+ "id": "geo-31-g1-2",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Biodiversity – క్విజ్ 2",
+  "en": "Biodiversity – Quiz 2"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T31-0004",
+   "section": {
+    "te": "Biome etymology",
+    "en": "Biome etymology"
+   },
+   "q": {
+    "te": "'బయోమ్' (biome) అనే పదం ఏ భాష నుండి ఉద్భవించింది మరియు దాని ప్రిఫిక్స్ 'బయో' అంటే ఏమిటి?",
+    "en": "The term 'biome' is derived from which language, and what does its prefix 'bio' mean?"
+   },
+   "options": {
+    "te": [
+     "గ్రీకు; 'పర్యావరణం' అని అర్థం",
+     "గ్రీకు; 'జీవం' (Life) అని అర్థం",
+     "లాటిన్; 'ప్రకృతి' అని అర్థం",
+     "లాటిన్; 'భూమి' అని అర్థం"
+    ],
+    "en": [
+     "Greek; meaning 'Environment'",
+     "Greek; meaning 'Life'",
+     "Latin; meaning 'Nature'",
+     "Latin; meaning 'Earth'"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "'బయోమ్' అనే పదం గ్రీకు పదం 'బయోస్' నుండి వచ్చింది, దీని అర్థం 'జీవం'.",
+    "en": "The word 'biome' comes from the Greek word 'bios', which means 'life'."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T31-0024",
+   "section": {
+    "te": "Biome Pyramid",
+    "en": "Biome Pyramid"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): బయోమ్ పిరమిడ్‌లో, మనం పై స్థాయిలకు వెళ్లే కొద్దీ అందుబాటులో ఉన్న శక్తి తగ్గుతుంది.\nకారణం (R): జీవక్రియ ప్రక్రియల సమయంలో ప్రతి పోషక స్థాయిలో శక్తి ఉష్ణ రూపంలో కోల్పోతుంది.",
+    "en": "Assertion (A): In a biome pyramid, the available energy decreases as we move to higher trophic levels.\nReason (R): Energy is lost at each trophic level as heat during metabolic processes."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రతి దశలో జీవక్రియ సమయంలో శక్తి ఉష్ణంగా కోల్పోవడం వల్ల పై స్థాయిలలో శక్తి తగ్గుతుందని పిరమిడ్ చూపుతుంది.",
+    "en": "The pyramid shows a decrease in energy at higher levels because energy is lost as heat during metabolism at each stage."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T31-0134",
+   "section": {
+    "te": "Water Pollution Chemicals",
+    "en": "Water Pollution Chemicals"
+   },
+   "q": {
+    "te": "ఈ క్రింది ఏ వ్యవసాయ ఉత్పాదకం ఉపరితల జలాల్లో నైట్రేట్ పరిమాణం పెరగడానికి కారణమవుతుంది?",
+    "en": "Which of the following agricultural inputs induces an increase in the nitrate content of surface waters?"
+   },
+   "options": {
+    "te": [
+     "సేంద్రీయ ఎరువులు (Organic manure)",
+     "రసాయన ఎరువులు (Fertiliser)",
+     "కలుపు సంహారకాలు (Herbicides)",
+     "పురుగుమందులు (Pesticides)"
+    ],
+    "en": [
+     "Organic manure",
+     "Fertiliser",
+     "Herbicides",
+     "Pesticides"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఉపరితల జల వనరులలో నైట్రేట్ కంటెంట్ పెరగడానికి రసాయన ఎరువులు కారణమని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Fertilisers are responsible for increasing the nitrate content in surface water bodies."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T31-0098",
+   "section": {
+    "te": "Ethical Responsibility",
+    "en": "Ethical Responsibility"
+   },
+   "q": {
+    "te": "ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ప్రతి జాతికి జీవించడానికి అంతర్గత హక్కు (intrinsic right) ఉంటుంది.\n2. జీవవైవిధ్య స్థాయి అనేది ఇతర జీవ జాతులతో మన సంబంధాల స్థితికి మంచి సూచిక.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements:\n1. Each and every species has an intrinsic right to exist.\n2. The level of biodiversity is a good indicator of the state of our relationships with other living species.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రతి జాతికి జీవించడానికి అంతర్గత హక్కు ఉందని మరియు జీవవైవిధ్య స్థాయిలు ఇతర జాతులతో మన సంబంధాన్ని సూచిస్తాయని వ్యాసం పేర్కొంది.",
+    "en": "Every species has an intrinsic right to exist and that biodiversity levels indicate our relationship with other species."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T31-0067",
+   "section": {
+    "te": "Biodiversity Distribution",
+    "en": "Biodiversity Distribution"
+   },
+   "q": {
+    "te": "జీవవైవిధ్యం యొక్క పంపిణీకి సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. జీవవైవిధ్యం భూమి అంతటా సమానంగా ఉంటుంది.\n2. ఉష్ణమండల ప్రాంతాలలో (Tropics) జీవవైవిధ్యం స్థిరంగా ఎక్కువగా ఉంటుంది.\n3. ధ్రువ ప్రాంతాలలో తక్కువ జాతులు మరియు ఎక్కువ జనాభా ఉంటుంది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the distribution of biodiversity:\n1. Biodiversity is found evenly across the earth.\n2. Biodiversity is consistently richer in the tropics.\n3. Polar regions have larger populations of fewer species.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "జీవవైవిధ్యం భూమిపై సమానంగా ఉండదని, ఉష్ణమండలంలో ఎక్కువగా ఉంటుందని మరియు ధ్రువ ప్రాంతాలలో తక్కువ జాతులు ఉంటాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Biodiversity is NOT found evenly; it is richer in the tropics and has fewer species in polar regions."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T31-0013",
+   "section": {
+    "te": "Rainforests in India",
+    "en": "Rainforests in India"
+   },
+   "q": {
+    "te": "భారతదేశంలోని ఏ ప్రాంతాలలో చిన్న ఉష్ణమండల వర్షారణ్య ప్రాంతాలు ఉన్నాయి?\nA. అండమాన్ & నికోబార్ దీవులు\nB. ఈశాన్య రాష్ట్రాలు\nC. పశ్చిమ కనుమలు",
+    "en": "In which parts of India are smaller tropical rainforest regions found?\nA. Andaman & Nicobar Islands\nB. Northeastern states\nC. Western Ghats"
+   },
+   "options": {
+    "te": [
+     "A మాత్రమే",
+     "B మాత్రమే",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "A only",
+     "B only",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతదేశంలోని వర్షారణ్యాల కోసం అండమాన్ & నికోబార్ దీవులు మరియు ఈశాన్య రాష్ట్రాలను పాఠ్యభాగం ప్రత్యేకంగా పేర్కొంది.",
+    "en": "The text specifically mentions the Andaman & Nicobar Islands and the Northeastern states as locations for rainforests in India."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T31-0058",
+   "section": {
+    "te": "Tiger Population",
+    "en": "Tiger Population"
+   },
+   "q": {
+    "te": "పులుల సంఖ్య 1,827కి తగ్గిపోయిందని అధికారులు ఏ సంవత్సరంలో గుర్తించారు?",
+    "en": "In which year did the authorities realize that the tiger population had dwindled to 1,827?"
+   },
+   "options": {
+    "te": [
+     "1963",
+     "1983",
+     "1970",
+     "1973"
+    ],
+    "en": [
+     "1963",
+     "1983",
+     "1970",
+     "1973"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, 1973లో పులుల సంఖ్య గణనీయంగా 1,827కి తగ్గిపోయిందని అధికారులు కనుగొన్నారు.",
+    "en": "It was in 1973 that authorities found the tiger population had dropped significantly to 1,827."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T31-0121",
+   "section": {
+    "te": "Water Pollution Contributors",
+    "en": "Water Pollution Contributors"
+   },
+   "q": {
+    "te": "నీటిని కలుషితం చేసే వివిధ మానవ కార్యకలాపాలలో, అత్యంత ముఖ్యమైన కారకంగా ఏది గుర్తించబడింది?",
+    "en": "Among the various human activities that pollute water, which one is identified as the most significant contributor?"
+   },
+   "options": {
+    "te": [
+     "పరిశ్రమలు",
+     "వ్యవసాయ కార్యకలాపాలు",
+     "సాంస్కృతిక కార్యకలాపాలు",
+     "క్రమక్షయం"
+    ],
+    "en": [
+     "Industry",
+     "Agricultural activities",
+     "Cultural activities",
+     "Erosion"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వ్యవసాయం మరియు సంస్కృతి కూడా దోహదపడినప్పటికీ, నీటి కాలుష్యానికి పరిశ్రమలే అత్యంత ముఖ్యమైన కారకమని పాఠ్య భాగం స్పష్టంగా పేర్కొంది.",
+    "en": "While agriculture and culture also contribute, the text explicitly states that industry is the most significant contributor to water pollution."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T31-0053",
+   "section": {
+    "te": "Lepcha Culture",
+    "en": "Lepcha Culture"
+   },
+   "q": {
+    "te": "లెప్చాల (Lepchas) జానపద గీతం ప్రకారం, వారి ప్రపంచంలో సంగీత సృష్టికర్తగా ఎవరు పరిగణించబడతారు?",
+    "en": "In the world of Lepchas, who is considered the creator of music according to their folk song?"
+   },
+   "options": {
+    "te": [
+     "నారక్",
+     "మర్రి చెట్టు",
+     "ముఖాలి",
+     "సైలెంట్ వ్యాలీ"
+    ],
+    "en": [
+     "Narak",
+     "Banyan",
+     "Mukhali",
+     "Silent Valley"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగంలో పేర్కొన్న లెప్చా జానపద గీతం ప్రకారం, నారక్ వారి ప్రపంచంలో సంగీత సృష్టికర్తగా పేర్కొనబడ్డారు.",
+    "en": "According to the Lepcha folk song mentioned in the text, Narak is addressed as the creator of music in their world."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T31-0083",
+   "section": {
+    "te": "Ecosystem Boundaries",
+    "en": "Ecosystem Boundaries"
+   },
+   "q": {
+    "te": "ఆవరణ వ్యవస్థ వైవిధ్యానికి సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. కమ్యూనిటీలు మరియు ఆవరణ వ్యవస్థల సరిహద్దులు కచ్చితంగా (rigidly) నిర్వచించబడ్డాయి.\n2. ఆవరణ వ్యవస్థ ఎంత వైవిధ్యంగా ఉంటే, ప్రతికూల పరిస్థితుల్లో జాతులు మనుగడ సాగించే అవకాశాలు అంత మెరుగ్గా ఉంటాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding ecosystem diversity:\n1. The boundaries of communities and ecosystems are rigidly defined.\n2. The more diverse an ecosystem, the better the chances for species to survive adversities.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సరిహద్దులు కచ్చితంగా నిర్వచించబడలేదు కాబట్టి ప్రకటన 1 తప్పు. వైవిధ్యం మనుగడ అవకాశాలను పెంచుతుంది కాబట్టి ప్రకటన 2 సరైనది.",
+    "en": "Statement 1 is incorrect because boundaries are not rigidly defined. Statement 2 is correct as diversity increases survival chances."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T31-0156",
+   "section": {
+    "te": "Waste Collection in Metros",
+    "en": "Waste Collection in Metros"
+   },
+   "q": {
+    "te": "ముంబై మరియు బెంగళూరు వంటి భారతీయ మెట్రోపాలిటన్ నగరాల్లో సాధారణంగా ఎంత శాతం ఘన వ్యర్థాలను సేకరించి పారవేస్తారు?",
+    "en": "What percentage of solid waste is typically collected and disposed of in Indian metropolitan cities like Mumbai and Bengaluru?"
+   },
+   "options": {
+    "te": [
+     "సుమారు 75 శాతం",
+     "సుమారు 30 శాతం",
+     "సుమారు 50 శాతం",
+     "సుమారు 90 శాతం"
+    ],
+    "en": [
+     "About 75 per cent",
+     "About 30 per cent",
+     "About 50 per cent",
+     "About 90 per cent"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ముంబై, కోల్‌కతా, చెన్నై మరియు బెంగళూరు వంటి మెట్రోపాలిటన్ నగరాల్లో సుమారు 90 శాతం ఘన వ్యర్థాలను సేకరించి పారవేస్తారని పాఠ్య భాగం పేర్కొంది.",
+    "en": "In metropolitan cities like Mumbai, Kolkata, Chennai, and Bengaluru, about 90 per cent of solid waste is collected and disposed of."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T31-0041",
+   "section": {
+    "te": "Sacred Groves Features",
+    "en": "Sacred Groves Features"
+   },
+   "q": {
+    "te": "పవిత్ర వనాలకు (Sacred Groves) సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి స్థానిక సంఘాలచే రక్షించబడే చిన్న అటవీ ప్రాంతాలు.\n2. భారతదేశం అంతటా 1,00,000 కంటే ఎక్కువ పవిత్ర వనాలు ఉన్నాయి.\n3. ఇవి తరచుగా అరుదైన మొక్కలను మరియు ఔషధ జాతులను సంరక్షిస్తాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding Sacred Groves:\n1. They are small forest patches protected by local communities.\n2. There are over 1,00,000 sacred groves across India.\n3. They often preserve rare plants and medicinal species.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, పవిత్ర వనాలు సమాజం చేత రక్షించబడే అటవీ ప్రాంతాలు, భారతదేశంలో వీటి సంఖ్య 1,00,000 కంటే ఎక్కువ, మరియు ఇవి అరుదైన మరియు ఔషధ మొక్కలకు నిలయాలుగా పనిచేస్తాయి.",
+    "en": "Sacred groves are community-protected forest patches, numbering over 1,00,000 in India, and they serve as hotspots for rare and medicinal plants."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T31-0014",
+   "section": {
+    "te": "Global rainforest locations",
+    "en": "Global rainforest locations"
+   },
+   "q": {
+    "te": "క్రింది వర్షారణ్య బేసిన్‌లను వాటి సంబంధిత ప్రాంతాలతో జతపరచండి:\n1. అమెజాన్ బేసిన్ - i. ఆఫ్రికా\n2. కాంగో బేసిన్ - ii. ఆగ్నేయాసియా\n3. ఇండోనేషియా/మలేషియా - iii. దక్షిణ అమెరికా",
+    "en": "Match the following rainforest basins with their respective regions:\n1. Amazon Basin - i. Africa\n2. Congo Basin - ii. Southeast Asia\n3. Indonesia/Malaysia - iii. South America"
+   },
+   "options": {
+    "te": [
+     "1-iii, 2-i, 3-ii",
+     "1-i, 2-iii, 3-ii",
+     "1-ii, 2-i, 3-iii",
+     "1-iii, 2-ii, 3-i"
+    ],
+    "en": [
+     "1-iii, 2-i, 3-ii",
+     "1-i, 2-iii, 3-ii",
+     "1-ii, 2-i, 3-iii",
+     "1-iii, 2-ii, 3-i"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అమెజాన్ దక్షిణ అమెరికాలో ఉంది, కాంగో ఆఫ్రికాలో ఉంది మరియు ఇండోనేషియా/మలేషియా ఆగ్నేయాసియాలో ఉన్నాయి.",
+    "en": "Amazon is in South America, Congo is in Africa, and Indonesia/Malaysia are in Southeast Asia."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T31-0031",
+   "section": {
+    "te": "Desert Biome",
+    "en": "Desert Biome"
+   },
+   "q": {
+    "te": "ఎడారి బయోమ్‌లు తరచుగా కింది ఏ విలువైన వనరులను అందిస్తాయి?\nA. ఖనిజాలు (Minerals)\nB. చమురు (Oil)",
+    "en": "Which of the following valuable resources are often provided by desert biomes?\nA. Minerals\nB. Oil"
+   },
+   "options": {
+    "te": [
+     "A మాత్రమే",
+     "B మాత్రమే",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "A only",
+     "B only",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఎడారులు ఖనిజాలు మరియు చమురు వంటి విలువైన వనరులను అందిస్తాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Deserts provide valuable resources like minerals and oil."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T31-0072",
+   "section": {
+    "te": "Air Pollution Control",
+    "en": "Air Pollution Control"
+   },
+   "q": {
+    "te": "గాలిలోని ధూళి కణాలను (Particulate matter) తగ్గించడానికి పొగ గొట్టాలకు ఈ క్రింది ఏ పరికరాలను అమర్చవచ్చు?\n1. ఎలెక్ట్రోస్టాటిక్ ప్రెసిపిటేటర్లు\n2. ఫాబ్రిక్ ఫిల్టర్లు\n3. స్క్రబ్బర్లు\n4. ఇనర్షియల్ సెపరేటర్లు",
+    "en": "Which of the following equipment can be fitted to smoke stacks to reduce particulate matter in the air?\n1. Electrostatic precipitators\n2. Fabric filters\n3. Scrubbers\n4. Inertial separators"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3 మాత్రమే",
+     "1, 2, 3 మరియు 4"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1, 2 and 3 only",
+     "1, 2, 3 and 4"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ధూళి కణాలను తగ్గించడానికి ఎలెక్ట్రోస్టాటిక్ ప్రెసిపిటేటర్లు, ఫాబ్రిక్ ఫిల్టర్లు, స్క్రబ్బర్లు మరియు ఇనర్షియల్ సెపరేటర్లు అనే నాలుగింటిని పాఠ్యభాగం పేర్కొంది.",
+    "en": "All four—electrostatic precipitators, fabric filters, scrubbers, and inertial separators—as means to reduce particulate matter."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T31-0106",
+   "section": {
+    "te": "Convention on Biodiversity",
+    "en": "Convention on Biodiversity"
+   },
+   "q": {
+    "te": "భారత ప్రభుత్వం మరో 155 దేశాలతో కలిసి ఏ సంవత్సరంలో, ఏ ప్రదేశంలో జరిగిన ఎర్త్ సమ్మిట్ (భూమి శిఖరాగ్ర సదస్సు)లో జీవవైవిధ్య ఒప్పందంపై సంతకం చేసింది?",
+    "en": "In which year and place did the Government of India, along with 155 other nations, sign the Convention on Biodiversity?"
+   },
+   "options": {
+    "te": [
+     "సెప్టెంబర్ 2002, జోహన్నెస్‌బర్గ్ (దక్షిణాఫ్రికా)",
+     "జూన్ 1972, స్టాక్‌హోమ్ (స్వీడన్)",
+     "డిసెంబర్ 1997, క్యోటో (జపాన్)",
+     "జూన్ 1992, రియో డి జనీరో (బ్రెజిల్)"
+    ],
+    "en": [
+     "September 2002 at Johannesburg, South Africa",
+     "June 1972 at Stockholm, Sweden",
+     "December 1997 at Kyoto, Japan",
+     "June 1992 at Rio de Janeiro, Brazil"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జూన్ 1992లో బ్రెజిల్‌లోని రియో డి జనీరోలో జరిగిన ఎర్త్ సమ్మిట్‌లో భారత ప్రభుత్వం మరో 155 దేశాలతో కలిసి జీవవైవిధ్య ఒప్పందంపై సంతకం చేసింది.",
+    "en": "The Convention of Biodiversity was signed at the Earth Summit held at Rio de Janeiro, Brazil in June 1992."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T31-0102",
+   "section": {
+    "te": "Rare species characteristics",
+    "en": "Rare species characteristics"
+   },
+   "q": {
+    "te": "ప్రపంచంలో జనాభా చాలా స్వల్పంగా ఉండి, పరిమిత ప్రాంతాలకే పరిమితమై లేదా విస్తృత ప్రాంతంలో పలుచగా విస్తరించి ఉన్న జాతులను ఏ వర్గంగా పేర్కొంటారు?",
+    "en": "Which category of species is characterized by having a very small population globally, being confined to limited areas or thinly scattered over a wider area?"
+   },
+   "options": {
+    "te": [
+     "ముప్పును ఎదుర్కొంటున్న జాతులు (Vulnerable species)",
+     "అరుదైన జాతులు (Rare species)",
+     "విదేశీ జాతులు (Exotic species)",
+     "అంతరించిపోతున్న జాతులు (Endangered species)"
+    ],
+    "en": [
+     "Vulnerable species",
+     "Rare species",
+     "Exotic species",
+     "Endangered species"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రపంచంలో జనాభా చాలా తక్కువగా ఉండి, పరిమిత ప్రాంతాలకు పరిమితమైన లేదా పలుచగా విస్తరించిన జాతులను 'అరుదైన జాతులు' (Rare species) అంటారు.",
+    "en": "According to the section on 'Rare Species', their population is very small in the world and they are confined to limited areas or thinly scattered over a wider area."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T31-0160",
+   "section": {
+    "te": "Daurala Case Study",
+    "en": "Daurala Case Study"
+   },
+   "q": {
+    "te": "మీరట్ సమీపంలోని దౌరాలాలో పర్యావరణ పునరుద్ధరణ ప్రయత్నం ఏ సార్వత్రిక చట్టంపై ఆధారపడి ఉంది?",
+    "en": "The ecological restoration effort in Daurala, near Meerut, was based on which universal law?"
+   },
+   "options": {
+    "te": [
+     "పర్యావరణ పరిరక్షణ చట్టం",
+     "సుస్థిర అభివృద్ధి చట్టం",
+     "శుభ్రమైన నీటి హక్కు",
+     "కాలుష్య కారకుడే చెల్లించాలి (Polluter pays)"
+    ],
+    "en": [
+     "Environmental protection act",
+     "Sustainable development law",
+     "Right to clean water",
+     "Polluter pays"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "దౌరాలాలో జరిగిన ప్రయత్నం 'కాలుష్య కారకుడే చెల్లించాలి' (Polluter pays) అనే సార్వత్రిక చట్టంపై ఆధారపడి ఉందని పాఠ్య భాగం పేర్కొంది.",
+    "en": "The effort in Daurala was based on the universal law 'Polluter pays'."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T31-0008",
+   "section": {
+    "te": "Biome survival factors",
+    "en": "Biome survival factors"
+   },
+   "q": {
+    "te": "బయోమ్‌లో వృద్ధి చెందే జీవరాశుల రకాలను క్రింది వాటిలో ఏ అంశాలు నిర్ణయిస్తాయి?\nA. ఉష్ణోగ్రత\nB. అవపాతం (Precipitation) నమూనాలు\nC. వృక్షసంపద పెరుగుదల రూపాలు",
+    "en": "Which of the following factors determine the types of life forms that thrive in a biome?\nA. Temperature\nB. Precipitation patterns\nC. Growth forms of vegetation"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, ఉష్ణోగ్రత, అవపాతం, ప్రధాన వృక్ష జాతులు మరియు వృక్షసంపద పెరుగుదల రూపాలు అన్నీ బయోమ్‌లో మనుగడను నిర్ణయించే కారకాలు.",
+    "en": "Temperature, precipitation, dominant plant species, and growth forms of vegetation are all factors that determine survival in a biome."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T31-0070",
+   "section": {
+    "te": "Causes of Biodiversity",
+    "en": "Causes of Biodiversity"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): సౌరశక్తి మరియు నీటి లభ్యత ఎక్కువగా ఉన్న ప్రాంతాలు విస్తృతమైన జీవవైవిధ్యాన్ని కలిగి ఉంటాయి.\nకారణం (R): సౌరశక్తి మరియు నీరు శైథిల్య వైవిధ్యాలకు ప్రాథమిక కారణాలు, ఇవి జీవవైవిధ్యానికి ఆధారమైన శైథిల్య పొరను (Weathering mantle) ఏర్పరుస్తాయి.",
+    "en": "Assertion (A): Areas rich in solar energy and water inputs are areas of wide spectrum of biodiversity.\nReason (R): Solar energy and water are the basic causes for weathering variations that create the weathering mantle, which is the basis for biodiversity."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ సరైనవి మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ సరైనవి కానీ A కి R సరైన వివరణ కాదు",
+     "A సరైనది కానీ R తప్పు",
+     "A తప్పు కానీ R సరైనది"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సౌరశక్తి మరియు నీరు శైథిల్య వైవిధ్యాలను కలిగిస్తాయని, ఇది జీవవైవిధ్యానికి ఆధారమైన శైథిల్య పొరను ఏర్పరుస్తుందని పాఠ్యభాగం వివరిస్తుంది.",
+    "en": "Solar energy and water cause weathering variations, creating the weathering mantle which supports diverse vegetation and biodiversity."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T31-0044",
+   "section": {
+    "te": "Geography and Conservation",
+    "en": "Geography and Conservation"
+   },
+   "q": {
+    "te": "ప్రతిపాదన (A): జీవవైవిధ్య సంరక్షణలో భూగోళశాస్త్రం కీలక పాత్ర పోషిస్తుంది.\nకారణం (R): భూమిపై జీవవైవిధ్యం అసమానంగా పంపిణీ చేయబడింది.",
+    "en": "Assertion (A): Geography plays a vital role in the conservation of biodiversity.\nReason (R): Biodiversity is unevenly distributed across the Earth."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వివిధ ప్రదేశాలలో (భూగోళశాస్త్రం) జీవరాశుల అసమాన పంపిణీ కారణంగా, సమర్థవంతమైన సంరక్షణ కోసం భౌగోళిక ప్రణాళిక అవసరం.",
+    "en": "The uneven distribution of life forms across different locations (geography) necessitates geographical planning for effective conservation."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T31-0105",
+   "section": {
+    "te": "Wildlife Protection Act",
+    "en": "Wildlife Protection Act"
+   },
+   "q": {
+    "te": "వన్యప్రాణి (సంరక్షణ) చట్టం, 1972 క్రింద భారత ప్రభుత్వం క్రింది వాటిలో వేటిని ఏర్పాటు చేసింది లేదా ప్రకటించింది?",
+    "en": "Under the Wild Life (Protection) Act, 1972, which of the following were established or declared by the Government of India?"
+   },
+   "options": {
+    "te": [
+     "జాతీయ పార్కులు (National parks)",
+     "అభయారణ్యాలు (Sanctuaries)",
+     "బయోస్ఫియర్ రిజర్వ్‌లు (Biosphere reserves)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "National parks",
+     "Sanctuaries",
+     "Biosphere reserves",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "1972 నాటి వన్యప్రాణి (సంరక్షణ) చట్టం కింద జాతీయ పార్కులు, అభయారణ్యాలు ఏర్పాటు చేయబడ్డాయి మరియు బయోస్ఫియర్ రిజర్వ్‌లు ప్రకటించబడ్డాయి.",
+    "en": "Under the Wild Life (Protection) Act, 1972, national parks and sanctuaries were established and biosphere reserves declared."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T31-0076",
+   "section": {
+    "te": "Nuclear Waste Effects",
+    "en": "Nuclear Waste Effects"
+   },
+   "q": {
+    "te": "అణు విద్యుత్ కేంద్రాలు మరియు ఆయుధ తయారీ కేంద్రాల నుండి వచ్చే వ్యర్థాలు ఈ క్రింది వాటిలో దేనికి కారణమవుతాయి?",
+    "en": "Wastes from nuclear power plants and weapon production facilities are known to cause which of the following?"
+   },
+   "options": {
+    "te": [
+     "క్యాన్సర్లు",
+     "పుట్టుకతో వచ్చే లోపాలు",
+     "గర్భస్రావాలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Cancers",
+     "Birth defects",
+     "Miscarriages",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అణు వ్యర్థాలు క్యాన్సర్లు, పుట్టుకతో వచ్చే లోపాలు మరియు గర్భస్రావాలకు కారణమవుతాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Nuclear wastes cause cancers, birth defects, and miscarriages."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T31-0015",
+   "section": {
+    "te": "Biome definition",
+    "en": "Biome definition"
+   },
+   "q": {
+    "te": "నిర్దిష్ట మొక్కలు మరియు జంతువులు ఒకే విధమైన శీతోష్ణస్థితి పరిస్థితులలో నివసించే ప్రపంచంలోని పెద్ద సహజ ప్రాంతాలను ఏమంటారు?",
+    "en": "What are large natural regions of the world where specific plants and animals live under similar climatic conditions called?"
+   },
+   "options": {
+    "te": [
+     "నివాస స్థలాలు (Habitats)",
+     "పర్యావరణ వ్యవస్థలు",
+     "బయోమ్‌లు (Biomes)",
+     "సముదాయాలు (Communities)"
+    ],
+    "en": [
+     "Habitats",
+     "Ecosystems",
+     "Biomes",
+     "Communities"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం బయోమ్‌లను ఒకే విధమైన శీతోష్ణస్థితి మరియు జీవరాశులను కలిగి ఉన్న పెద్ద సహజ ప్రాంతాలుగా నిర్వచిస్తుంది.",
+    "en": "The text defines biomes as large natural regions with similar climate and life forms."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T31-0115",
+   "section": {
+    "te": "Community role in conservation",
+    "en": "Community role in conservation"
+   },
+   "q": {
+    "te": "నిశ్చితార్థం (A): జీవవైవిధ్య సంరక్షణ కోసం స్థానిక స్థాయిలలో సంస్థాగత నిర్మాణాలను అభివృద్ధి చేయడం అవసరం.\nహేతువు (R): స్థానిక సమాజాలు మరియు వ్యక్తుల ప్రమేయం, సహకారంతో మాత్రమే స్థిరమైన వినియోగంతో కూడిన సంరక్షణ సాధ్యమవుతుంది.\nసరైన ఎంపికను ఎంచుకోండి:",
+    "en": "Assertion (A): For conservation of biodiversity, the development of institutional structures at local levels is necessary.\nReason (R): Conservation with sustainable use is possible only with the involvement and cooperation of local communities and individuals.\nSelect the correct option:"
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ సరైనవి మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ సరైనవి కానీ A కి R సరైన వివరణ కాదు",
+     "A సరైనది కానీ R తప్పు",
+     "A తప్పు కానీ R సరైనది"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "స్థానిక ప్రజల సహకారంతోనే జీవవైవిధ్య సంరక్షణ సాధ్యమని, అందుకోసమే స్థానిక స్థాయిలలో సంస్థాగత నిర్మాణాలు అవసరమని పాఠ్యాంశంలో స్పష్టంగా వివరించబడింది.",
+    "en": "Sustainable conservation is possible only with the cooperation of local communities and individuals, and for this reason, local institutional structures are necessary."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T31-0001",
+   "section": {
+    "te": "Oxygen production",
+    "en": "Oxygen production"
+   },
+   "q": {
+    "te": "సగటున, ఒక పరిణతి చెందిన చెట్టు రోజుకు ఎన్ని లీటర్ల ఆక్సిజన్‌ను ఉత్పత్తి చేస్తుంది?",
+    "en": "On average, how many litres of oxygen does a mature tree produce per day?"
+   },
+   "options": {
+    "te": [
+     "250 లీటర్లు",
+     "350 లీటర్లు",
+     "400 లీటర్లు",
+     "275 లీటర్లు"
+    ],
+    "en": [
+     "250 litres",
+     "350 litres",
+     "400 litres",
+     "275 litres"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మూలం ప్రకారం, ఒక పరిణతి చెందిన చెట్టు రోజుకు సుమారు 275 లీటర్ల ఆక్సిజన్‌ను ఉత్పత్తి చేస్తుంది, అయితే ఇది చెట్టు రకాన్ని బట్టి మారుతుంది.",
+    "en": "A mature tree produces approximately 275 litres of oxygen daily, though it varies by tree type."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T31-0036",
+   "section": {
+    "te": "Aquatic Biomes",
+    "en": "Aquatic Biomes"
+   },
+   "q": {
+    "te": "కింది వాటిలో మంచినీటి బయోమ్‌లలో చేర్చబడినవి ఏవి?\nA. నదులు\nB. సరస్సులు\nC. పగడపు దిబ్బలు (Coral reefs)",
+    "en": "Which of the following are included in freshwater biomes?\nA. Rivers\nB. Lakes\nC. Coral reefs"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నదులు మరియు సరస్సులు మంచినీటి బయోమ్‌లు, పగడపు దిబ్బలు సముద్రపు బయోమ్‌లలో భాగం.",
+    "en": "Rivers and lakes are freshwater biomes, while coral reefs are part of marine biomes."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T31-0164",
+   "section": {
+    "te": "Daurala Water Supply",
+    "en": "Daurala Water Supply"
+   },
+   "q": {
+    "te": "దౌరాలాలో సమాజానికి త్రాగునీటిని సరఫరా చేయడానికి ఎంత అదనపు పైప్‌లైన్ వేయబడింది?",
+    "en": "How much extra pipeline was laid in Daurala to supply potable water to the community?"
+   },
+   "options": {
+    "te": [
+     "500 మీటర్లు",
+     "1200 మీటర్లు",
+     "900 మీటర్లు",
+     "1500 మీటర్లు"
+    ],
+    "en": [
+     "500m",
+     "1200m",
+     "900m",
+     "1500m"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "త్రాగునీటి సరఫరా కోసం 900 మీటర్ల అదనపు పైప్‌లైన్ వేసినట్లు పాఠ్య భాగం పేర్కొంది.",
+    "en": "The text specifies that a 900m extra pipeline was laid to supply potable water."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T31-0135",
+   "section": {
+    "te": "Acid Rain",
+    "en": "Acid Rain"
+   },
+   "q": {
+    "te": "ప్రకటన (A): పట్టణ పరిసరాలలో వేసవి తర్వాత కురిసే మొదటి వర్షం యొక్క pH విలువ తదుపరి వర్షాల కంటే ఎల్లప్పుడూ తక్కువగా ఉంటుంది.\nకారణం (R): నగరాల్లోని వాతావరణ కాలుష్యం పట్టణ పొగమంచుకు (urban smog) కారణమవుతుంది మరియు ఇది ఆమ్ల వర్షాలకు దారితీస్తుంది.",
+    "en": "Assertion (A): The pH value of the first rain after summer in urban environments is always lower than subsequent rains.\nReason (R): Atmospheric pollution in cities causes urban smog and can lead to acid rains."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పట్టణ పొగమంచు మరియు వాతావరణ కాలుష్యం ఆమ్ల వర్షానికి కారణమవుతాయని, దీని ఫలితంగా వేసవి తర్వాత కురిసే మొదటి వర్షం తక్కువ pH విలువను కలిగి ఉంటుందని పాఠ్యభాగం వివరిస్తుంది.",
+    "en": "Urban smog and atmospheric pollution cause acid rain, which results in the first rain after summer having a lower pH value."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T31-0091",
+   "section": {
+    "te": "IUCN Classification",
+    "en": "IUCN Classification"
+   },
+   "q": {
+    "te": "సంరక్షణ కోసం ఐయుసిఎన్ (IUCN) మొక్కలు మరియు జంతువుల ముప్పులో ఉన్న జాతులను ఎన్ని వర్గాలుగా వర్గీకరించింది?",
+    "en": "Into how many categories has the IUCN classified threatened species for the purpose of conservation?"
+   },
+   "options": {
+    "te": [
+     "నాలుగు",
+     "ఐదు",
+     "రెండు",
+     "మూడు"
+    ],
+    "en": [
+     "Four",
+     "Five",
+     "Two",
+     "Three"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సంరక్షణ ప్రయోజనాల కోసం IUCN ముప్పులో ఉన్న జాతులను మూడు వర్గాలుగా వర్గీకరించింది.",
+    "en": "The IUCN has classified threatened species into three categories for conservation purposes."
+   }
+  }
+ ]
+}

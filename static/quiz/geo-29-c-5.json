@@ -1,0 +1,942 @@
+{
+ "id": "geo-29-c-5",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Natural Resources and Conservation – క్విజ్ 5",
+  "en": "Natural Resources and Conservation – Quiz 5"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T29-0107",
+   "section": {
+    "te": "Impact on Aquatic Life",
+    "en": "Impact on Aquatic Life"
+   },
+   "q": {
+    "te": "ఆనకట్టలు నదులను ముక్కలు చేస్తాయి మరియు జలచరాలు వలస వెళ్లడాన్ని కష్టతరం చేస్తాయి, ఇది ముఖ్యంగా ఏ జీవక్రియకు సమస్యాత్మకంగా మారుతుంది?",
+    "en": "Dams fragment rivers and make it difficult for aquatic fauna to migrate, which is particularly problematic for which biological process?"
+   },
+   "options": {
+    "te": [
+     "గుడ్లు పెట్టడం (Spawning)",
+     "శ్వాసక్రియ",
+     "కిరణజన్య సంయోగక్రియ",
+     "కుళ్ళిపోవడం"
+    ],
+    "en": [
+     "Spawning",
+     "Respiration",
+     "Photosynthesis",
+     "Decomposition"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఆనకట్టల వల్ల నదులు విచ్ఛిన్నం కావడం జలచరాల వలసలను అడ్డుకుంటుంది, ఇది వాటి గుడ్లు పెట్టడానికి (ప్రజననం) చాలా అవసరం.",
+    "en": "The fragmentation of rivers by dams obstructs the migration of aquatic animals, which is essential for their spawning (reproduction)."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T29-0173",
+   "section": {
+    "te": "Energy Conservation Mechanism",
+    "en": "Energy Conservation Mechanism"
+   },
+   "q": {
+    "te": "నిశ్చితార్థం (A): వర్షపు నీటి సంరక్షణ భూగర్భ జలాలను తోడేందుకు అవసరమైన విద్యుత్ శక్తిని ఆదా చేస్తుంది.\nహేతువు (R): భూగర్భ జలాల రీఛార్జ్ వల్ల భూగర్భ జలమట్టం పెరుగుతుంది, దీనితో నీటిని తోడే శ్రమ తగ్గుతుంది.",
+    "en": "Assertion (A): Rainwater harvesting can save electrical energy required for pumping groundwater.\nReason (R): Groundwater recharge raises the groundwater table, reducing the lift needed to draw water."
+   },
+   "options": {
+    "te": [
+     "(A) మరియు (R) రెండూ నిజం మరియు (R) అనేది (A) కి సరైన వివరణ",
+     "(A) మరియు (R) రెండూ నిజం కానీ (R) అనేది (A) కి సరైన వివరణ కాదు",
+     "(A) నిజం కానీ (R) తప్పు",
+     "(A) తప్పు కానీ (R) నిజం"
+    ],
+    "en": [
+     "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+     "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+     "(A) is true but (R) is false",
+     "(A) is false but (R) is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వర్షపు నీటి రీఛార్జ్ వల్ల భూగర్భ జలమట్టం పెరుగుతుంది, కాబట్టి పంపులతో నీటిని తోడేందుకు తక్కువ శక్తి అవసరమై విద్యుత్ ఆదా అవుతుంది.",
+    "en": "Rainwater harvesting saves energy because recharging the aquifer raises the groundwater table, directly making water pumping less energy-intensive."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T29-0094",
+   "section": {
+    "te": "Atal Jal Coverage",
+    "en": "Atal Jal Coverage"
+   },
+   "q": {
+    "te": "అటల్ భూజల్ యోజన అమలుకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది 8,220 నీటి ఎద్దడి గల గ్రామ పంచాయతీలలో అమలు చేయబడుతోంది.\n2. ఇది 80 జిల్లాలలోని 229 పరిపాలనా బ్లాకులలో అమలు చేయబడుతోంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the implementation of the Atal Bhujal Yojana:\n1. It covers 8,220 water-stressed Gram Panchayats.\n2. It is implemented across 229 administrative blocks in 80 districts.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 రెండూ",
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "ఏదీ కాదు"
+    ],
+    "en": [
+     "Both 1 and 2",
+     "1 only",
+     "2 only",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అటల్ జల్ పథకం 80 జిల్లాల్లోని 229 బ్లాకులు మరియు 8,220 గ్రామ పంచాయతీలలో అమలు చేయబడుతోంది కాబట్టి రెండు ప్రకటనలు సరైనవే.",
+    "en": "Atal Jal is implemented in 8,220 water-stressed Gram Panchayats of 229 administrative blocks/talukas across 80 districts."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T29-0185",
+   "section": {
+    "te": "Urban-rural water disparity",
+    "en": "Urban-rural water disparity"
+   },
+   "q": {
+    "te": "పట్టణ మరియు గ్రామీణ ప్రాంతాల మధ్య నీటి సరఫరా నిబంధనలకు సంబంధించి జాతీయ నీటి విధానం 2012 ఏ సిఫార్సు చేసింది?",
+    "en": "What recommendation does the National Water Policy 2012 make regarding water supply stipulations between urban and rural areas?"
+   },
+   "options": {
+    "te": [
+     "పట్టణ మరియు గ్రామీణ ప్రాంతాలలో నీటి సరఫరా నిబంధనలలో ఉన్న భారీ వ్యత్యాసాన్ని తొలగించడం",
+     "పట్టణ కేటాయింపులతో పోలిస్తే గ్రామీణ నీటి కోటాను సగానికి తగ్గించడం",
+     "వాణిజ్య వృద్ధి కోసం గ్రామీణ ప్రాంతాల కంటే పట్టణ ప్రాంతాలకే ప్రాధాన్యత ఇవ్వడం",
+     "గ్రామీణ నీటి సరఫరాను పూర్తిగా ప్రైవేట్ మార్కెట్ శక్తులకు వదిలివేయడం"
+    ],
+    "en": [
+     "Removal of large disparity in stipulations for water supply in urban areas and in rural areas",
+     "Fixing rural water supply quotas at half the rate of urban allocations",
+     "Prioritizing urban water supply over rural water supply for commercial growth",
+     "Leaving rural water supply entirely to private market forces"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పట్టణ మరియు గ్రామీణ ప్రాంతాలలో నీటి సరఫరా నిబంధనలలో ఉన్న అధిక వ్యత్యాసాన్ని తొలగించాలని జాతీయ నీటి విధానం 2012 సిఫార్సు చేసింది.",
+    "en": "The policy recommends the removal of large disparity in stipulations for water supply in urban areas and in rural areas."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T29-0213",
+   "section": {
+    "te": "Bharmaur Tribal Area Notification",
+    "en": "Bharmaur Tribal Area Notification"
+   },
+   "q": {
+    "te": "భర్మార్ ప్రాంతం ఏ తేదీ నుండి నోటిఫైడ్ గిరిజన ప్రాంతంగా గుర్తించబడింది?",
+    "en": "On which date was Bharmaur designated as a notified tribal area?"
+   },
+   "options": {
+    "te": [
+     "21 నవంబర్ 1975",
+     "2 అక్టోబర్ 1985",
+     "15 ఆగస్టు 1972",
+     "26 జనవరి 1980"
+    ],
+    "en": [
+     "21 November 1975",
+     "2 October 1985",
+     "15 August 1972",
+     "26 January 1980"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భర్మార్ 21 నవంబర్ 1975 నుండి నోటిఫైడ్ గిరిజన ప్రాంతంగా ఉంది.",
+    "en": "Bharmaur has been a notified tribal area since 21 November 1975."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T29-0196",
+   "section": {
+    "te": "Drought Prone Area Programme",
+    "en": "Drought Prone Area Programme"
+   },
+   "q": {
+    "te": "ప్రారంభంలో, కరవు పీడిత ప్రాంతాల కార్యక్రమం క్రింది వాటిలో దేనిపై ప్రాధాన్యతనిచ్చింది?",
+    "en": "Initially, what did the Drought Prone Area Programme lay emphasis on?"
+   },
+   "options": {
+    "te": [
+     "మెట్ట వ్యవసాయ యంత్రీకరణపై",
+     "శ్రమతో కూడిన పౌర పనుల (సివిల్ వర్క్స్) నిర్మాణంపై",
+     "భారీ రసాయన పరిశ్రమల ప్రోత్సాహంపై",
+     "సూక్ష్మ సేద్యం వ్యవస్థల అభివృద్ధిపై"
+    ],
+    "en": [
+     "Mechanization of dryland farming",
+     "Construction of labour-intensive civil works",
+     "Promotion of large-scale chemical industries",
+     "Development of micro-irrigation systems"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రారంభంలో, ఈ కార్యక్రమం శ్రమతో కూడిన నిర్మాణ పనులను (సివిల్ వర్క్స్) చేపట్టడంపై ప్రాధాన్యతనిచ్చింది.",
+    "en": "Initially, the Drought Prone Area Programme laid emphasis on the construction of labour-intensive civil works."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T29-0206",
+   "section": {
+    "te": "Backward Hill Area Criterion",
+    "en": "Backward Hill Area Criterion"
+   },
+   "q": {
+    "te": "1981 లో వెనుకబడిన ప్రాంతాల అభివృద్ధిపై జాతీయ కమిటీ, గిరిజన ఉప-ప్రణాళిక పరిధిలోకి రాని ఎంత ఎత్తుకు పైబడిన కొండ ప్రాంతాలన్నింటినీ వెనుకబడిన కొండ ప్రాంతాలుగా పరిగణించాలని సిఫార్సు చేసింది?",
+    "en": "In 1981, the National Committee on the Development of Backward Area recommended treating all hill areas having a height above what level (not covered under tribal sub-plan) as backward hill areas?"
+   },
+   "options": {
+    "te": [
+     "800 మీటర్లు",
+     "400 మీటర్లు",
+     "600 మీటర్లు",
+     "500 మీటర్లు"
+    ],
+    "en": [
+     "800 m",
+     "400 m",
+     "600 m",
+     "500 m"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "గిరిజన ఉప-ప్రణాళిక పరిధిలోకి రాని మరియు 600 మీటర్ల కంటే ఎక్కువ ఎత్తు ఉన్న కొండ ప్రాంతాలన్నింటినీ వెనుకబడిన కొండ ప్రాంతాలుగా పరిగణించాలని కమిటీ సిఫార్సు చేసింది.",
+    "en": "The committee recommended that all hill areas with an elevation above 600 m and not covered under the tribal sub-plan should be treated as backward hill areas."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T29-0179",
+   "section": {
+    "te": "Jal Gram selection",
+    "en": "Jal Gram selection"
+   },
+   "q": {
+    "te": "జల్ క్రాంతి అభియాన్ కింద, 'జల్ గ్రామ్'ను రూపొందించడానికి దేశవ్యాప్తంగా ఎన్ని జిల్లాల్లో ఒక్కొక్క నీటి ఎద్దడి గ్రామాన్ని ఎంపిక చేయాలని ప్రతిపాదించారు?",
+    "en": "Under the Jal Kranti Abhiyan, how many districts across the country were targeted to select one water-stressed village each to create a 'Jal Gram'?"
+   },
+   "options": {
+    "te": [
+     "543",
+     "715",
+     "612",
+     "672"
+    ],
+    "en": [
+     "543",
+     "715",
+     "612",
+     "672"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "దేశంలోని 672 జిల్లాల్లో ఒక్కొక్క నీటి కొరత ఉన్న గ్రామాన్ని ఎంపిక చేసి 'జల్ గ్రామ్'గా మార్చాలని జల్ క్రాంతి అభియాన్ ప్రతిపాదించింది.",
+    "en": "The Jal Kranti Abhiyan proposed the selection of one water-stressed village in each of the 672 districts of the country to create a 'Jal Gram'."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T29-0232",
+   "section": {
+    "te": "Indira Gandhi Canal Command Area",
+    "en": "Indira Gandhi Canal Command Area"
+   },
+   "q": {
+    "te": "ఇందిరా గాంధీ కెనాల్ ప్రాజెక్ట్ యొక్క మొత్తం సాగు చేయదగిన కమాండ్ ఏరియా (CCA) ఎంత?",
+    "en": "What is the total culturable command area (CCA) of the Indira Gandhi Canal project?"
+   },
+   "options": {
+    "te": [
+     "14.10 లక్షల హెక్టార్లు",
+     "5.53 లక్షల హెక్టార్లు",
+     "25.00 లక్షల హెక్టార్లు",
+     "19.63 లక్షల హెక్టార్లు"
+    ],
+    "en": [
+     "14.10 lakh hectares",
+     "5.53 lakh hectares",
+     "25.00 lakh hectares",
+     "19.63 lakh hectares"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఇందిరా గాంధీ కెనాల్ ప్రాజెక్ట్ యొక్క మొత్తం సాగు చేయదగిన కమాండ్ ఏరియా 19.63 లక్షల హెక్టార్లు.",
+    "en": "The total culturable command area of the Indira Gandhi Canal project is 19.63 lakh hectares."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T29-0030",
+   "section": {
+    "te": "Factors for lasting benefits",
+    "en": "Factors for lasting benefits"
+   },
+   "q": {
+    "te": "సహజ వనరులు ఒక దేశానికి శాశ్వత ప్రయోజనాలుగా మారతాయా లేదా అనేది ఈ క్రింది ఏ అంశాలు నిర్ణయిస్తాయి?",
+    "en": "Which of the following factors determine whether natural resources become lasting benefits for a country?"
+   },
+   "options": {
+    "te": [
+     "మానవ జ్ఞానం",
+     "మంచి పాలన",
+     "వ్యూహాత్మక ప్రణాళిక",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Human knowledge",
+     "Good governance",
+     "Strategic planning",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వనరులను శాశ్వత ప్రయోజనాలుగా మార్చడానికి మానవ జ్ఞానం, మంచి పాలన మరియు వ్యూహాత్మక ప్రణాళిక అవసరమని పాఠ్యం పేర్కొంది.",
+    "en": "Human knowledge, good governance, and strategic planning are essential to turn resources into lasting benefits."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T29-0170",
+   "section": {
+    "te": "Traditional Water Harvesting",
+    "en": "Traditional Water Harvesting"
+   },
+   "q": {
+    "te": "రాజస్థాన్‌లో వర్షపు నీటిని నిల్వ చేయడానికి నిర్మించే భూగర్భ మూతగల తొట్టెలను స్థానికంగా ఏమని పిలుస్తారు?",
+    "en": "In Rajasthan, a covered underground tank constructed to store harvested rainwater is locally known as:"
+   },
+   "options": {
+    "te": [
+     "కుల్",
+     "కుండ్ లేదా టంకా",
+     "బావోలి",
+     "జోహాద్"
+    ],
+    "en": [
+     "Kuhl",
+     "Kund or Tanka",
+     "Baoli",
+     "Johad"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "రాజస్థాన్‌లో వర్షపు నీటిని నిల్వ చేసుకోవడానికి నిర్మించే భూగర్భ తొట్టెలను స్థానికంగా 'కుండ్' లేదా 'టంకా' అని పిలుస్తారు.",
+    "en": "In Rajasthan, rainwater harvesting structures consisting of covered underground tanks are locally called Kund or Tanka."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T29-0008",
+   "section": {
+    "te": "Resource categorization",
+    "en": "Resource categorization"
+   },
+   "q": {
+    "te": "'ఉపయోగాల' ప్రమాణం ఆధారంగా, సహజ వనరులను ఎలా వర్గీకరించవచ్చు?",
+    "en": "Based on the criteria of 'uses', natural resources can be categorised as:"
+   },
+   "options": {
+    "te": [
+     "జీవనానికి అవసరమైనవి (Essential for life)",
+     "ముడి పదార్థాల వనరులు (Source for materials)",
+     "శక్తి వనరులు (Sources for energy)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Essential for life",
+     "Source for materials",
+     "Sources for energy",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఉపయోగం ఆధారంగా వనరులను మూడు రకాలుగా పాఠ్యభాగం వర్గీకరించింది: జీవనానికి అవసరమైనవి, ముడి పదార్థాల వనరులు మరియు శక్తి వనరులు.",
+    "en": "The text categorizes resources based on use into three types: essential for life, source for materials, and sources for energy."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T29-0124",
+   "section": {
+    "te": "Location of Gendathur village",
+    "en": "Location of Gendathur village"
+   },
+   "q": {
+    "te": "దాదాపు 200 ఇళ్లలో పైకప్పు వర్షపు నీటి సంరక్షణ వ్యవస్థలను విజయవంతంగా ఏర్పాటు చేసుకున్న గెండత్తూర్ గ్రామం ఏ జిల్లాలో ఉంది?",
+    "en": "The village of Gendathur, known for having nearly 200 households with rooftop rainwater harvesting systems, is situated in which district?"
+   },
+   "options": {
+    "te": [
+     "ధార్వాడ్, కర్ణాటక",
+     "మండ్య, కర్ణాటక",
+     "బెళగావి, కర్ణాటక",
+     "మైసూరు, కర్ణాటక"
+    ],
+    "en": [
+     "Dharwad, Karnataka",
+     "Mandya, Karnataka",
+     "Belagavi, Karnataka",
+     "Mysuru, Karnataka"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "గెండత్తూర్ గ్రామం కర్ణాటకలోని మైసూరు జిల్లాలో ఉన్న ఒక మారుమూల గ్రామం.",
+    "en": "Gendathur is a remote backward village situated in Mysuru district of Karnataka."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T29-0076",
+   "section": {
+    "te": "Gross cropped area",
+    "en": "Gross cropped area"
+   },
+   "q": {
+    "te": "ఒక వ్యవసాయ సంవత్సరంలో ఒకటి కంటే ఎక్కువసార్లు పంట వేసిన విస్తీర్ణాన్ని నికర విత్తిన విస్తీర్ణానికి (Net sown area) కలిపితే వచ్చే మొత్తం విస్తీర్ణాన్ని ఏమంటారు?",
+    "en": "The total area obtained by adding the area sown more than once in an agricultural year to the net sown area is known as:"
+   },
+   "options": {
+    "te": [
+     "నికర కోత విస్తీర్ణం",
+     "మొత్తం సాగు విస్తీర్ణం",
+     "స్థూల పంట విస్తీర్ణం (Gross cropped area)",
+     "ప్రస్తుత బీడు విస్తీర్ణం"
+    ],
+    "en": [
+     "Net harvested area",
+     "Total cultivable area",
+     "Gross cropped area",
+     "Current fallow area"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఒక వ్యవసాయ సంవత్సరంలో ఒకటి కంటే ఎక్కువసార్లు విత్తిన విస్తీర్ణం మరియు నికర విత్తిన విస్తీర్ణం రెండింటి మొత్తాన్ని స్థూల పంట విస్తీర్ణం అంటారు.",
+    "en": "Area sown more than once in an agricultural year plus net sown area is defined as the gross cropped area."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T29-0123",
+   "section": {
+    "te": "Decline of rainwater harvesting in Rajasthan",
+    "en": "Decline of rainwater harvesting in Rajasthan"
+   },
+   "q": {
+    "te": "పశ్చిమ రాజస్థాన్‌లో ప్రస్తుతం పైకప్పు వర్షపు నీటి సంరక్షణ పద్ధతి క్రమంగా తగ్గడానికి ప్రధాన కారణం ఏమిటి?",
+    "en": "Why is the practice of rooftop rainwater harvesting currently on the decline in western Rajasthan?"
+   },
+   "options": {
+    "te": [
+     "వ్యక్తిగత టంకాలను నిషేధిస్తూ కఠినమైన ప్రభుత్వ నిబంధనలు రావడం వల్ల",
+     "పారిశ్రామిక కాలుష్యం కారణంగా పైకప్పు నీరు కలుషితం కావడం వల్ల",
+     "జీవ నది కాలువ అయిన ఇందిరా గాంధీ కెనాల్ ద్వారా సమృద్ధిగా నీరు లభించడం వల్ల",
+     "వార్షిక వర్షపాతం గణనీయంగా పెరగడం వల్ల"
+    ],
+    "en": [
+     "Due to strict government regulations prohibiting private tankas",
+     "Due to contamination of rooftop runoff by industrial pollution",
+     "Due to availability of plenty of water from the perennial Indira Gandhi Canal",
+     "Due to significant increase in annual rainfall"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "జీవ నది అయిన ఇందిరా గాంధీ కాలువ ద్వారా పుష్కలంగా నీరు లభ్యమవుతుండటంతో పశ్చిమ రాజస్థాన్‌లో సాంప్రదాయ పైకప్పు వర్షపు నీటి నిల్వ పద్ధతి తగ్గుముఖం పట్టింది.",
+    "en": "The practice of rooftop rainwater harvesting in western Rajasthan is declining because abundant water is now accessible through the perennial Indira Gandhi Canal."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T29-0211",
+   "section": {
+    "te": "Bharmaur Tribal Area Location",
+    "en": "Bharmaur Tribal Area Location"
+   },
+   "q": {
+    "te": "భర్మార్ గిరిజన ప్రాంతం హిమాచల్ ప్రదేశ్‌లోని ఏ జిల్లాకు చెందిన భర్మార్ మరియు హోలీ తహసీళ్లతో కూడి ఉంది?",
+    "en": "The Bharmaur tribal area comprises Bharmaur and Holi tehsils located in which district of Himachal Pradesh?"
+   },
+   "options": {
+    "te": [
+     "లాహౌల్ మరియు స్పితి",
+     "కులు",
+     "కిన్నౌర్",
+     "చంబా"
+    ],
+    "en": [
+     "Lahaul and Spiti",
+     "Kullu",
+     "Kinnaur",
+     "Chamba"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భర్మార్ గిరిజన ప్రాంతం హిమాచల్ ప్రదేశ్‌లోని చంబా జిల్లాలోని భర్మార్ మరియు హోలీ తహసీళ్లను కలిగి ఉంది.",
+    "en": "Bharmaur tribal area consists of Bharmaur and Holi tehsils of Chamba district in Himachal Pradesh."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T29-0021",
+   "section": {
+    "te": "Renewable resources condition",
+    "en": "Renewable resources condition"
+   },
+   "q": {
+    "te": "సౌరశక్తి, పవన శక్తి మరియు అడవుల నుండి కలప ఏ పరిస్థితిలో పునరుత్పాదక వనరులుగా ఉంటాయి?",
+    "en": "Under what condition do solar energy, wind energy, and timber from forests remain renewable resources?"
+   },
+   "options": {
+    "te": [
+     "అవి పుష్కలమైన పరిమాణంలో అందుబాటులో ఉన్నంత కాలం",
+     "వాటిని పారిశ్రామిక అవసరాలకు ఉపయోగించినంత కాలం",
+     "వాటిని సుస్థిరమైన రీతిలో నిర్వహించినంత కాలం",
+     "వాటిని స్వదేశీ సంఘాలు ఉపయోగించినంత కాలం"
+    ],
+    "en": [
+     "As long as they are available in abundant quantities",
+     "As long as they are used for industrial purposes",
+     "As long as they are managed in a sustainable manner",
+     "As long as they are used by indigenous communities"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఈ వనరులను సుస్థిరమైన రీతిలో నిర్వహించినంత కాలం అవి పునరుత్పాదకమైనవి అని పాఠ్యం పేర్కొంది.",
+    "en": "The text specifies that these resources are renewable as long as they are managed in a sustainable manner."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T29-0048",
+   "section": {
+    "te": "Groundwater extraction cost",
+    "en": "Groundwater extraction cost"
+   },
+   "q": {
+    "te": "ప్రతిపాదన (A): భూగర్భ జలాల వెలికితీత కాలక్రమేణా వెలికితీత ఖర్చులను పెంచుతుంది.\nకారణం (R): చాలా రాష్ట్రాల్లో, భూగర్భ జలాల వెలికితీత రేటు అవి తిరిగి నింపబడే రేటు కంటే ఎక్కువగా ఉంది.\nసరైన ఎంపికను ఎంచుకోండి:",
+    "en": "Assertion (A): Extraction of groundwater leads to higher costs of extraction over time.\nReason (R): In many states, the extraction rate is greater than the rate at which the water table is replenished.\nChoose the correct option:"
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ సరైనవి మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ సరైనవి కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A సరైనది కానీ R తప్పు",
+     "A తప్పు కానీ R సరైనది"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వెలికితీత రేటు పునరుద్ధరణ రేటు కంటే ఎక్కువగా ఉన్నప్పుడు నీటి మట్టం పడిపోతుంది, దీనివల్ల లోటు ఏర్పడి వెలికితీత ఖర్చు పెరుగుతుంది.",
+    "en": "The cost of extraction increases because the water table drops when extraction exceeds replenishment, creating a deficit."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T29-0200",
+   "section": {
+    "te": "Regional Imbalances Experience",
+    "en": "Regional Imbalances Experience"
+   },
+   "q": {
+    "te": "భారతదేశంలో సుమారు ఎంతకాలపు ప్రణాళికా అనుభవం తర్వాత ఆర్థిక అభివృద్ధిలో ప్రాంతీయ అసమానతలు తీవ్రమవుతున్నాయని గుర్తించారు?",
+    "en": "After how much planning experience was it realized by Indian planners that regional imbalances in economic development were getting accentuated?"
+   },
+   "options": {
+    "te": [
+     "సుమారు మూడు దశాబ్దాలు (30 సంవత్సరాలు)",
+     "సుమారు అర దశాబ్దం (5 సంవత్సరాలు)",
+     "సుమారు ఒకటిన్నర దశాబ్దాలు (15 సంవత్సరాలు)",
+     "సుమారు నాలుగు దశాబ్దాలు (40 సంవత్సరాలు)"
+    ],
+    "en": [
+     "About three decades",
+     "About half a decade",
+     "About one-and-a-half decades",
+     "About four decades"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సుమారు ఒకటిన్నర దశాబ్దాల ప్రణాళికా అనుభవం తర్వాత, ఆర్థిక అభివృద్ధిలో ప్రాంతీయ అసమానతలు తీవ్రమవుతున్నాయని ప్రణాళికాకారులు గ్రహించారు.",
+    "en": "It was realized that regional imbalances were getting accentuated after the planning experience of about one-and-a-half decades."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T29-0160",
+   "section": {
+    "te": "Water Legislation",
+    "en": "Water Legislation"
+   },
+   "q": {
+    "te": "నీటి కాలుష్య నివారణ సందర్భంలో పేర్కొన్న పర్యావరణ పరిరక్షణ చట్టం ఏ సంవత్సరంలో రూపొందించబడింది?",
+    "en": "In which year was the Environment Protection Act enacted, as mentioned in the context of water pollution prevention?"
+   },
+   "options": {
+    "te": [
+     "1974",
+     "1997",
+     "1986",
+     "1977"
+    ],
+    "en": [
+     "1974",
+     "1997",
+     "1986",
+     "1977"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పర్యావరణ పరిరక్షణ చట్టం 1986లో రూపొందించబడింది.",
+    "en": "The Environment Protection Act was enacted in 1986."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T29-0105",
+   "section": {
+    "te": "Hirakud Project",
+    "en": "Hirakud Project"
+   },
+   "q": {
+    "te": "మహానది పరివాహక ప్రాంతంలో ఉన్న హీరాకుడ్ ప్రాజెక్ట్, ప్రధానంగా నీటి సంరక్షణను ఏ ఇతర లక్ష్యంతో అనుసంధానిస్తుంది?",
+    "en": "The Hirakud project, located in the Mahanadi basin, primarily integrates water conservation with which other objective?"
+   },
+   "options": {
+    "te": [
+     "వినోదం",
+     "అంతర్గత నౌకాయానం",
+     "వరద నియంత్రణ",
+     "చేపల పెంపకం"
+    ],
+    "en": [
+     "Recreation",
+     "Inland navigation",
+     "Flood control",
+     "Fish breeding"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మహానది పరివాహక ప్రాంతంలోని హీరాకుడ్ ప్రాజెక్ట్ నీటి సంరక్షణను వరదల నిర్వహణతో అనుసంధానించడానికి రూపొందించబడింది.",
+    "en": "The Hirakud project in the Mahanadi basin is designed to integrate the conservation of water with the management of floods."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T29-0057",
+   "section": {
+    "te": "Resource Conservation History",
+    "en": "Resource Conservation History"
+   },
+   "q": {
+    "te": "అంతర్జాతీయ స్థాయిలో, 'క్లబ్ ఆఫ్ రోమ్' (Club of Rome) ఏ సంవత్సరంలో మొదటిసారిగా మరింత క్రమబద్ధమైన రీతిలో వనరుల పరిరక్షణను సమర్థించింది?",
+    "en": "At the international level, in which year did the Club of Rome advocate resource conservation for the first time in a more systematic way?"
+   },
+   "options": {
+    "te": [
+     "1968",
+     "1987",
+     "1974",
+     "1992"
+    ],
+    "en": [
+     "1968",
+     "1987",
+     "1974",
+     "1992"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "1968లో అంతర్జాతీయ స్థాయిలో మొదటిసారిగా క్లబ్ ఆఫ్ రోమ్ వనరుల పరిరక్షణను క్రమబద్ధంగా సమర్థించింది.",
+    "en": "The Club of Rome advocated resource conservation systematically for the first time in 1968 at the international level."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T29-0242",
+   "section": {
+    "te": "Watershed Funding Ministries",
+    "en": "Watershed Funding Ministries"
+   },
+   "q": {
+    "te": "ఝాబువా జిల్లాలో వాటర్‌షెడ్ నిర్వహణ కార్యక్రమాలకు భారత ప్రభుత్వానికి చెందిన ఏ రెండు మంత్రిత్వ శాఖలు నిధులు సమకూర్చాయి?",
+    "en": "The watershed management programmes in Jhabua district were funded by which two Ministries of the Government of India?"
+   },
+   "options": {
+    "te": [
+     "పర్యావరణ, అటవీ, వాతావరణ మార్పుల మంత్రిత్వ శాఖ మరియు జలవనరుల మంత్రిత్వ శాఖ",
+     "సైన్స్ అండ్ టెక్నాలజీ మంత్రిత్వ శాఖ మరియు పంచాయతీరాజ్ మంత్రిత్వ శాఖ",
+     "గ్రామీణాభివృద్ధి మంత్రిత్వ శాఖ మరియు వ్యవసాయ మంత్రిత్వ శాఖ",
+     "జల్ శక్తి మంత్రిత్వ శాఖ మరియు గిరిజన వ్యవహారాల మంత్రిత్వ శాఖ"
+    ],
+    "en": [
+     "Ministry of Environment, Forest and Climate Change and Ministry of Water Resources",
+     "Ministry of Science and Technology and Ministry of Panchayati Raj",
+     "Ministry of Rural Development and Ministry of Agriculture",
+     "Ministry of Jal Shakti and Ministry of Tribal Affairs"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఈ వాటర్‌షెడ్ కార్యక్రమాలకు భారత ప్రభుత్వ గ్రామీణాభివృద్ధి మంత్రిత్వ శాఖ మరియు వ్యవసాయ మంత్రిత్వ శాఖలు నిధులు సమకూర్చాయి.",
+    "en": "The programmes were funded by both the Ministry of Rural Development and the Ministry of Agriculture, Government of India."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T29-0128",
+   "section": {
+    "te": "Forest Policy Years",
+    "en": "Forest Policy Years"
+   },
+   "q": {
+    "te": "భారత ప్రభుత్వం దేశవ్యాప్త అటవీ సంరక్షణ విధానాన్ని ఏ సంవత్సరంలో ఆమోదించింది మరియు అది తదనంతరం ఎప్పుడు సవరించబడింది?",
+    "en": "In which year was the nation-wide forest conservation policy adopted by the Government of India, and when was it subsequently modified?"
+   },
+   "options": {
+    "te": [
+     "1976లో ఆమోదించబడింది, 1988లో సవరించబడింది",
+     "1952లో ఆమోదించబడింది, 1976లో సవరించబడింది",
+     "1952లో ఆమోదించబడింది, 1988లో సవరించబడింది",
+     "1947లో ఆమోదించబడింది, 1952లో సవరించబడింది"
+    ],
+    "en": [
+     "Adopted in 1976, modified in 1988",
+     "Adopted in 1952, modified in 1976",
+     "Adopted in 1952, modified in 1988",
+     "Adopted in 1947, modified in 1952"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారత ప్రభుత్వం 1952లో అటవీ విధానాన్ని ఆమోదించింది, ఇది తరువాత 1988లో స్థిరమైన అటవీ నిర్వహణను నొక్కి చెప్పడానికి సవరించబడింది.",
+    "en": "The Government of India adopted a forest policy in 1952, which was later modified in 1988 to emphasize sustainable forest management."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T29-0214",
+   "section": {
+    "te": "ITDP Bharmaur Priorities",
+    "en": "ITDP Bharmaur Priorities"
+   },
+   "q": {
+    "te": "భర్మార్ ప్రాంత సమగ్ర గిరిజన అభివృద్ధి ప్రాజెక్ట్ (ITDP) ప్రణాళిక క్రింది వాటిలో దేని అభివృద్ధికి అత్యధిక ప్రాధాన్యతనిచ్చింది?",
+    "en": "Under the Integrated Tribal Development Project (ITDP) for the Bharmaur region, which sector was given the highest priority?"
+   },
+   "options": {
+    "te": [
+     "భారీ పారిశ్రామిక తయారీ",
+     "రక్షణ మరియు సరిహద్దు మౌలిక సదుపాయాలు",
+     "వాణిజ్య మైనింగ్ కార్యకలాపాలు",
+     "రవాణా మరియు సమాచార రంగాల అభివృద్ధి"
+    ],
+    "en": [
+     "Heavy industrial manufacturing",
+     "Defense and border infrastructure",
+     "Commercial mining activities",
+     "Development of transport and communications"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఈ ప్రణాళిక రవాణా మరియు సమాచార రంగాల అభివృద్ధి, వ్యవసాయం మరియు అనుబంధ రంగాలు, సామాజిక సేవలపై అత్యధిక ప్రాధాన్యతను ఇచ్చింది.",
+    "en": "The plan laid the highest priority on the development of transport and communications, agriculture and allied activities, and social and community services."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T29-0153",
+   "section": {
+    "te": "Water Reuse",
+    "en": "Water Reuse"
+   },
+   "q": {
+    "te": "ఖర్చులను తగ్గించడానికి పరిశ్రమలలో తక్కువ నాణ్యత కలిగిన రీక్లెయిమ్డ్ మురుగునీటిని (reclaimed wastewater) ఈ క్రింది ఏ అవసరాలకు ఉపయోగించవచ్చు?",
+    "en": "For which of the following industrial purposes can reclaimed wastewater of lesser quality be used to reduce costs?"
+   },
+   "options": {
+    "te": [
+     "శీతలీకరణ (Cooling)",
+     "అగ్నిమాపక చర్యలు (Fire fighting)",
+     "A మరియు B రెండూ",
+     "సిబ్బందికి త్రాగునీరు"
+    ],
+    "en": [
+     "Cooling",
+     "Fire fighting",
+     "Both A and B",
+     "Drinking water for staff"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రీక్లెయిమ్డ్ మురుగునీటిని పరిశ్రమలలో శీతలీకరణ మరియు అగ్నిమాపక చర్యల కోసం ఉపయోగించవచ్చని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Cooling and fire fighting as two industrial uses for reclaimed wastewater."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T29-0104",
+   "section": {
+    "te": "Bhakra-Nangal Project",
+    "en": "Bhakra-Nangal Project"
+   },
+   "q": {
+    "te": "సట్లెజ్-బియాస్ నదీ పరివాహక ప్రాంతంలోని భాక్రా-నంగల్ ప్రాజెక్ట్ నీటిని క్రింది ఏ ప్రయోజనాల కోసం ఉపయోగిస్తారు?",
+    "en": "In the Sutluj-Beas river basin, the water from the Bhakra-Nangal project is utilized for which of the following purposes?"
+   },
+   "options": {
+    "te": [
+     "జల విద్యుత్ ఉత్పత్తి",
+     "సాగునీరు",
+     "A మరియు B రెండూ",
+     "వరద నియంత్రణ మాత్రమే"
+    ],
+    "en": [
+     "Hydel power production",
+     "Irrigation",
+     "Both A and B",
+     "Flood control only"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భాక్రా-నంగల్ ప్రాజెక్ట్ ఒక బహుళార్థసాధక ప్రాజెక్ట్, ఇక్కడ నీటిని జల విద్యుత్ ఉత్పత్తికి మరియు వ్యవసాయ సాగునీటి కోసం ఉపయోగిస్తారు.",
+    "en": "The Bhakra-Nangal project is a multi-purpose project where water is used for both generating hydroelectricity and for agricultural irrigation."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T29-0033",
+   "section": {
+    "te": "Nature's cycles",
+    "en": "Nature's cycles"
+   },
+   "q": {
+    "te": "ప్రకృతి చక్రాలకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ప్రకృతి చక్రాల ద్వారా వ్యర్థాలు పూర్తిగా తొలగించబడే విధంగా పనిచేస్తుంది.\n2. ఈ చక్రాలలో శిలీంధ్రాలు మరియు బ్యాక్టీరియా వంటి కుళ్ళింపజేసే జీవులకు ఎటువంటి పాత్ర లేదు.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding Nature's cycles:\n1. Nature functions in a way where waste is completely eliminated through cycles.\n2. Decomposing organisms like fungi and bacteria play no role in these cycles.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రకృతి వ్యర్థాలు లేని చక్రాలలో పనిచేస్తుందని పాఠ్యం పేర్కొంది మరియు బ్యాక్టీరియా, శిలీంధ్రాలు కుళ్ళిపోవడానికి సహాయపడతాయని పేర్కొంది, కాబట్టి ప్రకటన 2 తప్పు.",
+    "en": "Nature works in cycles with no waste, and it mentions that bacteria and fungi help in decomposition, making statement 2 incorrect."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T29-0197",
+   "section": {
+    "te": "NITI Aayog Objectives",
+    "en": "NITI Aayog Objectives"
+   },
+   "q": {
+    "te": "నీతి ఆయోగ్ (NITI Aayog) కు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. భారతదేశ ఆర్థిక విధాన రూపకల్పనలో రాష్ట్రాలను భాగస్వాములను చేసే లక్ష్యంతో ఇది ఏర్పాటయింది.\n2. ఇది కేంద్ర మరియు రాష్ట్ర ప్రభుత్వాలకు వ్యూహాత్మక మరియు సాంకేతిక సలహాలను అందిస్తుంది.\nపై ప్రకటనలలో ఏది/ఏవి సరైనది/వి?",
+    "en": "Consider the following statements regarding the NITI Aayog:\n1. It was set up with the objective of involving the states in economic policy making for India.\n2. It provides strategic and technical advice to both Central and State governments.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 కాదు 2 కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రెండు ప్రకటనలు సరైనవే. భారతదేశ ఆర్థిక విధాన రూపకల్పనలో రాష్ట్రాలను భాగస్వామ్యం చేయడం మరియు కేంద్ర, రాష్ట్ర ప్రభుత్వాలకు వ్యూహాత్మక, సాంకేతిక సలహాలు అందించడం దీని ముఖ్య ఉద్దేశాలు.",
+    "en": "Both statements are correct. NITI Aayog was set up to involve states in economic policy making and provide strategic and technical advice to Central and State governments."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T29-0078",
+   "section": {
+    "te": "Land use factors",
+    "en": "Land use factors"
+   },
+   "q": {
+    "te": "భారతదేశంలో భూ వినియోగ సరళిని నిర్ణయించే అంశాలలో క్రింది వాటిలో 'మానవ కారకం' (human factor) ఏది?",
+    "en": "Which of the following is categorized as a 'human factor' determining the land use pattern in India?"
+   },
+   "options": {
+    "te": [
+     "శీతోష్ణస్థితి",
+     "నైసర్గిక స్వరూపం (Topography)",
+     "సాంకేతిక సామర్థ్యం (Technological capability)",
+     "నేల రకాలు"
+    ],
+    "en": [
+     "Climate",
+     "Topography",
+     "Technological capability",
+     "Soil types"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నైసర్గిక స్వరూపం, నేల రకాలు మరియు శీతోష్ణస్థితి భౌతిక కారకాలు కాగా, సాంకేతిక సామర్థ్యం అనేది మానవ కారకం.",
+    "en": "Technological capability, population density, and culture/traditions are human factors, whereas topography, climate, and soil types are physical factors."
+   }
+  }
+ ]
+}

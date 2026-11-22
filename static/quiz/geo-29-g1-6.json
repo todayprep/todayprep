@@ -1,0 +1,942 @@
+{
+ "id": "geo-29-g1-6",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Natural Resources and Conservation – క్విజ్ 6",
+  "en": "Natural Resources and Conservation – Quiz 6"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T29-0014",
+   "section": {
+    "te": "Cultural views on nature",
+    "en": "Cultural views on nature"
+   },
+   "q": {
+    "te": "ప్రపంచంలోని అనేక స్వదేశీ (indigenous) సంప్రదాయాలలో ప్రకృతిని ఎలా చూస్తారు?",
+    "en": "How is Nature viewed in many indigenous traditions of the world?"
+   },
+   "options": {
+    "te": [
+     "పవిత్రమైనదిగా (sacred)",
+     "ఆర్థికంగా సాధ్యం కానిదిగా",
+     "వ్యర్థాల వనరుగా",
+     "సాంకేతికంగా అందుబాటులో లేనిదిగా"
+    ],
+    "en": [
+     "As sacred",
+     "As economically unfeasible",
+     "As a source of waste",
+     "As technologically inaccessible"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అనేక స్వదేశీ సంప్రదాయాలలో ప్రకృతిని పవిత్రమైనదిగా మరియు పోషించేదిగా పరిగణిస్తారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "In many indigenous traditions, Nature is considered sacred and is seen as a nurturer."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T29-0048",
+   "section": {
+    "te": "Groundwater extraction cost",
+    "en": "Groundwater extraction cost"
+   },
+   "q": {
+    "te": "ప్రతిపాదన (A): భూగర్భ జలాల వెలికితీత కాలక్రమేణా వెలికితీత ఖర్చులను పెంచుతుంది.\nకారణం (R): చాలా రాష్ట్రాల్లో, భూగర్భ జలాల వెలికితీత రేటు అవి తిరిగి నింపబడే రేటు కంటే ఎక్కువగా ఉంది.\nసరైన ఎంపికను ఎంచుకోండి:",
+    "en": "Assertion (A): Extraction of groundwater leads to higher costs of extraction over time.\nReason (R): In many states, the extraction rate is greater than the rate at which the water table is replenished.\nChoose the correct option:"
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ సరైనవి మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ సరైనవి కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A సరైనది కానీ R తప్పు",
+     "A తప్పు కానీ R సరైనది"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వెలికితీత రేటు పునరుద్ధరణ రేటు కంటే ఎక్కువగా ఉన్నప్పుడు నీటి మట్టం పడిపోతుంది, దీనివల్ల లోటు ఏర్పడి వెలికితీత ఖర్చు పెరుగుతుంది.",
+    "en": "The cost of extraction increases because the water table drops when extraction exceeds replenishment, creating a deficit."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T29-0157",
+   "section": {
+    "te": "Polluted Rivers",
+    "en": "Polluted Rivers"
+   },
+   "q": {
+    "te": "ఈ క్రింది నదులలో ఏవి వాటి మొత్తం పొడవునా (entire stretches) తీవ్రంగా కలుషితమైనట్లు జాబితా చేయబడ్డాయి?",
+    "en": "Which of the following rivers are listed as severely polluted in their entire stretches?"
+   },
+   "options": {
+    "te": [
+     "సబర్మతి మరియు గోమతి",
+     "అడయార్ మరియు కూమ్",
+     "వైగై మరియు మూసీ",
+     "గంగ మరియు యమున"
+    ],
+    "en": [
+     "The Sabarmati and the Gomti",
+     "The Adyar and the Cooum",
+     "The Vaigai and the Musi",
+     "The Ganga and the Yamuna"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అడయార్ మరియు కూమ్ నదులు వాటి మొత్తం పొడవునా తీవ్రంగా కలుషితమయ్యాయని పాఠ్యభాగం ప్రత్యేకంగా పేర్కొంది.",
+    "en": "The text specifically mentions the Adyar and the Cooum as being severely polluted in their entire stretches."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T29-0233",
+   "section": {
+    "te": "Indira Gandhi Canal Stage-I",
+    "en": "Indira Gandhi Canal Stage-I"
+   },
+   "q": {
+    "te": "ఇందిరా గాంధీ కెనాల్ యొక్క స్టేజ్-I కమాండ్ ఏరియాలో క్రింది జిల్లాలలో ఏవి భాగంగా ఉన్నాయి?",
+    "en": "Which of the following districts are part of the Stage-I command area of the Indira Gandhi Canal?"
+   },
+   "options": {
+    "te": [
+     "గంగానగర్ మరియు హనుమాన్‌గఢ్",
+     "బికనీర్ ఉత్తర భాగం",
+     "A మరియు B రెండూ",
+     "జైసల్మేర్ మరియు బార్మర్"
+    ],
+    "en": [
+     "Ganganagar and Hanumangarh",
+     "Northern part of Bikaner",
+     "Both A and B",
+     "Jaisalmer and Barmer"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "స్టేజ్-I కమాండ్ ఏరియాలో గంగానగర్, హనుమాన్‌గఢ్ మరియు బికనీర్ జిల్లాల ఉత్తర భాగాలు ఉన్నాయి.",
+    "en": "Stage-I command area includes Ganganagar, Hanumangarh, and the northern part of Bikaner districts."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T29-0166",
+   "section": {
+    "te": "Livestock Management",
+    "en": "Livestock Management"
+   },
+   "q": {
+    "te": "రాలెగాన్ సిద్ధిలో బహిరంగ పశువుల మేతను నిషేధించిన తర్వాత, పశువుల పోషణకు సంబంధించి ఏ విధానానికి ప్రాధాన్యత ఇచ్చారు?",
+    "en": "Following the ban on open grazing in Ralegan Siddhi, which livestock management practice was emphasized?"
+   },
+   "options": {
+    "te": [
+     "సంచార పశుపోషణ",
+     "వంతులవారీ మేత",
+     "మేత భూముల అభివృద్ధి",
+     "కొట్టాలలో మేత వేయడం (స్టాల్-ఫీడింగ్)"
+    ],
+    "en": [
+     "Nomadic herding",
+     "Rotational grazing",
+     "Pasture development",
+     "Stall-feeding"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "బహిరంగంగా పశువులను మేపడాన్ని పూర్తిగా నిషేధించి, కొట్టాలలోనే మేత వేసే విధానానికి (స్టాల్-ఫీడింగ్) ప్రాధాన్యతనిచ్చారు.",
+    "en": "Open grazing was completely banned and a new emphasis was placed on stall-feeding of livestock."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T29-0032",
+   "section": {
+    "te": "Forest depletion",
+    "en": "Forest depletion"
+   },
+   "q": {
+    "te": "అడవిలో చెట్లు పెరిగే వేగం కంటే వేగంగా కలపను సేకరిస్తే కలిగే పరిణామం ఏమిటి?",
+    "en": "What is the consequence of harvesting timber faster than the forest can grow trees?"
+   },
+   "options": {
+    "te": [
+     "నేల మరింత సారవంతంగా మారుతుంది",
+     "చెట్లు భర్తీ చేయడానికి వేగంగా పెరుగుతాయి",
+     "అడవి చివరికి క్షీణిస్తుంది (depleted)",
+     "అడవి తన వైశాల్యాన్ని విస్తరిస్తుంది"
+    ],
+    "en": [
+     "The soil will become more fertile",
+     "The trees will grow back faster to compensate",
+     "The forest will eventually be depleted",
+     "The forest will expand its area"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పెరుగుదల రేటు కంటే వేగంగా కలపను సేకరించడం అడవి క్షీణతకు దారితీస్తుందని పాఠ్యం స్పష్టంగా పేర్కొంది.",
+    "en": "Harvesting timber faster than the growth rate leads to the depletion of the forest."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T29-0031",
+   "section": {
+    "te": "Industrial waste impact",
+    "en": "Industrial waste impact"
+   },
+   "q": {
+    "te": "నదుల్లోకి విసర్జించే పారిశ్రామిక వ్యర్థాలు ప్రకృతి పునరుద్ధరణ చక్రాన్ని తరచుగా ఎందుకు దెబ్బతీస్తాయి?",
+    "en": "Why do industrial wastes discharged into rivers often disturb Nature's cycle of restoration?"
+   },
+   "options": {
+    "te": [
+     "అవి అన్ని జల మొక్కల అధిక పెరుగుదలను ప్రోత్సహిస్తాయి",
+     "అవి నీరు చాలా త్వరగా ఆవిరి కావడానికి కారణమవుతాయి",
+     "అవి కుళ్ళిపోయి ఇతర జీవులకు ఆహారంగా మారలేవు",
+     "అవి నది ప్రవాహ వేగాన్ని పెంచుతాయి"
+    ],
+    "en": [
+     "They encourage the overgrowth of all aquatic plants",
+     "They cause the water to evaporate too quickly",
+     "They cannot decay to become food for other lifeforms",
+     "They increase the speed of the river flow"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పారిశ్రామిక వ్యర్థాలు తరచుగా కుళ్ళిపోలేవు మరియు సహజ ఆహార చక్రంలో కలిసిపోలేవు, ఇది పునరుద్ధరణలో ఆటంకాలకు దారితీస్తుంది.",
+    "en": "Industrial wastes often cannot decay and be integrated into the natural food cycle, leading to disturbances in restoration."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T29-0132",
+   "section": {
+    "te": "Urban Forestry Scope",
+    "en": "Urban Forestry Scope"
+   },
+   "q": {
+    "te": "పట్టణ అటవీ పెంపకం (Urban forestry) కింది ఏ ప్రాంతాలలో చెట్ల నిర్వహణను కలిగి ఉంటుంది?",
+    "en": "Urban forestry involves the management of trees in which of the following areas?"
+   },
+   "options": {
+    "te": [
+     "గ్రీన్ బెల్ట్‌లు మరియు పార్కులు",
+     "రోడ్డు పక్కన అవెన్యూలు",
+     "పారిశ్రామిక మరియు వాణిజ్య గ్రీన్ బెల్ట్‌లు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Green belts and parks",
+     "Roadside avenues",
+     "Industrial and commercial green belts",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పట్టణ అటవీ పెంపకం పార్కులు, రోడ్ల పక్కన మరియు పారిశ్రామిక గ్రీన్ బెల్ట్‌లతో సహా పట్టణ ప్రాంతాల్లోని ప్రభుత్వ మరియు ప్రైవేట్ భూములలో చెట్ల నిర్వహణను కవర్ చేస్తుంది.",
+    "en": "Urban forestry covers the management of trees on both public and private lands in urban areas, including parks, roadsides, and industrial green belts."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T29-0065",
+   "section": {
+    "te": "Root Causes Depletion",
+    "en": "Root Causes Depletion"
+   },
+   "q": {
+    "te": "మహాత్మా గాంధీ ప్రకారం, ప్రపంచ స్థాయిలో వనరుల క్షీణతకు క్రింది వాటిలో ఏది/ఏవి మూలకారణాలుగా గుర్తించబడ్డాయి?",
+    "en": "According to Mahatma Gandhi, which of the following is/are identified as the root cause(s) for resource depletion at the global level?"
+   },
+   "options": {
+    "te": [
+     "దురాశపరులు మరియు స్వార్థపరులైన వ్యక్తులు",
+     "ఆధునిక సాంకేతిక పరిజ్ఞానం యొక్క దోపిడీ స్వభావం",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Greedy and selfish individuals",
+     "Exploitative nature of modern technology",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "దురాశ మరియు స్వార్థం గల వ్యక్తులు మరియు ఆధునిక సాంకేతికత యొక్క దోపిడీ స్వభావమే ప్రపంచ స్థాయి వనరుల క్షీణతకు మూలకారణమని గాంధీజీ పేర్కొన్నారు.",
+    "en": "Gandhiji held greedy and selfish individuals as well as the exploitative nature of modern technology responsible for global resource depletion."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T29-0141",
+   "section": {
+    "te": "National Commission on Agriculture",
+    "en": "National Commission on Agriculture"
+   },
+   "q": {
+    "te": "1976లో సామాజిక అటవీ పెంపకాన్ని మూడు వర్గాలుగా ఏ సంస్థ వర్గీకరించింది?",
+    "en": "Which organization classified social forestry into three categories in 1976?"
+   },
+   "options": {
+    "te": [
+     "పర్యావరణ మరియు అటవీ మంత్రిత్వ శాఖ",
+     "ఫారెస్ట్ సర్వే ఆఫ్ ఇండియా",
+     "ప్రణాళికా సంఘం",
+     "నేషనల్ కమిషన్ ఆన్ అగ్రికల్చర్"
+    ],
+    "en": [
+     "The Ministry of Environment and Forests",
+     "The Forest Survey of India",
+     "The Planning Commission",
+     "The National Commission on Agriculture"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నేషనల్ కమిషన్ ఆన్ అగ్రికల్చర్ (1976) సామాజిక అటవీ పెంపకాన్ని పట్టణ, గ్రామీణ మరియు ఫామ్ అటవీ పెంపకంగా వర్గీకరించడానికి బాధ్యత వహిస్తుంది.",
+    "en": "The National Commission on Agriculture (1976) is responsible for the classification of social forestry into Urban, Rural, and Farm forestry."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T29-0110",
+   "section": {
+    "te": "Submergence Impacts",
+    "en": "Submergence Impacts"
+   },
+   "q": {
+    "te": "వరద మైదానాలలో నిర్మించిన జలాశయాల వల్ల ఇప్పటికే ఉన్న వృక్షసంపద మరియు నేల మునిగిపోయినప్పుడు ఏమవుతుంది?",
+    "en": "What happens to the existing vegetation and soil when they are submerged by reservoirs created on floodplains?"
+   },
+   "options": {
+    "te": [
+     "అవి కాలక్రమేణా కుళ్ళిపోతాయి (decomposition)",
+     "అవి నీటికి సహజ వడపోతలుగా పనిచేస్తాయి",
+     "అవి నేల సారవంతం కావడానికి దారితీస్తాయి",
+     "అవి భూకంపాలను నివారిస్తాయి"
+    ],
+    "en": [
+     "They undergo decomposition over time",
+     "They act as natural filters for water",
+     "They lead to soil enrichment",
+     "They prevent earthquakes"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వరద మైదానాల్లోని జలాశయాల వల్ల మునిగిపోయిన వృక్షసంపద మరియు నేల కాలక్రమేణా కుళ్ళిపోతాయి.",
+    "en": "Vegetation and soil submerged by reservoirs on floodplains eventually decompose over a period of time."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T29-0142",
+   "section": {
+    "te": "Groundwater Pollution",
+    "en": "Groundwater Pollution"
+   },
+   "q": {
+    "te": "ఉపరితల జలవనరులలోని విషపూరిత పదార్థాలు చివరికి భూగర్భ జలాలను ఎలా ప్రభావితం చేస్తాయి?",
+    "en": "How can toxic substances in surface water bodies eventually affect groundwater?"
+   },
+   "options": {
+    "te": [
+     "నేల ద్వారా కిందికి ఇంకడం (seep down) ద్వారా",
+     "ఆవిరైపోయి మళ్ళీ వర్షంగా పడటం ద్వారా",
+     "విషపూరిత పదార్థాలు భూగర్భ జలాలను ప్రభావితం చేయలేవు",
+     "జలచరాలు వాటిని తీసుకోవడం ద్వారా"
+    ],
+    "en": [
+     "By seeping down through the soil",
+     "By evaporating and falling back as rain",
+     "Toxic substances cannot affect groundwater",
+     "By being consumed by aquatic animals"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఉపరితల జలవనరులలోని కాలుష్య కారకాలు కిందికి ఇంకి, కింద ఉన్న భూగర్భ జలాలను కలుషితం చేస్తాయని పాఠ్య భాగం పేర్కొంది.",
+    "en": "Pollutants in surface water bodies can seep down and pollute the groundwater beneath."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T29-0136",
+   "section": {
+    "te": "Water Pollution Effects",
+    "en": "Water Pollution Effects"
+   },
+   "q": {
+    "te": "విషపూరిత పదార్థాలు సరస్సులు మరియు నదుల వంటి జలవనరులలోకి ప్రవేశించినప్పుడు ఏమవుతుంది?",
+    "en": "What happens to toxic substances when they enter water bodies like lakes and rivers?"
+   },
+   "options": {
+    "te": [
+     "అవి వెంటనే వాతావరణంలోకి ఆవిరైపోతాయి",
+     "అవి నీటిలో కరిగిపోతాయి లేదా నీటిలో తేలుతూ (suspended) ఉంటాయి",
+     "అవి జల మొక్కల ద్వారా స్వయంచాలకంగా ఫిల్టర్ చేయబడతాయి",
+     "అవి ఉపరితలాన్ని మాత్రమే ప్రభావితం చేస్తాయి మరియు భూగర్భ జలాల్లోకి ఇంకవు"
+    ],
+    "en": [
+     "They immediately evaporate into the atmosphere",
+     "They get dissolved or lie suspended in water",
+     "They are automatically filtered out by aquatic plants",
+     "They only affect the surface and do not seep into groundwater"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "జలవనరులలోకి ప్రవేశించే విషపూరిత పదార్థాలు కరిగిపోతాయి లేదా నిలిపివేయబడతాయి, ఇది నీటి కాలుష్యానికి మరియు నాణ్యత క్షీణతకు దారితీస్తుంది.",
+    "en": "Toxic substances entering water bodies either dissolve or remain suspended, leading to water pollution and deterioration of quality."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T29-0122",
+   "section": {
+    "te": "Compulsory rainwater harvesting state",
+    "en": "Compulsory rainwater harvesting state"
+   },
+   "q": {
+    "te": "నిబంధనలు పాటించని వారిని శిక్షించే చట్టపరమైన నిబంధనలతో పాటు, రాష్ట్రంలోని అన్ని ఇళ్లకు పైకప్పు వర్షపు నీటి సంరక్షణ నిర్మాణాన్ని తప్పనిసరి చేసిన భారతదేశపు మొదటి రాష్ట్రం ఏది?",
+    "en": "Which is the first state in India to make rooftop rainwater harvesting structures compulsory for all houses across the state, with legal provisions to punish defaulters?"
+   },
+   "options": {
+    "te": [
+     "కర్ణాటక",
+     "రాజస్థాన్",
+     "తమిళనాడు",
+     "మహారాష్ట్ర"
+    ],
+    "en": [
+     "Karnataka",
+     "Rajasthan",
+     "Tamil Nadu",
+     "Maharashtra"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "తమిళనాడు రాష్ట్రంలోని అన్ని ఇళ్లలో పైకప్పు వర్షపు నీటి సంరక్షణ నిర్మాణాలను తప్పనిసరి చేసిన మొదటి రాష్ట్రం, అలాగే పాటించని వారిపై చట్టపరమైన చర్యలు కూడా ఉన్నాయి.",
+    "en": "Tamil Nadu is the first state in India to mandate rooftop rainwater harvesting for all households, backed by legal penalties for non-compliance."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T29-0112",
+   "section": {
+    "te": "Traditional water diversion channels",
+    "en": "Traditional water diversion channels"
+   },
+   "q": {
+    "te": "పశ్చిమ హిమాలయాల పర్వత మరియు కొండ ప్రాంతాలలో వ్యవసాయం కోసం నిర్మించిన సాంప్రదాయ నీటి మళ్లింపు కాలువలను ఏమని పిలుస్తారు?",
+    "en": "In the hill and mountainous regions of the Western Himalayas, what are the traditional agricultural diversion channels called?"
+   },
+   "options": {
+    "te": [
+     "టంకాలు",
+     "ఖదీన్లు",
+     "గుల్స్ లేదా కుల్స్",
+     "జోహాద్లు"
+    ],
+    "en": [
+     "Tankas",
+     "Khadins",
+     "Guls or Kuls",
+     "Johads"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పశ్చిమ హిమాలయాల కొండ ప్రాంతాలలో వ్యవసాయ నీటిపారుదల కోసం నిర్మించిన మళ్లింపు కాలువలను 'గుల్స్' లేదా 'కుల్స్' అని పిలుస్తారు.",
+    "en": "In the hill and mountainous regions of the Western Himalayas, people built diversion channels known as 'guls' or 'kuls' for agricultural purposes."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T29-0098",
+   "section": {
+    "te": "Historical Irrigation Works",
+    "en": "Historical Irrigation Works"
+   },
+   "q": {
+    "te": "క్రింది చారిత్రక సాగునీటి పనులను వాటి ప్రస్తుత రాష్ట్రాలతో జతపరచండి:\n1. కళింగ - i. మహారాష్ట్ర\n2. బెన్నూరు - ii. ఒడిశా\n3. కొల్హాపూర్ - iii. కర్ణాటక",
+    "en": "Match the following historical irrigation works with their respective modern-day states:\n1. Kalinga - i. Maharashtra\n2. Bennur - ii. Odisha\n3. Kolhapur - iii. Karnataka"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-iii, 3-i",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-i, 3-iii"
+    ],
+    "en": [
+     "1-ii, 2-iii, 3-i",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-i, 3-iii"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, అధునాతన సాగునీటి పనులు కళింగ (ఒడిశా), బెన్నూరు (కర్ణాటక) మరియు కొల్హాపూర్ (మహారాష్ట్ర) లలో కనుగొనబడ్డాయి.",
+    "en": "Sophisticated irrigation works were found in Kalinga (Odisha), Bennur (Karnataka), and Kolhapur (Maharashtra)."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T29-0028",
+   "section": {
+    "te": "Traditional fishing practices",
+    "en": "Traditional fishing practices"
+   },
+   "q": {
+    "te": "సాంప్రదాయ సంఘాలు చేపల గుడ్లు పెట్టే కాలంలో (spawning season) చేపలు పట్టకుండా ఎందుకు ఉండేవారు?",
+    "en": "Why did traditional communities refrain from fishing during the spawning season?"
+   },
+   "options": {
+    "te": [
+     "సముద్రపు నీరు సహజంగా శుద్ధి కావడానికి",
+     "ఆ సీజన్‌లో చేపలు విషపూరితంగా ఉంటాయి కాబట్టి",
+     "ఆ సమయంలో వచ్చే మతపరమైన పండుగల కారణంగా",
+     "చేపల జనాభా నిర్వహణను సాధ్యం చేయడానికి"
+    ],
+    "en": [
+     "To allow the ocean water to purify naturally",
+     "Because fish are poisonous during that season",
+     "Due to religious festivals occurring at that time",
+     "To enable the maintenance of the fish population"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "చేపల జనాభాను నిర్వహించడానికి వీలుగా కమ్యూనిటీలు గుడ్లు పెట్టే కాలంలో చేపలు పట్టడాన్ని నియంత్రించేవారని పాఠ్యం పేర్కొంది.",
+    "en": "Communities regulated fishing during the spawning season to help maintain the fish population."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T29-0138",
+   "section": {
+    "te": "Desalinisation Constraints",
+    "en": "Desalinisation Constraints"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): భారతదేశ తక్షణ అవసరాలకు సముద్రం లేదా మహాసముద్రం నుండి నీటి లభ్యత తక్కువగా పరిగణించబడుతుంది.\nకారణం (R): సముద్రపు నీటిని ఉప్పు తొలగించే (desalinisation) ఖర్చు చాలా ఎక్కువగా ఉంటుంది.",
+    "en": "Assertion (A): Water availability from the sea or ocean is considered negligible for India's immediate needs.\nReason (R): The cost of desalinisation of sea water is very high."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సముద్రపు నీటి లభ్యత 'తక్కువ'గా ఉండటానికి ఉప్పు తొలగింపు ప్రక్రియతో కూడిన అధిక ఖర్చు కారణమని పాఠ్య భాగం స్పష్టంగా పేర్కొంది.",
+    "en": "The text explicitly links the 'negligible' status of sea water availability to the high cost associated with desalinisation."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T29-0041",
+   "section": {
+    "te": "Traditional soil management",
+    "en": "Traditional soil management"
+   },
+   "q": {
+    "te": "సాంప్రదాయ నేల నిర్వహణకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. నేల భూమాతలో భాగంగా పరిగణించబడింది.\n2. మల్చింగ్ మరియు బహుళ పంటల సాగు వంటి పద్ధతులు ఉపయోగించబడ్డాయి.\n3. సమగ్ర నిర్వహణ కోసం రసాయన ఎరువులకు ప్రాధాన్యత ఇవ్వబడింది.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding traditional soil management:\n1. Soil was considered part of Mother Earth.\n2. Practices like mulching and multi-cropping were used.\n3. Chemical fertilisers were preferred for holistic management.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3",
+     "1 మాత్రమే"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1, 2 and 3",
+     "1 only"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సాంప్రదాయ పద్ధతులు సహజ ఎరువులు, మల్చింగ్ మరియు బహుళ పంటల సాగును ఉపయోగించాయి, నేలను భూమాతలో భాగంగా చూశాయి. రసాయన ఎరువులు నేల క్షీణతకు కారణమవుతాయి, ఇవి సాంప్రదాయ సమగ్ర నిర్వహణలో భాగం కావు.",
+    "en": "Traditional practices used natural fertilisers, mulching, and multi-cropping, viewing soil as part of Mother Earth. Chemical fertilisers are linked to soil degradation, not traditional holistic management."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T29-0198",
+   "section": {
+    "te": "Sectoral Planning Definition",
+    "en": "Sectoral Planning Definition"
+   },
+   "q": {
+    "te": "వ్యవసాయం, సాగునీరు, తయారీ రంగం వంటి ఆర్థిక వ్యవస్థలోని వివిధ రంగాల అభివృద్ధి కోసం పథకాలను రూపొందించి అమలు చేయడాన్ని ఏమంటారు?",
+    "en": "Formulation and implementation of schemes aimed at the development of various sectors of the economy such as agriculture, irrigation, and manufacturing is known as:"
+   },
+   "options": {
+    "te": [
+     "ప్రాంతీయ ప్రణాళిక (Regional planning)",
+     "ప్రాదేశిక ప్రణాళిక (Spatial planning)",
+     "లక్ష్యిత ప్రాంత ప్రణాళిక (Target area planning)",
+     "రంగాలవారీ ప్రణాళిక (Sectoral planning)"
+    ],
+    "en": [
+     "Regional planning",
+     "Spatial planning",
+     "Target area planning",
+     "Sectoral planning"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఆర్థిక వ్యవస్థలోని వ్యవసాయం, సాగునీరు, తయారీ వంటి వివిధ రంగాల అభివృద్ధికి పథకాలను రూపొందించి అమలు చేయడాన్ని రంగాలవారీ ప్రణాళిక అంటారు.",
+    "en": "Sectoral planning refers to the formulation and implementation of programmes aimed at developing various sectors of the economy."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T29-0012",
+   "section": {
+    "te": "Definition of natural resources",
+    "en": "Definition of natural resources"
+   },
+   "q": {
+    "te": "'సహజ వనరులు' అనే పదం ఏ పదార్థాలకు వర్తిస్తుంది?",
+    "en": "The term 'natural resources' is applied to materials and substances that:"
+   },
+   "options": {
+    "te": [
+     "కర్మాగారాల్లో మానవులచే సృష్టించబడినవి",
+     "ప్రకృతిలో లభించేవి మరియు మానవులకు విలువైనవి",
+     "థార్ ఎడారిలో మాత్రమే కనిపించేవి",
+     "ఉపయోగించడానికి సాంస్కృతికంగా ఆమోదయోగ్యం కానివి"
+    ],
+    "en": [
+     "Are created by humans in factories",
+     "Occur in Nature and are valuable to humans",
+     "Are only found in the Thar Desert",
+     "Are culturally unacceptable to use"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రకృతిలో లభించే మరియు మానవులకు విలువనిచ్చే పదార్థాలను సహజ వనరులుగా నిర్వచించారు.",
+    "en": "Natural resources are defined as materials and substances occurring in nature that have value to humans."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T29-0196",
+   "section": {
+    "te": "Drought Prone Area Programme",
+    "en": "Drought Prone Area Programme"
+   },
+   "q": {
+    "te": "ప్రారంభంలో, కరవు పీడిత ప్రాంతాల కార్యక్రమం క్రింది వాటిలో దేనిపై ప్రాధాన్యతనిచ్చింది?",
+    "en": "Initially, what did the Drought Prone Area Programme lay emphasis on?"
+   },
+   "options": {
+    "te": [
+     "సూక్ష్మ సేద్యం వ్యవస్థల అభివృద్ధిపై",
+     "భారీ రసాయన పరిశ్రమల ప్రోత్సాహంపై",
+     "శ్రమతో కూడిన పౌర పనుల (సివిల్ వర్క్స్) నిర్మాణంపై",
+     "మెట్ట వ్యవసాయ యంత్రీకరణపై"
+    ],
+    "en": [
+     "Development of micro-irrigation systems",
+     "Promotion of large-scale chemical industries",
+     "Construction of labour-intensive civil works",
+     "Mechanization of dryland farming"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రారంభంలో, ఈ కార్యక్రమం శ్రమతో కూడిన నిర్మాణ పనులను (సివిల్ వర్క్స్) చేపట్టడంపై ప్రాధాన్యతనిచ్చింది.",
+    "en": "Initially, the Drought Prone Area Programme laid emphasis on the construction of labour-intensive civil works."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T29-0173",
+   "section": {
+    "te": "Energy Conservation Mechanism",
+    "en": "Energy Conservation Mechanism"
+   },
+   "q": {
+    "te": "నిశ్చితార్థం (A): వర్షపు నీటి సంరక్షణ భూగర్భ జలాలను తోడేందుకు అవసరమైన విద్యుత్ శక్తిని ఆదా చేస్తుంది.\nహేతువు (R): భూగర్భ జలాల రీఛార్జ్ వల్ల భూగర్భ జలమట్టం పెరుగుతుంది, దీనితో నీటిని తోడే శ్రమ తగ్గుతుంది.",
+    "en": "Assertion (A): Rainwater harvesting can save electrical energy required for pumping groundwater.\nReason (R): Groundwater recharge raises the groundwater table, reducing the lift needed to draw water."
+   },
+   "options": {
+    "te": [
+     "(A) మరియు (R) రెండూ నిజం మరియు (R) అనేది (A) కి సరైన వివరణ",
+     "(A) మరియు (R) రెండూ నిజం కానీ (R) అనేది (A) కి సరైన వివరణ కాదు",
+     "(A) నిజం కానీ (R) తప్పు",
+     "(A) తప్పు కానీ (R) నిజం"
+    ],
+    "en": [
+     "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+     "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+     "(A) is true but (R) is false",
+     "(A) is false but (R) is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వర్షపు నీటి రీఛార్జ్ వల్ల భూగర్భ జలమట్టం పెరుగుతుంది, కాబట్టి పంపులతో నీటిని తోడేందుకు తక్కువ శక్తి అవసరమై విద్యుత్ ఆదా అవుతుంది.",
+    "en": "Rainwater harvesting saves energy because recharging the aquifer raises the groundwater table, directly making water pumping less energy-intensive."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T29-0183",
+   "section": {
+    "te": "Water as economic good",
+    "en": "Water as economic good"
+   },
+   "q": {
+    "te": "జాతీయ నీటి విధానం 2012 ప్రకారం, క్రింది ఏ ప్రాథమిక అవసరాలను తీర్చిన తర్వాత మాత్రమే నీటిని ఆర్థిక వస్తువుగా (economic good) పరిగణించాలి?\n1. సురక్షిత తాగునీరు మరియు పారిశుధ్యం\n2. ఆహార భద్రత సాధించడం\n3. కనీస పర్యావరణ వ్యవస్థ అవసరాలు",
+    "en": "According to the National Water Policy 2012, water should be treated as an economic good only AFTER meeting which of the following pre-emptive needs?\n1. Safe drinking water and sanitation\n2. Achieving food security\n3. Minimum eco-system needs"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సురక్షిత తాగునీరు, ఆహార భద్రత మరియు పర్యావరణ వ్యవస్థ కనీస అవసరాలను తీర్చిన తర్వాతే నీటిని ఆర్థిక వస్తువుగా పరిగణించాలని జాతీయ నీటి విధానం 2012 పేర్కొంది.",
+    "en": "The policy specifies treating water as an economic good after meeting needs for safe drinking water, sanitation, food security, supporting livelihoods of poor agriculturists, and minimum eco-system needs."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T29-0165",
+   "section": {
+    "te": "Water Conservation Works",
+    "en": "Water Conservation Works"
+   },
+   "q": {
+    "te": "రాలెగాన్ సిద్ధిలో వాటర్‌షెడ్ అభివృద్ధి పనులు ప్రారంభంలో ఏ నిర్మాణ మరమ్మత్తుతో మొదలయ్యాయి?",
+    "en": "With the construction and repair of which structure did the watershed development work initially begin in Ralegan Siddhi?"
+   },
+   "options": {
+    "te": [
+     "ఊట చెరువు (పెర్కోలేషన్ ట్యాంక్)",
+     "వ్యవసాయ కుంట (ఫామ్ పాండ్)",
+     "చెక్ డ్యామ్",
+     "బోర్‌వెల్ రీఛార్జ్ పిట్"
+    ],
+    "en": [
+     "Percolation tank",
+     "Farm pond",
+     "Check dam",
+     "Borewell recharge pit"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "రాలెగాన్ సిద్ధిలో అభివృద్ధి పనులు గ్రామంలో నిర్మించిన పెర్కోలేషన్ ట్యాంక్ (ఊట చెరువు) మరమ్మత్తుతో ప్రారంభమయ్యాయి.",
+    "en": "The transformation work in Ralegan Siddhi began with the repair of the percolation tank constructed in the village."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T29-0228",
+   "section": {
+    "te": "Degraded Land vs Wasteland",
+    "en": "Degraded Land vs Wasteland"
+   },
+   "q": {
+    "te": "క్షీణించిన భూమికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. క్షీణించిన భూమి అంతా బంజరు భూమిగా వర్గీకరించబడింది.\n2. అదుపులేని క్షీణత భూమిని బంజరు భూమిగా మార్చడానికి దారితీస్తుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding degraded land:\n1. All degraded land is categorized as wasteland.\n2. Unchecked degradation can lead to the conversion of land into wasteland.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "క్షీణించిన భూమి అంతా బంజరు భూమి కాకపోవచ్చు, కానీ క్షీణత ప్రక్రియను అరికట్టకపోతే అది బంజరు భూమిగా మారుతుందని పాఠ్యాంశం పేర్కొంది.",
+    "en": "All degraded land may NOT be wasteland, but if degradation is unchecked, it may become wasteland."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T29-0172",
+   "section": {
+    "te": "Coastal Aquifers Protection",
+    "en": "Coastal Aquifers Protection"
+   },
+   "q": {
+    "te": "తీరప్రాంతాలలో, వర్షపు నీటితో జలధరలను (aquifers) రీఛార్జ్ చేయడం క్రింది ఏ సమస్యను నివారించడంలో ప్రత్యేకంగా సహాయపడుతుంది?",
+    "en": "In coastal regions, recharging aquifers through rainwater harvesting is specifically effective in preventing which of the following phenomena?"
+   },
+   "options": {
+    "te": [
+     "మేఘ విస్ఫోటనం",
+     "ఉప్పు నీటి చొరబాటు (సాల్ట్ వాటర్ ఇంట్రూజన్)",
+     "ఉష్ణ విస్తరణ",
+     "నేల ద్రవీకరణ"
+    ],
+    "en": [
+     "Cloud bursts",
+     "Salt water intrusion",
+     "Thermal expansion",
+     "Soil liquefaction"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వర్షపు నీటితో జలధరలను రీఛార్జ్ చేయడం వల్ల తీరప్రాంతాలలోకి సముద్రపు ఉప్పునీరు చొరబడకుండా అరికట్టవచ్చు.",
+    "en": "Recharging aquifers through rainwater harvesting arrests salt water intrusion in coastal areas."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T29-0099",
+   "section": {
+    "te": "Bhopal Lake History",
+    "en": "Bhopal Lake History"
+   },
+   "q": {
+    "te": "తన కాలంలోనే అతిపెద్ద కృత్రిమ సరస్సులలో ఒకటిగా పేరుగాంచిన భోపాల్ సరస్సు ఏ శతాబ్దంలో నిర్మించబడింది?",
+    "en": "In which century was the Bhopal Lake, one of the largest artificial lakes of its time, built?"
+   },
+   "options": {
+    "te": [
+     "14వ శతాబ్దం",
+     "11వ శతాబ్దం",
+     "10వ శతాబ్దం",
+     "13వ శతాబ్దం"
+    ],
+    "en": [
+     "14th Century",
+     "11th Century",
+     "10th Century",
+     "13th Century"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భోపాల్ సరస్సు 11వ శతాబ్దంలో నిర్మించబడింది మరియు ఆ కాలంలోని అతిపెద్ద కృత్రిమ సరస్సులలో ఒకటిగా పరిగణించబడింది.",
+    "en": "Bhopal Lake was constructed in the 11th Century and was considered one of the largest artificial lakes of that period."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T29-0229",
+   "section": {
+    "te": "Urban Renewal Mission",
+    "en": "Urban Renewal Mission"
+   },
+   "q": {
+    "te": "పట్టణ పునరుద్ధరణ మిషన్‌లో భాగంగా పట్టణ మురికివాడల్లో జీవన ప్రమాణాలను మెరుగుపరచడానికి భారత ప్రభుత్వం ఏ మిషన్‌ను ప్రారంభించింది?",
+    "en": "Which mission was launched by the Government of India to improve the quality of life in urban slums as part of the urban renewal mission?"
+   },
+   "options": {
+    "te": [
+     "డిజిటల్ ఇండియా",
+     "మేక్ ఇన్ ఇండియా",
+     "స్వచ్ఛ భారత్ మిషన్",
+     "స్కిల్ ఇండియా"
+    ],
+    "en": [
+     "Digital India",
+     "Make in India",
+     "Swachh Bharat Mission",
+     "Skill India"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పట్టణ మురికివాడల్లో జీవన ప్రమాణాలను మెరుగుపరచడానికి స్వచ్ఛ భారత్ మిషన్ (SBM) ప్రారంభించబడింది.",
+    "en": "The Swachh Bharat Mission (SBM) was launched to improve the quality of life in urban slums."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T29-0186",
+   "section": {
+    "te": "Jal Kranti Abhiyan regions",
+    "en": "Jal Kranti Abhiyan regions"
+   },
+   "q": {
+    "te": "జల్ క్రాంతి అభియాన్ కింద గుర్తించిన ఆదర్శ కమాండ్ ప్రాంతాలకు సంబంధించి, క్రింది జతలను పరిశీలించండి:\n1. ఉత్తర ప్రాంతం - హర్యానా\n2. దక్షిణ ప్రాంతం - తెలంగాణ\n3. తూర్పు ప్రాంతం - ఒడిశా\nపై జతలలో ఏవి సరిగ్గా సరిపోలినవి?",
+    "en": "With reference to the model command areas identified under the Jal Kranti Abhiyan, consider the following region-state pairs:\n1. North - Haryana\n2. South - Telangana\n3. East - Odisha\nWhich of the pairs given above are correctly matched?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జల్ క్రాంతి అభియాన్ ప్రకారం ఉత్తర ప్రాంతానికి హర్యానా/యుపి, దక్షిణానికి తెలంగాణ/కర్ణాటక/తమిళనాడు, తూర్పు ప్రాంతానికి ఒడిశా పేర్కొనబడ్డాయి. కాబట్టి మూడూ సరైనవే.",
+    "en": "The source lists: UP, Haryana (North); Karnataka, Telangana, Tamil Nadu (South); Odisha (East). All three given pairs are correct."
+   }
+  }
+ ]
+}

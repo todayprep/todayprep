@@ -1,0 +1,942 @@
+{
+ "id": "geo-29-g1-2",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Natural Resources and Conservation – క్విజ్ 2",
+  "en": "Natural Resources and Conservation – Quiz 2"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T29-0180",
+   "section": {
+    "te": "Model command area",
+    "en": "Model command area"
+   },
+   "q": {
+    "te": "జల్ క్రాంతి అభియాన్ కింద దేశంలోని వివిధ ప్రాంతాలలో గుర్తించడానికి ప్రతిపాదించిన ఆదర్శ కమాండ్ ఏరియా (model command area) విస్తీర్ణం ఎంత?",
+    "en": "What is the size of the model command area proposed to be identified in different parts of the country under the Jal Kranti Abhiyan?"
+   },
+   "options": {
+    "te": [
+     "సుమారు 2000 హెక్టార్లు",
+     "సుమారు 100 హెక్టార్లు",
+     "సుమారు 1000 హెక్టార్లు",
+     "సుమారు 500 హెక్టార్లు"
+    ],
+    "en": [
+     "About 2000 hectares",
+     "About 100 hectares",
+     "About 1000 hectares",
+     "About 500 hectares"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "దేశంలోని వివిధ ప్రాంతాలలో సుమారు 1000 హెక్టార్ల విస్తీర్ణంలో ఆదర్శ కమాండ్ ప్రాంతాన్ని గుర్తించాలని జల్ క్రాంతి అభియాన్ నిర్దేశించింది.",
+    "en": "The Jal Kranti Abhiyan proposed the identification of a model command area of about 1000 hectares in different parts of the country."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T29-0094",
+   "section": {
+    "te": "Atal Jal Coverage",
+    "en": "Atal Jal Coverage"
+   },
+   "q": {
+    "te": "అటల్ భూజల్ యోజన అమలుకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది 8,220 నీటి ఎద్దడి గల గ్రామ పంచాయతీలలో అమలు చేయబడుతోంది.\n2. ఇది 80 జిల్లాలలోని 229 పరిపాలనా బ్లాకులలో అమలు చేయబడుతోంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the implementation of the Atal Bhujal Yojana:\n1. It covers 8,220 water-stressed Gram Panchayats.\n2. It is implemented across 229 administrative blocks in 80 districts.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 రెండూ",
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "ఏదీ కాదు"
+    ],
+    "en": [
+     "Both 1 and 2",
+     "1 only",
+     "2 only",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అటల్ జల్ పథకం 80 జిల్లాల్లోని 229 బ్లాకులు మరియు 8,220 గ్రామ పంచాయతీలలో అమలు చేయబడుతోంది కాబట్టి రెండు ప్రకటనలు సరైనవే.",
+    "en": "Atal Jal is implemented in 8,220 water-stressed Gram Panchayats of 229 administrative blocks/talukas across 80 districts."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T29-0181",
+   "section": {
+    "te": "Water pollution abatement",
+    "en": "Water pollution abatement"
+   },
+   "q": {
+    "te": "జల్ క్రాంతి అభియాన్ కాలుష్య నివారణ చర్యల కింద, దేశంలోని ఎంపిక చేసిన ప్రాంతాలలో ఏ రకమైన బావులను నిర్మించాలని ప్రతిపాదించారు?",
+    "en": "Under the pollution abatement activities of the Jal Kranti Abhiyan, which specific type of wells are proposed to be constructed in selected areas?"
+   },
+   "options": {
+    "te": [
+     "ఫ్లోరైడ్ రహిత బావులు",
+     "నైట్రేట్ రహిత బావులు",
+     "ఆర్సెనిక్ రహిత బావులు",
+     "లవణీయత రహిత బావులు"
+    ],
+    "en": [
+     "Fluoride-free wells",
+     "Nitrate-free wells",
+     "Arsenic-free wells",
+     "Salinity-free wells"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "జల్ క్రాంతి అభియాన్ కింద దేశంలోని ఎంపిక చేసిన ప్రాంతాలలో ఆర్సెనిక్ రహిత బావుల (Arsenic-free wells) నిర్మాణాన్ని ప్రతిపాదించారు.",
+    "en": "Under pollution abatement, the Jal Kranti Abhiyan proposes the construction of Arsenic-free wells in selected areas of the country."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T29-0027",
+   "section": {
+    "te": "Impact of resource distribution",
+    "en": "Impact of resource distribution"
+   },
+   "q": {
+    "te": "సహజ వనరుల అసమాన పంపిణీకి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది మానవ నివాసాల నమూనాలను ప్రభావితం చేస్తుంది.\n2. అంతర్జాతీయ సంబంధాలు లేదా సంఘర్షణలపై దీనికి ఎటువంటి ప్రభావం లేదు.\n3. ఇది ప్రపంచ వాణిజ్య నమూనాలను రూపొందిస్తుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding the uneven distribution of natural resources:\n1. It influences the patterns of human settlements.\n2. It has no impact on international relations or conflicts.\n3. It shapes global trade patterns.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అసమాన పంపిణీ నివాసాలు, వాణిజ్యం, అంతర్జాతీయ సంబంధాలు మరియు సంఘర్షణలను రూపొందిస్తుందని పాఠ్యం పేర్కొంది; కాబట్టి, ప్రకటన 2 తప్పు.",
+    "en": "Uneven distribution shapes settlements, trade, international relations, and conflicts; therefore, statement 2 is incorrect."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T29-0109",
+   "section": {
+    "te": "Sedimentation Effects",
+    "en": "Sedimentation Effects"
+   },
+   "q": {
+    "te": "నదులకు ఆనకట్టలు కట్టడం వల్ల కలిగే ప్రభావాలకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది జలాశయం అడుగుభాగంలో అధికంగా అవక్షేపం (sedimentation) పేరుకుపోయేలా చేస్తుంది.\n2. దీని ఫలితంగా నదీ గర్భాలు రాతిమయంగా మారుతాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the effects of damming rivers:\n1. It causes excessive sedimentation at the bottom of the reservoir.\n2. It results in rockier stream beds.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఆనకట్టలు కట్టడం వల్ల సహజ ప్రవాహం ప్రభావితమవుతుంది, దీనివల్ల జలాశయం అడుగున అధికంగా అవక్షేపం పేరుకుపోతుంది మరియు నదీ గర్భాలు రాతిమయంగా మారుతాయి.",
+    "en": "Damming affects natural flow, leading to excessive sedimentation at the reservoir bottom and making stream beds rockier."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T29-0102",
+   "section": {
+    "te": "Nehru's Vision on Dams",
+    "en": "Nehru's Vision on Dams"
+   },
+   "q": {
+    "te": "ప్రతిపాదన (A): జవహర్‌లాల్ నెహ్రూ ఆనకట్టలను 'ఆధునిక భారతదేశ దేవాలయాలు' అని ప్రకటించారు.\nకారణం (R): ఆనకట్టలు వ్యవసాయం మరియు గ్రామీణ ఆర్థిక వ్యవస్థ అభివృద్ధిని వేగవంతమైన పారిశ్రామికీకరణతో అనుసంధానిస్తాయని భావించారు.",
+    "en": "Assertion (A): Jawaharlal Nehru proclaimed dams as the 'temples of modern India'.\nReason (R): Dams were expected to integrate agricultural and village economy development with rapid industrialisation."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "గ్రామీణ వ్యవసాయ వృద్ధిని పట్టణ పారిశ్రామిక వృద్ధితో అనుసంధానించే మార్గంగా ఆనకట్టలను చూసినందున నెహ్రూ వాటిని 'ఆధునిక భారతదేశ దేవాలయాలు' అని పిలిచారు.",
+    "en": "Nehru called dams 'temples of modern India' because they were seen as a way to link rural agricultural growth with urban industrial growth."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T29-0113",
+   "section": {
+    "te": "Bengal traditional irrigation",
+    "en": "Bengal traditional irrigation"
+   },
+   "q": {
+    "te": "బెంగాల్ వరద మైదానాలలో ప్రజలు తమ పొలాలకు నీరు అందించడానికి ఏ విధమైన కాలువలను అభివృద్ధి చేశారు?",
+    "en": "What type of channels did people develop in the flood plains of Bengal to irrigate their agricultural fields?"
+   },
+   "options": {
+    "te": [
+     "వరద కాలువలు (ఇనుండేషన్ ఛానల్స్)",
+     "కుల్స్",
+     "భూగర్భ కాలువలు",
+     "జీవ నదీ కాలువలు"
+    ],
+    "en": [
+     "Inundation channels",
+     "Kuls",
+     "Underground aqueducts",
+     "Perennial canals"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "బెంగాల్‌లోని వరద మైదాన ప్రాంతాల్లో రైతులు తమ పొలాల సాగు కోసం వరద కాలువలను (ఇనుండేషన్ ఛానల్స్) అభివృద్ధి చేసుకున్నారు.",
+    "en": "In the flood plains of Bengal, farmers historically developed inundation channels to irrigate their fields."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T29-0244",
+   "section": {
+    "te": "Petlawad CPR Management",
+    "en": "Petlawad CPR Management"
+   },
+   "q": {
+    "te": "ఝాబువా జిల్లాలోని పెట్లవాడ్ బ్లాక్‌లో కమ్యూనిటీ భాగస్వామ్యానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ప్రతి కుటుంబం ఉమ్మడి ఆస్తిపై ఒక చెట్టును నాటి సంరక్షించింది.\n2. పచ్చిక బయళ్ల భూములపై ఆ వర్గం కనీసం రెండేళ్లపాటు సామాజిక కంచెను (social-fencing) అమలు చేసింది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the community participation in the Petlawad block of Jhabua district:\n1. Each household planted and maintained one tree on the common property.\n2. The community adopted social-fencing of pasture lands for at least two years.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రెండు ప్రకటనలు సరైనవే. ప్రతి కుటుంబం ఉమ్మడి స్థలంలో ఒక చెట్టును నాటి పెంచింది మరియు పచ్చిక బయళ్లను కనీసం రెండేళ్లు సామాజిక కంచె ద్వారా రక్షించారు.",
+    "en": "Both statements are correct. Each household planted one tree on common property and the community enforced social-fencing of pastures for at least two years."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T29-0104",
+   "section": {
+    "te": "Bhakra-Nangal Project",
+    "en": "Bhakra-Nangal Project"
+   },
+   "q": {
+    "te": "సట్లెజ్-బియాస్ నదీ పరివాహక ప్రాంతంలోని భాక్రా-నంగల్ ప్రాజెక్ట్ నీటిని క్రింది ఏ ప్రయోజనాల కోసం ఉపయోగిస్తారు?",
+    "en": "In the Sutluj-Beas river basin, the water from the Bhakra-Nangal project is utilized for which of the following purposes?"
+   },
+   "options": {
+    "te": [
+     "జల విద్యుత్ ఉత్పత్తి",
+     "సాగునీరు",
+     "A మరియు B రెండూ",
+     "వరద నియంత్రణ మాత్రమే"
+    ],
+    "en": [
+     "Hydel power production",
+     "Irrigation",
+     "Both A and B",
+     "Flood control only"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భాక్రా-నంగల్ ప్రాజెక్ట్ ఒక బహుళార్థసాధక ప్రాజెక్ట్, ఇక్కడ నీటిని జల విద్యుత్ ఉత్పత్తికి మరియు వ్యవసాయ సాగునీటి కోసం ఉపయోగిస్తారు.",
+    "en": "The Bhakra-Nangal project is a multi-purpose project where water is used for both generating hydroelectricity and for agricultural irrigation."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T29-0212",
+   "section": {
+    "te": "Gaddi Community Characteristics",
+    "en": "Gaddi Community Characteristics"
+   },
+   "q": {
+    "te": "భర్మార్ ప్రాంతానికి చెందిన 'గద్ది' (Gaddi) గిరిజన తెగకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. వారు రుతుసంబంధ పశువుల వలస (transhumance) ఆచరించడం ద్వారా ప్రత్యేక గుర్తింపును కాపాడుకున్నారు.\n2. వారు గద్దియాలీ (Gaddiali) మాండలికంలో సంభాషిస్తారు.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the 'Gaddi' tribal community of Bharmaur:\n1. They have maintained a distinct identity as they practised transhumance.\n2. They converse through the Gaddiali dialect.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "గద్ది గిరిజన తెగ ప్రజలు హిమాలయ ప్రాంతంలో పశువుల రుతువలసను ఆచరిస్తూ, గద్దియాలీ మాండలికం మాట్లాడటం ద్వారా తమ ప్రత్యేక గుర్తింపును కాపాడుకున్నారు.",
+    "en": "The Gaddis maintained a distinct identity in the Himalayan region as they practised transhumance and conversed in the Gaddiali dialect."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T29-0202",
+   "section": {
+    "te": "Special Area Programmes Plan",
+    "en": "Special Area Programmes Plan"
+   },
+   "q": {
+    "te": "కొండ ప్రాంతాలు, ఈశాన్య రాష్ట్రాలు, గిరిజన ప్రాంతాలు మరియు వెనుకబడిన ప్రాంతాలలో మౌలిక సదుపాయాలను అభివృద్ధి చేయడానికి ఏ పంచవర్ష ప్రణాళికలో ప్రత్యేక ప్రాంత కార్యక్రమాలను రూపొందించారు?",
+    "en": "In which Five Year Plan were special area programmes designed to develop infrastructure in hill areas, north-eastern states, tribal areas, and backward areas?"
+   },
+   "options": {
+    "te": [
+     "10వ పంచవర్ష ప్రణాళిక",
+     "6వ పంచవర్ష ప్రణాళిక",
+     "4వ పంచవర్ష ప్రణాళిక",
+     "8వ పంచవర్ష ప్రణాళిక"
+    ],
+    "en": [
+     "10th Five Year Plan",
+     "6th Five Year Plan",
+     "4th Five Year Plan",
+     "8th Five Year Plan"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "8వ పంచవర్ష ప్రణాళికలో కొండ ప్రాంతాలు, ఈశాన్య రాష్ట్రాలు, గిరిజన మరియు వెనుకబడిన ప్రాంతాలలో మౌలిక సదుపాయాల కల్పనకు ప్రత్యేక ప్రాంత కార్యక్రమాలను రూపొందించారు.",
+    "en": "Special area programmes were designed in the 8th Five Year Plan to develop infrastructure in hill areas, north-eastern states, tribal areas, and backward areas."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T29-0085",
+   "section": {
+    "te": "Hydrological cycle renewability",
+    "en": "Hydrological cycle renewability"
+   },
+   "q": {
+    "te": "నీరు ఒక పునరుత్పాదక సహజ వనరు అని నిర్ధారించేది క్రింది వాటిలో ఏది?",
+    "en": "What ensures that water is a renewable natural resource?"
+   },
+   "options": {
+    "te": [
+     "భూగర్భ జలాలు ఎప్పటికీ తగ్గకపోవడం",
+     "నీరంతా జలచక్రం (hydrological cycle) లో నిరంతరం కదలడం",
+     "సముద్రపు నీటిని శుద్ధి చేయడం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Groundwater tables never deplete",
+     "All water moves within the hydrological cycle",
+     "Desalination of ocean water",
+     "All of the above"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "నీరంతా జలచక్రం ద్వారా నిరంతరం పునరుద్ధరించబడుతూ మరియు రీఛార్జ్ అవుతూ కదలడం వల్ల నీరు పునరుత్పాదక వనరుగా కొనసాగుతుంది.",
+    "en": "The hydrological cycle continually renews and recharges water, ensuring that it remains a renewable resource."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T29-0176",
+   "section": {
+    "te": "Geothermal energy history",
+    "en": "Geothermal energy history"
+   },
+   "q": {
+    "te": "చుట్టుపక్కల భవనాలకు వేడిని అందించడానికి వేడి నీటి పైపుల నెట్‌వర్క్‌ను నిర్మించడం ద్వారా భూగర్భ వేడిని వినియోగించుకునే మొదటి విజయవంతమైన ప్రయత్నం (1890) ఏ నగరంలో జరిగింది?",
+    "en": "In which city was the first successful attempt (1890) made to tap underground heat by building a hot water pipe network to heat surrounding buildings?"
+   },
+   "options": {
+    "te": [
+     "రేక్జావిక్ (ఐస్‌లాండ్)",
+     "బోయిస్, ఇడాహో (U.S.A.)",
+     "డెన్వర్, కొలరాడో (U.S.A.)",
+     "రెనో, నెవాడా (U.S.A.)"
+    ],
+    "en": [
+     "Reykjavik (Iceland)",
+     "Boise, Idaho (U.S.A.)",
+     "Denver, Colorado (U.S.A.)",
+     "Reno, Nevada (U.S.A.)"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "1890 లో భూగర్భ వేడిని ఉపయోగించుకునే మొదటి విజయవంతమైన ప్రయత్నం అమెరికాలోని ఇడాహో రాష్ట్రానికి చెందిన బోయిస్ నగరంలో జరిగింది.",
+    "en": "The first successful attempt in 1890 to tap underground heat was made in Boise, Idaho (U.S.A.), where a hot water pipe network was built."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T29-0081",
+   "section": {
+    "te": "Earth water coverage",
+    "en": "Earth water coverage"
+   },
+   "q": {
+    "te": "భూ ఉపరితలంలో ఎంత భాగం నీటితో కప్పబడి ఉంది?",
+    "en": "What proportion of the earth's surface is covered with water?"
+   },
+   "options": {
+    "te": [
+     "సగం (1/2)",
+     "నాల్గవ వంతు (1/4)",
+     "మూడు వంతులు (3/4)",
+     "మూడింట రెండు వంతులు (2/3)"
+    ],
+    "en": [
+     "Half",
+     "One-fourth",
+     "Three-fourth",
+     "Two-third"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూ ఉపరితలంలో సుమారు మూడు వంతుల భాగం (మూడు-నాల్గవ వంతు) నీటితో కప్పబడి ఉంది.",
+    "en": "Three-fourth of the earth's surface is covered with water, though only a small proportion is usable freshwater."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T29-0018",
+   "section": {
+    "te": "Water reuse",
+    "en": "Water reuse"
+   },
+   "q": {
+    "te": "థార్ ఎడారిలో, పాత్రలను కడగడానికి ఉపయోగించిన నీటిని సాధారణంగా ఏ విధంగా పునర్వినియోగిస్తారు?",
+    "en": "In the Thar Desert, what is a common way the water used for rinsing utensils is reused?"
+   },
+   "options": {
+    "te": [
+     "త్రాగడానికి",
+     "పారిశ్రామిక మైనింగ్ కోసం",
+     "మొక్కలకు నీరు పోయడానికి",
+     "మరిన్ని పాత్రలను శుభ్రం చేయడానికి"
+    ],
+    "en": [
+     "For drinking",
+     "For industrial mining",
+     "For watering a plant",
+     "For cleaning more utensils"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "థార్ ఎడారిలో, పాత్రలను కడిగిన నీటిని మొక్కలకు నీరు పోయడం వంటి పనుల కోసం పునర్వినియోగిస్తారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "In the Thar Desert, water used for a light rinse is reused for purposes like watering a plant."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T29-0163",
+   "section": {
+    "te": "Crop Restrictions",
+    "en": "Crop Restrictions"
+   },
+   "q": {
+    "te": "రాలెగాన్ సిద్ధిలో వాటర్‌షెడ్ అభివృద్ధి పరివర్తన సమయంలో, ఎక్కువ నీరు అవసరమయ్యే ఏ పంట సాగును పూర్తిగా నిషేధించారు?",
+    "en": "During the watershed transformation of Ralegan Siddhi, the cultivation of which water-intensive crop was completely banned?"
+   },
+   "options": {
+    "te": [
+     "ప్రత్తి",
+     "గోధుమ",
+     "చెరకు",
+     "వరి"
+    ],
+    "en": [
+     "Cotton",
+     "Wheat",
+     "Sugarcane",
+     "Rice"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నీటిని సంరక్షించడానికి రాలెగాన్ సిద్ధిలో చెరకు వంటి ఎక్కువ నీరు అవసరమయ్యే పంటల సాగును నిషేధించారు.",
+    "en": "To conserve water, the cultivation of water-intensive crops such as sugarcane was banned in Ralegan Siddhi."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T29-0160",
+   "section": {
+    "te": "Water Legislation",
+    "en": "Water Legislation"
+   },
+   "q": {
+    "te": "నీటి కాలుష్య నివారణ సందర్భంలో పేర్కొన్న పర్యావరణ పరిరక్షణ చట్టం ఏ సంవత్సరంలో రూపొందించబడింది?",
+    "en": "In which year was the Environment Protection Act enacted, as mentioned in the context of water pollution prevention?"
+   },
+   "options": {
+    "te": [
+     "1986",
+     "1977",
+     "1974",
+     "1997"
+    ],
+    "en": [
+     "1986",
+     "1977",
+     "1974",
+     "1997"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పర్యావరణ పరిరక్షణ చట్టం 1986లో రూపొందించబడింది.",
+    "en": "The Environment Protection Act was enacted in 1986."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T29-0197",
+   "section": {
+    "te": "NITI Aayog Objectives",
+    "en": "NITI Aayog Objectives"
+   },
+   "q": {
+    "te": "నీతి ఆయోగ్ (NITI Aayog) కు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. భారతదేశ ఆర్థిక విధాన రూపకల్పనలో రాష్ట్రాలను భాగస్వాములను చేసే లక్ష్యంతో ఇది ఏర్పాటయింది.\n2. ఇది కేంద్ర మరియు రాష్ట్ర ప్రభుత్వాలకు వ్యూహాత్మక మరియు సాంకేతిక సలహాలను అందిస్తుంది.\nపై ప్రకటనలలో ఏది/ఏవి సరైనది/వి?",
+    "en": "Consider the following statements regarding the NITI Aayog:\n1. It was set up with the objective of involving the states in economic policy making for India.\n2. It provides strategic and technical advice to both Central and State governments.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 కాదు 2 కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రెండు ప్రకటనలు సరైనవే. భారతదేశ ఆర్థిక విధాన రూపకల్పనలో రాష్ట్రాలను భాగస్వామ్యం చేయడం మరియు కేంద్ర, రాష్ట్ర ప్రభుత్వాలకు వ్యూహాత్మక, సాంకేతిక సలహాలు అందించడం దీని ముఖ్య ఉద్దేశాలు.",
+    "en": "Both statements are correct. NITI Aayog was set up to involve states in economic policy making and provide strategic and technical advice to Central and State governments."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T29-0015",
+   "section": {
+    "te": "Types of natural treasures",
+    "en": "Types of natural treasures"
+   },
+   "q": {
+    "te": "కింది సహజ వస్తువులను పరిశీలించండి:\n1. నీరు మరియు గాలి\n2. బొగ్గు మరియు పెట్రోలియం\n3. విలువైన రాళ్లు మరియు లోహపు ఖనిజాలు\nవీటిలో ఏవి మిలియన్ల సంవత్సరాలుగా ఏర్పడిన భూమి యొక్క 'నిధులు' (treasures) గా వర్ణించబడ్డాయి?",
+    "en": "Consider the following natural entities:\n1. Water and Air\n2. Coal and Petroleum\n3. Precious stones and Metal ores\nWhich of these are described as 'treasures' of the Earth that formed over millions of years?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నీరు, గాలి, నేల, బొగ్గు, పెట్రోలియం, విలువైన రాళ్లు, లోహపు ఖనిజాలు మరియు కలపను మిలియన్ల సంవత్సరాలుగా ఏర్పడిన నిధులుగా పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text lists water, air, soil, coal, petroleum, precious stones, metal ores, and timber as treasures formed over millions of years."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T29-0056",
+   "section": {
+    "te": "Resource Planning India",
+    "en": "Resource Planning India"
+   },
+   "q": {
+    "te": "స్వాతంత్ర్యం వచ్చిన తర్వాత ప్రారంభించిన ఏ పంచవర్ష ప్రణాళిక నుండి భారతదేశం వనరుల ప్రణాళిక లక్ష్యాలను సాధించడానికి నిరంతర ప్రయత్నాలు చేసింది?",
+    "en": "India initiated concerted efforts for achieving the goals of resource planning right from which of the following Five Year Plans?"
+   },
+   "options": {
+    "te": [
+     "నాల్గవ పంచవర్ష ప్రణాళిక",
+     "మొదటి పంచవర్ష ప్రణాళిక",
+     "మూడవ పంచవర్ష ప్రణాళిక",
+     "రెండవ పంచవర్ష ప్రణాళిక"
+    ],
+    "en": [
+     "Fourth Five Year Plan",
+     "First Five Year Plan",
+     "Third Five Year Plan",
+     "Second Five Year Plan"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "స్వాతంత్ర్యం వచ్చిన తర్వాత ప్రారంభించిన మొదటి పంచవర్ష ప్రణాళిక నుండే భారతదేశం వనరుల ప్రణాళిక లక్ష్యాలను సాధించడానికి సంఘటిత ప్రయత్నాలు ప్రారంభించింది.",
+    "en": "India made concerted efforts to achieve the goals of resource planning right from the First Five Year Plan launched after Independence."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T29-0011",
+   "section": {
+    "te": "Soil conservation",
+    "en": "Soil conservation"
+   },
+   "q": {
+    "te": "చిత్ర వివరణ ప్రకారం 'సున్నితమైన దున్నకం' (gentle ploughing) వల్ల కలిగే ప్రయోజనం ఏమిటి?",
+    "en": "What is the benefit of 'gentle ploughing' as per the image description?"
+   },
+   "options": {
+    "te": [
+     "ఇది భూగర్భ పర్యావరణ వ్యవస్థకు కనీస అంతరాయం కలిగిస్తుంది",
+     "ఇది లోహపు ఖనిజాల వెలికితీతను పెంచుతుంది",
+     "ఇది నేలను సాంస్కృతికంగా ఆమోదయోగ్యంగా మారుస్తుంది",
+     "ఇది బొగ్గు ఏర్పడటానికి సహాయపడుతుంది"
+    ],
+    "en": [
+     "It causes minimal disturbance to the underground ecosystem",
+     "It increases the extraction of metal ores",
+     "It makes the soil culturally acceptable",
+     "It helps in the formation of coal"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సున్నితమైన దున్నకం భూగర్భ పర్యావరణ వ్యవస్థకు కనీస అంతరాయం కలిగిస్తుంది మరియు నేలలోని తేమను నిలుపుకుంటుంది కాబట్టి ఇది ప్రయోజనకరం.",
+    "en": "Gentle ploughing is beneficial because it causes minimal disturbance to the underground ecosystem and retains soil moisture."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T29-0140",
+   "section": {
+    "te": "1988 Forest Policy Goals",
+    "en": "1988 Forest Policy Goals"
+   },
+   "q": {
+    "te": "1988 నాటి సవరించిన అటవీ విధానానికి సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఇది స్థిరమైన అటవీ నిర్వహణను నొక్కి చెబుతుంది.\n2. ఇది అటవీ నిల్వలను విస్తరించాలని లక్ష్యంగా పెట్టుకుంది.\n3. ఇది స్థానిక ప్రజల అవసరాలను తీర్చడానికి ప్రయత్నిస్తుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding the 1988 modified forest policy:\n1. It emphasizes sustainable forest management.\n2. It aims to expand forest reserves.\n3. It seeks to meet the needs of local people.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "1988 విధానం స్థిరమైన నిర్వహణ ద్వారా స్థానిక ప్రజల అవసరాలను తీర్చడంతో పాటు అటవీ నిల్వల సంరక్షణ మరియు విస్తరణను సమతుల్యం చేస్తుంది.",
+    "en": "The 1988 policy balances conservation and expansion of forest reserves with meeting the local people's needs through sustainable management."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T29-0161",
+   "section": {
+    "te": "Haryali Project Execution",
+    "en": "Haryali Project Execution"
+   },
+   "q": {
+    "te": "'హర్యాలీ' వాటర్‌షెడ్ అభివృద్ధి ప్రాజెక్టును అమలు చేసే బాధ్యత ఏ సంస్థది?",
+    "en": "Which body is responsible for executing the 'Haryali' watershed development project?"
+   },
+   "options": {
+    "te": [
+     "ప్రభుత్వేతర సంస్థలు",
+     "కేంద్ర కాలుష్య నియంత్రణ మండలి",
+     "రాష్ట్ర కాలుష్య నియంత్రణ మండలి",
+     "గ్రామ పంచాయతీలు"
+    ],
+    "en": [
+     "Non-governmental organisations",
+     "Central Pollution Control Board",
+     "State Pollution Control Boards",
+     "Gram Panchayats"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "హర్యాలీ ప్రాజెక్టును ప్రజల భాగస్వామ్యంతో గ్రామ పంచాయతీలు అమలు చేస్తాయి.",
+    "en": "The Haryali project is executed by Gram Panchayats with the participation of the people."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T29-0078",
+   "section": {
+    "te": "Land use factors",
+    "en": "Land use factors"
+   },
+   "q": {
+    "te": "భారతదేశంలో భూ వినియోగ సరళిని నిర్ణయించే అంశాలలో క్రింది వాటిలో 'మానవ కారకం' (human factor) ఏది?",
+    "en": "Which of the following is categorized as a 'human factor' determining the land use pattern in India?"
+   },
+   "options": {
+    "te": [
+     "సాంకేతిక సామర్థ్యం (Technological capability)",
+     "నైసర్గిక స్వరూపం (Topography)",
+     "నేల రకాలు",
+     "శీతోష్ణస్థితి"
+    ],
+    "en": [
+     "Technological capability",
+     "Topography",
+     "Soil types",
+     "Climate"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నైసర్గిక స్వరూపం, నేల రకాలు మరియు శీతోష్ణస్థితి భౌతిక కారకాలు కాగా, సాంకేతిక సామర్థ్యం అనేది మానవ కారకం.",
+    "en": "Technological capability, population density, and culture/traditions are human factors, whereas topography, climate, and soil types are physical factors."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T29-0069",
+   "section": {
+    "te": "Earth Summit 1992",
+    "en": "Earth Summit 1992"
+   },
+   "q": {
+    "te": "1992 లో వనరుల పరిరక్షణకు సంబంధించి ఒక ముఖ్యమైన మైలురాయిగా నిలిచిన 'ఎర్త్ సమ్మిట్' (Earth Summit) ఏ నగరంలో జరిగింది?",
+    "en": "In 1992, an internationally significant contribution to resource conservation was made at the Earth Summit held in which city?"
+   },
+   "options": {
+    "te": [
+     "జోహన్నెస్‌బర్గ్",
+     "క్యోటో",
+     "రియో డి జనీరో",
+     "స్టాక్‌హోమ్"
+    ],
+    "en": [
+     "Johannesburg",
+     "Kyoto",
+     "Rio de Janeiro",
+     "Stockholm"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "1992లో బ్రెజిల్‌లోని రియో డి జనీరో నగరంలో చారిత్రాత్మక ఎర్త్ సమ్మిట్ (ధరిత్రీ సదస్సు) నిర్వహించబడింది.",
+    "en": "The landmark Earth Summit was held at Rio de Janeiro, Brazil in the year 1992."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T29-0211",
+   "section": {
+    "te": "Bharmaur Tribal Area Location",
+    "en": "Bharmaur Tribal Area Location"
+   },
+   "q": {
+    "te": "భర్మార్ గిరిజన ప్రాంతం హిమాచల్ ప్రదేశ్‌లోని ఏ జిల్లాకు చెందిన భర్మార్ మరియు హోలీ తహసీళ్లతో కూడి ఉంది?",
+    "en": "The Bharmaur tribal area comprises Bharmaur and Holi tehsils located in which district of Himachal Pradesh?"
+   },
+   "options": {
+    "te": [
+     "కిన్నౌర్",
+     "చంబా",
+     "కులు",
+     "లాహౌల్ మరియు స్పితి"
+    ],
+    "en": [
+     "Kinnaur",
+     "Chamba",
+     "Kullu",
+     "Lahaul and Spiti"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భర్మార్ గిరిజన ప్రాంతం హిమాచల్ ప్రదేశ్‌లోని చంబా జిల్లాలోని భర్మార్ మరియు హోలీ తహసీళ్లను కలిగి ఉంది.",
+    "en": "Bharmaur tribal area consists of Bharmaur and Holi tehsils of Chamba district in Himachal Pradesh."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T29-0051",
+   "section": {
+    "te": "Terracing purpose",
+    "en": "Terracing purpose"
+   },
+   "q": {
+    "te": "నేల సంరక్షణ పద్ధతిగా 'టెర్రేసింగ్' యొక్క ప్రాథమిక ఉద్దేశ్యం ఏమిటి?",
+    "en": "What is the primary purpose of 'Terracing' as a soil conservation practice?"
+   },
+   "options": {
+    "te": [
+     "గాలి వేగాన్ని పెంచడానికి",
+     "నేల నుండి ఖనిజాలను సేకరించడానికి",
+     "కొండవాలులలో నేల కోతను నిరోధించడానికి",
+     "నీటి ప్రవాహం కోసం నిటారుగా ఉండే వాలులను సృష్టించడానికి"
+    ],
+    "en": [
+     "To increase the speed of wind",
+     "To harvest minerals from the soil",
+     "To prevent soil erosion on hillsides",
+     "To create steep slopes for water flow"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "టెర్రేసింగ్ కొండవాలులపై మెట్ల వంటి నిర్మాణాలను సృష్టించడం ద్వారా నీటి వేగాన్ని తగ్గించి నేల కోతను నిరోధిస్తుంది.",
+    "en": "Terracing creates steps on hillsides to slow down water and prevent soil erosion."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T29-0086",
+   "section": {
+    "te": "Jal Jeevan Mission",
+    "en": "Jal Jeevan Mission"
+   },
+   "q": {
+    "te": "జల్ జీవన్ మిషన్ (JJM) కింద ప్రతి గ్రామీణ కుటుంబానికి రోజుకు తలసరి ఎన్ని లీటర్ల పరిమాణంలో సురక్షితమైన పైపుల తాగునీటి సరఫరాను అందించాలని లక్ష్యంగా నిర్ణయించారు?",
+    "en": "Under the Jal Jeevan Mission (JJM), what is the targeted service level of potable piped water supply to be provided per capita per day to every rural household?"
+   },
+   "options": {
+    "te": [
+     "55 లీటర్లు",
+     "85 లీటర్లు",
+     "70 లీటర్లు",
+     "40 లీటర్లు"
+    ],
+    "en": [
+     "55 litres",
+     "85 litres",
+     "70 litres",
+     "40 litres"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "జల్ జీవన్ మిషన్ ద్వారా ప్రతి గ్రామీణ కుటుంబానికి రోజుకు తలసరి 55 లీటర్ల చొప్పున సురక్షితమైన తాగునీటిని అందించాలని లక్ష్యంగా పెట్టుకున్నారు.",
+    "en": "The goal of the Jal Jeevan Mission is to provide assured supply of potable piped water at a service level of 55 litres per capita per day regularly to every rural household."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T29-0071",
+   "section": {
+    "te": "Determinants Resource Development",
+    "en": "Determinants Resource Development"
+   },
+   "q": {
+    "te": "భారతదేశంలో వనరుల అభివృద్ధి అనేది కేవలం వనరుల లభ్యతపై మాత్రమే కాకుండా క్రింది వాటిలో వేటిపై కూడా ఆధారపడి ఉంటుంది?",
+    "en": "In India, resource development does NOT merely involve resource availability, but also requires which of the following?"
+   },
+   "options": {
+    "te": [
+     "సాంకేతిక పరిజ్ఞానం",
+     "మానవ వనరుల నాణ్యత",
+     "ప్రజల చారిత్రక అనుభవాలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Appropriate technology",
+     "Quality of human resources",
+     "Historical experiences of the people",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశంలో వనరుల అభివృద్ధి కేవలం వనరుల లభ్యతపైనే కాక సాంకేతికత, మానవ వనరుల నాణ్యత మరియు ప్రజల చారిత్రక అనుభవాలపై ఆధారపడి ఉంటుంది.",
+    "en": "Resource development in India involves availability of resources along with technology, quality of human resources, and historical experiences."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T29-0203",
+   "section": {
+    "te": "Review of Drought Prone Programme",
+    "en": "Review of Drought Prone Programme"
+   },
+   "q": {
+    "te": "కరవు పీడిత ప్రాంతాల కార్యక్రమ పనితీరును సమీక్షించిన కమిటీ ఏది?",
+    "en": "Which committee reviewed the performance of the Drought Prone Area Programme?"
+   },
+   "options": {
+    "te": [
+     "వెనుకబడిన ప్రాంతాల అభివృద్ధిపై జాతీయ కమిటీ (National Committee on Development of Backward Areas)",
+     "ప్రాంతీయ మౌలిక సదుపాయాల కమిటీ",
+     "గ్రామీణ పునర్నిర్మాణంపై జాతీయ కమిటీ",
+     "రైతులపై జాతీయ కమిషన్"
+    ],
+    "en": [
+     "National Committee on Development of Backward Areas",
+     "Committee on Regional Infrastructure",
+     "National Committee on Rural Restructuring",
+     "National Commission on Farmers"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వెనుకబడిన ప్రాంతాల అభివృద్ధిపై ఏర్పాటైన జాతీయ కమిటీ (National Committee on Development of Backward Areas) ఈ కార్యక్రమ పనితీరును సమీక్షించింది.",
+    "en": "The performance of the programme was reviewed by the National Committee on Development of Backward Areas."
+   }
+  }
+ ]
+}

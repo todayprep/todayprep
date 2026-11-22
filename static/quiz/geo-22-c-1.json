@@ -1,0 +1,942 @@
+{
+ "id": "geo-22-c-1",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Population – క్విజ్ 1",
+  "en": "Population – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T22-0082",
+   "section": {
+    "te": "2021 Population Estimates",
+    "en": "2021 Population Estimates"
+   },
+   "q": {
+    "te": "2021 అంచనా జనాభా పంపిణీలో, 15-19 వయస్సు విభాగంలో పురుషుల శాతం ఎంత?",
+    "en": "In the 2021 estimated population distribution, what was the percentage share of males in the 15–19 age group?"
+   },
+   "options": {
+    "te": [
+     "9.3",
+     "8.1",
+     "5.7",
+     "9.0"
+    ],
+    "en": [
+     "9.3",
+     "8.1",
+     "5.7",
+     "9.0"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పట్టిక ప్రకారం, 2021లో 15-19 వయస్సు విభాగంలో పురుషులు జనాభాలో 9.3% గా అంచనా వేయబడ్డారు.",
+    "en": "According to the table, males in the 15–19 age group were estimated to be 9.3% of the population in 2021."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T22-0105",
+   "section": {
+    "te": "Landforms and Development",
+    "en": "Landforms and Development"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): పర్వత మరియు కొండ ప్రాంతాలు తక్కువ జనాభాను కలిగి ఉంటాయి.\nకారణం (R): ఈ ప్రాంతాలు రవాణా నెట్‌వర్క్ అభివృద్ధికి ఆటంకం కలిగిస్తాయి మరియు ప్రారంభ వ్యవసాయ మరియు పారిశ్రామిక అభివృద్ధికి అనుకూలంగా ఉండవు.",
+    "en": "Assertion (A): Mountainous and hilly areas tend to be less populated.\nReason (R): These areas hinder the development of transport networks and do not favour initial agricultural and industrial development."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మైదాన ప్రాంతాలతో పోలిస్తే పర్వత ప్రాంతాలలో రవాణా మరియు పరిశ్రమలను అభివృద్ధి చేయడంలో ఉన్న ఇబ్బందులే అక్కడ జనాభా తక్కువగా ఉండటానికి ప్రధాన కారణం.",
+    "en": "The difficulty in developing transport and industry in rugged terrain is the primary reason why mountains are sparsely populated compared to plains."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T22-0161",
+   "section": {
+    "te": "Phase I Growth",
+    "en": "Phase I Growth"
+   },
+   "q": {
+    "te": "భారతదేశ జనాభా వృద్ధిలో ఏ కాలాన్ని నిశ్చల లేదా స్థిరమైన దశ (stagnant phase) అని పిలుస్తారు?",
+    "en": "Which period is referred to as the stagnant or stationary phase of India's population growth?"
+   },
+   "options": {
+    "te": [
+     "1921-1951",
+     "1981-2011",
+     "1951-1981",
+     "1901-1921"
+    ],
+    "en": [
+     "1921-1951",
+     "1981-2011",
+     "1951-1981",
+     "1901-1921"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "1901 నుండి 1921 మధ్య కాలాన్ని నిశ్చల దశ అంటారు, ఎందుకంటే ఈ కాలంలో వృద్ధి రేటు చాలా తక్కువగా ఉంది.",
+    "en": "The period between 1901 and 1921 is known as the stagnant phase because the growth rate was very low and even negative at one point."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T22-0100",
+   "section": {
+    "te": "Population Density Definition",
+    "en": "Population Density Definition"
+   },
+   "q": {
+    "te": "ప్రజల సంఖ్యకు మరియు భూమి పరిమాణానికి మధ్య ఉన్న నిష్పత్తిని ఏమంటారు?",
+    "en": "The ratio between the number of people to the size of land is known as:"
+   },
+   "options": {
+    "te": [
+     "జనాభా విస్తరణ",
+     "జనాభా పెరుగుదల",
+     "జనాభా సాంద్రత",
+     "జనాభా పరివర్తన"
+    ],
+    "en": [
+     "Population Distribution",
+     "Population Growth",
+     "Density of Population",
+     "Demographic Transition"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రజల సంఖ్యకు మరియు భూమి పరిమాణానికి మధ్య ఉన్న నిష్పత్తిని జనాభా సాంద్రతగా పాఠ్యాంశం నిర్వచిస్తుంది.",
+    "en": "The text defines the ratio of the number of people to the size of land as the density of population."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T22-0124",
+   "section": {
+    "te": "Malthusian Theory",
+    "en": "Malthusian Theory"
+   },
+   "q": {
+    "te": "జనాభా మరియు ఆహార సరఫరాకు సంబంధించి థామస్ మాల్థస్ తన సిద్ధాంతాన్ని ఏ సంవత్సరంలో పేర్కొన్నారు?",
+    "en": "In which year did Thomas Malthus state his theory regarding population and food supply?"
+   },
+   "options": {
+    "te": [
+     "1750",
+     "1881",
+     "1810",
+     "1798"
+    ],
+    "en": [
+     "1750",
+     "1881",
+     "1810",
+     "1798"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "థామస్ మాల్థస్ 1798లో తన సిద్ధాంతాన్ని ప్రతిపాదించారు, జనాభా ఆహార సరఫరా కంటే వేగంగా పెరుగుతుందని ఆయన పేర్కొన్నారు.",
+    "en": "Thomas Malthus proposed his theory in 1798, stating that population increases faster than the food supply."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T22-0125",
+   "section": {
+    "te": "India's Population Comparison",
+    "en": "India's Population Comparison"
+   },
+   "q": {
+    "te": "భారతదేశ జనాభా ఈ క్రింది ఏ ఖండాల మొత్తం జనాభా కంటే ఎక్కువగా ఉంది?",
+    "en": "India's population is larger than the combined population of which of the following continents?"
+   },
+   "options": {
+    "te": [
+     "ఉత్తర అమెరికా మరియు దక్షిణ అమెరికా",
+     "ఆస్ట్రేలియా",
+     "A మరియు B రెండూ",
+     "యూరప్ మరియు ఆఫ్రికా"
+    ],
+    "en": [
+     "North America and South America",
+     "Australia",
+     "Both A and B",
+     "Europe and Africa"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మూలం ప్రకారం, భారతదేశ జనాభా ఉత్తర అమెరికా, దక్షిణ అమెరికా మరియు ఆస్ట్రేలియా ఖండాల మొత్తం జనాభా కంటే ఎక్కువ.",
+    "en": "India's population is larger than the total population of North America, South America, and Australia combined."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T22-0126",
+   "section": {
+    "te": "Census History",
+    "en": "Census History"
+   },
+   "q": {
+    "te": "భారతదేశంలో మొదటి పూర్తి జనాభా గణన (Census) ఏ సంవత్సరంలో నిర్వహించబడింది?",
+    "en": "In which year was the first complete population Census conducted in India?"
+   },
+   "options": {
+    "te": [
+     "1872",
+     "1891",
+     "1901",
+     "1881"
+    ],
+    "en": [
+     "1872",
+     "1891",
+     "1901",
+     "1881"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మొదటి జనాభా గణన 1872లో జరిగినప్పటికీ, భారతదేశంలో మొదటి పూర్తి జనాభా గణన 1881లో నిర్వహించబడింది.",
+    "en": "While the first census was in 1872, the first complete census in India was conducted in 1881."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T22-0142",
+   "section": {
+    "te": "Density Growth Trend",
+    "en": "Density Growth Trend"
+   },
+   "q": {
+    "te": "1951 మరియు 2011 మధ్య భారతదేశ జనాభా సాంద్రత చదరపు కిలోమీటరుకు ఎంత మంది పెరిగింది?",
+    "en": "By how many persons per sq km has the population density of India increased between 1951 and 2011?"
+   },
+   "options": {
+    "te": [
+     "చదరపు కిలోమీటరుకు 200 కంటే ఎక్కువ మంది",
+     "ఖచ్చితంగా చదరపు కిలోమీటరుకు 100 మంది",
+     "ఖచ్చితంగా చదరపు కిలోమీటరుకు 382 మంది",
+     "చదరపు కిలోమీటరుకు 150 కంటే తక్కువ మంది"
+    ],
+    "en": [
+     "More than 200 persons per sq km",
+     "Exactly 100 persons per sq km",
+     "Exactly 382 persons per sq km",
+     "Less than 150 persons per sq km"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సాంద్రత 1951లో 117 నుండి 2011లో 382కి పెరిగింది, ఇది చదరపు కిలోమీటరుకు 200 కంటే ఎక్కువ మంది స్థిరమైన పెరుగుదల.",
+    "en": "The density increased from 117 in 1951 to 382 in 2011, which is a steady increase of more than 200 persons per sq km."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T22-0021",
+   "section": {
+    "te": "Replacement Level Fertility",
+    "en": "Replacement Level Fertility"
+   },
+   "q": {
+    "te": "'పునఃస్థాపన స్థాయి సంతానోత్పత్తి రేటు' (replacement level fertility rate) అని పిలువబడే నిర్దిష్ట సంతానోత్పత్తి రేటు విలువ ఎంత?",
+    "en": "What is the specific fertility rate value often referred to as the 'replacement level fertility rate'?"
+   },
+   "options": {
+    "te": [
+     "2.1",
+     "1.9",
+     "2.5",
+     "2.0"
+    ],
+    "en": [
+     "2.1",
+     "1.9",
+     "2.5",
+     "2.0"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "2.1 సంతానోత్పత్తి రేటును పునఃస్థాపన స్థాయి సంతానోత్పత్తి రేటు అంటారు, ఎందుకంటే జనాభాలో తల్లిదండ్రుల స్థానాన్ని భర్తీ చేయడానికి అవసరమైన పిల్లల సంఖ్య ఇది.",
+    "en": "A fertility rate of 2.1 is known as the replacement level fertility rate because it is the number of children needed to replace the parents."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T22-0098",
+   "section": {
+    "te": "Populous Countries",
+    "en": "Populous Countries"
+   },
+   "q": {
+    "te": "ప్రపంచంలో అత్యధిక జనాభా కలిగిన 10 దేశాలలో, ఎన్ని ఆసియాలో ఉన్నాయి?",
+    "en": "Out of the 10 most populous countries in the world, how many are located in Asia?"
+   },
+   "options": {
+    "te": [
+     "7",
+     "5",
+     "4",
+     "6"
+    ],
+    "en": [
+     "7",
+     "5",
+     "4",
+     "6"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అత్యధిక జనాభా కలిగిన 10 దేశాలలో 6 ఆసియాలో ఉన్నాయని మూలం స్పష్టంగా పేర్కొంది.",
+    "en": "6 of the 10 most populous countries are located in Asia."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T22-0150",
+   "section": {
+    "te": "Annual Growth Rate 2011",
+    "en": "Annual Growth Rate 2011"
+   },
+   "q": {
+    "te": "2011 నాటికి భారతదేశ జనాభా వార్షిక వృద్ధి రేటు ఎంత?",
+    "en": "What was the annual growth rate of India's population as of 2011?"
+   },
+   "options": {
+    "te": [
+     "1.25 శాతం",
+     "1.64 శాతం",
+     "2.10 శాతం",
+     "0.64 శాతం"
+    ],
+    "en": [
+     "1.25 per cent",
+     "1.64 per cent",
+     "2.10 per cent",
+     "0.64 per cent"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మూలం ప్రకారం, 2011లో భారతదేశ జనాభా వార్షిక వృద్ధి రేటు 1.64 శాతంగా ఉంది.",
+    "en": "The annual growth rate of India's population in 2011 was 1.64 per cent."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T22-0022",
+   "section": {
+    "te": "China Population Peak",
+    "en": "China Population Peak"
+   },
+   "q": {
+    "te": "చైనా జనాభా ఏ సంవత్సరంలో 1.43 బిలియన్ల గరిష్ట స్థాయికి చేరుకుని, ఆ తర్వాత తగ్గడం ప్రారంభమైంది?",
+    "en": "In which year did China's population peak at 1.43 billion before starting to shrink?"
+   },
+   "options": {
+    "te": [
+     "1979",
+     "2015",
+     "2025",
+     "2022"
+    ],
+    "en": [
+     "1979",
+     "2015",
+     "2025",
+     "2022"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, చైనా జనాభా 2022 సంవత్సరంలో 1.43 బిలియన్ల గరిష్ట స్థాయికి చేరుకుంది.",
+    "en": "China's population reached its peak of 1.43 billion in the year 2022."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T22-0041",
+   "section": {
+    "te": "Demographic Transition",
+    "en": "Demographic Transition"
+   },
+   "q": {
+    "te": "జనాభా పరివర్తన యొక్క మొదటి దశ (Stage 1) కు సంబంధించి క్రింది ప్రకటనలను పరిగణించండి:\n1. జనన మరియు మరణ రేట్లు రెండూ ఎక్కువగా ఉంటాయి.\n2. జనాభా పెరుగుదల చాలా వేగంగా ఉంటుంది.\n3. ఈ దశ 1901-1921 మధ్య భారతదేశంలో కనిపించింది.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding Stage 1 of demographic transition:\n1. Both birth and death rates are high.\n2. Population growth is very rapid.\n3. This stage was observed in India from 1901–1921.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మొదటి దశలో, జనాభా పెరుగుదల నెమ్మదిగా లేదా స్థిరంగా ఉంటుంది, వేగంగా ఉండదు. భారతదేశం 1901 మరియు 1921 మధ్య ఈ దశలో ఉంది.",
+    "en": "In Stage 1, population growth is slow or stagnant, not rapid. India was in this stage between 1901 and 1921."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T22-0177",
+   "section": {
+    "te": "Adolescent Population Share",
+    "en": "Adolescent Population Share"
+   },
+   "q": {
+    "te": "2011 జనాభా లెక్కల ప్రకారం భారతదేశ జనాభాలో కౌమారదశలో ఉన్నవారి (10-19 సంవత్సరాలు) శాతం ఎంత?",
+    "en": "What is the percentage share of adolescents (10-19 years) in India's population as per the 2011 census?"
+   },
+   "options": {
+    "te": [
+     "15.5 శాతం",
+     "20.9 శాతం",
+     "25.2 శాతం",
+     "30.1 శాతం"
+    ],
+    "en": [
+     "15.5 per cent",
+     "20.9 per cent",
+     "25.2 per cent",
+     "30.1 per cent"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగంలో అందించిన 2011 జనాభా లెక్కల ప్రకారం, 10-19 సంవత్సరాల వయస్సు గల కౌమారదశలో ఉన్నవారి వాటా సుమారు 20.9 శాతంగా ఉంది.",
+    "en": "According to the 2011 census data provided in the text, the share of adolescents in the age group of 10-19 years is about 20.9 per cent."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T22-0068",
+   "section": {
+    "te": "Demographic Transition",
+    "en": "Demographic Transition"
+   },
+   "q": {
+    "te": "జనాభా పరివర్తన (demographic transition) యొక్క ఏ దశలో 'యూత్ బల్జ్' దృగ్విషయం సాధారణంగా కనిపిస్తుంది?",
+    "en": "In which stage of demographic transition is the phenomenon of a 'youth bulge' commonly observed?"
+   },
+   "options": {
+    "te": [
+     "దశ 4",
+     "దశ 3",
+     "దశ 2",
+     "దశ 1"
+    ],
+    "en": [
+     "Stage 4",
+     "Stage 3",
+     "Stage 2",
+     "Stage 1"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "జనాభా పరివర్తన యొక్క రెండవ దశలో (Stage 2) ఉన్న దేశాలలో యూత్ బల్జ్ సాధారణమని మూలం పేర్కొంది.",
+    "en": "The youth bulge is common in countries that are in Stage 2 of the demographic transition."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T22-0012",
+   "section": {
+    "te": "Business and Demography",
+    "en": "Business and Demography"
+   },
+   "q": {
+    "te": "తగిన ఉత్పత్తులను రూపొందించడానికి వ్యాపారాలు తమ సంభావ్య కస్టమర్లను క్రింది ఏ లక్షణాల ఆధారంగా అంచనా వేస్తాయి?",
+    "en": "On which of the following characteristics do businesses assess their potential customers to create suitable products?"
+   },
+   "options": {
+    "te": [
+     "వయస్సు మరియు లింగం",
+     "ఆదాయం",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Age and Gender",
+     "Income",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కస్టమర్ అవసరాలను అర్థం చేసుకోవడానికి మరియు ఉత్పత్తులను రూపొందించడానికి వ్యాపారాలు వయస్సు, లింగం మరియు ఆదాయం వంటి జనాభా లక్షణాలను ఉపయోగిస్తాయి.",
+    "en": "Businesses use demographic characteristics like age, gender, and income to understand customer needs and create products."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T22-0112",
+   "section": {
+    "te": "Migration Impact",
+    "en": "Migration Impact"
+   },
+   "q": {
+    "te": "వలసల సందర్భంలో, 'పుట్టిన ప్రదేశం' (Place of Origin) మరియు 'గమ్యస్థానం' (Place of Destination) కు సంబంధించి క్రింది వాటిలో ఏది నిజం?",
+    "en": "In the context of migration, which of the following is true regarding the 'Place of Origin' and 'Place of Destination'?"
+   },
+   "options": {
+    "te": [
+     "పుట్టిన ప్రదేశంలో జనాభా పెరుగుదల కనిపిస్తుంది",
+     "గమ్యస్థానంలో జనాభా తగ్గుదల కనిపిస్తుంది",
+     "పుట్టిన ప్రదేశంలో జనాభా తగ్గుదల కనిపిస్తుంది",
+     "రెండు ప్రదేశాలలో జనాభా సమానంగా పెరుగుతుంది"
+    ],
+    "en": [
+     "The place of origin shows an increase in population",
+     "The place of destination shows a decrease in population",
+     "The place of origin shows a decrease in population",
+     "Both places show an equal increase in population"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రజలు వలస వెళ్ళినప్పుడు, వారు వదిలి వెళ్ళే ప్రదేశంలో (పుట్టిన ప్రదేశం) జనాభా తగ్గుతుంది మరియు వారు చేరుకునే ప్రదేశంలో (గమ్యస్థానం) జనాభా పెరుగుతుంది.",
+    "en": "When people migrate, the population decreases at the place they leave (origin) and increases at the place they arrive (destination)."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T22-0001",
+   "section": {
+    "te": "Demography Definition",
+    "en": "Demography Definition"
+   },
+   "q": {
+    "te": "జనాభా శాస్త్రం (Demography) కు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది వయస్సు, లింగం మరియు వృత్తి వంటి అంశాల పరంగా మానవ జనాభా యొక్క కూర్పును అధ్యయనం చేస్తుంది.\n2. కాలక్రమేణా జనాభా లక్షణాలు ఎలా మారుతాయనే అధ్యయనాన్ని ఇది మినహాయిస్తుంది.\n3. ఇది మానవ జనాభా యొక్క పరిమాణం మరియు నిర్మాణాన్ని అర్థం చేసుకోవడంలో సహాయపడుతుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding Demography:\n1. It is the study of the composition of human population in terms of factors like age, sex, and occupation.\n2. It excludes the study of how population characteristics change over time.\n3. It helps in understanding the size and structure of the human population.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "డెమోగ్రఫీ అనేది జనాభా కూర్పు (వయస్సు, లింగం మొదలైనవి) మరియు కాలక్రమేణా ఈ లక్షణాలు ఎలా మారుతాయనే దాని గురించి అధ్యయనం చేస్తుంది. ప్రకటన 2 తప్పు ఎందుకంటే డెమోగ్రఫీ ప్రత్యేకంగా కాలక్రమేణా మార్పుల అధ్యయనాన్ని కలిగి ఉంటుంది.",
+    "en": "Demography is the study of population composition (age, sex, etc.) and how these features change over time. Statement 2 is incorrect because demography specifically includes the study of changes over time."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T22-0104",
+   "section": {
+    "te": "Soil and Population",
+    "en": "Soil and Population"
+   },
+   "q": {
+    "te": "ఏ రకమైన నేల సాంద్ర వ్యవసాయానికి తోడ్పడుతుందని మరియు ఎక్కువ మందిని ఆకర్షిస్తుందని పేర్కొనబడింది?",
+    "en": "Which type of soil is mentioned as supporting intensive agriculture and attracting more people?"
+   },
+   "options": {
+    "te": [
+     "సారవంతమైన లోమీ నేలలు",
+     "ఇసుక నేల",
+     "ఎర్ర నేల",
+     "నల్ల రేగడి నేల"
+    ],
+    "en": [
+     "Fertile loamy soils",
+     "Sandy soil",
+     "Red soil",
+     "Black soil"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సారవంతమైన లోమీ నేలలు సాంద్ర వ్యవసాయానికి తోడ్పడతాయని, తద్వారా అధిక జనాభా సాంద్రతకు దారితీస్తాయని పాఠ్యాంశం ప్రత్యేకంగా పేర్కొంది.",
+    "en": "The text specifically mentions that fertile loamy soils support intensive agriculture, leading to higher population density."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T22-0171",
+   "section": {
+    "te": "Skill Development Policy",
+    "en": "Skill Development Policy"
+   },
+   "q": {
+    "te": "భారత ప్రభుత్వం ఏ సంవత్సరంలో నైపుణ్యాభివృద్ధి మరియు వ్యవస్థాపకత కోసం జాతీయ విధానాన్ని (National Policy for Skill Development and Entrepreneurship) రూపొందించింది?",
+    "en": "In which year did the Government of India formulate the National Policy for Skill Development and Entrepreneurship?"
+   },
+   "options": {
+    "te": [
+     "2011",
+     "2015",
+     "2014",
+     "2016"
+    ],
+    "en": [
+     "2011",
+     "2015",
+     "2014",
+     "2016"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "నైపుణ్యాభివృద్ధి కార్యకలాపాలను క్రమబద్ధీకరించడానికి 2015లో ఈ జాతీయ విధానాన్ని రూపొందించారు.",
+    "en": "The National Policy for Skill Development and Entrepreneurship was formulated in 2015 to align skilling activities."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T22-0174",
+   "section": {
+    "te": "Historical Population Data",
+    "en": "Historical Population Data"
+   },
+   "q": {
+    "te": "అందించిన గణాంకాల ప్రకారం, 1921 సంవత్సరంలో భారతదేశ మొత్తం జనాభా ఎంత?",
+    "en": "What was the total population of India in the year 1921 according to the census data provided?"
+   },
+   "options": {
+    "te": [
+     "1,210,193,422",
+     "251,321,213",
+     "238,396,327",
+     "1,350,000,000"
+    ],
+    "en": [
+     "1,210,193,422",
+     "251,321,213",
+     "238,396,327",
+     "1,350,000,000"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "జనాభా గణన పట్టిక ప్రకారం 1921లో మొత్తం జనాభా 251,321,213.",
+    "en": "The census table lists the total population in 1921 as 251,321,213."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T22-0075",
+   "section": {
+    "te": "Japan's Ageing Strategy",
+    "en": "Japan's Ageing Strategy"
+   },
+   "q": {
+    "te": "జపాన్ తన వృద్ధాప్య సమాజంలో కార్మికుల కొరత సవాలును ఎలా పరిష్కరించింది?",
+    "en": "How has Japan addressed the challenge of labor shortages in its ageing society?"
+   },
+   "options": {
+    "te": [
+     "పదవీ విరమణ వయస్సును తగ్గించడం ద్వారా",
+     "సాంకేతికత మరియు ఆటోమేషన్‌ను ఉపయోగించడం ద్వారా",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "By lowering the retirement age",
+     "By employing technology and automation",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మూలం ప్రకారం, జపాన్ పదవీ విరమణ వయస్సును పెంచింది (తగ్గించలేదు) మరియు కార్మికుల కొరతను తీర్చడానికి సాంకేతికత మరియు ఆటోమేషన్‌ను ఉపయోగించింది.",
+    "en": "Japan has raised the retirement age (not lowered it) and employed technology and automation to address labor shortages."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T22-0096",
+   "section": {
+    "te": "Climate and Population",
+    "en": "Climate and Population"
+   },
+   "q": {
+    "te": "శీతోష్ణస్థితి మరియు జనాభా విస్తరణకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. భారీ వర్షపాతం లేదా కఠినమైన శీతోష్ణస్థితి ఉన్న ప్రాంతాల్లో సాధారణంగా జనాభా తక్కువగా ఉంటుంది.\n2. మధ్యధరా ప్రాంతాలు వాటి ఆహ్లాదకరమైన శీతోష్ణస్థితి కారణంగా ప్రారంభ చరిత్ర నుండి నివసించబడుతున్నాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding climate and population distribution:\n1. Areas with very heavy rainfall or harsh climates generally have low population.\n2. Mediterranean regions have been inhabited since early history because of their pleasant climate.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కఠినమైన శీతోష్ణస్థితి తక్కువ జనాభాకు దారితీస్తుందని మరియు మధ్యధరా ప్రాంతాలు వాటి ఆహ్లాదకరమైన శీతోష్ణస్థితి కారణంగా ప్రారంభంలోనే స్థిరపడ్డాయని పాఠ్యాంశం ధృవీకరిస్తుంది.",
+    "en": "The text confirms that harsh climates lead to low population and that Mediterranean regions were settled early due to their pleasant climate."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T22-0139",
+   "section": {
+    "te": "Demographic Transition Stage 3",
+    "en": "Demographic Transition Stage 3"
+   },
+   "q": {
+    "te": "జనాభా పరివర్తన యొక్క చివరి దశకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. సంతానోత్పత్తి మరియు మరణాల రేటు రెండూ గణనీయంగా తగ్గుతాయి.\n2. జనాభా చాలా వేగంగా పెరుగుతుంది.\n3. ప్రజలు ఉద్దేశపూర్వకంగా కుటుంబ పరిమాణాన్ని నియంత్రిస్తారు.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding the last stage of demographic transition:\n1. Both fertility and mortality decline considerably.\n2. The population grows very rapidly.\n3. People deliberately control family size.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "చివరి దశలో, సంతానోత్పత్తి మరియు మరణాల రేటు తగ్గుతాయి మరియు జనాభా స్థిరంగా ఉంటుంది లేదా నెమ్మదిగా పెరుగుతుంది, వేగంగా కాదు.",
+    "en": "In the last stage, fertility and mortality decline, and the population is stable or grows slowly, not rapidly."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T22-0007",
+   "section": {
+    "te": "Population Projection",
+    "en": "Population Projection"
+   },
+   "q": {
+    "te": "ఐక్యరాజ్యసమితి అంచనాల ప్రకారం, 2080ల మధ్య నాటికి ప్రపంచ జనాభా ఎంత గరిష్ట స్థాయికి చేరుకుంటుందని భావిస్తున్నారు?",
+    "en": "According to United Nations projections, at what figure is the world population expected to peak in the mid-2080s?"
+   },
+   "options": {
+    "te": [
+     "9.7 బిలియన్లు",
+     "11.2 బిలియన్లు",
+     "10.1 బిలియన్లు",
+     "10.3 బిలియన్లు"
+    ],
+    "en": [
+     "9.7 billion",
+     "11.2 billion",
+     "10.1 billion",
+     "10.3 billion"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "2080ల మధ్య నాటికి ప్రపంచ జనాభా 10.3 బిలియన్లకు చేరుకుని, ఆ తర్వాత తగ్గుతుందని ఐక్యరాజ్యసమితి అంచనా వేసింది.",
+    "en": "The UN projects that the world population will reach its maximum at 10.3 billion in the mid-2080s before declining."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T22-0164",
+   "section": {
+    "te": "Population Projection",
+    "en": "Population Projection"
+   },
+   "q": {
+    "te": "ప్రపంచ అభివృద్ధి నివేదిక (World Development Report) ప్రకారం, 2025 నాటికి భారతదేశ జనాభా ఎంతకు చేరుకుంటుందని అంచనా వేయబడింది?",
+    "en": "According to the World Development Report, what is the projected population of India by the year 2025?"
+   },
+   "options": {
+    "te": [
+     "1,350 మిలియన్లు",
+     "1,210 మిలియన్లు",
+     "1,500 మిలియన్లు",
+     "1,150 మిలియన్లు"
+    ],
+    "en": [
+     "1,350 million",
+     "1,210 million",
+     "1,500 million",
+     "1,150 million"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "2025 నాటికి భారతదేశ జనాభా 1,350 మిలియన్లకు చేరుకుంటుందని ప్రపంచ అభివృద్ధి నివేదిక అంచనా వేసింది.",
+    "en": "The World Development Report projected that India's population would reach 1,350 million by 2025."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T22-0066",
+   "section": {
+    "te": "Population Trends",
+    "en": "Population Trends"
+   },
+   "q": {
+    "te": "ఇటీవలి సంవత్సరాలలో భారతదేశ జనాభా పిరమిడ్ యొక్క పైభాగం నెమ్మదిగా ఎందుకు వెడల్పు అవుతోంది?",
+    "en": "Why is the top part of India's population pyramid slowly getting wider in recent years?"
+   },
+   "options": {
+    "te": [
+     "మెరుగైన ఆరోగ్య సంరక్షణ మరియు పోషకాహారం",
+     "మెరుగైన జీవన పరిస్థితులు",
+     "A మరియు B రెండూ",
+     "జనన రేటు పెరుగుదల"
+    ],
+    "en": [
+     "Better healthcare and nutrition",
+     "Improved living conditions",
+     "Both A and B",
+     "Increase in birth rates"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఆరోగ్య సంరక్షణ, పోషకాహారం మరియు మొత్తం జీవన పరిస్థితులలో మెరుగుదలల కారణంగా ప్రజలు ఎక్కువ కాలం జీవిస్తున్నందున పిరమిడ్ పైభాగం వెడల్పు అవుతోంది.",
+    "en": "The top part of the pyramid is widening because people are living longer due to improvements in healthcare, nutrition, and overall living conditions."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T22-0115",
+   "section": {
+    "te": "Population Change Components",
+    "en": "Population Change Components"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో జనాభా మార్పు యొక్క భాగాలు ఏవి?",
+    "en": "Which of the following are the components of population change?"
+   },
+   "options": {
+    "te": [
+     "జననాలు మరియు మరణాలు",
+     "వలసలు",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Births and Deaths",
+     "Migration",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "జనాభా మార్పుకు కారణమయ్యే మూడు భాగాలు జననాలు, మరణాలు మరియు వలసలు.",
+    "en": "The three components that cause population change are births, deaths, and migration."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T22-0146",
+   "section": {
+    "te": "Population Doubling Time",
+    "en": "Population Doubling Time"
+   },
+   "q": {
+    "te": "'జనాభా రెట్టింపు సమయం' (Population doubling time) అనే పదం దేనిని సూచిస్తుంది?",
+    "en": "What does the term 'Population doubling time' refer to?"
+   },
+   "options": {
+    "te": [
+     "జనన రేటు మరణాల రేటు కంటే రెట్టింపు కావడానికి పట్టే సమయం",
+     "జనాభా సాంద్రత చదరపు కిలోమీటరుకు 1000 మందికి చేరుకోవడానికి పట్టే సమయం",
+     "ప్రస్తుత వార్షిక వృద్ధి రేటుతో ఏదైనా జనాభా తనను తాను రెట్టింపు చేసుకోవడానికి పట్టే సమయం",
+     "10 ఏళ్లలో జనాభా 100% పెరగడానికి పట్టే సమయం"
+    ],
+    "en": [
+     "The time taken for the birth rate to become double the death rate",
+     "The time taken for the population density to reach 1000 persons per sq km",
+     "The time taken by any population to double itself at its current annual growth rate",
+     "The time taken for a population to increase by 100% in 10 years"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "జనాభా రెట్టింపు సమయం అనేది ప్రస్తుత వార్షిక వృద్ధి రేటు వద్ద జనాభా రెట్టింపు కావడానికి అవసరమైన సమయంగా ప్రత్యేకంగా నిర్వచించబడింది.",
+    "en": "Population doubling time is specifically defined as the time needed for a population to double at its current annual growth rate."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T22-0017",
+   "section": {
+    "te": "Resource Management",
+    "en": "Resource Management"
+   },
+   "q": {
+    "te": "ప్రకటన (A): దేశం యొక్క జనాభా పరిమాణం మరియు నిర్మాణాన్ని నిర్ణయించడం ప్రభుత్వానికి అవసరం.\nకారణం (R): ఇది దేశం యొక్క వనరులను మెరుగ్గా కేటాయించడంలో మరియు నిర్వహించడంలో సహాయపడుతుంది.",
+    "en": "Assertion (A): Determining a country's population size and structure is essential for the government.\nReason (R): It helps in the better allocation and management of a country's resources."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "జనాభా వివరాలను తెలుసుకోవడం వల్ల ప్రభుత్వాలు మౌలిక సదుపాయాలు మరియు సేవలను ప్లాన్ చేయడానికి అనుమతిస్తుంది, ఇది సమర్థవంతమైన వనరుల నిర్వహణకు దారితీస్తుంది.",
+    "en": "Knowing population details allows governments to plan infrastructure and services, leading to efficient resource management."
+   }
+  }
+ ]
+}

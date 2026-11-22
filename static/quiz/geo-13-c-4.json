@@ -1,0 +1,942 @@
+{
+ "id": "geo-13-c-4",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "India – క్విజ్ 4",
+  "en": "India – Quiz 4"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T13-0123",
+   "section": {
+    "te": "Singapore Name Origin",
+    "en": "Singapore Name Origin"
+   },
+   "q": {
+    "te": "సింగపూర్ అనే పేరు 'సింగపురం' నుండి వచ్చింది, దీని అర్థం ఏమిటి?",
+    "en": "The name Singapore is derived from 'Singapuram', which means what?"
+   },
+   "options": {
+    "te": [
+     "ఏనుగు నగరం",
+     "సింహ నగరం",
+     "పులి నగరం",
+     "బంగారు నగరం"
+    ],
+    "en": [
+     "Elephant City",
+     "Lion City",
+     "Tiger City",
+     "Golden City"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సింగపూర్ అనే పేరు 'సింగపురం' నుండి వచ్చింది, దీని అర్థం 'సింహ నగరం'.",
+    "en": "The name Singapore comes from 'Singapuram', which translates to 'lion city'."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T13-0014",
+   "section": {
+    "te": "Sand Dunes",
+    "en": "Sand Dunes"
+   },
+   "q": {
+    "te": "థార్ ఎడారిలోని ఇసుక దిబ్బలు (Sand dunes) కొన్నిసార్లు ఎంత ఎత్తు వరకు పెరుగుతాయి?",
+    "en": "How high can sand dunes in the Thar Desert sometimes rise?"
+   },
+   "options": {
+    "te": [
+     "50 మీటర్లు",
+     "150 మీటర్లు",
+     "100 మీటర్లు",
+     "200 మీటర్లు"
+    ],
+    "en": [
+     "50 metres",
+     "150 metres",
+     "100 metres",
+     "200 metres"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఇసుక దిబ్బలు కొన్నిసార్లు 150 మీటర్ల ఎత్తు వరకు పెరుగుతాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Sand dunes can sometimes rise as high as 150 metres."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T13-0136",
+   "section": {
+    "te": "India-Oman Relations",
+    "en": "India-Oman Relations"
+   },
+   "q": {
+    "te": "భారతదేశం-ఒమన్ సంబంధాలకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. గల్ఫ్ ప్రాంతంలో మూడు సాయుధ దళాలతో భారతదేశం సంయుక్త సైనిక విన్యాసాలు నిర్వహించే మొదటి దేశం ఒమన్.\n2. ఒమన్ జనాభాలో 10% కంటే ఎక్కువ మంది భారతీయ సంతతికి చెందినవారు.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding India-Oman relations:\n1. Oman is the first country in the Gulf region where India holds joint military exercises with all three armed forces.\n2. Over 10% of the population of Oman is of Indian origin.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతదేశంలోని మూడు సాయుధ దళాలతో సంయుక్త విన్యాసాలు నిర్వహించిన మొదటి గల్ఫ్ దేశం ఒమన్ అని మరియు దాని జనాభాలో 10% కంటే ఎక్కువ మంది భారతీయ సంతతికి చెందినవారని పాఠ్యభాగం ధృవీకరిస్తుంది.",
+    "en": "The text confirms that Oman is the first Gulf country to hold joint exercises with all three Indian armed forces and that over 10% of its population is of Indian origin."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T13-0168",
+   "section": {
+    "te": "Geological Regions of India",
+    "en": "Geological Regions of India"
+   },
+   "q": {
+    "te": "భౌగోళిక ప్రాంతాల ఆధారంగా, భారతదేశాన్ని కింది వాటిలో ఏవిగా విభజించవచ్చు?",
+    "en": "Based on geological regions, India can be broadly divided into which of the following?"
+   },
+   "options": {
+    "te": [
+     "ద్వీపకల్ప పీఠభూమి (The Peninsular Block)",
+     "హిమాలయాలు మరియు ఇతర ద్వీపకల్ప పర్వతాలు",
+     "సింధు-గంగా-బ్రహ్మపుత్ర మైదానం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "The Peninsular Block",
+     "The Himalayas and other Peninsular Mountains",
+     "Indo-Ganga-Brahmaputra Plain",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్య భాగం మూడు విస్తృత భౌగోళిక ప్రాంతాలను జాబితా చేసింది: ద్వీపకల్ప పీఠభూమి, హిమాలయాలు మరియు ఇతర ద్వీపకల్ప పర్వతాలు, మరియు సింధు-గంగా-బ్రహ్మపుత్ర మైదానం.",
+    "en": "The text lists three broad geological regions: the Peninsular Block, the Himalayas and other Peninsular Mountains, and the Indo-Ganga-Brahmaputra Plain."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T13-0019",
+   "section": {
+    "te": "Thar as Barrier",
+    "en": "Thar as Barrier"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): థార్ ఎడారి ఒక సహజ అవరోధంగా (natural barrier) పనిచేస్తుంది.\nకారణం (R): పగటిపూట అధిక ఉష్ణోగ్రతలు, చల్లని రాత్రులు మరియు నీటి కొరత వంటి కఠినమైన పరిస్థితులు మానవ మరియు జంతువుల కదలికలను అడ్డుకుంటాయి.",
+    "en": "Assertion (A): The Thar Desert acts as a natural barrier.\nReason (R): Harsh conditions like high daytime temperatures, cold nights, and lack of water deter human and animal movement."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ సరైనవి మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ సరైనవి కానీ A కి R సరైన వివరణ కాదు",
+     "A సరైనది కానీ R తప్పు",
+     "A తప్పు కానీ R సరైనది"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "థార్ ఎడారిలోని విపరీతమైన ఉష్ణోగ్రతలు మరియు నీటి కొరత కదలికలను కష్టతరం చేయడం వల్ల ఇది సహజ అవరోధంగా పనిచేస్తుంది.",
+    "en": "The Thar Desert is a natural barrier because its extreme temperatures and lack of water make movement difficult."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T13-0148",
+   "section": {
+    "te": "Territorial Limit",
+    "en": "Territorial Limit"
+   },
+   "q": {
+    "te": "తీరం నుండి సముద్రం వైపు భారతదేశ ప్రాదేశిక పరిమితి (territorial limit) ఎంత?",
+    "en": "What is the territorial limit of India towards the sea from the coast?"
+   },
+   "options": {
+    "te": [
+     "12 నాటికల్ మైళ్లు",
+     "15 నాటికల్ మైళ్లు",
+     "12 స్టాట్యూట్ మైళ్లు",
+     "10 నాటికల్ మైళ్లు"
+    ],
+    "en": [
+     "12 nautical miles",
+     "15 nautical miles",
+     "12 statute miles",
+     "10 nautical miles"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భారతదేశ ప్రాదేశిక పరిమితి తీరం నుండి సముద్రంలోకి 12 నాటికల్ మైళ్ల (సుమారు 21.9 కి.మీ) వరకు విస్తరించి ఉంది.",
+    "en": "India's territorial limit extends 12 nautical miles (approximately 21.9 km) into the sea from the coastline."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T13-0054",
+   "section": {
+    "te": "Birth of Bangladesh",
+    "en": "Birth of Bangladesh"
+   },
+   "q": {
+    "te": "భారత్-పాకిస్తాన్ మధ్య జరిగిన యుద్ధం ఫలితంగా బంగ్లాదేశ్ ఏ సంవత్సరంలో ఆవిర్భవించింది?",
+    "en": "In which year was Bangladesh born as the outcome of a war between India and Pakistan?"
+   },
+   "options": {
+    "te": [
+     "1948",
+     "1971",
+     "1965",
+     "1999"
+    ],
+    "en": [
+     "1948",
+     "1971",
+     "1965",
+     "1999"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారత్ మరియు పాకిస్తాన్ మధ్య జరిగిన యుద్ధం ఫలితంగా 1971లో బంగ్లాదేశ్ ఆవిర్భవించింది.",
+    "en": "Bangladesh (formerly East Pakistan) was born in 1971 as the outcome of a war between India and Pakistan."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T13-0009",
+   "section": {
+    "te": "Thar Desert States",
+    "en": "Thar Desert States"
+   },
+   "q": {
+    "te": "భారతదేశంలోని థార్ ఎడారి ఈ క్రింది ఏ రాష్ట్రాలలో విస్తరించి ఉంది?",
+    "en": "The Thar Desert in India spans across which of the following states?"
+   },
+   "options": {
+    "te": [
+     "రాజస్థాన్ మరియు గుజరాత్",
+     "పంజాబ్ మరియు హర్యానా",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Rajasthan and Gujarat",
+     "Punjab and Haryana",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "థార్ ఎడారి రాజస్థాన్, గుజరాత్, పంజాబ్ మరియు హర్యానా అనే నాలుగు భారతీయ రాష్ట్రాలలో విస్తరించి ఉంది.",
+    "en": "The Thar Desert spans across four Indian states: Rajasthan, Gujarat, Punjab, and Haryana."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T13-0103",
+   "section": {
+    "te": "Malaysia Script",
+    "en": "Malaysia Script"
+   },
+   "q": {
+    "te": "మలయ్ ద్వీపకల్ప ప్రాంతం భారతదేశపు బ్రాహ్మీ లిపి ఆధారిత లిపిని సుమారు ఏ శతాబ్దంలో స్వీకరించింది?",
+    "en": "Around which century did the Malay Peninsula region adopt a script based on India’s Brāhmī script?"
+   },
+   "options": {
+    "te": [
+     "క్రీ.శ. 6వ శతాబ్దం",
+     "క్రీ.పూ. 3వ శతాబ్దం",
+     "క్రీ.శ. 4వ శతాబ్దం",
+     "క్రీ.శ. 15వ శతాబ్దం"
+    ],
+    "en": [
+     "6th century CE",
+     "3rd century BCE",
+     "4th century CE",
+     "15th century CE"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "క్రీ.శ. 4వ శతాబ్దం ప్రాంతంలో ఈ ప్రాంతం భారతదేశపు బ్రాహ్మీ లిపి ఆధారిత లిపిని స్వీకరించిందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The region adopted a script based on India's Brāhmī script around the 4th century CE."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T13-0109",
+   "section": {
+    "te": "Malaysia Religion",
+    "en": "Malaysia Religion"
+   },
+   "q": {
+    "te": "మలయ్ ద్వీపకల్పంలో ఇస్లాం ఏ శతాబ్దం నాటికి ప్రధాన మతంగా మారింది?",
+    "en": "By which century did Islam become the predominant religion in the Malay Peninsula?"
+   },
+   "options": {
+    "te": [
+     "క్రీ.శ. 19వ శతాబ్దం",
+     "క్రీ.శ. 10వ శతాబ్దం",
+     "క్రీ.శ. 4వ శతాబ్దం",
+     "క్రీ.శ. 15వ శతాబ్దం"
+    ],
+    "en": [
+     "19th century CE",
+     "10th century CE",
+     "4th century CE",
+     "15th century CE"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "15వ శతాబ్దం నాటికి ఈ ప్రాంతంలో ఇస్లాం ప్రధాన మతంగా మారిందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Islam became the predominant religion in the region by the 15th century."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T13-0105",
+   "section": {
+    "te": "Indian Diaspora in Malaysia",
+    "en": "Indian Diaspora in Malaysia"
+   },
+   "q": {
+    "te": "నేడు మలేషియా జనాభాలో ఎంత శాతం మంది భారతీయ సంతతికి చెందినవారు?",
+    "en": "What percentage of the Malaysian population is of Indian origin today?"
+   },
+   "options": {
+    "te": [
+     "5 శాతం",
+     "7 శాతం",
+     "12 శాతం",
+     "9 శాతం"
+    ],
+    "en": [
+     "5 per cent",
+     "7 per cent",
+     "12 per cent",
+     "9 per cent"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మలేషియా జనాభాలో 9 శాతం మంది భారతీయ సంతతికి చెందినవారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "9 per cent of the Malaysian population is of Indian origin."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T13-0161",
+   "section": {
+    "te": "India-Sri Lanka Separation",
+    "en": "India-Sri Lanka Separation"
+   },
+   "q": {
+    "te": "కింది వాటిలో ఏ జలభాగాలు శ్రీలంకను భారత ప్రధాన భూభాగం నుండి వేరు చేస్తాయి?",
+    "en": "Which of the following water bodies separate Sri Lanka from the Indian mainland?"
+   },
+   "options": {
+    "te": [
+     "పాక్ జలసంధి మరియు ఖంభాత్ గల్ఫ్",
+     "మన్నార్ గల్ఫ్ మరియు పాక్ జలసంధి",
+     "టెన్ డిగ్రీ ఛానల్ మరియు మన్నార్ గల్ఫ్",
+     "పాక్ జలసంధి మరియు ఎయిట్ డిగ్రీ ఛానల్"
+    ],
+    "en": [
+     "Palk Strait and Gulf of Khambhat",
+     "Gulf of Mannar and Palk Strait",
+     "Ten Degree Channel and Gulf of Mannar",
+     "Palk Strait and Eight Degree Channel"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "శ్రీలంక భారతదేశం నుండి మన్నార్ గల్ఫ్ మరియు పాక్ జలసంధి అనే రెండు జలభాగాల ద్వారా వేరు చేయబడింది.",
+    "en": "Sri Lanka is separated from India by two specific water bodies: the Gulf of Mannar and the Palk Strait."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T13-0111",
+   "section": {
+    "te": "Dhivehi Vocabulary",
+    "en": "Dhivehi Vocabulary"
+   },
+   "q": {
+    "te": "మాల్దీవుల ధివేహి భాషలో 'మాస్' (mas) అంటే ఏమిటి?",
+    "en": "In the Dhivehi language of the Maldives, what does the word 'mas' mean?"
+   },
+   "options": {
+    "te": [
+     "చేప",
+     "కోడి",
+     "రాజు",
+     "పడవ"
+    ],
+    "en": [
+     "Fish",
+     "Chicken",
+     "King",
+     "Boat"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ధివేహి భాషలో 'మాస్' అంటే చేప అని అర్థం, ఇది సంస్కృత పదం 'మత్స్య'ను పోలి ఉంటుంది.",
+    "en": "The word 'mas' in Dhivehi means fish, echoing the Sanskrit word 'matsya'."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T13-0167",
+   "section": {
+    "te": "Island Neighbours",
+    "en": "Island Neighbours"
+   },
+   "q": {
+    "te": "హిందూ మహాసముద్రంలో ఉన్న భారతదేశ పొరుగు ద్వీప దేశాలు ఏవి?",
+    "en": "Which two island countries located in the Indian Ocean are neighbours of India?"
+   },
+   "options": {
+    "te": [
+     "శ్రీలంక మరియు ఇండోనేషియా",
+     "శ్రీలంక మరియు మాల్దీవులు",
+     "సీషెల్స్ మరియు మాల్దీవులు",
+     "మాల్దీవులు మరియు మారిషస్"
+    ],
+    "en": [
+     "Sri Lanka and Indonesia",
+     "Sri Lanka and Maldives",
+     "Seychelles and Maldives",
+     "Maldives and Mauritius"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "హిందూ మహాసముద్రంలోని శ్రీలంక మరియు మాల్దీవులు భారతదేశానికి పొరుగున ఉన్న రెండు ద్వీప దేశాలని పాఠ్య భాగం స్పష్టంగా పేర్కొంది.",
+    "en": "Sri Lanka and Maldives as the two island countries in the Indian Ocean that are India's neighbours."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T13-0115",
+   "section": {
+    "te": "Indonesian Currency",
+    "en": "Indonesian Currency"
+   },
+   "q": {
+    "te": "విష్ణువు వాహనాన్ని సూచించే ఏ జాతీయ చిహ్నం ఇండోనేషియా కరెన్సీ అయిన రూపయ్యపై ఉంటుంది?",
+    "en": "Which national symbol, representing the vehicle of Vishnu, is carried on the Indonesian currency, the rupiah?"
+   },
+   "options": {
+    "te": [
+     "హనుమాన్",
+     "ఐరావతం",
+     "గరుడ",
+     "నంది"
+    ],
+    "en": [
+     "Hanuman",
+     "Airavata",
+     "Garuda",
+     "Nandi"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఇండోనేషియా రూపయ్యపై విష్ణువు వాహనమైన గరుడ జాతీయ చిహ్నంగా ఉంటుంది.",
+    "en": "The Indonesian rupiah carries the national symbol Garuda, which is the vahana (vehicle) of Vishnu."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T13-0156",
+   "section": {
+    "te": "Climatic Zones",
+    "en": "Climatic Zones"
+   },
+   "q": {
+    "te": "భారతదేశ అక్షాంశ స్థానానికి సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. భారతదేశం యొక్క దక్షిణ భాగం ఉష్ణమండలంలో (tropics) ఉంది.\n2. భారతదేశం యొక్క ఉత్తర భాగం ఉప-ఉష్ణమండల (sub-tropical) లేదా వెచ్చని సమశీతోష్ణ మండలంలో ఉంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding India's latitudinal location:\n1. The southern part of India lies within the tropics.\n2. The northern part of India lies in the sub-tropical or warm temperate zone.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అక్షాంశాల ఆధారంగా, భారతదేశం దక్షిణాన ఉష్ణమండల మరియు ఉత్తరాన ఉప-ఉష్ణమండల/వెచ్చని సమశీతోష్ణ మండలాలుగా విభజించబడింది.",
+    "en": "Based on latitude, India is divided into a tropical southern part and a sub-tropical/warm temperate northern part."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T13-0016",
+   "section": {
+    "te": "Yaks in Himalayas",
+    "en": "Yaks in Himalayas"
+   },
+   "q": {
+    "te": "హిమాలయాలలో యాక్ (Yak)లను ఈ క్రింది ఏ అవసరాల కోసం పెంచుతారు?",
+    "en": "For which of the following purposes are Yaks reared in the Himalayas?"
+   },
+   "options": {
+    "te": [
+     "పాలు మరియు మాంసం",
+     "ఉన్ని మరియు పేడ",
+     "రవాణా",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Milk and meat",
+     "Wool and dung",
+     "Transport",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "యాక్‌లను పాలు, మాంసం, ఉన్ని, పేడ కోసం పెంచుతారు మరియు రవాణా కోసం కూడా ఉపయోగిస్తారు.",
+    "en": "Yaks are reared for milk, meat, wool, dung, and are also used for transport."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T13-0152",
+   "section": {
+    "te": "Latitude and Longitude",
+    "en": "Latitude and Longitude"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): భారతదేశంలో ఉత్తర నుండి దక్షిణానికి ఉన్న వాస్తవ దూరం (3,214 కి.మీ), తూర్పు నుండి పడమరకు ఉన్న దూరం (2,933 కి.మీ) కంటే ఎక్కువ.\nకారణం (R): రెండు రేఖాంశాల మధ్య దూరం ధృవాల వైపు వెళ్లేకొద్దీ తగ్గుతుంది, అయితే రెండు అక్షాంశాల మధ్య దూరం అన్ని చోట్లా ఒకేలా ఉంటుంది.",
+    "en": "Assertion (A): The actual distance from north to south (3,214 km) is greater than the distance from east to west (2,933 km) in India.\nReason (R): The distance between two longitudes decreases towards the poles, while the distance between two latitudes remains the same everywhere."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ సరైనవి మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ సరైనవి కానీ A కి R సరైన వివరణ కాదు",
+     "A సరైనది కానీ R తప్పు",
+     "A తప్పు కానీ R సరైనది"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "రేఖాంశాలు ధృవాల వైపు దగ్గరవ్వడం వల్ల, అక్షాంశ మరియు రేఖాంశ విస్తరణలు రెండూ సుమారు 30 డిగ్రీలు ఉన్నప్పటికీ, తూర్పు-పడమర దూరం ఉత్తర-దక్షిణ దూరం కంటే తక్కువగా ఉంటుంది.",
+    "en": "The convergence of longitudes towards the poles explains why the east-west distance is shorter than the north-south distance despite both spanning roughly 30 degrees."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T13-0038",
+   "section": {
+    "te": "Indian Peninsula Strategic Role",
+    "en": "Indian Peninsula Strategic Role"
+   },
+   "q": {
+    "te": "హిందూ మహాసముద్రంలోకి చొచ్చుకువచ్చిన భారతదేశ ద్వీపకల్ప రూపం, కింది ఏ ప్రాంతాల మధ్య కీలకమైన అనుసంధానంగా పనిచేస్తుంది?",
+    "en": "India's peninsular shape extending into the Indian Ocean makes it a vital link connecting which of the following regions?"
+   },
+   "options": {
+    "te": [
+     "ఆగ్నేయాసియా, పశ్చిమాసియా మరియు ఆఫ్రికా",
+     "పశ్చిమ యూరప్, ఉత్తర ఆఫ్రికా మరియు తూర్పు ఆసియా",
+     "తూర్పు ఆసియా, మధ్య ఆసియా మరియు ఆస్ట్రేలియా",
+     "ఉత్తర అమెరికా, దక్షిణ అమెరికా మరియు యూరప్"
+    ],
+    "en": [
+     "Southeast Asia, West Asia, and Africa",
+     "West Europe, North Africa, and East Asia",
+     "East Asia, Central Asia, and Australia",
+     "North America, South America, and Europe"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భారతదేశ ద్వీపకల్ప స్థానం ఆగ్నేయాసియా, పశ్చిమాసియా మరియు ఆఫ్రికాల మధ్య ముఖ్యమైన సముద్ర మార్గాలకు కీలక అనుసంధానంగా నిలుస్తుంది.",
+    "en": "India's peninsular location deep into the Indian Ocean acts as a vital link between Southeast Asia, West Asia, and Africa."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T13-0153",
+   "section": {
+    "te": "Standard Meridian",
+    "en": "Standard Meridian"
+   },
+   "q": {
+    "te": "దేశాల మధ్య ఉన్న సాధారణ అవగాహన ప్రకారం, ప్రామాణిక మెరిడియన్ (standard meridian) ను ఏ రేఖాంశ విలువ యొక్క గుణిజాలలో ఎంచుకోవాలి?",
+    "en": "According to the general understanding among countries, the standard meridian should be selected in multiples of which longitudinal value?"
+   },
+   "options": {
+    "te": [
+     "82°30'",
+     "5°30'",
+     "15°",
+     "7°30'"
+    ],
+    "en": [
+     "82°30'",
+     "5°30'",
+     "15°",
+     "7°30'"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ప్రపంచ దేశాల మధ్య ఉన్న అవగాహన ప్రకారం, ప్రామాణిక మెరిడియన్‌ను 7°30' రేఖాంశం యొక్క గుణిజాలలో ఎంచుకుంటారు.",
+    "en": "Countries generally select their standard meridian in multiples of 7°30' of longitude."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T13-0147",
+   "section": {
+    "te": "India's Global Area",
+    "en": "India's Global Area"
+   },
+   "q": {
+    "te": "ప్రపంచ భూభాగ వైశాల్యంలో భారతదేశం ఎంత శాతం కలిగి ఉంది?",
+    "en": "What percentage of the world's land surface area is accounted for by India?"
+   },
+   "options": {
+    "te": [
+     "2.1 శాతం",
+     "3.2 శాతం",
+     "2.4 శాతం",
+     "4.2 శాతం"
+    ],
+    "en": [
+     "2.1 per cent",
+     "3.2 per cent",
+     "2.4 per cent",
+     "4.2 per cent"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, ప్రపంచ మొత్తం భూభాగ వైశాల్యంలో భారతదేశం 2.4 శాతాన్ని ఆక్రమించి ఉంది.",
+    "en": "India accounts for 2.4 per cent of the world's total land surface area."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T13-0120",
+   "section": {
+    "te": "Indonesia Geography",
+    "en": "Indonesia Geography"
+   },
+   "q": {
+    "te": "ఇండోనేషియా అనేక పెద్ద ద్వీపాలు మరియు సుమారు ఎన్ని చిన్న ద్వీపాలతో కూడిన ద్వీపసమూహం?",
+    "en": "Indonesia is an archipelago consisting of several large islands and approximately how many smaller ones?"
+   },
+   "options": {
+    "te": [
+     "7,000 కంటే ఎక్కువ",
+     "1,000 కంటే ఎక్కువ",
+     "17,000 కంటే ఎక్కువ",
+     "27,000 కంటే ఎక్కువ"
+    ],
+    "en": [
+     "Over 7,000",
+     "Over 1,000",
+     "Over 17,000",
+     "Over 27,000"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఇండోనేషియా అనేక పెద్ద ద్వీపాలు మరియు 17,000 కంటే ఎక్కువ చిన్న ద్వీపాలను కలిగి ఉన్న ద్వీపసమూహం.",
+    "en": "Indonesia is an archipelago with several large islands and more than 17,000 smaller islands."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T13-0034",
+   "section": {
+    "te": "Buddhism Entry to China",
+    "en": "Buddhism Entry to China"
+   },
+   "q": {
+    "te": "భారతదేశంలో ఉద్భవించిన బౌద్ధమతం, వాణిజ్య మరియు తీర్థయాత్ర మార్గాల ద్వారా చైనాకు సుమారు ఏ కాలంలో చేరింది?",
+    "en": "Around which period did Buddhism reach China from India via trade and pilgrimage routes?"
+   },
+   "options": {
+    "te": [
+     "క్రీ.శ. 7వ శతాబ్దం సమయంలో",
+     "క్రీ.పూ. 3వ శతాబ్దం సమయంలో",
+     "క్రీ.శ. 5వ శతాబ్దం సమయంలో",
+     "క్రీ.శ. 1వ శతాబ్దం సమయంలో"
+    ],
+    "en": [
+     "Around the 7th century CE",
+     "Around the 3rd century BCE",
+     "Around the 5th century CE",
+     "Around the 1st century CE"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశంలో పుట్టిన బౌద్ధమతం దాదాపు క్రీ.శ. 1వ శతాబ్దంలో వాణిజ్య మరియు తీర్థయాత్ర మార్గాల ద్వారా చైనాకు చేరింది.",
+    "en": "Buddhism originated in India and reached China around the 1st century CE."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T13-0165",
+   "section": {
+    "te": "Definition of Physiography",
+    "en": "Definition of Physiography"
+   },
+   "q": {
+    "te": "భారతదేశ భౌగోళిక స్వరూపం (Physiography) గురించి కింది ప్రకటనలను పరిశీలించండి:\n1. భౌగోళిక స్వరూపం అనేది నిర్మాణం, ప్రక్రియ మరియు అభివృద్ధి దశ యొక్క ఫలితం.\n2. ఉత్తర భారతదేశం అత్యధికంగా విచ్ఛిన్నమైన పీఠభూములతో కూడిన స్థిరమైన భూభాగం (table land) కలిగి ఉంటుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the physiography of India:\n1. Physiography is the outcome of structure, process, and the stage of development.\n2. The north of India is characterized by stable table land with highly dissected plateaus.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 లేదా 2 ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నిర్వచనం ప్రకారం ప్రకటన 1 సరైనది. ప్రకటన 2 తప్పు ఎందుకంటే ఉత్తర భారతదేశం పర్వత శ్రేణులతో కూడిన గరుకైన భూభాగాన్ని కలిగి ఉంటుంది, దక్షిణ భారతదేశం స్థిరమైన భూభాగాన్ని కలిగి ఉంటుంది.",
+    "en": "Statement 1 is correct as per the definition. Statement 2 is incorrect because the north has rugged topography with mountain ranges, while the south consists of stable table land."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T13-0063",
+   "section": {
+    "te": "India supplies to Nepal",
+    "en": "India supplies to Nepal"
+   },
+   "q": {
+    "te": "నేపాల్‌కు అతిపెద్ద వాణిజ్య భాగస్వామిగా భారతదేశం సరఫరా చేసే నిత్యావసర వస్తువులు ఏవి?",
+    "en": "Which of the following essential goods does India supply to Nepal as its largest trading partner?"
+   },
+   "options": {
+    "te": [
+     "పెట్రోలియం",
+     "మందులు",
+     "ఆహార పదార్థాలు మరియు తయారీ వస్తువులు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Petroleum",
+     "Medicines",
+     "Food items and manufactured products",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశం నేపాల్‌కు పెట్రోలియం, మందులు, ఆహార పదార్థాలు మరియు తయారీ వస్తువులు వంటి నిత్యావసరాలను సరఫరా చేస్తుంది.",
+    "en": "India supplies essential goods including petroleum, medicines, food items, and manufactured products to Nepal."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T13-0143",
+   "section": {
+    "te": "India-Iran Connectivity",
+    "en": "India-Iran Connectivity"
+   },
+   "q": {
+    "te": "భారతదేశం మరియు ఇరాన్‌లను కలిపే చారిత్రక మార్గాలు కింది ఏ రంగాలలో మార్పిడిని సులభతరం చేశాయి?",
+    "en": "The historical routes connecting India and Iran facilitated exchange in which of the following fields?"
+   },
+   "options": {
+    "te": [
+     "భాష మరియు సాహిత్యం",
+     "కళ మరియు వాస్తుశిల్పం",
+     "ఆహారం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Language and Literature",
+     "Art and Architecture",
+     "Food",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సిల్క్ రూట్ మరియు ఇతర మార్గాలు భారతదేశం మరియు ఇరాన్‌లను భాష, సాహిత్యం, కళ, వాస్తుశిల్పం మరియు ఆహార రంగాలలో అనుసంధానించాయి.",
+    "en": "The Silk Route and other routes connected India and Iran in the fields of language, literature, art, architecture, and food."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T13-0018",
+   "section": {
+    "te": "Map Legend",
+    "en": "Map Legend"
+   },
+   "q": {
+    "te": "భారతదేశ భౌతిక మ్యాప్‌లోని వివిధ రంగులు దేనిని సూచిస్తాయి?",
+    "en": "What do the different colours on the physical map of India indicate according to the legend?"
+   },
+   "options": {
+    "te": [
+     "నేల రకాలు",
+     "జనసాంద్రత",
+     "రాజకీయ సరిహద్దులు",
+     "ఎత్తులు (Altitudes)"
+    ],
+    "en": [
+     "Types of soil",
+     "Population density",
+     "Political boundaries",
+     "Altitudes (heights)"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భౌతిక మ్యాప్‌లోని లెజెండ్ ప్రకారం, వివిధ రంగులు ఆ ప్రాంతం యొక్క ఎత్తులను సూచిస్తాయి.",
+    "en": "The legend on the physical map uses different colours to indicate altitudes or heights of the area."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T13-0068",
+   "section": {
+    "te": "Bhutan native name",
+    "en": "Bhutan native name"
+   },
+   "q": {
+    "te": "భూటాన్ దేశాన్ని అక్కడి స్థానిక నివాసితులు ఏ పేరుతో పిలుస్తారు?",
+    "en": "By what name is Bhutan known to its own inhabitants?"
+   },
+   "options": {
+    "te": [
+     "థింపూ",
+     "పారో",
+     "జోంగ్ఖా",
+     "డ్రూక్యుల్"
+    ],
+    "en": [
+     "Thimphu",
+     "Paro",
+     "Dzongkha",
+     "Drukyul"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూటాన్ నివాసితులు తమ దేశాన్ని 'డ్రూక్యుల్' లేదా 'ల్యాండ్ ఆఫ్ ది థండర్ డ్రాగన్' అని పిలుస్తారు.",
+    "en": "Bhutan is called 'Drukyul' or 'Land of the Thunder Dragon' by its inhabitants."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T13-0173",
+   "section": {
+    "te": "Continental Drift History",
+    "en": "Continental Drift History"
+   },
+   "q": {
+    "te": "యూరప్, ఆఫ్రికా మరియు అమెరికాలు ఒకప్పుడు పక్కపక్కనే ఉండేవనే అవకాశాన్ని మొదటగా సూచించిన వారు ఎవరు?",
+    "en": "Who among the following was the first to suggest the possibility that Europe, Africa, and America were once located side by side?"
+   },
+   "options": {
+    "te": [
+     "అబ్రహం ఆర్టెలియస్",
+     "ఎడ్మండ్ హెస్",
+     "ఆల్ఫ్రెడ్ వెజెనర్",
+     "ఆంటోనియో పెల్లెగ్రిని"
+    ],
+    "en": [
+     "Abraham Ortelius",
+     "Edmond Hess",
+     "Alfred Wegener",
+     "Antonio Pellegrini"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వనరులోని వ్యాయామాల ప్రకారం, ఈ ఖండాలు ఒకప్పుడు కలిసి ఉండేవని మొదటగా అబ్రహం ఆర్టెలియస్ భావించారు.",
+    "en": "Exercises, Abraham Ortelius was the first to consider that these continents were once joined together."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T13-0091",
+   "section": {
+    "te": "Palk Strait",
+    "en": "Palk Strait"
+   },
+   "q": {
+    "te": "భారతదేశం మరియు శ్రీలంకలు ఏ సన్నని సముద్ర భాగం ద్వారా వేరు చేయబడుతున్నాయి?",
+    "en": "India and Sri Lanka are divided by which narrow stretch of sea?"
+   },
+   "options": {
+    "te": [
+     "మలక్కా జలసంధి",
+     "పది డిగ్రీల ఛానల్",
+     "పాక్ జలసంధి",
+     "హోర్ముజ్ జలసంధి"
+    ],
+    "en": [
+     "Strait of Malacca",
+     "Ten Degree Channel",
+     "Palk Strait",
+     "Strait of Hormuz"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం భారతదేశం మరియు శ్రీలంక దేశాలు పాక్ జలసంధి (Palk Strait) అనే సన్నని సముద్ర భాగం చేత వేరు చేయబడ్డాయి.",
+    "en": "India and Sri Lanka are divided by a narrow stretch of sea known as the Palk Strait."
+   }
+  }
+ ]
+}

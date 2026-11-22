@@ -1,0 +1,942 @@
+{
+ "id": "geo-10-g1-2",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Oceans – క్విజ్ 2",
+  "en": "Oceans – Quiz 2"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T10-0167",
+   "section": {
+    "te": "Wave Origins",
+    "en": "Wave Origins"
+   },
+   "q": {
+    "te": "తరంగాల లక్షణాల ప్రకారం, 'నిటారుగా ఉండే తరంగాల' (steep waves) గురించి ఏమి చెప్పవచ్చు?",
+    "en": "According to the characteristics of waves, what can be inferred about 'steep waves'?"
+   },
+   "options": {
+    "te": [
+     "అవి వేల కిలోమీటర్ల దూరం ప్రయాణించి వస్తాయి",
+     "అవి చాలా చిన్నవి (young) మరియు స్థానిక గాలుల ద్వారా ఏర్పడతాయి",
+     "అవి నెమ్మదిగా మరియు స్థిరంగా ఉంటాయి",
+     "అవి మరొక అర్ధగోళం నుండి ఉద్భవిస్తాయి"
+    ],
+    "en": [
+     "They have traveled thousands of kilometers",
+     "They are fairly young and formed by local winds",
+     "They are slow and steady",
+     "They originate from another hemisphere"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "తరంగం యొక్క పరిమాణం మరియు ఆకారం దాని మూలాన్ని వెల్లడిస్తాయని పాఠ్యభాగం పేర్కొంది; నిటారుగా ఉండే తరంగాలు కొత్తవి మరియు స్థానికమైనవి, నెమ్మదిగా ఉండే తరంగాలు దూరం నుండి వస్తాయి.",
+    "en": "A wave's size and shape reveal its origin; steep waves are young and local, while slow, steady waves come from far away."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T10-0040",
+   "section": {
+    "te": "Wave Landforms",
+    "en": "Wave Landforms"
+   },
+   "q": {
+    "te": "తరంగ చర్య వల్ల ఏర్పడే క్రమక్షయ రూపం (erosional feature) కానిది ఏది?",
+    "en": "Which of the following is NOT an erosional feature created by wave action?"
+   },
+   "options": {
+    "te": [
+     "సముద్ర తోరణాలు (Sea arches)",
+     "స్టంప్స్ (Stumps)",
+     "సీ స్టాక్స్ (Sea stacks)",
+     "బీచ్‌లు (Beaches)"
+    ],
+    "en": [
+     "Sea arches",
+     "Stumps",
+     "Sea stacks",
+     "Beaches"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, సముద్ర పగుళ్లు, గుహలు, తోరణాలు, స్టాక్స్ మరియు స్టంప్స్ క్రమక్షయ రూపాలు, అయితే బీచ్‌లు నిక్షేపణ రూపాలు (depositional features).",
+    "en": "Sea cracks, caves, arches, stacks, and stumps are erosional features, while beaches are depositional features."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T10-0025",
+   "section": {
+    "te": "Gulf Stream Impact",
+    "en": "Gulf Stream Impact"
+   },
+   "q": {
+    "te": "యునైటెడ్ కింగ్‌డమ్ (UK)పై గల్ఫ్ స్ట్రీమ్ యొక్క నిర్దిష్ట వాతావరణ ప్రభావం ఏమిటి?",
+    "en": "What is the specific climatic effect of the Gulf Stream on the United Kingdom?"
+   },
+   "options": {
+    "te": [
+     "ఇది UKని ఒకే అక్షాంశం వద్ద ఉన్న ఇతర ప్రాంతాల కంటే చల్లగా చేస్తుంది",
+     "ఇది ఏడాది పొడవునా విపరీతమైన వర్షపాతానికి కారణమవుతుంది",
+     "ఇది UKని ఒకే అక్షాంశం వద్ద ఉన్న ఇతర ప్రాంతాల కంటే వెచ్చగా చేస్తుంది",
+     "ఇది UK వాతావరణంపై గణనీయమైన ప్రభావాన్ని చూపదు"
+    ],
+    "en": [
+     "It makes the UK colder than other places at the same latitude",
+     "It causes extreme rainfall throughout the year",
+     "It makes the UK warmer than other places at the same latitude",
+     "It has no significant effect on the UK's climate"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "గల్ఫ్ స్ట్రీమ్ భూమధ్యరేఖ నుండి వెచ్చని నీటిని తీసుకువస్తుంది, ఇది UKని అదే అక్షాంశంలో ఉన్న ఇతర ప్రాంతాల కంటే వెచ్చగా చేస్తుంది.",
+    "en": "The Gulf Stream brings warm water from the equator, making the UK warmer than other regions located at the same latitude."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T10-0124",
+   "section": {
+    "te": "Water Cycle Processes",
+    "en": "Water Cycle Processes"
+   },
+   "q": {
+    "te": "జలచక్ర ప్రక్రియలలో, ఊటలు (స్ప్రింగ్స్) మరియు భూగర్భజల విడుదల ఏ నీటి నిల్వ విభాగానికి సంబంధించినవి?",
+    "en": "In the hydrological cycle, springs and groundwater discharge are associated with which component of water storage?"
+   },
+   "options": {
+    "te": [
+     "సముద్రాలలో నీటి నిల్వ",
+     "మంచు మరియు హిమాలలో నీటి నిల్వ",
+     "సరస్సులలోని మంచినీటి నిల్వ",
+     "భూగర్భజల నిల్వ (Groundwater storage)"
+    ],
+    "en": [
+     "Water storage in oceans",
+     "Water storage in ice and snow",
+     "Freshwater storage in lakes",
+     "Groundwater storage"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జలచక్ర విభాగాల ప్రకారం, ఊటలు మరియు భూగర్భజల ఉత్సర్గ భూగర్భజల నిల్వ ప్రక్రియకు సంబంధించినవి.",
+    "en": "Groundwater discharge and springs are the processes associated with groundwater storage in the water cycle."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T10-0179",
+   "section": {
+    "te": "Highest Tides Location",
+    "en": "Highest Tides Location"
+   },
+   "q": {
+    "te": "ప్రపంచంలోనే అత్యధిక పోటుపాట్లు (tides) నమోదయ్యే ఫండీ అఖాతం (Bay of Fundy) ఏ దేశంలో ఉంది?",
+    "en": "In which country is the Bay of Fundy, known for recording the highest tides in the world, located?"
+   },
+   "options": {
+    "te": [
+     "ఫ్రాన్స్",
+     "USA",
+     "కెనడా",
+     "రష్యా"
+    ],
+    "en": [
+     "France",
+     "USA",
+     "Canada",
+     "Russia"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కెనడాలోని నోవా స్కోటియాలో ఉన్న ఫండీ అఖాతంలో ప్రపంచంలోనే అత్యధిక పోటుపాట్లు సంభవిస్తాయి, ఇక్కడ టైడల్ బల్జ్ 15-16 మీటర్ల వరకు ఉంటుంది.",
+    "en": "The Bay of Fundy, which experiences the world's highest tides with a tidal bulge of 15-16 meters, is located in Nova Scotia, Canada."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T10-0133",
+   "section": {
+    "te": "Enclosed Seas Temperature",
+    "en": "Enclosed Seas Temperature"
+   },
+   "q": {
+    "te": "బహిరంగ సముద్రాలతో పోలిస్తే భూపరివేష్టిత లేదా ఆవృత సముద్రాల (enclosed seas) ఉష్ణోగ్రతకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\nA. అల్ప అక్షాంశాలలోని ఆవృత సముద్రాలు బహిరంగ సముద్రాల కంటే ఎక్కువ ఉష్ణోగ్రతను నమోదు చేస్తాయి.\nB. ఉన్నత అక్షాంశాలలోని ఆవృత సముద్రాలు బహిరంగ సముద్రాల కంటే తక్కువ ఉష్ణోగ్రతను నమోదు చేస్తాయి.",
+    "en": "Consider the following statements regarding the temperature of enclosed seas compared to open seas:\nA. Enclosed seas in low latitudes record relatively higher temperature than open seas.\nB. Enclosed seas in high latitudes record relatively lower temperature than open seas."
+   },
+   "options": {
+    "te": [
+     "A మాత్రమే",
+     "B మాత్రమే",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "A only",
+     "B only",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అల్ప అక్షాంశాలలో ఆవృత సముద్రాలు బహిరంగ సముద్రాల కంటే ఎక్కువ ఉష్ణోగ్రతను, ఉన్నత అక్షాంశాలలో తక్కువ ఉష్ణోగ్రతను కలిగి ఉంటాయి. కాబట్టి A మరియు B రెండూ సరైనవే.",
+    "en": "Both statements are correct according to the text: low-latitude enclosed seas are warmer, and high-latitude enclosed seas are colder than the open seas."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T10-0020",
+   "section": {
+    "te": "World Oceans Day",
+    "en": "World Oceans Day"
+   },
+   "q": {
+    "te": "ఐక్యరాజ్యసమితి ఏ తేదీని ప్రపంచ మహాసముద్రాల దినోత్సవంగా ప్రకటించింది?",
+    "en": "On which date has the United Nations designated World Oceans Day?"
+   },
+   "options": {
+    "te": [
+     "జూన్ 8",
+     "ఏప్రిల్ 22",
+     "జూలై 8",
+     "జూన్ 5"
+    ],
+    "en": [
+     "June 8",
+     "April 22",
+     "July 8",
+     "June 5"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "రోజువారీ జీవితంలో సముద్రం పోషించే పాత్రను నొక్కి చెప్పడానికి ఐక్యరాజ్యసమితి జూన్ 8ని ప్రపంచ మహాసముద్రాల దినోత్సవంగా ప్రకటించింది.",
+    "en": "The United Nations designated June 8 as World Oceans Day to highlight the ocean's role in daily life."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T10-0175",
+   "section": {
+    "te": "Tide Forces",
+    "en": "Tide Forces"
+   },
+   "q": {
+    "te": "'పోటును కలిగించే' (tide-generating) బలం అనేది ప్రధానంగా ఏ రెండు బలాల మధ్య వ్యత్యాసం?",
+    "en": "The 'tide-generating' force is essentially the difference between which two forces?"
+   },
+   "options": {
+    "te": [
+     "చంద్రుని గురుత్వాకర్షణ ఆకర్షణ మరియు కేంద్రత్యాగ బలం",
+     "వాతావరణ పీడనం మరియు గాలి వేగం",
+     "సౌర గురుత్వాకర్షణ మరియు చంద్ర గురుత్వాకర్షణ",
+     "సముద్ర ప్రవాహ వేగం మరియు తరంగ పౌనఃపున్యం"
+    ],
+    "en": [
+     "Gravitational attraction of the moon and Centrifugal force",
+     "Atmospheric pressure and Wind speed",
+     "Solar gravity and Lunar gravity",
+     "Ocean current speed and Wave frequency"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పోటును కలిగించే బలం అనేది చంద్రుని గురుత్వాకర్షణ శక్తి మరియు భూమిపై పనిచేసే కేంద్రత్యాగ బలం మధ్య వ్యత్యాసంగా నిర్వచించబడింది.",
+    "en": "The tide-generating force is defined as the difference between the moon's gravitational pull and the centrifugal force acting on the Earth."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T10-0031",
+   "section": {
+    "te": "Indian Ocean Characteristics",
+    "en": "Indian Ocean Characteristics"
+   },
+   "q": {
+    "te": "కింది వాటిలో హిందూ మహాసముద్రం యొక్క లక్షణాలు ఏవి?",
+    "en": "Which of the following are characteristics of the Indian Ocean?"
+   },
+   "options": {
+    "te": [
+     "వెచ్చని జలాలు",
+     "సంపన్న జీవవైవిధ్యం",
+     "చారిత్రక అంతర్జాతీయ వాణిజ్య ప్రాముఖ్యత",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Warm waters",
+     "Rich biodiversity",
+     "Historically important for trade",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "హిందూ మహాసముద్రం దాని వెచ్చని జలాలు, అధిక జీవవైవిధ్యం మరియు అంతర్జాతీయ వాణిజ్యంలో దాని చారిత్రక పాత్రకు ప్రసిద్ధి చెందింది.",
+    "en": "The Indian Ocean is known for its warm waters, high biodiversity, and its historical role in international trade."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T10-0051",
+   "section": {
+    "te": "Wave Anatomy",
+    "en": "Wave Anatomy"
+   },
+   "q": {
+    "te": "సముద్ర తరంగాల సందర్భంలో 'తరంగ పౌనఃపున్యం' (Wave Frequency) ఎలా నిర్వచించబడింది?",
+    "en": "How is 'Wave Frequency' defined in the context of ocean waves?"
+   },
+   "options": {
+    "te": [
+     "ప్రతి సెకనుకు ఒక నిర్దిష్ట బిందువును దాటి వెళ్ళే తరంగ శృంగాల సంఖ్య",
+     "ఒక పూర్తి తరంగం ఒక బిందువును దాటడానికి పట్టే సమయం",
+     "సముద్రం మీదుగా తరంగం ప్రయాణించే వేగం",
+     "శృంగం మరియు ప్రశాంత సముద్ర మట్టం మధ్య దూరం"
+    ],
+    "en": [
+     "The number of wave crests passing a specific point per second",
+     "The time taken for one full wave to pass a point",
+     "The speed at which a wave travels across the ocean",
+     "The distance between the crest and the calm sea level"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "తరంగ పౌనఃపున్యం అంటే ఒక సెకనులో ఒక స్థిర బిందువును దాటి వెళ్ళే తరంగ శృంగాల సంఖ్య.",
+    "en": "Wave frequency is specifically the count of wave crests that pass a fixed point in one second."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T10-0036",
+   "section": {
+    "te": "Oceans and Continents",
+    "en": "Oceans and Continents"
+   },
+   "q": {
+    "te": "కింది ప్రకటనలను పరిశీలించండి:\n1. మహాసముద్రాలు ఒకదానితో ఒకటి అనుసంధానించబడి ఉన్నాయి.\n2. ఖండాల యొక్క అత్యంత సాధారణ సంఖ్య ఏడు.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements:\n1. Oceans are interconnected.\n2. The most common count of continents is seven.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 లేదా 2 ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మహాసముద్రాలన్నీ అనుసంధానించబడి ఉన్నాయని మరియు ఖండాల సంఖ్య ఏడు అనేది అత్యంత సాధారణమని పాఠ్యభాగం ధృవీకరిస్తుంది.",
+    "en": "The text confirms that all oceans are connected and that seven is the most common number of continents."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T10-0161",
+   "section": {
+    "te": "Wave Characteristics",
+    "en": "Wave Characteristics"
+   },
+   "q": {
+    "te": "తరంగం యొక్క ద్రోణి (trough) దిగువ నుండి శిఖరం (crest) పైభాగం వరకు ఉండే నిలువు దూరంలో సగభాగాన్ని ఏమని పిలుస్తారు?",
+    "en": "What is the term used to describe one-half of the vertical distance from the bottom of a trough to the top of a crest of a wave?"
+   },
+   "options": {
+    "te": [
+     "తరంగ పౌనఃపున్యం (Wave frequency)",
+     "తరంగ దైర్ఘ్యం (Wavelength)",
+     "తరంగ కాలం (Wave period)",
+     "తరంగ వ్యాప్తి (Wave amplitude)"
+    ],
+    "en": [
+     "Wave frequency",
+     "Wavelength",
+     "Wave period",
+     "Wave amplitude"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మూలం ప్రకారం, తరంగ వ్యాప్తి అనేది తరంగ ఎత్తులో సగభాగంగా నిర్వచించబడింది. తరంగ ఎత్తు అంటే ద్రోణి మరియు శిఖరం మధ్య ఉండే నిలువు దూరం.",
+    "en": "Wave amplitude is defined as one-half of the wave height, where wave height is the vertical distance between the trough and the crest."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T10-0060",
+   "section": {
+    "te": "Labrador Current",
+    "en": "Labrador Current"
+   },
+   "q": {
+    "te": "తక్కువ అక్షాంశాల వద్ద కూడా కెనడా తూర్పు తీరంలో మంచు పర్వతాలు (icebergs) ఏర్పడటానికి ప్రధాన కారణం ఏ ప్రవాహం?",
+    "en": "The formation of icebergs along the east coast of Canada even at lower latitudes is primarily due to which current?"
+   },
+   "options": {
+    "te": [
+     "కురోషియో ప్రవాహం",
+     "నార్వే ప్రవాహం",
+     "లాబ్రడార్ ప్రవాహం",
+     "గల్ఫ్ స్ట్రీమ్"
+    ],
+    "en": [
+     "Kuroshio Current",
+     "Norway Current",
+     "Labrador Current",
+     "Gulf Stream"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "లాబ్రడార్ ప్రవాహం అనేది కెనడా తూర్పు తీరం వెంట గడ్డకట్టే నీటిని తీసుకువెళ్ళే శీతల ప్రవాహం, ఇది మంచు పర్వతాల ఏర్పడటానికి దోహదపడుతుంది.",
+    "en": "The Labrador Current is a cold current that carries freezing water along Canada's east coast, supporting iceberg formation."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T10-0147",
+   "section": {
+    "te": "Highest surface temperature location",
+    "en": "Highest surface temperature location"
+   },
+   "q": {
+    "te": "సముద్రాల అత్యధిక ఉపరితల నీటి ఉష్ణోగ్రత ఎక్కడ నమోదవుతుంది?",
+    "en": "Where is the highest surface water temperature of the oceans recorded?"
+   },
+   "options": {
+    "te": [
+     "భూమధ్యరేఖకు కాస్త దక్షిణం వైపు",
+     "సరిగ్గా భూమధ్యరేఖ వద్ద",
+     "మకర రేఖ వెంబడి",
+     "భూమధ్యరేఖకు కాస్త ఉత్తరం వైపు"
+    ],
+    "en": [
+     "Slightly towards south of the equator",
+     "Exactly at the equator",
+     "Along the Tropic of Capricorn",
+     "Slightly towards north of the equator"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సముద్రాలలో అత్యధిక ఉష్ణోగ్రత సరిగ్గా భూమధ్యరేఖ వద్ద కాకుండా, దానికి కొద్దిగా ఉత్తరం వైపున నమోదవుతుంది.",
+    "en": "The highest ocean surface temperature is not recorded at the equator but slightly towards north of it."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T10-0151",
+   "section": {
+    "te": "Open ocean salinity",
+    "en": "Open ocean salinity"
+   },
+   "q": {
+    "te": "సాధారణ బహిరంగ సముద్రంలో నమోదయ్యే లవణీయత పరిధి ఎంత?",
+    "en": "What is the normal range of salinity in the open ocean?"
+   },
+   "options": {
+    "te": [
+     "20 o/oo నుండి 25 o/oo",
+     "28 o/oo నుండి 32 o/oo",
+     "38 o/oo నుండి 42 o/oo",
+     "33 o/oo నుండి 37 o/oo"
+    ],
+    "en": [
+     "20 o/oo to 25 o/oo",
+     "28 o/oo to 32 o/oo",
+     "38 o/oo to 42 o/oo",
+     "33 o/oo to 37 o/oo"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సాధారణ బహిరంగ సముద్రపు లవణీయత 33 o/oo నుండి 37 o/oo మధ్య ఉంటుంది.",
+    "en": "The salinity for a normal open ocean ranges between 33 o/oo and 37 o/oo."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T10-0202",
+   "section": {
+    "te": "Best fishing grounds",
+    "en": "Best fishing grounds"
+   },
+   "q": {
+    "te": "ప్రపంచంలోని అత్యుత్తమ చేపల వేట ప్రాంతాలు (fishing grounds) ప్రధానంగా వెచ్చని మరియు శీతల సముద్ర ప్రవాహాలు కలిసే ప్రాంతాలలో ఎందుకు ఉన్నాయి?",
+    "en": "Why do the world's best fishing grounds exist mainly in zones where warm and cold ocean currents mix?"
+   },
+   "options": {
+    "te": [
+     "ఈ కలయిక ఆక్సిజన్‌ను తిరిగి నింపుతుంది మరియు ప్లవకాల (ప్లాంక్టన్) పెరుగుదలకు దోహదం చేస్తుంది",
+     "అధిక ఉష్ణోగ్రత సముద్రపు మాంసాహార జీవులను నశింపజేస్తుంది",
+     "ఈ ప్రాంతాలలో శీతల ప్రవాహాలు పూర్తిగా ఆగిపోతాయి",
+     "ఈ ప్రాంతాలలో అధిక లవణీయత చేపలు వలస వెళ్లకుండా నిరోధిస్తుంది"
+    ],
+    "en": [
+     "The mixing replenishes oxygen and favours the growth of planktons",
+     "High water temperatures eliminate natural marine predators",
+     "Cold water currents completely stop flowing in these zones",
+     "High salinity in these zones prevents fish from migrating"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వెచ్చని మరియు చల్లని ప్రవాహాలు కలవడం వల్ల ఆక్సిజన్ పునరుద్ధరించబడుతుంది మరియు చేపల ప్రధాన ఆహారమైన ప్లాంక్టన్ వృద్ధి చెందుతుంది.",
+    "en": "The mixing of warm and cold currents replenishes oxygen and promotes the growth of plankton, the primary food for fish, creating ideal fishing grounds."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T10-0155",
+   "section": {
+    "te": "Northern Indian Ocean salinity",
+    "en": "Northern Indian Ocean salinity"
+   },
+   "q": {
+    "te": "ఉత్తర హిందూ మహాసముద్ర లవణీయతకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. నదీ జలాల చేరిక వల్ల బంగాళాఖాతంలో తక్కువ లవణీయత కనిపిస్తుంది.\n2. అధిక భాష్పీభవనం మరియు తక్కువ మంచినీటి చేరిక వల్ల అరేబియా సముద్రం అధిక లవణీయతను చూపుతుంది.\nపై ప్రకటనలలో ఏది/ఏవి సరైనది/సరైనవి?",
+    "en": "Consider the following statements regarding the salinity of the northern Indian Ocean:\n1. Bay of Bengal records low salinity due to the influx of river water.\n2. Arabian Sea shows higher salinity due to high evaporation and low influx of fresh water.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నదుల నీరు చేరడం వల్ల బంగాళాఖాతంలో తక్కువ లవణీయత, అధిక భాష్పీభవనం వల్ల అరేబియా సముద్రంలో ఎక్కువ లవణీయత ఉంటాయి. కాబట్టి రెండు ప్రకటనలూ సరైనవే.",
+    "en": "Both statements are correct: Bay of Bengal has lower salinity due to river water influx, while the Arabian Sea has higher salinity due to high evaporation and low fresh water influx."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T10-0081",
+   "section": {
+    "te": "Innocent Passage Restrictions",
+    "en": "Innocent Passage Restrictions"
+   },
+   "q": {
+    "te": "నిరపరాధ ప్రయాణం (Innocent Passage) హక్కు కింద ఈ క్రింది ఏ కార్యకలాపాలు అనుమతించబడవు?",
+    "en": "Which of the following activities are NOT permitted under the right of Innocent Passage?"
+   },
+   "options": {
+    "te": [
+     "చేపల వేట",
+     "సైనిక కార్యకలాపాలు",
+     "శాంతియుతం కాని చర్యలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Fishing",
+     "Military operations",
+     "Non-peaceful actions",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నిరపరాధ ప్రయాణ హక్కు కేవలం ప్రయాణానికి మాత్రమే ఉద్దేశించబడింది మరియు చేపల వేట, సైనిక కార్యకలాపాలు లేదా శాంతియుతం కాని ఏ చర్యలనైనా నిషేధిస్తుంది.",
+    "en": "The right of innocent passage is strictly for transit and prohibits fishing, military activities, or any action that is not peaceful."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T10-0079",
+   "section": {
+    "te": "High Seas Jurisdiction",
+    "en": "High Seas Jurisdiction"
+   },
+   "q": {
+    "te": "బహిరంగ సముద్రాలలో ప్రయాణిస్తున్నప్పుడు ఒక నౌకకు ఏ చట్టాలు వర్తిస్తాయి?",
+    "en": "Which laws apply to a ship when it is navigating in the high seas?"
+   },
+   "options": {
+    "te": [
+     "సమీప తీర దేశం యొక్క చట్టాలు",
+     "ఫ్లాగ్ స్టేట్ (నౌక నమోదు చేయబడిన దేశం) చట్టాలు",
+     "ఐక్యరాజ్యసమితి అంతర్గత చట్టాలు మాత్రమే",
+     "నౌక కెప్టెన్ యొక్క దేశం చట్టాలు"
+    ],
+    "en": [
+     "Laws of the nearest coastal country",
+     "Laws of the flag state (country of registration)",
+     "United Nations internal laws only",
+     "Laws of the country of the ship's captain"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అంతర్జాతీయ జలాలు లేదా బహిరంగ సముద్రాలలో, ఒక నౌక అది నమోదు చేయబడిన దేశం (ఫ్లాగ్ స్టేట్) యొక్క చట్టాల ద్వారా నిర్వహించబడుతుంది.",
+    "en": "In international waters or high seas, a ship is governed by the laws of the country in which it is registered, known as the flag state."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T10-0014",
+   "section": {
+    "te": "Seawater Properties",
+    "en": "Seawater Properties"
+   },
+   "q": {
+    "te": "సముద్రపు నీరు సాధారణంగా మానవ వినియోగానికి ఎందుకు పనికిరాదు?",
+    "en": "Why is seawater generally unfit for consumption by humans?"
+   },
+   "options": {
+    "te": [
+     "అది చాలా చల్లగా ఉండటం వల్ల",
+     "అది ఉప్పగా ఉండటం వల్ల",
+     "అందులో జీవం లేకపోవడం వల్ల",
+     "అది లోతైన ప్రాంతాలలో మాత్రమే ఉండటం వల్ల"
+    ],
+    "en": [
+     "Because it is too cold",
+     "Because it is salty",
+     "Because it contains no life",
+     "Because it is found only in deep areas"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సముద్రపు నీరు ఉప్పగా ఉంటుంది, అందుకే ఇది మానవులకు మరియు ఇతర భూచర జంతువులకు వినియోగించడానికి పనికిరాదు.",
+    "en": "Seawater is salty, making it unfit for consumption by most land animals and humans."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T10-0058",
+   "section": {
+    "te": "Ocean Currents Causes",
+    "en": "Ocean Currents Causes"
+   },
+   "q": {
+    "te": "సముద్ర ప్రవాహాల (Ocean currents) ఏర్పడటానికి ఈ క్రింది వాటిలో ఏ కారకాలు దోహదపడతాయి?\nA. గాలులు\nB. లవణీయతలో తేడాలు\nC. సముద్ర బేసిన్ల ఆకారం",
+    "en": "Which of the following factors contribute to the formation of ocean currents?\nA. Winds\nB. Differences in salinity\nC. Shape of ocean basins"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సముద్ర ప్రవాహాలు గాలులు, భూమి భ్రమణం, ఉష్ణోగ్రత మరియు లవణీయత తేడాలు, మరియు ఖండాలు మరియు సముద్ర బేసిన్ల ఆకారం వల్ల ఏర్పడతాయి.",
+    "en": "Ocean currents are caused by winds, Earth's rotation, temperature and salinity differences, and the shape of continents and ocean basins."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T10-0048",
+   "section": {
+    "te": "Marine Resources",
+    "en": "Marine Resources"
+   },
+   "q": {
+    "te": "భారతదేశంలో పోటు శక్తి (tidal energy) అభివృద్ధికి అనువైనవిగా గుర్తించబడిన ప్రాంతాలు ఏవి?\nA. కచ్ సింధుశాఖ\nB. ఖంభాత్ సింధుశాఖ\nC. సుందర్బన్స్",
+    "en": "Which of the following areas in India have been identified as suitable for the development of tidal energy?\nA. Gulf of Kutch\nB. Gulf of Khambhat\nC. Sundarbans"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశంలోని కచ్ సింధుశాఖ, ఖంభాత్ సింధుశాఖ మరియు సుందర్బన్స్‌లను ప్రధాన పోటు శక్తి కేంద్రాలుగా పాఠ్యభాగం గుర్తించింది.",
+    "en": "The text identifies the Gulf of Kutch, the Gulf of Khambhat, and the Sundarbans as major tidal energy sites in India."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T10-0072",
+   "section": {
+    "te": "Ocean Currents Classification",
+    "en": "Ocean Currents Classification"
+   },
+   "q": {
+    "te": "ప్రకటన (A): సముద్ర ప్రవాహాలు వాటి మూలం మరియు ప్రవాహ దిశ ఆధారంగా వెచ్చని లేదా శీతల ప్రవాహాలుగా వర్గీకరించబడతాయి.\nకారణం (R): మ్యాప్‌లలో, వెచ్చని ప్రవాహాలు సాధారణంగా నీలం రంగులో మరియు శీతల ప్రవాహాలు ఎరుపు రంగులో చూపబడతాయి.",
+    "en": "Assertion (A): Ocean currents are classified as warm or cold based on their origin and direction of flow.\nReason (R): On maps, warm currents are usually shown in blue and cold currents in red."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రకటన A నిజం, కానీ కారణం R తప్పు ఎందుకంటే వెచ్చని ప్రవాహాలు ఎరుపు రంగులో మరియు శీతల ప్రవాహాలు నీలం రంగులో చూపబడతాయి.",
+    "en": "Assertion A is true, but Reason R is false because warm currents are shown in red and cold currents in blue."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T10-0024",
+   "section": {
+    "te": "Ocean Currents",
+    "en": "Ocean Currents"
+   },
+   "q": {
+    "te": "శీతల సముద్ర ప్రవాహాలు సాధారణంగా ఏ దిశలో ప్రవహిస్తాయి?",
+    "en": "In which direction do cold ocean currents typically flow?"
+   },
+   "options": {
+    "te": [
+     "భూమధ్యరేఖ వెంట తూర్పు నుండి పడమర వరకు",
+     "ధ్రువాల నుండి భూమధ్యరేఖ వైపు",
+     "భూమధ్యరేఖ నుండి ధ్రువాల వైపు",
+     "సముద్ర గర్భం నుండి ఉపరితలం వరకు"
+    ],
+    "en": [
+     "From east to west along the equator",
+     "From the poles toward the equator",
+     "From the equator toward the poles",
+     "From the ocean floor to the surface"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "శీతల ప్రవాహాలు ధ్రువ ప్రాంతాల నుండి వెచ్చని భూమధ్యరేఖ ప్రాంతాల వైపు చల్లని నీటిని తరలిస్తాయి.",
+    "en": "Cold currents move cold water from the polar regions toward the warmer equatorial regions."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T10-0203",
+   "section": {
+    "te": "Tropical west coasts",
+    "en": "Tropical west coasts"
+   },
+   "q": {
+    "te": "శీతల జలాల సరిహద్దు కలిగిన ఉష్ణమండల మరియు ఉపఉష్ణమండల అక్షాంశాల వద్ద ఖండాల పశ్చిమ తీరాల శీతోష్ణస్థితిపై కింది ప్రకటనలను పరిశీలించండి:\n1. వాటి సగటు ఉష్ణోగ్రతలు సాపేక్షంగా తక్కువగా ఉండి, స్వల్ప దైనిక మరియు వార్షిక ఉష్ణోగ్రత పరిధులను కలిగి ఉంటాయి.\n2. అక్కడ పొగమంచు ఉంటుంది, కానీ ఆ ప్రాంతాలు సాధారణంగా శుష్కంగా (arid) ఉంటాయి.\n\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the climate of continental west coasts in tropical and subtropical latitudes bordered by cool waters:\n1. Their average temperatures are relatively low with narrow diurnal and annual ranges.\n2. Fog is present, but the regions are generally arid.\n\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 లేదా 2 కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఈ ప్రాంతాలు చల్లటి నీటి ప్రవాహాల వలన తక్కువ సగటు ఉష్ణోగ్రతలు, స్వల్ప ఉష్ణోగ్రత పరిధులు, పొగమంచు మరియు శుష్క (ఎడారి) పరిస్థితులను కలిగి ఉంటాయి.",
+    "en": "The cool waters bordering tropical and subtropical west coasts result in relatively low average temperatures, narrow diurnal and annual ranges, fog, and arid conditions."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T10-0104",
+   "section": {
+    "te": "Coastal Dynamics",
+    "en": "Coastal Dynamics"
+   },
+   "q": {
+    "te": "తీరం వెంబడి అత్యంత డైనమిక్ మరియు వినాశకరమైనవిగా క్రింది వాటిలో ఏవి వర్ణించబడ్డాయి?",
+    "en": "Which of the following processes are described as the most dynamic and destructive along the coast?"
+   },
+   "options": {
+    "te": [
+     "లవణీయత మార్పులు",
+     "తీరప్రాంత ప్రక్రియలు (Coastal processes)",
+     "పోటుపాట్ల కదలికలు",
+     "లోతైన సముద్ర ప్రవాహాలు"
+    ],
+    "en": [
+     "Salinity changes",
+     "Coastal processes",
+     "Tidal movements",
+     "Deep-sea currents"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "తరంగాల ద్వారా జరిగే తీరప్రాంత ప్రక్రియలు అత్యంత డైనమిక్ మరియు వినాశకరమైనవి అని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Coastal processes (driven largely by waves) are the most dynamic and destructive."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T10-0049",
+   "section": {
+    "te": "Tidal Effects",
+    "en": "Tidal Effects"
+   },
+   "q": {
+    "te": "ద్వారకలోని భద్రకేశ్వర్ మహాదేవ్ ఆలయానికి సందర్శకులు అల్ప పోటు (low tide) సమయంలో మాత్రమే ఎందుకు వెళ్లగలరు?",
+    "en": "Why can visitors reach the Bhadkeshwar Mahadev Temple in Dwarka only during low tide?"
+   },
+   "options": {
+    "te": [
+     "అధిక పోటు సమయంలో రాతి బాట నీటిలో మునిగిపోతుంది",
+     "అధిక పోటు సమయంలో ఆలయ కొండ అదృశ్యమవుతుంది",
+     "అధిక పోటు సమయంలో ప్రార్థనల కోసం ఆలయం మూసివేయబడుతుంది",
+     "అధిక పోటు సమయంలో బలమైన గాలులు ప్రవేశాన్ని అడ్డుకుంటాయి"
+    ],
+    "en": [
+     "The stone pathway is submerged during high tide",
+     "The temple hillock disappears during high tide",
+     "The temple is closed during high tide for prayers",
+     "Strong winds prevent access during high tide"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అధిక పోటు సమయంలో ఆలయానికి వెళ్లే రాతి బాట పూర్తిగా నీటి అడుగున ఉంటుంది, కాబట్టి అల్ప పోటు సమయంలో నీటి మట్టం తగ్గినప్పుడు మాత్రమే అక్కడికి వెళ్లడం సాధ్యమవుతుంది.",
+    "en": "The stone pathway to the temple is completely underwater during high tide, making it accessible only when the water level drops during low tide."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T10-0181",
+   "section": {
+    "te": "Neap Tides Forces",
+    "en": "Neap Tides Forces"
+   },
+   "q": {
+    "te": "కింద రెండు ప్రకటనలు ఇవ్వబడ్డాయి, ఒకటి ప్రతిపాదన (A) మరియు మరొకటి కారణం (R):\nప్రతిపాదన (A): నీప్ పోటుపాట్ల (Neap tides) సమయంలో, టైడల్ పరిధి సాధారణంగా తక్కువగా ఉంటుంది.\nకారణం (R): సూర్యుడు మరియు చంద్రుడు ఒకరికొకరు లంబ కోణంలో ఉంటారు మరియు వారి గురుత్వాకర్షణ శక్తులు ఒకదానికొకటి వ్యతిరేకంగా పనిచేస్తాయి.\nపై ప్రకటనల సందర్భంలో, కింది వాటిలో ఏది సరైనది?",
+    "en": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R):\nAssertion (A): During neap tides, the tidal range is generally lower.\nReason (R): The sun and moon are at right angles to each other, and their gravitational forces counteract one another.\nIn the context of the above statements, which of the following is correct?"
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నీప్ పోటుపాట్ల సమయంలో, సూర్యుడు మరియు చంద్రుడు లంబ కోణంలో ఉండటం వల్ల వారి గురుత్వాకర్షణ శక్తులు ఒకదానికొకటి తగ్గించుకుంటాయి, దీని ఫలితంగా పోటుపాట్ల పరిధి తక్కువగా ఉంటుంది.",
+    "en": "During neap tides, the sun and moon are at right angles, causing their gravitational pulls to partially cancel each other out, resulting in lower tidal ranges."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T10-0116",
+   "section": {
+    "te": "Oceanic Trenches Association",
+    "en": "Oceanic Trenches Association"
+   },
+   "q": {
+    "te": "మహాసముద్ర అగాధాలు లేదా ట్రెంచ్‌లకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి ఖండతీర వాలు అడుగున మరియు ద్వీప తోరణాల వెంబడి ఏర్పడతాయి.\n2. ఇవి క్రియాశీల అగ్నిపర్వతాలు మరియు తీవ్ర భూకంపాలతో ముడిపడి ఉంటాయి.\n3. ఇవి చుట్టుపక్కల ఉన్న సముద్ర భూతలం కంటే 3-5 కి.మీ. ఎక్కువ లోతుగా ఉంటాయి.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding oceanic deeps or trenches:\n1. They occur at the bases of continental slopes and along island arcs.\n2. They are associated with active volcanoes and strong earthquakes.\n3. They are some 3-5 km deeper than the surrounding ocean floor.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అగాధాలు ఖండతీర వాలు అడుగున, ద్వీప తోరణాల వెంబడి ఉంటూ, చుట్టుపక్కల నేల కంటే 3-5 కి.మీ. లోతుగా ఉండి, తీవ్ర భూకంపాలు మరియు అగ్నిపర్వతాలతో సంబంధం కలిగి ఉంటాయి.",
+    "en": "Trenches occur at bases of continental slopes and along island arcs, are 3-5 km deeper than the surrounding floor, and are associated with active volcanoes and strong earthquakes."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T10-0127",
+   "section": {
+    "te": "Continental Slope",
+    "en": "Continental Slope"
+   },
+   "q": {
+    "te": "ఖండ తీర వాలు (Continental Slope) కు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. వాలు ప్రాంతం యొక్క వాలు ప్రవణత (gradient) 2° నుండి 5° మధ్య ఉంటుంది.\n2. ఈ వాలు ప్రాంతపు లోతు 200 నుండి 3,000 మీటర్ల మధ్య మారుతూ ఉంటుంది.\n3. ఈ వాలు సరిహద్దు ఖండాల ముగింపును సూచిస్తుంది.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding the continental slope:\n1. The gradient of the slope region varies between 2° and 5°.\n2. The depth of the slope region varies between 200 and 3,000 m.\n3. The slope boundary indicates the end of the continents.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఖండ తీర వాలు యొక్క ప్రవణత 2-5°, లోతు 200-3000 మీటర్లు మరియు దాని సరిహద్దు ఖండాల అంతాన్ని సూచిస్తుంది; కాబట్టి ఇచ్చిన మూడు ప్రకటనలూ సరైనవే.",
+    "en": "All three statements are correct: the gradient is 2-5°, the depth ranges from 200 to 3,000 m, and its boundary marks the end of the continents."
+   }
+  }
+ ]
+}

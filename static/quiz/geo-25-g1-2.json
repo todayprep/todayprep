@@ -1,0 +1,942 @@
+{
+ "id": "geo-25-g1-2",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Agriculture – క్విజ్ 2",
+  "en": "Agriculture – Quiz 2"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T25-0261",
+   "section": {
+    "te": "Land Ownership Classification",
+    "en": "Land Ownership Classification"
+   },
+   "q": {
+    "te": "యాజమాన్యం ఆధారంగా భూమి వర్గీకరణ ప్రకారం, ఉమ్మడి ఆస్తి వనరులు (CPRs) ఎవరి యాజమాన్యంలో ఉంటాయి?",
+    "en": "According to the classification of land based on ownership, who owns the Common Property Resources (CPRs)?"
+   },
+   "options": {
+    "te": [
+     "ప్రభుత్వం (స్టేట్)",
+     "ప్రైవేట్ వ్యక్తులు",
+     "ప్రభుత్వేతర సంస్థలు",
+     "వ్యక్తుల సమూహం"
+    ],
+    "en": [
+     "The State",
+     "Private individuals",
+     "Non-Governmental Organisations",
+     "Group of individuals"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రైవేట్ భూమి వ్యక్తుల యాజమాన్యంలో ఉండగా, ఉమ్మడి ఆస్తి వనరులు సమాజ ఉపయోగం కోసం ప్రభుత్వం యాజమాన్యంలో ఉంటాయని మూలం పేర్కొంది.",
+    "en": "While private land is owned by individuals, common property resources are owned by the state for community use."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T25-0063",
+   "section": {
+    "te": "Terrace farming",
+    "en": "Terrace farming"
+   },
+   "q": {
+    "te": "కొండ వాలులపై మెట్ల వ్యవసాయం (Terrace farming) వల్ల కలిగే ప్రధాన ప్రయోజనాలు ఏమిటి?",
+    "en": "What are the primary benefits of terrace farming on hilly slopes?"
+   },
+   "options": {
+    "te": [
+     "నేల కోతను నివారించడం",
+     "నీటిని సంరక్షించడం",
+     "A మరియు B రెండూ",
+     "ఎరువుల అవసరాన్ని తొలగించడం"
+    ],
+    "en": [
+     "Prevention of soil erosion",
+     "Conservation of water",
+     "Both A and B",
+     "Elimination of the need for manure"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మెట్ల వ్యవసాయం వాలులపై చదునైన భూమిని సృష్టిస్తుంది, ఇది నేల కొట్టుకుపోకుండా నిరోధించడంతో పాటు నీటిని నిలుపుకోవడానికి సహాయపడుతుంది.",
+    "en": "Terrace farming creates flat land on slopes, which simultaneously prevents soil from washing away and helps in retaining water."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T25-0154",
+   "section": {
+    "te": "Rice in low rainfall areas",
+    "en": "Rice in low rainfall areas"
+   },
+   "q": {
+    "te": "కాలువ నీటి పారుదల మరియు బోరు బావుల వల్ల తక్కువ వర్షపాతం ఉన్న ఏ రాష్ట్రంలో వరి పండించడం సాధ్యమైంది?",
+    "en": "In which of the following states has it become possible to grow rice in areas of less rainfall due to canal irrigation and tubewells?"
+   },
+   "options": {
+    "te": [
+     "కేరళ",
+     "పశ్చిమ బెంగాల్",
+     "రాజస్థాన్",
+     "ఒడిశా"
+    ],
+    "en": [
+     "Kerala",
+     "West Bengal",
+     "Rajasthan",
+     "Odisha"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కాలువ నీటి పారుదల మరియు బోరు బావుల అభివృద్ధి వల్ల పంజాబ్, హర్యానా, పశ్చిమ ఉత్తరప్రదేశ్ మరియు రాజస్థాన్ వంటి తక్కువ వర్షపాతం ఉన్న ప్రాంతాల్లో వరి సాగు సాధ్యమైందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Canal irrigation and tubewells have enabled rice cultivation in low rainfall areas like Punjab, Haryana, western UP, and parts of Rajasthan."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T25-0357",
+   "section": {
+    "te": "Fragmentation of Land",
+    "en": "Fragmentation of Land"
+   },
+   "q": {
+    "te": "ఒకసారి కమతాల ఏకీకరణ (ల్యాండ్ కన్సాలిడేషన్) పూర్తయిన రాష్ట్రాల్లో కూడా రెండోసారి ఏకీకరణ ఎందుకు అవసరమవుతోంది?",
+    "en": "Why is a second consolidation of landholdings required even in states where consolidation had already been carried out once?"
+   },
+   "options": {
+    "te": [
+     "నగర విస్తరణ కోసం భూసేకరణ జరగడం వల్ల",
+     "తీవ్రమైన నేలకోత మరియు ఎడారీకరణ సంభవించడం వల్ల",
+     "వ్యక్తిగత భూమి యాజమాన్యంపై ప్రభుత్వం నిషేధం విధించడం వల్ల",
+     "తర్వాతి తరాల యజమానుల మధ్య భూమి విభజన జరగడం వల్ల"
+    ],
+    "en": [
+     "Due to acquisition of land for urban expansion",
+     "Due to widespread soil erosion and desertification",
+     "Due to a government ban on individual landownership",
+     "Due to division of land among the owners of next generations"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "తర్వాతి తరాల మధ్య ఆస్తి పంపకాల ప్రక్రియలో భూకమతాలు మళ్లీ ముక్కలైపోవడం వలన రెండోసారి కమతాల ఏకీకరణ అవసరమవుతోంది.",
+    "en": "Second consolidation is required as landholdings have fragmented again due to the division of land among the owners of next generations."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T25-0018",
+   "section": {
+    "te": "Intercropping at Kalibangan",
+    "en": "Intercropping at Kalibangan"
+   },
+   "q": {
+    "te": "సుమారు క్రీ.పూ. 2800 నాటి అంతర పంటల సాగు (ఇంటర్‌క్రాపింగ్) ఆనవాళ్లు నిలువు వరుసల దుక్కుల (perpendicular furrows) రూపంలో ఏ హరప్పా ప్రదేశంలో లభించాయి?",
+    "en": "At which Harappan site was archaeological evidence of intercropping around 2800 BCE discovered in the form of perpendicular furrows?"
+   },
+   "options": {
+    "te": [
+     "లోథాల్",
+     "బనవాలి",
+     "ధోలవీర",
+     "కాలిబంగన్"
+    ],
+    "en": [
+     "Lothal",
+     "Banawali",
+     "Dholavira",
+     "Kalibangan"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రాజస్థాన్‌లోని కాలిబంగన్ వద్ద నిలువు వరుసల దుక్కుల రూపంలో సుమారు క్రీ.పూ. 2800 నాటి అంతర పంటల సాగు ఆధారాలు లభించాయి.",
+    "en": "Archaeological evidence of intercropping around 2800 BCE was discovered at Kalibangan in Rajasthan, proven by perpendicular furrows."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T25-0035",
+   "section": {
+    "te": "Historical use of season terms",
+    "en": "Historical use of season terms"
+   },
+   "q": {
+    "te": "భారతదేశంలో ఏ చారిత్రక కాలం నుండి 'ఖరీఫ్', 'రబీ', మరియు 'జైద్' అనే పంట కాలాల పదాలు వాడుకలో ఉన్నాయి?",
+    "en": "Since which historical period have the cropping season terms 'kharif', 'rabi', and 'zaid' been in continuous use in India?"
+   },
+   "options": {
+    "te": [
+     "మౌర్యుల కాలం",
+     "ఢిల్లీ సుల్తానేట్ కాలం",
+     "మొఘలుల కాలం",
+     "గుప్తుల కాలం"
+    ],
+    "en": [
+     "Mauryan period",
+     "Delhi Sultanate",
+     "Mughal times",
+     "Gupta period"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మొఘలుల కాలం నుండి భారతదేశంలో ఖరీఫ్, రబీ మరియు జైద్ అనే పదాలు నిరంతరం వాడుకలో ఉన్నాయి.",
+    "en": "The terms kharif, rabi, and zaid have been in use in India since the Mughal times."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T25-0208",
+   "section": {
+    "te": "French colonial plantations",
+    "en": "French colonial plantations"
+   },
+   "q": {
+    "te": "ఫ్రెంచ్ వారు ఏ ప్రాంతంలో కోకో మరియు కాఫీ తోటలను స్థాపించారు?",
+    "en": "In which region did the French establish cocoa and coffee plantations?"
+   },
+   "options": {
+    "te": [
+     "మధ్య అమెరికా",
+     "తూర్పు ఆఫ్రికా",
+     "ఉత్తర ఆఫ్రికా",
+     "పశ్చిమ ఆఫ్రికా"
+    ],
+    "en": [
+     "Central America",
+     "East Africa",
+     "North Africa",
+     "West Africa"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఫ్రెంచ్ వారు పశ్చిమ ఆఫ్రికాలో కోకో మరియు కాఫీ తోటలను స్థాపించారని పాఠ్యాంశంలో పేర్కొనబడింది.",
+    "en": "The French established cocoa and coffee plantations in West Africa."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T25-0120",
+   "section": {
+    "te": "Regional Farming Names",
+    "en": "Regional Farming Names"
+   },
+   "q": {
+    "te": "ఛత్తీస్‌గఢ్‌లోని బస్తర్ జిల్లాలో 'నరికి కాల్చివేసే' వ్యవసాయాన్ని ఏమని పిలుస్తారు?",
+    "en": "What is the name of 'slash and burn' agriculture in the Bastar district of Chhattisgarh?"
+   },
+   "options": {
+    "te": [
+     "పామ్లౌ (Pamlou)",
+     "బేవార్ (Bewar)",
+     "ఝుమ్మింగ్ (Jhumming)",
+     "దీపా (Dipa)"
+    ],
+    "en": [
+     "Pamlou",
+     "Bewar",
+     "Jhumming",
+     "Dipa"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఛత్తీస్‌గఢ్‌లోని బస్తర్ జిల్లా మరియు అండమాన్ నికోబార్ దీవులలో నరికి కాల్చివేసే వ్యవసాయాన్ని 'దీపా' అని పిలుస్తారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text identifies 'Dipa' as the name for slash and burn agriculture in the Bastar district of Chhattisgarh and the Andaman and Nicobar Islands."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T25-0049",
+   "section": {
+    "te": "Phad system features",
+    "en": "Phad system features"
+   },
+   "q": {
+    "te": "'ఫాద్ వ్యవస్థల' (Phad systems) నీటిపారుదలకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి ప్రధానంగా మహారాష్ట్రలో కనిపించే సమాజ ఆధారిత నీటిపారుదల వ్యవస్థలు.\n2. ఇవి నదీ జలాలను పొలాలకు మళ్లించడానికి చిన్న కాలువలను ఉపయోగిస్తాయి.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the 'Phad systems' of irrigation:\n1. They are community-based irrigation systems found particularly in Maharashtra.\n2. They use small canals to divert river water to fields.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రెండు ప్రకటనలూ సరైనవే; ఫాద్ వ్యవస్థలు మహారాష్ట్రలోని సమాజ ఆధారిత వ్యవస్థలు మరియు చిన్న కాలువల ద్వారా నది నీటిని పొలాలకు మళ్లిస్తాయి.",
+    "en": "Both statements are correct according to the text: Phad systems are community-based systems in Maharashtra that use small canals to divert river water to fields."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T25-0287",
+   "section": {
+    "te": "Rainfed Wheat Regions",
+    "en": "Rainfed Wheat Regions"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): హిమాలయ పర్వత ప్రాంతాలలో గోధుమను వర్షాధార పంటగా సాగు చేస్తారు.\nకారణం (R): గోధుమ సాగులో సుమారు 85 శాతం విస్తీర్ణం ఇండో-గంగా మైదానంలో కేంద్రీకృతమై ఉంది.\nకింది వాటిలో ఏది సరైనది?",
+    "en": "Assertion (A): Wheat is cultivated as a rainfed crop in the Himalayan highlands.\nReason (R): About 85 per cent of total area under wheat is concentrated in the Indo-Gangetic Plain.\nWhich of the following is correct?"
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ సరైనవి మరియు R అనేది A కి సరైన వివరణ.",
+     "A మరియు R రెండూ సరైనవి కానీ R అనేది A కి సరైన వివరణ కాదు.",
+     "A సరైనది కానీ R తప్పు.",
+     "A తప్పు కానీ R సరైనది."
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A.",
+     "Both A and R are true but R is not the correct explanation of A.",
+     "A is true but R is false.",
+     "A is false but R is true."
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం రెండు ప్రకటనలు సరైనవే. అయితే, ఇండో-గంగా మైదానంలో గోధుమ సాగు కేంద్రీకృతమై ఉండటం (R), హిమాలయాలలో అది వర్షాధార పంటగా ఎందుకు ఉందో (A) వివరించదు.",
+    "en": "Both statements are true according to the text. However, the concentration of wheat in the Indo-Gangetic Plain (R) does not explain why it is rainfed in the Himalayan highlands (A)."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T25-0214",
+   "section": {
+    "te": "Crops other than paddy",
+    "en": "Crops other than paddy"
+   },
+   "q": {
+    "te": "ఉత్తర చైనా, మంచూరియా, ఉత్తర కొరియా మరియు ఉత్తర జపాన్‌లలో సాంద్ర జీవనాధార వ్యవసాయం కింద క్రింది ఏ పంటలు పండించబడతాయి?",
+    "en": "Which of the following crops are grown in northern China, Manchuria, North Korea and North Japan under intensive subsistence farming?"
+   },
+   "options": {
+    "te": [
+     "గోధుమ మరియు సోయాబీన్",
+     "బార్లీ మరియు జొన్న (సొర్గం)",
+     "A మరియు B రెండూ",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Wheat and Soyabean",
+     "Barley and Sorghum",
+     "Both A and B",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, ఉత్తర చైనా, మంచూరియా, ఉత్తర కొరియా మరియు ఉత్తర జపాన్‌లలో గోధుమ, సోయాబీన్, బార్లీ మరియు జొన్నలు పండించబడతాయి.",
+    "en": "Wheat, soyabean, barley and sorghum are all grown in northern China, Manchuria, North Korea and North Japan."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T25-0116",
+   "section": {
+    "te": "Bamboo Drip Irrigation",
+    "en": "Bamboo Drip Irrigation"
+   },
+   "q": {
+    "te": "మేఘాలయలోని 200 ఏళ్ల నాటి వెదురు బిందు సేద్యం (bamboo drip irrigation) పద్ధతిలో, మొక్క వద్ద నిమిషానికి ఎన్ని చుక్కల నీరు అందుతుంది?",
+    "en": "In the 200-year-old bamboo drip irrigation system of Meghalaya, how many drops of water per minute are finally delivered at the site of the plant?"
+   },
+   "options": {
+    "te": [
+     "20-80 చుక్కలు",
+     "80-100 చుక్కలు",
+     "10-20 చుక్కలు",
+     "100-120 చుక్కలు"
+    ],
+    "en": [
+     "20-80 drops",
+     "80-100 drops",
+     "10-20 drops",
+     "100-120 drops"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఈ వ్యవస్థ 18-20 లీటర్ల నీటిని రవాణా చేస్తుంది, ఇది చివరకు మొక్క వద్ద నిమిషానికి 20-80 చుక్కలకు తగ్గుతుంది.",
+    "en": "The system transports 18-20 litres of water which eventually reduces to 20-80 drops per minute at the plant site."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T25-0083",
+   "section": {
+    "te": "Agricultural Heritage",
+    "en": "Agricultural Heritage"
+   },
+   "q": {
+    "te": "కింది వ్యవసాయ వారసత్వ వ్యవస్థలను వాటి సంబంధిత రాష్ట్రాలతో జతపరచండి:\n1. కుంకుమపువ్వు సాగు - i. కేరళ\n2. సముద్ర మట్టానికి దిగువన ఉండే పద్ధతులు - ii. కాశ్మీర్\n3. అటవీ నిర్వహణ ఏకీకరణ - iii. ఒడిశా",
+    "en": "Match the following agricultural heritage systems with their respective states:\n1. Saffron farming - i. Kerala\n2. Below-sea-level methods - ii. Kashmir\n3. Forest management integration - iii. Odisha"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-i, 3-iii",
+     "1-ii, 2-iii, 3-i",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii"
+    ],
+    "en": [
+     "1-ii, 2-i, 3-iii",
+     "1-ii, 2-iii, 3-i",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, కుంకుమపువ్వు కాశ్మీర్‌లో, సముద్ర మట్టానికి దిగువన ఉండే పద్ధతులు కేరళలో మరియు అటవీ నిర్వహణ ఏకీకరణ ఒడిశాలో ఉన్నాయి.",
+    "en": "Saffron is farmed in Kashmir, below-sea-level methods are in Kerala, and forest management integration is in Odisha."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T25-0023",
+   "section": {
+    "te": "Definition of grafting",
+    "en": "Definition of grafting"
+   },
+   "q": {
+    "te": "తెగుళ్ల నిరోధకత లేదా పండ్ల తీపి వంటి కావాల్సిన లక్షణాలను కలపడానికి ఒక మొక్కను మరొక మొక్కతో కలిపి ఒకే మొక్కగా పెంచే పద్ధతిని ఏమంటారు?",
+    "en": "What is the technique that joins one plant with another to grow as a single plant to combine desirable traits called?"
+   },
+   "options": {
+    "te": [
+     "అంటుకట్టడం (గ్రాఫ్టింగ్)",
+     "అంతర పంటల సాగు",
+     "పంటల మార్పిడి",
+     "నూర్పిడి"
+    ],
+    "en": [
+     "Grafting",
+     "Intercropping",
+     "Crop rotation",
+     "Threshing"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "కావాల్సిన లక్షణాలను కలపడానికి రెండు మొక్కలను కలిపి ఒకే మొక్కగా పెంచే ప్రక్రియను గ్రాఫ్టింగ్ (అంటుకట్టడం) అంటారు.",
+    "en": "Grafting is defined as the technique that joins one plant with another to grow as a single plant, combining desirable traits."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T25-0126",
+   "section": {
+    "te": "Regional Farming Names",
+    "en": "Regional Farming Names"
+   },
+   "q": {
+    "te": "హిమాలయ ప్రాంతంలో ఆచరించే 'నరికి కాల్చివేసే' వ్యవసాయాన్ని ఏమని పిలుస్తారు?",
+    "en": "What is the name of the 'slash and burn' agriculture practiced in the Himalayan belt?"
+   },
+   "options": {
+    "te": [
+     "కురువా (Kuruwa)",
+     "బ్రింగా (Bringa)",
+     "ఖిల్ (Khil)",
+     "వాల్రే (Valre)"
+    ],
+    "en": [
+     "Kuruwa",
+     "Bringa",
+     "Khil",
+     "Valre"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "హిమాలయ ప్రాంతంలో ప్రాచీన వ్యవసాయ పద్ధతిని 'ఖిల్' అని పిలుస్తారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The primitive form of cultivation is called 'Khil' in the Himalayan belt."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T25-0014",
+   "section": {
+    "te": "Kṛiṣhi Parāśhara Principles",
+    "en": "Kṛiṣhi Parāśhara Principles"
+   },
+   "q": {
+    "te": "కృషి పరాశర ప్రకారం, ఏ లక్షణాలు ఉన్న రైతుకు అన్ని రకాల పంటలు లభిస్తాయి?\n1. పశువుల సంక్షేమం చూడటం\n2. ఋతువుల జ్ఞానం కలిగి ఉండటం\n3. కష్టపడి పనిచేసే స్వభావం\n4. విత్తనాల పట్ల జాగ్రత్తగా ఉండటం",
+    "en": "According to Kṛiṣhi Parāśhara, which qualities reward a farmer with harvests of all kinds?\n1. Welfare of cattle\n2. Knowledge of the seasons\n3. Being industrious\n4. Carefulness about seeds"
+   },
+   "options": {
+    "te": [
+     "1, 2 మరియు 3 మాత్రమే",
+     "2, 3 మరియు 4 మాత్రమే",
+     "1 మరియు 4 మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "1, 2 and 3 only",
+     "2, 3 and 4 only",
+     "1 and 4 only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పశువులను చూసుకునే, ఋతువుల జ్ఞానం ఉన్న, కష్టపడి పనిచేసే మరియు విత్తనాల పట్ల జాగ్రత్తగా ఉండే రైతుకు మంచి పంటలు లభిస్తాయని కృషి పరాశర చెబుతోంది.",
+    "en": "Kṛiṣhi Parāśhara states that a farmer who cares for cattle, knows seasons, is industrious, and is careful with seeds is rewarded with good harvests."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T25-0262",
+   "section": {
+    "te": "Common Property Resources",
+    "en": "Common Property Resources"
+   },
+   "q": {
+    "te": "గ్రామీణ గృహాలకు ఉమ్మడి ఆస్తి వనరుల (CPRs) ద్వారా ఈ క్రింది ఏ చిన్న అటవీ ఉత్పత్తులు లభిస్తాయి?",
+    "en": "Which of the following minor forest products are provided by Common Property Resources (CPRs) to rural households?"
+   },
+   "options": {
+    "te": [
+     "పండ్లు మరియు గింజలు",
+     "నార మరియు ఔషధ మొక్కలు",
+     "A మరియు B రెండూ",
+     "కలప మరియు బొగ్గు"
+    ],
+    "en": [
+     "Fruits and nuts",
+     "Fibre and medicinal plants",
+     "Both A and B",
+     "Timber and coal"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్య భాగం ప్రకారం, CPRలు పశుగ్రాసం, ఇంధనం, పండ్లు, గింజలు, నార మరియు ఔషధ మొక్కలను అందిస్తాయి.",
+    "en": "CPRs provide fodder, fuel, fruits, nuts, fibre, and medicinal plants."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T25-0131",
+   "section": {
+    "te": "Paddy Varieties",
+    "en": "Paddy Varieties"
+   },
+   "q": {
+    "te": "ఒకే సంవత్సరంలో ఆస్ (Aus), అమన్ (Aman) మరియు బోరో (Boro) అనే మూడు వరి పంటలను ఈ క్రింది ఏ రాష్ట్రాల్లో పండిస్తారు?",
+    "en": "In which of the following states are three crops of paddy, namely Aus, Aman, and Boro, grown in a single year?"
+   },
+   "options": {
+    "te": [
+     "పంజాబ్, హర్యానా మరియు రాజస్థాన్",
+     "ఉత్తర ప్రదేశ్, బీహార్ మరియు మహారాష్ట్ర",
+     "తమిళనాడు, కేరళ మరియు ఆంధ్రప్రదేశ్",
+     "అస్సాం, పశ్చిమ బెంగాల్ మరియు ఒడిశా"
+    ],
+    "en": [
+     "Punjab, Haryana and Rajasthan",
+     "Uttar Pradesh, Bihar and Maharashtra",
+     "Tamil Nadu, Kerala and Andhra Pradesh",
+     "Assam, West Bengal and Odisha"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అస్సాం, పశ్చిమ బెంగాల్ మరియు ఒడిశా రాష్ట్రాల్లో సంవత్సరానికి మూడు వరి పంటలు (ఆస్, అమన్ మరియు బోరో) పండుతాయి.",
+    "en": "Assam, West Bengal, and Odisha are the states where three crops of paddy (Aus, Aman, and Boro) are grown annually."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T25-0301",
+   "section": {
+    "te": "Pulses Yield Characteristics",
+    "en": "Pulses Yield Characteristics"
+   },
+   "q": {
+    "te": "నిశ్చయం (A): భారతదేశంలో పప్పుధాన్యాల దిగుబడి తక్కువగా ఉంటుంది మరియు ఏటా మారుతూ ఉంటుంది.\nకారణం (R): పప్పుధాన్యాలు ప్రాథమికంగా మెట్ట ప్రాంతాలలో పండించే వర్షాధార పంటలు.\nఈ క్రింది వాటిలో ఏది సరైనది?",
+    "en": "Assertion (A): The yields of pulses in India are low and fluctuate from year to year.\nReason (R): Pulses are primarily rainfed crops grown in the drylands.\nWhich of the following is correct?"
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పప్పుధాన్యాలు మెట్ట ప్రాంతాల వర్షాధార పంటలు కాబట్టి, వాటి దిగుబడి తక్కువగా మరియు అస్థిరంగా ఉంటుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Because pulses are rainfed crops of drylands, their yields are low and inconsistent."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T25-0251",
+   "section": {
+    "te": "Declining land-use categories",
+    "en": "Declining land-use categories"
+   },
+   "q": {
+    "te": "1950–51 మరియు 2019–20 మధ్య కాలంలో క్రింది భూవినియోగ విభాగాలలో ఏవి తగ్గుముఖం పట్టాయి?",
+    "en": "Which of the following land-use categories registered a decline between 1950–51 and 2019–20?"
+   },
+   "options": {
+    "te": [
+     "సాగుయోగ్యమైన బంజరు భూమి",
+     "బంజరు మరియు వ్యర్థ భూమి",
+     "తోట పంటలు మరియు తోపుల కింద ఉన్న భూమి",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Culturable wasteland",
+     "Barren and wasteland",
+     "Area under tree crops and groves",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "బంజరు మరియు వ్యర్థ భూమి, సాగుయోగ్యమైన బంజరు భూమి, తోట పంటలు/తోపుల కింద ఉన్న భూమి మరియు ఇతర బీడు భూములు ఈ కాలంలో తగ్గుముఖం పట్టాయి.",
+    "en": "The text lists barren and wasteland, culturable wasteland, area under tree crops and groves, and fallow other than current fallow as the four declining categories."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T25-0360",
+   "section": {
+    "te": "Rainfed Land Degradation",
+    "en": "Rainfed Land Degradation"
+   },
+   "q": {
+    "te": "భారతదేశంలోని ఆర్ద్ర మరియు అర్ధ-శుష్క ఉష్ణమండల వర్షాధార ప్రాంతాలలో భూసార క్షీణత ప్రధానంగా దేని ద్వారా జరుగుతుంది?",
+    "en": "Rainfed agricultural areas in humid and semi-arid tropics of India experience land degradation mainly through:"
+   },
+   "options": {
+    "te": [
+     "నీటి ద్వారా నేలకోత",
+     "గాలి ద్వారా నేలకోత",
+     "A మరియు B రెండూ",
+     "నీరు నిల్వ ఉండిపోవడం"
+    ],
+    "en": [
+     "Soil erosion by water",
+     "Wind erosion",
+     "Both A and B",
+     "Waterlogging"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఆర్ద్ర మరియు అర్ధ-శుష్క వర్షాధార ప్రాంతాలలో నీరు మరియు గాలి ద్వారా సంభవించే నేలకోత వల్ల భూసార క్షీణత జరుగుతుంది.",
+    "en": "Rainfed areas in humid and semi-arid tropics experience degradation primarily through soil erosion by water and wind erosion."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T25-0363",
+   "section": {
+    "te": "PMKSY Slogan Alignment",
+    "en": "PMKSY Slogan Alignment"
+   },
+   "q": {
+    "te": "ప్రధానమంత్రి కృషి సించాయి యోజన (PMKSY) కింద ఖచ్చితమైన నీటిపారుదల కల్పించి సాగు విస్తీర్ణాన్ని పెంచే లక్ష్యంతో ముడిపడి ఉన్న నినాదం ఏది?",
+    "en": "Under the Pradhan Mantri Krishi Sinchayee Yojana (PMKSY), which motto is explicitly associated with expanding cultivable area under assured irrigation?"
+   },
+   "options": {
+    "te": [
+     "పరంపరాగత్ కృషి",
+     "సాయిల్ హెల్త్ కార్డ్",
+     "పర్ డ్రాప్ మోర్ క్రాప్",
+     "హర్ ఖేత్ కో పానీ"
+    ],
+    "en": [
+     "Paramparagat Krishi",
+     "Soil health card",
+     "Per drop more crop",
+     "Har khet ko pani"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పొలాలకు నీటి లభ్యతను పెంచడం మరియు నీటిపారుదల కింద విస్తీర్ణాన్ని పెంచే లక్ష్యానికి 'హర్ ఖేత్ కో పానీ' అనే నినాదం సంబంధించింది.",
+    "en": "The objective to enhance physical access of water on the farm and expand cultivable area under assured irrigation is associated with 'Har khet ko pani'."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T25-0085",
+   "section": {
+    "te": "Traditional vs Modern Farming",
+    "en": "Traditional vs Modern Farming"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): సాంప్రదాయ వ్యవసాయ పద్ధతులు తరచుగా ఆధునిక పద్ధతుల కంటే ఎక్కువ స్థితిస్థాపకతను మరియు సుస్థిరతను కలిగి ఉంటాయి.\nకారణం (R): సాంప్రదాయ పద్ధతులు ప్రకృతితో సామరస్యంగా పనిచేస్తాయి.",
+    "en": "Assertion (A): Traditional farming methods are often more resilient and sustainable than modern methods.\nReason (R): Traditional methods work in harmony with Nature."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సాంప్రదాయ పద్ధతులు ప్రకృతి ప్రక్రియలతో సామరస్యంగా పనిచేస్తాయి కాబట్టి అవి సుస్థిరమైనవి మరియు స్థితిస్థాపకత కలిగినవిగా పరిగణించబడతాయి.",
+    "en": "Traditional methods are considered sustainable and resilient specifically because they operate in harmony with natural processes."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T25-0072",
+   "section": {
+    "te": "Green Revolution crops",
+    "en": "Green Revolution crops"
+   },
+   "q": {
+    "te": "హరిత విప్లవం ఏ రెండు ప్రధాన ఆహార ధాన్యాల ఉత్పత్తిలో గణనీయమైన వృద్ధికి దారితీసింది?",
+    "en": "The Green Revolution led to a significant increase in the production of which two primary food grains?"
+   },
+   "options": {
+    "te": [
+     "గోధుమ మరియు వరి",
+     "మొక్కజొన్న మరియు బార్లీ",
+     "జొన్న మరియు బాజ్రా",
+     "చిరుధాన్యాలు మరియు పప్పుధాన్యాలు"
+    ],
+    "en": [
+     "Wheat and Rice",
+     "Maize and Barley",
+     "Jowar and Bajra",
+     "Millets and Pulses"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "హరిత విప్లవం ప్రధానంగా గోధుమ మరియు వరి ఉత్పత్తిని పెంచింది, ఇది భారతదేశం ఆహార స్వయంసమృద్ధిని సాధించడంలో సహాయపడింది.",
+    "en": "The Green Revolution primarily boosted the production of wheat and rice, helping India achieve food self-sufficiency."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T25-0064",
+   "section": {
+    "te": "Ancient seed prep (Cereals)",
+    "en": "Ancient seed prep (Cereals)"
+   },
+   "q": {
+    "te": "అర్థశాస్త్రం ప్రకారం, తృణధాన్యాలు, చిక్కుళ్ళు మరియు పప్పుధాన్యాలను నాటడానికి ముందు ఎలా సిద్ధం చేయాలి?",
+    "en": "According to the Arthaśhāstra, how should cereals, beans, and pulses be prepared before planting?"
+   },
+   "options": {
+    "te": [
+     "తేనె మరియు నెయ్యిలో నానబెట్టాలి",
+     "మంచులో నానబెట్టి, ఆపై ఎండలో ఎండబెట్టాలి",
+     "బీజామృతంతో పూత పూయాలి",
+     "ఆవు పేడను పూయాలి"
+    ],
+    "en": [
+     "Soaked in honey and ghee",
+     "Soaked in dew and then sun-dried",
+     "Coated with beejamrit",
+     "Smeared with cow dung"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఈ విత్తనాలను నాటడానికి ముందు కొన్ని రోజుల పాటు మంచులో నానబెట్టి, ఆపై ఎండలో ఎండబెట్టాలని అర్థశాస్త్రం నిర్దేశిస్తుంది.",
+    "en": "The Arthaśhāstra instructs that these seeds should be soaked in dew for several days and then dried in the sun before planting."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T25-0315",
+   "section": {
+    "te": "Jute Cropped Area",
+    "en": "Jute Cropped Area"
+   },
+   "q": {
+    "te": "కొద్ది రాష్ట్రాల్లో మాత్రమే కేంద్రీకృతమై ఉన్నందున, భారతదేశంలో మొత్తం సాగు విస్తీర్ణంలో జనపనార సుమారు ఎంత శాతాన్ని ఆక్రమించింది?",
+    "en": "Being concentrated in only a few states, jute accounts for approximately what percentage of the total cropped area in India?"
+   },
+   "options": {
+    "te": [
+     "7.5 శాతం",
+     "0.5 శాతం",
+     "4.7 శాతం",
+     "2.5 శాతం"
+    ],
+    "en": [
+     "7.5 per cent",
+     "0.5 per cent",
+     "4.7 per cent",
+     "2.5 per cent"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పశ్చిమ బెంగాల్, బీహార్, అస్సాం వంటి కొన్ని రాష్ట్రాలలో మాత్రమే కేంద్రీకృతమై ఉన్నందున, దేశంలోని మొత్తం సాగు విస్తీర్ణంలో జనపనార కేవలం 0.5 శాతాన్ని మాత్రమే ఆక్రమించింది.",
+    "en": "Jute cultivation is concentrated primarily in eastern states like West Bengal, Bihar, and Assam, accounting for only about 0.5 per cent of the total cropped area."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T25-0305",
+   "section": {
+    "te": "Crop Area Percentages",
+    "en": "Crop Area Percentages"
+   },
+   "q": {
+    "te": "భారతదేశంలోని మొత్తం పంట విస్తీర్ణంలో వాటి సుమారు శాతంతో ఈ క్రింది పంటలను జతపరచండి:\nI. గోధుమ - a. 11%\nII. పప్పుధాన్యాలు - b. 14%\nIII. జొన్న - c. 3.6%\nIV. మొక్కజొన్న - d. 5.3%",
+    "en": "Match the following crops with their approximate percentage of total cropped area in India:\nI. Wheat - a. 11%\nII. Pulses - b. 14%\nIII. Jowar - c. 3.6%\nIV. Maize - d. 5.3%"
+   },
+   "options": {
+    "te": [
+     "I-b, II-a, III-d, IV-c",
+     "I-a, II-b, III-c, IV-d",
+     "I-b, II-d, III-a, IV-c",
+     "I-c, II-a, III-d, IV-b"
+    ],
+    "en": [
+     "I-b, II-a, III-d, IV-c",
+     "I-a, II-b, III-c, IV-d",
+     "I-b, II-d, III-a, IV-c",
+     "I-c, II-a, III-d, IV-b"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం: గోధుమ (14%), పప్పుధాన్యాలు (11%), జొన్న (5.3%), మరియు మొక్కజొన్న (3.6%).",
+    "en": ": Wheat (14%), Pulses (11%), Jowar (5.3%), and Maize (3.6%)."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T25-0263",
+   "section": {
+    "te": "Social Value of Land",
+    "en": "Social Value of Land"
+   },
+   "q": {
+    "te": "గ్రామీణ ప్రాంతాల్లో భూమి యాజమాన్యం యొక్క సామాజిక విలువకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది రుణం మరియు జీవిత ఆకస్మిక పరిస్థితులకు భద్రతగా పనిచేస్తుంది.\n2. ఇది ప్రకృతి వైపరీత్యాల నుండి రక్షణగా పనిచేస్తుంది.\n3. ఇది యజమాని యొక్క సామాజిక హోదాను పెంచుతుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding the social value of land ownership in rural areas:\n1. It serves as security for credit and life contingencies.\n2. It acts as a safeguard against natural hazards.\n3. It contributes to the social status of the owner.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూమి యాజమాన్యం రుణం, ప్రకృతి వైపరీత్యాలు, జీవిత ఆకస్మిక పరిస్థితులకు భద్రతను ఇస్తుందని మరియు సామాజిక హోదాను పెంచుతుందని పాఠ్య భాగం పేర్కొంది.",
+    "en": "Land ownership provides security for credit, natural hazards, life contingencies, and adds to social status."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T25-0133",
+   "section": {
+    "te": "Rabi Success Factors",
+    "en": "Rabi Success Factors"
+   },
+   "q": {
+    "te": "శీతాకాలంలో భారతదేశంలోని ఉత్తర మరియు వాయువ్య ప్రాంతాలలో రబీ పంటల విజయానికి ఏ వాతావరణ దృగ్విషయం దోహదపడుతుంది?",
+    "en": "Which climatic phenomenon contributes to the success of rabi crops in the north and north-western parts of India during winter?"
+   },
+   "options": {
+    "te": [
+     "పశ్చిమ సమశీతోష్ణ చక్రవాతాలు (Western temperate cyclones)",
+     "నైరుతి రుతుపవనాలు",
+     "లూ గాలులు",
+     "ఉష్ణమండల చక్రవాతాలు"
+    ],
+    "en": [
+     "Western temperate cyclones",
+     "South-west monsoon",
+     "Loo winds",
+     "Tropical cyclones"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "శీతాకాలంలో పశ్చిమ సమశీతోష్ణ చక్రవాతాల వల్ల కలిగే వర్షపాతం ఉత్తర భారతదేశంలో గోధుమ వంటి రబీ పంటల విజయానికి కీలకమైన అంశం.",
+    "en": "Precipitation from western temperate cyclones during winter months is a key factor for the success of rabi crops like wheat in North India."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T25-0139",
+   "section": {
+    "te": "Land Holding Issues",
+    "en": "Land Holding Issues"
+   },
+   "q": {
+    "te": "నిశ్చయం (A): భారతదేశంలో భూకమతాల పరిమాణం తరతరాలుగా ఆర్థికంగా గిట్టుబాటు కానిదిగా మారింది.\nకారణం (R): 'వారసత్వ హక్కు' వరుస తరాల మధ్య భూమి నిరంతరం విభజనకు దారితీసింది.",
+    "en": "Assertion (A): Land-holding sizes in India have become uneconomical over generations.\nReason (R): The 'right of inheritance' has led to the continuous division of land among successive generations."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వారసత్వ హక్కు భూమి విభజనకు దారితీస్తుందని, దీనివల్ల కమతాల పరిమాణం గిట్టుబాటు కాకుండా పోతుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The right of inheritance leads to the division of land, making the sizes uneconomical."
+   }
+  }
+ ]
+}

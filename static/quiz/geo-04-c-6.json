@@ -1,0 +1,942 @@
+{
+ "id": "geo-04-c-6",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Landforms – క్విజ్ 6",
+  "en": "Landforms – Quiz 6"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T04-0087",
+   "section": {
+    "te": "Glacial Deposition Till",
+    "en": "Glacial Deposition Till"
+   },
+   "q": {
+    "te": "హిమానీనదాలు తమ వెంట తీసుకువచ్చి మేటవేసే రాళ్ళు, మట్టి మరియు శిథిలాలను (డిబ్రిస్) ఏమని పిలుస్తారు?",
+    "en": "The rocks, soil, and debris carried along and deposited by glaciers to form moraines are called:"
+   },
+   "options": {
+    "te": [
+     "టిల్ (Till)",
+     "ఒండ్రు మట్టి (Alluvium)",
+     "లోయెస్",
+     "వెంటిఫాక్ట్‌లు"
+    ],
+    "en": [
+     "Till",
+     "Alluvium",
+     "Loess",
+     "Ventifacts"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "హిమానీనదం ద్వారా నిక్షేపించబడే రాళ్ళు, నేల మరియు శిథిలాలను 'టిల్' అని పిలుస్తారు.",
+    "en": "The material composed of rocks, soil, and debris deposited by glaciers is called till."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T04-0212",
+   "section": {
+    "te": "Cirque definition",
+    "en": "Cirque definition"
+   },
+   "q": {
+    "te": "తలభాగం మరియు వైపులా నిట్రమైన పుటాకార గోడలతో కూడిన లోతైన, పొడవైన మరియు వెడల్పైన బేసిన్ వంటి హిమానీనద క్రమక్షయ భూస్వరూపం ఏది?",
+    "en": "Which glacial erosional landform is characterized as a deep, long and wide trough or basin with very steep concave to vertically dropping high walls at its head and sides?"
+   },
+   "options": {
+    "te": [
+     "గార్జ్ (Gorge)",
+     "సర్క్ (Cirque)",
+     "డోలైన్ (Doline)",
+     "ఉవాలా (Uvala)"
+    ],
+    "en": [
+     "Gorge",
+     "Cirque",
+     "Doline",
+     "Uvala"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పర్వత శిఖరాల వద్ద నిట్రమైన గోడలతో లోతైన బేసిన్ ఆకారంలో ఉండే హిమానీనద క్రమక్షయ స్వరూపాన్ని 'సర్క్' అంటారు.",
+    "en": "Cirques are deep, long, and wide troughs or basins with steep concave to vertically dropping high walls at their heads and sides."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T04-0291",
+   "section": {
+    "te": "Definition of Stress",
+    "en": "Definition of Stress"
+   },
+   "q": {
+    "te": "భూస్వరూప ప్రక్రియల సందర్భంలో, 'యూనిట్ వైశాల్యానికి ప్రయోగించిన శక్తి'ని ఏమంటారు?",
+    "en": "In the context of geomorphic processes, what is 'force applied per unit area' called?"
+   },
+   "options": {
+    "te": [
+     "సౌరపుటం (Insolation)",
+     "వైకల్యం (Deformation)",
+     "ప్రవణత (Gradient)",
+     "ఒత్తిడి (Stress)"
+    ],
+    "en": [
+     "Insolation",
+     "Deformation",
+     "Gradient",
+     "Stress"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూమిలోని పదార్థాలపై యూనిట్ వైశాల్యానికి ప్రయోగించే శక్తిని ఒత్తిడి (stress) అని పాఠ్యాంశం నిర్వచిస్తుంది.",
+    "en": "The text defines stress as the force applied per unit area on earth materials."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T04-0125",
+   "section": {
+    "te": "Epeirogenic Processes",
+    "en": "Epeirogenic Processes"
+   },
+   "q": {
+    "te": "భూమి పైపెంకు (crust) యొక్క పెద్ద భాగాలను పైకి లేపడం లేదా వంచడం వంటి ప్రక్రియలను ఏమంటారు?",
+    "en": "Which process involves the uplift or warping of large parts of the earth's crust?"
+   },
+   "options": {
+    "te": [
+     "ప్లేట్ టెక్టోనిక్స్",
+     "భూకంపాలు",
+     "ఎపిరోజెనిక్ ప్రక్రియలు",
+     "ఓరోజెనిక్ ప్రక్రియలు"
+    ],
+    "en": [
+     "Plate tectonics",
+     "Earthquakes",
+     "Epeirogenic processes",
+     "Orogenic processes"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూపటలంలోని పెద్ద భాగాలను పైకి లేపడం లేదా వంచడం వంటివి ఎపిరోజెనిక్ ప్రక్రియల కిందకు వస్తాయి.",
+    "en": "Epeirogenic processes are defined by the uplift or warping of large portions of the crust."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T04-0164",
+   "section": {
+    "te": "Tributaries in old age",
+    "en": "Tributaries in old age"
+   },
+   "q": {
+    "te": "నదీ పరివాహక ప్రాంతపు వృద్ధ దశకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. చిన్న ఉపనదులు తక్కువగా ఉండి, స్వల్ప వాలును కలిగి ఉంటాయి.\n2. ప్రకృతి దృశ్యంలో ఎక్కువ భాగం సముద్ర మట్టం వద్ద లేదా దానికి కొద్దిగా పైన ఉంటుంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the old age stage of a running water landscape:\n1. Smaller tributaries are few with gentle gradients.\n2. Most of the landscape is at or slightly above sea level.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రెండు ప్రకటనలు సరైనవే. వృద్ధ దశలో ఉపనదుల సంఖ్య తగ్గి వాలు మందగిస్తుంది మరియు భూభాగం మొత్తం దాదాపు సముద్ర మట్టానికి చేరుకుంటుంది.",
+    "en": "Both statements are correct. In old age, smaller tributaries are few with gentle gradients, and most of the landscape lies at or slightly above sea level."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T04-0286",
+   "section": {
+    "te": "Role of Gravity",
+    "en": "Role of Gravity"
+   },
+   "q": {
+    "te": "భూస్వరూప ప్రక్రియలలో గురుత్వాకర్షణ పాత్రకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. గురుత్వాకర్షణ పదార్థం యొక్క అన్ని దిగువ కదలికలను సక్రియం చేస్తుంది.\n2. పరోక్ష గురుత్వాకర్షణ ఒత్తిళ్లు తరంగ మరియు పోటు ప్రేరిత ప్రవాహాలను సక్రియం చేస్తాయి.\n3. భూమిపై ఉన్న అన్ని ఉపరితల పదార్థాల కదలికను ప్రారంభించే శక్తి గురుత్వాకర్షణ.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding the role of gravity in geomorphic processes:\n1. Gravity activates all downslope movements of matter.\n2. Indirect gravitational stresses activate wave and tide induced currents.\n3. Gravity is the force that switches on the movement of all surface material on earth.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "గురుత్వాకర్షణ దిగువ కదలికలను సక్రియం చేస్తుందని, ఒత్తిడిని కలిగిస్తుందని, పరోక్షంగా తరంగ/పోటు ప్రవాహాలను సక్రియం చేస్తుందని మరియు అన్ని ఉపరితల పదార్థాల కదలికను ప్రారంభించే శక్తి అని పాఠ్యాంశం పేర్కొంది.",
+    "en": "Gravity activates downslope movements, causes stresses, activates wave/tide currents indirectly, and is the force that switches on all surface material movement."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T04-0054",
+   "section": {
+    "te": "Earth Layers",
+    "en": "Earth Layers"
+   },
+   "q": {
+    "te": "శిలావరణం (lithosphere) భూమి యొక్క ఏ పొరలతో నిర్మితమై ఉంటుంది?",
+    "en": "The lithosphere is composed of which of the following layers of the Earth?"
+   },
+   "options": {
+    "te": [
+     "భూపటలం మరియు మొత్తం ప్రావారం",
+     "భూపటలం మరియు ప్రావారం యొక్క పై భాగం",
+     "ప్రావారం మరియు భూకేంద్ర మండలం",
+     "భూపటలం మరియు భూకేంద్ర మండలం"
+    ],
+    "en": [
+     "Crust and the entire mantle",
+     "Crust and the upper part of the mantle",
+     "Mantle and the core",
+     "Crust and the core"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భూపటలం (crust) మరియు ప్రావారం (mantle) యొక్క పై భాగం కలిసి శిలావరణంగా ఏర్పడతాయి.",
+    "en": "The lithosphere is specifically formed by the combination of the Earth's crust and the upper portion of the mantle."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T04-0220",
+   "section": {
+    "te": "Glacial till definition",
+    "en": "Glacial till definition"
+   },
+   "q": {
+    "te": "కరగుతున్న హిమానీనదం ద్వారా నేరుగా నిక్షేపించబడే వర్గీకరించబడని ముతక మరియు సూక్ష్మ శిథిలాలను ఏమని పిలుస్తారు?",
+    "en": "The unassorted coarse and fine debris dropped directly by melting glaciers is called:"
+   },
+   "options": {
+    "te": [
+     "ఒండ్రు మట్టి (Alluvium)",
+     "హిమానీనద టిల్ (Glacial till)",
+     "ఎస్కర్ (Esker)",
+     "అవుట్‌వాష్ నిక్షేపాలు (Outwash deposits)"
+    ],
+    "en": [
+     "Alluvium",
+     "Glacial till",
+     "Esker",
+     "Outwash deposit"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కరగుతున్న హిమానీనదాల ద్వారా పడవేయబడిన క్రమబద్ధీకరించబడని ముతక మరియు సూక్ష్మ శిథిలాలను హిమానీనద టిల్ అని పిలుస్తారు.",
+    "en": "Glacial till is the unassorted coarse and fine debris deposited directly by melting glaciers, with rock fragments being mostly angular to sub-angular."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T04-0034",
+   "section": {
+    "te": "Cold Desert Example",
+    "en": "Cold Desert Example"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఆసియాలోని శీతల ఎడారిగా పేర్కొనబడినది ఏది?",
+    "en": "Which of the following is explicitly mentioned as a cold desert in Asia?"
+   },
+   "options": {
+    "te": [
+     "సహారా ఎడారి",
+     "కలహరి ఎడారి",
+     "థార్ ఎడారి",
+     "గోబీ ఎడారి"
+    ],
+    "en": [
+     "Sahara Desert",
+     "Kalahari Desert",
+     "Thar Desert",
+     "Gobi Desert"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఆసియాలోని గోబీ ఎడారిని శీతల ఎడారికి ఉదాహరణగా పేర్కొన్నారు.",
+    "en": "The Gobi Desert in Asia is identified as an example of a cold desert."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T04-0067",
+   "section": {
+    "te": "Agents of Erosion",
+    "en": "Agents of Erosion"
+   },
+   "q": {
+    "te": "క్రమక్షయానికి (erosion) సంబంధించి సహజ కారకాలుగా ఈ క్రింది వాటిలో ఏవి పేర్కొనబడ్డాయి?\nA. నీరు\nB. గాలి\nC. మంచు (Ice)",
+    "en": "Which of the following are mentioned as natural agents of erosion?\nA. Water\nB. Wind\nC. Ice"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నీరు, గాలి, మంచు మరియు తరంగాలను క్రమక్షయానికి కారణమయ్యే సహజ కారకాలుగా పాఠ్యభాగం స్పష్టంగా పేర్కొంది.",
+    "en": "The text explicitly lists water, wind, ice, and waves as natural agents that carry out erosion."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T04-0021",
+   "section": {
+    "te": "Mount Kailash Religions",
+    "en": "Mount Kailash Religions"
+   },
+   "q": {
+    "te": "టిబెట్‌లోని కైలాస పర్వతాన్ని క్రింది ఏ మతాల అనుయాయులు పవిత్రమైనదిగా భావిస్తారు?\n1. హిందూమతం\n2. బౌద్ధమతం\n3. జైనమతం\n4. బోన్\nక్రింద ఇచ్చిన కోడ్‌ను ఉపయోగించి సరైన సమాధానాన్ని ఎంచుకోండి:",
+    "en": "Mount Kailash in Tibet is held sacred by followers of which of the following religions?\n1. Hinduism\n2. Buddhism\n3. Jainism\n4. Bon\nSelect the correct answer using the code given below:"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "1, 2 మరియు 3 మాత్రమే",
+     "2, 3 మరియు 4 మాత్రమే",
+     "1, 2, 3 మరియు 4"
+    ],
+    "en": [
+     "1 and 2 only",
+     "1, 2 and 3 only",
+     "2, 3 and 4 only",
+     "1, 2, 3 and 4"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "టిబెట్‌లోని కైలాస పర్వతాన్ని హిందూ, బౌద్ధ, జైన మరియు బోన్ (పురాతన టిబెటన్ మతం) మతాల వారు పవిత్రంగా భావిస్తారు.",
+    "en": "Mount Kailash in Tibet is considered sacred by followers of Hinduism, Buddhism, Jainism, and Bon (an ancient Tibetan religion)."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T04-0300",
+   "section": {
+    "te": "Surface Differences",
+    "en": "Surface Differences"
+   },
+   "q": {
+    "te": "భూమి ఉపరితలంపై తేడాలు ఎందుకు కొనసాగుతున్నాయో ఈ క్రింది కారణాలను పరిశీలించండి:\n1. భూమిలోని పదార్థాల రకం మరియు నిర్మాణంలో తేడాలు.\n2. భూస్వరూప ప్రక్రియలలో తేడాలు.\n3. భూస్వరూప ప్రక్రియల నిర్వహణ రేట్లలో తేడాలు.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following reasons why differences on the surface of the earth continue to exist:\n1. Differences in the type and structure of earth materials.\n2. Differences in geomorphic processes.\n3. Differences in the rates of operation of geomorphic processes.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పదార్థాలు, ప్రక్రియలు మరియు వాటి నిర్వహణ రేట్లలో వైవిధ్యాల వల్ల ఉపరితల తేడాలు కొనసాగుతాయని పాఠ్యాంశం పేర్కొంది.",
+    "en": "Surface differences persist due to variations in materials, processes, and their operating rates."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T04-0083",
+   "section": {
+    "te": "Cirques Glacial Landforms",
+    "en": "Cirques Glacial Landforms"
+   },
+   "q": {
+    "te": "హిమానీనదం కోత వల్ల దాని ప్రారంభ భాగంలో (తల భాగంలో) ఏర్పడే గిన్నె ఆకారపు గుంటలను ఏమని పిలుస్తారు?",
+    "en": "Bowl-shaped depressions formed at the head of a glacier by glacial erosion are known as:"
+   },
+   "options": {
+    "te": [
+     "ఫ్యోర్డ్‌లు (Fjords)",
+     "మొరైన్‌లు (Moraines)",
+     "అరెట్‌లు (Aretes)",
+     "సర్క్‌లు (Cirques)"
+    ],
+    "en": [
+     "Fjords",
+     "Moraines",
+     "Aretes",
+     "Cirques"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "హిమానీనదం ప్రారంభ భాగంలో కోత చర్య వలన ఏర్పడే గిన్నె ఆకారపు పల్లపు ప్రాంతాలను సర్క్‌లు అంటారు.",
+    "en": "Cirques are bowl-shaped depressions formed at the head of a glacier through glacial erosion."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T04-0257",
+   "section": {
+    "te": "Inselberg definition",
+    "en": "Inselberg definition"
+   },
+   "q": {
+    "te": "పెడిమెంట్స్ వెనుకకు విస్తరించడం వల్ల పర్వతం గణనీయంగా తగ్గిన తర్వాత మిగిలి ఉన్న పర్వత అవశేషాన్ని ఏమంటారు?",
+    "en": "What is the remnant of a mountain called after it has been significantly reduced by the backward extension of pediments?"
+   },
+   "options": {
+    "te": [
+     "ఇన్సెల్ బర్గ్ (Inselberg)",
+     "మష్రూమ్ రాక్",
+     "టేబుల్ రాక్",
+     "డీఫ్లేషన్ హాలో"
+    ],
+    "en": [
+     "Inselberg",
+     "Mushroom rock",
+     "Table rock",
+     "Deflation hollow"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పెడిమెంట్స్ వెనుకకు విస్తరించి పర్వతం తగ్గుతున్నప్పుడు, మిగిలి ఉన్న పర్వత భాగాన్ని ఇన్సెల్ బర్గ్ అని పిలుస్తారు.",
+    "en": "As pediments extend backwards and the mountain is reduced, the remaining part of the mountain is called an inselberg."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T04-0292",
+   "section": {
+    "te": "Volcanism Definition",
+    "en": "Volcanism Definition"
+   },
+   "q": {
+    "te": "అగ్నిపర్వత ప్రక్రియ (Volcanism) ఈ క్రింది ఏ ప్రక్రియలను కలిగి ఉంటుంది?",
+    "en": "Volcanism includes which of the following processes?"
+   },
+   "options": {
+    "te": [
+     "భూమి ఉపరితలంపైకి లేదా వైపుకు మాగ్మా కదలిక",
+     "అంతర్గత మరియు బాహ్య అగ్నిపర్వత రూపాల ఏర్పాటు",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Movement of magma onto or toward the earth's surface",
+     "Formation of intrusive and extrusive volcanic forms",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అగ్నిపర్వత ప్రక్రియలో మాగ్మా ఉపరితలం వైపు కదలడం మరియు అంతర్గత, బాహ్య అగ్నిపర్వత భూస్వరూపాల సృష్టి రెండూ ఉంటాయి.",
+    "en": "Volcanism encompasses both the movement of magma toward the surface and the creation of intrusive and extrusive volcanic landforms."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T04-0139",
+   "section": {
+    "te": "Mass movements cause",
+    "en": "Mass movements cause"
+   },
+   "q": {
+    "te": "ద్రవ్యరాశి కదలికలు (Mass movements) శిలా వ్యర్థాలను వాలుల వెంబడి క్రిందికి వేటి ప్రత్యక్ష ప్రభావం ద్వారా తరలిస్తాయి?",
+    "en": "Mass movements transfer the mass of rock debris down the slopes under the direct influence of:"
+   },
+   "options": {
+    "te": [
+     "గాలి వేగం",
+     "ఆటుపోట్ల శక్తి (Tidal force)",
+     "గురుత్వాకర్షణ",
+     "ప్రవహించే నీరు"
+    ],
+    "en": [
+     "Wind velocity",
+     "Tidal force",
+     "Gravity",
+     "Running water"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ద్రవ్యరాశి కదలికలు గురుత్వాకర్షణ యొక్క ప్రత్యక్ష ప్రభావం కింద శిలా శకలాలను వాలుల వెంబడి క్రిందికి జరుపుతాయి.",
+    "en": "Mass movements transfer rock debris down slopes under the direct influence of gravity."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T04-0249",
+   "section": {
+    "te": "Wind Impact",
+    "en": "Wind Impact"
+   },
+   "q": {
+    "te": "ఇసుక రాళ్ళ ఉపరితలంపై బలంగా ఢీకొన్నప్పుడు ఏర్పడే ద్రవ్యవేగ శక్తిని (శాండ్‌-బ్లాస్టింగ్ వంటి ప్రక్రియను) ఏమంటారు?",
+    "en": "Which wind process is defined as the sheer force of momentum that occurs when sand is blown into or against a rock surface, acting similar to a sand-blasting operation?"
+   },
+   "options": {
+    "te": [
+     "కార్బొనేషన్",
+     "ప్లకింగ్",
+     "ఇంపాక్ట్ (తాకిడి శక్తి)",
+     "ద్రావణం (సొల్యూషన్)"
+    ],
+    "en": [
+     "Carbonation",
+     "Plucking",
+     "Impact",
+     "Solution"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "గాలి ద్వారా కొట్టుకొచ్చిన ఇసుక రాతి ఉపరితలాన్ని బలంగా తాకినప్పుడు ఏర్పడే మొమెంటం శక్తిని 'ఇంపాక్ట్' అని పిలుస్తారు.",
+    "en": "Impact is defined as the sheer force of momentum occurring when sand is blown into or against a rock surface, similar to sand-blasting."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T04-0060",
+   "section": {
+    "te": "Plate Boundaries",
+    "en": "Plate Boundaries"
+   },
+   "q": {
+    "te": "ఏ రకమైన ఫలక సరిహద్దు వద్ద భూపటలం సృష్టించబడదు లేదా నాశనం చేయబడదు?",
+    "en": "At which type of plate boundary is crust neither created nor destroyed?"
+   },
+   "options": {
+    "te": [
+     "అభిసరణ సరిహద్దు",
+     "సబ్డక్షన్ సరిహద్దు",
+     "రూపాంతర సరిహద్దు (Transform boundary)",
+     "అపసరణ సరిహద్దు"
+    ],
+    "en": [
+     "Convergent boundary",
+     "Subduction boundary",
+     "Transform boundary",
+     "Divergent boundary"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రూపాంతర సరిహద్దులో, ఫలకలు ఒకదానికొకటి క్షితిజ సమాంతరంగా జరుగుతాయి, దీనివల్ల భూపటలం సృష్టించబడదు లేదా నాశనం చేయబడదు.",
+    "en": "In a transform boundary, plates slide past each other horizontally, resulting in no creation or destruction of the Earth's crust."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T04-0246",
+   "section": {
+    "te": "Wave-cut Terrace",
+    "en": "Wave-cut Terrace"
+   },
+   "q": {
+    "te": "సముద్రపు క్లిఫ్ అడుగుభాగంలో రాతి శకలాలతో కప్పబడి, సగటు అలల ఎత్తు కంటే ఎక్కువ ఎత్తులో ఉండే చదునైన లేదా కొద్దిపాటి వాలుగల వేదికను ఏమని పిలుస్తారు?",
+    "en": "A flat or gently sloping platform covered by rock debris derived from the sea cliff behind, occurring at elevations above the average height of waves, is called a:"
+   },
+   "options": {
+    "te": [
+     "డ్రమ్‌లిన్",
+     "తరంగ కోత వేదిక (వేవ్‌కట్ టెర్రస్)",
+     "అవుట్‌వాష్ మైదానం",
+     "పెడిప్లెయిన్"
+    ],
+    "en": [
+     "Drumlin",
+     "Wave-cut terrace",
+     "Outwash plain",
+     "Pediplain"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అలల సగటు ఎత్తుకంటే ఎక్కువ ఎత్తులో, క్లిఫ్ నుండి రాలిన రాతి శిథిలాలతో కూడిన చదునైన వేదికను 'తరంగ కోత వేదిక' (వేవ్‌కట్ టెర్రస్) అంటారు.",
+    "en": "A wave-cut terrace is a platform occurring at the foot of sea cliffs at elevations above the average wave height, covered by rock debris from the cliff."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T04-0182",
+   "section": {
+    "te": "Middle stage valley erosion",
+    "en": "Middle stage valley erosion"
+   },
+   "q": {
+    "te": "ప్రవహించే నీటి ద్వారా లోయల అభివృద్ధి యొక్క మధ్య దశలో (middle stages) ఏమి జరుగుతుంది?",
+    "en": "In the middle stages of valley development by running water:"
+   },
+   "options": {
+    "te": [
+     "నిలువు కోత విపరీతంగా పెరిగి జలపాతాలు ఏర్పడతాయి",
+     "నదులు తమ లోయ అడుగుభాగాన్ని నెమ్మదిగా కోస్తాయి, మరియు లోయ పార్శ్వాల కోత తీవ్రమవుతుంది",
+     "జలవిభాజకాలు పూర్తిగా సముద్ర మట్టానికి చదును చేయబడతాయి",
+     "లోయలు చిన్న మరియు ఇరుకైన గీతలుగా (rills) మాత్రమే ఏర్పడతాయి"
+    ],
+    "en": [
+     "Down-cutting accelerates and waterfalls form",
+     "Streams cut their beds slower, and lateral erosion of valley sides becomes severe",
+     "Stream divides are completely flattened to sea level",
+     "Valleys develop as small and narrow rills only"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మధ్య దశలో ప్రవాహాలు తమ లోయ అడుగుతలాన్ని నెమ్మదిగా కోస్తాయి, అయితే లోయల వైపులా జరిగే పార్శ్వ క్రమక్షయం (lateral erosion) తీవ్రమవుతుంది.",
+    "en": "In the middle stage, vertical bed erosion slows down and lateral erosion of valley sides becomes severe, widening the valley."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T04-0013",
+   "section": {
+    "te": "Arunima Sinha",
+    "en": "Arunima Sinha"
+   },
+   "q": {
+    "te": "అరుణిమ సిన్హా గురించి ఈ క్రింది ప్రకటనలలో ఏది/వి సరైనవి?\n1. ఆమె 2013లో మౌంట్ ఎవరెస్ట్ అధిరోహించారు.\n2. ఆమె ప్రతి ఖండంలోని అత్యంత ఎత్తైన శిఖరాన్ని అధిరోహించారు.\n3. ఆమె అంటార్కిటికాలోని మౌంట్ విన్సన్‌ను అధిరోహించారు.",
+    "en": "Which of the following statements about Arunima Sinha is/are correct?\n1. She climbed Mount Everest in 2013.\n2. She climbed the highest peak of every continent.\n3. She climbed Mount Vinson in Antarctica."
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 only",
+     "1 and 2 only",
+     "2 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అరుణిమ సిన్హా 2013లో ఎవరెస్ట్‌ను అధిరోహించారు మరియు మౌంట్ విన్సన్‌తో సహా ప్రతి ఖండంలోని ఎత్తైన శిఖరాలను అధిరోహించారు.",
+    "en": "Arunima Sinha climbed Everest in 2013 and subsequently climbed the highest peak of every continent, including Mount Vinson."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T04-0068",
+   "section": {
+    "te": "Plate Collisions",
+    "en": "Plate Collisions"
+   },
+   "q": {
+    "te": "అభిసరణ సరిహద్దు వద్ద ఒక సముద్ర ఫలక (oceanic plate) మరియు ఒక ఖండ ఫలక (continental plate) ఢీకొన్నప్పుడు ఏమి జరుగుతుంది?",
+    "en": "What happens when an oceanic plate collides with a continental plate at a convergent boundary?"
+   },
+   "options": {
+    "te": [
+     "ఖండ ఫలక సముద్ర ఫలక క్రిందకు మునుగుతుంది.",
+     "సముద్ర ఫలక ఖండ ఫలక క్రిందకు మునుగుతుంది.",
+     "రెండు ఫలకలు పైకి లేచి ముడత పర్వతాలను ఏర్పరుస్తాయి.",
+     "ఫలకల మధ్య కొత్త భూపటలం సృష్టించబడుతుంది."
+    ],
+    "en": [
+     "The continental plate sinks beneath the oceanic plate.",
+     "The oceanic plate sinks beneath the continental plate.",
+     "Both plates rise to form fold mountains.",
+     "New crust is created between the plates."
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, సముద్ర మరియు ఖండ ఫలకల మధ్య ఘర్షణ జరిగినప్పుడు, సముద్ర ఫలక ఖండ ఫలక క్రిందకు మునుగుతుంది.",
+    "en": "In a collision between an oceanic and a continental plate, the oceanic plate sinks beneath the continental plate."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T04-0167",
+   "section": {
+    "te": "Monadnocks",
+    "en": "Monadnocks"
+   },
+   "q": {
+    "te": "నదీ ప్రవాహ క్రమక్షయం వల్ల ఏర్పడిన పెనెప్లెయిన్‌లో, అక్కడక్కడా నిలబడి ఉండే క్రమక్షయ నిరోధక అవశిష్ట భాగాలను ఏమని పిలుస్తారు?",
+    "en": "In a peneplain formed by stream erosion, the isolated, low resistant remnants standing out here and there are called:"
+   },
+   "options": {
+    "te": [
+     "ఎస్కర్లు",
+     "మొరైన్లు",
+     "మొనాడ్నాక్స్ (Monadnocks)",
+     "డ్రమ్‌లిన్లు"
+    ],
+    "en": [
+     "Eskers",
+     "Moraines",
+     "Monadnocks",
+     "Drumlins"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పెనెప్లెయిన్ మైదానంలో క్రమక్షయాన్ని తట్టుకుని అక్కడక్కడా అవశేషాలుగా మిగిలి ఉన్న ఎత్తైన భాగాలను మొనాడ్నాక్స్ అంటారు.",
+    "en": "During peneplain development, resistant rock remnants that remain standing out on the flattened lowland are known as monadnocks."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T04-0254",
+   "section": {
+    "te": "Pediments definition",
+    "en": "Pediments definition"
+   },
+   "q": {
+    "te": "ఎడారి ప్రాంతాలలో పర్వతాల పాదాల వద్ద కనిపించే స్వల్పంగా వంగి ఉన్న రాతి నేలలను ఏమంటారు?",
+    "en": "What are the gently inclined rocky floors found at the foot of mountains in desert regions called?"
+   },
+   "options": {
+    "te": [
+     "పెడిమెంట్స్",
+     "ప్లాయాస్",
+     "ఇన్సెల్ బర్గ్స్",
+     "పెడిప్లెయిన్స్"
+    ],
+    "en": [
+     "Pediments",
+     "Playas",
+     "Inselbergs",
+     "Pediplains"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, పర్వతాల పాదాల వద్ద స్వల్పంగా వంగి ఉన్న రాతి నేలలను పెడిమెంట్స్ అంటారు. వీటిపై పలుచని శిథిలాల పొర ఉండవచ్చు లేదా ఉండకపోవచ్చు.",
+    "en": "Pediments are gently inclined rocky floors located close to the foot of mountains, which may or may not have a thin layer of debris."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T04-0141",
+   "section": {
+    "te": "Ore enrichment",
+    "en": "Ore enrichment"
+   },
+   "q": {
+    "te": "శిలలు మరియు నిక్షేపాల శైథిల్యం క్రింది ఏ లోహాల విలువైన ఖనిజాల సాంద్రీకరణకు (enrichment) సహాయపడుతుంది?",
+    "en": "Weathering of rocks and deposits aids in the enrichment and concentration of valuable ores of which of the following metals?"
+   },
+   "options": {
+    "te": [
+     "ఇనుము మరియు మాంగనీస్",
+     "అల్యూమినియం మరియు రాగి",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Iron and Manganese",
+     "Aluminium and Copper",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "శైథిల్యం ఇనుము, మాంగనీస్, అల్యూమినియం మరియు రాగి వంటి విలువైన ఖనిజాల సాంద్రీకరణకు సహాయపడుతుందని పేర్కొనబడింది.",
+    "en": "Weathering helps in the enrichment and concentration of valuable ores of iron, manganese, aluminium, and copper."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T04-0082",
+   "section": {
+    "te": "River middle course",
+    "en": "River middle course"
+   },
+   "q": {
+    "te": "నది యొక్క మధ్య భాగం (middle course) కు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. నది తన శక్తిని కోల్పోవడంతో మెలికలు తిరగడం (meander) ప్రారంభిస్తుంది.\n2. ఈ భాగంలో ఆక్స్‌బౌ సరస్సులు (oxbow lakes) మరియు వరద మైదానాలు ఏర్పడతాయి.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the middle course of a river:\n1. The river begins to meander as it loses energy.\n2. Oxbow lakes and floodplains are formed in this course.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ కావు",
+     "1 మరియు 2 రెండూ"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Neither 1 nor 2",
+     "Both 1 and 2"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మధ్య భాగంలో నది శక్తిని కోల్పోయి మెలికలు తిరుగుతుంది, మరియు అవక్షేపాలను నిక్షిప్తం చేయడం ప్రారంభించి ఆక్స్‌బౌ సరస్సులు మరియు వరద మైదానాలను ఏర్పరుస్తుంది.",
+    "en": "In its middle course, a river loses kinetic energy, starts to meander, and creates features such as oxbow lakes and floodplains."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T04-0251",
+   "section": {
+    "te": "Desert Mass Erosion",
+    "en": "Desert Mass Erosion"
+   },
+   "q": {
+    "te": "ఎడారి ప్రాంతాలలో గాలి సూక్ష్మ పదార్థాలను తరలించగా, సాధారణ ద్రవ్యరాశి క్రమక్షయం (mass erosion) ప్రధానంగా వేటి ద్వారా జరుగుతుంది?",
+    "en": "In desert regions, while wind moves fine materials, general mass erosion is accomplished mainly through:"
+   },
+   "options": {
+    "te": [
+     "షీట్ ఫ్లడ్స్ (పొర వరదలు)",
+     "షీట్ వాష్ (ఉపరితల ప్రవాహం)",
+     "A మరియు B రెండూ",
+     "లోతైన భూగర్భ నీటి మార్గాలు"
+    ],
+    "en": [
+     "Sheet floods",
+     "Sheet wash",
+     "Both A and B",
+     "Deep underground water channels"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఎడారులలో గాలి సూక్ష్మ కణాలను మోసుకెళ్తుంది, అయితే మొత్తం భారీ క్రమక్షయం ప్రధానంగా షీట్ ఫ్లడ్స్ లేదా షీట్ వాష్ ద్వారా జరుగుతుంది.",
+    "en": "Wind moves fine materials and general mass erosion in deserts is accomplished mainly through sheet floods or sheet wash."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T04-0024",
+   "section": {
+    "te": "Tibetan Plateau Features",
+    "en": "Tibetan Plateau Features"
+   },
+   "q": {
+    "te": "టిబెట్ పీఠభూమికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. దీని సగటు ఎత్తు 4,500 మీటర్లు.\n2. దీనిని 'ప్రపంచ పైకప్పు' (Roof of the World) అని పిలుస్తారు.\n3. తూర్పు నుండి పడమరకు ఇది దాదాపు 2,500 కి.మీ పొడవు కలిగి ఉంది.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding the Tibetan Plateau:\n1. It has an average altitude of 4,500 m.\n2. It has been nicknamed the 'Roof of the World'.\n3. From east to west, it is nearly 2,500 km long.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పై మూడు ప్రకటనలు సరైనవే: టిబెట్ పీఠభూమి సగటు ఎత్తు 4,500 మీటర్లు, దీనిని 'ప్రపంచ పైకప్పు' అంటారు మరియు తూర్పు-పడమరల మధ్య దీని పొడవు దాదాపు 2,500 కి.మీ.",
+    "en": "All three statements are correct: the Tibetan Plateau has an average altitude of 4,500 m, is nicknamed the 'Roof of the World', and is nearly 2,500 km long from east to west."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T04-0170",
+   "section": {
+    "te": "Canyon slope features",
+    "en": "Canyon slope features"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఏ లోయ నిటారైన, మెట్ల వంటి పార్శ్వ వాలులను (step-like side slopes) ప్రత్యేక లక్షణంగా కలిగి ఉంటుంది?",
+    "en": "Which type of valley is specifically characterised by steep, step-like side slopes?"
+   },
+   "options": {
+    "te": [
+     "కాన్యన్ (Canyon)",
+     "గార్జ్ (Gorge)",
+     "అంధ లోయ (Blind valley)",
+     "V-ఆకారపు లోయ"
+    ],
+    "en": [
+     "Canyon",
+     "Gorge",
+     "Blind valley",
+     "V-shaped valley"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "కాన్యన్ నిటారైన మెట్ల వంటి పార్శ్వ వాలులతో కూడి ఉంటుంది మరియు గార్జ్ అంత లోతుగా కూడా ఉండవచ్చు.",
+    "en": "A canyon is characterised by steep step-like side slopes and may be as deep as a gorge."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T04-0283",
+   "section": {
+    "te": "Rural settlement forms",
+    "en": "Rural settlement forms"
+   },
+   "q": {
+    "te": "టోపోగ్రాఫికల్ మ్యాప్‌లో క్రింది వాటిలో ఏ రకమైన స్థావరాలను గ్రామీణ స్థావరాలుగా గుర్తించవచ్చు?",
+    "en": "Which of the following settlement patterns can be identified as rural settlements on a topographical map?"
+   },
+   "options": {
+    "te": [
+     "కాంపాక్ట్ (Compact)",
+     "స్కాటర్డ్ (Scattered)",
+     "లీనియర్ (Linear)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Compact",
+     "Scattered",
+     "Linear",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మ్యాప్‌లో కాంపాక్ట్, స్కాటర్డ్, లీనియర్ మరియు సర్క్యులర్ అనే నాలుగు రకాల గ్రామీణ స్థావరాలను గుర్తించవచ్చని పాఠ్యం పేర్కొంది.",
+    "en": "Four types of rural settlements may be identified on the map: Compact, Scattered, Linear, and Circular."
+   }
+  }
+ ]
+}

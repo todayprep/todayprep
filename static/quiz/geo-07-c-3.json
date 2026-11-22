@@ -1,0 +1,942 @@
+{
+ "id": "geo-07-c-3",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Climate Elements – క్విజ్ 3",
+  "en": "Climate Elements – Quiz 3"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T07-0168",
+   "section": {
+    "te": "Ferrel Cell Winds",
+    "en": "Ferrel Cell Winds"
+   },
+   "q": {
+    "te": "మధ్య అక్షాంశాలలో, ఫెర్రల్ సెల్‌తో సంబంధం ఉన్న ఉపరితల పవనాలను ఏమని పిలుస్తారు?",
+    "en": "In the middle latitudes, what are the surface winds associated with the Ferrel cell called?"
+   },
+   "options": {
+    "te": [
+     "పశ్చిమ పవనాలు (Westerlies)",
+     "ధ్రువ పవనాలు (Polar Winds)",
+     "వ్యాపార పవనాలు (Trade Winds)",
+     "తూర్పు పవనాలు (Easterlies)"
+    ],
+    "en": [
+     "Westerlies",
+     "Polar Winds",
+     "Trade Winds",
+     "Easterlies"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మధ్య అక్షాంశాలలో, ఉపఉష్ణమండల అధిక పీడనం నుండి వీచే ఉపరితల పవనాలను పశ్చిమ పవనాలు (westerlies) అని పిలుస్తారు, ఇవి ఫెర్రల్ సెల్‌లో భాగంగా ఉంటాయి.",
+    "en": "In the middle latitudes, the surface winds that blow from the subtropical high are known as the westerlies, forming part of the Ferrel cell."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T07-0109",
+   "section": {
+    "te": "Heat Redistribution",
+    "en": "Heat Redistribution"
+   },
+   "q": {
+    "te": "నికర వికిరణం మిగులు ఉన్నప్పటికీ, ఉష్ణమండల ప్రాంతాలు (tropics) క్రమంగా ఎందుకు వేడెక్కవు?",
+    "en": "Why do the tropics NOT get progressively heated up despite having a surplus of net radiation?"
+   },
+   "options": {
+    "te": [
+     "అవి అదనపు వేడిని అంతరిక్షంలోకి ప్రతిబింబిస్తాయి కాబట్టి",
+     "అవి సముద్రాలతో ఆవరించి ఉండటం వల్ల",
+     "ఉష్ణమండల ప్రాంతాల అధిక ఎత్తు వల్ల",
+     "మిగులు ఉష్ణం ధృవాల వైపు పునఃపంపిణీ చేయబడుతుంది కాబట్టి"
+    ],
+    "en": [
+     "Because they reflect all excess heat back to space",
+     "Because they are covered by oceans",
+     "Because of the high altitude of tropical regions",
+     "Because surplus heat is redistributed polewards"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఉష్ణమండలాల నుండి మిగులు ఉష్ణం ధృవాల వైపు పునఃపంపిణీ చేయబడుతుంది, ఇది ఉష్ణమండలాలు అతిగా వేడెక్కకుండా నిరోధిస్తుంది.",
+    "en": "The surplus heat from the tropics is redistributed towards the poles, preventing the tropics from overheating."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T07-0191",
+   "section": {
+    "te": "Sleet Definition",
+    "en": "Sleet Definition"
+   },
+   "q": {
+    "te": "అవపాతం (precipitation) సందర్భంలో 'స్లీట్' (Sleet - వడగళ్ళు వంటివి) అంటే ఏమిటి?",
+    "en": "What is 'sleet' as defined in the context of precipitation?"
+   },
+   "options": {
+    "te": [
+     "మంచు యొక్క షట్కోణ స్ఫటికాలు",
+     "గడ్డకట్టిన వర్షపు చుక్కలు మరియు తిరిగి గడ్డకట్టిన కరిగిన మంచు నీరు",
+     "ఏకకేంద్ర పొరలతో కూడిన పెద్ద గుండ్రని ఘన మంచు ముక్కలు",
+     "ఉష్ణోగ్రత 10°C కంటే ఎక్కువగా ఉన్నప్పుడు పడే ద్రవ నీరు"
+    ],
+    "en": [
+     "Hexagonal crystals of ice",
+     "Frozen raindrops and refrozen melted snow-water",
+     "Large rounded solid pieces of ice with concentric layers",
+     "Liquid water falling when temperature is above 10°C"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "స్లీట్ అనేది గడ్డకట్టిన వర్షపు చుక్కలు లేదా తిరిగి గడ్డకట్టిన కరిగిన మంచు నీరు, ఇది చిన్న మంచు గుళికలుగా భూమిని చేరుతుంది.",
+    "en": "Sleet is specifically defined as frozen raindrops or refrozen melted snow-water that reaches the ground as small pellets of ice."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T07-0026",
+   "section": {
+    "te": "Wind Movement",
+    "en": "Wind Movement"
+   },
+   "q": {
+    "te": "గాలి (Wind) అనేది దేని కదలికగా నిర్వచించబడింది?",
+    "en": "Wind is defined as the movement of air from:"
+   },
+   "options": {
+    "te": [
+     "అల్పపీడన ప్రాంతాల నుండి అధిక పీడన ప్రాంతాలకు",
+     "అధిక పీడన ప్రాంతాల నుండి అల్పపీడన ప్రాంతాలకు",
+     "సముద్ర తీరం నుండి పర్వతాలకు మాత్రమే",
+     "వెచ్చని ప్రాంతాల నుండి చల్లని ప్రాంతాలకు మాత్రమే"
+    ],
+    "en": [
+     "Areas of low pressure to areas of high pressure",
+     "Areas of high pressure to areas of low pressure",
+     "Sea coast to mountains only",
+     "Warm areas to cool areas only"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "గాలి అనేది ప్రత్యేకంగా అధిక పీడన ప్రాంతాల నుండి అల్పపీడన ప్రాంతాలకు గాలి కదలడం.",
+    "en": "Wind is the movement of air specifically from high-pressure areas to low-pressure areas."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T07-0209",
+   "section": {
+    "te": "Latitudinal rainfall trend",
+    "en": "Latitudinal rainfall trend"
+   },
+   "q": {
+    "te": "సాధారణంగా, భూమధ్యరేఖ నుండి ధృవాల వైపు వెళ్లే కొద్దీ వార్షిక వర్షపాత పరిమాణం ఎలా మారుతుంది?",
+    "en": "In general, how does the amount of annual rainfall change as one proceeds from the equator towards the poles?"
+   },
+   "options": {
+    "te": [
+     "స్థిరంగా పెరుగుతుంది",
+     "స్థిరంగా తగ్గుతుంది",
+     "స్థిరంగా ఉంటుంది",
+     "మొదట పెరిగి తర్వాత తగ్గుతుంది"
+    ],
+    "en": [
+     "It increases steadily",
+     "It decreases steadily",
+     "It remains constant",
+     "It first increases and then decreases"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భూమధ్యరేఖ ప్రాంతాల నుండి ధృవ ప్రాంతాల వైపు వెళ్లే కొద్దీ వర్షపాతం సాధారణంగా స్థిరంగా తగ్గుతుందని మూలం పేర్కొంది.",
+    "en": "Rainfall generally decreases steadily as we move from the equatorial regions toward the polar regions."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T07-0117",
+   "section": {
+    "te": "Total Atmospheric Absorption",
+    "en": "Total Atmospheric Absorption"
+   },
+   "q": {
+    "te": "సౌర వికిరణం మరియు భూ వికిరణం రెండింటి నుండి వాతావరణం గ్రహించిన మొత్తం యూనిట్ల సంఖ్య ఎంత?",
+    "en": "What is the total number of units absorbed by the atmosphere from both insolation and terrestrial radiation?"
+   },
+   "options": {
+    "te": [
+     "65 యూనిట్లు",
+     "34 యూనిట్లు",
+     "14 యూనిట్లు",
+     "48 యూనిట్లు"
+    ],
+    "en": [
+     "65 units",
+     "34 units",
+     "14 units",
+     "48 units"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వాతావరణం వచ్చే సౌర వికిరణం నుండి 14 యూనిట్లను మరియు వెళ్ళే భూ వికిరణం నుండి 34 యూనిట్లను గ్రహిస్తుంది, మొత్తం 48 యూనిట్లు.",
+    "en": "The atmosphere absorbs 14 units from incoming solar radiation and 34 units from outgoing terrestrial radiation, totaling 48 units."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T07-0097",
+   "section": {
+    "te": "Local Winds - Loo",
+    "en": "Local Winds - Loo"
+   },
+   "q": {
+    "te": "ఉత్తర భారతదేశంలో 'లూ' అని పిలువబడే స్థానిక వేసవి గాలులు ఏ వాతావరణ ప్రక్రియ ఫలితంగా ఏర్పడతాయి?",
+    "en": "The local summer wind in northern India known as 'loo' is a result of which atmospheric process?"
+   },
+   "options": {
+    "te": [
+     "అభివహనం (Advection)",
+     "సంవహనం (Convection)",
+     "భూ వికిరణం",
+     "వాహనం (Conduction)"
+    ],
+    "en": [
+     "Advection",
+     "Convection",
+     "Terrestrial radiation",
+     "Conduction"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వేసవిలో ఉత్తర భారతదేశంలోని 'లూ' గాలులు గాలి యొక్క క్షితిజ సమాంతర కదలిక వల్ల ఏర్పడతాయి, దీనినే అభివహన ప్రక్రియ అంటారు.",
+    "en": "The 'loo' winds in northern India during summer are caused by the horizontal movement of air, which is the process of advection."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T07-0088",
+   "section": {
+    "te": "Insolation Variation Factors",
+    "en": "Insolation Variation Factors"
+   },
+   "q": {
+    "te": "సూర్యపుటం యొక్క పరిమాణం మరియు తీవ్రతలో మార్పులకు ఈ క్రింది వాటిలో ఏ అంశాలు కారణమవుతాయి?",
+    "en": "Which of the following factors cause variations in the amount and intensity of insolation?"
+   },
+   "options": {
+    "te": [
+     "భూమి తన అక్షం మీద తిరగడం",
+     "సూర్యకిరణాల వాలు కోణం",
+     "పగటి కాలం నిడివి",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Rotation of earth on its axis",
+     "Angle of inclination of the sun's rays",
+     "Length of the day",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్య భాగం ప్రకారం, భూమి భ్రమణం, సూర్యకిరణాల కోణం మరియు పగటి నిడివి అన్నీ సూర్యపుటంలో మార్పులకు కారణమయ్యే ప్రాథమిక అంశాలు.",
+    "en": "The rotation of the earth, the angle of sun's rays, and the length of the day are all primary factors causing variations in insolation."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T07-0029",
+   "section": {
+    "te": "High Altitude Symptoms",
+    "en": "High Altitude Symptoms"
+   },
+   "q": {
+    "te": "నిశ్చయం (A): ఎత్తైన ప్రాంతాలలో ప్రజలు తరచుగా శ్వాస తీసుకోవడంలో ఇబ్బంది లేదా తల తిరగడం వంటివి అనుభవిస్తారు.\nకారణం (R): ఎత్తైన ప్రాంతాలలో, గాలి పీడనం తక్కువగా ఉంటుంది మరియు ఊపిరితిత్తులకు తక్కువ ఆక్సిజన్ అందుబాటులో ఉంటుంది.",
+    "en": "Assertion (A): People often feel breathless or dizzy at high altitudes.\nReason (R): At high altitudes, the air pressure is lower and there is less oxygen available for the lungs."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఎత్తైన ప్రాంతాలలో తక్కువ వాతావరణ పీడనం వల్ల గాలి పలచబడి ఆక్సిజన్ తగ్గుతుంది, దీనివల్ల శ్వాస ఆడకపోవడం మరియు తల తిరగడం సంభవిస్తాయి.",
+    "en": "The lower atmospheric pressure at high altitudes results in thinner air and less oxygen, causing breathlessness and dizziness."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T07-0132",
+   "section": {
+    "te": "Temperature Calculation",
+    "en": "Temperature Calculation"
+   },
+   "q": {
+    "te": "న్యూఢిల్లీ ప్రాజెక్ట్ ఉదాహరణ ఆధారంగా, 'వార్షిక ఉష్ణోగ్రత వ్యత్యాసం' (Annual range of temperature) ఎలా లెక్కించబడుతుంది?",
+    "en": "Based on the project example for New Delhi, how is the 'Annual range of temperature' calculated?"
+   },
+   "options": {
+    "te": [
+     "అత్యంత వేడిగా మరియు అత్యంత చల్లగా ఉండే నెలల రోజువారీ సగటు నెలవారీ ఉష్ణోగ్రతల మధ్య వ్యత్యాసం",
+     "జనవరి నెల సగటు గరిష్ట మరియు సగటు కనిష్ట ఉష్ణోగ్రతల మధ్య వ్యత్యాసం",
+     "సంవత్సరంలో నమోదైన అత్యధిక మరియు అత్యల్ప ఉష్ణోగ్రతల మధ్య వ్యత్యాసం",
+     "అన్ని రోజువారీ సగటు ఉష్ణోగ్రతల మొత్తంను 12తో భాగించడం"
+    ],
+    "en": [
+     "Difference between the daily mean monthly temperatures of the hottest and coldest months",
+     "Difference between the mean maximum and mean minimum of January",
+     "Difference between the highest and lowest recorded temperatures of the year",
+     "Sum of all daily mean temperatures divided by 12"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఉదాహరణలో, మే నెల రోజువారీ సగటు నెలవారీ ఉష్ణోగ్రత (32.75°C) నుండి జనవరి నెల ఉష్ణోగ్రతను (14.2°C) తీసివేయడం ద్వారా వార్షిక వ్యత్యాసం లెక్కించబడింది.",
+    "en": "In the example, the annual range is calculated by subtracting the daily mean monthly temperature of January (14.2°C) from that of May (32.75°C)."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T07-0003",
+   "section": {
+    "te": "Sleet Definition",
+    "en": "Sleet Definition"
+   },
+   "q": {
+    "te": "వాతావరణ అంశాల పరంగా 'స్లీట్' (Sleet) అంటే ఏమిటి?",
+    "en": "How is 'Sleet' defined in the context of weather elements?"
+   },
+   "options": {
+    "te": [
+     "గాలి వేగం యొక్క కదలిక",
+     "గాలిలోని నీటి ఆవిరి",
+     "చిన్న గట్టి మంచు బంతులు",
+     "ఘనీభవించిన లేదా పాక్షికంగా ఘనీభవించిన వర్షం"
+    ],
+    "en": [
+     "Movement of air speed",
+     "Water vapour in the air",
+     "Small hard balls of ice",
+     "Frozen or partly frozen rain"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "స్లీట్ అంటే ఘనీభవించిన లేదా పాక్షికంగా ఘనీభవించిన వర్షం అని అర్థం.",
+    "en": "Sleet is specifically defined as rain that is either frozen or partly frozen."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T07-0038",
+   "section": {
+    "te": "Hygrometer applications",
+    "en": "Hygrometer applications"
+   },
+   "q": {
+    "te": "ఈ క్రింది ఏ రంగాలలో ఆర్ద్రతను కొలవడం చాలా ముఖ్యమైనదిగా పరిగణించబడుతుంది?",
+    "en": "In which of the following areas is the measurement of humidity considered very important?"
+   },
+   "options": {
+    "te": [
+     "ఆహార శుద్ధి పరిశ్రమలు",
+     "మ్యూజియం ప్రదర్శన వస్తువుల పరిరక్షణ",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Food processing industries",
+     "Museum exhibits preservation",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఆహార శుద్ధి వంటి పారిశ్రామిక ప్రక్రియలకు మరియు మ్యూజియంలలో పొడి వాతావరణాన్ని నిర్వహించడానికి ఆర్ద్రత కొలత చాలా ముఖ్యం.",
+    "en": "Humidity measurement is crucial for industrial processes like food processing and for maintaining dry environments in museums."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T07-0196",
+   "section": {
+    "te": "Nimbus Clouds",
+    "en": "Nimbus Clouds"
+   },
+   "q": {
+    "te": "కింది వాటిలో నింబస్ (Nimbus) మేఘాల లక్షణం ఏది?",
+    "en": "Which of the following is a characteristic of Nimbus clouds?"
+   },
+   "options": {
+    "te": [
+     "అవి ఎల్లప్పుడూ తెలుపు రంగులో ఉంటాయి",
+     "అవి ఈక వంటి రూపాన్ని కలిగి ఉంటాయి",
+     "అవి నలుపు లేదా ముదురు బూడిద రంగులో ఉంటాయి",
+     "అవి 8,000 మీటర్ల కంటే ఎక్కువ ఎత్తులో మాత్రమే ఏర్పడతాయి"
+    ],
+    "en": [
+     "They are always white in colour",
+     "They have a feathery appearance",
+     "They are black or dark gray",
+     "They only form at altitudes above 8,000m"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నింబస్ మేఘాలు వాటి నలుపు లేదా ముదురు బూడిద రంగు ద్వారా వర్గీకరించబడతాయి మరియు అవి మధ్య స్థాయిలలో లేదా ఉపరితలానికి దగ్గరగా ఏర్పడతాయి.",
+    "en": "Nimbus clouds are characterized by their black or dark gray color and they form at middle levels or near the surface."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T07-0176",
+   "section": {
+    "te": "Polar Cell Winds",
+    "en": "Polar Cell Winds"
+   },
+   "q": {
+    "te": "ధ్రువాల నుండి మధ్య అక్షాంశాల వైపు వీచే పవనాలను ఏమని పిలుస్తారు?",
+    "en": "What are the winds that blow from the poles towards the middle latitudes called?"
+   },
+   "options": {
+    "te": [
+     "జెట్ స్ట్రీమ్స్",
+     "ధ్రువ తూర్పు పవనాలు (Polar easterlies)",
+     "వ్యాపార పవనాలు (Trade winds)",
+     "పశ్చిమ పవనాలు (Westerlies)"
+    ],
+    "en": [
+     "Jet streams",
+     "Polar easterlies",
+     "Trade winds",
+     "Westerlies"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ధ్రువ సెల్‌లో, చల్లని దట్టమైన గాలి ధ్రువాల వద్ద క్రిందికి దిగి, మధ్య అక్షాంశాల వైపు ధ్రువ తూర్పు పవనాలుగా వీస్తుంది.",
+    "en": "In the polar cell, cold dense air subsides at the poles and flows toward middle latitudes as polar easterlies."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T07-0166",
+   "section": {
+    "te": "ENSO Weather Impacts",
+    "en": "ENSO Weather Impacts"
+   },
+   "q": {
+    "te": "బలమైన ENSO ప్రభావాలకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. దక్షిణ అమెరికాలోని శుష్క పశ్చిమ తీరంలో భారీ వర్షాలు కురుస్తాయి.\n2. ఆస్ట్రేలియా మరియు భారతదేశంలో కరువు పరిస్థితులు ఏర్పడవచ్చు.\n3. చైనాలో కొన్నిసార్లు వరదలు సంభవిస్తాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding the impacts of a strong ENSO event:\n1. The arid west coast of South America receives heavy rainfall.\n2. Drought conditions may occur in Australia and India.\n3. Floods are sometimes observed in China.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "బలమైన ENSO సంవత్సరాలలో, దక్షిణ అమెరికాలో భారీ వర్షాలు, ఆస్ట్రేలియా/భారతదేశంలో కరువులు మరియు చైనాలో వరదలతో సహా భారీ స్థాయి వాతావరణ మార్పులు సంభవిస్తాయి.",
+    "en": "During strong ENSO years, large-scale weather variations occur, including heavy rain in South America, droughts in Australia/India, and floods in China."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T07-0118",
+   "section": {
+    "te": "Altitude and Temperature",
+    "en": "Altitude and Temperature"
+   },
+   "q": {
+    "te": "సముద్ర మట్టానికి దగ్గరగా ఉన్న ప్రాంతాలు సాధారణంగా ఎత్తైన ప్రాంతాల కంటే ఎందుకు ఎక్కువ ఉష్ణోగ్రతలను నమోదు చేస్తాయి?",
+    "en": "Why do places near sea level generally record higher temperatures than places at higher elevations?"
+   },
+   "options": {
+    "te": [
+     "అవి ఎక్కువ ప్రత్యక్ష సూర్యకాంతిని పొందుతాయి కాబట్టి",
+     "వాతావరణం క్రింద నుండి భూ వికిరణం ద్వారా వేడెక్కుతుంది కాబట్టి",
+     "సముద్ర మట్టం వద్ద గాలి వేగం ఎక్కువగా ఉండటం వల్ల",
+     "అవి సూర్యుడికి దగ్గరగా ఉండటం వల్ల"
+    ],
+    "en": [
+     "Because they receive more direct sunlight",
+     "Because the atmosphere is heated from below by terrestrial radiation",
+     "Because of higher wind speeds at sea level",
+     "Because they are closer to the sun"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వాతావరణం భూమి ఉపరితలం నుండి క్రింద నుండి వేడెక్కుతుంది కాబట్టి, తక్కువ ఎత్తులో ఉన్న ప్రాంతాలు (సముద్ర మట్టానికి దగ్గరగా) ఎత్తైన ప్రాంతాల కంటే వెచ్చగా ఉంటాయి.",
+    "en": "Since the atmosphere is heated from below by the Earth's surface, lower altitudes (near sea level) are warmer than higher elevations."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T07-0188",
+   "section": {
+    "te": "Frost Formation",
+    "en": "Frost Formation"
+   },
+   "q": {
+    "te": "చల్లని ఉపరితలాలపై తుషారం (Frost) ఏ పరిస్థితిలో ఏర్పడుతుంది?",
+    "en": "Under what condition does frost form on cold surfaces?"
+   },
+   "options": {
+    "te": [
+     "ద్రవీభవనం సరిగ్గా 10°C వద్ద జరిగినప్పుడు",
+     "మంచు బిందువు (dew point) గడ్డకట్టే స్థానం కంటే ఎక్కువగా ఉన్నప్పుడు",
+     "ద్రవీభవనం గడ్డకట్టే స్థానం (0°C) కంటే తక్కువగా జరిగినప్పుడు",
+     "గాలి ఉష్ణోగ్రత మంచు బిందువు కంటే ఎక్కువగా ఉన్నప్పుడు"
+    ],
+    "en": [
+     "When condensation takes place exactly at 10°C",
+     "When the dew point is above the freezing point",
+     "When condensation takes place below the freezing point (0°C)",
+     "When the air temperature is higher than the dew point"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ద్రవీభవనం గడ్డకట్టే స్థానం కంటే తక్కువగా జరిగినప్పుడు తుషారం ఏర్పడుతుంది, అంటే మంచు బిందువు 0°C వద్ద లేదా అంతకంటే తక్కువగా ఉంటుంది.",
+    "en": "Frost forms when condensation occurs below the freezing point, meaning the dew point is at or below 0°C."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T07-0006",
+   "section": {
+    "te": "Natural Weather Indicators",
+    "en": "Natural Weather Indicators"
+   },
+   "q": {
+    "te": "ప్రకృతి పరిశీలనల ప్రకారం, చీమలు తమ గుడ్లను ఎత్తైన ప్రాంతాలకు తరలించడం దేనిని సూచిస్తుంది?",
+    "en": "According to natural observations, what does the shifting of eggs by ants to higher ground indicate?"
+   },
+   "options": {
+    "te": [
+     "శీతాకాలం రాక",
+     "తగ్గుతున్న తేమ",
+     "రాబోయే వడగాల్పులు",
+     "రాబోయే భారీ వర్షం"
+    ],
+    "en": [
+     "Arrival of winter",
+     "Decreasing humidity",
+     "A coming heatwave",
+     "Expected heavy rain"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "చీమలు గుడ్లను ఎత్తైన ప్రదేశానికి తీసుకెళ్లడం అనేది భారీ వర్షం రాబోతుందనడానికి సహజ సంకేతం.",
+    "en": "The movement of ants carrying eggs to higher ground is a natural signal for expected heavy rain."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T07-0208",
+   "section": {
+    "te": "Heavy rainfall regions",
+    "en": "Heavy rainfall regions"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఏ ప్రాంతం సంవత్సరానికి 200 సెం.మీ కంటే ఎక్కువ భారీ వర్షపాతాన్ని పొందుతుంది?",
+    "en": "Which of the following regions is characterized by receiving heavy rainfall of over 200 cm per annum?"
+   },
+   "options": {
+    "te": [
+     "ఖండాల లోపలి భాగాలు",
+     "శీతల సమశీతోష్ణ మండలంలోని పశ్చిమ తీరాల వెంబడి ఉన్న పర్వతాల పవనాభిముఖ వాలులు",
+     "ఉష్ణమండల ప్రాంతాల మధ్య భాగాలు",
+     "అధిక అక్షాంశాలు"
+    ],
+    "en": [
+     "Interior continental areas",
+     "Windward slopes of mountains along western coasts in the cool temperate zone",
+     "Central parts of tropical land",
+     "High latitudes"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భూమధ్యరేఖ ప్రాంతం, శీతల సమశీతోష్ణ పశ్చిమ తీరాలలోని పవనాభిముఖ వాలులు మరియు రుతుపవన తీర ప్రాంతాలు సంవత్సరానికి 200 సెం.మీ కంటే ఎక్కువ వర్షపాతాన్ని పొందుతాయని పాఠ్యాంశం పేర్కొంది.",
+    "en": "The text specifies that the equatorial belt, windward slopes in cool temperate western coasts, and monsoon coastal areas receive over 200 cm of rainfall annually."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T07-0174",
+   "section": {
+    "te": "ITCZ Air Movement",
+    "en": "ITCZ Air Movement"
+   },
+   "q": {
+    "te": "అంతర ఉష్ణమండల అభిసరణ ప్రాంతం (ITCZ) వద్ద పైకి లేచే గాలి ధ్రువాల వైపు వెళ్ళే ముందు సుమారు ఎంత ఎత్తుకు చేరుకుంటుంది?",
+    "en": "To what approximate altitude does the air rising at the Inter Tropical Convergence Zone (ITCZ) reach before moving towards the poles?"
+   },
+   "options": {
+    "te": [
+     "30 కి.మీ",
+     "14 కి.మీ",
+     "20 కి.మీ",
+     "8 కి.మీ"
+    ],
+    "en": [
+     "30 km",
+     "14 km",
+     "20 km",
+     "8 km"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ITCZ వద్ద కేంద్రీకృతమైన గాలి ట్రోపోస్పియర్ పైభాగానికి చేరుకుంటుంది, ఇది సుమారు 14 కి.మీ ఎత్తులో ఉంటుంది.",
+    "en": "The air converged at the ITCZ rises to the top of the troposphere, reaching an altitude of approximately 14 km."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T07-0202",
+   "section": {
+    "te": "Fog and Mist Formation",
+    "en": "Fog and Mist Formation"
+   },
+   "q": {
+    "te": "వాతావరణ అంశాలకు సంబంధించి పట్టణ మరియు పారిశ్రామిక కేంద్రాలలో పొగ ఏ పాత్ర పోషిస్తుంది?",
+    "en": "What role does smoke play in urban and industrial centers regarding weather elements?"
+   },
+   "options": {
+    "te": [
+     "ఇది మేఘాలు ఏర్పడకుండా నిరోధిస్తుంది",
+     "ఇది మంచు మరియు పొగమంచు ఏర్పడటానికి సహాయపడే కేంద్రకాలను (nuclei) అందిస్తుంది",
+     "ఇది క్షితిజ సమాంతర దృశ్యమానతను పెంచుతుంది",
+     "ఇది ఉష్ణోగ్రతను మంచు బిందువు కంటే పైకి పెంచుతుంది"
+    ],
+    "en": [
+     "It prevents the formation of clouds",
+     "It provides nuclei that help the formation of fog and mist",
+     "It increases horizontal visibility",
+     "It raises the temperature above the dew point"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పారిశ్రామిక ప్రాంతాలలో పొగ ద్రవీభవన కేంద్రకాలను అందిస్తుంది, ఇది మంచు మరియు పొగమంచు ఏర్పడటాన్ని సులభతరం చేస్తుంది.",
+    "en": "Smoke in industrial areas provides condensation nuclei, which facilitates the formation of fog and mist."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T07-0152",
+   "section": {
+    "te": "Cyclones at Equator",
+    "en": "Cyclones at Equator"
+   },
+   "q": {
+    "te": "ప్రతిపాదన (A): భూమధ్యరేఖకు సమీపంలో ఉష్ణమండల తుఫానులు ఏర్పడవు.\nకారణం (R): భూమధ్యరేఖ వద్ద, కొరియాలిస్ బలం సున్నా మరియు గాలి ఐసోబార్లకు లంబంగా వీస్తుంది.",
+    "en": "Assertion (A): Tropical cyclones are NOT formed near the equator.\nReason (R): At the equator, the Coriolis force is zero and the wind blows perpendicular to the isobars."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూమధ్యరేఖ వద్ద కొరియాలిస్ బలం సున్నా కాబట్టి, అల్పపీడన ప్రాంతాలు తుఫానులుగా మారడానికి బదులుగా నిండిపోతాయి.",
+    "en": "Because the Coriolis force is zero at the equator, low-pressure areas get filled instead of intensifying into cyclones."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T07-0018",
+   "section": {
+    "te": "Wind Definition",
+    "en": "Wind Definition"
+   },
+   "q": {
+    "te": "'గాలి' (Wind) గురించి క్రింది వాటిని పరిశీలించండి:\n1. ఇది గాలి యొక్క కదలిక.\n2. ఇది గాలి యొక్క దిశను మాత్రమే కలిగి ఉంటుంది.\nపై వాటిలో ఏది/వి సరైనవి?",
+    "en": "Consider the following about 'Wind':\n1. It is the movement of air.\n2. It includes only the direction of air.\nWhich of the above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "గాలి అనేది గాలి యొక్క కదలిక మరియు ఇది వేగం మరియు దిశ రెండింటినీ కలిగి ఉంటుంది, కేవలం దిశను మాత్రమే కాదు.",
+    "en": "Wind is the movement of air and it includes BOTH speed and direction, not just direction."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T07-0134",
+   "section": {
+    "te": "July Ocean Temperature",
+    "en": "July Ocean Temperature"
+   },
+   "q": {
+    "te": "జూలైలో, భూమధ్యరేఖ మహాసముద్రాలలో నమోదయ్యే ఉష్ణోగ్రత లక్షణం ఏమిటి?",
+    "en": "In July, what is the characteristic temperature recorded by the equatorial oceans?"
+   },
+   "options": {
+    "te": [
+     "10°C మరియు 15°C మధ్య",
+     "27°C కంటే ఎక్కువ",
+     "ఖచ్చితంగా 20°C",
+     "15°C కంటే తక్కువ"
+    ],
+    "en": [
+     "Between 10°C and 15°C",
+     "More than 27°C",
+     "Exactly 20°C",
+     "Less than 15°C"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "జూలైలో భూమధ్యరేఖ మహాసముద్రాలు 27°C కంటే ఎక్కువ వెచ్చని ఉష్ణోగ్రతను నమోదు చేస్తాయని పాఠ్యాంశం పేర్కొంది.",
+    "en": "In July, equatorial oceans record warmer temperatures of more than 27°C."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T07-0100",
+   "section": {
+    "te": "Atmospheric Absorption",
+    "en": "Atmospheric Absorption"
+   },
+   "q": {
+    "te": "దీర్ఘ తరంగ భూ వికిరణాన్ని శోషించుకోవడానికి (absorb) బాధ్యత వహించే వాయువుగా దేనిని ప్రత్యేకంగా పేర్కొన్నారు?",
+    "en": "Which gas is specifically mentioned as being responsible for absorbing long wave terrestrial radiation?"
+   },
+   "options": {
+    "te": [
+     "నైట్రోజన్",
+     "ఆక్సిజన్",
+     "కార్బన్ డయాక్సైడ్",
+     "ఆర్గాన్"
+    ],
+    "en": [
+     "Nitrogen",
+     "Oxygen",
+     "Carbon dioxide",
+     "Argon"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కార్బన్ డయాక్సైడ్ మరియు ఇతర గ్రీన్ హౌస్ వాయువులు భూమి విడుదల చేసే దీర్ఘ తరంగ వికిరణాన్ని శోషించుకుంటాయి, తద్వారా వాతావరణాన్ని పరోక్షంగా వేడి చేస్తాయి.",
+    "en": "Carbon dioxide and other greenhouse gases absorb the long wave radiation emitted by the Earth, indirectly heating the atmosphere."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T07-0210",
+   "section": {
+    "te": "Low rainfall regions",
+    "en": "Low rainfall regions"
+   },
+   "q": {
+    "te": "ఖండాల లోపలి భాగంలోని వర్షచ్ఛాయా ప్రాంతాలు మరియు అధిక అక్షాంశాలలో సాధారణంగా కురిసే వార్షిక వర్షపాతం ఎంత?",
+    "en": "What is the typical annual rainfall amount received in the rain shadow zones of the interior of the continents and high latitudes?"
+   },
+   "options": {
+    "te": [
+     "50 సెం.మీ కంటే తక్కువ",
+     "50 - 100 సెం.మీ",
+     "200 సెం.మీ కంటే ఎక్కువ",
+     "100 - 200 సెం.మీ"
+    ],
+    "en": [
+     "Less than 50 cm",
+     "50 - 100 cm",
+     "More than 200 cm",
+     "100 - 200 cm"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యాంశాల ప్రకారం, ఖండాల లోపలి భాగంలోని వర్షచ్ఛాయా ప్రాంతాలు మరియు అధిక అక్షాంశ ప్రాంతాలు సంవత్సరానికి 50 సెం.మీ కంటే తక్కువ వర్షపాతాన్ని పొందుతాయి.",
+    "en": "Rain shadow zones in continental interiors and high latitude areas receive very low rainfall, specifically less than 50 cm per year."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T07-0185",
+   "section": {
+    "te": "Absolute Humidity Units",
+    "en": "Absolute Humidity Units"
+   },
+   "q": {
+    "te": "పరమ ఆర్ద్రతను (Absolute humidity) ఈ క్రింది ఏ ప్రమాణాలలో వ్యక్తపరుస్తారు?",
+    "en": "In which of the following units is absolute humidity expressed?"
+   },
+   "options": {
+    "te": [
+     "చదరపు మీటరుకు గ్రాములు",
+     "ఘనపు మీటరుకు కిలోగ్రాములు",
+     "శాతం",
+     "ఘనపు మీటరుకు గ్రాములు"
+    ],
+    "en": [
+     "Grams per square metre",
+     "Kilograms per cubic metre",
+     "Percentage",
+     "Grams per cubic metre"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పరమ ఆర్ద్రత అనేది గాలి యొక్క యూనిట్ ఘనపరిమాణానికి ఉండే నీటి ఆవిరి బరువు, దీనిని ఘనపు మీటరుకు గ్రాములలో వ్యక్తపరుస్తారు.",
+    "en": "Absolute humidity is the weight of water vapour per unit volume of air, expressed in grams per cubic metre."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T07-0012",
+   "section": {
+    "te": "Water Vapour State",
+    "en": "Water Vapour State"
+   },
+   "q": {
+    "te": "నీటి ఆవిరి ఏ స్థితిలో ఉంటుంది?",
+    "en": "In which state of matter does water vapour exist?"
+   },
+   "options": {
+    "te": [
+     "ప్లాస్మా స్థితి",
+     "ఘన స్థితి",
+     "ద్రవ స్థితి",
+     "వాయు స్థితి (Gaseous)"
+    ],
+    "en": [
+     "Plasma",
+     "Solid",
+     "Liquid",
+     "Gaseous"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నీటి ఆవిరి అనేది ద్రవ రూపంలో కాకుండా వాయు రూపంలో ఉన్న నీరు.",
+    "en": "Water vapour is water in its gaseous form rather than its liquid form."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T07-0076",
+   "section": {
+    "te": "Atmospheric Elements",
+    "en": "Atmospheric Elements"
+   },
+   "q": {
+    "te": "మానవ జీవితాన్ని ప్రభావితం చేసే వాతావరణంలోని ప్రధాన అంశాలలో కింది వాటిలో ఏది పేర్కొనబడలేదు?",
+    "en": "Which of the following is NOT listed as a main element of the atmosphere that influences human life?"
+   },
+   "options": {
+    "te": [
+     "ఉష్ణోగ్రత",
+     "ఆర్ద్రత",
+     "పీడనం",
+     "సౌర జ్వాలలు (Solar flares)"
+    ],
+    "en": [
+     "Temperature",
+     "Humidity",
+     "Pressure",
+     "Solar flares"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఉష్ణోగ్రత, పీడనం మరియు ఆర్ద్రత ప్రధాన అంశాలుగా పేర్కొనబడ్డాయి, కానీ సౌర జ్వాలలు ఈ సందర్భంలో పేర్కొనబడలేదు.",
+    "en": "Temperature, pressure, and humidity are listed as main elements, but solar flares are not mentioned in this context."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T07-0014",
+   "section": {
+    "te": "Temperature Effects",
+    "en": "Temperature Effects"
+   },
+   "q": {
+    "te": "శీతాకాలంలో కొబ్బరి నూనె ఏమవుతుంది?",
+    "en": "What happens to coconut oil during the winter season?"
+   },
+   "options": {
+    "te": [
+     "ఘనరూపంలోకి మారుతుంది",
+     "ఎరుపు రంగులోకి మారుతుంది",
+     "మరింత ద్రవంగా మారుతుంది",
+     "ఆవిరైపోతుంది"
+    ],
+    "en": [
+     "It turns solid",
+     "It changes to a red colour",
+     "It becomes more liquid",
+     "It evaporates"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "శీతాకాలంలో చల్లని ఉష్ణోగ్రతల వల్ల కొబ్బరి నూనె ద్రవ రూపం నుండి ఘన రూపంలోకి మారుతుంది.",
+    "en": "Due to the cold temperatures in winter, coconut oil changes from a liquid to a solid state."
+   }
+  }
+ ]
+}

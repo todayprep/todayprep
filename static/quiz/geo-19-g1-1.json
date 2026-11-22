@@ -1,0 +1,942 @@
+{
+ "id": "geo-19-g1-1",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "National Parks – క్విజ్ 1",
+  "en": "National Parks – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T19-0028",
+   "section": {
+    "te": "UNESCO Biosphere Programme",
+    "en": "UNESCO Biosphere Programme"
+   },
+   "q": {
+    "te": "వృక్ష మరియు జంతుజాలాల సమర్థవంతమైన పరిరక్షణ కోసం భారత ప్రభుత్వం యునెస్కో యొక్క ఏ కార్యక్రమంతో కలిసి ప్రత్యేక చర్యలను ప్రారంభించింది?",
+    "en": "For the effective conservation of flora and fauna, special steps have been initiated by the Government of India in collaboration with which programme of UNESCO?"
+   },
+   "options": {
+    "te": [
+     "మ్యాన్ అండ్ బయోస్పియర్ ప్రోగ్రామ్",
+     "ఇంటర్నేషనల్ హైడ్రోలాజికల్ ప్రోగ్రామ్",
+     "ఇంటర్నేషనల్ జియోసైన్స్ ప్రోగ్రామ్",
+     "వరల్డ్ హెరిటేజ్ ప్రోగ్రామ్"
+    ],
+    "en": [
+     "Man and Biosphere Programme",
+     "International Hydrological Programme",
+     "International Geoscience Programme",
+     "World Heritage Programme"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "యునెస్కో యొక్క 'మ్యాన్ అండ్ బయోస్పియర్ ప్రోగ్రామ్' సహకారంతో భారత ప్రభుత్వం వృక్ష, జంతు పరిరక్షణ చర్యలను చేపట్టింది.",
+    "en": "Steps have been initiated by the Government of India in collaboration with UNESCO's 'Man and Biosphere Programme'."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T19-0025",
+   "section": {
+    "te": "Agasthyamalai Biosphere Reserve",
+    "en": "Agasthyamalai Biosphere Reserve"
+   },
+   "q": {
+    "te": "2001లో గుర్తించబడిన అగస్త్యమలై బయోస్పియర్ రిజర్వ్ క్రింది ఏ రాష్ట్రాల పరిధిని కలిగి ఉంది?",
+    "en": "The Agasthyamalai Biosphere Reserve, designated in 2001, covers parts of which of the following States?"
+   },
+   "options": {
+    "te": [
+     "తమిళనాడు",
+     "కేరళ",
+     "A మరియు B రెండూ",
+     "కర్ణాటక"
+    ],
+    "en": [
+     "Tamil Nadu",
+     "Kerala",
+     "Both A and B",
+     "Karnataka"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అగస్త్యమలై బయోస్పియర్ రిజర్వ్ తమిళనాడు మరియు కేరళ రెండు రాష్ట్రాల పరిధిలోనూ విస్తరించి ఉంది.",
+    "en": "The Agasthyamalai Biosphere Reserve encompasses areas in both Tamil Nadu and Kerala."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T19-0008",
+   "section": {
+    "te": "Protected forests share",
+    "en": "Protected forests share"
+   },
+   "q": {
+    "te": "అటవీ శాఖ ప్రకటన ప్రకారం, భారతదేశంలోని మొత్తం అటవీ విస్తీర్ణంలో ఎంత భాగం 'రక్షిత అడవులు' (Protected Forests) గా ఉంది?",
+    "en": "According to the Forest Department, how much of the total forest area in India is categorized as 'Protected Forests'?"
+   },
+   "options": {
+    "te": [
+     "దాదాపు మూడవ వంతు",
+     "సగానికి పైగా",
+     "నాల్గవ వంతు",
+     "పదవ వంతు"
+    ],
+    "en": [
+     "Almost one-third",
+     "More than half",
+     "One-fourth",
+     "One-tenth"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అటవీ శాఖ ప్రకారం దేశంలోని మొత్తం అటవీ విస్తీర్ణంలో దాదాపు మూడవ వంతు రక్షిత అటవీ ప్రాంతంగా ఉంది.",
+    "en": "As declared by the Forest Department, almost one-third of the total forest area is protected forest."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T19-0022",
+   "section": {
+    "te": "Nilgiri Biosphere Reserve",
+    "en": "Nilgiri Biosphere Reserve"
+   },
+   "q": {
+    "te": "1986లో గుర్తించబడిన నీలగిరి బయోస్పియర్ రిజర్వ్ క్రింది ఏ రాష్ట్రాల పరిధిలో విస్తరించి ఉంది?",
+    "en": "The Nilgiri Biosphere Reserve, designated in 1986, is spread across which of the following groups of States?"
+   },
+   "options": {
+    "te": [
+     "కేరళ, కర్ణాటక మరియు గోవా",
+     "మహారాష్ట్ర, కర్ణాటక మరియు గోవా",
+     "తమిళనాడు, ఆంధ్రప్రదేశ్ మరియు కర్ణాటక",
+     "తమిళనాడు, కేరళ మరియు కర్ణాటక"
+    ],
+    "en": [
+     "Kerala, Karnataka and Goa",
+     "Maharashtra, Karnataka and Goa",
+     "Tamil Nadu, Andhra Pradesh and Karnataka",
+     "Tamil Nadu, Kerala and Karnataka"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నీలగిరి బయోస్పియర్ రిజర్వ్ తమిళనాడు, కేరళ మరియు కర్ణాటక రాష్ట్రాలలో విస్తరించి ఉంది.",
+    "en": "The Nilgiri Biosphere Reserve was designated in 1986 across Tamil Nadu, Kerala and Karnataka."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T19-0010",
+   "section": {
+    "te": "Plants added to protected list",
+    "en": "Plants added to protected list"
+   },
+   "q": {
+    "te": "1991 లో వన్యప్రాణి చట్టం క్రింద రక్షిత జాబితాలో మొదటిసారిగా మొక్కలను చేర్చారు. ప్రారంభంలో ఎన్ని మొక్కల జాతులను చేర్చారు?",
+    "en": "In 1991, plants were added for the first time to the protected list under the Wildlife Act. How many plant species were initially included?"
+   },
+   "options": {
+    "te": [
+     "నాలుగు జాతులు",
+     "ఆరు జాతులు",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Four species",
+     "Six species",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "1991 లో మొదటిసారిగా మొక్కలను రక్షిత జాబితాలో చేర్చినప్పుడు, ప్రారంభంలో ఆరు జాతులను చేర్చారు.",
+    "en": "In 1991, plants were added to the list of protected species for the first time, starting with six species."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T19-0006",
+   "section": {
+    "te": "Recently protected species",
+    "en": "Recently protected species"
+   },
+   "q": {
+    "te": "కింది జంతువులను పరిశీలించండి:\n1. భారతీయ ఏనుగు\n2. కృష్ణజింక / చింకారా (Black buck)\n3. బట్టమేక పిట్ట / గోదావన్ (Great Indian bustard)\n4. మంచు చిరుతపులి (Snow leopard)\n\nవీటిలో వేట మరియు వాణిజ్యానికి వ్యతిరేకంగా భారతదేశం అంతటా ఇటీవల పూర్తి లేదా పాక్షిక చట్టపరమైన రక్షణ పొందినవి ఏవి?",
+    "en": "Consider the following animals:\n1. Indian elephant\n2. Black buck (chinkara)\n3. Great Indian bustard (godawan)\n4. Snow leopard\n\nWhich of the above have recently been given full or partial legal protection against hunting and trade throughout India?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2, 3 మరియు 4 మాత్రమే",
+     "1, 3 మరియు 4 మాత్రమే",
+     "1, 2, 3 మరియు 4"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2, 3 and 4 only",
+     "1, 3 and 4 only",
+     "1, 2, 3 and 4"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతీయ ఏనుగు, చింకారా, బట్టమేక పిట్ట (గోదావన్) మరియు మంచు చిరుతపులి—వీటన్నింటికీ దేశవ్యాప్తంగా చట్టపరమైన రక్షణ కల్పించబడింది.",
+    "en": "All four animals—the Indian elephant, black buck, great Indian bustard, and snow leopard—were given full or partial legal protection against hunting and trade throughout India."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T19-0035",
+   "section": {
+    "te": "Project Tiger Statistics",
+    "en": "Project Tiger Statistics"
+   },
+   "q": {
+    "te": "భారతదేశంలోని ప్రాజెక్ట్ టైగర్‌కు సంబంధించి క్రింది ప్రకటనలను పరిగణనలోకి తీసుకోండి:\n1. ఇది 1973 సంవత్సరం నుండి అమలు చేయబడింది.\n2. ఇది ప్రస్తుతం 18 రాష్ట్రాలలో విస్తరించి ఉన్న 58 పులుల సంరక్షణ కేంద్రాలను కలిగి ఉంది.\n3. 2023లో భారతదేశంలోని పులుల జనాభా ప్రపంచ పులుల జనాభాలో 75 శాతం కంటే ఎక్కువగా ఉంది.\n\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding Project Tiger in India:\n1. It was implemented starting from the year 1973.\n2. It currently encompasses 58 tiger reserves distributed in 18 states.\n3. India's tiger population in 2023 represents more than 75 per cent of the global tiger population.\n\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మూడు ప్రకటనలు సరైనవి: ఇది 1973లో ప్రారంభమైంది, ప్రస్తుతం 18 రాష్ట్రాల్లో 58 రిజర్వ్‌లను కలిగి ఉంది మరియు 2023 నాటికి ప్రపంచంలోని పులులలో 75% కంటే ఎక్కువ ఇక్కడే ఉన్నాయి.",
+    "en": "All three statements are correct: it started in 1973, now has 58 reserves in 18 states, and holds over 75% of the world's tigers as of 2023."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T19-0032",
+   "section": {
+    "te": "Sacred Groves definition",
+    "en": "Sacred Groves definition"
+   },
+   "q": {
+    "te": "ప్రకృతి ఆరాధన నమ్మకాల ఆధారంగా ప్రాచీన రూపంలో పరిరక్షించబడిన సహజ అడవుల భాగాలను ఏమని పిలుస్తారు?",
+    "en": "Patches of virgin forest preserved in pristine form based on tribal nature worship beliefs are known as:"
+   },
+   "options": {
+    "te": [
+     "రక్షిత పచ్చిక బయళ్ళు",
+     "రిజర్వ్డ్ అడవులు",
+     "పవిత్ర వనాలు (సేక్రెడ్ గ్రోవ్స్)",
+     "గ్రామ ఉమ్మడి భూములు"
+    ],
+    "en": [
+     "Protected Pastures",
+     "Reserved Forests",
+     "Sacred Groves",
+     "Village Commons"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "గిరిజనుల ప్రకృతి ఆరాధన వల్ల చెక్కుచెదరకుండా కాపాడబడిన అడవులను 'పవిత్ర వనాలు' (దేవుడి అడవులు) అని పిలుస్తారు.",
+    "en": "Tribal nature worship has preserved several virgin forests in pristine form called Sacred Groves (forests of God and Goddesses)."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T19-0026",
+   "section": {
+    "te": "Achanakmar-Amarkantak reserve",
+    "en": "Achanakmar-Amarkantak reserve"
+   },
+   "q": {
+    "te": "అచానక్‌మార్-అమర్‌కంటక్ బయోస్పియర్ రిజర్వ్ క్రింది ఏ రెండు రాష్ట్రాల మధ్య విస్తరించి ఉంది?",
+    "en": "The Achanakmar-Amarkantak Biosphere Reserve is shared between which of the following pairs of States?"
+   },
+   "options": {
+    "te": [
+     "మధ్యప్రదేశ్ మరియు ఛత్తీస్‌గఢ్",
+     "మధ్యప్రదేశ్ మరియు మహారాష్ట్ర",
+     "జార్ఖండ్ మరియు ఛత్తీస్‌గఢ్",
+     "ఛత్తీస్‌గఢ్ మరియు ఒడిశా"
+    ],
+    "en": [
+     "Madhya Pradesh and Chhattisgarh",
+     "Madhya Pradesh and Maharashtra",
+     "Jharkhand and Chhattisgarh",
+     "Chhattisgarh and Odisha"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అచానక్‌మార్-అమర్‌కంటక్ బయోస్పియర్ రిజర్వ్ మధ్యప్రదేశ్ మరియు ఛత్తీస్‌గఢ్ రాష్ట్రాలలో విస్తరించి ఉంది.",
+    "en": "Achanakmar-Amarkantak Biosphere Reserve, designated in 2005, is located in Madhya Pradesh and Chhattisgarh."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T19-0011",
+   "section": {
+    "te": "Sariska Tiger Reserve protest",
+    "en": "Sariska Tiger Reserve protest"
+   },
+   "q": {
+    "te": "ఏ టైగర్ రిజర్వ్‌లో గ్రామస్తులు వన్యప్రాణి సంరక్షణ చట్టాన్ని పేర్కొంటూ మైనింగ్ (గనుల తవ్వకం) కు వ్యతిరేకంగా పోరాడారు?",
+    "en": "In which Tiger Reserve did villagers cite the Wildlife Protection Act to fight against mining activities?"
+   },
+   "options": {
+    "te": [
+     "పెరియార్ టైగర్ రిజర్వ్",
+     "కార్బెట్ జాతీయ పార్కు",
+     "బాంధవ్‌గఢ్ జాతీయ పార్కు",
+     "సరిస్కా టైగర్ రిజర్వ్"
+    ],
+    "en": [
+     "Periyar Tiger Reserve",
+     "Corbett National Park",
+     "Bandhavgarh National Park",
+     "Sariska Tiger Reserve"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రాజస్థాన్‌లోని సరిస్కా టైగర్ రిజర్వ్‌లో మైనింగ్‌కు వ్యతిరేకంగా స్థానిక గ్రామస్తులు వన్యప్రాణి సంరక్షణ చట్టాన్ని ఉటంకిస్తూ పోరాడారు.",
+    "en": "In Sariska Tiger Reserve, Rajasthan, villagers fought against mining by citing the Wildlife Protection Act."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T19-0002",
+   "section": {
+    "te": "Wildlife Protection Act",
+    "en": "Wildlife Protection Act"
+   },
+   "q": {
+    "te": "భారతదేశంలో ఆవాసాల పరిరక్షణ కోసం వివిధ నిబంధనలతో వన్యప్రాణి చట్టం (Wildlife Act) ఏ సంవత్సరంలో అమలు చేయబడింది?",
+    "en": "In which year was the Wildlife Act implemented with various provisions for protecting habitats in India?"
+   },
+   "options": {
+    "te": [
+     "1982",
+     "1976",
+     "1968",
+     "1972"
+    ],
+    "en": [
+     "1982",
+     "1976",
+     "1968",
+     "1972"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వన్యప్రాణుల ఆవాసాలను రక్షించడానికి వివిధ నిబంధనలతో వన్యప్రాణి చట్టం 1972 లో అమలు చేయబడింది.",
+    "en": "The Wildlife Act was implemented in 1972 with provisions for protecting habitats and restricting trade in wildlife."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T19-0037",
+   "section": {
+    "te": "UNESCO Biosphere Reserves",
+    "en": "UNESCO Biosphere Reserves"
+   },
+   "q": {
+    "te": "భారతదేశంలోని 18 బయోస్పియర్ రిజర్వ్‌లలో, యునెస్కో (UNESCO) చే వరల్డ్ నెట్‌వర్క్ ఆఫ్ బయోస్పియర్ రిజర్వ్స్‌లో ఎన్ని గుర్తించబడ్డాయి?",
+    "en": "Out of the 18 Biosphere Reserves in India, how many have been recognized by UNESCO on the World Network of Biosphere Reserves?"
+   },
+   "options": {
+    "te": [
+     "18",
+     "12",
+     "9",
+     "15"
+    ],
+    "en": [
+     "18",
+     "12",
+     "9",
+     "15"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారతదేశంలో 18 బయోస్పియర్ రిజర్వ్‌లు ఉండగా, వాటిలో 12 మాత్రమే యునెస్కో వరల్డ్ నెట్‌వర్క్‌లో గుర్తించబడ్డాయి.",
+    "en": "While there are 18 Biosphere Reserves in India, only 12 of them are recognized by UNESCO on the World Network."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T19-0001",
+   "section": {
+    "te": "Project Tiger launch",
+    "en": "Project Tiger launch"
+   },
+   "q": {
+    "te": "భారతదేశంలో 'ప్రాజెక్ట్ టైగర్' ఏ సంవత్సరంలో ప్రారంభించబడింది?",
+    "en": "In which year was 'Project Tiger' launched in India?"
+   },
+   "options": {
+    "te": [
+     "1973",
+     "1972",
+     "1980",
+     "1970"
+    ],
+    "en": [
+     "1973",
+     "1972",
+     "1980",
+     "1970"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రపంచంలోనే ప్రసిద్ధి చెందిన వన్యప్రాణి సంరక్షణ ప్రచారాలలో ఒకటైన 'ప్రాజెక్ట్ టైగర్' 1973 లో ప్రారంభించబడింది.",
+    "en": "'Project Tiger', one of the well-publicised wildlife campaigns in the world, was launched in 1973."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T19-0029",
+   "section": {
+    "te": "Wildlife Act objectives",
+    "en": "Wildlife Act objectives"
+   },
+   "q": {
+    "te": "వన్యప్రాణి చట్టం, 1972 యొక్క రెండు ప్రధాన లక్ష్యాలకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. చట్టం యొక్క షెడ్యూల్‌లో పేర్కొన్న అంతరించిపోతున్న జాతులకు రక్షణ కల్పించడం.\n2. జాతీయ పార్కులు, అభయారణ్యాలు మరియు క్లోజ్డ్ ఏరియాలుగా వర్గీకరించబడిన పరిరక్షణ ప్రాంతాలకు చట్టపరమైన మద్దతు అందించడం.\n\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the two main objectives of the Wildlife Act, 1972:\n1. To provide protection to the endangered species listed in the schedule of the Act.\n2. To provide legal support to conservation areas classified as National parks, sanctuaries and closed areas.\n\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఈ రెండు అంశాలు 1972 వన్యప్రాణి చట్టం యొక్క ప్రధాన లక్ష్యాలని పాఠ్యాంశంలో స్పష్టంగా పేర్కొనబడింది.",
+    "en": "Both statements represent the two main objectives explicitly stated for the Wildlife Act of 1972."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T19-0030",
+   "section": {
+    "te": "Dehang Debang Reserve",
+    "en": "Dehang Debang Reserve"
+   },
+   "q": {
+    "te": "దెహాంగ్ దెబాంగ్ బయోస్పియర్ రిజర్వ్ క్రింది ఏ ఈశాన్య రాష్ట్రంలో ఉంది?",
+    "en": "The Dehang Debang Biosphere Reserve is located in which of the following North-Eastern States?"
+   },
+   "options": {
+    "te": [
+     "నాగాలాండ్",
+     "మేఘాలయ",
+     "అరుణాచల్ ప్రదేశ్",
+     "అస్సాం"
+    ],
+    "en": [
+     "Nagaland",
+     "Meghalaya",
+     "Arunachal Pradesh",
+     "Assam"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "దెహాంగ్ దెబాంగ్ బయోస్పియర్ రిజర్వ్ అరుణాచల్ ప్రదేశ్ రాష్ట్రంలో ఉంది.",
+    "en": "Dehang Debang Biosphere Reserve was designated in 1998 in Arunachal Pradesh."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T19-0023",
+   "section": {
+    "te": "Biosphere Reserves matching",
+    "en": "Biosphere Reserves matching"
+   },
+   "q": {
+    "te": "క్రింది బయోస్పియర్ రిజర్వ్‌లను వాటికి సంబంధించిన రాష్ట్రాలతో జతపరచండి:\n1. నోక్రెక్ - a. ఒడిశా\n2. సిమిలిపాల్ - b. మేఘాలయ\n3. కోల్డ్ డెసర్ట్ - c. మధ్యప్రదేశ్\n4. పచ్‌మర్హి - d. హిమాచల్ ప్రదేశ్\n\nసరైన కోడ్‌ను ఎంచుకోండి:",
+    "en": "Match the following Biosphere Reserves with their respective States:\n1. Nokrek - a. Odisha\n2. Similipal - b. Meghalaya\n3. Cold Desert - c. Madhya Pradesh\n4. Pachmarhi - d. Himachal Pradesh\n\nSelect the correct code:"
+   },
+   "options": {
+    "te": [
+     "1-b, 2-a, 3-d, 4-c",
+     "1-a, 2-b, 3-c, 4-d",
+     "1-b, 2-d, 3-a, 4-c",
+     "1-d, 2-a, 3-b, 4-c"
+    ],
+    "en": [
+     "1-b, 2-a, 3-d, 4-c",
+     "1-a, 2-b, 3-c, 4-d",
+     "1-b, 2-d, 3-a, 4-c",
+     "1-d, 2-a, 3-b, 4-c"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నోక్రెక్ మేఘాలయలో, సిమిలిపాల్ ఒడిశాలో, కోల్డ్ డెసర్ట్ హిమాచల్ ప్రదేశ్‌లో మరియు పచ్‌మర్హి మధ్యప్రదేశ్‌లో ఉన్నాయి.",
+    "en": "Nokrek is located in Meghalaya, Similipal in Odisha, Cold Desert in Himachal Pradesh, and Pachmarhi in Madhya Pradesh."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T19-0021",
+   "section": {
+    "te": "Project Elephant launch",
+    "en": "Project Elephant launch"
+   },
+   "q": {
+    "te": "భారత ప్రభుత్వం 'ప్రాజెక్ట్ ఎలిఫెంట్'ను ఏ సంవత్సరంలో ప్రారంభించింది?",
+    "en": "In which year was 'Project Elephant' launched by the Government of India?"
+   },
+   "options": {
+    "te": [
+     "1995",
+     "1988",
+     "1991",
+     "1992"
+    ],
+    "en": [
+     "1995",
+     "1988",
+     "1991",
+     "1992"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఏనుగులు మరియు వాటి ఆవాసాలను పరిరక్షించేందుకు భారత ప్రభుత్వం 1992లో ప్రాజెక్ట్ ఎలిఫెంట్‌ను ప్రారంభించింది.",
+    "en": "Project Elephant was launched in 1992 to conserve elephants and their habitats."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T19-0012",
+   "section": {
+    "te": "Bhairodev Dakav Sonchuri",
+    "en": "Bhairodev Dakav Sonchuri"
+   },
+   "q": {
+    "te": "'భైరోదేవ్ డాకవ్ సోంచూరి' (Bhairodev Dakav Sonchuri) కి సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. దీనిని రాజస్థాన్‌లోని అల్వార్ జిల్లాకు చెందిన ఐదు గ్రామాల ప్రజలు ప్రకటించారు.\n2. ఇది 1,200 హెక్టార్ల అటవీ భూమిని కలిగి ఉంది.\n\nపై వాటిలో ఏ ప్రకటన/ప్రకటనలు సరైనవి?",
+    "en": "Consider the following statements regarding 'Bhairodev Dakav Sonchuri':\n1. It was declared by inhabitants of five villages in the Alwar district of Rajasthan.\n2. It encompasses 1,200 hectares of forest land.\n\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రాజస్థాన్‌లోని అల్వార్ జిల్లాకు చెందిన ఐదు గ్రామాల ప్రజలు 1,200 హెక్టార్ల అటవీ ప్రాంతాన్ని భైరోదేవ్ డాకవ్ 'సోంచూరి'గా ప్రకటించారు.",
+    "en": "The inhabitants of five villages in Alwar district, Rajasthan declared 1,200 hectares of forest as the Bhairodev Dakav 'Sonchuri'."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T19-0018",
+   "section": {
+    "te": "Tribal wedding traditions",
+    "en": "Tribal wedding traditions"
+   },
+   "q": {
+    "te": "వివాహ సమయాల్లో ఒడిశా మరియు బీహార్‌లకు చెందిన గిరిజనులు సంప్రదాయబద్ధంగా క్రింది ఏ చెట్లను పూజిస్తారు?",
+    "en": "During weddings, the tribal communities of Odisha and Bihar traditionally worship which of the following trees?"
+   },
+   "options": {
+    "te": [
+     "రావి మరియు మర్రి",
+     "వేప మరియు మర్రి",
+     "ఇప్ప (మహువా) మరియు కదంబ",
+     "చింత మరియు మామిడి"
+    ],
+    "en": [
+     "Peepal and Banyan",
+     "Neem and Banyan",
+     "Mahua and Kadamba",
+     "Tamarind and Mango"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఒడిశా మరియు బీహార్ గిరిజనులు పెళ్లిళ్ల సమయంలో చింత మరియు మామిడి చెట్లను పూజిస్తారు.",
+    "en": "Tribals of Odisha and Bihar worship tamarind (Tamarindus indica) and mango (Mangifera indica) trees during weddings."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T19-0015",
+   "section": {
+    "te": "Mountain fauna",
+    "en": "Mountain fauna"
+   },
+   "q": {
+    "te": "పర్వత ప్రాంతాల విభిన్న ఆవాసాలలో కనిపించే పర్వత జంతువులలో కింది వాటిలో ఏవి ఉన్నాయి?",
+    "en": "Which of the following mountain animals are found in the diverse habitats of mountains?"
+   },
+   "options": {
+    "te": [
+     "గోల్డెన్ ఈగిల్",
+     "పెరెగ్రైన్ ఫాల్కన్",
+     "హిమాలయన్ తహర్",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Golden eagle",
+     "Peregrine falcon",
+     "Himalayan tahr",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పర్వత ప్రాంతాల్లో గోల్డెన్ ఈగిల్, పెరెగ్రైన్ ఫాల్కన్, హిమాలయన్ తహర్ వంటి అనేక రకాల జీవులు నివసిస్తాయి.",
+    "en": "Mountains are home to diverse fauna including the golden eagle, the peregrine falcon, and the Himalayan tahr."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T19-0005",
+   "section": {
+    "te": "Kashmir stag local name",
+    "en": "Kashmir stag local name"
+   },
+   "q": {
+    "te": "కాశ్మీర్ స్టాగ్ (Kashmir stag) ను కింది వాటిలో ఏ పేరుతో కూడా పిలుస్తారు?",
+    "en": "The Kashmir stag is also known by which of the following names?"
+   },
+   "options": {
+    "te": [
+     "హంగూల్",
+     "ఐబెక్స్",
+     "గోదావన్",
+     "చింకారా"
+    ],
+    "en": [
+     "Hangul",
+     "Ibex",
+     "Godawan",
+     "Chinkara"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "తీవ్ర ముప్పు ఎదుర్కొంటున్న కాశ్మీర్ స్టాగ్‌ను 'హంగూల్' అని కూడా పిలుస్తారు.",
+    "en": "The Kashmir stag is referred to as 'hangul' in the Wildlife Protection project listings."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T19-0027",
+   "section": {
+    "te": "Khangchendzonga Biosphere Reserve",
+    "en": "Khangchendzonga Biosphere Reserve"
+   },
+   "q": {
+    "te": "ఖంగ్‌చెండ్‌జోంగా బయోస్పియర్ రిజర్వ్ ఏ రాష్ట్రంలో ఉంది?",
+    "en": "In which State is the Khangchendzonga Biosphere Reserve situated?"
+   },
+   "options": {
+    "te": [
+     "సిక్కిం",
+     "మేఘాలయ",
+     "ఉత్తరాఖండ్",
+     "అరుణాచల్ ప్రదేశ్"
+    ],
+    "en": [
+     "Sikkim",
+     "Meghalaya",
+     "Uttarakhand",
+     "Arunachal Pradesh"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఖంగ్‌చెండ్‌జోంగా బయోస్పియర్ రిజర్వ్ సిక్కిం రాష్ట్రంలో ఉంది (2000లో గుర్తించబడింది).",
+    "en": "The Khangchendzonga Biosphere Reserve was designated in 2000 in the State of Sikkim."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T19-0017",
+   "section": {
+    "te": "Sacred trees worship",
+    "en": "Sacred trees worship"
+   },
+   "q": {
+    "te": "ఛోటానాగ్‌పూర్ ప్రాంతానికి చెందిన ముండా మరియు సంతాల్ తెగల ప్రజలు సంప్రదాయబద్ధంగా క్రింది ఏ చెట్లను పూజిస్తారు?",
+    "en": "The Munda and Santhal communities of the Chota Nagpur region traditionally worship which of the following trees?"
+   },
+   "options": {
+    "te": [
+     "రావి మరియు మర్రి",
+     "చింత మరియు మామిడి",
+     "సాల్వ మరియు టేకు",
+     "ఇప్ప (మహువా) మరియు కదంబ"
+    ],
+    "en": [
+     "Peepal and Banyan",
+     "Tamarind and Mango",
+     "Sal and Teak",
+     "Mahua and Kadamba"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఛోటానాగ్‌పూర్ ప్రాంతంలోని ముండాలు మరియు సంతాల్‌లు ఇప్ప (మహువా) మరియు కదంబ చెట్లను పవిత్రంగా భావించి పూజిస్తారు.",
+    "en": "The Mundas and the Santhal of the Chota Nagpur region worship mahua (Bassia latifolia) and kadamba (Anthocaphalus cadamba) trees."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T19-0033",
+   "section": {
+    "te": "Farm forestry lands",
+    "en": "Farm forestry lands"
+   },
+   "q": {
+    "te": "వాణిజ్యేతర వ్యవసాయ అటవీకరణ (non-commercial farm forestry) కింద చెట్లను పెంచడానికి క్రింది వాటిలో వేటిని ఉపయోగించవచ్చు?",
+    "en": "Under non-commercial farm forestry, which of the following lands may be used for raising trees?"
+   },
+   "options": {
+    "te": [
+     "వ్యవసాయ భూముల గట్లు",
+     "గడ్డి భూములు మరియు పచ్చిక బయళ్ళు",
+     "ఇళ్ళు మరియు పశువుల పాకల చుట్టూ ఉన్న స్థలాలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Margins of agricultural fields",
+     "Grasslands and pastures",
+     "Land around homes and cow sheds",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వ్యవసాయ భూముల సరిహద్దులు, పచ్చిక బయళ్ళు మరియు నివాసాలు, పశువుల కొట్టాల చుట్టూ ఉన్న ఖాళీ స్థలాలను వాణిజ్యేతర వ్యవసాయ అటవీకరణకు ఉపయోగించవచ్చని పేర్కొనబడింది.",
+    "en": "Margins of agricultural fields, grasslands and pastures, and land around homes and cow sheds may all be used for raising trees under non-commercial farm forestry."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T19-0014",
+   "section": {
+    "te": "Great Himalayan National Park UNESCO status",
+    "en": "Great Himalayan National Park UNESCO status"
+   },
+   "q": {
+    "te": "గ్రేట్ హిమాలయన్ నేషనల్ పార్క్‌ను ప్రపంచ వారసత్వ ప్రదేశంగా (World Heritage Site) గుర్తించిన అంతర్జాతీయ సంస్థ ఏది?",
+    "en": "Which international body has declared the Great Himalayan National Park Conservation Area as a World Heritage Site?"
+   },
+   "options": {
+    "te": [
+     "WWF",
+     "యునెస్కో (UNESCO)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "WWF",
+     "UNESCO",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "గ్రేట్ హిమాలయన్ నేషనల్ పార్క్‌ను యునెస్కో (UNESCO) ప్రపంచ వారసత్వ ప్రదేశంగా ప్రకటించింది.",
+    "en": "The Great Himalayan National Park has been declared a World Heritage Site by UNESCO."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T19-0031",
+   "section": {
+    "te": "Panna Biosphere Reserve",
+    "en": "Panna Biosphere Reserve"
+   },
+   "q": {
+    "te": "మధ్యప్రదేశ్‌లో ఉన్న క్రింది ఏ బయోస్పియర్ రిజర్వ్ 2011వ సంవత్సరంలో గుర్తించబడింది?",
+    "en": "Which of the following Biosphere Reserves located in Madhya Pradesh was designated in the year 2011?"
+   },
+   "options": {
+    "te": [
+     "అచానక్‌మార్-అమర్‌కంటక్",
+     "కచ్",
+     "పచ్‌మర్హి",
+     "పన్నా"
+    ],
+    "en": [
+     "Achanakmar-Amarkantak",
+     "Kachchh",
+     "Pachmarhi",
+     "Panna"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మధ్యప్రదేశ్‌లోని పన్నా బయోస్పియర్ రిజర్వ్ 2011లో గుర్తించబడింది.",
+    "en": "Panna Biosphere Reserve in Madhya Pradesh was designated in the year 2011."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T19-0019",
+   "section": {
+    "te": "India species share",
+    "en": "India species share"
+   },
+   "q": {
+    "te": "భూమిపై గుర్తించబడిన మొత్తం మొక్కలు మరియు జంతు జాతులలో భారతదేశంలో సుమారు ఎంత శాతం ఉన్నట్లు అంచనా వేయబడింది?",
+    "en": "What percentage of all known plant and animal species on the Earth is estimated to be found in India?"
+   },
+   "options": {
+    "te": [
+     "7-8 శాతం",
+     "1-2 శాతం",
+     "10-12 శాతం",
+     "4-5 శాతం"
+    ],
+    "en": [
+     "7-8 per cent",
+     "1-2 per cent",
+     "10-12 per cent",
+     "4-5 per cent"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూమిపై తెలిసిన మొత్తం వృక్ష, జంతు జాతులలో దాదాపు 4-5 శాతం భారతదేశంలోనే ఉన్నాయని అంచనా.",
+    "en": "According to estimates, about 4-5 per cent of all known plant and animal species on Earth are found in India."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T19-0009",
+   "section": {
+    "te": "Insects added to Wildlife Act",
+    "en": "Insects added to Wildlife Act"
+   },
+   "q": {
+    "te": "1980 మరియు 1986 నాటి వన్యప్రాణి చట్ట నోటిఫికేషన్ల కింద రక్షిత జాతుల జాబితాలో ఒకే ఒక జాతిగా చేర్చబడిన కీటకం ఏది?",
+    "en": "Under the Wildlife Act notifications of 1980 and 1986, which of the following was added as a single species to the list of protected species?"
+   },
+   "options": {
+    "te": [
+     "ఒక తూనీగ (Dragonfly)",
+     "ఒక బీటిల్ (Beetle)",
+     "ఒక సీతాకోకచిలుక (Butterfly)",
+     "ఒక చిమ్మట (Moth)"
+    ],
+    "en": [
+     "One dragonfly",
+     "One beetle",
+     "One butterfly",
+     "One moth"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "1980, 1986 నోటిఫికేషన్ల ద్వారా వందలాది సీతాకోకచిలుకలు, చిమ్మటలు, బీటిల్స్‌తో పాటు కేవలం 'ఒక తూనీగ' (one dragonfly) ను రక్షిత జాబితాలో చేర్చారు.",
+    "en": "In the notifications of 1980 and 1986, several hundred butterflies, moths, and beetles, along with one dragonfly, were added to the list of protected species."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T19-0038",
+   "section": {
+    "te": "Tiger Population Data",
+    "en": "Tiger Population Data"
+   },
+   "q": {
+    "te": "అందించిన డేటా ప్రకారం, 2023 సంవత్సరంలో భారతదేశంలో పులుల జనాభా ఎంత?",
+    "en": "According to the data provided, what was the tiger population in India in the year 2023?"
+   },
+   "options": {
+    "te": [
+     "3,682",
+     "4,200",
+     "2,967",
+     "1,411"
+    ],
+    "en": [
+     "3,682",
+     "4,200",
+     "2,967",
+     "1,411"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "2023 సంవత్సరంలో పులుల జనాభా 3,682కి పెరిగిందని పాఠ్యం స్పష్టంగా పేర్కొంది.",
+    "en": "The tiger population increased to 3,682 in the year 2023."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T19-0004",
+   "section": {
+    "te": "Crocodile species conservation",
+    "en": "Crocodile species conservation"
+   },
+   "q": {
+    "te": "కేంద్ర ప్రభుత్వం ప్రకటించిన తీవ్ర ముప్పును ఎదుర్కొంటున్న జంతువుల పరిరక్షణ ప్రాజెక్టులలో కింది ఏ మొసలి జాతులు ఉన్నాయి?",
+    "en": "Which of the following types of crocodiles were specifically included in threatened species protection projects announced by the Central Government?"
+   },
+   "options": {
+    "te": [
+     "మంచినీటి మొసలి (Freshwater crocodile)",
+     "ఉప్పునీటి మొసలి (Saltwater crocodile)",
+     "ఘరియల్ (Gharial)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Freshwater crocodile",
+     "Saltwater crocodile",
+     "Gharial",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "కేంద్ర ప్రభుత్వం మూడు రకాల మొసళ్లైన మంచినీటి మొసలి, ఉప్పునీటి మొసలి మరియు ఘరియల్ పరిరక్షణ కోసం ప్రాజెక్టులను ప్రకటించింది.",
+    "en": "The government projects for threatened animals included three types of crocodiles: freshwater crocodile, saltwater crocodile, and the Gharial."
+   }
+  }
+ ]
+}

@@ -1,0 +1,942 @@
+{
+ "id": "geo-16-g1-2",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Rivers – క్విజ్ 2",
+  "en": "Rivers – Quiz 2"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T16-0083",
+   "section": {
+    "te": "Narmada catchment area",
+    "en": "Narmada catchment area"
+   },
+   "q": {
+    "te": "నర్మదా నది పరీవాహక ప్రాంత విస్తీర్ణం ఎంత?",
+    "en": "What is the catchment area of the Narmada river?"
+   },
+   "options": {
+    "te": [
+     "1,42,523 చ.కి.మీ.",
+     "98,796 చ.కి.మీ.",
+     "81,155 చ.కి.మీ.",
+     "65,145 చ.కి.మీ."
+    ],
+    "en": [
+     "1,42,523 sq. km",
+     "98,796 sq. km",
+     "81,155 sq. km",
+     "65,145 sq. km"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "నర్మదా నది పరీవాహక ప్రాంతం సుమారు 98,796 చ.కి.మీ.",
+    "en": "The catchment area of the Narmada river is about 98,796 sq. km."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T16-0009",
+   "section": {
+    "te": "Drainage Pattern Factors",
+    "en": "Drainage Pattern Factors"
+   },
+   "q": {
+    "te": "ఒక ప్రాంతం యొక్క డ్రైనేజీ నమూనా ఈ క్రింది ఏ అంశాల ఫలితంగా ఏర్పడుతుంది?\nA. శిలల స్వభావం మరియు నిర్మాణం\nB. భూభాగం మరియు వాలు\nC. ప్రవాహం యొక్క ఆవర్తన (Periodicity)",
+    "en": "The drainage pattern of an area is an outcome of which of the following factors?\nA. Nature and structure of rocks\nB. Topography and slope\nC. Periodicity of the flow"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Items A and B only",
+     "Items B and C only",
+     "Items A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "డ్రైనేజీ నమూనాలను నిర్ణయించే కారకాలుగా భౌగోళిక కాలం, శిలల స్వభావం/నిర్మాణం, భూభాగం, వాలు, నీటి పరిమాణం మరియు ఆవర్తనాన్ని పాఠం పేర్కొంది.",
+    "en": "The text lists geological time, rock nature/structure, topography, slope, water amount, and periodicity as factors determining drainage patterns."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T16-0100",
+   "section": {
+    "te": "Industrial sector water share",
+    "en": "Industrial sector water share"
+   },
+   "q": {
+    "te": "భారతదేశంలో నీటి వినియోగానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. పారిశ్రామిక రంగం ఉపరితల నీటి వినియోగంలో 2 శాతం, భూగర్భ జల వినియోగంలో 5 శాతం వాటాను కలిగి ఉంది.\n2. ఉపరితల నీటి వినియోగంలో గృహ వినియోగ రంగం వాటా 9 శాతంగా ఉంది.\nపై ప్రకటనలలో ఏది/ఏవి సరైనది/సరైనవి?",
+    "en": "Consider the following statements regarding water utilisation in India:\n1. The industrial sector accounts for 2 per cent of surface water utilisation and 5 per cent of groundwater utilisation.\n2. The domestic sector's share in surface water utilisation is 9 per cent.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "2 మాత్రమే",
+     "1 కాదు 2 కాదు"
+    ],
+    "en": [
+     "1 only",
+     "Both 1 and 2",
+     "2 only",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "రెండు ప్రకటనలు సరైనవే. పారిశ్రామిక రంగం ఉపరితల నీటిలో 2%, భూగర్భ జలాల్లో 5% వాడుతుండగా, గృహ రంగం ఉపరితల నీటిలో 9% వినియోగిస్తుంది.",
+    "en": "Both statements are correct. The industrial sector accounts for 2% of surface water and 5% of groundwater, while the domestic sector uses 9% of surface water."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T16-0005",
+   "section": {
+    "te": "Kaveri Water Sharing",
+    "en": "Kaveri Water Sharing"
+   },
+   "q": {
+    "te": "కావేరీ నది నీటి పంపకంలో ఈ క్రింది ఏ రాష్ట్రాలు/కేంద్రపాలిత ప్రాంతాలు పాలుపంచుకున్నాయి?",
+    "en": "Which of the following states/union territories are involved in the sharing of Kaveri River water?"
+   },
+   "options": {
+    "te": [
+     "కర్ణాటక మరియు తమిళనాడు మాత్రమే",
+     "కర్ణాటక, తమిళనాడు మరియు కేరళ మాత్రమే",
+     "కర్ణాటక, తమిళనాడు, కేరళ మరియు పుదుచ్చేరి",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Karnataka and Tamil Nadu only",
+     "Karnataka, Tamil Nadu and Kerala only",
+     "Karnataka, Tamil Nadu, Kerala and Puducherry",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కావేరీ నది నీటిని కర్ణాటక, తమిళనాడు, కేరళ మరియు కేంద్రపాలిత ప్రాంతమైన పుదుచ్చేరి మధ్య పంచుకుంటారు.",
+    "en": "The Kaveri river water is shared among Karnataka, Tamil Nadu, Kerala, and the union territory of Puducherry."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T16-0093",
+   "section": {
+    "te": "Sources of surface water",
+    "en": "Sources of surface water"
+   },
+   "q": {
+    "te": "భారతదేశంలో ఉపరితల నీటికి సంబంధించి క్రింది వాటిలో ప్రధాన వనరులు ఏవి?",
+    "en": "Which of the following are major sources of surface water in India?"
+   },
+   "options": {
+    "te": [
+     "నదులు మరియు సరస్సులు",
+     "చెరువులు (Ponds)",
+     "కుంటలు/ట్యాంకులు (Tanks)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Rivers and lakes",
+     "Ponds",
+     "Tanks",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నదులు, సరస్సులు, చెరువులు మరియు కుంటలు భారతదేశంలో ఉపరితల నీటికి నాలుగు ప్రధాన వనరులుగా ఉన్నాయి.",
+    "en": "The four major sources of surface water identified in the text are rivers, lakes, ponds, and tanks."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T16-0073",
+   "section": {
+    "te": "Length of Kaveri",
+    "en": "Length of Kaveri"
+   },
+   "q": {
+    "te": "కావేరి నది మొత్తం పొడవు ఎంత?",
+    "en": "What is the total length of the Kaveri river?"
+   },
+   "options": {
+    "te": [
+     "1,401 కి.మీ.",
+     "1,312 కి.మీ.",
+     "800 కి.మీ.",
+     "720 కి.మీ."
+    ],
+    "en": [
+     "1,401 km",
+     "1,312 km",
+     "800 km",
+     "720 km"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కావేరి నది మొత్తం పొడవు 800 కి.మీ. మరియు ఇది 81,155 చ.కి.మీ. విస్తీర్ణంలో ప్రవహిస్తుంది.",
+    "en": "The Kaveri river has a total length of 800 km and drains an area of 81,155 sq. km."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T16-0050",
+   "section": {
+    "te": "Ganga Entry to Plains",
+    "en": "Ganga Entry to Plains"
+   },
+   "q": {
+    "te": "గంగా నది ఏ ప్రదేశంలో పర్వతాల నుండి బయటకు వచ్చి మైదానాల్లోకి ప్రవేశిస్తుంది?",
+    "en": "At which place does the Ganga river emerge from the mountains and enter the plains?"
+   },
+   "options": {
+    "te": [
+     "రిషికేశ్",
+     "జోషీమఠ్",
+     "దేవప్రయాగ",
+     "హరిద్వార్"
+    ],
+    "en": [
+     "Rishikesh",
+     "Joshimath",
+     "Devprayag",
+     "Haridwar"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "గంగా నది కొండ ప్రాంతాలను విడిచిపెట్టి హరిద్వార్ వద్ద మైదాన ప్రాంతంలోకి ప్రవేశిస్తుంది.",
+    "en": "The Ganga river leaves the hilly terrain and enters the flat plains at Haridwar."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T16-0017",
+   "section": {
+    "te": "Dendritic Drainage Pattern",
+    "en": "Dendritic Drainage Pattern"
+   },
+   "q": {
+    "te": "వృక్షం యొక్క కొమ్మలను పోలి ఉండే మరియు ఉత్తర మైదాన నదులలో సాధారణంగా కనిపించే డ్రైనేజీ నమూనా ఏది?",
+    "en": "Which drainage pattern resembles the branches of a tree and is commonly found in the rivers of the northern plain?"
+   },
+   "options": {
+    "te": [
+     "రేడియల్ (Radial)",
+     "డెన్డ్రిటిక్ (Dendritic)",
+     "ట్రెల్లిస్ (Trellis)",
+     "సెంట్రిపెటల్ (Centripetal)"
+    ],
+    "en": [
+     "Radial",
+     "Dendritic",
+     "Trellis",
+     "Centripetal"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "డెన్డ్రిటిక్ డ్రైనేజీ నమూనా చెట్టు కొమ్మల వంటి నిర్మాణాన్ని కలిగి ఉంటుంది, ఇది భారతదేశ ఉత్తర మైదానాల్లోని నదులకు విలక్షణమైనది.",
+    "en": "The dendritic drainage pattern is characterized by a tree-branch-like structure, typical of the rivers in the northern plains of India."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T16-0105",
+   "section": {
+    "te": "Arsenic concentration in groundwater",
+    "en": "Arsenic concentration in groundwater"
+   },
+   "q": {
+    "te": "భూగర్భ జలాలను అధికంగా వాడటం వల్ల క్రింది ఏ రాష్ట్రాల్లోని కొన్ని ప్రాంతాలలో ఆర్సెనిక్ సాంద్రత పెరిగింది?",
+    "en": "Over-withdrawal of groundwater has led to an increase in the concentration of arsenic in parts of which states?"
+   },
+   "options": {
+    "te": [
+     "రాజస్థాన్ మరియు గుజరాత్",
+     "పంజాబ్ మరియు హర్యానా",
+     "తమిళనాడు మరియు కేరళ",
+     "పశ్చిమ బెంగాల్ మరియు బీహార్"
+    ],
+    "en": [
+     "Rajasthan and Gujarat",
+     "Punjab and Haryana",
+     "Tamil Nadu and Kerala",
+     "West Bengal and Bihar"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పశ్చిమ బెంగాల్ మరియు బీహార్‌లలోని కొన్ని ప్రాంతాలలో మితిమీరిన భూగర్భ జలాల వెలికితీత కారణంగా ఆర్సెనిక్ సాంద్రత పెరిగింది.",
+    "en": "Over-withdrawal of groundwater has caused an increase in the concentration of arsenic in parts of West Bengal and Bihar."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T16-0006",
+   "section": {
+    "te": "Mettur Dam",
+    "en": "Mettur Dam"
+   },
+   "q": {
+    "te": "కావేరీ నదిపై నిర్మించిన మెట్టూరు ఆనకట్ట ఏ రాష్ట్రంలో ఉంది?",
+    "en": "In which state is the Mettur dam, built on the Kaveri river, located?"
+   },
+   "options": {
+    "te": [
+     "కర్ణాటక",
+     "పుదుచ్చేరి",
+     "కేరళ",
+     "తమిళనాడు"
+    ],
+    "en": [
+     "Karnataka",
+     "Puducherry",
+     "Kerala",
+     "Tamil Nadu"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "చిత్రం 1.13 ప్రకారం, మెట్టూరు ఆనకట్ట తమిళనాడులో ఉంది.",
+    "en": "According to the caption of Figure 1.13, the Mettur dam is located in Tamil Nadu."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T16-0108",
+   "section": {
+    "te": "Harnessing of river flow",
+    "en": "Harnessing of river flow"
+   },
+   "q": {
+    "te": "భారతదేశంలో నదీ ప్రవాహ వినియోగానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\nనిశ్చితార్థం (A): గోదావరి, కృష్ణా మరియు కావేరి వంటి దక్షిణ భారత నదులలోని వార్షిక నీటి ప్రవాహంలో ఎక్కువ భాగం వినియోగంలోకి తీసుకురాబడింది.\nహేతువు (R): బ్రహ్మపుత్ర మరియు గంగా నదీ పరివాహక ప్రాంతాలలో వార్షిక నీటి ప్రవాహ వినియోగం ఇంకా పూర్తి కాలేదు.\nక్రింది వాటిలో ఏది సరైనది?",
+    "en": "Consider the following statements regarding the utilisation of river flow in India:\nAssertion (A): Much of the annual water flow in south Indian rivers like the Godavari, the Krishna, and the Kaveri has been harnessed.\nReason (R): In the Brahmaputra and the Ganga basins, the harnessing of annual water flow is yet to be done.\nWhich of the following is correct?"
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ సరైనవి, మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ సరైనవి, కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A సరైనది కానీ R తప్పు",
+     "A తప్పు కానీ R సరైనది"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "రెండు ప్రకటనలు సరైనవే, అయితే R అనేది A కి కారణం లేదా సరైన వివరణ కాదు.",
+    "en": "Both statements are correct facts mentioned in the text, but R is not the cause or explanation of A."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T16-0033",
+   "section": {
+    "te": "Kosi River Sedimentation",
+    "en": "Kosi River Sedimentation"
+   },
+   "q": {
+    "te": "కోసి నది తరచుగా తన మార్గాన్ని మార్చుకోవడానికి ప్రాథమిక కారణం ఏమిటి?",
+    "en": "What is the primary reason the Kosi river frequently changes its course?"
+   },
+   "options": {
+    "te": [
+     "కృత్రిమ కట్టల నిర్మాణం",
+     "భారీ పరిమాణంలో అవక్షేపాలు (sediments) చేరడం వల్ల మార్గం మూసుకుపోవడం",
+     "మైదానాలలో టెక్టోనిక్ కార్యకలాపాలు",
+     "అధిక బాష్పీభవన రేట్లు"
+    ],
+    "en": [
+     "Construction of artificial embankments",
+     "Blockage of its course by huge quantities of sediments",
+     "Tectonic activity in the plains",
+     "High evaporation rates"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కోసి నది పర్వతాల నుండి పెద్ద మొత్తంలో అవక్షేపాలను తీసుకువస్తుంది, ఇది మైదానాలలో పేరుకుపోయి దాని మార్గాన్ని అడ్డుకుంటుంది, దీనివల్ల అది మార్గాన్ని మార్చుకోవాల్సి వస్తుంది.",
+    "en": "The Kosi river carries a large amount of sediment from the mountains, which deposits in the plains and blocks its path, forcing it to change course."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T16-0095",
+   "section": {
+    "te": "Surface water utilisable volume",
+    "en": "Surface water utilisable volume"
+   },
+   "q": {
+    "te": "స్థలాకృతి, జలసంబంధిత మరియు ఇతర పరిమితుల కారణంగా భారతదేశంలో అందుబాటులో ఉన్న ఉపరితల నీటిలో ఎంత పరిమాణాన్ని మాత్రమే వినియోగించుకోవచ్చు?",
+    "en": "Due to topographical, hydrological and other constraints, what quantity of available surface water can be utilised in India?"
+   },
+   "options": {
+    "te": [
+     "సుమారు 432 క్యూబిక్ కి.మీ. (23 శాతం)",
+     "సుమారు 1,869 క్యూబిక్ కి.మీ. (100 శాతం)",
+     "సుమారు 1,122 క్యూబిక్ కి.మీ. (60 శాతం)",
+     "సుమారు 690 క్యూబిక్ కి.మీ. (32 శాతం)"
+    ],
+    "en": [
+     "About 432 cubic km (23 per cent)",
+     "About 1,869 cubic km (100 per cent)",
+     "About 1,122 cubic km (60 per cent)",
+     "About 690 cubic km (32 per cent)"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "స్థలాకృతి మరియు ఇతర పరిమితుల వల్ల లభించే ఉపరితల నీటిలో సుమారు 690 క్యూబిక్ కి.మీ. (32 శాతం) మాత్రమే వినియోగించుకోగలరు.",
+    "en": "Because of hydrological and topographical constraints, only about 690 cubic km, or 32 per cent of available surface water, can be utilised."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T16-0104",
+   "section": {
+    "te": "Fluoride concentration in groundwater",
+    "en": "Fluoride concentration in groundwater"
+   },
+   "q": {
+    "te": "భూగర్భ జలాలను అధికంగా తోడివేయడం వల్ల క్రింది ఏ రాష్ట్రాలలో ఫ్లోరైడ్ సాంద్రత పెరిగింది?",
+    "en": "Over-withdrawal of groundwater has led to an increased concentration of fluoride in which of the following states?"
+   },
+   "options": {
+    "te": [
+     "పశ్చిమ బెంగాల్ మరియు బీహార్",
+     "రాజస్థాన్ మరియు మహారాష్ట్ర",
+     "పంజాబ్ మరియు హర్యానా",
+     "కేరళ మరియు ఒడిశా"
+    ],
+    "en": [
+     "West Bengal and Bihar",
+     "Rajasthan and Maharashtra",
+     "Punjab and Haryana",
+     "Kerala and Odisha"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భూగర్భ జలాల మితిమీరిన వినియోగం వల్ల రాజస్థాన్ మరియు మహారాష్ట్రలలో ఫ్లోరైడ్ సాంద్రత పెరిగింది.",
+    "en": "Over-withdrawal of groundwater has increased the concentration of fluoride in states like Rajasthan and Maharashtra."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T16-0004",
+   "section": {
+    "te": "Brahmaputra Characteristics",
+    "en": "Brahmaputra Characteristics"
+   },
+   "q": {
+    "te": "బ్రహ్మపుత్ర నదికి సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. దీని పేరుకు 'బ్రహ్మ కుమారుడు' అని అర్థం.\n2. ఇది వేసవి కాలంలో గణనీయంగా ఎండిపోతుంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the Brahmaputra river:\n1. Its name means 'the son of Brahma'.\n2. It dries up significantly during the summer season.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రకటన 1 సరైనది ఎందుకంటే దీని పేరుకు 'బ్రహ్మ కుమారుడు' అని అర్థం. ప్రకటన 2 తప్పు ఎందుకంటే ఈ నది వేసవిలో ఎండిపోవడానికి బదులుగా పెద్దదిగా మారుతుంది.",
+    "en": "Statement 1 is correct as the name means 'son of Brahma'. Statement 2 is incorrect because the river gets bigger during summer instead of drying up."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T16-0055",
+   "section": {
+    "te": "Kosi River Tributaries",
+    "en": "Kosi River Tributaries"
+   },
+   "q": {
+    "te": "నేపాల్‌లోని మధ్య హిమాలయాలను దాటిన తర్వాత, అరుణ్ నది సప్త కోసిగా మారడానికి ఏ రెండు నదులతో కలుస్తుంది?",
+    "en": "After crossing the Central Himalayas in Nepal, Arun river is joined by which two rivers to form the Sapt Kosi?"
+   },
+   "options": {
+    "te": [
+     "కాళీగండక్ మరియు త్రిశూల్‌గంగ",
+     "తిలా మరియు సేతి",
+     "బరాకర్ మరియు దామోదర్",
+     "సోన్ కోసి మరియు తమూర్ కోసి"
+    ],
+    "en": [
+     "Kaligandak and Trishulganga",
+     "Tila and Seti",
+     "Barakar and Damodar",
+     "Son Kosi and Tamur Kosi"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నేపాల్‌లో అరుణ్ నదితో పశ్చిమం నుండి సోన్ కోసి, తూర్పు నుండి తమూర్ కోసి కలిసి సప్త కోసిగా ఏర్పడతాయి.",
+    "en": "In Nepal, Arun is joined by the Son Kosi from the west and the Tamur Kosi from the east to form the Sapt Kosi."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T16-0028",
+   "section": {
+    "te": "River Landforms",
+    "en": "River Landforms"
+   },
+   "q": {
+    "te": "మైదాన ప్రాంతాలలో హిమాలయ నదుల ద్వారా ఏర్పడే నిక్షేపణ లక్షణం (depositional feature) కానిది ఏది?",
+    "en": "Which of the following is NOT a depositional feature formed by Himalayan rivers in the plains?"
+   },
+   "options": {
+    "te": [
+     "లోతైన గొర్జెలు (Deep gorges)",
+     "ఆక్స్-బౌ సరస్సులు (Ox-bow lakes)",
+     "అల్లిన ఛానెల్‌లు (Braided channels)",
+     "డెల్టాలు (Deltas)"
+    ],
+    "en": [
+     "Deep gorges",
+     "Ox-bow lakes",
+     "Braided channels",
+     "Deltas"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "గొర్జెలు హిమాలయ ప్రాంతాలలో ఏర్పడే క్రమక్షయ లక్షణాలు, అయితే ఆక్స్-బౌ సరస్సులు, అల్లిన ఛానెల్‌లు మరియు డెల్టాలు మైదానాలలో ఏర్పడే నిక్షేపణ లక్షణాలు.",
+    "en": "Gorges are erosional features formed in the Himalayan reaches, while ox-bow lakes, braided channels, and deltas are depositional features formed in the plains."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T16-0051",
+   "section": {
+    "te": "Indus Himalayan Tributaries",
+    "en": "Indus Himalayan Tributaries"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో సింధు నది యొక్క హిమాలయ ఉపనదులు ఏవి?",
+    "en": "Which of the following are Himalayan tributaries of the Indus river?"
+   },
+   "options": {
+    "te": [
+     "ష్యోక్ మరియు గిల్గిట్",
+     "జస్కర్ మరియు హుంజా",
+     "నుబ్రా మరియు షిగార్",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Shyok and Gilgit",
+     "Zaskar and Hunza",
+     "Nubra and Shigar",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ష్యోక్, గిల్గిట్, జస్కర్, హుంజా, నుబ్రా మరియు షిగార్ అన్నీ సింధు నదికి ఉన్న హిమాలయ ఉపనదులుగా పేర్కొనబడ్డాయి.",
+    "en": "The Shyok, Gilgit, Zaskar, Hunza, Nubra, and Shigar are all listed as Himalayan tributaries that the Indus receives."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T16-0091",
+   "section": {
+    "te": "World water resource share",
+    "en": "World water resource share"
+   },
+   "q": {
+    "te": "ప్రపంచ వనరులలో భారతదేశ వాటాకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ప్రపంచ ఉపరితల వైశాల్యంలో భారతదేశం దాదాపు 2.45 శాతం కలిగి ఉంది.\n2. ప్రపంచ నీటి వనరులలో భారతదేశం దాదాపు 4 శాతం కలిగి ఉంది.\n3. ప్రపంచ జనాభాలో భారతదేశం 17 శాతానికి పైగా కలిగి ఉంది.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding India's share of world resources:\n1. India accounts for about 2.45 per cent of the world's surface area.\n2. India possesses about 4 per cent of the world's water resources.\n3. India accounts for more than 17 per cent of the world's population.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1, 2 మరియు 3",
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే"
+    ],
+    "en": [
+     "1, 2 and 3",
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రపంచ ఉపరితల వైశాల్యంలో 2.45 శాతం, ప్రపంచ నీటి వనరులలో 4 శాతం మరియు ప్రపంచ జనాభాలో 17 శాతానికి పైగా భారతదేశం వాటా కలిగి ఉంది.",
+    "en": "India accounts for about 2.45 per cent of the world's surface area, 4 per cent of the world's water resources, and more than 17 per cent of the world's population."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T16-0040",
+   "section": {
+    "te": "Chenab River Formation",
+    "en": "Chenab River Formation"
+   },
+   "q": {
+    "te": "చీనాబ్ నది ఏ రెండు ప్రవాహాల కలయిక వల్ల ఏర్పడింది?",
+    "en": "The Chenab river is formed by the union of which two streams?"
+   },
+   "options": {
+    "te": [
+     "చంద్ర మరియు భాగ",
+     "ధౌలీ మరియు విష్ణు",
+     "పిండార్ మరియు మందాకిని",
+     "అలకనంద మరియు భాగీరథి"
+    ],
+    "en": [
+     "Chandra and Bhaga",
+     "Dhauli and Vishnu",
+     "Pindar and Mandakini",
+     "Alaknanda and Bhagirathi"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "హిమాచల్ ప్రదేశ్‌లోని తాండీ వద్ద కలిసే చంద్ర మరియు భాగ అనే రెండు ప్రవాహాల ద్వారా చీనాబ్ ఏర్పడింది.",
+    "en": "The Chenab is formed by two streams, the Chandra and the Bhaga, which join at Tandi in Himachal Pradesh."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T16-0088",
+   "section": {
+    "te": "Narmada estuary length",
+    "en": "Narmada estuary length"
+   },
+   "q": {
+    "te": "భరూచ్‌కు దక్షిణంగా అరేబియా సముద్రంలో కలిసే చోట నర్మదా నది ఏర్పరిచే విశాలమైన ఎస్ట్యురీ పొడవు ఎంత?",
+    "en": "What is the length of the broad estuary formed by the Narmada river south of Bharuch where it meets the Arabian Sea?"
+   },
+   "options": {
+    "te": [
+     "15 కి.మీ.",
+     "35 కి.మీ.",
+     "27 కి.మీ.",
+     "41 కి.మీ."
+    ],
+    "en": [
+     "15 km",
+     "35 km",
+     "27 km",
+     "41 km"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నర్మదా నది భరూచ్‌కు దక్షిణంగా అరేబియా సముద్రంలో కలుస్తూ 27 కి.మీ. పొడవైన ఎస్ట్యురీని ఏర్పరుస్తుంది.",
+    "en": "Where the Narmada meets the Arabian Sea south of Bharuch, it forms a broad estuary that is 27 km long."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T16-0048",
+   "section": {
+    "te": "Satluj Antecedent Nature",
+    "en": "Satluj Antecedent Nature"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): సట్లెజ్ నది ఒక పూర్వగామి (antecedent) నదిగా పరిగణించబడుతుంది.\nకారణం (R): ఇది హిమాలయ శ్రేణులపై షిప్కీ లా గుండా ప్రవహించి పంజాబ్ మైదానంలోకి ప్రవేశిస్తుంది.",
+    "en": "Assertion (A): The Satluj river is considered an antecedent river.\nReason (R): It passes through the Shipki La on the Himalayan ranges and enters the Punjab plains."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సట్లెజ్ ఒక పూర్వగామి నది ఎందుకంటే హిమాలయ శ్రేణులు పైకి లేస్తున్నప్పుడు వాటిని కోసుకుంటూ (షిప్కీ లా వద్ద ఉన్నట్లుగా) తన మార్గాన్ని నిలుపుకుంది.",
+    "en": "The Satluj is an antecedent river because it maintained its course by cutting through the Himalayan ranges (like at Shipki La) as they rose."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T16-0060",
+   "section": {
+    "te": "Mahanadi river source",
+    "en": "Mahanadi river source"
+   },
+   "q": {
+    "te": "ఛత్తీస్‌గఢ్‌లోని రాయ్‌పూర్ జిల్లాలోని ఏ ప్రాంతానికి సమీపంలో మహానది జన్మిస్తుంది?",
+    "en": "Near which place in Raipur district of Chhattisgarh does the Mahanadi river rise?"
+   },
+   "options": {
+    "te": [
+     "త్రియంబక్",
+     "ముల్తాయ్",
+     "సిహావా",
+     "మహాబలేశ్వర్"
+    ],
+    "en": [
+     "Trimbak",
+     "Multai",
+     "Sihawa",
+     "Mahabaleshwar"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మహానది ఛత్తీస్‌గఢ్‌లోని రాయ్‌పూర్ జిల్లాలోని సిహావా సమీపంలో ఉద్భవించి ఒడిశా గుండా ప్రవహిస్తుంది.",
+    "en": "The Mahanadi rises near Sihawa in the Raipur district of Chhattisgarh and flows through Odisha into the Bay of Bengal."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T16-0098",
+   "section": {
+    "te": "Agricultural surface water share",
+    "en": "Agricultural surface water share"
+   },
+   "q": {
+    "te": "భారతదేశంలో ఉపరితల నీటి వినియోగంలో వ్యవసాయ రంగం ఎంత శాతం వాటాను కలిగి ఉంది?",
+    "en": "What percentage of the total surface water utilisation in India is accounted for by agriculture?"
+   },
+   "options": {
+    "te": [
+     "60 శాతం",
+     "92 శాతం",
+     "89 శాతం",
+     "32 శాతం"
+    ],
+    "en": [
+     "60 per cent",
+     "92 per cent",
+     "89 per cent",
+     "32 per cent"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతదేశంలో ఉపరితల నీటి వినియోగంలో వ్యవసాయ రంగం 89 శాతం వాటాను కలిగి ఉంది.",
+    "en": "The agricultural sector accounts for 89 per cent of surface water utilisation and 92 per cent of groundwater utilisation in India."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T16-0094",
+   "section": {
+    "te": "Lagoon water utilisation",
+    "en": "Lagoon water utilisation"
+   },
+   "q": {
+    "te": "కేరళ, ఒడిశా మరియు పశ్చిమ బెంగాల్‌లలోని లగూన్లు మరియు సరస్సులలోని ఉప్పునీటిని క్రింది వేటికి ఉపయోగిస్తారు?",
+    "en": "For which of the following purposes is the brackish water in the lagoons and lakes of Kerala, Odisha and West Bengal used?"
+   },
+   "options": {
+    "te": [
+     "చేపల పెంపకం",
+     "కొన్ని రకాల వరి పంటలు మరియు కొబ్బరి సాగుకు నీటిపారుదల",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Fishing",
+     "Irrigating certain varieties of paddy crops and coconut",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "లగూన్లు మరియు సరస్సులలోని ఉప్పునీరు సాధారణంగా చేపల పెంపకానికి మరియు కొన్ని రకాల వరి పంటలు, కొబ్బరి సాగుకు ఉపయోగించబడుతుంది.",
+    "en": "The brackish water in lagoons and lakes is used for fishing as well as for irrigating specific varieties of paddy crops and coconut."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T16-0080",
+   "section": {
+    "te": "Length of Narmada",
+    "en": "Length of Narmada"
+   },
+   "q": {
+    "te": "అరేబియా సముద్రంలో కలవడానికి ముందు నర్మదా నది ప్రవహించే మొత్తం దూరం ఎంత?",
+    "en": "What is the total distance flowed by the Narmada river before meeting the Arabian Sea?"
+   },
+   "options": {
+    "te": [
+     "1,057 కి.మీ.",
+     "1,312 కి.మీ.",
+     "800 కి.మీ.",
+     "1,401 కి.మీ."
+    ],
+    "en": [
+     "1,057 km",
+     "1,312 km",
+     "800 km",
+     "1,401 km"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "నర్మదా నది దాదాపు 1,312 కి.మీ. దూరం ప్రవహించిన తర్వాత భరూచ్‌కు దక్షిణంగా అరేబియా సముద్రంలో కలుస్తుంది.",
+    "en": "The Narmada river flows a distance of about 1,312 km before emptying into the Arabian Sea south of Bharuch."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T16-0064",
+   "section": {
+    "te": "Krishna river length",
+    "en": "Krishna river length"
+   },
+   "q": {
+    "te": "కృష్ణా నది మొత్తం పొడవు ఎంత?",
+    "en": "What is the total length of the Krishna river?"
+   },
+   "options": {
+    "te": [
+     "851 కి.మీ.",
+     "1,465 కి.మీ.",
+     "724 కి.మీ.",
+     "1,401 కి.మీ."
+    ],
+    "en": [
+     "851 km",
+     "1,465 km",
+     "724 km",
+     "1,401 km"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "తూర్పు ముఖంగా ప్రవహించే రెండవ అతిపెద్ద ద్వీపకల్ప నది అయిన కృష్ణా నది మొత్తం పొడవు 1,401 కి.మీ.",
+    "en": "The Krishna is the second largest east-flowing Peninsular river with a total length of 1,401 km."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T16-0053",
+   "section": {
+    "te": "Damodar River Tributary",
+    "en": "Damodar River Tributary"
+   },
+   "q": {
+    "te": "కింది వాటిలో దామోదర్ నది యొక్క ప్రధాన ఉపనది ఏది?",
+    "en": "Which of the following is the main tributary of the Damodar river?"
+   },
+   "options": {
+    "te": [
+     "హిండన్",
+     "గోమతి",
+     "మహానంద",
+     "బరాకర్"
+    ],
+    "en": [
+     "Hindan",
+     "Gomati",
+     "Mahananda",
+     "Barakar"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "బరాకర్ దామోదర్ నది యొక్క ప్రధాన ఉపనది.",
+    "en": "The Barakar is the main tributary of the Damodar river."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T16-0039",
+   "section": {
+    "te": "Alaknanda Confluences",
+    "en": "Alaknanda Confluences"
+   },
+   "q": {
+    "te": "అలకనంద నది యొక్క సంగమాలను వాటి సంబంధిత ఉపనదులతో జతపరచండి:\nI. విష్ణు ప్రయాగ - a. మందాకిని\nII. కర్ణ ప్రయాగ - b. ధౌలీ గంగ\nIII. రుద్ర ప్రయాగ - c. పిండార్",
+    "en": "Match the following confluences of the Alaknanda river with their respective joining tributaries:\nI. Vishnu Prayag - a. Mandakini\nII. Karna Prayag - b. Dhauli Ganga\nIII. Rudra Prayag - c. Pindar"
+   },
+   "options": {
+    "te": [
+     "I-b, II-c, III-a",
+     "I-a, II-b, III-c",
+     "I-c, II-a, III-b",
+     "I-b, II-a, III-c"
+    ],
+    "en": [
+     "I-b, II-c, III-a",
+     "I-a, II-b, III-c",
+     "I-c, II-a, III-b",
+     "I-b, II-a, III-c"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ధౌలీ గంగ విష్ణు ప్రయాగ వద్ద, పిండార్ కర్ణ ప్రయాగ వద్ద మరియు మందాకిని రుద్ర ప్రయాగ వద్ద అలకనందను కలుస్తాయి.",
+    "en": "Dhauli Ganga meets Alaknanda at Vishnu Prayag, Pindar meets it at Karna Prayag, and Mandakini meets it at Rudra Prayag."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T16-0077",
+   "section": {
+    "te": "Narmada river origin",
+    "en": "Narmada river origin"
+   },
+   "q": {
+    "te": "నర్మదా నది ఏ పీఠభూమి యొక్క పశ్చిమ భాగంలో జన్మిస్తుంది?",
+    "en": "The Narmada river originates on the western flank of which plateau?"
+   },
+   "options": {
+    "te": [
+     "అమర్‌కంటక్ పీఠభూమి",
+     "మాల్వా పీఠభూమి",
+     "ఛోటానాగ్‌పూర్ పీఠభూమి",
+     "షిల్లాంగ్ పీఠభూమి"
+    ],
+    "en": [
+     "Amarkantak plateau",
+     "Malwa plateau",
+     "Chota Nagpur plateau",
+     "Shillong plateau"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నర్మదా నది అమర్‌కంటక్ పీఠభూమి పశ్చిమ భాగంలో సుమారు 1,057 మీటర్ల ఎత్తులో జన్మిస్తుంది.",
+    "en": "The Narmada river originates on the western flank of the Amarkantak plateau at a height of about 1,057 m."
+   }
+  }
+ ]
+}

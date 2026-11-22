@@ -1,0 +1,942 @@
+{
+ "id": "geo-27-g1-3",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Transport – క్విజ్ 3",
+  "en": "Transport – Quiz 3"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T27-0269",
+   "section": {
+    "te": "Air Transport History",
+    "en": "Air Transport History"
+   },
+   "q": {
+    "te": "1911లో, భారతదేశంలో మొదటి ఎయిర్‌మెయిల్ ఆపరేషన్ ఏ రెండు ప్రాంతాల మధ్య ప్రారంభమైంది?",
+    "en": "In 1911, the first airmail operation in India was commenced between which two locations?"
+   },
+   "options": {
+    "te": [
+     "కోల్‌కతా మరియు హల్దియా",
+     "ప్రయాగ్‌రాజ్ మరియు నైని",
+     "ఢిల్లీ మరియు ఆగ్రా",
+     "ముంబై మరియు థానే"
+    ],
+    "en": [
+     "Kolkata and Haldia",
+     "Prayagraj and Naini",
+     "Delhi and Agra",
+     "Mumbai and Thane"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారతదేశంలో విమాన రవాణా 1911లో ప్రయాగ్‌రాజ్ మరియు నైని మధ్య 10 కిలోమీటర్ల ఎయిర్‌మెయిల్ విమానంతో ప్రారంభమైంది.",
+    "en": "Air transport in India began in 1911 with a 10 km airmail flight between Prayagraj and Naini."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T27-0058",
+   "section": {
+    "te": "Software and IT",
+    "en": "Software and IT"
+   },
+   "q": {
+    "te": "భారతదేశం అంతర్జాతీయ స్థాయిలో సాఫ్ట్‌వేర్ దిగ్గజంగా అవతరించింది మరియు కింది వాటిలో దేని ఎగుమతి ద్వారా పెద్ద మొత్తంలో విదేశీ మారకద్రవ్యాన్ని ఆర్జిస్తోంది?",
+    "en": "India has emerged as a software giant at the international level and is earning large foreign exchange through the export of which of the following?"
+   },
+   "options": {
+    "te": [
+     "వ్యవసాయ యంత్రాలు",
+     "సమాచార సాంకేతికత (ఇన్ఫర్మేషన్ టెక్నాలజీ)",
+     "పెట్రోలియం ఉత్పత్తులు",
+     "ఎలక్ట్రానిక్ హార్డ్‌వేర్"
+    ],
+    "en": [
+     "Agricultural machinery",
+     "Information technology",
+     "Petroleum products",
+     "Electronic hardware"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారతదేశం అంతర్జాతీయ స్థాయిలో సాఫ్ట్‌వేర్ రంగంలో అగ్రగామిగా నిలిచి, ఇన్ఫర్మేషన్ టెక్నాలజీ ఎగుమతి ద్వారా భారీగా విదేశీ మారకద్రవ్యాన్ని ఆర్జిస్తోంది.",
+    "en": "India has emerged as an international software giant and earns large foreign exchange through the export of information technology."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T27-0224",
+   "section": {
+    "te": "National Highways Purpose",
+    "en": "National Highways Purpose"
+   },
+   "q": {
+    "te": "భారతదేశంలోని జాతీయ రహదారులు ప్రాథమికంగా క్రింది ఏ ప్రయోజనాల కోసం ఉద్దేశించబడ్డాయి?",
+    "en": "National Highways in India are primarily meant for which of the following purposes?"
+   },
+   "options": {
+    "te": [
+     "అంతర్-రాష్ట్ర రవాణా",
+     "వ్యూహాత్మక ప్రాంతాలలో రక్షణ సిబ్బంది మరియు సామాగ్రి తరలింపు",
+     "A మరియు B రెండూ",
+     "మారుమూల గ్రామీణ గ్రామాలను మాత్రమే కలపడం"
+    ],
+    "en": [
+     "Inter-state transport",
+     "Movement of defence men and material in strategic areas",
+     "Both A and B",
+     "Connecting remote rural villages only"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "జాతీయ రహదారులు అంతర్-రాష్ట్ర రవాణా మరియు వ్యూహాత్మక ప్రాంతాలలో రక్షణ సిబ్బంది మరియు సామాగ్రి తరలింపు కోసం ఉద్దేశించబడ్డాయి.",
+    "en": "National Highways are intended for inter-state transport and the movement of defense personnel and materials in strategic regions."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T27-0226",
+   "section": {
+    "te": "Road Traffic Share",
+    "en": "Road Traffic Share"
+   },
+   "q": {
+    "te": "భారతదేశంలో ప్రతి సంవత్సరం ఎంత శాతం ప్రయాణీకుల రవాణా రోడ్ల ద్వారా జరుగుతుంది?",
+    "en": "What percentage of passenger traffic in India is carried by roads every year?"
+   },
+   "options": {
+    "te": [
+     "40 శాతం",
+     "70 శాతం",
+     "95 శాతం",
+     "85 శాతం"
+    ],
+    "en": [
+     "40 per cent",
+     "70 per cent",
+     "95 per cent",
+     "85 per cent"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రోడ్లు ఏటా సుమారు 85% ప్రయాణీకుల రవాణాను మరియు 70% సరుకు రవాణాను నిర్వహిస్తాయని మూలం పేర్కొంది.",
+    "en": "Roads carry about 85% of passenger traffic and 70% of freight traffic annually."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T27-0176",
+   "section": {
+    "te": "Danube Exports",
+    "en": "Danube Exports"
+   },
+   "q": {
+    "te": "డాన్యూబ్ జలమార్గం ద్వారా రవాణా చేయబడే ప్రధాన ఎగుమతి వస్తువులు ఏవి?",
+    "en": "Which of the following are the chief export items transported via the Danube waterway?"
+   },
+   "options": {
+    "te": [
+     "గోధుమలు మరియు మొక్కజొన్న",
+     "కలప మరియు యంత్రాలు",
+     "బొగ్గు మరియు సిమెంట్",
+     "A మరియు B రెండూ"
+    ],
+    "en": [
+     "Wheat and Maize",
+     "Timber and Machinery",
+     "Coal and Cement",
+     "Both A and B"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "డాన్యూబ్ జలమార్గం గోధుమలు, మొక్కజొన్న, కలప మరియు యంత్రాలను ఎగుమతి చేయడానికి ఉపయోగించబడుతుంది.",
+    "en": "The Danube waterway is used to export wheat, maize, timber, and machinery."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T27-0001",
+   "section": {
+    "te": "Suez Canal Opening",
+    "en": "Suez Canal Opening"
+   },
+   "q": {
+    "te": "సూయజ్ కాలువ సముద్ర రవాణా కోసం ఏ సంవత్సరంలో ప్రారంభించబడింది?",
+    "en": "In which year was the Suez Canal opened for maritime traffic?"
+   },
+   "options": {
+    "te": [
+     "1859",
+     "1889",
+     "1879",
+     "1869"
+    ],
+    "en": [
+     "1859",
+     "1889",
+     "1879",
+     "1869"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సూయజ్ కాలువ అనేది 1869లో ప్రారంభించబడిన మానవ నిర్మిత మార్గం, ఇది ఎర్ర సముద్రాన్ని మధ్యధరా సముద్రంతో కలుపుతుంది.",
+    "en": "The Suez Canal is a human-made passage that was opened in 1869, connecting the Red Sea with the Mediterranean."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T27-0093",
+   "section": {
+    "te": "Pack Animals",
+    "en": "Pack Animals"
+   },
+   "q": {
+    "te": "ఉత్తర అమెరికా మరియు సైబీరియాలో మంచుతో కప్పబడిన నేలపై స్లెడ్జ్‌లను (sledges) లాగడానికి ఈ క్రింది ఏ జంతువులను ఉపయోగిస్తారు?",
+    "en": "Which of the following animals are used to draw sledges over snow-covered ground in North America and Siberia?"
+   },
+   "options": {
+    "te": [
+     "కుక్కలు",
+     "రెయిన్ డీర్",
+     "A మరియు B రెండూ",
+     "కంచర గాడిదలు"
+    ],
+    "en": [
+     "Dogs",
+     "Reindeer",
+     "Both A and B",
+     "Mules"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, ఉత్తర అమెరికా, ఉత్తర యూరప్ మరియు సైబీరియాలో మంచుపై స్లెడ్జ్‌లను లాగడానికి కుక్కలు మరియు రెయిన్ డీర్ రెండింటినీ ఉపయోగిస్తారు.",
+    "en": "Both dogs and reindeer are used in North America, North Europe, and Siberia to draw sledges over snow."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T27-0321",
+   "section": {
+    "te": "Deendayal Port",
+    "en": "Deendayal Port"
+   },
+   "q": {
+    "te": "దీన్ దయాల్ పోర్ట్ (కాండ్లా) ప్రధానంగా ఈ క్రింది ఏ ఓడరేవుపై ఒత్తిడిని తగ్గించడానికి అభివృద్ధి చేయబడింది?",
+    "en": "Deendayal Port (Kandla) was primarily developed to reduce the pressure on which of the following ports?"
+   },
+   "options": {
+    "te": [
+     "కోల్‌కతా పోర్ట్",
+     "మర్మగోవా పోర్ట్",
+     "ముంబై పోర్ట్",
+     "చెన్నై పోర్ట్"
+    ],
+    "en": [
+     "Kolkata Port",
+     "Mormugao Port",
+     "Mumbai Port",
+     "Chennai Port"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పశ్చిమ మరియు వాయువ్య భారతదేశ అవసరాలను తీర్చడానికి మరియు ముంబై ఓడరేవు వద్ద ఒత్తిడిని తగ్గించడానికి దీన్ దయాల్ పోర్ట్ అభివృద్ధి చేయబడింది.",
+    "en": "Deendayal Port was developed to cater to western/northwestern India and to reduce the pressure at Mumbai port."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T27-0268",
+   "section": {
+    "te": "Oceanic Trade",
+    "en": "Oceanic Trade"
+   },
+   "q": {
+    "te": "భారతదేశ విదేశీ వాణిజ్యంలో వరుసగా పరిమాణం (volume) మరియు విలువ (value) పరంగా ఎంత శాతం సముద్ర మార్గాల ద్వారా జరుగుతుంది?",
+    "en": "What percentage of India’s foreign trade moves through oceanic routes in terms of volume and value respectively?"
+   },
+   "options": {
+    "te": [
+     "పరిమాణంలో 85 శాతం మరియు విలువలో 60 శాతం",
+     "పరిమాణంలో 70 శాతం మరియు విలువలో 95 శాతం",
+     "పరిమాణంలో 90 శాతం మరియు విలువలో 80 శాతం",
+     "పరిమాణంలో 95 శాతం మరియు విలువలో 70 శాతం"
+    ],
+    "en": [
+     "85 per cent by volume and 60 per cent by value",
+     "70 per cent by volume and 95 per cent by value",
+     "90 per cent by volume and 80 per cent by value",
+     "95 per cent by volume and 70 per cent by value"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వనరుల ప్రకారం, సముద్ర మార్గాలు పరిమాణం పరంగా 95% మరియు విలువ పరంగా 70% విదేశీ వాణిజ్యాన్ని నిర్వహిస్తాయి.",
+    "en": "Oceanic routes handle 95% of foreign trade by volume and 70% by value."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T27-0282",
+   "section": {
+    "te": "Radio History",
+    "en": "Radio History"
+   },
+   "q": {
+    "te": "భారత ప్రభుత్వం ఏ సంవత్సరంలో రేడియో ప్రసారాలను 'ఇండియన్ బ్రాడ్‌కాస్టింగ్ సిస్టమ్' పేరుతో తన నియంత్రణలోకి తెచ్చుకుంది?",
+    "en": "In which year did the Indian government bring radio broadcasting under its control as the 'Indian Broadcasting System'?"
+   },
+   "options": {
+    "te": [
+     "1957",
+     "1930",
+     "1936",
+     "1923"
+    ],
+    "en": [
+     "1957",
+     "1930",
+     "1936",
+     "1923"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రభుత్వం 1930లో రేడియో ప్రసారాలను తన నియంత్రణలోకి తీసుకుంది, దీనికి ఇండియన్ బ్రాడ్‌కాస్టింగ్ సిస్టమ్ అని పేరు పెట్టింది.",
+    "en": "The government took control of radio broadcasting in 1930, naming it the Indian Broadcasting System."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T27-0030",
+   "section": {
+    "te": "First Train in India",
+    "en": "First Train in India"
+   },
+   "q": {
+    "te": "భారతదేశంలో నడిచిన మొదటి రైలుకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది 1853 సంవత్సరంలో ముంబై నుండి థానే వరకు నడిచింది.\n2. ఇది 34 కిలోమీటర్ల దూరాన్ని ప్రయాణించింది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the first train in India:\n1. It steamed off from Mumbai to Thane in the year 1853.\n2. It covered a distance of 34 km.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతదేశంలో మొదటి రైలు 1853 లో ముంబై నుండి థానే మధ్య 34 కి.మీ దూరం ప్రయాణించింది. కాబట్టి రెండు ప్రకటనలు సరైనవే.",
+    "en": "Both statements are correct as the first train steamed off from Mumbai to Thane in 1853 covering a distance of 34 km."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T27-0266",
+   "section": {
+    "te": "UDAN Scheme",
+    "en": "UDAN Scheme"
+   },
+   "q": {
+    "te": "భారత ప్రభుత్వంలోని ఏ మంత్రిత్వ శాఖ రీజినల్ కనెక్టివిటీ స్కీమ్ (RCS)-UDANను రూపొందించింది?",
+    "en": "Which Ministry of the Government of India conceived the Regional Connectivity Scheme (RCS)-UDAN?"
+   },
+   "options": {
+    "te": [
+     "పర్యాటక మంత్రిత్వ శాఖ",
+     "సమాచార మంత్రిత్వ శాఖ",
+     "పౌర విమానయాన మంత్రిత్వ శాఖ",
+     "రోడ్డు రవాణా మరియు రహదారుల మంత్రిత్వ శాఖ"
+    ],
+    "en": [
+     "Ministry of Tourism",
+     "Ministry of Communication",
+     "Ministry of Civil Aviation",
+     "Ministry of Road Transport and Highways"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రాంతీయ అనుసంధానాన్ని ప్రోత్సహించడానికి మరియు సామాన్య పౌరులకు విమాన ప్రయాణాన్ని అందుబాటులోకి తెచ్చేందుకు పౌర విమానయాన మంత్రిత్వ శాఖ (MoCA) ద్వారా ఉడాన్ పథకం రూపొందించబడింది.",
+    "en": "The UDAN scheme was conceived by the Ministry of Civil Aviation (MoCA) to promote regional connectivity and make flying affordable."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T27-0302",
+   "section": {
+    "te": "TV Start Year",
+    "en": "TV Start Year"
+   },
+   "q": {
+    "te": "భారతదేశ జాతీయ రాజధానిలో టెలివిజన్ సేవలు ఏ సంవత్సరంలో ప్రారంభమయ్యాయి?",
+    "en": "In which year did television services begin in India's National Capital?"
+   },
+   "options": {
+    "te": [
+     "1947",
+     "1950",
+     "1959",
+     "1972"
+    ],
+    "en": [
+     "1947",
+     "1950",
+     "1959",
+     "1972"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతదేశంలో టెలివిజన్ సేవలు 1959లో జాతీయ రాజధాని (ఢిల్లీ)లో ప్రారంభమయ్యాయి.",
+    "en": "Television services in India started in the National Capital (Delhi) in 1959."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T27-0244",
+   "section": {
+    "te": "State Highways",
+    "en": "State Highways"
+   },
+   "q": {
+    "te": "రాష్ట్ర రాజధానులను జిల్లా ప్రధాన కార్యాలయాలు మరియు ఇతర ముఖ్యమైన పట్టణాలతో ఏ వర్గం రహదారులు కలుపుతాయి?",
+    "en": "Which category of roads joins the state capitals with district headquarters and other important towns?"
+   },
+   "options": {
+    "te": [
+     "జాతీయ రహదారులు",
+     "రాష్ట్ర రహదారులు",
+     "జిల్లా రహదారులు",
+     "సరిహద్దు రహదారులు"
+    ],
+    "en": [
+     "National Highways",
+     "State Highways",
+     "District Roads",
+     "Border Roads"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "రాష్ట్ర రాజధానులను జిల్లా ప్రధాన కార్యాలయాలు మరియు ముఖ్యమైన పట్టణాలతో అనుసంధానించడానికి రాష్ట్ర ప్రభుత్వాలు రాష్ట్ర రహదారులను నిర్మించి నిర్వహిస్తాయి.",
+    "en": "State Highways are constructed and maintained by state governments to connect state capitals with district headquarters and important towns."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T27-0111",
+   "section": {
+    "te": "North America Railways",
+    "en": "North America Railways"
+   },
+   "q": {
+    "te": "ప్రపంచ మొత్తం రైలు నెట్‌వర్క్‌లో ఉత్తర అమెరికా సుమారు ఎంత శాతం కలిగి ఉంది?",
+    "en": "North America accounts for approximately what percentage of the world's total rail network?"
+   },
+   "options": {
+    "te": [
+     "25 శాతం",
+     "90 శాతం",
+     "40 శాతం",
+     "33 శాతం"
+    ],
+    "en": [
+     "25 per cent",
+     "90 per cent",
+     "40 per cent",
+     "33 per cent"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్య భాగం ప్రకారం, ఉత్తర అమెరికా రైలు నెట్‌వర్క్ ప్రపంచ మొత్తంలో దాదాపు 40 శాతంగా ఉంది.",
+    "en": "North America's rail network accounts for nearly 40 per cent of the world's total."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T27-0020",
+   "section": {
+    "te": "Rural Roads Scheme",
+    "en": "Rural Roads Scheme"
+   },
+   "q": {
+    "te": "దేశంలోని ప్రతి గ్రామాన్ని అన్ని కాలాల్లోనూ ప్రయాణించదగిన రోడ్డు ద్వారా ప్రధాన పట్టణంతో అనుసంధానించడానికి ఏ పథకం కింద ప్రత్యేక నిబంధనలు చేయబడ్డాయి?",
+    "en": "Under which scheme are special provisions made so that every village in the country is linked to a major town by an all-season motorable road?"
+   },
+   "options": {
+    "te": [
+     "సాగర్‌మాలా ప్రోగ్రామ్",
+     "ప్రధాన మంత్రి గ్రామీణ సడక్ యోజన",
+     "భారత్‌మాలా పరియోజన",
+     "సేతు భారతం ప్రాజెక్ట్"
+    ],
+    "en": [
+     "Sagarmala Programme",
+     "Pradhan Mantri Grameen Sadak Yojana",
+     "Bharatmala Pariyojana",
+     "Setu Bharatam Project"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రధాన మంత్రి గ్రామీణ సడక్ యోజన పథకం కింద ప్రతి గ్రామాన్ని అన్ని కాలాల్లోనూ మోటారు వాహనాలు నడిచే రోడ్డు ద్వారా ప్రధాన పట్టణానికి అనుసంధానించడానికి ప్రత్యేక చర్యలు చేపట్టారు.",
+    "en": "Rural roads received special impetus under the Pradhan Mantri Grameen Sadak Yojana to link every village to a major town with an all-season motorable road."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T27-0333",
+   "section": {
+    "te": "Tuticorin Port Cargo",
+    "en": "Tuticorin Port Cargo"
+   },
+   "q": {
+    "te": "V.O. చిదంబరనార్ (తూత్తుకుడి) ఓడరేవు ఈ క్రింది ఏ వస్తువులను నిర్వహిస్తుంది?",
+    "en": "Which of the following items are handled by the V.O. Chidambaranar (Tuticorin) Port?"
+   },
+   "options": {
+    "te": [
+     "బొగ్గు మరియు ఉప్పు",
+     "ఆహార ధాన్యాలు మరియు చక్కెర",
+     "పెట్రోలియం ఉత్పత్తులు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Coal and Salt",
+     "Food grains and Sugar",
+     "Petroleum products",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఈ ఓడరేవు బొగ్గు, ఉప్పు, ఆహార ధాన్యాలు, తినదగిన నూనెలు, చక్కెర, రసాయనాలు మరియు పెట్రోలియం ఉత్పత్తులను నిర్వహిస్తుంది.",
+    "en": "The port deals with coal, salt, food grains, edible oils, sugar, chemicals, and petroleum products."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T27-0241",
+   "section": {
+    "te": "Atal Tunnel",
+    "en": "Atal Tunnel"
+   },
+   "q": {
+    "te": "ప్రకటన (A): అటల్ టన్నెల్ మనాలి మరియు లాహౌల్-స్పితి లోయ మధ్య ఏడాది పొడవునా అనుసంధానాన్ని అందిస్తుంది.\nకారణం (R): అంతకుముందు, భారీ హిమపాతం కారణంగా లాహౌల్-స్పితి లోయ ప్రతి సంవత్సరం సుమారు 6 నెలల పాటు విచ్ఛిన్నమయ్యేది.",
+    "en": "Assertion (A): The Atal Tunnel provides year-round connectivity between Manali and Lahaul-Spiti valley.\nReason (R): Earlier, the Lahaul-Spiti valley was cut off for about 6 months every year due to heavy snowfall."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భారీ మంచు కారణంగా లాహౌల్-స్పితి లోయ 6 నెలల పాటు ఒంటరిగా ఉండటాన్ని అధిగమించడానికి అటల్ టన్నెల్ నిర్మించబడింది, ఇది ఏడాది పొడవునా ప్రవేశాన్ని నిర్ధారిస్తుంది.",
+    "en": "The Atal Tunnel was built specifically to overcome the 6-month isolation of the Lahaul-Spiti valley caused by heavy snow, ensuring year-round access."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T27-0157",
+   "section": {
+    "te": "Railway along Suez Canal",
+    "en": "Railway along Suez Canal"
+   },
+   "q": {
+    "te": "సూయజ్ కాలువ వెంబడి ఒక రైలు మార్గం సూయజ్ వరకు వెళుతుంది, మరియు ఇస్మాయిలియా నుండి ఏ నగరానికి బ్రాంచ్ లైన్ ఉంది?",
+    "en": "Along the Suez Canal, a railway line runs to Suez, and a branch line connects Ismailia to which city?"
+   },
+   "options": {
+    "te": [
+     "ఖార్తూమ్",
+     "కైరో",
+     "త్రిపోలి",
+     "అలెగ్జాండ్రియా"
+    ],
+    "en": [
+     "Khartoum",
+     "Cairo",
+     "Tripoli",
+     "Alexandria"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సూయజ్ కాలువ వెంట ఒక రైల్వే మార్గం సూయజ్ నగరానికి వెళుతుంది, అలాగే ఇస్మాయిలియా నుండి కైరో నగరానికి బ్రాంచ్ లైన్ ఉంది.",
+    "en": "A railway follows the canal to Suez, and from Ismailia there is a branch line to Cairo."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T27-0326",
+   "section": {
+    "te": "Mormugao Port",
+    "en": "Mormugao Port"
+   },
+   "q": {
+    "te": "మర్మగోవా పోర్ట్ 1961లో పునర్నిర్మించబడిన తర్వాత, జపాన్‌కు ఏ వస్తువు ఎగుమతిని నిర్వహించడానికి ప్రధానంగా ప్రాముఖ్యతను సంతరించుకుంది?",
+    "en": "Mormugao Port gained significance after its remodelling in 1961 primarily to handle the export of which commodity to Japan?"
+   },
+   "options": {
+    "te": [
+     "పెట్రోలియం",
+     "ఇనుప ఖనిజం (Iron-ore)",
+     "బొగ్గు",
+     "ఎరువులు"
+    ],
+    "en": [
+     "Petroleum",
+     "Iron-ore",
+     "Coal",
+     "Fertilisers"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మర్మగోవా పోర్ట్ 1961లో జపాన్‌కు ఇనుప ఖనిజం ఎగుమతులను నిర్వహించడానికి ప్రత్యేకంగా పునర్నిర్మించబడింది.",
+    "en": "Mormugao Port was remodelled in 1961 specifically to handle iron-ore exports to Japan."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T27-0037",
+   "section": {
+    "te": "Salaya-Jalandhar pipeline route",
+    "en": "Salaya-Jalandhar pipeline route"
+   },
+   "q": {
+    "te": "గుజరాత్‌లోని సలాయా నుండి పంజాబ్‌లోని జలంధర్ వరకు ఉన్న పైప్‌లైన్ రవాణా నెట్‌వర్క్ క్రింది ఏ నగరాల గుండా వెళుతుంది?",
+    "en": "The pipeline transport network running from Salaya in Gujarat to Jalandhar in Punjab passes through which of the following routes?"
+   },
+   "options": {
+    "te": [
+     "విరంగం, మథుర, ఢిల్లీ మరియు సోనిపట్",
+     "బరౌని, రాజ్‌బంధ్ మరియు హల్దియా",
+     "గౌహతి, సిలిగురి మరియు ప్రయాగ్‌రాజ్",
+     "జగదీష్‌పూర్, విజయ్‌పూర్ మరియు హజీరా"
+    ],
+    "en": [
+     "Viramgam, Mathura, Delhi and Sonipat",
+     "Barauni, Rajbandh and Haldia",
+     "Guwahati, Siliguri and Prayagraj",
+     "Jagdishpur, Vijaipur and Hazira"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "గుజరాత్‌లోని సలాయా నుండి పంజాబ్‌లోని జలంధర్‌కు వెళ్లే పైప్‌లైన్ విరంగం, మథుర, ఢిల్లీ మరియు సోనిపట్ మీదుగా వెళుతుంది.",
+    "en": "The pipeline runs from Salaya in Gujarat to Jalandhar in Punjab via Viramgam, Mathura, Delhi, and Sonipat."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T27-0310",
+   "section": {
+    "te": "Direction of Import Trade",
+    "en": "Direction of Import Trade"
+   },
+   "q": {
+    "te": "పట్టిక 8.6 ఆధారంగా, 2021-22లో ఈ క్రింది ఏ ప్రాంతం నుండి భారతదేశానికి అత్యధిక విలువైన దిగుమతులు జరిగాయి?",
+    "en": "Based on Table 8.6, which of the following regions had the highest value of imports to India in 2021-22?"
+   },
+   "options": {
+    "te": [
+     "లాటిన్ అమెరికా",
+     "ఉత్తర అమెరికా",
+     "ఆఫ్రికా",
+     "యూరప్"
+    ],
+    "en": [
+     "Latin America",
+     "North America",
+     "Africa",
+     "Europe"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పట్టిక 8.6 ప్రకారం, 2021-22లో యూరప్ నుండి అత్యధికంగా 6,40,577 కోట్ల రూపాయల దిగుమతులు జరిగాయి.",
+    "en": "According to Table 8.6, Europe had the highest import value of 6,40,577 crore rupees in 2021-22 among the listed regions."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T27-0126",
+   "section": {
+    "te": "South American rail network",
+    "en": "South American rail network"
+   },
+   "q": {
+    "te": "దక్షిణ అమెరికాలో, ఖండం యొక్క మొత్తం రైల్వే మార్గం పొడవులో 40 శాతం వాటాను కలిగి ఉన్న ప్రాంతాలు ఏవి?",
+    "en": "In South America, which of the following regions account for 40 per cent of the continent's total railway route length?"
+   },
+   "options": {
+    "te": [
+     "అర్జెంటీనాలోని పంపాలు",
+     "బ్రెజిల్‌లోని కాఫీ పండించే ప్రాంతం",
+     "A మరియు B రెండూ",
+     "చిలీలోని తీరప్రాంత మైనింగ్ బెల్ట్"
+    ],
+    "en": [
+     "The Pampas of Argentina",
+     "The coffee growing region of Brazil",
+     "Both A and B",
+     "The coastal mining belt of Chile"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, దక్షిణ అమెరికాలోని అర్జెంటీనా పంపాలు మరియు బ్రెజిల్ కాఫీ సాగు ప్రాంతాలు కలిసి ఖండం మొత్తం రైలు మార్గంలో 40 శాతం వాటాను కలిగి ఉన్నాయి.",
+    "en": "The rail network in South America is most dense in the Pampas of Argentina and the coffee growing region of Brazil, which together account for 40 per cent of the continent's total route length."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T27-0338",
+   "section": {
+    "te": "Kolkata Port Hinterland",
+    "en": "Kolkata Port Hinterland"
+   },
+   "q": {
+    "te": "శ్యామ ప్రసాద్ ముఖర్జీ (కోల్‌కతా) ఓడరేవు ఈ క్రింది ఏ భూపరివేష్టిత (land-locked) దేశాలకు ఓడరేవు సౌకర్యాలను కల్పిస్తుంది?",
+    "en": "Which of the following land-locked countries are provided with port facilities by the Shyama Prasad Mookerjee (Kolkata) Port?"
+   },
+   "options": {
+    "te": [
+     "నేపాల్",
+     "భూటాన్",
+     "నేపాల్ మరియు భూటాన్ రెండూ",
+     "మయన్మార్"
+    ],
+    "en": [
+     "Nepal",
+     "Bhutan",
+     "Both Nepal and Bhutan",
+     "Myanmar"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్య భాగం ప్రకారం, కోల్‌కతా ఓడరేవు పొరుగున ఉన్న భూపరివేష్టిత దేశాలైన నేపాల్ మరియు భూటాన్‌లకు తన సౌకర్యాలను విస్తరిస్తుంది.",
+    "en": "The Kolkata port extends its facilities to neighbouring land-locked countries, specifically Nepal and Bhutan."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T27-0169",
+   "section": {
+    "te": "Volga Canals",
+    "en": "Volga Canals"
+   },
+   "q": {
+    "te": "వోల్గా-డాన్ కాలువ వోల్గా నదీ వ్యవస్థను ఈ క్రింది వాటిలో దేనితో కలుపుతుంది?",
+    "en": "The Volga-Don Canal connects the Volga river system with which of the following?"
+   },
+   "options": {
+    "te": [
+     "మెక్సికో గల్ఫ్",
+     "ఉత్తర అట్లాంటిక్",
+     "నల్ల సముద్రం",
+     "కాస్పియన్ సముద్రం"
+    ],
+    "en": [
+     "Gulf of Mexico",
+     "North Atlantic",
+     "Black Sea",
+     "Caspian Sea"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వోల్గా కాస్పియన్ సముద్రంలో కలిసినప్పటికీ, వోల్గా-డాన్ కాలువ దానిని నల్ల సముద్రంతో కలుపుతుంది.",
+    "en": "While the Volga drains into the Caspian, the Volga-Don Canal links it to the Black Sea."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T27-0011",
+   "section": {
+    "te": "Suvarnabhumi Sculpture",
+    "en": "Suvarnabhumi Sculpture"
+   },
+   "q": {
+    "te": "సువర్ణభూమి విమానాశ్రయంలోని భారీ శిల్పం ఏ హిందూ పురాణ ఘట్టాన్ని వర్ణిస్తుంది?",
+    "en": "The massive sculpture at Suvarnabhumi Airport depicts which Hindu mythological event?"
+   },
+   "options": {
+    "te": [
+     "రామాయణం",
+     "సముద్ర మథనం",
+     "మహాభారతం",
+     "దశావతారం"
+    ],
+    "en": [
+     "Ramayana",
+     "Samudra Manthana",
+     "Mahabharata",
+     "Dashavatara"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "బ్యాంకాక్‌లోని సువర్ణభూమి విమానాశ్రయంలోని శిల్పం హిందూ పురాణమైన సముద్ర మథనాన్ని వర్ణిస్తుంది.",
+    "en": "The sculpture at Bangkok's Suvarnabhumi Airport depicts the Hindu myth of Samudra Manthana, or the churning of the ocean."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T27-0248",
+   "section": {
+    "te": "Konkan Railway Route",
+    "en": "Konkan Railway Route"
+   },
+   "q": {
+    "te": "760 కి.మీ పొడవైన కొంకణ్ రైల్వే మార్గం ఈ క్రింది ఏ రెండు ప్రాంతాలను కలుపుతుంది?",
+    "en": "The 760-km long Konkan Railway route connects which of the following two locations?"
+   },
+   "options": {
+    "te": [
+     "థానే మరియు మంగళూరు",
+     "మహారాష్ట్రలోని రోహా మరియు కర్ణాటకలోని మంగళూరు",
+     "రోహా మరియు గోవా",
+     "ముంబై మరియు మంగళూరు"
+    ],
+    "en": [
+     "Thane and Mangalore",
+     "Roha in Maharashtra and Mangalore in Karnataka",
+     "Roha and Goa",
+     "Mumbai and Mangaluru"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "1998లో నిర్మించబడిన కొంకణ్ రైల్వే, మహారాష్ట్రలోని రోహా నుండి కర్ణాటకలోని మంగళూరును కలిపే 760 కి.మీ పొడవైన మార్గం.",
+    "en": "The Konkan Railway, constructed in 1998, is a 760-km long route that specifically connects Roha in Maharashtra to Mangalore in Karnataka."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T27-0039",
+   "section": {
+    "te": "Inland waterways length",
+    "en": "Inland waterways length"
+   },
+   "q": {
+    "te": "ఇచ్చిన సమాచారం ప్రకారం భారతదేశంలో అంతర్గత జల రవాణా మార్గాల మొత్తం పొడవు ఎంత?",
+    "en": "What is the total navigable length of inland waterways in India according to the provided text?"
+   },
+   "options": {
+    "te": [
+     "12,200 కి.మీ",
+     "18,500 కి.మీ",
+     "16,800 కి.మీ",
+     "14,500 కి.మీ"
+    ],
+    "en": [
+     "12,200 km",
+     "18,500 km",
+     "16,800 km",
+     "14,500 km"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశంలో అంతర్గత జల రవాణా మార్గాల పొడవు 14,500 కి.మీ.",
+    "en": "India has an inland navigation waterways network extending over 14,500 km in length."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T27-0216",
+   "section": {
+    "te": "Inland Ports Accessibility",
+    "en": "Inland Ports Accessibility"
+   },
+   "q": {
+    "te": "అంతర్గత ఓడరేవుల (Inland Ports) అందుబాటుకు సంబంధించి కింది వాటిలో ఏ ప్రకటన సరైనది?",
+    "en": "Which of the following statements is correct regarding the accessibility of Inland Ports?"
+   },
+   "options": {
+    "te": [
+     "ఇవి పెద్ద సముద్రపు ట్యాంకర్లకు మాత్రమే అందుబాటులో ఉంటాయి.",
+     "ఇవి చదునైన అడుగు భాగం కలిగిన ఓడలు (flat bottom ships) లేదా బార్జ్‌లకు అందుబాటులో ఉంటాయి.",
+     "వీటిని వాయు రవాణా ద్వారా మాత్రమే చేరుకోవచ్చు.",
+     "ఇవి నేరుగా సముద్ర తీరంలో ఉంటాయి."
+    ],
+    "en": [
+     "They are accessible only to large ocean-going tankers.",
+     "They are accessible to flat bottom ships or barges.",
+     "They can only be reached by air transport.",
+     "They are located directly on the sea coast."
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అంతర్గత ఓడరేవులు నదులు లేదా కాలువలపై తీరానికి దూరంగా ఉండటం వల్ల, చదునైన అడుగు భాగం కలిగిన ఓడలు లేదా బార్జ్‌లకు అందుబాటులో ఉంటాయి.",
+    "en": "Inland ports, being located away from the coast on rivers or canals, are accessible to flat bottom ships or barges."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T27-0107",
+   "section": {
+    "te": "Unmetalled Roads",
+    "en": "Unmetalled Roads"
+   },
+   "q": {
+    "te": "అన్‌మెటల్ రోడ్లు (unmetalled roads) ఏడాది పొడవునా సేవలకు ఎందుకు అసమర్థమైనవిగా పరిగణించబడతాయి?",
+    "en": "Why are unmetalled roads considered ineffective for year-round service?"
+   },
+   "options": {
+    "te": [
+     "వాటి నిర్వహణ చాలా ఖరీదైనది",
+     "వర్షాకాలంలో అవి మోటారు ప్రయాణానికి వీలు లేకుండా పోతాయి",
+     "అవి మోటారు కార్ల బరువును మోయలేవు",
+     "అవి కేవలం అభివృద్ధి చెందిన దేశాలలో మాత్రమే కనిపిస్తాయి"
+    ],
+    "en": [
+     "They are too expensive to maintain",
+     "They become unmotorable during the rainy season",
+     "They cannot support the weight of motor cars",
+     "They are only found in developed countries"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వర్షాకాలంలో అన్‌మెటల్ రోడ్లు ప్రయాణానికి వీలు లేకుండా పోతాయని, అందుకే అవి అన్ని సీజన్లకు పనికిరావని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Unmetalled roads become unmotorable during the rainy season, making them ineffective for all seasons."
+   }
+  }
+ ]
+}

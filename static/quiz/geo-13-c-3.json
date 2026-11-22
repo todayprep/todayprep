@@ -1,0 +1,942 @@
+{
+ "id": "geo-13-c-3",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "India – క్విజ్ 3",
+  "en": "India – Quiz 3"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T13-0015",
+   "section": {
+    "te": "Hydroelectricity",
+    "en": "Hydroelectricity"
+   },
+   "q": {
+    "te": "'హైడ్రో ఎలక్ట్రిసిటీ' (hydroelectricity) అనే పదంలో 'హైడ్రో' అంటే అర్థం ఏమిటి?",
+    "en": "In the term 'hydroelectricity', what does the word 'hydro' mean?"
+   },
+   "options": {
+    "te": [
+     "టర్బైన్",
+     "నీరు",
+     "శక్తి",
+     "విద్యుత్"
+    ],
+    "en": [
+     "Turbine",
+     "Water",
+     "Power",
+     "Electricity"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం 'హైడ్రో' అంటే నీరు అని అర్థం.",
+    "en": "The text defines 'hydro' as meaning water."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T13-0032",
+   "section": {
+    "te": "Indian Ocean Population",
+    "en": "Indian Ocean Population"
+   },
+   "q": {
+    "te": "హిందూ మహాసముద్రం ద్వారా అనుసంధానించబడిన దేశాలు దాదాపు ఎంత జనాభాకు నిలయంగా ఉన్నాయి?",
+    "en": "The Indian Ocean connects countries that are home to approximately how many people?"
+   },
+   "options": {
+    "te": [
+     "3.5 బిలియన్లు",
+     "1.4 బిలియన్లు",
+     "2.7 బిలియన్లు",
+     "2.0 బిలియన్లు"
+    ],
+    "en": [
+     "3.5 billion",
+     "1.4 billion",
+     "2.7 billion",
+     "2.0 billion"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "హిందూ మహాసముద్రం అనుసంధానించే అనేక దేశాలు దాదాపు 2.7 బిలియన్ల ప్రజలకు నివాసంగా ఉన్నాయి.",
+    "en": "The Indian Ocean connects countries that are home to around 2.7 billion people."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T13-0096",
+   "section": {
+    "te": "Maldives Location",
+    "en": "Maldives Location"
+   },
+   "q": {
+    "te": "మాల్దీవులు మరియు భారతీయ ద్వీపం మినికాయ్ మధ్య సుమారు దూరం ఎంత?",
+    "en": "What is the approximate distance between the Maldives and the Indian island of Minicoy?"
+   },
+   "options": {
+    "te": [
+     "200 కి.మీ.",
+     "150 కి.మీ.",
+     "100 కి.మీ.",
+     "130 కి.మీ."
+    ],
+    "en": [
+     "200 km",
+     "150 km",
+     "100 km",
+     "130 km"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, లక్షద్వీప్ దీవులలో భాగమైన మినికాయ్ నుండి మాల్దీవులు సుమారు 130 కి.మీ దూరంలో ఉన్నాయి.",
+    "en": "The Maldives is located about 130 km away from Minicoy, which is part of the Lakshadweep islands."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T13-0113",
+   "section": {
+    "te": "Singapore Independence",
+    "en": "Singapore Independence"
+   },
+   "q": {
+    "te": "సింగపూర్ ఏ సంవత్సరంలో చివరకు ప్రత్యేక దేశంగా అవతరించింది?",
+    "en": "In which year did Singapore eventually become a separate nation?"
+   },
+   "options": {
+    "te": [
+     "1963",
+     "1965",
+     "1947",
+     "1971"
+    ],
+    "en": [
+     "1963",
+     "1965",
+     "1947",
+     "1971"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, సింగపూర్ బ్రిటిష్ కాలనీగా, ఆ తర్వాత మలేషియాలో భాగంగా ఉండి, చివరకు 1965లో ప్రత్యేక దేశంగా మారింది.",
+    "en": "Singapore became a British colony, then a part of Malaysia, and eventually a separate nation in 1965."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T13-0138",
+   "section": {
+    "te": "India-Iran Historical Links",
+    "en": "India-Iran Historical Links"
+   },
+   "q": {
+    "te": "భారతీయ ఇతిహాసం మహాభారతం పర్షియన్లను ఏ పేరుతో ప్రస్తావించింది?",
+    "en": "By what name does the Indian epic Mahabharata refer to the Persians?"
+   },
+   "options": {
+    "te": [
+     "మొఘలులు",
+     "అవెస్తా",
+     "పారశీక",
+     "జోరాస్ట్రియన్లు"
+    ],
+    "en": [
+     "Mughals",
+     "Avesta",
+     "Pārasīka",
+     "Zoroastrians"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మహాభారతంలో పర్షియన్లను 'పారశీక' అనే పేరుతో ప్రస్తావించారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The Mahabharata mentions Persians under the name Pārasīka."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T13-0058",
+   "section": {
+    "te": "States bordering Nepal",
+    "en": "States bordering Nepal"
+   },
+   "q": {
+    "te": "కింది భారతీయ రాష్ట్రాలను పరిశీలించండి:\n1. ఉత్తరాఖండ్\n2. ఉత్తరప్రదేశ్\n3. బీహార్\n4. పశ్చిమ బెంగాల్\n5. సిక్కిం\nభారతదేశం నేపాల్‌తో సరిహద్దును పైవాటిలో ఏ రాష్ట్రాల గుండా పంచుకుంటుంది?",
+    "en": "Consider the following Indian states:\n1. Uttarakhand\n2. Uttar Pradesh\n3. Bihar\n4. West Bengal\n5. Sikkim\nAcross which of the above states does India share an open border with Nepal?"
+   },
+   "options": {
+    "te": [
+     "1, 2 మరియు 3 మాత్రమే",
+     "2, 3 మరియు 4 మాత్రమే",
+     "1, 3, 4 మరియు 5 మాత్రమే",
+     "1, 2, 3, 4 మరియు 5"
+    ],
+    "en": [
+     "1, 2 and 3 only",
+     "2, 3 and 4 only",
+     "1, 3, 4 and 5 only",
+     "1, 2, 3, 4 and 5"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశం-నేపాల్ సరిహద్దు ఉత్తరాఖండ్, ఉత్తరప్రదేశ్, బీహార్, పశ్చిమ బెంగాల్ మరియు సిక్కిం అనే ఐదు భారతీయ రాష్ట్రాల గుండా విస్తరించి ఉంది.",
+    "en": "India's border with Nepal stretches across five Indian states: Uttarakhand, Uttar Pradesh, Bihar, West Bengal, and Sikkim."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T13-0114",
+   "section": {
+    "te": "Singapore Languages",
+    "en": "Singapore Languages"
+   },
+   "q": {
+    "te": "కింది వాటిలో సింగపూర్ అధికారిక భాష(లు) ఏవి?",
+    "en": "Which of the following is/are official languages of Singapore?"
+   },
+   "options": {
+    "te": [
+     "ఇంగ్లీష్ మరియు మాండరిన్",
+     "తమిళం",
+     "మలయ్",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "English and Mandarin",
+     "Tamil",
+     "Malay",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సింగపూర్‌లో ఇంగ్లీష్, మాండరిన్, తమిళం మరియు మలయ్ అనే నాలుగు అధికారిక భాషలు ఉన్నాయి.",
+    "en": "Singapore has four official languages: English, Mandarin, Tamil, and Malay."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T13-0021",
+   "section": {
+    "te": "Aravalli Highest Peak",
+    "en": "Aravalli Highest Peak"
+   },
+   "q": {
+    "te": "ఆరావళి పర్వత శ్రేణిలో 1700 మీటర్ల కంటే ఎక్కువ ఎత్తుతో ఉన్న అత్యంత ఎత్తైన శిఖరం ఏది?",
+    "en": "Which of the following is the highest peak in the Aravalli range, rising over 1700 metres?"
+   },
+   "options": {
+    "te": [
+     "కుంభల్‌గఢ్",
+     "ఆనముడి",
+     "మౌంట్ అబూ",
+     "గురు శిఖర్"
+    ],
+    "en": [
+     "Kumbhalgarh",
+     "Anamudi",
+     "Mount Abu",
+     "Guru Shikhar"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఆరావళి పర్వత శ్రేణిలో 1700 మీటర్లకు పైగా ఎత్తుతో ఉన్న అత్యంత ఎత్తైన శిఖరం మౌంట్ అబూ.",
+    "en": "Mount Abu is the highest peak in the Aravalli range, towering at over 1700 metres."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T13-0010",
+   "section": {
+    "te": "Jaisalmer",
+    "en": "Jaisalmer"
+   },
+   "q": {
+    "te": "థార్ ఎడారి మధ్యలో ఉన్న ఏ నగరాన్ని 'గోల్డెన్ సిటీ' (Golden City) అని పిలుస్తారు?",
+    "en": "Which city, located in the middle of the Thar Desert, is known as the 'Golden City'?"
+   },
+   "options": {
+    "te": [
+     "జైసల్మేర్",
+     "జైపూర్",
+     "జోధ్‌పూర్",
+     "పుష్కర్"
+    ],
+    "en": [
+     "Jaisalmer",
+     "Jaipur",
+     "Jodhpur",
+     "Pushkar"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "జైసల్మేర్‌ను 'గోల్డెన్ సిటీ' అని పిలుస్తారు మరియు ఇది థార్ ఎడారి మధ్యలో ఉంది.",
+    "en": "Jaisalmer is referred to as the 'Golden City' and is located in the middle of the Thar Desert."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T13-0049",
+   "section": {
+    "te": "Dera Baba Nanak viewing point",
+    "en": "Dera Baba Nanak viewing point"
+   },
+   "q": {
+    "te": "కారిడార్ ప్రారంభానికి ముందు, భారతీయ భక్తులు గురుద్వారా దర్బార్ సాహిబ్‌ను వీక్షించడానికి పంజాబ్‌లోని ఏ ప్రదేశంలో సరిహద్దు వద్ద బైనాక్యులర్లను ఏర్పాటు చేశారు?",
+    "en": "Before the opening of the corridor, at which place in Punjab were binoculars set up for Indian devotees to view Gurdwara Darbar Sahib?"
+   },
+   "options": {
+    "te": [
+     "డేరా బాబా నానక్",
+     "ఫిరోజ్‌పూర్",
+     "అట్టారీ",
+     "వాఘా"
+    ],
+    "en": [
+     "Dera Baba Nanak",
+     "Firozpur",
+     "Attari",
+     "Wagah"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "దశాబ్దాలుగా, భారతీయ భక్తులు పంజాబ్‌లోని డేరా బాబా నానక్ వద్ద సరిహద్దులో ఏర్పాటు చేసిన బైనాక్యులర్ల ద్వారా ఈ పవిత్ర స్థలాన్ని చూసేవారు.",
+    "en": "For decades, Indian devotees viewed the holy site using binoculars set up near the border at Dera Baba Nanak in Punjab."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T13-0007",
+   "section": {
+    "te": "Pangong Tso",
+    "en": "Pangong Tso"
+   },
+   "q": {
+    "te": "లడఖ్‌లోని పాంగాంగ్ త్సో (Pangong Tso) సరస్సు ఇతర సరస్సులతో పోలిస్తే ఏ ప్రత్యేక లక్షణాన్ని కలిగి ఉంది?",
+    "en": "What is a unique characteristic of Pangong Tso lake in Ladakh compared to most other lakes?"
+   },
+   "options": {
+    "te": [
+     "ఇది ఉప్పు నీటిని కలిగి ఉంటుంది",
+     "శీతాకాలంలో ఇది ఎప్పుడూ గడ్డకట్టదు",
+     "ఇది మానవ నిర్మిత సరస్సు",
+     "ఇది భారతదేశంలోనే అత్యంత లోతైన సరస్సు"
+    ],
+    "en": [
+     "It has salty water",
+     "It never freezes in winter",
+     "It is a man-made lake",
+     "It is the deepest lake in India"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాంగాంగ్ త్సో ఇతర సరస్సుల వలె కాకుండా ఉప్పు నీటిని కలిగి ఉండటం వల్ల ప్రత్యేకమైనది.",
+    "en": "Pangong Tso is unique because it has salty water, unlike most other lakes."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T13-0046",
+   "section": {
+    "te": "Hinglaj Mata Mandir location",
+    "en": "Hinglaj Mata Mandir location"
+   },
+   "q": {
+    "te": "పురాతన హింగ్లాజ్ మాతా మందిరం పాకిస్తాన్‌లోని ఏ ప్రాంతంలో ఉంది?",
+    "en": "In which region of Pakistan is the ancient Hinglaj Mata Mandir located?"
+   },
+   "options": {
+    "te": [
+     "ఖైబర్ పఖ్తుంఖ్వా",
+     "బలూచిస్తాన్",
+     "సింధ్",
+     "పంజాబ్"
+    ],
+    "en": [
+     "Khyber Pakhtunkhwa",
+     "Balochistan",
+     "Sindh",
+     "Punjab"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, పురాతన హింగ్లాజ్ మాతా మందిరం బలూచిస్తాన్‌లో ఉంది.",
+    "en": "The text identifies Hinglaj Mata Mandir as an ancient shrine located in Balochistan."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T13-0089",
+   "section": {
+    "te": "Formation of SAARC",
+    "en": "Formation of SAARC"
+   },
+   "q": {
+    "te": "సౌత్ ఏషియన్ అసోసియేషన్ ఫర్ రీజినల్ కోఆపరేషన్ (SAARC) ఏ సంవత్సరంలో ఏర్పడింది?",
+    "en": "In which year was the South Asian Association for Regional Cooperation (SAARC) formed?"
+   },
+   "options": {
+    "te": [
+     "1975",
+     "1985",
+     "1990",
+     "2000"
+    ],
+    "en": [
+     "1975",
+     "1985",
+     "1990",
+     "2000"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారతదేశ పొరుగు దేశాలు పరస్పర ప్రయోజనాలు, ఆర్థిక ప్రగతి కోసం 1985లో సార్క్ (SAARC)ను ఏర్పాటు చేశాయి.",
+    "en": "Nations in India's neighbourhood came together in 1985 to form SAARC."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T13-0069",
+   "section": {
+    "te": "Bhutan-India bordering states",
+    "en": "Bhutan-India bordering states"
+   },
+   "q": {
+    "te": "క్రింది భారతీయ రాష్ట్రాలను పరిశీలించండి:\n1. సిక్కిం\n2. పశ్చిమ బెంగాల్\n3. అసోం\n4. అరుణాచల్ ప్రదేశ్\nభూటాన్ సరిహద్దు పై పేర్కొన్న ఏ రాష్ట్రాలతో కలుస్తుంది?",
+    "en": "Consider the following Indian states:\n1. Sikkim\n2. West Bengal\n3. Assam\n4. Arunachal Pradesh\nBhutan's border touches which of the states mentioned above?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "1, 3 మరియు 4 మాత్రమే",
+     "2, 3 మరియు 4 మాత్రమే",
+     "1, 2, 3 మరియు 4"
+    ],
+    "en": [
+     "1 and 2 only",
+     "1, 3 and 4 only",
+     "2, 3 and 4 only",
+     "1, 2, 3 and 4"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూటాన్ సరిహద్దు భారతదేశంలోని సిక్కిం, పశ్చిమ బెంగాల్, అసోం మరియు అరుణాచల్ ప్రదేశ్ అనే నాలుగు రాష్ట్రాలతో కలుస్తుంది.",
+    "en": "Bhutan shares its border with four Indian states: Sikkim, West Bengal, Assam, and Arunachal Pradesh."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T13-0112",
+   "section": {
+    "te": "Malaysia Capital and Landmark",
+    "en": "Malaysia Capital and Landmark"
+   },
+   "q": {
+    "te": "ప్రపంచంలోనే ఎత్తైన జంట ఆకాశహర్మ్యాలైన పెట్రోనాస్ టవర్స్ ఎక్కడ ఉన్నాయి?",
+    "en": "Where are the Petronas Towers, the world's tallest twin skyscrapers, located?"
+   },
+   "options": {
+    "te": [
+     "కౌలాలంపూర్",
+     "బ్యాంకాక్",
+     "జకార్తా",
+     "సింగపూర్"
+    ],
+    "en": [
+     "Kuala Lumpur",
+     "Bangkok",
+     "Jakarta",
+     "Singapore"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పెట్రోనాస్ టవర్స్ మలేషియా రాజధాని అయిన కౌలాలంపూర్‌లో ఉన్నాయి.",
+    "en": "The Petronas Towers are located in Kuala Lumpur, which is the capital of Malaysia."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T13-0151",
+   "section": {
+    "te": "Southern Boundary",
+    "en": "Southern Boundary"
+   },
+   "q": {
+    "te": "బంగాళాఖాతంలో భారతదేశ దక్షిణ సరిహద్దు అక్షాంశం ఎంత?",
+    "en": "What is the latitude of India's southern boundary in the Bay of Bengal?"
+   },
+   "options": {
+    "te": [
+     "6°45' S",
+     "8°4' N",
+     "37°6' N",
+     "6°45' N"
+    ],
+    "en": [
+     "6°45' S",
+     "8°4' N",
+     "37°6' N",
+     "6°45' N"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశం యొక్క దక్షిణ సరిహద్దు బంగాళాఖాతంలో 6°45' N అక్షాంశం వరకు విస్తరించి ఉంది.",
+    "en": "While the mainland ends at a different point, the overall southern boundary of India extends to 6°45' N latitude in the Bay of Bengal."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T13-0017",
+   "section": {
+    "te": "India Boundaries Match",
+    "en": "India Boundaries Match"
+   },
+   "q": {
+    "te": "భారతదేశ సరిహద్దులను వాటి దిశలతో జతపరచండి:\n1. ఉత్తరం - i. బంగాళాఖాతం\n2. పశ్చిమం - ii. హిమాలయాలు\n3. తూర్పు - iii. అరేబియా సముద్రం\n4. దక్షిణం - iv. హిందూ మహాసముద్రం",
+    "en": "Match the following boundaries of India with their directions:\n1. North - i. Bay of Bengal\n2. West - ii. Himalayas\n3. East - iii. Arabian Sea\n4. South - iv. Indian Ocean"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-iii, 3-i, 4-iv",
+     "1-ii, 2-i, 3-iii, 4-iv",
+     "1-iv, 2-iii, 3-i, 4-ii",
+     "1-iii, 2-ii, 3-iv, 4-i"
+    ],
+    "en": [
+     "1-ii, 2-iii, 3-i, 4-iv",
+     "1-ii, 2-i, 3-iii, 4-iv",
+     "1-iv, 2-iii, 3-i, 4-ii",
+     "1-iii, 2-ii, 3-iv, 4-i"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఉత్తరం: హిమాలయాలు; పశ్చిమం: అరేబియా సముద్రం/థార్ ఎడారి; తూర్పు: బంగాళాఖాతం; దక్షిణం: హిందూ మహాసముద్రం.",
+    "en": "North: Himalayas; West: Arabian Sea/Thar Desert; East: Bay of Bengal; South: Indian Ocean."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T13-0057",
+   "section": {
+    "te": "Sundarban ecological protection",
+    "en": "Sundarban ecological protection"
+   },
+   "q": {
+    "te": "బెంగాల్ పులులకు నిలయంగా ఉండటంతో పాటు, సుందర్‌బన్స్ కింది ఏ విపత్తుకు సహజ అవరోధంగా పనిచేస్తూ వాతావరణ స్థితిస్థాపకతను (climate resilience) అందిస్తాయి?",
+    "en": "In addition to being home to the Bengal tiger, the Sundarbans are important for climate resilience because they serve as a barrier to:"
+   },
+   "options": {
+    "te": [
+     "తుఫానులు (Cyclones)",
+     "సునామీలు",
+     "భూకంపాలు",
+     "హిమానీనదాల కరుగుదల వల్ల వచ్చే వరదలు"
+    ],
+    "en": [
+     "Cyclones",
+     "Tsunamis",
+     "Earthquakes",
+     "Floods from glacial melt"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సుందర్‌బన్స్ తుఫానులకు సహజ అవరోధంగా పనిచేస్తూ వాతావరణ స్థితిస్థాపకతను అందించడంలో కీలక పాత్ర పోషిస్తాయి.",
+    "en": "The Sundarbans contribute significantly to climate resilience by acting as a natural barrier against cyclones."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T13-0117",
+   "section": {
+    "te": "Tsunami Warning Centre",
+    "en": "Tsunami Warning Centre"
+   },
+   "q": {
+    "te": "భారతీయ సునామీ ముందస్తు హెచ్చరిక కేంద్రం (Indian Tsunami Early Warning Centre) ఎక్కడ ఉంది?",
+    "en": "Where is the Indian Tsunami Early Warning Centre located?"
+   },
+   "options": {
+    "te": [
+     "కొచ్చి",
+     "పోర్ట్ బ్లెయిర్",
+     "హైదరాబాద్",
+     "చెన్నై"
+    ],
+    "en": [
+     "Kochi",
+     "Port Blair",
+     "Hyderabad",
+     "Chennai"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతీయ సునామీ ముందస్తు హెచ్చరిక కేంద్రం హైదరాబాద్‌లో ఉంది, ఇది భారతదేశానికి మరియు పొరుగు దేశాలకు హెచ్చరికలను అందిస్తుంది.",
+    "en": "The Indian Tsunami Early Warning Centre is located in Hyderabad and provides alerts to India and its neighbors."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T13-0023",
+   "section": {
+    "te": "Zawar Ancient Mines",
+    "en": "Zawar Ancient Mines"
+   },
+   "q": {
+    "te": "ఆరావళిలోని జవార్ పురాతన గనుల ఆధారాల ప్రకారం, ఎనిమిది శతాబ్దాల క్రితమే భారతీయులు ప్రపంచంలోనే మొట్టమొదటిసారిగా ఏ లోహాన్ని వెలికితీసే ప్రక్రియలో ప్రావీణ్యం సంపాదించారు?",
+    "en": "Evidence from ancient mines at Zawar in the Aravallis indicates that over eight centuries ago, Indians were the first in the world to extract which metal?"
+   },
+   "options": {
+    "te": [
+     "రాగి (Copper)",
+     "ఇనుము (Iron)",
+     "జింక్ (Zinc)",
+     "తగరం (Tin)"
+    ],
+    "en": [
+     "Copper",
+     "Iron",
+     "Zinc",
+     "Tin"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "జవార్‌లోని పురాతన గనుల ఆధారాలు ఎనిమిది శతాబ్దాల క్రితం భారతీయులు జింక్ వెలికితీసే ప్రక్రియలో ప్రావీణ్యం పొందారని రుజువు చేస్తున్నాయి.",
+    "en": "Ancient mines at Zawar show that Indians mastered the extraction of zinc over eight centuries ago."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T13-0055",
+   "section": {
+    "te": "Kartarpur Corridor travel document",
+    "en": "Kartarpur Corridor travel document"
+   },
+   "q": {
+    "te": "కర్తార్‌పూర్ కారిడార్‌ను ఉపయోగించి గురుద్వారా దర్బార్ సాహిబ్‌ను దర్శించుకునే భక్తులకు ఏ పత్రం అవసరం?",
+    "en": "What document is required for pilgrims using the Kartarpur Corridor to visit the Gurdwara Darbar Sahib?"
+   },
+   "options": {
+    "te": [
+     "టూరిస్ట్ వీసా",
+     "పర్మిట్ మాత్రమే",
+     "వీసాతో కూడిన సాధారణ పాస్‌పోర్ట్",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "A tourist visa",
+     "Only a permit",
+     "A regular passport with visa",
+     "None of these"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కర్తార్‌పూర్ కారిడార్‌ను ఉపయోగించే భక్తులకు వీసా అవసరం లేదు, కేవలం అనుమతి పత్రం (పర్మిట్) మాత్రమే అవసరం.",
+    "en": "Pilgrims using the Kartarpur Corridor do not need a visa; they need only a permit."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T13-0130",
+   "section": {
+    "te": "Borobudur Statues",
+    "en": "Borobudur Statues"
+   },
+   "q": {
+    "te": "బోరోబుదూర్ స్తూపంలో సుమారు ఎన్ని బుద్ధుని విగ్రహాలు ఉన్నాయి?",
+    "en": "Approximately how many statues of the Buddha are harboured in the Borobudur Stūpa?"
+   },
+   "options": {
+    "te": [
+     "500 కంటే ఎక్కువ",
+     "100 కంటే ఎక్కువ",
+     "1,000 కంటే ఎక్కువ",
+     "300 కంటే ఎక్కువ"
+    ],
+    "en": [
+     "Over 500",
+     "Over 100",
+     "Over 1,000",
+     "Over 300"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "బోరోబుదూర్ స్తూపంలో 500 కంటే ఎక్కువ బుద్ధుని విగ్రహాలు మరియు అనేక చిన్న స్తూపాలు ఉన్నాయి.",
+    "en": "The Borobudur Stūpa contains over 500 statues of the Buddha and many smaller stūpas."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T13-0083",
+   "section": {
+    "te": "Sarnath Buddha replica gift",
+    "en": "Sarnath Buddha replica gift"
+   },
+   "q": {
+    "te": "మయన్మార్‌లోని యాంగోన్‌లో ఉన్న ఏ ప్రసిద్ధ పగోడాకు భారతదేశం సారనాథ్ బుద్ధ విగ్రహం యొక్క 16 అడుగుల ప్రతిరూపాన్ని బహుమతిగా ఇచ్చింది?",
+    "en": "India gifted a 16-foot replica of the Sarnath statue of the Buddha to which famous pagoda in Yangon, Myanmar?"
+   },
+   "options": {
+    "te": [
+     "కబా ఆయే పగోడా",
+     "బోటాటౌంగ్ పగోడా",
+     "శ్వేదగాన్ పగోడా",
+     "సూలే పగోడా"
+    ],
+    "en": [
+     "Kaba Aye Pagoda",
+     "Botataung Pagoda",
+     "Shwedagon Pagoda",
+     "Sule Pagoda"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతదేశం యాంగోన్‌లోని శ్వేదగాన్ పగోడాకు సారనాథ్ బుద్ధుని 16 అడుగుల ప్రతిరూప విగ్రహాన్ని బహూకరించింది.",
+    "en": "India gifted a 16-foot replica of the Sarnath Buddha statue to the Shwedagon Pagoda in Yangon."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T13-0100",
+   "section": {
+    "te": "Thailand Culture",
+    "en": "Thailand Culture"
+   },
+   "q": {
+    "te": "పురాతన థాయ్ సంస్కృతి 'ద్వారవతి' (Dvāravatī) పేరు ఏ అర్థం వచ్చే సంస్కృత పదం నుండి వచ్చింది?",
+    "en": "The name of the ancient Thai culture 'Dvāravatī' is derived from a Sanskrit word meaning what?"
+   },
+   "options": {
+    "te": [
+     "ద్వారాలు కలిగినది",
+     "బంగారు భూమి",
+     "విజయ నగరం",
+     "శాంతి నిలయం"
+    ],
+    "en": [
+     "That which has gates",
+     "The land of gold",
+     "The city of victory",
+     "The place of peace"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ద్వారవతి అనే పేరు 'ద్వారాలు కలిగినది' అనే అర్థం వచ్చే సంస్కృత పదం నుండి వచ్చింది, ఇది ద్వారక నగరాన్ని సూచిస్తుంది.",
+    "en": "The name Dvāravatī comes from a Sanskrit word meaning 'that which has gates', referring to the city of Dvārakā."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T13-0036",
+   "section": {
+    "te": "Aravalli Minerals",
+    "en": "Aravalli Minerals"
+   },
+   "q": {
+    "te": "ఆరావళి పర్వతాలలో సమృద్ధిగా లభించి, శతాబ్దాలుగా మైనింగ్ మరియు నిర్మాణ కార్యకలాపాలకు తోడ్పడుతున్న ఖనిజాలు ఏవి?\n1. పాలరాయి (Marble)\n2. గ్రానైట్ (Granite)\n3. జింక్ (Zinc)\n4. రాగి (Copper)\nకింది కోడ్‌లను ఉపయోగించి సరైన సమాధానాన్ని ఎంచుకోండి:",
+    "en": "Which of the following minerals are found abundantly in the Aravallis, supporting mining and construction activities?\n1. Marble\n2. Granite\n3. Zinc\n4. Copper\nSelect the correct answer using the codes below:"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 4 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 3 మరియు 4 మాత్రమే",
+     "1, 2, 3 మరియు 4"
+    ],
+    "en": [
+     "1 and 4 only",
+     "2 and 3 only",
+     "1, 3 and 4 only",
+     "1, 2, 3 and 4"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఆరావళి పర్వతాలు పాలరాయి, గ్రానైట్, జింక్ మరియు రాగి వంటి ఖనిజాలతో సమృద్ధిగా ఉన్నాయి.",
+    "en": "The Aravalli Hills are rich in minerals including marble, granite, zinc, and copper."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T13-0006",
+   "section": {
+    "te": "Ladakh Formation",
+    "en": "Ladakh Formation"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): లడఖ్ భూభాగాన్ని తరచుగా 'మూన్‌ల్యాండ్' (moonland) అని పిలుస్తారు.\nకారణం (R): భారత భూభాగం యురేషియాతో ఢీకొన్నప్పుడు పర్వతాలు 'ముడతలు' పడ్డాయి మరియు ఇక్కడి శిలలు ఎక్కువగా ఇసుక మరియు మట్టితో తయారయ్యాయి.",
+    "en": "Assertion (A): The terrain of Ladakh is often called 'moonland'.\nReason (R): The mountains were 'folded' when the Indian landmass collided with Eurasia, and the rocks are made largely of sand and clay."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ సరైనవి మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ సరైనవి కానీ A కి R సరైన వివరణ కాదు",
+     "A సరైనది కానీ R తప్పు",
+     "A తప్పు కానీ R సరైనది"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూభాగాలు ఢీకొనడం మరియు ఇసుక, మట్టి శిలల క్రమక్షయం వల్ల ఏర్పడిన ప్రత్యేక భూభాగం కారణంగా లడఖ్‌ను మూన్‌ల్యాండ్ అని పిలుస్తారు.",
+    "en": "Ladakh is called moonland due to its unique terrain formed by the collision of landmasses and subsequent erosion of sand and clay rocks."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T13-0042",
+   "section": {
+    "te": "Hindu temples in Quanzhou",
+    "en": "Hindu temples in Quanzhou"
+   },
+   "q": {
+    "te": "13వ శతాబ్దంలో, హిందూ వ్యాపారులు చైనాలోని ఏ ఓడరేవు నగరంలో దేవాలయాలను నిర్మించారు?",
+    "en": "In the 13th century, Hindu merchants built temples in which Chinese port city?"
+   },
+   "options": {
+    "te": [
+     "గ్వాంగ్‌జౌ",
+     "బీజింగ్",
+     "షాంఘై",
+     "క్వాన్‌జౌ (Quanzhou)"
+    ],
+    "en": [
+     "Guangzhou",
+     "Beijing",
+     "Shanghai",
+     "Quanzhou"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "13వ శతాబ్దంలో, హిందూ వ్యాపారులు ముఖ్యమైన వాణిజ్య కేంద్రమైన క్వాన్‌జౌ అనే చైనా ఓడరేవు నగరంలో దేవాలయాలను నిర్మించారు.",
+    "en": "In the 13th century, Hindu merchants built temples in the Chinese port city of Quanzhou, an important trading centre."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T13-0030",
+   "section": {
+    "te": "Indian Ocean Trade Traffic",
+    "en": "Indian Ocean Trade Traffic"
+   },
+   "q": {
+    "te": "హిందూ మహాసముద్రం గుండా జరిగే వాణిజ్య రవాణాకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ప్రపంచంలోని కంటైనర్ నౌకల్లో సగం దీని గుండా వెళతాయి.\n2. ప్రపంచంలోని బల్క్ కార్గోలో మూడో వంతు దీని ద్వారా రవాణా అవుతుంది.\n3. ప్రపంచ చమురులో మూడింట రెండు వంతులు దీని గుండా రవాణా చేయబడుతుంది.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding trade traffic through the Indian Ocean:\n1. Half of the world's container ships pass through it.\n2. One third of the world's bulk cargo is transported through it.\n3. Two-thirds of the world's oil is transported through it.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "హిందూ మహాసముద్రం ప్రపంచంలోని కంటైనర్ నౌకల్లో సగం, బల్క్ కార్గోలో మూడో వంతు మరియు చమురులో మూడింట రెండు వంతులను మోసుకెళ్లే రద్దీ మార్గం.",
+    "en": "The Indian Ocean carries half of the world's container ships, one third of the bulk cargo, and two-thirds of the world's oil."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T13-0163",
+   "section": {
+    "te": "India's Mainland Coastline",
+    "en": "India's Mainland Coastline"
+   },
+   "q": {
+    "te": "భారత ప్రధాన భూభాగం యొక్క తీరరేఖ పొడవు ఎంత?",
+    "en": "What is the length of the coastline of the Indian mainland?"
+   },
+   "options": {
+    "te": [
+     "6,100 కి.మీ.",
+     "7,517 కి.మీ.",
+     "15,200 కి.మీ.",
+     "3,214 కి.మీ."
+    ],
+    "en": [
+     "6,100 km",
+     "7,517 km",
+     "15,200 km",
+     "3,214 km"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భారతదేశ ప్రధాన భూభాగ తీరరేఖ 6,100 కి.మీ., ద్వీపాలతో కలిపి మొత్తం తీరరేఖ 7,517 కి.మీ.",
+    "en": "The mainland coastline of India is 6,100 km, while the total coastline including islands is 7,517 km."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T13-0158",
+   "section": {
+    "te": "India's Size Rank",
+    "en": "India's Size Rank"
+   },
+   "q": {
+    "te": "మొత్తం భూభాగ వైశాల్యం పరంగా ప్రపంచంలో భారతదేశం ఎన్నో స్థానంలో ఉంది?",
+    "en": "What is India's rank in the world in terms of total land area?"
+   },
+   "options": {
+    "te": [
+     "ఏడవ",
+     "ఐదవ",
+     "ఎనిమిదవ",
+     "ఆరవ"
+    ],
+    "en": [
+     "Seventh",
+     "Fifth",
+     "Eighth",
+     "Sixth"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వైశాల్యం పరంగా భారతదేశం ప్రపంచంలో ఏడవ అతిపెద్ద దేశం.",
+    "en": "India is the seventh largest country in the world by area."
+   }
+  }
+ ]
+}

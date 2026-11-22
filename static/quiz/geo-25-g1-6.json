@@ -1,0 +1,942 @@
+{
+ "id": "geo-25-g1-6",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Agriculture – క్విజ్ 6",
+  "en": "Agriculture – Quiz 6"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T25-0346",
+   "section": {
+    "te": "Agricultural diversification",
+    "en": "Agricultural diversification"
+   },
+   "q": {
+    "te": "1980లలో, ప్రణాళికా సంఘం వ్యవసాయ వైవిధ్యీకరణలో భాగంగా కింది ఏ రంగాల అభివృద్ధికి వనరులను వినియోగించాలని నొక్కి చెప్పింది?",
+    "en": "In the 1980s, the Planning Commission emphasised the diversification of agriculture and harnessing of resources for the development of which of the following sectors?"
+   },
+   "options": {
+    "te": [
+     "పాడి పరిశ్రమ మరియు పౌల్ట్రీ",
+     "ఉద్యానవన పంటలు (హార్టికల్చర్)",
+     "పశువుల పెంపకం మరియు ఆక్వాకల్చర్",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Dairy farming and poultry",
+     "Horticulture",
+     "Livestock rearing and aquaculture",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాడి పరిశ్రమ, పౌల్ట్రీ, ఉద్యానవన పంటలు, పశువుల పెంపకం మరియు ఆక్వాకల్చర్ రంగాల అభివృద్ధి ద్వారా వ్యవసాయాన్ని వైవిధ్యపరచాలని ప్రణాళికా సంఘం సూచించింది.",
+    "en": "The Planning Commission emphasised agricultural diversification into dairy farming, poultry, horticulture, livestock rearing, and aquaculture."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T25-0102",
+   "section": {
+    "te": "Net Sown Area",
+    "en": "Net Sown Area"
+   },
+   "q": {
+    "te": "ఈ క్రింది రాష్ట్రాలు/కేంద్రపాలిత ప్రాంతాలను పరిశీలించండి:\n1. పంజాబ్\n2. మిజోరం\n3. మణిపూర్\n4. హర్యానా\nపైన పేర్కొన్న వాటిలో ఏ రాష్ట్రాల్లో నికర సాగు భూమి (NSA) మొత్తం వైశాల్యంలో 10 శాతం కంటే తక్కువగా ఉంది?",
+    "en": "Consider the following states/UTs:\n1. Punjab\n2. Mizoram\n3. Manipur\n4. Haryana\nIn which of the above is the Net Sown Area (NSA) less than 10 per cent of the total area?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 4 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3",
+     "2, 3 మరియు 4"
+    ],
+    "en": [
+     "1 and 4 only",
+     "2 and 3 only",
+     "1, 2 and 3",
+     "2, 3 and 4"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పంజాబ్ మరియు హర్యానాలో 80 శాతం కంటే ఎక్కువ నికర సాగు భూమి ఉండగా, మిజోరం మరియు మణిపూర్ (అరుణాచల్ ప్రదేశ్ మరియు అండమాన్ నికోబార్‌తో పాటు) 10 శాతం కంటే తక్కువ కలిగి ఉన్నాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text specifies that Punjab and Haryana have over 80% Net Sown Area, while Mizoram and Manipur (along with Arunachal Pradesh and Andaman Nicobar) have less than 10%."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T25-0295",
+   "section": {
+    "te": "Wheat Yield Levels",
+    "en": "Wheat Yield Levels"
+   },
+   "q": {
+    "te": "ఈ క్రింది ఏ రాష్ట్రాల్లో గోధుమ దిగుబడి స్థాయి చాలా ఎక్కువగా (హెక్టారుకు 4,000 కిలోల కంటే ఎక్కువ) నమోదైంది?",
+    "en": "In which of the following states is the yield level of wheat recorded as very high (above 4,000 kg per ha)?"
+   },
+   "options": {
+    "te": [
+     "ఉత్తర ప్రదేశ్ మరియు బీహార్",
+     "మధ్యప్రదేశ్ మరియు రాజస్థాన్",
+     "హిమాచల్ ప్రదేశ్ మరియు జమ్మూ కాశ్మీర్",
+     "పంజాబ్ మరియు హర్యానా"
+    ],
+    "en": [
+     "Uttar Pradesh and Bihar",
+     "Madhya Pradesh and Rajasthan",
+     "Himachal Pradesh and Jammu and Kashmir",
+     "Punjab and Haryana"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పంజాబ్ మరియు హర్యానాలో హెక్టారుకు 4,000 కిలోల కంటే ఎక్కువ గోధుమ దిగుబడి ఉందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text specifies that Punjab and Haryana have very high wheat yields exceeding 4,000 kg per hectare."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T25-0080",
+   "section": {
+    "te": "Land Measurement",
+    "en": "Land Measurement"
+   },
+   "q": {
+    "te": "ఒక హెక్టారులో ఎన్ని చదరపు మీటర్లు ఉంటాయి?",
+    "en": "How many square metres are there in one hectare?"
+   },
+   "options": {
+    "te": [
+     "10,000 చదరపు మీటర్లు",
+     "5,000 చదరపు మీటర్లు",
+     "1,000 చదరపు మీటర్లు",
+     "4,047 చదరపు మీటర్లు"
+    ],
+    "en": [
+     "10,000 square metres",
+     "5,000 square metres",
+     "1,000 square metres",
+     "4,047 square metres"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగంలో ఇచ్చిన నిర్వచనం ప్రకారం, ఒక హెక్టారు 10,000 చదరపు మీటర్లకు సమానం.",
+    "en": "As per the definition provided in the text, one hectare is equal to 10,000 square metres."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T25-0243",
+   "section": {
+    "te": "Net Sown Area",
+    "en": "Net Sown Area"
+   },
+   "q": {
+    "te": "పంటలు విత్తి, కోత కోసే వాస్తవ భౌతిక భూమి విస్తీర్ణాన్ని ఏమని పిలుస్తారు?",
+    "en": "The physical extent of land on which crops are sown and harvested is known as:"
+   },
+   "options": {
+    "te": [
+     "సాగుయోగ్యమైన వ్యర్థ భూమి",
+     "రిపోర్టింగ్ ఏరియా",
+     "నికర సాగు విస్తీర్ణం (Net Sown Area)",
+     "స్థూల సాగు విస్తీర్ణం (Gross Cropped Area)"
+    ],
+    "en": [
+     "Culturable Wasteland",
+     "Reporting Area",
+     "Net Sown Area",
+     "Gross Cropped Area"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పంటలను నాటి మరియు కోత కోసే వాస్తవ భూ వైశాల్యాన్ని 'నికర సాగు విస్తీర్ణం' (Net Sown Area) అంటారు.",
+    "en": "The physical extent of land on which crops are sown and harvested is defined as Net Sown Area."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T25-0201",
+   "section": {
+    "te": "Regions of Shifting Cultivation",
+    "en": "Regions of Shifting Cultivation"
+   },
+   "q": {
+    "te": "క్రింది ఏ ఉష్ణమండల ప్రాంతాలలోని తెగలు ప్రాథమిక జీవనాధార వ్యవసాయాన్ని (పోడు వ్యవసాయం) విస్తృతంగా ఆచరిస్తున్నారు?",
+    "en": "In which of the following tropical regions is primitive subsistence agriculture widely practised by tribes?"
+   },
+   "options": {
+    "te": [
+     "ఆఫ్రికా",
+     "దక్షిణ మరియు మధ్య అమెరికా",
+     "ఆగ్నేయాసియా",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Africa",
+     "South and Central America",
+     "South East Asia",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఆఫ్రికా, దక్షిణ మరియు మధ్య అమెరికా, మరియు ఆగ్నేయాసియా ప్రాంతాల ఉష్ణమండల తెగలు ఈ వ్యవసాయాన్ని విస్తృతంగా ఆచరిస్తున్నాయి.",
+    "en": "Primitive subsistence agriculture is widely practiced in the tropics, particularly in Africa, South and Central America, and South East Asia."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T25-0368",
+   "section": {
+    "te": "Water Management Policy",
+    "en": "Water Management Policy"
+   },
+   "q": {
+    "te": "ఇందిరా గాంధీ కెనాల్ ప్రాజెక్ట్ కోసం ప్రతిపాదించిన నీటి నిర్వహణ విధానానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది స్టేజ్-I లో సంరక్షణాత్మక నీటిపారుదలను (protective irrigation) నిర్దేశిస్తుంది.\n2. ఇది స్టేజ్-II లో పంటల విస్తృత నీటిపారుదల మరియు పచ్చిక బయళ్ల అభివృద్ధిని నిర్దేశిస్తుంది.\nపై ప్రకటనలలో ఏది/ఏవి సరైనది/వి?",
+    "en": "Consider the following statements regarding the water management policy envisaged for the Indira Gandhi Canal Project:\n1. It envisages protective irrigation in Stage-I.\n2. It envisages extensive irrigation of crops and pasture development in Stage-II.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నీటి నిర్వహణ విధానం ప్రకారం స్టేజ్-I లో సంరక్షణాత్మక నీటిపారుదల, స్టేజ్-II లో విస్తృత పంటల సాగు మరియు పచ్చిక బయళ్ల అభివృద్ధి ప్రతిపాదించబడ్డాయి.",
+    "en": "According to the water management policy, the project envisages protective irrigation in Stage-I and extensive irrigation of crops and pasture development in Stage-II."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T25-0174",
+   "section": {
+    "te": "Cotton Cultivation",
+    "en": "Cotton Cultivation"
+   },
+   "q": {
+    "te": "ప్రత్తి పంట విజయవంతంగా పెరగడానికి ఎన్ని మంచు లేని రోజులు (frost-free days) అవసరం?",
+    "en": "How many frost-free days are required for the successful growth of a cotton crop?"
+   },
+   "options": {
+    "te": [
+     "210 రోజులు",
+     "150 రోజులు",
+     "100 రోజులు",
+     "300 రోజులు"
+    ],
+    "en": [
+     "210 days",
+     "150 days",
+     "100 days",
+     "300 days"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రత్తి సాగుకు 210 మంచు లేని రోజులు మరియు ప్రకాశవంతమైన సూర్యరశ్మి వంటి నిర్దిష్ట వాతావరణ పరిస్థితులు అవసరం.",
+    "en": "Cotton cultivation requires specific climatic conditions including 210 frost-free days and bright sunshine."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T25-0288",
+   "section": {
+    "te": "Bajra Cropped Area",
+    "en": "Bajra Cropped Area"
+   },
+   "q": {
+    "te": "భారతదేశంలోని మొత్తం పంట విస్తీర్ణంలో సజ్జలు (Bajra) సుమారు ఎంత శాతం ఆక్రమిస్తాయి?",
+    "en": "What percentage of the total cropped area in India is occupied by Bajra?"
+   },
+   "options": {
+    "te": [
+     "11 శాతం",
+     "5.2 శాతం",
+     "22.07 శాతం",
+     "12.8 శాతం"
+    ],
+    "en": [
+     "11 per cent",
+     "5.2 per cent",
+     "22.07 per cent",
+     "12.8 per cent"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వేడి మరియు పొడి వాతావరణ పరిస్థితులలో పండే ముతక ధాన్యమైన సజ్జలు, భారతదేశ మొత్తం పంట విస్తీర్ణంలో సుమారు 5.2 శాతాన్ని ఆక్రమిస్తాయి.",
+    "en": "Bajra, a coarse cereal sown in hot and dry climatic conditions, occupies about 5.2 per cent of India's total cropped area."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T25-0167",
+   "section": {
+    "te": "Sugarcane climate requirements",
+    "en": "Sugarcane climate requirements"
+   },
+   "q": {
+    "te": "చెరకు సాగుకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. దీనికి 21°C నుండి 27°C ఉష్ణోగ్రత అవసరం.\n2. దీనికి 75 సెం.మీ నుండి 100 సెం.మీ మధ్య వార్షిక వర్షపాతం అవసరం.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about sugarcane cultivation:\n1. It requires a temperature range of 21°C to 27°C.\n2. It requires annual rainfall between 75 cm and 100 cm.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "చెరకు 21°C-27°C ఉష్ణోగ్రత మరియు 75-100 సెం.మీ వర్షపాతం ఉన్న వేడి మరియు ఆర్ద్రత కలిగిన శీతోష్ణస్థితులలో బాగా పెరుగుతుంది.",
+    "en": "Sugarcane thrives in hot and humid climates with temperatures between 21°C-27°C and rainfall between 75-100 cm."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T25-0228",
+   "section": {
+    "te": "Truck Farming",
+    "en": "Truck Farming"
+   },
+   "q": {
+    "te": "ట్రక్ ఫార్మింగ్ (Truck farming) లో పొలాల నుండి నగర మార్కెట్ మధ్య ఉండే దూరం ప్రధానంగా దేనిపై ఆధారపడి నిర్ణయించబడుతుంది?",
+    "en": "In truck farming, the distance between the farms and the market is primarily governed by:"
+   },
+   "options": {
+    "te": [
+     "పట్టణ పారిశ్రామిక కర్మాగారాలు ఆక్రమించిన మొత్తం విస్తీర్ణంపై",
+     "గ్రామీణ మరియు పట్టణ ప్రాంతాల మధ్య ఉన్న రైలు మార్గాల కనెక్టివిటీపై",
+     "ఒక ట్రక్కు రాత్రికి రాత్రే ప్రయాణించగల దూరంపై",
+     "భారీ రవాణా వాహనాల ఇంధన నిల్వ సామర్థ్యంపై"
+    ],
+    "en": [
+     "The total area occupied by urban industrial factories",
+     "The rail connectivity available between rural and urban sectors",
+     "The distance that a truck can cover overnight",
+     "The fuel capacity of heavy commercial freight vehicles"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కూరగాయలను మార్కెట్‌కు చేరవేయడానికి ఒక ట్రక్కు రాత్రి సమయంలో ఎంత దూరం ప్రయాణించగలదో ఆ దూరం ఆధారంగానే మార్కెట్ తోటల పరిధి నిర్ణయించబడుతుంది, అందుకే దీనిని ట్రక్ ఫార్మింగ్ అంటారు.",
+    "en": "Truck farming gets its name because the distance of the farms from the urban market is determined by the distance a truck can travel overnight."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T25-0314",
+   "section": {
+    "te": "Cotton Cropped Area",
+    "en": "Cotton Cropped Area"
+   },
+   "q": {
+    "te": "భారతదేశంలో మొత్తం సాగు విస్తీర్ణంలో పత్తి సుమారు ఎంత శాతాన్ని ఆక్రమించింది?",
+    "en": "Cotton occupies approximately what percentage of the total cropped area in India?"
+   },
+   "options": {
+    "te": [
+     "0.5 శాతం",
+     "4.7 శాతం",
+     "14.0 శాతం",
+     "2.5 శాతం"
+    ],
+    "en": [
+     "0.5 per cent",
+     "4.7 per cent",
+     "14.0 per cent",
+     "2.5 per cent"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారతదేశంలో మొత్తం సాగు విస్తీర్ణంలో పత్తి దాదాపు 4.7 శాతాన్ని ఆక్రమించింది.",
+    "en": "Cotton is a major fibre crop that accounts for about 4.7 per cent of the total cropped area in India."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T25-0268",
+   "section": {
+    "te": "Land-saving Technologies",
+    "en": "Land-saving Technologies"
+   },
+   "q": {
+    "te": "భారతీయ వ్యవసాయంలో భూమిని ఆదా చేసే సాంకేతికతలను ఏ రెండు వర్గాలుగా వర్గీకరించారు?",
+    "en": "Land-saving technologies in Indian agriculture are classified into which two categories?"
+   },
+   "options": {
+    "te": [
+     "రసాయన ఎరువులు మరియు సేంద్రియ ఎరువులు",
+     "యూనిట్ విస్తీర్ణంలో దిగుబడిని పెంచడం మరియు భూ వినియోగ తీవ్రతను పెంచడం",
+     "A మరియు B రెండూ",
+     "యాంత్రీకరణ మరియు శారీరక శ్రమ"
+    ],
+    "en": [
+     "Chemical fertilizers and Organic manure",
+     "Raising yield per unit area and Increasing land-use intensity",
+     "Both A and B",
+     "Mechanization and Manual labour"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భూమిని ఆదా చేసే సాంకేతికతలను యూనిట్ విస్తీర్ణంలో దిగుబడిని పెంచేవి మరియు భూ వినియోగ తీవ్రతను పెంచడం ద్వారా మొత్తం ఉత్పత్తిని పెంచేవిగా పాఠ్య భాగం వర్గీకరించింది.",
+    "en": "The text classifies land-saving technologies into those that raise yield per unit area and those that increase total output by increasing land-use intensity."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T25-0354",
+   "section": {
+    "te": "Agricultural Productivity Comparison",
+    "en": "Agricultural Productivity Comparison"
+   },
+   "q": {
+    "te": "భారతదేశంలో వరి, గోధుమ, పత్తి మరియు నూనెగింజల వంటి ప్రధాన పంటల హెక్టారు దిగుబడి క్రింది ఏ దేశాల కంటే చాలా తక్కువగా ఉంది?",
+    "en": "Per hectare output of major crops such as rice, wheat, cotton, and oilseeds in India is much lower than which of the following countries?"
+   },
+   "options": {
+    "te": [
+     "యు.ఎస్.ఎ. (U.S.A.)",
+     "రష్యా",
+     "జపాన్",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "U.S.A.",
+     "Russia",
+     "Japan",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశంలో ప్రధాన పంటల హెక్టారు దిగుబడి యు.ఎస్.ఎ., రష్యా మరియు జపాన్ దేశాల కంటే చాలా తక్కువగా ఉంది.",
+    "en": "India's per hectare output of crops like rice, wheat, cotton and oilseeds is much lower than that of the U.S.A., Russia and Japan."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T25-0006",
+   "section": {
+    "te": "Vedic Crop Names",
+    "en": "Vedic Crop Names"
+   },
+   "q": {
+    "te": "కింది వేద పదాలను వాటి ఆధునిక పంట పేర్లతో జతపరచండి:\n1. యవ - i. వరి\n2. గోధూమ - ii. బార్లీ\n3. వ్రీహి - iii. గోధుమ",
+    "en": "Match the following Vedic terms with their modern crop names:\n1. Yava - i. Rice\n2. Godhūma - ii. Barley\n3. Vrīhi - iii. Wheat"
+   },
+   "options": {
+    "te": [
+     "1-i, 2-ii, 3-iii",
+     "1-ii, 2-iii, 3-i",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-i, 3-iii"
+    ],
+    "en": [
+     "1-i, 2-ii, 3-iii",
+     "1-ii, 2-iii, 3-i",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-i, 3-iii"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వేదాలలో, యవ అంటే బార్లీ, గోధూమ అంటే గోధుమ మరియు వ్రీహి అంటే వరి అని అర్థం.",
+    "en": "In the Vedas, Yava refers to barley, Godhūma refers to wheat, and Vrīhi refers to rice."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T25-0016",
+   "section": {
+    "te": "Harappan Rice Presence",
+    "en": "Harappan Rice Presence"
+   },
+   "q": {
+    "te": "హరప్పా ప్రాంతాల నుండి లభించిన పురావస్తు ఆధారాలు ఏ సహస్రాబ్దిలో వరి ఉన్నట్లు సూచిస్తున్నాయి?",
+    "en": "Archaeological evidence from Harappan sites points to the presence of rice in which millennium?"
+   },
+   "options": {
+    "te": [
+     "క్రీస్తుపూర్వం 3వ సహస్రాబ్ది",
+     "క్రీస్తుపూర్వం 1వ సహస్రాబ్ది",
+     "క్రీస్తుపూర్వం 8వ సహస్రాబ్ది",
+     "క్రీస్తుపూర్వం 7వ సహస్రాబ్ది"
+    ],
+    "en": [
+     "3rd millennium BCE",
+     "1st millennium BCE",
+     "8th millennium BCE",
+     "7th millennium BCE"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "గంగా మైదానంలో వరి అంతకుముందే ఉన్నప్పటికీ, హరప్పా ప్రాంతాలలో క్రీస్తుపూర్వం 3వ సహస్రాబ్దిలో వరి ఉన్నట్లు ఆధారాలు ఉన్నాయి.",
+    "en": "While rice was in the Ganga Plain earlier, Harappan sites show its presence in the 3rd millennium BCE."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T25-0117",
+   "section": {
+    "te": "Regional Farming Names",
+    "en": "Regional Farming Names"
+   },
+   "q": {
+    "te": "భారతదేశంలోని వివిధ ప్రాంతాలలో 'నరికి కాల్చివేసే' (slash and burn) వ్యవసాయానికి ఉన్న ప్రాంతీయ పేర్లను జతపరచండి:\n1. కుమారి (Kumari) - i. జార్ఖండ్\n2. కురువా (Kuruwa) - ii. పశ్చిమ కనుమలు\n3. ఖిల్ (Khil) - iii. హిమాలయ ప్రాంతం",
+    "en": "Match the following regional names of 'slash and burn' agriculture with their respective regions in India:\n1. Kumari - i. Jharkhand\n2. Kuruwa - ii. Western Ghats\n3. Khil - iii. Himalayan belt"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-i, 3-iii",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-iii, 3-i"
+    ],
+    "en": [
+     "1-ii, 2-i, 3-iii",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-iii, 3-i"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, పశ్చిమ కనుమలలో 'కుమారి', జార్ఖండ్‌లో 'కురువా' మరియు హిమాలయ ప్రాంతంలో 'ఖిల్' అని పిలుస్తారు.",
+    "en": "'Kumari' is practiced in the Western Ghats, 'Kuruwa' in Jharkhand, and 'Khil' in the Himalayan belt."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T25-0316",
+   "section": {
+    "te": "Assam Tea Area",
+    "en": "Assam Tea Area"
+   },
+   "q": {
+    "te": "భారతదేశంలో తేయాకు సాగు విస్తీర్ణంలో అస్సాం ఎంత శాతాన్ని కలిగి ఉంది?",
+    "en": "Assam accounts for what percentage of the total cropped area under tea in India?"
+   },
+   "options": {
+    "te": [
+     "53.2 శాతం",
+     "65.4 శాతం",
+     "45.5 శాతం",
+     "50.0 శాతం"
+    ],
+    "en": [
+     "53.2 per cent",
+     "65.4 per cent",
+     "45.5 per cent",
+     "50.0 per cent"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భారతదేశంలో తేయాకు సాగు విస్తీర్ణంలో అస్సాం దాదాపు 53.2 శాతాన్ని కలిగి ఉంది మరియు దేశంలో ఉత్పత్తి అయ్యే తేయాకులో సగానికి పైగా ఇక్కడే ఉత్పత్తి అవుతుంది.",
+    "en": "Assam accounts for about 53.2 per cent of the total cropped area under tea and contributes more than half of India's tea production."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T25-0027",
+   "section": {
+    "te": "Agroclimatic classification factors",
+    "en": "Agroclimatic classification factors"
+   },
+   "q": {
+    "te": "భారతదేశాన్ని వివిధ వ్యవసాయ-శీతోష్ణస్థితి మండలాలుగా వర్గీకరించడానికి కింది వేటిని పరిగణనలోకి తీసుకుంటారు?",
+    "en": "Which of the following factors are combined to classify India into different agroclimatic zones?"
+   },
+   "options": {
+    "te": [
+     "శీతోష్ణస్థితి కారకాలు",
+     "నేల మరియు భూభాగాల రకాలు",
+     "వృక్షసంపద రకాలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Climate factors",
+     "Types of soil and terrain",
+     "Types of vegetation",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "శీతోష్ణస్థితి అంశాలు, నేల మరియు భూభాగ రకాలు, అలాగే వృక్షసంపద రకాలను కలిపి ఈ మండలాలను వర్గీకరిస్తారు.",
+    "en": "Agroclimatic zones are categorized by combining climate factors, soil and terrain variations, and types of vegetation."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T25-0356",
+   "section": {
+    "te": "Dryland Cropping Pattern",
+    "en": "Dryland Cropping Pattern"
+   },
+   "q": {
+    "te": "భారతదేశంలోని విశాలమైన వర్షాధార మెట్ట ప్రాంతాలలో (డ్రైల్యాండ్స్) ప్రధానంగా ఏ పంటలను సాగు చేస్తారు?",
+    "en": "The vast rainfed dryland areas of India mostly grow which of the following crops?"
+   },
+   "options": {
+    "te": [
+     "ముతక తృణధాన్యాలు",
+     "పప్పుధాన్యాలు మరియు నూనెగింజలు",
+     "A మరియు B రెండూ",
+     "జనపనార మరియు చెరకు"
+    ],
+    "en": [
+     "Coarse cereals",
+     "Pulses and oilseeds",
+     "Both A and B",
+     "Jute and sugarcane"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "దేశంలోని వర్షాధార మెట్ట ప్రాంతాలలో ప్రధానంగా ముతక తృణధాన్యాలు, పప్పుధాన్యాలు మరియు నూనెగింజలను సాగు చేస్తారు.",
+    "en": "The vast rainfed drylands mostly grow coarse cereals, pulses, and oilseeds, which have low yields."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T25-0232",
+   "section": {
+    "te": "Mixed Farming Crops",
+    "en": "Mixed Farming Crops"
+   },
+   "q": {
+    "te": "సాధారణంగా మిశ్రమ వ్యవసాయంతో సంబంధం ఉన్న పంటలు క్రింది వాటిలో ఏవి?",
+    "en": "Which of the following crops are typically associated with mixed farming?"
+   },
+   "options": {
+    "te": [
+     "గోధుమ మరియు బార్లీ",
+     "ఓట్స్ మరియు రై",
+     "మొక్కజొన్న మరియు పశుగ్రాస పంటలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Wheat and barley",
+     "Oats and rye",
+     "Maize and fodder crops",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం మిశ్రమ వ్యవసాయంలో గోధుమ, బార్లీ, ఓట్స్, రై, మొక్కజొన్న, పశుగ్రాసం మరియు దుంప పంటలు ప్రధానంగా సాగు చేయబడతాయి.",
+    "en": "Crops associated with mixed farming include wheat, barley, oats, rye, maize, fodder and root crops."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T25-0005",
+   "section": {
+    "te": "Harappan Agriculture",
+    "en": "Harappan Agriculture"
+   },
+   "q": {
+    "te": "హరప్పా నాగరికత ప్రజల ప్రధాన పంటలు ఏవి?",
+    "en": "Which of the following were the staple crops of the Harappan civilization?"
+   },
+   "options": {
+    "te": [
+     "వరి మరియు చిరుధాన్యాలు",
+     "బార్లీ మరియు గోధుమలు",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Rice and Millets",
+     "Barley and Wheat",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "హరప్పా ప్రజల ప్రధాన పంటలు బార్లీ మరియు గోధుమలు అని మూల పాఠం స్పష్టంగా పేర్కొంది.",
+    "en": "Barley and wheat were the staple crops of the Harappans."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T25-0142",
+   "section": {
+    "te": "Staple Food of India",
+    "en": "Staple Food of India"
+   },
+   "q": {
+    "te": "భారతదేశంలోని మెజారిటీ ప్రజలకు ప్రధాన ఆహార పంట ఏది?",
+    "en": "Which crop is the staple food for the majority of people in India?"
+   },
+   "options": {
+    "te": [
+     "గోధుమ",
+     "మొక్కజొన్న",
+     "చిరుధాన్యాలు",
+     "వరి"
+    ],
+    "en": [
+     "Wheat",
+     "Maize",
+     "Millets",
+     "Rice"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, చాలా మంది భారతీయులకు వరి ప్రధాన ఆహార పంట.",
+    "en": "Rice is the staple food crop for most Indians."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T25-0162",
+   "section": {
+    "te": "Rubber climatic requirements",
+    "en": "Rubber climatic requirements"
+   },
+   "q": {
+    "te": "రబ్బరు సాగుకు ఈ క్రింది ఏ శీతోష్ణస్థితి పరిస్థితులు అవసరం?",
+    "en": "Which of the following climatic conditions are essential for the cultivation of rubber?"
+   },
+   "options": {
+    "te": [
+     "100 సెం.మీ కంటే తక్కువ వర్షపాతం మరియు 30°C కంటే ఎక్కువ ఉష్ణోగ్రత",
+     "200 సెం.మీ కంటే ఎక్కువ వర్షపాతం మరియు 25°C కంటే ఎక్కువ ఉష్ణోగ్రత",
+     "50-75 సెం.మీ మధ్య వర్షపాతం మరియు 20°C కంటే తక్కువ ఉష్ణోగ్రత",
+     "150 సెం.మీ కంటే ఎక్కువ వర్షపాతం మరియు 15°C-20°C మధ్య ఉష్ణోగ్రత"
+    ],
+    "en": [
+     "Rainfall below 100 cm and temperature above 30°C",
+     "Rainfall more than 200 cm and temperature above 25°C",
+     "Rainfall between 50-75 cm and temperature below 20°C",
+     "Rainfall more than 150 cm and temperature between 15°C-20°C"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "రబ్బరు ఒక భూమధ్యరేఖా పంట, దీనికి 200 సెం.మీ కంటే ఎక్కువ వర్షపాతం మరియు 25°C కంటే ఎక్కువ ఉష్ణోగ్రతతో కూడిన తేమ మరియు ఆర్ద్రత కలిగిన శీతోష్ణస్థితి అవసరం.",
+    "en": "Rubber is an equatorial crop that requires a moist and humid climate with over 200 cm of rainfall and temperatures exceeding 25°C."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T25-0240",
+   "section": {
+    "te": "Culturable Wasteland",
+    "en": "Culturable Wasteland"
+   },
+   "q": {
+    "te": "భూ రెవెన్యూ రికార్డుల ప్రకారం, ఐదేళ్ల కంటే ఎక్కువ కాలం పాటు సాగు చేయకుండా బీడుగా వదిలేసిన భూమిని ఏమని వర్గీకరిస్తారు?",
+    "en": "According to the land revenue records, any cultivable land left fallow (uncultivated) for more than five years is classified as:"
+   },
+   "options": {
+    "te": [
+     "బంజరు భూమి",
+     "ప్రస్తుత బీడు కాకుండా ఇతర బీడు భూమి",
+     "సాగుయోగ్యమైన వ్యర్థ భూమి (Culturable Wasteland)",
+     "ప్రస్తుత బీడు భూమి"
+    ],
+    "en": [
+     "Barren Land",
+     "Fallow other than Current Fallow",
+     "Culturable Wasteland",
+     "Current Fallow"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఐదు సంవత్సరాలకు పైగా సాగు చేయకుండా వదిలివేసిన ఏ భూమినైనా 'సాగుయోగ్యమైన వ్యర్థ భూమి'గా పరిగణిస్తారు.",
+    "en": "Any land left fallow (uncultivated) for more than five years is classified as Culturable Wasteland and can be cultivated after reclamation."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T25-0211",
+   "section": {
+    "te": "Commercial grain farming zone",
+    "en": "Commercial grain farming zone"
+   },
+   "q": {
+    "te": "విస్తృత వాణిజ్య ధాన్యపు వ్యవసాయం ప్రధానంగా ఏ భౌగోళిక ప్రాంతంలో ఆచరించబడుతుంది?",
+    "en": "Extensive commercial grain cultivation is predominantly practised in which geographical zone?"
+   },
+   "options": {
+    "te": [
+     "ఉష్ణమండల ఋతుపవన తీర ప్రాంతాలు",
+     "మధ్య అక్షాంశాల అర్థ-శుష్క లోతట్టు ప్రాంతాలు",
+     "భూమధ్యరేఖ తేమతో కూడిన లోతట్టు ప్రాంతాలు",
+     "ఎత్తైన సమశీతోష్ణ పీఠభూములు"
+    ],
+    "en": [
+     "Coastal regions of tropical monsoon lands",
+     "Interior parts of semi-arid lands of the mid-latitudes",
+     "Equatorial humid lowlands",
+     "High-altitude temperate plateaus"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మధ్య అక్షాంశాల అర్థ-శుష్క లోతట్టు ప్రాంతాలలో (semi-arid lands of the mid-latitudes) వాణిజ్య ధాన్యపు సాగు ఆచరించబడుతుంది.",
+    "en": "Commercial grain cultivation is practised in the interior parts of semi-arid lands of the mid-latitudes."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T25-0141",
+   "section": {
+    "te": "Rice Growing Regions",
+    "en": "Rice Growing Regions"
+   },
+   "q": {
+    "te": "ముఖ్యమైన వరి పండించే ప్రాంతమైన కొంకణ్ తీరం ఏ రాష్ట్రంలో ఉంది?",
+    "en": "The Konkan coast, which is an important rice-growing region, is located in which state?"
+   },
+   "options": {
+    "te": [
+     "కేరళ",
+     "పశ్చిమ బెంగాల్",
+     "మహారాష్ట్ర",
+     "ఒడిశా"
+    ],
+    "en": [
+     "Kerala",
+     "West Bengal",
+     "Maharashtra",
+     "Odisha"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మహారాష్ట్రలోని కొంకణ్ తీరాన్ని ముఖ్యమైన వరి పండించే ప్రాంతాలలో ఒకటిగా పాఠ్యభాగం పేర్కొంది.",
+    "en": "The Konkan coast of Maharashtra as one of the important rice-growing regions."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T25-0098",
+   "section": {
+    "te": "Transition to organic farming",
+    "en": "Transition to organic farming"
+   },
+   "q": {
+    "te": "రసాయన వ్యవసాయం నుండి సేంద్రీయ వ్యవసాయానికి మారిన ప్రారంభ దశలో పెమా కుటుంబ పొలం ఎదుర్కొన్న తక్షణ సమస్య ఏమిటి?",
+    "en": "What immediate challenge did Pema's farm face during the initial phase of switching from chemical to organic farming?"
+   },
+   "options": {
+    "te": [
+     "కలుపు మొక్కలు పెరిగి పంటలన్నీ వెంటనే నాశనమవడం",
+     "సాంప్రదాయ విత్తనాలు పూర్తిగా నాశనం కావడం",
+     "నేల కోలుకుంటున్న సమయంలో దిగుబడులు గణనీయంగా తగ్గడం",
+     "సహజ కంపోస్ట్‌ను తయారు చేయలేకపోవడం"
+    ],
+    "en": [
+     "Immediate increase in weed growth that destroyed all crops",
+     "A complete loss of traditional seeds",
+     "Severe drop in yields while soil recovered from chemicals",
+     "Inability to prepare natural compost"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సంవత్సరాల తరబడి రసాయనాల వాడకం వల్ల దెబ్బతిన్న నేల కోలుకుంటున్నందున ప్రారంభంలో దిగుబడులు తగ్గాయని పాఠ్యాంశంలో పేర్కొనబడింది.",
+    "en": "Initially yields dropped as the soil was recovering from years of chemical use."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T25-0223",
+   "section": {
+    "te": "Mixed Farming Features",
+    "en": "Mixed Farming Features"
+   },
+   "q": {
+    "te": "మిశ్రమ వ్యవసాయానికి (Mixed farming) సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. పంటల సాగు మరియు పశుపోషణ రెండింటికీ సమాన ప్రాధాన్యత ఇవ్వబడుతుంది.\n2. నేల సారాన్ని కాపాడటంలో పంట మార్పిడి మరియు అంతర పంటల సాగు కీలక పాత్ర పోషిస్తాయి.\n3. పశుగ్రాస పంటలు ఈ వ్యవసాయంలో ఒక ముఖ్యమైన భాగం.\nపై ప్రకటనలలో సరైనవి ఏవి?",
+    "en": "Consider the following statements regarding mixed farming:\n1. Equal emphasis is laid on crop cultivation and animal husbandry.\n2. Crop rotation and intercropping play an important role in maintaining soil fertility.\n3. Fodder crops are an important component of this farming.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1, 2 and 3",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మిశ్రమ వ్యవసాయంలో పంటల సాగుతో పాటు పశుపోషణకు సమాన ప్రాధాన్యత ఉంటుంది, నేల సారవంతతకు పంట మార్పిడి తోడ్పడుతుంది మరియు పశుగ్రాస పంటలు ముఖ్యమైన భాగంగా ఉంటాయి.",
+    "en": "In mixed farming, equal emphasis is laid on crops and livestock, fodder crops are an important component, and crop rotation and intercropping maintain soil fertility."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T25-0107",
+   "section": {
+    "te": "Land Conservation",
+    "en": "Land Conservation"
+   },
+   "q": {
+    "te": "శుష్క (Arid) ప్రాంతాలలో భూమి క్షీణతను అరికట్టడానికి ఈ క్రింది ఏ పద్ధతులు సిఫార్సు చేయబడ్డాయి?\nA. షెల్టర్ బెల్ట్‌ల (రక్షణ కవచాలు) పెంపకం\nB. ముళ్ల పొదలను పెంచడం ద్వారా ఇసుక దిబ్బలను స్థిరీకరించడం\nC. పారిశ్రామిక వ్యర్థాలను సరిగ్గా విసర్జించడం",
+    "en": "Which of the following methods are recommended to check land degradation in arid areas?\nA. Planting of shelter belts\nB. Stabilisation of sand dunes by growing thorny bushes\nC. Proper discharge of industrial effluents"
+   },
+   "options": {
+    "te": [
+     "A మరియు C మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు B రెండూ",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and C only",
+     "B and C only",
+     "Both A and B",
+     "All of the above"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "శుష్క ప్రాంతాల కోసం షెల్టర్ బెల్ట్‌లు మరియు ముళ్ల పొదలు ప్రత్యేకంగా పేర్కొనబడ్డాయి, అయితే పారిశ్రామిక వ్యర్థాల శుద్ధి పారిశ్రామిక మరియు శివారు ప్రాంతాల కోసం ఉద్దేశించబడింది.",
+    "en": "Shelter belts and thorny bushes for sand dunes are specifically for arid areas, while industrial effluent treatment is for industrial and suburban areas."
+   }
+  }
+ ]
+}

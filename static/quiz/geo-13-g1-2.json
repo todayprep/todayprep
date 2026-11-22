@@ -1,0 +1,942 @@
+{
+ "id": "geo-13-g1-2",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "India – క్విజ్ 2",
+  "en": "India – Quiz 2"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T13-0038",
+   "section": {
+    "te": "Indian Peninsula Strategic Role",
+    "en": "Indian Peninsula Strategic Role"
+   },
+   "q": {
+    "te": "హిందూ మహాసముద్రంలోకి చొచ్చుకువచ్చిన భారతదేశ ద్వీపకల్ప రూపం, కింది ఏ ప్రాంతాల మధ్య కీలకమైన అనుసంధానంగా పనిచేస్తుంది?",
+    "en": "India's peninsular shape extending into the Indian Ocean makes it a vital link connecting which of the following regions?"
+   },
+   "options": {
+    "te": [
+     "పశ్చిమ యూరప్, ఉత్తర ఆఫ్రికా మరియు తూర్పు ఆసియా",
+     "తూర్పు ఆసియా, మధ్య ఆసియా మరియు ఆస్ట్రేలియా",
+     "ఉత్తర అమెరికా, దక్షిణ అమెరికా మరియు యూరప్",
+     "ఆగ్నేయాసియా, పశ్చిమాసియా మరియు ఆఫ్రికా"
+    ],
+    "en": [
+     "West Europe, North Africa, and East Asia",
+     "East Asia, Central Asia, and Australia",
+     "North America, South America, and Europe",
+     "Southeast Asia, West Asia, and Africa"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశ ద్వీపకల్ప స్థానం ఆగ్నేయాసియా, పశ్చిమాసియా మరియు ఆఫ్రికాల మధ్య ముఖ్యమైన సముద్ర మార్గాలకు కీలక అనుసంధానంగా నిలుస్తుంది.",
+    "en": "India's peninsular location deep into the Indian Ocean acts as a vital link between Southeast Asia, West Asia, and Africa."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T13-0036",
+   "section": {
+    "te": "Aravalli Minerals",
+    "en": "Aravalli Minerals"
+   },
+   "q": {
+    "te": "ఆరావళి పర్వతాలలో సమృద్ధిగా లభించి, శతాబ్దాలుగా మైనింగ్ మరియు నిర్మాణ కార్యకలాపాలకు తోడ్పడుతున్న ఖనిజాలు ఏవి?\n1. పాలరాయి (Marble)\n2. గ్రానైట్ (Granite)\n3. జింక్ (Zinc)\n4. రాగి (Copper)\nకింది కోడ్‌లను ఉపయోగించి సరైన సమాధానాన్ని ఎంచుకోండి:",
+    "en": "Which of the following minerals are found abundantly in the Aravallis, supporting mining and construction activities?\n1. Marble\n2. Granite\n3. Zinc\n4. Copper\nSelect the correct answer using the codes below:"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 4 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 3 మరియు 4 మాత్రమే",
+     "1, 2, 3 మరియు 4"
+    ],
+    "en": [
+     "1 and 4 only",
+     "2 and 3 only",
+     "1, 3 and 4 only",
+     "1, 2, 3 and 4"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఆరావళి పర్వతాలు పాలరాయి, గ్రానైట్, జింక్ మరియు రాగి వంటి ఖనిజాలతో సమృద్ధిగా ఉన్నాయి.",
+    "en": "The Aravalli Hills are rich in minerals including marble, granite, zinc, and copper."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T13-0010",
+   "section": {
+    "te": "Jaisalmer",
+    "en": "Jaisalmer"
+   },
+   "q": {
+    "te": "థార్ ఎడారి మధ్యలో ఉన్న ఏ నగరాన్ని 'గోల్డెన్ సిటీ' (Golden City) అని పిలుస్తారు?",
+    "en": "Which city, located in the middle of the Thar Desert, is known as the 'Golden City'?"
+   },
+   "options": {
+    "te": [
+     "జైసల్మేర్",
+     "జోధ్‌పూర్",
+     "జైపూర్",
+     "పుష్కర్"
+    ],
+    "en": [
+     "Jaisalmer",
+     "Jodhpur",
+     "Jaipur",
+     "Pushkar"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "జైసల్మేర్‌ను 'గోల్డెన్ సిటీ' అని పిలుస్తారు మరియు ఇది థార్ ఎడారి మధ్యలో ఉంది.",
+    "en": "Jaisalmer is referred to as the 'Golden City' and is located in the middle of the Thar Desert."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T13-0105",
+   "section": {
+    "te": "Indian Diaspora in Malaysia",
+    "en": "Indian Diaspora in Malaysia"
+   },
+   "q": {
+    "te": "నేడు మలేషియా జనాభాలో ఎంత శాతం మంది భారతీయ సంతతికి చెందినవారు?",
+    "en": "What percentage of the Malaysian population is of Indian origin today?"
+   },
+   "options": {
+    "te": [
+     "7 శాతం",
+     "12 శాతం",
+     "9 శాతం",
+     "5 శాతం"
+    ],
+    "en": [
+     "7 per cent",
+     "12 per cent",
+     "9 per cent",
+     "5 per cent"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మలేషియా జనాభాలో 9 శాతం మంది భారతీయ సంతతికి చెందినవారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "9 per cent of the Malaysian population is of Indian origin."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T13-0163",
+   "section": {
+    "te": "India's Mainland Coastline",
+    "en": "India's Mainland Coastline"
+   },
+   "q": {
+    "te": "భారత ప్రధాన భూభాగం యొక్క తీరరేఖ పొడవు ఎంత?",
+    "en": "What is the length of the coastline of the Indian mainland?"
+   },
+   "options": {
+    "te": [
+     "6,100 కి.మీ.",
+     "15,200 కి.మీ.",
+     "3,214 కి.మీ.",
+     "7,517 కి.మీ."
+    ],
+    "en": [
+     "6,100 km",
+     "15,200 km",
+     "3,214 km",
+     "7,517 km"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భారతదేశ ప్రధాన భూభాగ తీరరేఖ 6,100 కి.మీ., ద్వీపాలతో కలిపి మొత్తం తీరరేఖ 7,517 కి.మీ.",
+    "en": "The mainland coastline of India is 6,100 km, while the total coastline including islands is 7,517 km."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T13-0136",
+   "section": {
+    "te": "India-Oman Relations",
+    "en": "India-Oman Relations"
+   },
+   "q": {
+    "te": "భారతదేశం-ఒమన్ సంబంధాలకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. గల్ఫ్ ప్రాంతంలో మూడు సాయుధ దళాలతో భారతదేశం సంయుక్త సైనిక విన్యాసాలు నిర్వహించే మొదటి దేశం ఒమన్.\n2. ఒమన్ జనాభాలో 10% కంటే ఎక్కువ మంది భారతీయ సంతతికి చెందినవారు.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding India-Oman relations:\n1. Oman is the first country in the Gulf region where India holds joint military exercises with all three armed forces.\n2. Over 10% of the population of Oman is of Indian origin.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతదేశంలోని మూడు సాయుధ దళాలతో సంయుక్త విన్యాసాలు నిర్వహించిన మొదటి గల్ఫ్ దేశం ఒమన్ అని మరియు దాని జనాభాలో 10% కంటే ఎక్కువ మంది భారతీయ సంతతికి చెందినవారని పాఠ్యభాగం ధృవీకరిస్తుంది.",
+    "en": "The text confirms that Oman is the first Gulf country to hold joint exercises with all three Indian armed forces and that over 10% of its population is of Indian origin."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T13-0167",
+   "section": {
+    "te": "Island Neighbours",
+    "en": "Island Neighbours"
+   },
+   "q": {
+    "te": "హిందూ మహాసముద్రంలో ఉన్న భారతదేశ పొరుగు ద్వీప దేశాలు ఏవి?",
+    "en": "Which two island countries located in the Indian Ocean are neighbours of India?"
+   },
+   "options": {
+    "te": [
+     "శ్రీలంక మరియు మాల్దీవులు",
+     "శ్రీలంక మరియు ఇండోనేషియా",
+     "మాల్దీవులు మరియు మారిషస్",
+     "సీషెల్స్ మరియు మాల్దీవులు"
+    ],
+    "en": [
+     "Sri Lanka and Maldives",
+     "Sri Lanka and Indonesia",
+     "Maldives and Mauritius",
+     "Seychelles and Maldives"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "హిందూ మహాసముద్రంలోని శ్రీలంక మరియు మాల్దీవులు భారతదేశానికి పొరుగున ఉన్న రెండు ద్వీప దేశాలని పాఠ్య భాగం స్పష్టంగా పేర్కొంది.",
+    "en": "Sri Lanka and Maldives as the two island countries in the Indian Ocean that are India's neighbours."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T13-0137",
+   "section": {
+    "te": "India-Iran Strategic Cooperation",
+    "en": "India-Iran Strategic Cooperation"
+   },
+   "q": {
+    "te": "ప్రకటన (A): ఇరాన్‌లోని చాబహార్ ఓడరేవును అభివృద్ధి చేయడంలో భారతదేశం సహాయం చేస్తోంది.\nకారణం (R): ఈ ఓడరేవు ఆఫ్ఘనిస్తాన్ మరియు మధ్య ఆసియాకు భారతదేశానికి మెరుగైన ప్రాప్యతను (access) అందిస్తుంది.",
+    "en": "Assertion (A): India is helping to develop the Chabahar Port in Iran.\nReason (R): The port provides India with better access to Afghanistan and Central Asia."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఆఫ్ఘనిస్తాన్ మరియు మధ్య ఆసియాకు వ్యూహాత్మక ప్రాప్యతను పొందడం కోసమే చాబహార్ ఓడరేవు అభివృద్ధిలో భారతదేశం పాల్గొంటోంది.",
+    "en": "India's involvement in the Chabahar Port is specifically to gain strategic access to Afghanistan and Central Asia."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T13-0044",
+   "section": {
+    "te": "India's exports to China",
+    "en": "India's exports to China"
+   },
+   "q": {
+    "te": "2024–2025లో భారతదేశం చైనాకు చేసిన ప్రధాన ఎగుమతులలో క్రింది వాటిలో ఏది భాగం కాదు?",
+    "en": "Which of the following was NOT one of India's chief exports to China in 2024–2025?"
+   },
+   "options": {
+    "te": [
+     "ఇనుప ఖనిజం",
+     "నూలు (కాటన్ యార్న్)",
+     "రసాయనాలు",
+     "ఎలక్ట్రానిక్ వస్తువులు"
+    ],
+    "en": [
+     "Iron ore",
+     "Cotton yarn",
+     "Chemicals",
+     "Electronic items"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఎలక్ట్రానిక్ వస్తువులు చైనా నుండి భారతదేశం చేసుకున్న దిగుమతులు; ఇనుప ఖనిజం, రసాయనాలు మరియు కాటన్ యార్న్ భారతదేశం చైనాకు చేసిన ఎగుమతులు.",
+    "en": "Electronic items were among India's imports from China, whereas iron ore, chemicals, and cotton yarn were chief exports to China."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T13-0097",
+   "section": {
+    "te": "Dhivehi Language",
+    "en": "Dhivehi Language"
+   },
+   "q": {
+    "te": "మాల్దీవుల అధికారిక భాష అయిన ధివేహి (Dhivehi), ఈ క్రింది ఏ భాషల నుండి పదాలను తీసుకుంది?\nA. సంస్కృతం మరియు ప్రాకృతం\nB. తమిళం మరియు మలయాళం\nC. హిందీ",
+    "en": "Dhivehi, the official language of the Maldives, borrows words from which of the following languages?\nA. Sanskrit and Prakrit\nB. Tamil and Malayalam\nC. Hindi"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ధివేహి భాష సంస్కృతం, ప్రాకృతం, తమిళం, మలయాళం మరియు హిందీ నుండి పదాలను తీసుకుంటుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Dhivehi borrows words from Sanskrit, Prakrit, Tamil, Malayalam, and Hindi."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T13-0138",
+   "section": {
+    "te": "India-Iran Historical Links",
+    "en": "India-Iran Historical Links"
+   },
+   "q": {
+    "te": "భారతీయ ఇతిహాసం మహాభారతం పర్షియన్లను ఏ పేరుతో ప్రస్తావించింది?",
+    "en": "By what name does the Indian epic Mahabharata refer to the Persians?"
+   },
+   "options": {
+    "te": [
+     "పారశీక",
+     "మొఘలులు",
+     "జోరాస్ట్రియన్లు",
+     "అవెస్తా"
+    ],
+    "en": [
+     "Pārasīka",
+     "Mughals",
+     "Zoroastrians",
+     "Avesta"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మహాభారతంలో పర్షియన్లను 'పారశీక' అనే పేరుతో ప్రస్తావించారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The Mahabharata mentions Persians under the name Pārasīka."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T13-0147",
+   "section": {
+    "te": "India's Global Area",
+    "en": "India's Global Area"
+   },
+   "q": {
+    "te": "ప్రపంచ భూభాగ వైశాల్యంలో భారతదేశం ఎంత శాతం కలిగి ఉంది?",
+    "en": "What percentage of the world's land surface area is accounted for by India?"
+   },
+   "options": {
+    "te": [
+     "2.4 శాతం",
+     "3.2 శాతం",
+     "2.1 శాతం",
+     "4.2 శాతం"
+    ],
+    "en": [
+     "2.4 per cent",
+     "3.2 per cent",
+     "2.1 per cent",
+     "4.2 per cent"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, ప్రపంచ మొత్తం భూభాగ వైశాల్యంలో భారతదేశం 2.4 శాతాన్ని ఆక్రమించి ఉంది.",
+    "en": "India accounts for 2.4 per cent of the world's total land surface area."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T13-0107",
+   "section": {
+    "te": "Maldives Culture",
+    "en": "Maldives Culture"
+   },
+   "q": {
+    "te": "ఈ క్రింది మాల్దీవుల సాంస్కృతిక అంశాలలో ఏవి దక్షిణ భారత ప్రభావాలను ప్రతిబింబిస్తాయి?\nA. బొడుబెరు (Boduberu) నృత్యం\nB. కొబ్బరి కూరలు మరియు రోషి (roshi)\nC. ధివేహి పదజాలం",
+    "en": "Which of the following Maldivian cultural elements reflect South Indian influences?\nA. Boduberu dance\nB. Coconut curries and roshi\nC. Dhivehi vocabulary"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మాల్దీవుల వంటకాలు (కొబ్బరి కూరలు, రోషి), బొడుబెరు నృత్యం మరియు ధివేహి పదజాలం అన్నీ దక్షిణ భారత మూలాలను లేదా ప్రభావాలను కలిగి ఉన్నాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Maldivian dishes (coconut curries, roshi), the Boduberu dance, and Dhivehi vocabulary all show South Indian roots or influences."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T13-0159",
+   "section": {
+    "te": "Indian Subcontinent Countries",
+    "en": "Indian Subcontinent Countries"
+   },
+   "q": {
+    "te": "కింది వాటిలో ఏ దేశాల సమూహం 'భారత ఉపఖండం' (Indian subcontinent) అని పిలువబడే భౌగోళిక విభాగంలో చేర్చబడ్డాయి?",
+    "en": "Which of the following groups of countries are included in the geographic entity known as the 'Indian subcontinent'?"
+   },
+   "options": {
+    "te": [
+     "భారతదేశం, ఆఫ్ఘనిస్తాన్, పాకిస్తాన్, నేపాల్ మరియు భూటాన్",
+     "పాకిస్తాన్, నేపాల్, భూటాన్, బంగ్లాదేశ్ మరియు భారతదేశం",
+     "పాకిస్తాన్, బంగ్లాదేశ్, మయన్మార్, నేపాల్ మరియు భారతదేశం",
+     "భారతదేశం, పాకిస్తాన్, శ్రీలంక, మాల్దీవులు మరియు నేపాల్"
+    ],
+    "en": [
+     "India, Afghanistan, Pakistan, Nepal and Bhutan",
+     "Pakistan, Nepal, Bhutan, Bangladesh and India",
+     "Pakistan, Bangladesh, Myanmar, Nepal and India",
+     "India, Pakistan, Sri Lanka, Maldives and Nepal"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్య భాగం ప్రకారం, భారత ఉపఖండం అనేది పాకిస్తాన్, నేపాల్, భూటాన్, బంగ్లాదేశ్ మరియు భారతదేశాలను కలిగి ఉన్న ఒక గొప్ప భౌగోళిక విభాగం.",
+    "en": "The Indian subcontinent is a great geographic entity that includes Pakistan, Nepal, Bhutan, Bangladesh, and India."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T13-0130",
+   "section": {
+    "te": "Borobudur Statues",
+    "en": "Borobudur Statues"
+   },
+   "q": {
+    "te": "బోరోబుదూర్ స్తూపంలో సుమారు ఎన్ని బుద్ధుని విగ్రహాలు ఉన్నాయి?",
+    "en": "Approximately how many statues of the Buddha are harboured in the Borobudur Stūpa?"
+   },
+   "options": {
+    "te": [
+     "300 కంటే ఎక్కువ",
+     "100 కంటే ఎక్కువ",
+     "500 కంటే ఎక్కువ",
+     "1,000 కంటే ఎక్కువ"
+    ],
+    "en": [
+     "Over 300",
+     "Over 100",
+     "Over 500",
+     "Over 1,000"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "బోరోబుదూర్ స్తూపంలో 500 కంటే ఎక్కువ బుద్ధుని విగ్రహాలు మరియు అనేక చిన్న స్తూపాలు ఉన్నాయి.",
+    "en": "The Borobudur Stūpa contains over 500 statues of the Buddha and many smaller stūpas."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T13-0127",
+   "section": {
+    "te": "India-Indonesia Separation",
+    "en": "India-Indonesia Separation"
+   },
+   "q": {
+    "te": "భారతదేశం మరియు ఇండోనేషియా కింది ఏ జలభాగాల ద్వారా వేరు చేయబడ్డాయి?",
+    "en": "India and Indonesia are separated by which of the following bodies of water?"
+   },
+   "options": {
+    "te": [
+     "బంగాళాఖాతం",
+     "అండమాన్ సముద్రం",
+     "A మరియు B రెండూ",
+     "అరేబియా సముద్రం"
+    ],
+    "en": [
+     "Bay of Bengal",
+     "Andaman Sea",
+     "Both A and B",
+     "Arabian Sea"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతదేశం మరియు ఇండోనేషియా బంగాళాఖాతం మరియు అండమాన్ సముద్రం రెండింటి ద్వారా వేరు చేయబడ్డాయి.",
+    "en": "India and Indonesia are separated by both the Bay of Bengal and the Andaman Sea."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T13-0120",
+   "section": {
+    "te": "Indonesia Geography",
+    "en": "Indonesia Geography"
+   },
+   "q": {
+    "te": "ఇండోనేషియా అనేక పెద్ద ద్వీపాలు మరియు సుమారు ఎన్ని చిన్న ద్వీపాలతో కూడిన ద్వీపసమూహం?",
+    "en": "Indonesia is an archipelago consisting of several large islands and approximately how many smaller ones?"
+   },
+   "options": {
+    "te": [
+     "27,000 కంటే ఎక్కువ",
+     "7,000 కంటే ఎక్కువ",
+     "17,000 కంటే ఎక్కువ",
+     "1,000 కంటే ఎక్కువ"
+    ],
+    "en": [
+     "Over 27,000",
+     "Over 7,000",
+     "Over 17,000",
+     "Over 1,000"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఇండోనేషియా అనేక పెద్ద ద్వీపాలు మరియు 17,000 కంటే ఎక్కువ చిన్న ద్వీపాలను కలిగి ఉన్న ద్వీపసమూహం.",
+    "en": "Indonesia is an archipelago with several large islands and more than 17,000 smaller islands."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T13-0149",
+   "section": {
+    "te": "India's Dimensions",
+    "en": "India's Dimensions"
+   },
+   "q": {
+    "te": "భారతదేశ కొలతలకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఉత్తర కొన నుండి దక్షిణ కొన వరకు దూరం 3,214 కి.మీ.\n2. తూర్పు కొన నుండి పశ్చిమ కొన వరకు దూరం 2,933 కి.మీ.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the dimensions of India:\n1. The distance from the northernmost to the southernmost extremity is 3,214 km.\n2. The distance from the easternmost to the westernmost extremity is 2,933 km.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం ఉత్తర-దక్షిణ దూరం 3,214 కి.మీ మరియు తూర్పు-పశ్చిమ దూరం 2,933 కి.మీ.",
+    "en": "The north-to-south distance is 3,214 km and the east-to-west distance is 2,933 km."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T13-0155",
+   "section": {
+    "te": "Indian Islands",
+    "en": "Indian Islands"
+   },
+   "q": {
+    "te": "ఈ క్రింది ద్వీప సమూహాలను అవి ఉన్న జలభాగాలతో జతపరచండి:\n1. అండమాన్ మరియు నికోబార్ - i. అరేబియా సముద్రం\n2. లక్షద్వీప్ - ii. బంగాళాఖాతం",
+    "en": "Match the following island groups with the water bodies they are located in:\n1. Andaman and Nicobar - i. Arabian Sea\n2. Lakshadweep - ii. Bay of Bengal"
+   },
+   "options": {
+    "te": [
+     "1-i, 2-ii",
+     "1-ii, 2-i",
+     "1-i, 2-i",
+     "1-ii, 2-ii"
+    ],
+    "en": [
+     "1-i, 2-ii",
+     "1-ii, 2-i",
+     "1-i, 2-i",
+     "1-ii, 2-ii"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అండమాన్ మరియు నికోబార్ దీవులు బంగాళాఖాతంలో ఉండగా, లక్షద్వీప్ అరేబియా సముద్రంలో ఉన్నాయి.",
+    "en": "The Andaman and Nicobar islands are in the Bay of Bengal, and Lakshadweep is in the Arabian Sea."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T13-0048",
+   "section": {
+    "te": "Kartarpur Corridor opening",
+    "en": "Kartarpur Corridor opening"
+   },
+   "q": {
+    "te": "గురు నానక్ 550వ జయంతిని పురస్కరించుకుని కర్తార్‌పూర్ కారిడార్‌ను ఏ సంవత్సరంలో అధికారికంగా ప్రారంభించారు?",
+    "en": "In which year was the Kartarpur Corridor officially opened to mark Guru Nānak's 550th birth anniversary?"
+   },
+   "options": {
+    "te": [
+     "2017",
+     "2019",
+     "2021",
+     "2014"
+    ],
+    "en": [
+     "2017",
+     "2019",
+     "2021",
+     "2014"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "గురు నానక్ 550వ జయంతి సందర్భంగా కర్తార్‌పూర్ కారిడార్ 2019లో అధికారికంగా ప్రారంభించబడింది.",
+    "en": "The Kartarpur Corridor officially opened in 2019 to mark the 550th birth anniversary of Guru Nanak."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T13-0083",
+   "section": {
+    "te": "Sarnath Buddha replica gift",
+    "en": "Sarnath Buddha replica gift"
+   },
+   "q": {
+    "te": "మయన్మార్‌లోని యాంగోన్‌లో ఉన్న ఏ ప్రసిద్ధ పగోడాకు భారతదేశం సారనాథ్ బుద్ధ విగ్రహం యొక్క 16 అడుగుల ప్రతిరూపాన్ని బహుమతిగా ఇచ్చింది?",
+    "en": "India gifted a 16-foot replica of the Sarnath statue of the Buddha to which famous pagoda in Yangon, Myanmar?"
+   },
+   "options": {
+    "te": [
+     "సూలే పగోడా",
+     "బోటాటౌంగ్ పగోడా",
+     "కబా ఆయే పగోడా",
+     "శ్వేదగాన్ పగోడా"
+    ],
+    "en": [
+     "Sule Pagoda",
+     "Botataung Pagoda",
+     "Kaba Aye Pagoda",
+     "Shwedagon Pagoda"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశం యాంగోన్‌లోని శ్వేదగాన్ పగోడాకు సారనాథ్ బుద్ధుని 16 అడుగుల ప్రతిరూప విగ్రహాన్ని బహూకరించింది.",
+    "en": "India gifted a 16-foot replica of the Sarnath Buddha statue to the Shwedagon Pagoda in Yangon."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T13-0006",
+   "section": {
+    "te": "Ladakh Formation",
+    "en": "Ladakh Formation"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): లడఖ్ భూభాగాన్ని తరచుగా 'మూన్‌ల్యాండ్' (moonland) అని పిలుస్తారు.\nకారణం (R): భారత భూభాగం యురేషియాతో ఢీకొన్నప్పుడు పర్వతాలు 'ముడతలు' పడ్డాయి మరియు ఇక్కడి శిలలు ఎక్కువగా ఇసుక మరియు మట్టితో తయారయ్యాయి.",
+    "en": "Assertion (A): The terrain of Ladakh is often called 'moonland'.\nReason (R): The mountains were 'folded' when the Indian landmass collided with Eurasia, and the rocks are made largely of sand and clay."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ సరైనవి మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ సరైనవి కానీ A కి R సరైన వివరణ కాదు",
+     "A సరైనది కానీ R తప్పు",
+     "A తప్పు కానీ R సరైనది"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూభాగాలు ఢీకొనడం మరియు ఇసుక, మట్టి శిలల క్రమక్షయం వల్ల ఏర్పడిన ప్రత్యేక భూభాగం కారణంగా లడఖ్‌ను మూన్‌ల్యాండ్ అని పిలుస్తారు.",
+    "en": "Ladakh is called moonland due to its unique terrain formed by the collision of landmasses and subsequent erosion of sand and clay rocks."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T13-0025",
+   "section": {
+    "te": "Historic Forts in Aravallis",
+    "en": "Historic Forts in Aravallis"
+   },
+   "q": {
+    "te": "ఆరావళి పర్వత ప్రాంతంలో ఉన్న చారిత్రక కోటలు ఏవి?",
+    "en": "Which of the following historic forts are located in the Aravalli Hills region?"
+   },
+   "options": {
+    "te": [
+     "చిత్తోర్‌గఢ్ కోట",
+     "కుంభల్‌గఢ్ కోట",
+     "రణథంబోర్ కోట",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Chittorgarh Fort",
+     "Kumbhalgarh Fort",
+     "Ranthambore Fort",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "చిత్తోర్‌గఢ్, కుంభల్‌గఢ్ మరియు రణథంబోర్ వంటి చారిత్రక కోటలు ఆరావళి పర్వతాలలో ఉన్నాయి.",
+    "en": "Historic forts located in the Aravallis include Chittorgarh, Kumbhalgarh, and Ranthambore."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T13-0094",
+   "section": {
+    "te": "Sri Lanka civil war",
+    "en": "Sri Lanka civil war"
+   },
+   "q": {
+    "te": "1980ల మధ్య నుండి సుమారు 2010 వరకు జరిగిన శ్రీలంక అంతర్యుద్ధం ప్రధానంగా ఏ రెండు సమూహాల మధ్య జరిగింది?",
+    "en": "Sri Lanka’s civil war from the mid-1980s to around 2010 was fought mainly between which two groups?"
+   },
+   "options": {
+    "te": [
+     "పాష్తూన్ మెజారిటీ మరియు హజారా మైనారిటీ",
+     "బెంగాలీ మెజారిటీ మరియు చక్మా మైనారిటీ",
+     "బర్మన్ మెజారిటీ మరియు కరెన్ మైనారిటీ",
+     "సింహళ మెజారిటీ మరియు తమిళ మైనారిటీ"
+    ],
+    "en": [
+     "Pashtun majority and Hazara minority",
+     "Bengali majority and Chakma minority",
+     "Burman majority and Karen minority",
+     "Sinhalese majority and Tamil minority"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "శ్రీలంక అంతర్యుద్ధం ప్రధానంగా సింహళ మెజారిటీ వర్గానికి మరియు భారతదేశంతో సాంస్కృతిక సంబంధాలున్న తమిళ మైనారిటీ వర్గానికి మధ్య జరిగింది.",
+    "en": "Sri Lanka's civil war was fought mainly between the Sinhalese majority and the Tamil minority."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T13-0023",
+   "section": {
+    "te": "Zawar Ancient Mines",
+    "en": "Zawar Ancient Mines"
+   },
+   "q": {
+    "te": "ఆరావళిలోని జవార్ పురాతన గనుల ఆధారాల ప్రకారం, ఎనిమిది శతాబ్దాల క్రితమే భారతీయులు ప్రపంచంలోనే మొట్టమొదటిసారిగా ఏ లోహాన్ని వెలికితీసే ప్రక్రియలో ప్రావీణ్యం సంపాదించారు?",
+    "en": "Evidence from ancient mines at Zawar in the Aravallis indicates that over eight centuries ago, Indians were the first in the world to extract which metal?"
+   },
+   "options": {
+    "te": [
+     "ఇనుము (Iron)",
+     "జింక్ (Zinc)",
+     "రాగి (Copper)",
+     "తగరం (Tin)"
+    ],
+    "en": [
+     "Iron",
+     "Zinc",
+     "Copper",
+     "Tin"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "జవార్‌లోని పురాతన గనుల ఆధారాలు ఎనిమిది శతాబ్దాల క్రితం భారతీయులు జింక్ వెలికితీసే ప్రక్రియలో ప్రావీణ్యం పొందారని రుజువు చేస్తున్నాయి.",
+    "en": "Ancient mines at Zawar show that Indians mastered the extraction of zinc over eight centuries ago."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T13-0018",
+   "section": {
+    "te": "Map Legend",
+    "en": "Map Legend"
+   },
+   "q": {
+    "te": "భారతదేశ భౌతిక మ్యాప్‌లోని వివిధ రంగులు దేనిని సూచిస్తాయి?",
+    "en": "What do the different colours on the physical map of India indicate according to the legend?"
+   },
+   "options": {
+    "te": [
+     "రాజకీయ సరిహద్దులు",
+     "జనసాంద్రత",
+     "నేల రకాలు",
+     "ఎత్తులు (Altitudes)"
+    ],
+    "en": [
+     "Political boundaries",
+     "Population density",
+     "Types of soil",
+     "Altitudes (heights)"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భౌతిక మ్యాప్‌లోని లెజెండ్ ప్రకారం, వివిధ రంగులు ఆ ప్రాంతం యొక్క ఎత్తులను సూచిస్తాయి.",
+    "en": "The legend on the physical map uses different colours to indicate altitudes or heights of the area."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T13-0131",
+   "section": {
+    "te": "2004 Tsunami Casualties",
+    "en": "2004 Tsunami Casualties"
+   },
+   "q": {
+    "te": "2004 సునామీ సమయంలో మొత్తం ప్రాంతంలో చనిపోయిన వారి సంఖ్య ఎంత?",
+    "en": "What was the total number of people killed across the whole region during the 2004 tsunami?"
+   },
+   "options": {
+    "te": [
+     "15,000 కంటే ఎక్కువ",
+     "100,000 కంటే ఎక్కువ",
+     "50,000 కంటే ఎక్కువ",
+     "200,000 కంటే ఎక్కువ"
+    ],
+    "en": [
+     "More than 15,000",
+     "More than 100,000",
+     "More than 50,000",
+     "More than 200,000"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశంలో 15,000 మంది మరణించగా, 2004 సునామీ ప్రభావితమైన మొత్తం ప్రాంతంలో 2,00,000 కంటే ఎక్కువ మంది మరణించారు.",
+    "en": "While 15,000 died in India, more than 200,000 people were killed across the entire region affected by the 2004 tsunami."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T13-0082",
+   "section": {
+    "te": "Ananda temple restoration",
+    "en": "Ananda temple restoration"
+   },
+   "q": {
+    "te": "మయన్మార్‌లోని బగన్ నగరంలో భూకంపాల వల్ల దెబ్బతిన్న ఏ ఆలయాన్ని పునరుద్ధరించడానికి భారతదేశం సహాయం చేసింది?",
+    "en": "India helped restore which earthquake-damaged temple located in Bagan, Myanmar?"
+   },
+   "options": {
+    "te": [
+     "మహాముని ఆలయం",
+     "ధమ్మయాంగ్యి ఆలయం",
+     "థాట్‌బైన్యూ ఆలయం",
+     "ఆనంద ఆలయం"
+    ],
+    "en": [
+     "Mahamuni temple",
+     "Dhammayangyi temple",
+     "Thatbyinnyu temple",
+     "Ananda temple"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూకంపాల వల్ల దెబ్బతిన్న బగన్‌లోని ప్రసిద్ధ ఆనంద ఆలయాన్ని పునరుద్ధరించడానికి భారతదేశం సహకరించింది.",
+    "en": "India helped restore the Ananda temple in Bagan, Myanmar, which had suffered earthquake damage."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T13-0154",
+   "section": {
+    "te": "IST and GMT",
+    "en": "IST and GMT"
+   },
+   "q": {
+    "te": "గ్రీన్విచ్ మీన్ టైమ్ (GMT) కంటే భారత ప్రామాణిక సమయం (IST) ఎంత సమయం ముందు ఉంటుంది?",
+    "en": "By how much time is Indian Standard Time (IST) ahead of Greenwich Mean Time (GMT)?"
+   },
+   "options": {
+    "te": [
+     "4 గంటల 30 నిమిషాలు",
+     "6 గంటలు",
+     "5 గంటల 30 నిమిషాలు",
+     "2 గంటలు"
+    ],
+    "en": [
+     "4 hours 30 minutes",
+     "6 hours",
+     "5 hours 30 minutes",
+     "2 hours"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "IST అనేది GMT కంటే ఖచ్చితంగా 5 గంటల 30 నిమిషాలు ముందు ఉంటుంది.",
+    "en": "IST is exactly 5 hours and 30 minutes ahead of GMT."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T13-0169",
+   "section": {
+    "te": "Marusthali Physical Feature",
+    "en": "Marusthali Physical Feature"
+   },
+   "q": {
+    "te": "'మరుస్థలి' (Marusthali) అని పిలువబడే భౌగోళిక లక్షణం దేనిని సూచిస్తుంది?",
+    "en": "The physical feature known as 'Marusthali' is characterized as a:"
+   },
+   "options": {
+    "te": [
+     "విశాలమైన ఇసుక ప్రాంతం",
+     "లోతైన గర్జ్ (Gorge)",
+     "పచ్చని అటవీ కొండ",
+     "విచ్ఛిన్నమైన పీఠభూమి"
+    ],
+    "en": [
+     "Vast sandy expanse",
+     "Deep gorge",
+     "Green forested hill",
+     "Dissected plateau"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మరుస్థలిని విశాలమైన ఇసుక ప్రాంతంగా పాఠ్య భాగం వివరిస్తుంది, ఇది ఎడారి ప్రాంతాన్ని సూచిస్తుంది.",
+    "en": "The text describes Marusthali as a vast sandy expanse, which refers to the desert region."
+   }
+  }
+ ]
+}

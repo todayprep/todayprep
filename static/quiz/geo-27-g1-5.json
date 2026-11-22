@@ -1,0 +1,942 @@
+{
+ "id": "geo-27-g1-5",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Transport – క్విజ్ 5",
+  "en": "Transport – Quiz 5"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T27-0049",
+   "section": {
+    "te": "Mormugao iron ore export share",
+    "en": "Mormugao iron ore export share"
+   },
+   "q": {
+    "te": "భారతదేశ ఇనుప ఖనిజ ఎగుమతుల్లో గోవాలోని మోర్ముగావ్ ఓడరేవు దాదాపు ఎంత శాతాన్ని కలిగి ఉంది?",
+    "en": "Mormugao port in Goa accounts for about what share of India's total iron ore exports?"
+   },
+   "options": {
+    "te": [
+     "35 శాతం",
+     "25 శాతం",
+     "40 శాతం",
+     "50 శాతం"
+    ],
+    "en": [
+     "35 per cent",
+     "25 per cent",
+     "40 per cent",
+     "50 per cent"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశ మొత్తం ఇనుప ఖనిజ ఎగుమతుల్లో సుమారు యాభై (50) శాతం మోర్ముగావ్ పోర్ట్ ద్వారా జరుగుతుంది.",
+    "en": "Mormugao port in Goa accounts for about fifty per cent of India's iron ore export."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T27-0073",
+   "section": {
+    "te": "Personal services workers",
+    "en": "Personal services workers"
+   },
+   "q": {
+    "te": "వ్యక్తిగత సేవల రంగంలో పనిచేసే కార్మికులకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. వీరు ఉపాధి కోసం గ్రామీణ ప్రాంతాల నుండి వలస వస్తారు మరియు నైపుణ్యం లేనివారుగా ఉంటారు.\n2. వీరు హౌస్‌కీపర్లు, వంటవారు మరియు తోటమాలిగా గృహ సేవల్లో నియమించబడతారు.\n3. ఈ వర్గానికి చెందిన కార్మికులు సాధారణంగా అసంఘటితంగా ఉంటారు.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding workers employed in personal services:\n1. They migrate from rural areas in search of employment and are unskilled.\n2. They are employed in domestic services as housekeepers, cooks, and gardeners.\n3. This segment of workers is generally unorganised.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3",
+     "1 మాత్రమే"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1, 2 and 3",
+     "1 only"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం మూడు ప్రకటనలు సరైనవే; వీరు గ్రామీణ ప్రాంతాల నుండి వలస వచ్చిన నైపుణ్యం లేని అసంఘటిత కార్మికులు.",
+    "en": "All three statements are correct according to the text describing personal services workers who migrate from rural areas and work in unorganised domestic roles."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T27-0167",
+   "section": {
+    "te": "Danube Navigation",
+    "en": "Danube Navigation"
+   },
+   "q": {
+    "te": "డాన్యూబ్ నది రవాణా కోసం ఏ పాయింట్ వరకు నౌకాయానానికి అనుకూలంగా ఉంది?",
+    "en": "Up to which point is the Danube river navigable for transport?"
+   },
+   "options": {
+    "te": [
+     "టౌర్నా సెవెరిన్",
+     "రోటర్‌డ్యామ్",
+     "బాసెల్",
+     "మిన్నియాపాలిస్"
+    ],
+    "en": [
+     "Taurna Severin",
+     "Rotterdam",
+     "Basel",
+     "Minneapolis"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "డాన్యూబ్ నది టౌర్నా సెవెరిన్ వరకు నౌకాయానానికి అనుకూలంగా ఉంటుంది.",
+    "en": "The Danube river is navigable as far as Taurna Severin."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T27-0038",
+   "section": {
+    "te": "Pipeline slurry transport",
+    "en": "Pipeline slurry transport"
+   },
+   "q": {
+    "te": "ఘన పదార్థాలను క్రింది ఏ రూపంలోకి మార్చినప్పుడు పైప్‌లైన్ ద్వారా రవాణా చేయవచ్చు?",
+    "en": "Solids can also be transported through a pipeline after being converted into which of the following forms?"
+   },
+   "options": {
+    "te": [
+     "రవ్వ రూపం (గ్రాన్యూల్స్)",
+     "స్లర్రీ (ద్రవ రూప మిశ్రమం)",
+     "ఘన గుళికలు (పెల్లెట్లు)",
+     "ఆవిరి"
+    ],
+    "en": [
+     "Granules",
+     "Slurry",
+     "Solid pellets",
+     "Vapour"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఘనపదార్థాలను స్లర్రీగా (ద్రవ మిశ్రమంగా) మార్చిన తర్వాత పైప్‌లైన్ ద్వారా రవాణా చేయవచ్చు.",
+    "en": "Solids can be transported through pipelines when they are converted into slurry."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T27-0142",
+   "section": {
+    "te": "South American railways characteristics",
+    "en": "South American railways characteristics"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఏ దక్షిణ అమెరికా దేశాలు పోర్టుల నుండి అంతర్గత ప్రాంతాలకు పరస్పర అనుసంధానం లేని చిన్న సింగిల్ ట్రాక్ రైలు మార్గాలను కలిగి ఉన్నాయి?",
+    "en": "Which of the following South American countries have short single-track rail lines from ports to the interior without inter-connecting links?"
+   },
+   "options": {
+    "te": [
+     "పెరూ మరియు బొలీవియా",
+     "ఈక్వెడార్ మరియు కొలంబియా",
+     "వెనిజులా",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Peru and Bolivia",
+     "Ecuador and Colombia",
+     "Venezuela",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, పెరూ, బొలీవియా, ఈక్వెడార్, కొలంబియా మరియు వెనిజులా దేశాలు నౌకాశ్రయాల నుండి లోపలి ప్రాంతాలకు పరస్పర సంబంధం లేని చిన్న సింగిల్-ట్రాక్ రైలు మార్గాలను మాత్రమే కలిగి ఉన్నాయి.",
+    "en": "Peru, Bolivia, Ecuador, Colombia, and Venezuela all have short single-track rail-lines running from ports into the interior with no interconnecting links between them."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T27-0139",
+   "section": {
+    "te": "Orient Express stations",
+    "en": "Orient Express stations"
+   },
+   "q": {
+    "te": "ఓరియంట్ ఎక్స్‌ప్రెస్ క్రింది ఏ నగరాల గుండా ప్రయాణిస్తుంది?",
+    "en": "Through which of the following cities does the Orient Express pass?"
+   },
+   "options": {
+    "te": [
+     "మ్యూనిచ్",
+     "వియన్నా",
+     "బుడాపెస్ట్",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Munich",
+     "Vienna",
+     "Budapest",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఓరియంట్ ఎక్స్‌ప్రెస్ స్ట్రాస్‌బోర్గ్, మ్యూనిచ్, వియన్నా, బుడాపెస్ట్ మరియు బెల్‌గ్రేడ్‌ల గుండా ప్రయాణిస్తుంది. కాబట్టి ఇచ్చిన నగరాలన్నీ సరైనవే.",
+    "en": "The Orient Express runs from Paris to Istanbul passing through Strasbourg, Munich, Vienna, Budapest, and Belgrade."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T27-0014",
+   "section": {
+    "te": "Suez Canal Importance",
+    "en": "Suez Canal Importance"
+   },
+   "q": {
+    "te": "భారతదేశం నుండి యూరప్‌కు అతి తక్కువ దూరమున్న సముద్ర మార్గంగా కింది వాటిలో దేనిని పరిగణిస్తారు?",
+    "en": "Which of the following is considered the shortest maritime route from India to Europe?"
+   },
+   "options": {
+    "te": [
+     "కేప్ ఆఫ్ గుడ్ హోప్ మార్గం",
+     "సూయజ్ కాలువ",
+     "మలక్కా జలసంధి",
+     "పనామా కాలువ"
+    ],
+    "en": [
+     "Cape of Good Hope route",
+     "Suez Canal",
+     "Strait of Malacca",
+     "Panama Canal"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సూయజ్ కాలువ ఎర్ర సముద్రాన్ని మరియు మధ్యధరా సముద్రాన్ని కలపడం ద్వారా భారతదేశం మరియు యూరప్ మధ్య అతి తక్కువ సముద్ర మార్గాన్ని అందిస్తుంది.",
+    "en": "The Suez Canal provides the shortest sea route between India and Europe by connecting the Red Sea and the Mediterranean."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T27-0283",
+   "section": {
+    "te": "UDAN Scheme",
+    "en": "UDAN Scheme"
+   },
+   "q": {
+    "te": "ఉడాన్ (UDAN) పథకం ఈ క్రింది ఏ మార్కెట్‌ను ప్రారంభించడానికి రూపొందించబడింది?",
+    "en": "The UDAN scheme is designed to jump-start which of the following markets?"
+   },
+   "options": {
+    "te": [
+     "పెట్రోలియం మార్కెట్",
+     "అంతర్జాతీయ విమానయాన మార్కెట్",
+     "టెలికాం మార్కెట్",
+     "ప్రాంతీయ విమానయాన మార్కెట్"
+    ],
+    "en": [
+     "Petroleum market",
+     "International aviation market",
+     "Telecom market",
+     "Regional aviation market"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఉడాన్ అనేది భారతదేశంలో ప్రాంతీయ విమానయాన మార్కెట్‌ను ప్రారంభించడానికి ప్రత్యేకంగా రూపొందించబడిన ఒక ప్రత్యేకమైన ప్రపంచ స్థాయి పథకం.",
+    "en": "UDAN is a unique global scheme designed specifically to jump-start the regional aviation market in India."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T27-0070",
+   "section": {
+    "te": "Periodic rural markets",
+    "en": "Periodic rural markets"
+   },
+   "q": {
+    "te": "గ్రామీణ ప్రాంతాల్లోని ఆవర్తన మార్కెట్లకు (పీరియాడిక్ మార్కెట్లు) సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. సాధారణ మార్కెట్లు లేని ప్రదేశాలలో ఇవి కనిపిస్తాయి.\n2. ఇవి వారాంతపు లేదా ద్వై-వారపు మార్కెట్లుగా నిర్వహించబడవచ్చు.\n3. ఈ మార్కెట్లు శాశ్వతంగా ఒకే స్థిర ప్రదేశంలో ఉంటాయి మరియు ఎక్కడికీ మారవు.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding periodic markets in rural areas:\n1. They are found where there are no regular markets.\n2. They may be organized as weekly or biweekly markets.\n3. These markets remain permanently fixed at one single location and do not move.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రకటనలు 1 మరియు 2 సరైనవి. ప్రకటన 3 తప్పు, ఎందుకంటే ఈ మార్కెట్లు నిర్దిష్ట తేదీలలో నిర్వహించబడుతూ ఒక ప్రదేశం నుండి మరొక ప్రదేశానికి మారుతుంటాయి.",
+    "en": "Statements 1 and 2 are correct. Statement 3 is incorrect because these markets are held on specified dates and move from one place to another."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T27-0319",
+   "section": {
+    "te": "Trade Measures",
+    "en": "Trade Measures"
+   },
+   "q": {
+    "te": "అంతర్జాతీయ వాణిజ్యంలో తన వాటాను పెంచుకోవడానికి భారతదేశం ఈ క్రింది ఏ చర్యలను చేపట్టింది?",
+    "en": "Which of the following measures has India adopted to increase its share in international trade?"
+   },
+   "options": {
+    "te": [
+     "దిగుమతి సరళీకరణ",
+     "దిగుమతి సుంకాల తగ్గింపు",
+     "డీలైసెన్సింగ్",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Import liberalisation",
+     "Reduction in import duties",
+     "Delicensing",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "దిగుమతి సరళీకరణ, దిగుమతి సుంకాల తగ్గింపు, డీలైసెన్సింగ్ మరియు ప్రాసెస్ నుండి ప్రొడక్ట్ పేటెంట్లకు మారడం వంటి చర్యలను పాఠ్య భాగం పేర్కొంది.",
+    "en": "Import liberalisation, reduction in import duties, delicensing, and changing from process to product patents as measures."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T27-0336",
+   "section": {
+    "te": "New Mangalore Port",
+    "en": "New Mangalore Port"
+   },
+   "q": {
+    "te": "కర్ణాటకలోని ఏ ఓడరేవు ప్రధానంగా ఇనుప ఖనిజం మరియు ఇనుప సాంద్రతల (iron-concentrates) ఎగుమతిని నిర్వహిస్తుంది?",
+    "en": "Which port in Karnataka primarily caters to the export of iron-ore and iron-concentrates?"
+   },
+   "options": {
+    "te": [
+     "మర్మగోవా పోర్ట్",
+     "న్యూ మంగళూరు పోర్ట్",
+     "కాండ్లా పోర్ట్",
+     "కొచ్చిన్ పోర్ట్"
+    ],
+    "en": [
+     "Mormugao Port",
+     "New Mangalore Port",
+     "Kandla Port",
+     "Cochin Port"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కర్ణాటకలోని న్యూ మంగళూరు పోర్ట్ ఇనుప ఖనిజం మరియు ఇనుప సాంద్రతల ఎగుమతులను నిర్వహిస్తుంది.",
+    "en": "New Mangalore Port in Karnataka handles the export of iron-ore and iron-concentrates."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T27-0019",
+   "section": {
+    "te": "District Roads",
+    "en": "District Roads"
+   },
+   "q": {
+    "te": "జిల్లా ప్రధాన కేంద్రాన్ని జిల్లాలోని ఇతర ప్రాంతాలతో అనుసంధానించే రహదారులను ఏమని పిలుస్తారు?",
+    "en": "Which category of roads connects the district headquarters with other places of the district?"
+   },
+   "options": {
+    "te": [
+     "జిల్లా రోడ్లు (District Roads)",
+     "జాతీయ రహదారులు (National Highways)",
+     "రాష్ట్ర రహదారులు (State Highways)",
+     "సరిహద్దు రోడ్లు (Border Roads)"
+    ],
+    "en": [
+     "District Roads",
+     "National Highways",
+     "State Highways",
+     "Border Roads"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "జిల్లా ప్రధాన కేంద్రాన్ని జిల్లాలోని ఇతర ప్రదేశాలతో కలిపే రోడ్లను జిల్లా రోడ్లు అని పిలుస్తారు.",
+    "en": "District roads are defined as those that connect the district headquarters with other places within the district."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T27-0137",
+   "section": {
+    "te": "Australian north-south railway",
+    "en": "Australian north-south railway"
+   },
+   "q": {
+    "te": "ఆస్ట్రేలియాలో అడిలైడ్ మరియు ఆలిస్ స్ప్రింగ్స్‌లను కలిపే ప్రధాన ఉత్తర-దక్షిణ రైలు మార్గాన్ని భవిష్యత్తులో ఏ లైన్‌తో అనుసంధానించాలని నిర్ణయించారు?",
+    "en": "In Australia, the major north-south rail line connecting Adelaide and Alice Springs is planned to be joined further to which line?"
+   },
+   "options": {
+    "te": [
+     "మెల్‌బోర్న్-కాన్‌బెర్రా లైన్",
+     "డార్విన్-బిర్డమ్ లైన్ (Darwin–Birdum line)",
+     "పెర్త్-కాల్గూర్లీ లైన్",
+     "సిడ్నీ-బ్రిస్బేన్ లైన్"
+    ],
+    "en": [
+     "Melbourne–Canberra line",
+     "Darwin–Birdum line",
+     "Perth–Kalgoorlie line",
+     "Sydney–Brisbane line"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఆస్ట్రేలియాలోని అడిలైడ్ మరియు ఆలిస్ స్ప్రింగ్స్‌లను కలిపే ఉత్తర-దక్షిణ మార్గాన్ని డార్విన్-బిర్డమ్ లైన్‌తో కలపాలని ప్రతిపాదించారు.",
+    "en": "The north-south line in Australia connects Adelaide and Alice Springs, and is to be joined further to the Darwin–Birdum line."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T27-0306",
+   "section": {
+    "te": "Trade Routes",
+    "en": "Trade Routes"
+   },
+   "q": {
+    "te": "భారతదేశం తన విదేశీ వాణిజ్యంలో స్వల్ప భాగాన్ని ఏ పొరుగు దేశాలతో భూ మార్గాల ద్వారా నిర్వహిస్తుంది?",
+    "en": "India carries out a small portion of its foreign trade through land routes with which of the following neighbouring countries?"
+   },
+   "options": {
+    "te": [
+     "చైనా మరియు మయన్మార్",
+     "శ్రీలంక మరియు మాల్దీవులు",
+     "అఫ్గానిస్తాన్ మరియు ఇరాన్",
+     "నేపాల్ మరియు భూటాన్"
+    ],
+    "en": [
+     "China and Myanmar",
+     "Sri Lanka and Maldives",
+     "Afghanistan and Iran",
+     "Nepal and Bhutan"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశం యొక్క భూమార్గ వాణిజ్యం నేపాల్, భూటాన్, బంగ్లాదేశ్ మరియు పాకిస్తాన్ వంటి పొరుగు దేశాలతో జరుగుతుంది.",
+    "en": "India's land route trade is conducted with neighbouring countries like Nepal, Bhutan, Bangladesh, and Pakistan."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T27-0261",
+   "section": {
+    "te": "NW 1 Developmental Segments",
+    "en": "NW 1 Developmental Segments"
+   },
+   "q": {
+    "te": "జాతీయ జలమార్గం 1 యొక్క అభివృద్ధి విభాగాలను వాటి పొడవులతో జతపరచండి:\n1. హల్దియా-ఫరక్కా \t- i. 600 కి.మీ\n2. ఫరక్కా-పాట్నా \t- ii. 560 కి.మీ\n3. పాట్నా-ప్రయాగ్‌రాజ్ \t- iii. 460 కి.మీ",
+    "en": "Match the developmental segments of National Waterway 1 with their respective lengths:\n1. Haldia–Farakka \t- i. 600 km\n2. Farakka–Patna \t- ii. 560 km\n3. Patna–Prayagraj \t- iii. 460 km"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-iii, 3-i",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-i, 3-iii"
+    ],
+    "en": [
+     "1-ii, 2-iii, 3-i",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-i, 3-iii"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "NW 1 హల్దియా-ఫరక్కా (560 కి.మీ), ఫరక్కా-పాట్నా (460 కి.మీ) మరియు పాట్నా-ప్రయాగ్‌రాజ్ (600 కి.మీ) గా విభజించబడింది.",
+    "en": "NW 1 is divided into Haldia-Farakka (560 km), Farakka-Patna (460 km), and Patna-Prayagraj (600 km)."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T27-0147",
+   "section": {
+    "te": "Mediterranean-Indian Ocean Ports",
+    "en": "Mediterranean-Indian Ocean Ports"
+   },
+   "q": {
+    "te": "మధ్యధరా-హిందూ మహాసముద్ర సముద్ర మార్గంలో ఉన్న ముఖ్యమైన ఓడరేవులలో క్రింది వాటిలో ఏది పేర్కొనబడలేదు?",
+    "en": "Which of the following ports is NOT listed as an important port along the Mediterranean–Indian Ocean Sea Route?"
+   },
+   "options": {
+    "te": [
+     "కొలంబో",
+     "పోర్ట్ సెయిడ్",
+     "ఏడెన్",
+     "హోనోలులు"
+    ],
+    "en": [
+     "Colombo",
+     "Port Said",
+     "Aden",
+     "Honolulu"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పోర్ట్ సెయిడ్, ఏడెన్, ముంబై, కొలంబో మరియు సింగపూర్ ఈ మార్గంలో ముఖ్యమైన ఓడరేవులు. హోనోలులు పసిఫిక్ మార్గాల్లోని ఓడరేవు.",
+    "en": "Port Said, Aden, Mumbai, Colombo, and Singapore are the ports listed on the Mediterranean–Indian Ocean route. Honolulu is a port on the Pacific routes."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T27-0250",
+   "section": {
+    "te": "National Waterway 1",
+    "en": "National Waterway 1"
+   },
+   "q": {
+    "te": "జాతీయ జలమార్గం 1 (NW 1) కి సంబంధించి, మెకానికల్ బోట్ల ద్వారా ఏ ప్రాంతం వరకు ప్రయాణించవచ్చు?",
+    "en": "Regarding National Waterway 1 (NW 1), up to which location is it navigable by mechanical boats?"
+   },
+   "options": {
+    "te": [
+     "ప్రయాగ్‌రాజ్",
+     "హల్దియా",
+     "హరిద్వార్",
+     "పాట్నా"
+    ],
+    "en": [
+     "Prayagraj",
+     "Haldia",
+     "Haridwar",
+     "Patna"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "NW 1 మెకానికల్ బోట్ల ద్వారా పాట్నా వరకు ప్రయాణించవచ్చని, సాధారణ బోట్లు హరిద్వార్ వరకు వెళ్లవచ్చని మూలం పేర్కొంది.",
+    "en": "NW 1 is navigable by mechanical boats up to Patna, while ordinary boats can go up to Haridwar."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T27-0026",
+   "section": {
+    "te": "Border Roads Organisation",
+    "en": "Border Roads Organisation"
+   },
+   "q": {
+    "te": "సరిహద్దు ప్రాంతాల్లో వ్యూహాత్మక ప్రాముఖ్యత కలిగిన రహదారుల అభివృద్ధి కోసం బోర్డర్ రోడ్స్ ఆర్గనైజేషన్ (BRO) ఏ సంవత్సరంలో స్థాపించబడింది?",
+    "en": "In which year was the Border Roads Organisation (BRO) established?"
+   },
+   "options": {
+    "te": [
+     "1985",
+     "1950",
+     "1960",
+     "1971"
+    ],
+    "en": [
+     "1985",
+     "1950",
+     "1960",
+     "1971"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఉత్తర మరియు ఈశాన్య సరిహద్దు ప్రాంతాల్లో వ్యూహాత్మక ప్రాముఖ్యత కలిగిన రోడ్ల అభివృద్ధి కోసం బోర్డర్ రోడ్స్ ఆర్గనైజేషన్ (BRO) 1960 లో స్థాపించబడింది.",
+    "en": "The Border Roads Organisation (BRO) was established in 1960 for developing roads of strategic importance in border areas."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T27-0010",
+   "section": {
+    "te": "Transport Classification",
+    "en": "Transport Classification"
+   },
+   "q": {
+    "te": "భూమి యొక్క విభాగాల ఆధారంగా, రవాణా కింది వాటిలో ఏ విధంగా వర్గీకరించబడింది?",
+    "en": "Based on the domains of the earth, transport is classified into which of the following?"
+   },
+   "options": {
+    "te": [
+     "భూమి మరియు నీటి రవాణా మాత్రమే",
+     "నీరు మరియు వాయు రవాణా మాత్రమే",
+     "భూమి, నీరు మరియు వాయు రవాణా",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Land and Water transport only",
+     "Water and Air transport only",
+     "Land, Water, and Air transport",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రవాణాను భూమి, నీరు మరియు వాయువు అనే మూడు విభాగాలుగా వర్గీకరించవచ్చని పాఠ్య భాగం పేర్కొంది.",
+    "en": "Transport can be classified into three domains: land, water, and air."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T27-0299",
+   "section": {
+    "te": "Trade Value Growth",
+    "en": "Trade Value Growth"
+   },
+   "q": {
+    "te": "ఈ క్రింది సంవత్సరాలను భారతదేశ విదేశీ వాణిజ్య విలువతో జతపరచండి:\n1. 1950-51   i. రూ. 77,19,796 కోట్లు\n2. 2020-21   ii. రూ. 1,214 కోట్లు",
+    "en": "Match the following years with the value of India's external trade:\n1. 1950-51   i. Rs. 77,19,796 crore\n2. 2020-21   ii. Rs. 1,214 crore"
+   },
+   "options": {
+    "te": [
+     "1-i, 2-ii",
+     "1-ii, 2-i",
+     "1-i, 2-i",
+     "1-ii, 2-ii"
+    ],
+    "en": [
+     "1-i, 2-ii",
+     "1-ii, 2-i",
+     "1-i, 2-i",
+     "1-ii, 2-ii"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారతదేశ విదేశీ వాణిజ్యం 1950-51లో రూ. 1,214 కోట్లుగా ఉంది మరియు 2020-21 నాటికి రూ. 77,19,796 కోట్లకు పెరిగింది.",
+    "en": "India's external trade was Rs. 1,214 crore in 1950-51 and grew to Rs. 77,19,796 crore by 2020-21."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T27-0029",
+   "section": {
+    "te": "Atal Tunnel Connectivity",
+    "en": "Atal Tunnel Connectivity"
+   },
+   "q": {
+    "te": "అటల్ టన్నెల్ మనాలిని ఏడాది పొడవునా ఏ లోయతో అనుసంధానిస్తుంది?",
+    "en": "The Atal Tunnel provides all-weather connectivity between Manali and which valley?"
+   },
+   "options": {
+    "te": [
+     "కులు లోయ",
+     "కాంగ్రా లోయ",
+     "కాశ్మీర్ లోయ",
+     "లాహౌల్-స్పితి లోయ"
+    ],
+    "en": [
+     "Kullu valley",
+     "Kangra valley",
+     "Kashmir valley",
+     "Lahul-Spiti valley"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అటల్ టన్నెల్ మనాలిని లాహౌల్-స్పితి లోయతో ఏడాది పొడవునా కలుపుతుంది.",
+    "en": "Atal Tunnel connects Manali to the Lahul-Spiti valley throughout the year."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T27-0201",
+   "section": {
+    "te": "Indian Satellites",
+    "en": "Indian Satellites"
+   },
+   "q": {
+    "te": "19 జూన్ 1981న భారతీయ ఉపగ్రహం ఆపిల్ (APPLE) ను ప్రయోగించడానికి ఏ రాకెట్‌ను ఉపయోగించారు?",
+    "en": "Which rocket was used to launch the Indian satellite APPLE on 19 June 1981?"
+   },
+   "options": {
+    "te": [
+     "భాస్కర రాకెట్",
+     "ఏరియన్ (Arian) రాకెట్",
+     "ఆర్యభట్ట రాకెట్",
+     "రోహిణి రాకెట్"
+    ],
+    "en": [
+     "Bhaskar rocket",
+     "Arian rocket",
+     "Aryabhatt rocket",
+     "Rohini rocket"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఆపిల్ (APPLE) ఉపగ్రహాన్ని 19 జూన్ 1981న ఏరియన్ రాకెట్ ఉపయోగించి ప్రయోగించారు.",
+    "en": "The APPLE satellite was launched on 19 June 1981 using an Arian rocket."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T27-0300",
+   "section": {
+    "te": "Trade Competitors",
+    "en": "Trade Competitors"
+   },
+   "q": {
+    "te": "ఎగుమతి మార్కెట్‌లో భారతదేశానికి ప్రధాన పోటీదారులుగా ఈ క్రింది వాటిలో ఏవి గుర్తించబడ్డాయి?",
+    "en": "Which of the following are identified as India's major competitors in the export market?"
+   },
+   "options": {
+    "te": [
+     "USA మరియు UK",
+     "ఆఫ్రికా దేశాలు",
+     "బ్రెజిల్ మరియు రష్యా",
+     "చైనా మరియు తూర్పు ఆసియా దేశాలు"
+    ],
+    "en": [
+     "USA and UK",
+     "African countries",
+     "Brazil and Russia",
+     "China and East Asian countries"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశ ఎగుమతులకు చైనా మరియు ఇతర తూర్పు ఆసియా దేశాలు ప్రధాన పోటీదారులుగా పాఠ్యభాగం పేర్కొంది.",
+    "en": "China and other East Asian countries as major competitors for India's exports."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T27-0324",
+   "section": {
+    "te": "Jawaharlal Nehru Port",
+    "en": "Jawaharlal Nehru Port"
+   },
+   "q": {
+    "te": "భారతదేశంలో అతిపెద్ద కంటైనర్ పోర్ట్‌గా ఏ ఓడరేవు ప్రసిద్ధి చెందింది?",
+    "en": "Which port is known as the largest container port in India?"
+   },
+   "options": {
+    "te": [
+     "కాండ్లా పోర్ట్",
+     "చెన్నై పోర్ట్",
+     "విశాఖపట్నం పోర్ట్",
+     "జవహర్‌లాల్ నెహ్రూ పోర్ట్"
+    ],
+    "en": [
+     "Kandla Port",
+     "Chennai Port",
+     "Visakhapatnam Port",
+     "Jawaharlal Nehru Port"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నవ షేవాలోని జవహర్‌లాల్ నెహ్రూ పోర్ట్ భారతదేశంలోనే అతిపెద్ద కంటైనర్ పోర్ట్ అని పాఠ్య భాగం పేర్కొంది.",
+    "en": "Jawaharlal Nehru Port at Nhava Sheva is the largest container port in India."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T27-0025",
+   "section": {
+    "te": "State Highways Definition",
+    "en": "State Highways Definition"
+   },
+   "q": {
+    "te": "రాష్ట్ర రాజధానిని వివిధ జిల్లా ప్రధాన కేంద్రాలతో అనుసంధానించే రహదారులను ఏ తరగతి రోడ్లుగా వర్గీకరిస్తారు?",
+    "en": "Roads linking a state capital with different district headquarters are designated as which class of roads?"
+   },
+   "options": {
+    "te": [
+     "జాతీయ రహదారులు (National Highways)",
+     "ఇతర రోడ్లు (Other Roads)",
+     "జిల్లా రోడ్లు (District Roads)",
+     "రాష్ట్ర రహదారులు (State Highways)"
+    ],
+    "en": [
+     "National Highways",
+     "Other Roads",
+     "District Roads",
+     "State Highways"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రాష్ట్ర రాజధానిని వివిధ జిల్లా ప్రధాన కేంద్రాలతో కలిపే రోడ్లను రాష్ట్ర రహదారులు (State Highways) అంటారు.",
+    "en": "Roads linking a state capital with different district headquarters are known as State Highways."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T27-0208",
+   "section": {
+    "te": "Inland Ports Locations",
+    "en": "Inland Ports Locations"
+   },
+   "q": {
+    "te": "కింది అంతర్గత ఓడరేవులను (Inland Ports) అవి ఉన్న/అనుసంధానించబడిన జలవనరులతో జతపరచండి:\nజాబితా-I (ఓడరేవు): 1. మాంచెస్టర్, 2. మెంఫిస్, 3. కోల్‌కతా, 4. డ్యూయిస్‌బర్గ్\nజాబితా-II (జలవనరు): i. హూగ్లీ నది, ii. రైన్ నది, iii. కాలువ, iv. మిసిసిపీ నది",
+    "en": "Match the following Inland Ports with the water bodies they are located on/linked to:\nList-I (Port): 1. Manchester, 2. Memphis, 3. Kolkata, 4. Duisburg\nList-II (Water Body): i. River Hoogli, ii. River Rhine, iii. Canal, iv. River Mississippi"
+   },
+   "options": {
+    "te": [
+     "1-iii, 2-iv, 3-i, 4-ii",
+     "1-iii, 2-i, 3-iv, 4-ii",
+     "1-iv, 2-iii, 3-i, 4-ii",
+     "1-ii, 2-iv, 3-i, 4-iii"
+    ],
+    "en": [
+     "1-iii, 2-iv, 3-i, 4-ii",
+     "1-iii, 2-i, 3-iv, 4-ii",
+     "1-iv, 2-iii, 3-i, 4-ii",
+     "1-ii, 2-iv, 3-i, 4-iii"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మూలం ప్రకారం, మాంచెస్టర్ ఒక కాలువతో అనుసంధానించబడి ఉంది, మెంఫిస్ మిసిసిపీ నదిపై ఉంది, కోల్‌కతా హూగ్లీ నదిపై ఉంది మరియు డ్యూయిస్‌బర్గ్ రైన్ నదిపై ఉంది.",
+    "en": "Manchester is linked with a canal, Memphis is on the Mississippi, Kolkata is on the Hoogli, and Duisburg is on the Rhine."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T27-0280",
+   "section": {
+    "te": "Pipeline Extension",
+    "en": "Pipeline Extension"
+   },
+   "q": {
+    "te": "నహర్కటియా-బరౌని పైప్‌లైన్ ఏ సంవత్సరంలో కాన్పూర్ వరకు విస్తరించబడింది?",
+    "en": "In which year was the Naharkatiya-Barauni pipeline extended to Kanpur?"
+   },
+   "options": {
+    "te": [
+     "1959",
+     "1984",
+     "1966",
+     "1930"
+    ],
+    "en": [
+     "1959",
+     "1984",
+     "1966",
+     "1930"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నహర్కటియా నుండి బరౌని వరకు ఉన్న పైప్‌లైన్ 1966లో కాన్పూర్ వరకు విస్తరించబడింది.",
+    "en": "The pipeline from Naharkatiya to Barauni was extended to Kanpur in 1966."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T27-0215",
+   "section": {
+    "te": "Industrial vs Commercial Ports",
+    "en": "Industrial vs Commercial Ports"
+   },
+   "q": {
+    "te": "కార్గో ఆధారంగా ఓడరేవుల వర్గీకరణకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. పారిశ్రామిక ఓడరేవులు (Industrial ports) ధాన్యాలు, చక్కెర మరియు రసాయనాల వంటి బల్క్ కార్గోలో ప్రత్యేకత కలిగి ఉంటాయి.\n2. వాణిజ్య ఓడరేవులు (Commercial ports) ప్యాక్ చేసిన ఉత్పత్తులు, తయారీ వస్తువులు మరియు ప్రయాణీకుల రద్దీని నిర్వహిస్తాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the classification of ports based on cargo:\n1. Industrial ports specialise in bulk cargo like grain, sugar, and chemicals.\n2. Commercial ports handle packaged products, manufactured goods, and passenger traffic.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పారిశ్రామిక ఓడరేవులు బల్క్ కార్గోను మరియు వాణిజ్య ఓడరేవులు సాధారణ కార్గో మరియు ప్రయాణీకులను నిర్వహిస్తాయని మూలం నిర్వచిస్తుంది.",
+    "en": "The source defines industrial ports as those handling bulk cargo and commercial ports as those handling general cargo and passengers."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T27-0237",
+   "section": {
+    "te": "Atal Tunnel",
+    "en": "Atal Tunnel"
+   },
+   "q": {
+    "te": "హిమాలయాలలోని ఏ పర్వత శ్రేణిలో అటల్ టన్నెల్ నిర్మించబడింది?",
+    "en": "In which mountain range of the Himalayas is the Atal Tunnel built?"
+   },
+   "options": {
+    "te": [
+     "పీర్ పంజాల్ శ్రేణి",
+     "జాంస్కర్ శ్రేణి",
+     "కారకోరం శ్రేణి",
+     "లడఖ్ శ్రేణి"
+    ],
+    "en": [
+     "Pir Panjal Range",
+     "Zanskar Range",
+     "Karakoram Range",
+     "Ladakh Range"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "9.02 కి.మీ పొడవున్న అటల్ టన్నెల్ హిమాలయాలలోని పీర్ పంజాల్ శ్రేణిలో 3000 మీటర్ల ఎత్తులో నిర్మించబడింది.",
+    "en": "The Atal Tunnel, which is 9.02 km long, is built in the Pir Panjal range of the Himalayas at an altitude of 3000 metres."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T27-0225",
+   "section": {
+    "te": "Rural Road Density",
+    "en": "Rural Road Density"
+   },
+   "q": {
+    "te": "ప్రతిపాదన (A): భారతదేశంలో గ్రామీణ రహదారుల సాంద్రతలో ప్రాంతీయ వైవిధ్యం ఉంది.\nకారణం (R): గ్రామీణ రహదారుల సాంద్రత భూభాగం యొక్క స్వభావం ద్వారా ప్రభావితమవుతుంది.",
+    "en": "Assertion (A): There is regional variation in the density of rural roads in India.\nReason (R): The density of rural roads is influenced by the nature of the terrain."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "గ్రామీణ రహదారుల సాంద్రతలోని ప్రాంతీయ వైవిధ్యం భూభాగం యొక్క స్వభావంపై ఆధారపడి ఉంటుందని పాఠ్య భాగం స్పష్టంగా పేర్కొంది.",
+    "en": "The text explicitly links the regional variation in rural road density to the influence of the terrain's nature."
+   }
+  }
+ ]
+}

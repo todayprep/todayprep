@@ -1,0 +1,942 @@
+{
+ "id": "geo-29-c-1",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Natural Resources and Conservation – క్విజ్ 1",
+  "en": "Natural Resources and Conservation – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T29-0209",
+   "section": {
+    "te": "Drought Area Demarcation Criterion",
+    "en": "Drought Area Demarcation Criterion"
+   },
+   "q": {
+    "te": "1972 లో నీటిపారుదల కమిషన్ (Irrigation Commission) కరవు పీడిత ప్రాంతాలను గుర్తించడానికి ఎంత శాతం నీటిపారుదల విస్తీర్ణాన్ని ప్రమాణంగా ప్రవేశపెట్టింది?",
+    "en": "In 1972, what percentage of irrigated area was introduced as the criterion by the Irrigation Commission to demarcate drought-prone areas?"
+   },
+   "options": {
+    "te": [
+     "30 శాతం",
+     "20 శాతం",
+     "25 శాతం",
+     "40 శాతం"
+    ],
+    "en": [
+     "30 per cent",
+     "20 per cent",
+     "25 per cent",
+     "40 per cent"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "1972 లో నీటిపారుదల కమిషన్ 30 శాతం నీటిపారుదల విస్తీర్ణాన్ని ప్రమాణంగా తీసుకొని కరవు పీడిత ప్రాంతాలను గుర్తించింది.",
+    "en": "The Irrigation Commission (1972) demarcated drought-prone areas using the criterion of 30 per cent irrigated area."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T29-0031",
+   "section": {
+    "te": "Industrial waste impact",
+    "en": "Industrial waste impact"
+   },
+   "q": {
+    "te": "నదుల్లోకి విసర్జించే పారిశ్రామిక వ్యర్థాలు ప్రకృతి పునరుద్ధరణ చక్రాన్ని తరచుగా ఎందుకు దెబ్బతీస్తాయి?",
+    "en": "Why do industrial wastes discharged into rivers often disturb Nature's cycle of restoration?"
+   },
+   "options": {
+    "te": [
+     "అవి నీరు చాలా త్వరగా ఆవిరి కావడానికి కారణమవుతాయి",
+     "అవి అన్ని జల మొక్కల అధిక పెరుగుదలను ప్రోత్సహిస్తాయి",
+     "అవి నది ప్రవాహ వేగాన్ని పెంచుతాయి",
+     "అవి కుళ్ళిపోయి ఇతర జీవులకు ఆహారంగా మారలేవు"
+    ],
+    "en": [
+     "They cause the water to evaporate too quickly",
+     "They encourage the overgrowth of all aquatic plants",
+     "They increase the speed of the river flow",
+     "They cannot decay to become food for other lifeforms"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పారిశ్రామిక వ్యర్థాలు తరచుగా కుళ్ళిపోలేవు మరియు సహజ ఆహార చక్రంలో కలిసిపోలేవు, ఇది పునరుద్ధరణలో ఆటంకాలకు దారితీస్తుంది.",
+    "en": "Industrial wastes often cannot decay and be integrated into the natural food cycle, leading to disturbances in restoration."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T29-0119",
+   "section": {
+    "te": "Traditional water storage village",
+    "en": "Traditional water storage village"
+   },
+   "q": {
+    "te": "ఏ గ్రామంలో ఒక 'కుల్' గ్రామంలోని గుండ్రటి ట్యాంకుకు నీటిని చేరుస్తుందని, అవసరమైనప్పుడు అక్కడి నుండి నీటిని విడుదల చేస్తారని పేర్కొనబడింది?",
+    "en": "In which village is a 'kul' mentioned as leading into a circular village tank from which water is released as and when required?"
+   },
+   "options": {
+    "te": [
+     "కాజా గ్రామం",
+     "గెండత్తూర్ గ్రామం",
+     "బెన్నూర్ గ్రామం",
+     "ఫలోది గ్రామం"
+    ],
+    "en": [
+     "Kaza village",
+     "Gendathur village",
+     "Bennur village",
+     "Phalodi village"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం కాజా గ్రామంలో 'కుల్' ద్వారా నీరు ఒక వృత్తాకార ట్యాంకుకు చేరుతుంది, దాని నుండి అవసరమైనప్పుడు నీటిని విడుదల చేస్తారు.",
+    "en": "According to the caption in the text, a kul leads to a circular village tank in Kaza village, from which water is released as needed."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T29-0136",
+   "section": {
+    "te": "Water Pollution Effects",
+    "en": "Water Pollution Effects"
+   },
+   "q": {
+    "te": "విషపూరిత పదార్థాలు సరస్సులు మరియు నదుల వంటి జలవనరులలోకి ప్రవేశించినప్పుడు ఏమవుతుంది?",
+    "en": "What happens to toxic substances when they enter water bodies like lakes and rivers?"
+   },
+   "options": {
+    "te": [
+     "అవి వెంటనే వాతావరణంలోకి ఆవిరైపోతాయి",
+     "అవి నీటిలో కరిగిపోతాయి లేదా నీటిలో తేలుతూ (suspended) ఉంటాయి",
+     "అవి జల మొక్కల ద్వారా స్వయంచాలకంగా ఫిల్టర్ చేయబడతాయి",
+     "అవి ఉపరితలాన్ని మాత్రమే ప్రభావితం చేస్తాయి మరియు భూగర్భ జలాల్లోకి ఇంకవు"
+    ],
+    "en": [
+     "They immediately evaporate into the atmosphere",
+     "They get dissolved or lie suspended in water",
+     "They are automatically filtered out by aquatic plants",
+     "They only affect the surface and do not seep into groundwater"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "జలవనరులలోకి ప్రవేశించే విషపూరిత పదార్థాలు కరిగిపోతాయి లేదా నిలిపివేయబడతాయి, ఇది నీటి కాలుష్యానికి మరియు నాణ్యత క్షీణతకు దారితీస్తుంది.",
+    "en": "Toxic substances entering water bodies either dissolve or remain suspended, leading to water pollution and deterioration of quality."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T29-0089",
+   "section": {
+    "te": "Water-stressed Blocks Percentage",
+    "en": "Water-stressed Blocks Percentage"
+   },
+   "q": {
+    "te": "అటల్ భూజల్ యోజన కింద ఎంపిక చేయబడిన ఏడు రాష్ట్రాలు, భారతదేశంలోని మొత్తం నీటి ఎద్దడి (water-stressed) బ్లాకులలో దాదాపు ఎంత శాతాన్ని కలిగి ఉన్నాయి?",
+    "en": "The seven states selected under the Atal Bhujal Yojana account for approximately what percentage of the total number of water-stressed blocks in India?"
+   },
+   "options": {
+    "te": [
+     "37 శాతం",
+     "52 శాతం",
+     "61 శాతం",
+     "45 శాతం"
+    ],
+    "en": [
+     "37 per cent",
+     "52 per cent",
+     "61 per cent",
+     "45 per cent"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఈ ఏడు రాష్ట్రాలు భారతదేశంలోని మొత్తం నీటి ఎద్దడి (అతిగా వినియోగించిన, క్లిష్టమైన మరియు పాక్షిక క్లిష్టమైన) బ్లాకులలో సుమారు 37 శాతాన్ని కలిగి ఉన్నాయి.",
+    "en": "The seven selected states account for about 37 per cent of the total number of water-stressed (over-exploited, critical, and semi-critical) blocks in India."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T29-0184",
+   "section": {
+    "te": "Water use benchmarks",
+    "en": "Water use benchmarks"
+   },
+   "q": {
+    "te": "జాతీయ నీటి విధానం 2012 ప్రకారం, నీటి సమర్థవంతమైన వినియోగాన్ని నిర్ధారించడానికి క్రింది వేటి ద్వారా బెంచ్‌మార్క్‌లను అభివృద్ధి చేయాలి?",
+    "en": "According to the National Water Policy 2012, which of the following should be developed to evolve benchmarks for efficient water use?"
+   },
+   "options": {
+    "te": [
+     "వాటర్ ఫుట్‌ప్రింట్లు (Water footprints)",
+     "వాటర్ ఆడిటింగ్ (Water auditing)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Water footprints",
+     "Water auditing",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నీటిని సమర్థవంతంగా వినియోగించుకోవడానికి వాటర్ ఫుట్‌ప్రింట్లు మరియు వాటర్ ఆడిటింగ్ విధానాల ద్వారా బెంచ్‌మార్క్‌లను అభివృద్ధి చేయాలని పాలసీ సిఫార్సు చేసింది.",
+    "en": "The policy recommends evolving benchmarks through both water footprints and water auditing to ensure efficient water use."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T29-0034",
+   "section": {
+    "te": "Resource distribution impacts",
+    "en": "Resource distribution impacts"
+   },
+   "q": {
+    "te": "సహజ వనరుల అసమాన పంపిణీ ద్వారా ఈ క్రింది వాటిలో ఏది రూపొందించబడలేదని పేర్కొనబడింది?",
+    "en": "Which of the following is NOT mentioned as being shaped by the uneven distribution of natural resources?"
+   },
+   "options": {
+    "te": [
+     "అంతర్జాతీయ సంబంధాలు",
+     "వాణిజ్య నమూనాలు",
+     "వాతావరణ పీడనం (Atmospheric pressure)",
+     "మానవ నివాసాలు"
+    ],
+    "en": [
+     "International relations",
+     "Trade patterns",
+     "Atmospheric pressure",
+     "Human settlements"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యం మానవ నివాసాలు, వాణిజ్యం మరియు అంతర్జాతీయ సంబంధాలను పేర్కొంది, కానీ వనరుల పంపిణీ ద్వారా వాతావరణ పీడనం రూపొందించబడినట్లు పేర్కొనలేదు.",
+    "en": "Human settlements, trade, and international relations, but it does not mention atmospheric pressure as being shaped by resource distribution."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T29-0181",
+   "section": {
+    "te": "Water pollution abatement",
+    "en": "Water pollution abatement"
+   },
+   "q": {
+    "te": "జల్ క్రాంతి అభియాన్ కాలుష్య నివారణ చర్యల కింద, దేశంలోని ఎంపిక చేసిన ప్రాంతాలలో ఏ రకమైన బావులను నిర్మించాలని ప్రతిపాదించారు?",
+    "en": "Under the pollution abatement activities of the Jal Kranti Abhiyan, which specific type of wells are proposed to be constructed in selected areas?"
+   },
+   "options": {
+    "te": [
+     "ఫ్లోరైడ్ రహిత బావులు",
+     "ఆర్సెనిక్ రహిత బావులు",
+     "నైట్రేట్ రహిత బావులు",
+     "లవణీయత రహిత బావులు"
+    ],
+    "en": [
+     "Fluoride-free wells",
+     "Arsenic-free wells",
+     "Nitrate-free wells",
+     "Salinity-free wells"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "జల్ క్రాంతి అభియాన్ కింద దేశంలోని ఎంపిక చేసిన ప్రాంతాలలో ఆర్సెనిక్ రహిత బావుల (Arsenic-free wells) నిర్మాణాన్ని ప్రతిపాదించారు.",
+    "en": "Under pollution abatement, the Jal Kranti Abhiyan proposes the construction of Arsenic-free wells in selected areas of the country."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T29-0166",
+   "section": {
+    "te": "Livestock Management",
+    "en": "Livestock Management"
+   },
+   "q": {
+    "te": "రాలెగాన్ సిద్ధిలో బహిరంగ పశువుల మేతను నిషేధించిన తర్వాత, పశువుల పోషణకు సంబంధించి ఏ విధానానికి ప్రాధాన్యత ఇచ్చారు?",
+    "en": "Following the ban on open grazing in Ralegan Siddhi, which livestock management practice was emphasized?"
+   },
+   "options": {
+    "te": [
+     "మేత భూముల అభివృద్ధి",
+     "సంచార పశుపోషణ",
+     "కొట్టాలలో మేత వేయడం (స్టాల్-ఫీడింగ్)",
+     "వంతులవారీ మేత"
+    ],
+    "en": [
+     "Pasture development",
+     "Nomadic herding",
+     "Stall-feeding",
+     "Rotational grazing"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "బహిరంగంగా పశువులను మేపడాన్ని పూర్తిగా నిషేధించి, కొట్టాలలోనే మేత వేసే విధానానికి (స్టాల్-ఫీడింగ్) ప్రాధాన్యతనిచ్చారు.",
+    "en": "Open grazing was completely banned and a new emphasis was placed on stall-feeding of livestock."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T29-0141",
+   "section": {
+    "te": "National Commission on Agriculture",
+    "en": "National Commission on Agriculture"
+   },
+   "q": {
+    "te": "1976లో సామాజిక అటవీ పెంపకాన్ని మూడు వర్గాలుగా ఏ సంస్థ వర్గీకరించింది?",
+    "en": "Which organization classified social forestry into three categories in 1976?"
+   },
+   "options": {
+    "te": [
+     "ఫారెస్ట్ సర్వే ఆఫ్ ఇండియా",
+     "పర్యావరణ మరియు అటవీ మంత్రిత్వ శాఖ",
+     "నేషనల్ కమిషన్ ఆన్ అగ్రికల్చర్",
+     "ప్రణాళికా సంఘం"
+    ],
+    "en": [
+     "The Forest Survey of India",
+     "The Ministry of Environment and Forests",
+     "The National Commission on Agriculture",
+     "The Planning Commission"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నేషనల్ కమిషన్ ఆన్ అగ్రికల్చర్ (1976) సామాజిక అటవీ పెంపకాన్ని పట్టణ, గ్రామీణ మరియు ఫామ్ అటవీ పెంపకంగా వర్గీకరించడానికి బాధ్యత వహిస్తుంది.",
+    "en": "The National Commission on Agriculture (1976) is responsible for the classification of social forestry into Urban, Rural, and Farm forestry."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T29-0238",
+   "section": {
+    "te": "Natural and Human Degradation",
+    "en": "Natural and Human Degradation"
+   },
+   "q": {
+    "te": "ఈ క్రింది వాటిలో సహజ మరియు మానవ కారకాలు రెండింటి వల్ల ఎక్కువగా ఏర్పడిన క్షీణించిన భూమి ఏది?",
+    "en": "Which of the following types of degraded lands is caused largely by BOTH natural and human factors?"
+   },
+   "options": {
+    "te": [
+     "బీడు రాతి ప్రాంతాలు",
+     "హిమానీనద ప్రాంతాలు",
+     "లవణీయత మరియు క్షారతతో ప్రభావితమైన భూములు",
+     "ఎడారి లేదా తీరప్రాంత ఇసుక నేలలు"
+    ],
+    "en": [
+     "Barren rocky areas",
+     "Glacial areas",
+     "Land affected by salinity and alkalinity",
+     "Desertic or coastal sands"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "లవణీయత మరియు క్షారత ప్రభావిత భూములు, నీరు నిలిచిన ప్రాంతాలు సహజ మరియు మానవ కారకాలు రెండింటి వల్ల ఏర్పడతాయి.",
+    "en": "Lands affected by salinity and alkalinity, waterlogged areas, and scrublands are caused by both natural as well as human factors."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T29-0131",
+   "section": {
+    "te": "Social Forestry Classification",
+    "en": "Social Forestry Classification"
+   },
+   "q": {
+    "te": "నేషనల్ కమిషన్ ఆన్ అగ్రికల్చర్ (1976) సామాజిక అటవీ పెంపకాన్ని మూడు వర్గాలుగా వర్గీకరించింది. కింది వాటిలో ఏది ఆ వర్గాలలో ఒకటి కాదు?",
+    "en": "The National Commission on Agriculture (1976) classified social forestry into three categories. Which of the following is NOT one of those categories?"
+   },
+   "options": {
+    "te": [
+     "పట్టణ అటవీ పెంపకం (Urban forestry)",
+     "గ్రామీణ అటవీ పెంపకం (Rural forestry)",
+     "పారిశ్రామిక అటవీ పెంపకం (Industrial forestry)",
+     "ఫామ్ అటవీ పెంపకం (Farm forestry)"
+    ],
+    "en": [
+     "Urban forestry",
+     "Rural forestry",
+     "Industrial forestry",
+     "Farm forestry"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "1976లో నిర్వచించబడిన మూడు వర్గాలు పట్టణ, గ్రామీణ మరియు ఫామ్ అటవీ పెంపకం. పారిశ్రామిక అటవీ పెంపకం ఒక వర్గంగా పేర్కొనబడలేదు.",
+    "en": "The three categories defined in 1976 are Urban, Rural, and Farm forestry. Industrial forestry is not mentioned as a category."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T29-0049",
+   "section": {
+    "te": "Groundwater replenishment strategies",
+    "en": "Groundwater replenishment strategies"
+   },
+   "q": {
+    "te": "భూగర్భ జల మట్టాలను పెంచడానికి ప్రయత్నించిన వ్యూహాలు కింది వాటిలో ఏవి?",
+    "en": "Which of the following are strategies attempted to raise groundwater levels?"
+   },
+   "options": {
+    "te": [
+     "చెరువులు మరియు కుంటల పునరుద్ధరణ",
+     "వృధా వినియోగాన్ని తగ్గించడం",
+     "నీటిని శుద్ధి చేయడం మరియు తిరిగి ఉపయోగించడం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Rejuvenation of ponds and tanks",
+     "Cutting down on wasteful consumption",
+     "Processing and reusing water",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూగర్భ జల మట్టాలను మెరుగుపరచడానికి చెరువుల పునరుద్ధరణ, వృధాను తగ్గించడం మరియు నీటిని తిరిగి ఉపయోగించడం వంటి వ్యూహాలను పాఠ్య భాగం పేర్కొంది.",
+    "en": "Rejuvenation of ponds, reducing waste, and reusing water as strategies to improve groundwater levels."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T29-0065",
+   "section": {
+    "te": "Root Causes Depletion",
+    "en": "Root Causes Depletion"
+   },
+   "q": {
+    "te": "మహాత్మా గాంధీ ప్రకారం, ప్రపంచ స్థాయిలో వనరుల క్షీణతకు క్రింది వాటిలో ఏది/ఏవి మూలకారణాలుగా గుర్తించబడ్డాయి?",
+    "en": "According to Mahatma Gandhi, which of the following is/are identified as the root cause(s) for resource depletion at the global level?"
+   },
+   "options": {
+    "te": [
+     "దురాశపరులు మరియు స్వార్థపరులైన వ్యక్తులు",
+     "ఆధునిక సాంకేతిక పరిజ్ఞానం యొక్క దోపిడీ స్వభావం",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Greedy and selfish individuals",
+     "Exploitative nature of modern technology",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "దురాశ మరియు స్వార్థం గల వ్యక్తులు మరియు ఆధునిక సాంకేతికత యొక్క దోపిడీ స్వభావమే ప్రపంచ స్థాయి వనరుల క్షీణతకు మూలకారణమని గాంధీజీ పేర్కొన్నారు.",
+    "en": "Gandhiji held greedy and selfish individuals as well as the exploitative nature of modern technology responsible for global resource depletion."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T29-0002",
+   "section": {
+    "te": "Traditional water storage",
+    "en": "Traditional water storage"
+   },
+   "q": {
+    "te": "రాజస్థాన్‌లో 'టాంకా' (taanka) లేదా 'కుండ్స్' (kunds) ప్రత్యేకంగా దేని కోసం ఉపయోగించబడతాయి?",
+    "en": "What are 'taanka' or 'kunds' specifically used for in Rajasthan?"
+   },
+   "options": {
+    "te": [
+     "విలువైన రాళ్లను తవ్వడం",
+     "గ్రామాల్లో బట్టలు ఉతకడం",
+     "త్రాగునీటి అవసరాల కోసం వర్షపు నీటిని నిల్వ చేయడం",
+     "పెద్ద వ్యవసాయ క్షేత్రాలకు నీరు అందించడం"
+    ],
+    "en": [
+     "Mining precious stones",
+     "Washing clothes in hamlets",
+     "Storing rainwater for drinking purposes",
+     "Irrigating large agricultural fields"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రాజస్థాన్‌లోని టాంకా లేదా కుండ్‌లు వర్షపు నీటిని సేకరించే ప్రత్యేక వ్యవస్థలు, ఇవి తరచుగా త్రాగునీటి అవసరాల కోసం నీటిని నిల్వ చేస్తాయి.",
+    "en": "Taanka or kunds are special water collection systems in Rajasthan that store rainwater, often for drinking purposes."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T29-0236",
+   "section": {
+    "te": "Wasteland Classification Agency",
+    "en": "Wasteland Classification Agency"
+   },
+   "q": {
+    "te": "రిమోట్ సెన్సింగ్ పద్ధతులను ఉపయోగించి భారతదేశంలో బంజరు భూములను (wastelands) వర్గీకరించిన సంస్థ ఏది?",
+    "en": "Which organisation has classified wastelands in India using remote sensing techniques?"
+   },
+   "options": {
+    "te": [
+     "సర్వే ఆఫ్ ఇండియా (SoI)",
+     "నేషనల్ రిమోట్ సెన్సింగ్ సెంటర్ (NRSC)",
+     "జియోలాజికల్ సర్వే ఆఫ్ ఇండియా (GSI)",
+     "సెంట్రల్ ఆరిడ్ జోన్ రీసెర్చ్ ఇన్స్టిట్యూట్ (CAZRI)"
+    ],
+    "en": [
+     "Survey of India (SoI)",
+     "National Remote Sensing Centre (NRSC)",
+     "Geological Survey of India (GSI)",
+     "Central Arid Zone Research Institute (CAZRI)"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, నేషనల్ రిమోట్ సెన్సింగ్ సెంటర్ (NRSC) రిమోట్ సెన్సింగ్ పద్ధతులను ఉపయోగించి బంజరు భూములను వర్గీకరించింది.",
+    "en": "The National Remote Sensing Centre (NRSC) classified wastelands using remote sensing techniques."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T29-0140",
+   "section": {
+    "te": "1988 Forest Policy Goals",
+    "en": "1988 Forest Policy Goals"
+   },
+   "q": {
+    "te": "1988 నాటి సవరించిన అటవీ విధానానికి సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఇది స్థిరమైన అటవీ నిర్వహణను నొక్కి చెబుతుంది.\n2. ఇది అటవీ నిల్వలను విస్తరించాలని లక్ష్యంగా పెట్టుకుంది.\n3. ఇది స్థానిక ప్రజల అవసరాలను తీర్చడానికి ప్రయత్నిస్తుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding the 1988 modified forest policy:\n1. It emphasizes sustainable forest management.\n2. It aims to expand forest reserves.\n3. It seeks to meet the needs of local people.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "1988 విధానం స్థిరమైన నిర్వహణ ద్వారా స్థానిక ప్రజల అవసరాలను తీర్చడంతో పాటు అటవీ నిల్వల సంరక్షణ మరియు విస్తరణను సమతుల్యం చేస్తుంది.",
+    "en": "The 1988 policy balances conservation and expansion of forest reserves with meeting the local people's needs through sustainable management."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T29-0237",
+   "section": {
+    "te": "Natural Wastelands",
+    "en": "Natural Wastelands"
+   },
+   "q": {
+    "te": "NRSC వర్గీకరణ ప్రకారం, ఈ క్రింది వాటిలో ప్రధానంగా సహజ కారణాల వల్ల ఏర్పడిన బంజరు భూమి ఏది?",
+    "en": "According to the NRSC classification, which of the following is primarily caused by natural agents?"
+   },
+   "options": {
+    "te": [
+     "తోట పంటల కింద క్షీణించిన భూములు",
+     "గనులు మరియు పారిశ్రామిక బంజరు భూములు",
+     "క్షీణించిన పోడు వ్యవసాయ ప్రాంతం",
+     "వంకలు పడిన లేదా లోయలతో కూడిన భూములు (Gullied/ravinous land)"
+    ],
+    "en": [
+     "Degraded land under plantation crops",
+     "Mining and industrial wastelands",
+     "Degraded shifting cultivation area",
+     "Gullied or ravinous land"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వంకలు పడిన లేదా లోయలతో కూడిన భూములు సహజ కారకాల వల్ల ఏర్పడతాయి, మిగిలినవి మానవ చర్యల వల్ల ఏర్పడినవి.",
+    "en": "Gullied or ravinous land is primarily caused by natural agents, whereas the other options are wastelands caused by human actions."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T29-0146",
+   "section": {
+    "te": "River Pollution Seasonality",
+    "en": "River Pollution Seasonality"
+   },
+   "q": {
+    "te": "నీటి ప్రవాహం తక్కువగా ఉండటం వల్ల భారతీయ నదులలో కాలుష్య కారకాల సాంద్రత ఏ కాలంలో చాలా ఎక్కువగా ఉంటుంది?",
+    "en": "In which season does the concentration of pollutants in Indian rivers remain very high due to low water flow?"
+   },
+   "options": {
+    "te": [
+     "శీతాకాలం",
+     "వేసవి కాలం",
+     "వర్షాకాలం తర్వాత",
+     "వర్షాకాలం"
+    ],
+    "en": [
+     "Winter season",
+     "Summer season",
+     "Post-monsoon season",
+     "Monsoon season"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వేసవిలో నదులలో నీటి ప్రవాహం తక్కువగా ఉండటం వల్ల కాలుష్య కారకాల సాంద్రత ఎక్కువగా ఉంటుంది.",
+    "en": "Pollutant concentration is highest during summer because the flow of water in rivers is low during this period."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T29-0122",
+   "section": {
+    "te": "Compulsory rainwater harvesting state",
+    "en": "Compulsory rainwater harvesting state"
+   },
+   "q": {
+    "te": "నిబంధనలు పాటించని వారిని శిక్షించే చట్టపరమైన నిబంధనలతో పాటు, రాష్ట్రంలోని అన్ని ఇళ్లకు పైకప్పు వర్షపు నీటి సంరక్షణ నిర్మాణాన్ని తప్పనిసరి చేసిన భారతదేశపు మొదటి రాష్ట్రం ఏది?",
+    "en": "Which is the first state in India to make rooftop rainwater harvesting structures compulsory for all houses across the state, with legal provisions to punish defaulters?"
+   },
+   "options": {
+    "te": [
+     "తమిళనాడు",
+     "కర్ణాటక",
+     "మహారాష్ట్ర",
+     "రాజస్థాన్"
+    ],
+    "en": [
+     "Tamil Nadu",
+     "Karnataka",
+     "Maharashtra",
+     "Rajasthan"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "తమిళనాడు రాష్ట్రంలోని అన్ని ఇళ్లలో పైకప్పు వర్షపు నీటి సంరక్షణ నిర్మాణాలను తప్పనిసరి చేసిన మొదటి రాష్ట్రం, అలాగే పాటించని వారిపై చట్టపరమైన చర్యలు కూడా ఉన్నాయి.",
+    "en": "Tamil Nadu is the first state in India to mandate rooftop rainwater harvesting for all households, backed by legal penalties for non-compliance."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T29-0069",
+   "section": {
+    "te": "Earth Summit 1992",
+    "en": "Earth Summit 1992"
+   },
+   "q": {
+    "te": "1992 లో వనరుల పరిరక్షణకు సంబంధించి ఒక ముఖ్యమైన మైలురాయిగా నిలిచిన 'ఎర్త్ సమ్మిట్' (Earth Summit) ఏ నగరంలో జరిగింది?",
+    "en": "In 1992, an internationally significant contribution to resource conservation was made at the Earth Summit held in which city?"
+   },
+   "options": {
+    "te": [
+     "జోహన్నెస్‌బర్గ్",
+     "స్టాక్‌హోమ్",
+     "రియో డి జనీరో",
+     "క్యోటో"
+    ],
+    "en": [
+     "Johannesburg",
+     "Stockholm",
+     "Rio de Janeiro",
+     "Kyoto"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "1992లో బ్రెజిల్‌లోని రియో డి జనీరో నగరంలో చారిత్రాత్మక ఎర్త్ సమ్మిట్ (ధరిత్రీ సదస్సు) నిర్వహించబడింది.",
+    "en": "The landmark Earth Summit was held at Rio de Janeiro, Brazil in the year 1992."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T29-0202",
+   "section": {
+    "te": "Special Area Programmes Plan",
+    "en": "Special Area Programmes Plan"
+   },
+   "q": {
+    "te": "కొండ ప్రాంతాలు, ఈశాన్య రాష్ట్రాలు, గిరిజన ప్రాంతాలు మరియు వెనుకబడిన ప్రాంతాలలో మౌలిక సదుపాయాలను అభివృద్ధి చేయడానికి ఏ పంచవర్ష ప్రణాళికలో ప్రత్యేక ప్రాంత కార్యక్రమాలను రూపొందించారు?",
+    "en": "In which Five Year Plan were special area programmes designed to develop infrastructure in hill areas, north-eastern states, tribal areas, and backward areas?"
+   },
+   "options": {
+    "te": [
+     "10వ పంచవర్ష ప్రణాళిక",
+     "8వ పంచవర్ష ప్రణాళిక",
+     "4వ పంచవర్ష ప్రణాళిక",
+     "6వ పంచవర్ష ప్రణాళిక"
+    ],
+    "en": [
+     "10th Five Year Plan",
+     "8th Five Year Plan",
+     "4th Five Year Plan",
+     "6th Five Year Plan"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "8వ పంచవర్ష ప్రణాళికలో కొండ ప్రాంతాలు, ఈశాన్య రాష్ట్రాలు, గిరిజన మరియు వెనుకబడిన ప్రాంతాలలో మౌలిక సదుపాయాల కల్పనకు ప్రత్యేక ప్రాంత కార్యక్రమాలను రూపొందించారు.",
+    "en": "Special area programmes were designed in the 8th Five Year Plan to develop infrastructure in hill areas, north-eastern states, tribal areas, and backward areas."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T29-0208",
+   "section": {
+    "te": "Drought Prone Districts 1967",
+    "en": "Drought Prone Districts 1967"
+   },
+   "q": {
+    "te": "1967 లో భారత ప్రణాళికా సంఘం దేశవ్యాప్తంగా ఎన్ని జిల్లాలను (పూర్తిగా లేదా పాక్షికంగా) కరవు పీడిత ప్రాంతాలుగా గుర్తించింది?",
+    "en": "How many districts (entire or partly) across the country were identified as prone to drought by the Planning Commission of India in 1967?"
+   },
+   "options": {
+    "te": [
+     "74",
+     "85",
+     "67",
+     "52"
+    ],
+    "en": [
+     "74",
+     "85",
+     "67",
+     "52"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "1967 లో ప్రణాళికా సంఘం దేశంలో 67 జిల్లాలను (పూర్తిగా లేదా పాక్షికంగా) కరవు సంభవించే జిల్లాలుగా గుర్తించింది.",
+    "en": "In 1967, the Planning Commission of India identified 67 districts (entire or partly) in the country as prone to drought."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T29-0180",
+   "section": {
+    "te": "Model command area",
+    "en": "Model command area"
+   },
+   "q": {
+    "te": "జల్ క్రాంతి అభియాన్ కింద దేశంలోని వివిధ ప్రాంతాలలో గుర్తించడానికి ప్రతిపాదించిన ఆదర్శ కమాండ్ ఏరియా (model command area) విస్తీర్ణం ఎంత?",
+    "en": "What is the size of the model command area proposed to be identified in different parts of the country under the Jal Kranti Abhiyan?"
+   },
+   "options": {
+    "te": [
+     "సుమారు 500 హెక్టార్లు",
+     "సుమారు 2000 హెక్టార్లు",
+     "సుమారు 1000 హెక్టార్లు",
+     "సుమారు 100 హెక్టార్లు"
+    ],
+    "en": [
+     "About 500 hectares",
+     "About 2000 hectares",
+     "About 1000 hectares",
+     "About 100 hectares"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "దేశంలోని వివిధ ప్రాంతాలలో సుమారు 1000 హెక్టార్ల విస్తీర్ణంలో ఆదర్శ కమాండ్ ప్రాంతాన్ని గుర్తించాలని జల్ క్రాంతి అభియాన్ నిర్దేశించింది.",
+    "en": "The Jal Kranti Abhiyan proposed the identification of a model command area of about 1000 hectares in different parts of the country."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T29-0111",
+   "section": {
+    "te": "Multi-purpose Projects",
+    "en": "Multi-purpose Projects"
+   },
+   "q": {
+    "te": "ఆనకట్టలను 'బహుళార్థసాధక ప్రాజెక్టులు' అని పిలుస్తారు ఎందుకంటే అవి నిల్వ చేసిన నీటి యొక్క క్రింది ఏ ఉపయోగాలను అనుసంధానిస్తాయి?",
+    "en": "Dams are referred to as 'multi-purpose projects' because they integrate which of the following uses of impounded water?"
+   },
+   "options": {
+    "te": [
+     "విద్యుత్ ఉత్పత్తి మరియు సాగునీరు",
+     "వరద నియంత్రణ మరియు చేపల పెంపకం",
+     "నీటి సరఫరా మరియు వినోదం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Electricity generation and irrigation",
+     "Flood control and fish breeding",
+     "Water supply and recreation",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఆధునిక ఆనకట్టలను బహుళార్థసాధక ప్రాజెక్టులు అని పిలుస్తారు ఎందుకంటే అవి సాగునీరు, విద్యుత్, వరద నియంత్రణ వంటి అనేక సమగ్ర విధులను నిర్వహిస్తాయి.",
+    "en": "Modern dams are called multi-purpose projects because they serve many integrated functions like irrigation, power, flood control, and more."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T29-0230",
+   "section": {
+    "te": "Resource Planning Crops",
+    "en": "Resource Planning Crops"
+   },
+   "q": {
+    "te": "ఇందిరా గాంధీ కెనాల్ కమాండ్ ఏరియా సందర్భంలో, నీరు ఎక్కువగా అవసరమయ్యే పంటలను నివారించడానికి ప్రజలు ఏ తోట పంటలను పండించాలని ప్రోత్సహించబడ్డారు?",
+    "en": "In the context of the Indira Gandhi Canal command area, which plantation crops are people encouraged to grow to avoid water-intensive crops?"
+   },
+   "options": {
+    "te": [
+     "వరి మరియు గోధుమ",
+     "పత్తి మరియు పొగాకు",
+     "చెరకు మరియు జనుము",
+     "నిమ్మజాతి పండ్లు (Citrus fruits)"
+    ],
+    "en": [
+     "Rice and Wheat",
+     "Cotton and Tobacco",
+     "Sugarcane and Jute",
+     "Citrus fruits"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నీటి వనరులను నిర్వహించడానికి, నీరు ఎక్కువగా అవసరమయ్యే పంటలకు బదులుగా నిమ్మజాతి పండ్ల వంటి తోట పంటలను పండించాలని ప్రజలను ప్రోత్సహిస్తున్నారు.",
+    "en": "To manage water resources, people are encouraged to grow plantation crops like citrus fruits instead of water-intensive crops."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T29-0163",
+   "section": {
+    "te": "Crop Restrictions",
+    "en": "Crop Restrictions"
+   },
+   "q": {
+    "te": "రాలెగాన్ సిద్ధిలో వాటర్‌షెడ్ అభివృద్ధి పరివర్తన సమయంలో, ఎక్కువ నీరు అవసరమయ్యే ఏ పంట సాగును పూర్తిగా నిషేధించారు?",
+    "en": "During the watershed transformation of Ralegan Siddhi, the cultivation of which water-intensive crop was completely banned?"
+   },
+   "options": {
+    "te": [
+     "గోధుమ",
+     "చెరకు",
+     "వరి",
+     "ప్రత్తి"
+    ],
+    "en": [
+     "Wheat",
+     "Sugarcane",
+     "Rice",
+     "Cotton"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "నీటిని సంరక్షించడానికి రాలెగాన్ సిద్ధిలో చెరకు వంటి ఎక్కువ నీరు అవసరమయ్యే పంటల సాగును నిషేధించారు.",
+    "en": "To conserve water, the cultivation of water-intensive crops such as sugarcane was banned in Ralegan Siddhi."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T29-0212",
+   "section": {
+    "te": "Gaddi Community Characteristics",
+    "en": "Gaddi Community Characteristics"
+   },
+   "q": {
+    "te": "భర్మార్ ప్రాంతానికి చెందిన 'గద్ది' (Gaddi) గిరిజన తెగకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. వారు రుతుసంబంధ పశువుల వలస (transhumance) ఆచరించడం ద్వారా ప్రత్యేక గుర్తింపును కాపాడుకున్నారు.\n2. వారు గద్దియాలీ (Gaddiali) మాండలికంలో సంభాషిస్తారు.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the 'Gaddi' tribal community of Bharmaur:\n1. They have maintained a distinct identity as they practised transhumance.\n2. They converse through the Gaddiali dialect.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "గద్ది గిరిజన తెగ ప్రజలు హిమాలయ ప్రాంతంలో పశువుల రుతువలసను ఆచరిస్తూ, గద్దియాలీ మాండలికం మాట్లాడటం ద్వారా తమ ప్రత్యేక గుర్తింపును కాపాడుకున్నారు.",
+    "en": "The Gaddis maintained a distinct identity in the Himalayan region as they practised transhumance and conversed in the Gaddiali dialect."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T29-0056",
+   "section": {
+    "te": "Resource Planning India",
+    "en": "Resource Planning India"
+   },
+   "q": {
+    "te": "స్వాతంత్ర్యం వచ్చిన తర్వాత ప్రారంభించిన ఏ పంచవర్ష ప్రణాళిక నుండి భారతదేశం వనరుల ప్రణాళిక లక్ష్యాలను సాధించడానికి నిరంతర ప్రయత్నాలు చేసింది?",
+    "en": "India initiated concerted efforts for achieving the goals of resource planning right from which of the following Five Year Plans?"
+   },
+   "options": {
+    "te": [
+     "మొదటి పంచవర్ష ప్రణాళిక",
+     "రెండవ పంచవర్ష ప్రణాళిక",
+     "నాల్గవ పంచవర్ష ప్రణాళిక",
+     "మూడవ పంచవర్ష ప్రణాళిక"
+    ],
+    "en": [
+     "First Five Year Plan",
+     "Second Five Year Plan",
+     "Fourth Five Year Plan",
+     "Third Five Year Plan"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "స్వాతంత్ర్యం వచ్చిన తర్వాత ప్రారంభించిన మొదటి పంచవర్ష ప్రణాళిక నుండే భారతదేశం వనరుల ప్రణాళిక లక్ష్యాలను సాధించడానికి సంఘటిత ప్రయత్నాలు ప్రారంభించింది.",
+    "en": "India made concerted efforts to achieve the goals of resource planning right from the First Five Year Plan launched after Independence."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T29-0168",
+   "section": {
+    "te": "Community Self-Reliance",
+    "en": "Community Self-Reliance"
+   },
+   "q": {
+    "te": "ఎలాంటి విరాళాలు తీసుకోకుండా కేవలం గ్రామ వనరులతోనే రాలెగాన్ సిద్ధిలో పాఠశాల భవనాన్ని ఎంత వ్యయంతో నిర్మించారు?",
+    "en": "What was the expenditure incurred to construct the school building in Ralegan Siddhi using only village resources without taking donations?"
+   },
+   "options": {
+    "te": [
+     "రూ. 32 లక్షలు",
+     "రూ. 22 లక్షలు",
+     "రూ. 12 లక్షలు",
+     "రూ. 50 లక్షలు"
+    ],
+    "en": [
+     "Rs. 32 lakh",
+     "Rs. 22 lakh",
+     "Rs. 12 lakh",
+     "Rs. 50 lakh"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఎలాంటి విరాళాలు స్వీకరించకుండా కేవలం గ్రామం యొక్క స్వంత వనరులతోనే రూ. 22 లక్షల పాఠశాల భవనాన్ని నిర్మించారు.",
+    "en": "A Rs. 22 lakh school building was constructed relying strictly on village resources without accepting donations."
+   }
+  }
+ ]
+}

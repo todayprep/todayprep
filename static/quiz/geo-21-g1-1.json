@@ -1,0 +1,942 @@
+{
+ "id": "geo-21-g1-1",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Mineral and Energy Resources – క్విజ్ 1",
+  "en": "Mineral and Energy Resources – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T21-0170",
+   "section": {
+    "te": "Atomic Energy Institutions",
+    "en": "Atomic Energy Institutions"
+   },
+   "q": {
+    "te": "కింది సంఘటనలను సరైన కాలక్రమానుసారంగా అమర్చండి:\n1. అటామిక్ ఎనర్జీ ఇన్‌స్టిట్యూట్‌ను భాభా అటామిక్ రీసెర్చ్ సెంటర్‌గా మార్చడం\n2. అటామిక్ ఎనర్జీ కమిషన్ స్థాపన\n3. ట్రోంబేలో అటామిక్ ఎనర్జీ ఇన్‌స్టిట్యూట్ స్థాపన",
+    "en": "Arrange the following events in the correct chronological order:\n1. Renaming of Atomic Energy Institute as Bhabha Atomic Research Centre\n2. Establishment of Atomic Energy Commission\n3. Establishment of Atomic Energy Institute at Trombay"
+   },
+   "options": {
+    "te": [
+     "2-3-1",
+     "3-2-1",
+     "1-2-3",
+     "2-1-3"
+    ],
+    "en": [
+     "2-3-1",
+     "3-2-1",
+     "1-2-3",
+     "2-1-3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అటామిక్ ఎనర్జీ కమిషన్ 1948లో స్థాపించబడింది, తర్వాత 1954లో అటామిక్ ఎనర్జీ ఇన్‌స్టిట్యూట్ స్థాపించబడింది, దీనిని 1967లో BARCగా మార్చారు.",
+    "en": "The Atomic Energy Commission was established in 1948, followed by the Atomic Energy Institute in 1954, which was renamed BARC in 1967."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T21-0010",
+   "section": {
+    "te": "Costs of resource exploitation",
+    "en": "Costs of resource exploitation"
+   },
+   "q": {
+    "te": "పారిశ్రామిక అభివృద్ధి కారణంగా వనరులు సమృద్ధిగా ఉన్న ప్రాంతాల ప్రజలు ఎదుర్కొనే ప్రతికూల పరిణామాలు ఏవి?",
+    "en": "Which of the following are adverse costs faced by communities in resource-rich areas due to industrial developments?"
+   },
+   "options": {
+    "te": [
+     "ప్రజలు తమ నివాసాల నుండి నిరాశ్రయులు కావడం (స్థానభ్రంశం)",
+     "పవిత్ర స్థలాలు ముప్పును ఎదుర్కొని వివాదాలకు దారితీయడం",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Displacement of people from their homes",
+     "Threats to their sacred places leading to conflicts",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వనరులు ఎక్కువగా ఉండే ప్రాంతాలలో నివసించే ప్రజలు తమ ఇళ్లను కోల్పోవడం మరియు వారి పవిత్ర స్థలాలకు ముప్పు ఏర్పడి ఘర్షణలకు దారితీయడం వంటి సమస్యలు ఎదురవుతాయి.",
+    "en": "People in resource-rich areas often get displaced from their homes and face threats to their sacred places, leading to conflicts."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T21-0122",
+   "section": {
+    "te": "North-Eastern Plateau Minerals",
+    "en": "North-Eastern Plateau Minerals"
+   },
+   "q": {
+    "te": "ఈశాన్య పీఠభూమి ప్రాంతంలో (ఛోటానాగ్‌పూర్, ఒడిశా మొదలైనవి) లభించే ఖనిజాలలో కింది వాటిలో ఏది ప్రత్యేకంగా పేర్కొనబడలేదు?",
+    "en": "Which of the following minerals is NOT specifically listed as being found in the North-Eastern Plateau Region (Chhotanagpur, Odisha, etc.)?"
+   },
+   "options": {
+    "te": [
+     "ఇనుప ఖనిజం",
+     "మాంగనీస్",
+     "బాక్సైట్",
+     "బంగారం"
+    ],
+    "en": [
+     "Iron ore",
+     "Manganese",
+     "Bauxite",
+     "Gold"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఈశాన్య పీఠభూమి ప్రాంతంలో ఇనుప ఖనిజం, బొగ్గు, మాంగనీస్, బాక్సైట్ మరియు అభ్రకం ఉన్నాయి. ఈ నిర్దిష్ట ప్రాంతం కోసం బంగారం ప్రస్తావించబడలేదు.",
+    "en": "The North-Eastern Plateau region contains iron ore, coal, manganese, bauxite, and mica. Gold is not mentioned for this specific region."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T21-0024",
+   "section": {
+    "te": "Mineral identification",
+    "en": "Mineral identification"
+   },
+   "q": {
+    "te": "భూవిజ్ఞాన శాస్త్రవేత్తలు ఇప్పటివరకు సుమారు ఎన్ని రకాల ఖనిజాలను గుర్తించారు?",
+    "en": "Approximately how many different minerals have been identified by geologists so far?"
+   },
+   "options": {
+    "te": [
+     "500 కంటే ఎక్కువ",
+     "5000 కంటే ఎక్కువ",
+     "2000 కంటే ఎక్కువ",
+     "1000 కంటే ఎక్కువ"
+    ],
+    "en": [
+     "Over 500",
+     "Over 5000",
+     "Over 2000",
+     "Over 1000"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "2000 కంటే ఎక్కువ ఖనిజాలను గుర్తించినట్లు పాఠ్యభాగం పేర్కొంది, అయితే శిలలలో కొన్ని మాత్రమే సమృద్ధిగా కనిపిస్తాయి.",
+    "en": "Over 2000 minerals have been identified, though only a few are common in rocks."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T21-0173",
+   "section": {
+    "te": "Non-Conventional Energy",
+    "en": "Non-Conventional Energy"
+   },
+   "q": {
+    "te": "సాంప్రదాయేతర ఇంధన వనరుల గురించి కింది ప్రకటనలను పరిశీలించండి:\n1. శిలాజ ఇంధనాలతో పోలిస్తే ఇవి మరింత సమానంగా పంపిణీ చేయబడతాయి.\n2. ఇవి పర్యావరణ అనుకూలమైనవి.\nపైన ఇచ్చిన ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about non-conventional energy sources:\n1. They are more equitably distributed compared to fossil fuels.\n2. They are environment-friendly.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సౌర మరియు పవన శక్తి వంటి సాంప్రదాయేతర ఇంధన వనరులు మరింత సమానంగా పంపిణీ చేయబడతాయి మరియు పర్యావరణ అనుకూలమైనవి.",
+    "en": "Non-conventional energy sources like solar and wind are both more equitably distributed and environment-friendly."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T21-0058",
+   "section": {
+    "te": "Iron Ore Export",
+    "en": "Iron Ore Export"
+   },
+   "q": {
+    "te": "మహారాష్ట్ర-గోవా బెల్ట్ నుండి లభించే ఇనుప ఖనిజం ప్రధానంగా ఏ ఓడరేవు ద్వారా ఎగుమతి చేయబడుతుంది?",
+    "en": "Iron ore from the Maharashtra-Goa belt is primarily exported through which port?"
+   },
+   "options": {
+    "te": [
+     "మంగళూరు ఓడరేవు",
+     "కాండ్లా ఓడరేవు",
+     "విశాఖపట్నం ఓడరేవు",
+     "మర్మగావ్ ఓడరేవు"
+    ],
+    "en": [
+     "Mangaluru port",
+     "Kandla port",
+     "Vishakhapatnam port",
+     "Marmagao port"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మహారాష్ట్ర-గోవా బెల్ట్ (గోవా మరియు రత్నగిరి సహా) నుండి ఇనుప ఖనిజం మర్మగావ్ ఓడరేవు ద్వారా ఎగుమతి చేయబడుతుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text specifies that iron ore from the Maharashtra-Goa belt (including Goa and Ratnagiri) is exported through the Marmagao port."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T21-0093",
+   "section": {
+    "te": "Electricity and Development",
+    "en": "Electricity and Development"
+   },
+   "q": {
+    "te": "నేటి ప్రపంచంలో విస్తృతమైన అప్లికేషన్ల కారణంగా దేనిని 'అభివృద్ధి సూచిక' (index of development) గా పరిగణిస్తారు?",
+    "en": "What is considered as an 'index of development' in today's world due to its wide range of applications?"
+   },
+   "options": {
+    "te": [
+     "చమురు శుద్ధి కర్మాగారాల సంఖ్య",
+     "తలసరి బొగ్గు వినియోగం",
+     "తలసరి విద్యుత్ వినియోగం",
+     "గ్యాస్ పైప్‌లైన్ల పొడవు"
+    ],
+    "en": [
+     "Number of oil refineries",
+     "Per capita consumption of coal",
+     "Per capita consumption of electricity",
+     "Length of gas pipelines"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "విద్యుత్ తలసరి వినియోగం దేశ అభివృద్ధికి కొలమానంగా లేదా సూచికగా ఉపయోగించబడుతుంది.",
+    "en": "The per capita consumption of electricity is used as a measure or index of a country's development."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T21-0059",
+   "section": {
+    "te": "Copper Mines",
+    "en": "Copper Mines"
+   },
+   "q": {
+    "te": "ఈ క్రింది రాగి ఉత్పత్తి చేసే ప్రాంతాలను వాటి సంబంధిత రాష్ట్రాలతో జతపరచండి:\nI. బాలాఘాట్   A. రాజస్థాన్\nII. ఖేత్రి     B. జార్ఖండ్\nIII. సింగ్‌భూమ్ C. మధ్యప్రదేశ్",
+    "en": "Match the following copper producing regions with their respective states:\nI. Balaghat   A. Rajasthan\nII. Khetri     B. Jharkhand\nIII. Singhbhum C. Madhya Pradesh"
+   },
+   "options": {
+    "te": [
+     "I-C, II-A, III-B",
+     "I-A, II-C, III-B",
+     "I-B, II-A, III-C",
+     "I-C, II-B, III-A"
+    ],
+    "en": [
+     "I-C, II-A, III-B",
+     "I-A, II-C, III-B",
+     "I-B, II-A, III-C",
+     "I-C, II-B, III-A"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, బాలాఘాట్ మధ్యప్రదేశ్‌లో, ఖేత్రి రాజస్థాన్‌లో మరియు సింగ్‌భూమ్ జార్ఖండ్‌లో ఉన్నాయి.",
+    "en": "Balaghat is in Madhya Pradesh, Khetri is in Rajasthan, and Singhbhum is in Jharkhand."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T21-0096",
+   "section": {
+    "te": "Nuclear Energy Minerals",
+    "en": "Nuclear Energy Minerals"
+   },
+   "q": {
+    "te": "కేరళలోని మోనాజైట్ ఇసుకలో అణుశక్తి ఉత్పత్తికి ఉపయోగించే ఈ క్రింది ఖనిజాలలో ఏది లభిస్తుంది?",
+    "en": "Which of the following minerals used for generating nuclear power is found in the Monazite sands of Kerala?"
+   },
+   "options": {
+    "te": [
+     "బొగ్గు",
+     "అభ్రకం (Mica)",
+     "యురేనియం",
+     "థోరియం"
+    ],
+    "en": [
+     "Coal",
+     "Mica",
+     "Uranium",
+     "Thorium"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "కేరళలోని మోనాజైట్ ఇసుకలో థోరియం సమృద్ధిగా ఉంటుందని, దీనిని అణుశక్తి ఉత్పత్తికి ఉపయోగిస్తారని పాఠ్య భాగం పేర్కొంది.",
+    "en": "The Monazite sands of Kerala are rich in Thorium, which is used for generating atomic or nuclear power."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T21-0017",
+   "section": {
+    "te": "Toothpaste minerals",
+    "en": "Toothpaste minerals"
+   },
+   "q": {
+    "te": "కొన్ని టూత్‌పేస్ట్‌లలో 'మెరుపు' (sparkle) రావడానికి ఈ క్రింది ఏ ఖనిజం కారణం?",
+    "en": "Which of the following minerals is responsible for providing the 'sparkle' in some toothpastes?"
+   },
+   "options": {
+    "te": [
+     "సున్నపురాయి",
+     "మైకా",
+     "సిలికా",
+     "ఫ్లోరైట్"
+    ],
+    "en": [
+     "Limestone",
+     "Mica",
+     "Silica",
+     "Fluorite"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, సిలికా మరియు సున్నపురాయి వంటి ఖనిజాలను శుభ్రపరచడానికి ఉపయోగిస్తారు, అయితే టూత్‌పేస్ట్‌లోని మెరుపు మైకా నుండి వస్తుంది.",
+    "en": "While minerals like silica and limestone are used for cleaning, the sparkle in toothpaste is derived from mica."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T21-0039",
+   "section": {
+    "te": "North India minerals",
+    "en": "North India minerals"
+   },
+   "q": {
+    "te": "భారతదేశంలోని ఏ ప్రాంతం ఆర్థిక ఖనిజాలు దాదాపుగా లేని ప్రాంతంగా వర్ణించబడింది?",
+    "en": "Which region of India is described as being almost devoid of economic minerals?"
+   },
+   "options": {
+    "te": [
+     "దక్కన్ పీఠభూమి",
+     "ఉత్తర భారత ఒండ్రు మైదానాలు",
+     "ఈశాన్య కొండలు",
+     "తీర మైదానాలు"
+    ],
+    "en": [
+     "The Deccan Plateau",
+     "The Alluvial plains of north India",
+     "The North-eastern hills",
+     "The Coastal plains"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఉత్తర భారతదేశంలోని విశాలమైన ఒండ్రు మైదానాలు వాటి భౌగోళిక నిర్మాణం కారణంగా గణనీయమైన ఆర్థిక ఖనిజాలను కలిగి లేవు.",
+    "en": "The vast alluvial plains of North India do not contain significant economic minerals due to their geological structure."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T21-0025",
+   "section": {
+    "te": "Mineral classification",
+    "en": "Mineral classification"
+   },
+   "q": {
+    "te": "ఖనిజాల వర్గీకరణకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఖనిజం ఏర్పడే సమయంలోని భౌతిక మరియు రసాయన పరిస్థితులు దాని లక్షణాలను నిర్ణయిస్తాయి.\n2. భూవిజ్ఞాన శాస్త్రవేత్తలు ఖనిజాలను వర్గీకరించడానికి స్పటిక రూపాలు, మెరుపు (lustre) మరియు సాంద్రత వంటి లక్షణాలను ఉపయోగిస్తారు.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the classification of minerals:\n1. Physical and chemical conditions during formation determine a mineral's properties.\n2. Geologists use properties such as crystal forms, lustre, and density to classify minerals.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఏర్పడే పరిస్థితుల వల్ల నిర్దిష్ట లక్షణాలు (రంగు, కఠినత్వం, స్పటిక రూపాలు మొదలైనవి) ఏర్పడతాయని, వీటిని భూవిజ్ఞాన శాస్త్రవేత్తలు వర్గీకరణకు ఉపయోగిస్తారని పాఠ్యభాగం వివరిస్తుంది.",
+    "en": "Formation conditions result in specific properties (color, hardness, crystal forms, etc.) which geologists then use for classification."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T21-0169",
+   "section": {
+    "te": "Natural Gas Uses",
+    "en": "Natural Gas Uses"
+   },
+   "q": {
+    "te": "కింది ఏ పరిశ్రమలలో సహజ వాయువును ముడి పదార్థంగా ఉపయోగిస్తారు?\nA. రసాయన పరిశ్రమ\nB. ఎరువుల పరిశ్రమ",
+    "en": "Natural gas is used as a raw material in which of the following industries?\nA. Chemical industry\nB. Fertiliser industry"
+   },
+   "options": {
+    "te": [
+     "A మాత్రమే",
+     "B మాత్రమే",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "A only",
+     "B only",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రసాయన, పెట్రోకెమికల్ మరియు ఎరువుల పరిశ్రమలలో సహజ వాయువు ముడి పదార్థంగా ఉపయోగపడుతుంది.",
+    "en": "Natural gas serves as a raw material in chemical, petrochemical, and fertiliser industries."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T21-0165",
+   "section": {
+    "te": "Gujarat Oilfields",
+    "en": "Gujarat Oilfields"
+   },
+   "q": {
+    "te": "కింది చమురు క్షేత్రాలను వాటి సంబంధిత ప్రాంతాలతో జతపరచండి:\n1. అంకలేశ్వర్ - i. అస్సాం\n2. నహర్కటియా - ii. గుజరాత్\n3. ముంబై హై - iii. ముంబైకి 160 కి.మీ దూరంలో",
+    "en": "Match the following oilfields with their respective locations:\n1. Ankaleshwar - i. Assam\n2. Naharkatiya - ii. Gujarat\n3. Mumbai High - iii. 160 km off Mumbai"
+   },
+   "options": {
+    "te": [
+     "1-i, 2-ii, 3-iii",
+     "1-ii, 2-i, 3-iii",
+     "1-ii, 2-iii, 3-i",
+     "1-iii, 2-ii, 3-i"
+    ],
+    "en": [
+     "1-i, 2-ii, 3-iii",
+     "1-ii, 2-i, 3-iii",
+     "1-ii, 2-iii, 3-i",
+     "1-iii, 2-ii, 3-i"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, అంకలేశ్వర్ గుజరాత్‌లో ఉంది, నహర్కటియా అస్సాంలో ఉంది మరియు ముంబై హై ముంబైకి 160 కి.మీ దూరంలో ఉంది.",
+    "en": "Ankaleshwar is in Gujarat, Naharkatiya is in Assam, and Mumbai High is located 160 km off Mumbai."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T21-0022",
+   "section": {
+    "te": "Rock composition",
+    "en": "Rock composition"
+   },
+   "q": {
+    "te": "కేవలం ఒకే ఒక ఖనిజంతో కూడిన శిలకు ఈ క్రింది వాటిలో ఏది ఉదాహరణ?",
+    "en": "Which of the following is an example of a rock that consists of only a single mineral?"
+   },
+   "options": {
+    "te": [
+     "గ్రానైట్",
+     "సున్నపురాయి",
+     "బసాల్ట్",
+     "ఇసుక రాయి"
+    ],
+    "en": [
+     "Granite",
+     "Limestone",
+     "Basalt",
+     "Sandstone"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "చాలా శిలలు అనేక ఖనిజాల కలయికతో ఉన్నప్పటికీ, సున్నపురాయిని మాత్రం ఒకే ఖనిజంతో కూడిన శిలగా ప్రత్యేకంగా పేర్కొన్నారు.",
+    "en": "While most rocks are combinations of several minerals, limestone is specifically mentioned as a rock consisting of a single mineral."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T21-0133",
+   "section": {
+    "te": "North-Western Region",
+    "en": "North-Western Region"
+   },
+   "q": {
+    "te": "భారతదేశంలోని వాయువ్య ఖనిజ ప్రాంతంలో, ఖనిజాలు ప్రాథమికంగా ఏ శిలా వ్యవస్థతో సంబంధం కలిగి ఉన్నాయి?",
+    "en": "In the North-Western mineral region of India, minerals are primarily associated with which rock system?"
+   },
+   "options": {
+    "te": [
+     "కడప వ్యవస్థ",
+     "ధార్వార్ వ్యవస్థ",
+     "గోండ్వానా వ్యవస్థ",
+     "వింధ్య వ్యవస్థ"
+    ],
+    "en": [
+     "Cuddapah system",
+     "Dharwar system",
+     "Gondwana system",
+     "Vindhyan system"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వాయువ్య ప్రాంతంలోని (రాజస్థాన్ మరియు గుజరాత్) ఖనిజాలు ధార్వార్ శిలా వ్యవస్థతో సంబంధం కలిగి ఉన్నాయి.",
+    "en": "The minerals in the North-Western region (Rajasthan and Gujarat) are associated with the Dharwar system of rocks."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T21-0065",
+   "section": {
+    "te": "Mica production",
+    "en": "Mica production"
+   },
+   "q": {
+    "te": "భారతదేశంలో అభ్రకం (Mica) ఉత్పత్తిలో అగ్రగామిగా ఉన్న బెల్ట్ ఏది?",
+    "en": "Which of the following belts is the leading producer of mica in India?"
+   },
+   "options": {
+    "te": [
+     "నెల్లూరు బెల్ట్",
+     "కోడెర్మా గయ - హజారీబాగ్ బెల్ట్",
+     "బైలాడిలా బెల్ట్",
+     "అజ్మీర్ బెల్ట్"
+    ],
+    "en": [
+     "Nellore belt",
+     "Koderma Gaya – Hazaribagh belt",
+     "Bailadila belt",
+     "Ajmer belt"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "జార్ఖండ్‌లోని కోడెర్మా గయ - హజారీబాగ్ బెల్ట్ అభ్రకం ఉత్పత్తిలో అగ్రగామిగా గుర్తించబడింది.",
+    "en": "The Koderma Gaya – Hazaribagh belt in Jharkhand is identified as the leading producer of mica."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T21-0179",
+   "section": {
+    "te": "Uranium Rock Type",
+    "en": "Uranium Rock Type"
+   },
+   "q": {
+    "te": "భారతదేశంలోని యురేనియం నిక్షేపాలు ప్రాథమికంగా ఈ క్రింది ఏ శిలా వ్యవస్థలతో సంబంధం కలిగి ఉన్నాయి?",
+    "en": "Uranium deposits in India are primarily associated with which of the following rock systems?"
+   },
+   "options": {
+    "te": [
+     "కడప శిలలు",
+     "ధార్వార్ శిలలు",
+     "టెర్షియరీ శిలలు",
+     "గోండ్వానా శిలలు"
+    ],
+    "en": [
+     "Cuddapah rocks",
+     "Dharwar rocks",
+     "Tertiary rocks",
+     "Gondwana rocks"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, భారతదేశంలోని యురేనియం నిక్షేపాలు ధార్వార్ శిలలలో కనిపిస్తాయి.",
+    "en": "Uranium deposits in India occur in the Dharwar rocks."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T21-0081",
+   "section": {
+    "te": "Petroleum Industry",
+    "en": "Petroleum Industry"
+   },
+   "q": {
+    "te": "సింథటిక్ టెక్స్టైల్స్ మరియు ఎరువుల పరిశ్రమలకు 'నోడల్ పరిశ్రమ' (nodal industry) గా కింది వాటిలో దేనిని వర్ణిస్తారు?",
+    "en": "Which of the following is described as a 'nodal industry' for synthetic textiles and fertilizers?"
+   },
+   "options": {
+    "te": [
+     "ఇనుము మరియు ఉక్కు కర్మాగారాలు",
+     "పెట్రోలియం రిఫైనరీలు",
+     "బొగ్గు గనులు",
+     "జలవిద్యుత్ కేంద్రాలు"
+    ],
+    "en": [
+     "Iron and steel plants",
+     "Petroleum refineries",
+     "Coal mining",
+     "Hydroelectric plants"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పెట్రోలియం రిఫైనరీలు టెక్స్టైల్స్, ఎరువులు మరియు రసాయనాలకు అవసరమైన ముడి పదార్థాలను అందిస్తాయి, తద్వారా నోడల్ పరిశ్రమగా పనిచేస్తాయి.",
+    "en": "Petroleum refineries provide raw materials for textiles, fertilizers, and chemicals, thus acting as a nodal industry."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T21-0023",
+   "section": {
+    "te": "Petroleum products",
+    "en": "Petroleum products"
+   },
+   "q": {
+    "te": "సాధారణ టూత్‌పేస్ట్ కిట్‌లోని ఏ భాగాలు పెట్రోలియం నుండి పొందిన ప్లాస్టిక్‌లను ఉపయోగించి తయారు చేయబడతాయి?",
+    "en": "Which components of a typical toothpaste kit are manufactured using plastics derived from petroleum?"
+   },
+   "options": {
+    "te": [
+     "టూత్ బ్రష్",
+     "పేస్ట్ ఉన్న ట్యూబ్",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "The toothbrush",
+     "The tube containing the paste",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "టూత్ బ్రష్ మరియు ట్యూబ్ రెండూ పెట్రోలియం నుండి సేకరించిన ప్లాస్టిక్‌లతో తయారు చేయబడతాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Both the toothbrush and the tube are made of plastics sourced from petroleum."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T21-0160",
+   "section": {
+    "te": "Manganese in Maharashtra",
+    "en": "Manganese in Maharashtra"
+   },
+   "q": {
+    "te": "మహారాష్ట్రలోని క్రింది జిల్లాలలో దేనిలో మాంగనీస్ తవ్వబడదు?",
+    "en": "In which of the following districts of Maharashtra is manganese NOT mined?"
+   },
+   "options": {
+    "te": [
+     "రత్నగిరి",
+     "భండారా",
+     "నాగ్‌పూర్",
+     "ఝబువా"
+    ],
+    "en": [
+     "Ratnagiri",
+     "Bhandara",
+     "Nagpur",
+     "Jhabua"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మహారాష్ట్రలోని నాగ్‌పూర్, భండారా మరియు రత్నగిరిలో మాంగనీస్ తవ్వబడుతుంది. ఝబువా మధ్యప్రదేశ్‌లో ఉంది.",
+    "en": "Manganese is mined in Nagpur, Bhandara, and Ratnagiri in Maharashtra. Jhabua is located in Madhya Pradesh."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T21-0083",
+   "section": {
+    "te": "Oil Production",
+    "en": "Oil Production"
+   },
+   "q": {
+    "te": "భారతదేశంలో అత్యంత పురాతనమైన చమురు ఉత్పత్తి రాష్ట్రం ఏది?",
+    "en": "Which state is the oldest oil-producing state in India?"
+   },
+   "options": {
+    "te": [
+     "అస్సాం",
+     "మహారాష్ట్ర",
+     "గుజరాత్",
+     "తమిళనాడు"
+    ],
+    "en": [
+     "Assam",
+     "Maharashtra",
+     "Gujarat",
+     "Tamil Nadu"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "దేశంలో అస్సాం అత్యంత పురాతనమైన చమురు ఉత్పత్తి రాష్ట్రమని పాఠ్యాంశం స్పష్టంగా పేర్కొంది.",
+    "en": "Assam is the oldest oil-producing state in the country."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T21-0094",
+   "section": {
+    "te": "Peat Coal",
+    "en": "Peat Coal"
+   },
+   "q": {
+    "te": "పీట్ (Peat) కు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఇది చిత్తడి నేలల్లో కుళ్ళిపోతున్న మొక్కల ద్వారా ఉత్పత్తి అవుతుంది.\n2. ఇది అధిక కార్బన్ కంటెంట్ మరియు అధిక తాపన సామర్థ్యాన్ని కలిగి ఉంటుంది.\n3. ఇది అధిక తేమను కలిగి ఉండటం దీని లక్షణం.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding Peat:\n1. It is produced by decaying plants in swamps.\n2. It has high carbon content and high heating capacity.\n3. It is characterized by high moisture content.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పీట్ తక్కువ కార్బన్ మరియు తక్కువ తాపన సామర్థ్యాన్ని కలిగి ఉంటుంది, కానీ అధిక తేమను కలిగి ఉంటుంది. ఇది చిత్తడి నేలల్లో కుళ్ళిపోతున్న మొక్కల నుండి ఏర్పడుతుంది.",
+    "en": "Peat has low carbon and low heating capacity, but high moisture content. It is formed from decaying plants in swamps."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T21-0074",
+   "section": {
+    "te": "Mineral conservation",
+    "en": "Mineral conservation"
+   },
+   "q": {
+    "te": "ఖనిజ వనరులను సంరక్షించడానికి పేర్కొన్న చర్యలు ఏవి?\nA. లోహాల పునరుద్ధరణ (Recycling)\nB. స్క్రాప్ లోహాలను ఉపయోగించడం\nC. ప్రత్యామ్నాయాలను ఉపయోగించడం",
+    "en": "Which of the following are steps mentioned for conserving mineral resources?\nA. Recycling of metals\nB. Using scrap metals\nC. Using substitutes"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఖనిజాలను సంరక్షించడానికి రీసైక్లింగ్, స్క్రాప్ వాడకం మరియు ప్రత్యామ్నాయాలను కనుగొనడం వంటి మార్గాలను పాఠ్యభాగం సూచిస్తుంది.",
+    "en": "The text suggests recycling, using scrap, and finding substitutes as methods to conserve minerals."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T21-0005",
+   "section": {
+    "te": "Bhadla Solar Park",
+    "en": "Bhadla Solar Park"
+   },
+   "q": {
+    "te": "భారతదేశ సౌర ఆశయాలకు మరియు సాంప్రదాయేతర వనరుల వైపు పరివర్తనకు ప్రతీకగా ఏ సోలార్ పార్క్ పేర్కొనబడింది?",
+    "en": "Which solar park is highlighted as a symbol of India’s solar ambitions and its transition toward renewable alternatives?"
+   },
+   "options": {
+    "te": [
+     "పావగడ సోలార్ పార్క్",
+     "కర్నూలు అల్ట్రా సోలార్ పార్క్",
+     "రేవా సోలార్ పార్క్",
+     "భద్లా సోలార్ పార్క్"
+    ],
+    "en": [
+     "Pavagada Solar Park",
+     "Kurnool Ultra Solar Park",
+     "Rewa Solar Park",
+     "Bhadla Solar Park"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశం సాంప్రదాయ ఇంధన వనరుల నుండి పునరుత్పాదక వనరుల వైపు మారడాన్ని ప్రదర్శించే ప్రతీకగా భద్లా సోలార్ పార్క్ నిలుస్తుంది.",
+    "en": "The Bhadla Solar Park is identified as a symbol of India’s solar ambitions, demonstrating the transition to renewable alternatives."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T21-0183",
+   "section": {
+    "te": "Tidal Energy Potential",
+    "en": "Tidal Energy Potential"
+   },
+   "q": {
+    "te": "భారతదేశంలోని ఏ తీరం వెంబడి పెద్ద అలలు (Tidal waves) సంభవిస్తాయి, ఇది తరంగ శక్తి అభివృద్ధికి గొప్ప సామర్థ్యాన్ని అందిస్తుంది?",
+    "en": "Along which coast of India are large tidal waves known to occur, providing significant potential for tidal energy development?"
+   },
+   "options": {
+    "te": [
+     "కోరమాండల్ తీరం",
+     "ఉత్కల్ తీరం",
+     "తూర్పు తీరం",
+     "పశ్చిమ తీరం"
+    ],
+    "en": [
+     "Coromandel coast",
+     "Utkal coast",
+     "East coast",
+     "West coast"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశ పశ్చిమ తీరం వెంబడి పెద్ద అలలు సంభవిస్తాయని, ఇది తరంగ శక్తికి గొప్ప సామర్థ్యాన్ని ఇస్తుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Large tidal waves occur along the west coast of India, giving it great potential for tidal energy."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T21-0087",
+   "section": {
+    "te": "Bituminous Coal",
+    "en": "Bituminous Coal"
+   },
+   "q": {
+    "te": "బ్లాస్ట్ ఫర్నేస్‌లలో ఇనుమును కరిగించడానికి ఏ రకమైన బొగ్గుకు ప్రత్యేక విలువ ఉంది?",
+    "en": "Which specific type of coal is highly valued for smelting iron in blast furnaces?"
+   },
+   "options": {
+    "te": [
+     "పీట్",
+     "లిగ్నైట్",
+     "మెటలర్జికల్ బొగ్గు",
+     "ఆంత్రాసైట్"
+    ],
+    "en": [
+     "Peat",
+     "Lignite",
+     "Metallurgical coal",
+     "Anthracite"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మెటలర్జికల్ బొగ్గు, ఇది ఒక రకమైన అధిక నాణ్యత గల బిటుమినస్ బొగ్గు, ఇనుమును కరిగించడానికి ఉపయోగించబడుతుంది.",
+    "en": "Metallurgical coal, which is a high-grade bituminous coal, is used for smelting iron."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T21-0045",
+   "section": {
+    "te": "Hematite iron content",
+    "en": "Hematite iron content"
+   },
+   "q": {
+    "te": "హేమటైట్ ఖనిజంలో సాధారణంగా ఉండే ఇనుము శాతం ఎంత?",
+    "en": "What is the typical iron content range found in Hematite ore?"
+   },
+   "options": {
+    "te": [
+     "90 శాతం కంటే ఎక్కువ",
+     "70 శాతం వరకు",
+     "30-40 శాతం",
+     "50-60 శాతం"
+    ],
+    "en": [
+     "More than 90 per cent",
+     "Up to 70 per cent",
+     "30-40 per cent",
+     "50-60 per cent"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "హేమటైట్ అనేది పరిశ్రమలలో అత్యధికంగా ఉపయోగించే ఇనుప ఖనిజం. ఇది 50% నుండి 60% వరకు ఇనుమును కలిగి ఉంటుంది.",
+    "en": "Hematite is the most used industrial iron ore and contains between 50% and 60% iron, which is lower than magnetite's 70%."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T21-0028",
+   "section": {
+    "te": "Mineral definition",
+    "en": "Mineral definition"
+   },
+   "q": {
+    "te": "భూవిజ్ఞాన శాస్త్రవేత్తలు ఇచ్చిన నిర్వచనం ప్రకారం, ఖనిజం తప్పనిసరిగా ఇలా ఉండాలి:",
+    "en": "According to the definition provided by geologists, a mineral must be a:"
+   },
+   "options": {
+    "te": [
+     "సంక్లిష్ట నిర్మాణంతో మానవ నిర్మిత పదార్థం",
+     "నిర్వచించదగిన అంతర్గత నిర్మాణంతో కూడిన సజాతీయ, సహజంగా లభించే పదార్థం",
+     "ద్రవ రూపంలో మాత్రమే లభించే విజాతీయ పదార్థం",
+     "పారిశ్రామిక ప్రక్రియల ద్వారా మాత్రమే సృష్టించబడిన పదార్థం"
+    ],
+    "en": [
+     "Man-made substance with a complex structure",
+     "Homogenous, naturally occurring substance with a definable internal structure",
+     "Heterogeneous substance found only in liquid form",
+     "Substance created only through industrial processes"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఖనిజం అంటే నిర్వచించదగిన అంతర్గత నిర్మాణంతో కూడిన సజాతీయ, సహజంగా లభించే పదార్థం అని పాఠ్యభాగం ఒక నిర్దిష్ట శాస్త్రీయ నిర్వచనాన్ని ఇస్తుంది.",
+    "en": "The text provides a specific scientific definition of a mineral as a homogenous, naturally occurring substance with a definable internal structure."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T21-0051",
+   "section": {
+    "te": "Bauxite and Aluminium",
+    "en": "Bauxite and Aluminium"
+   },
+   "q": {
+    "te": "ఏ బంకమట్టి వంటి పదార్థం నుండి అల్యూమినా, మరియు తదనంతరం అల్యూమినియం పొందబడుతుంది?",
+    "en": "From which clay-like substance is alumina, and subsequently aluminium, obtained?"
+   },
+   "options": {
+    "te": [
+     "సున్నపురాయి",
+     "జిప్సం",
+     "బాక్సైట్",
+     "అభ్రకం (Mica)"
+    ],
+    "en": [
+     "Limestone",
+     "Gypsum",
+     "Bauxite",
+     "Mica"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అల్యూమినియం అల్యూమినా నుండి పొందబడుతుంది, ఇది బాక్సైట్ అనే బంకమట్టి వంటి పదార్థం నుండి తీయబడుతుంది.",
+    "en": "Aluminium is obtained from alumina, which is extracted from bauxite, a clay-like substance."
+   }
+  }
+ ]
+}

@@ -1,0 +1,942 @@
+{
+ "id": "geo-17-g1-3",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Monsoon – క్విజ్ 3",
+  "en": "Monsoon – Quiz 3"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T17-0108",
+   "section": {
+    "te": "Monsoon trough extent",
+    "en": "Monsoon trough extent"
+   },
+   "q": {
+    "te": "వేసవి కాలంలో, విస్తరించిన అల్పపీడన రుతుపవన ద్రోణి వాయువ్యంలోని థార్ ఎడారి నుండి తూర్పు-ఆగ్నేయంలో ఏ ప్రాంతం వరకు విస్తరించి ఉంటుంది?",
+    "en": "During the hot weather season, the elongated low-pressure monsoon trough roughly extends from the Thar desert in the northwest to which region in the east-southeast?"
+   },
+   "options": {
+    "te": [
+     "రాన్ ఆఫ్ కచ్ మరియు మాల్వా పీఠభూమి",
+     "పాట్నా మరియు ఛోటానాగ్‌పూర్ పీఠభూమి",
+     "భువనేశ్వర్ మరియు దండకారణ్యం",
+     "సుందర్‌బన్స్ మరియు షిల్లాంగ్ పీఠభూమి"
+    ],
+    "en": [
+     "Rann of Kachchh and Malwa plateau",
+     "Patna and Chotanagpur plateau",
+     "Bhubaneswar and Dandakaranya",
+     "Sundarbans and Shillong plateau"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అల్పపీడన రుతుపవన ద్రోణి వాయువ్యంలోని థార్ ఎడారి నుండి తూర్పు-ఆగ్నేయంలోని పాట్నా మరియు ఛోటానాగ్‌పూర్ పీఠభూమి వరకు విస్తరించి ఉంటుంది.",
+    "en": "The elongated low-pressure monsoon trough extends over the Thar desert in the north-west to Patna and Chotanagpur plateau in the east-southeast."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T17-0106",
+   "section": {
+    "te": "Northeast monsoon rainfall",
+    "en": "Northeast monsoon rainfall"
+   },
+   "q": {
+    "te": "అక్టోబర్ మరియు నవంబర్ నెలల్లో, ఈశాన్య రుతుపవనాలు బంగాళాఖాతం మీదుగా వెళ్లేటప్పుడు తేమను గ్రహించి క్రింది ఏ ప్రాంతాలలో భారీ వర్షపాతాన్ని కలుగజేస్తాయి?\n1. తమిళనాడు తీరం\n2. దక్షిణ ఆంధ్రప్రదేశ్\n3. ఆగ్నేయ కర్ణాటక\n4. ఆగ్నేయ కేరళ\nక్రింది కోడ్‌లను ఉపయోగించి సరైన సమాధానాన్ని ఎంచుకోండి:",
+    "en": "During October and November, the northeast monsoon picks up moisture over the Bay of Bengal and causes torrential rainfall in which of the following regions?\n1. Tamil Nadu coast\n2. Southern Andhra Pradesh\n3. Southeast Karnataka\n4. Southeast Kerala\nSelect the correct answer using the codes given below:"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "1, 2 మరియు 3 మాత్రమే",
+     "1, 2, 3 మరియు 4",
+     "2, 3 మరియు 4 మాత్రమే"
+    ],
+    "en": [
+     "1 and 2 only",
+     "1, 2 and 3 only",
+     "1, 2, 3 and 4",
+     "2, 3 and 4 only"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఈశాన్య రుతుపవనాలు బంగాళాఖాతం మీదుగా ప్రయాణిస్తూ తేమను సేకరించి తమిళనాడు తీరం, దక్షిణ ఆంధ్రప్రదేశ్, ఆగ్నేయ కర్ణాటక మరియు ఆగ్నేయ కేరళలలో భారీ వర్షాన్ని కురిపిస్తాయి.",
+    "en": "The northeast monsoon crossing over the Bay of Bengal causes torrential rainfall over Tamil Nadu coast, southern Andhra Pradesh, southeast Karnataka, and southeast Kerala."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T17-0069",
+   "section": {
+    "te": "Latitudinal climatic zones",
+    "en": "Latitudinal climatic zones"
+   },
+   "q": {
+    "te": "భారతదేశ మధ్యభాగం గుండా తూర్పు-పడమరలుగా వెళుతూ, దేశాన్ని ఉత్తర ఉప-ఉష్ణమండల/సమశీతోష్ణ మండల ప్రాంతంగా మరియు దక్షిణ ఉష్ణమండల ప్రాంతంగా విభజిస్తున్న రేఖ ఏది?",
+    "en": "Which imaginary line passes through the central part of India dividing it into a northern sub-tropical/temperate zone and a southern tropical zone?"
+   },
+   "options": {
+    "te": [
+     "మకర రేఖ",
+     "కర్కట రేఖ",
+     "భారత ప్రామాణిక రేఖాంశం",
+     "భూమధ్యరేఖ"
+    ],
+    "en": [
+     "Tropic of Capricorn",
+     "Tropic of Cancer",
+     "Standard Meridian of India",
+     "Equator"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కర్కట రేఖ భారతదేశ మధ్యభాగం గుండా వెళుతుంది. దీనికి ఉత్తరాన ఉన్న ప్రాంతం ఉప-ఉష్ణమండలంలోను, దక్షిణాన ఉన్న ప్రాంతం ఉష్ణమండలంలోను ఉంటాయి.",
+    "en": "The Tropic of Cancer passes through central India in an east-west direction, placing northern India in the sub-tropical and temperate zone and southern India in the tropical zone."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T17-0107",
+   "section": {
+    "te": "ITCZ position in July",
+    "en": "ITCZ position in July"
+   },
+   "q": {
+    "te": "ఉపఖండం తీవ్రంగా వేడెక్కడం వల్ల జూలైలో ఇంటర్ ట్రాపికల్ కన్వర్జెన్స్ జోన్ (ITCZ) ఉత్తరం వైపు కదిలి ఏ అక్షాంశం వద్ద కేంద్రీకృతమవుతుంది?",
+    "en": "In July, due to intense heating of the subcontinent, the Inter Tropical Convergence Zone (ITCZ) moves northwards and occupies a position centred at which latitude?"
+   },
+   "options": {
+    "te": [
+     "15° ఉత్తర అక్షాంశం",
+     "25° ఉత్తర అక్షాంశం",
+     "20° ఉత్తర అక్షాంశం",
+     "30° ఉత్తర అక్షాంశం"
+    ],
+    "en": [
+     "15°N",
+     "25°N",
+     "20°N",
+     "30°N"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఉపఖండం వేడెక్కడం వల్ల జూలై నెలలో ITCZ ఉత్తరం వైపుకు జరిగి 25° ఉత్తర అక్షాంశం వద్ద కేంద్రీకృతమై ఉంటుంది.",
+    "en": "In July, the heating of the subcontinent causes the ITCZ to move northwards, occupying a position centred at 25°N."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T17-0067",
+   "section": {
+    "te": "Elements of weather",
+    "en": "Elements of weather"
+   },
+   "q": {
+    "te": "వివిధ కాలాలలో వాతావరణ పరిస్థితుల్లోని వైవిధ్యాలు క్రింది ఏ అంశాలలో మార్పుల వల్ల సంభవిస్తాయి?",
+    "en": "Variations in weather conditions during different seasons occur due to changes in which of the following elements?"
+   },
+   "options": {
+    "te": [
+     "ఉష్ణోగ్రత మరియు పీడనం",
+     "గాలి దిశ మరియు వేగం",
+     "తేమ మరియు అవపాతం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Temperature and pressure",
+     "Wind direction and velocity",
+     "Humidity and precipitation",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఉష్ణోగ్రత, పీడనం, గాలి దిశ, వేగం, తేమ మరియు వర్షపాతం వంటి వాతావరణ మూలకాలలోని మార్పుల వల్ల కాలాల వారీగా తేడాలు వస్తాయి.",
+    "en": "The elements of weather include temperature, pressure, wind direction and velocity, humidity, and precipitation."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T17-0012",
+   "section": {
+    "te": "Tropical Climate Factors",
+    "en": "Tropical Climate Factors"
+   },
+   "q": {
+    "te": "తూర్పు భారతదేశం మరియు దక్షిణ ద్వీపకల్పంలో, ఉష్ణమండల శీతోష్ణస్థితి యొక్క నిర్దిష్ట తడి మరియు పొడి కాలాలను ఏవి నియంత్రిస్తాయి?",
+    "en": "In Eastern India and the southern peninsula, what controls the distinct wet and dry periods of the tropical climate?"
+   },
+   "options": {
+    "te": [
+     "హిమాలయ మంచు",
+     "దక్కన్ పీఠభూమి ఎత్తు",
+     "రుతుపవనాలు (Monsoon winds)",
+     "సముద్ర ప్రవాహాలు"
+    ],
+    "en": [
+     "Himalayan snow",
+     "Altitude of the Deccan Plateau",
+     "Monsoon winds",
+     "Ocean currents"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఈ ప్రాంతాల్లోని తడి మరియు పొడి కాలాలు రుతుపవనాల ద్వారా నియంత్రించబడతాయని ఆధారం పేర్కొంది.",
+    "en": "The wet and dry periods in these regions are controlled by monsoon winds."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T17-0055",
+   "section": {
+    "te": "Origin of cold northern winds",
+    "en": "Origin of cold northern winds"
+   },
+   "q": {
+    "te": "హిమాలయాలు భారత ఉపఖండాన్ని రక్షించే అతిశీతల ఉత్తర పవనాలు క్రింది వాటిలో దేనికి సమీపంలో ఉద్భవిస్తాయి?",
+    "en": "The cold and chilly northern winds against which the Himalayas shield the Indian subcontinent originate near which of the following?"
+   },
+   "options": {
+    "te": [
+     "కాスピయన్ సముద్రం",
+     "కర్కట రేఖ",
+     "ఆర్కిటిక్ వలయం (Arctic circle)",
+     "మధ్యధరా సముద్రం"
+    ],
+    "en": [
+     "Caspian Sea",
+     "Tropic of Cancer",
+     "Arctic circle",
+     "Mediterranean Sea"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "హిమాలయాలు అడ్డుకునే ఈ అతిశీతల పవనాలు ఆర్కిటిక్ వలయం వద్ద ఉద్భవించి మధ్య మరియు తూర్పు ఆసియా మీదుగా వీస్తాయి.",
+    "en": "The cold and chilly winds that the Himalayas block originate near the Arctic circle and blow across central and eastern Asia."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T17-0093",
+   "section": {
+    "te": "Wild El-Nino event year",
+    "en": "Wild El-Nino event year"
+   },
+   "q": {
+    "te": "తీవ్రమైన ఎల్-నినో సంఘటన కారణంగా భారతదేశంలోని చాలా ప్రాంతాలలో నైరుతి ఋతుపవనాల ఆగమనం 5 నుండి 12 రోజుల పాటు ఆలస్యమైన సంవత్సరం ఏది?",
+    "en": "In which year did a wild El-Nino event delay the onset of the southwest monsoon over most parts of India by five to twelve days?"
+   },
+   "options": {
+    "te": [
+     "1990-91",
+     "1982-83",
+     "1998-99",
+     "1987-88"
+    ],
+    "en": [
+     "1990-91",
+     "1982-83",
+     "1998-99",
+     "1987-88"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "1990-91లో సంభవించిన తీవ్రమైన ఎల్-నినో కారణంగా దేశంలో నైరుతి ఋతుపవనాల రాక 5 నుండి 12 రోజులు ఆలస్యమైంది.",
+    "en": "In 1990-91, there was a wild El-Nino event that delayed the onset of the southwest monsoon by 5 to 12 days."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T17-0022",
+   "section": {
+    "te": "Summer Heat Waves",
+    "en": "Summer Heat Waves"
+   },
+   "q": {
+    "te": "వాయువ్య భారతదేశంలో వేసవి వడగాల్పులకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి తూర్పు నుండి వీచే గాలుల వల్ల సంభవిస్తాయి.\n2. ఈ గాలులు అరేబియా మరియు ఆఫ్ఘనిస్తాన్ ఎడారుల మీదుగా ప్రయాణిస్తాయి.\n3. ఇవి పంజాబ్ మరియు హర్యానా వంటి రాష్ట్రాలకు పొడి మరియు వేడి గాలిని తెస్తాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding summer heat waves in North-Western India:\n1. They are caused by winds blowing from the east.\n2. These winds travel over the deserts of Arabia and Afghanistan.\n3. They bring dry and hot air to states like Punjab and Haryana.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1, 2 and 3",
+     "None of the above"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రకటన 1 తప్పు ఎందుకంటే గాలులు పడమర నుండి వీస్తాయి, తూర్పు నుండి కాదు. ప్రకటనలు 2 మరియు 3 మూలం ప్రకారం సరైనవి.",
+    "en": "Statement 1 is wrong because the winds blow from the west, not the east. Statements 2 and 3 are correct as per the source."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T17-0057",
+   "section": {
+    "te": "Tura location and rainfall",
+    "en": "Tura location and rainfall"
+   },
+   "q": {
+    "te": "జైసల్మేర్‌లోని పదేళ్ల వర్షపాతంతో సమానమైన వర్షపాతాన్ని ఒకే రోజులో పొందే అవకాశం ఉన్న తురా (Tura) ఏ కొండలలో ఉంది?",
+    "en": "In which hills is Tura situated, which can receive an amount of rainfall in a single day equal to 10 years of rainfall at Jaisalmer?"
+   },
+   "options": {
+    "te": [
+     "గారో కొండలు",
+     "మికిర్ కొండలు",
+     "ఖాసీ కొండలు",
+     "జైంతియా కొండలు"
+    ],
+    "en": [
+     "Garo Hills",
+     "Mikir Hills",
+     "Khasi Hills",
+     "Jaintia Hills"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "తురా మేఘాలయలోని గారో కొండలలో ఉంది, ఇక్కడ ఒక్క రోజులో కురిసే వర్షపాతం జైసల్మేర్ పదేళ్ల వర్షపాతంతో సమానం.",
+    "en": "Tura is situated in the Garo Hills of Meghalaya, where a single day's rainfall can equal 10 years of rainfall at Jaisalmer."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T17-0127",
+   "section": {
+    "te": "Cyclonic depressions origin",
+    "en": "Cyclonic depressions origin"
+   },
+   "q": {
+    "te": "తిరోగమన రుతుపవనాల కాలంలో తూర్పు తీరంలో విస్తారమైన వర్షాలకు కారణమయ్యే తుఫాను అల్పపీడనాలు ఏ సముద్రంపై ఉద్భవిస్తాయి?",
+    "en": "During the retreating monsoon season, the cyclonic depressions causing widespread rain on the eastern coast originate over which water body?"
+   },
+   "options": {
+    "te": [
+     "మన్నార్ గల్ఫ్",
+     "లక్షదీవుల సముద్రం",
+     "అండమాన్ సముద్రం",
+     "అరేబియా సముద్రం"
+    ],
+    "en": [
+     "Gulf of Mannar",
+     "Lakshadweep Sea",
+     "Andaman Sea",
+     "Arabian Sea"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఈ తుఫాను అల్పపీడనాలు అండమాన్ సముద్రంలో పుట్టి దక్షిణ ద్వీపకల్ప తూర్పు తీరాన్ని దాటుతాయి.",
+    "en": "These cyclonic depressions originate over the Andaman Sea and cross the eastern coast of the southern Peninsula."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T17-0112",
+   "section": {
+    "te": "Evening dust storms",
+    "en": "Evening dust storms"
+   },
+   "q": {
+    "te": "మే నెలలో, తీవ్రమైన వేడి నుండి తాత్కాలిక ఉపశమనాన్ని కలిగించే సాయంత్రపు ధూళి తుఫానులు క్రింది ఏ ప్రాంతాలలో చాలా సాధారణం?",
+    "en": "During the month of May, evening dust storms that bring temporary respite from oppressive heat are very common in which of the following regions?"
+   },
+   "options": {
+    "te": [
+     "పంజాబ్ మరియు హర్యానా",
+     "తూర్పు రాజస్థాన్ మరియు ఉత్తరప్రదేశ్",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Punjab and Haryana",
+     "Eastern Rajasthan and Uttar Pradesh",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మే నెలలో పంజాబ్, హర్యానా, తూర్పు రాజస్థాన్ మరియు ఉత్తరప్రదేశ్‌లలో సాయంత్రపు ధూళి తుఫానులు సర్వసాధారణం.",
+    "en": "During May, evening dust storms are very common in Punjab, Haryana, Eastern Rajasthan, and Uttar Pradesh."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T17-0070",
+   "section": {
+    "te": "ITCZ characteristics",
+    "en": "ITCZ characteristics"
+   },
+   "q": {
+    "te": "అంతర అయనరేఖా కలయిక ప్రాంతం (ITCZ) కు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది భూమధ్యరేఖ వద్ద ఉన్న అల్పపీడన ప్రాంతం.\n2. ఇది వ్యాపార పవనాలు కేంద్రీకృతమై గాలి క్రిందికి దిగే (descend) ప్రాంతం.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the Inter Tropical Convergence Zone (ITCZ):\n1. It is a low pressure zone located at the equator.\n2. It is a zone where trade winds converge and air tends to descend.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ITCZ అనేది భూమధ్యరేఖ వద్ద వ్యాపార పవనాలు కలిసే అల్పపీడన ప్రాంతం, మరియు ఇక్కడ గాలి పైకి లేస్తుంది (ascend) కానీ క్రిందికి దిగదు.",
+    "en": "The ITCZ is a low pressure zone at the equator where trade winds converge, but it is a zone where air tends to ascend, not descend."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T17-0082",
+   "section": {
+    "te": "Jet stream dynamics",
+    "en": "Jet stream dynamics"
+   },
+   "q": {
+    "te": "నిశ్చితార్థం (A): ఉత్తర భారత మైదానం నుండి పశ్చిమ జెట్ ప్రవాహం ఉపసంహరించుకున్న తర్వాతే 15°N అక్షాంశం వద్ద తూర్పు జెట్ ప్రవాహం ఏర్పడుతుంది.\nహేతువు (R): భారతదేశంలో రుతుపవనాల విస్ఫోటనానికి మధ్య భారతదేశంపైకి పశ్చిమ జెట్ ప్రవాహం ఆకస్మికంగా రావడమే కారణం.",
+    "en": "Assertion (A): The easterly jet stream sets in along 15°N latitude only after the westerly jet stream withdraws from the north Indian plain.\nReason (R): The burst of the monsoon in India is held to be caused by the sudden arrival of the westerly jet stream over central India."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ సరైనవి మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ సరైనవి, కానీ A కి R సరైన వివరణ కాదు",
+     "A సరైనది, కానీ R తప్పు",
+     "A తప్పు, కానీ R సరైనది"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true, but R is not the correct explanation of A",
+     "A is true, but R is false",
+     "A is false, but R is true"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "A సరైన ప్రకటన, కానీ R తప్పు. ఎందుకంటే భారతదేశంలో రుతుపవనాల విస్ఫోటనానికి పశ్చిమ జెట్ ప్రవాహం కాదు, తూర్పు జెట్ ప్రవాహం కారణం.",
+    "en": "Assertion is true, but Reason is false because it is the easterly jet stream (not the westerly jet stream) that is held responsible for the burst of the monsoon in India."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T17-0065",
+   "section": {
+    "te": "Thar desert night temperatures",
+    "en": "Thar desert night temperatures"
+   },
+   "q": {
+    "te": "థార్ ఎడారిలో పగటి ఉష్ణోగ్రత దాదాపు 50°C ఉంటే, రాత్రి వేళల్లో అది గణనీయంగా ఏ స్థాయికి పడిపోవచ్చు?",
+    "en": "In the Thar desert, if the daytime temperature touches around 50°C, to what range may it drop down considerably at night?"
+   },
+   "options": {
+    "te": [
+     "5°C–10°C",
+     "15°C–20°C",
+     "25°C–30°C",
+     "35°C–40°C"
+    ],
+    "en": [
+     "5°C–10°C",
+     "15°C–20°C",
+     "25°C–30°C",
+     "35°C–40°C"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "థార్ ఎడారిలో పగటి ఉష్ణోగ్రత 50°C గా నమోదైనప్పటికీ, రాత్రికి అది గణనీయంగా 15°C-20°C వరకు పడిపోతుంది.",
+    "en": "In the Thar desert, the temperature can fluctuate sharply from around 50°C during the day to 15°C–20°C at night."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T17-0005",
+   "section": {
+    "te": "Deccan Plateau Climate",
+    "en": "Deccan Plateau Climate"
+   },
+   "q": {
+    "te": "భారతదేశంలోని ఏ ప్రాంతం వేడి వేసవి, స్వల్ప శీతాకాలం మరియు సాధారణ వర్షపాతంతో కూడిన అర్ధ-శుష్క (semi-arid) శీతోష్ణస్థితిని కలిగి ఉంటుంది?",
+    "en": "Which region in India is characterized by a semi-arid climate with hot summers, mild winters, and moderate rainfall?"
+   },
+   "options": {
+    "te": [
+     "థార్ ఎడారి",
+     "పశ్చిమ తీర ప్రాంతం",
+     "మధ్య దక్కన్ పీఠభూమి",
+     "హిమాలయ పర్వతాలు"
+    ],
+    "en": [
+     "Thar Desert",
+     "Western coastal strip",
+     "Central Deccan Plateau",
+     "Himalayan mountains"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మధ్య దక్కన్ పీఠభూమి ఇటువంటి కాలానుగుణ లక్షణాలతో కూడిన అర్ధ-శుష్క శీతోష్ణస్థితిని కలిగి ఉంటుందని వివరించబడింది.",
+    "en": "The central Deccan Plateau is described as having a semi-arid climate with these specific seasonal characteristics."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T17-0075",
+   "section": {
+    "te": "Burst of monsoon mechanism",
+    "en": "Burst of monsoon mechanism"
+   },
+   "q": {
+    "te": "భారతదేశంలో రుతుపవనాల విస్ఫోటనానికి (burst of monsoon) క్రింది వాటిలో ఏది కారణమని భావిస్తారు?",
+    "en": "Which of the following upper-air phenomena is held responsible for the 'burst' of the monsoon in India?"
+   },
+   "options": {
+    "te": [
+     "పశ్చిమ జెట్ ప్రవాహం",
+     "తూర్పు జెట్ ప్రవాహం (Easterly jet stream)",
+     "ఉప-ఉష్ణమండల పశ్చిమ జెట్ ప్రవాహం",
+     "ధ్రువ సరిహద్దు జెట్ ప్రవాహం"
+    ],
+    "en": [
+     "Westerly jet stream",
+     "Easterly jet stream",
+     "Sub-tropical westerly jet stream",
+     "Polar front jet stream"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారతదేశంలో రుతుపవనాల ఆకస్మిక విస్ఫోటనానికి (burst) 15°N అక్షాంశం వెంబడి ఏర్పడే తూర్పు జెట్ ప్రవాహం బాధ్యత వహిస్తుంది.",
+    "en": "The easterly jet stream that sets in along 15°N latitude is held responsible for the burst of the monsoon in India."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T17-0037",
+   "section": {
+    "te": "Traditional Knowledge",
+    "en": "Traditional Knowledge"
+   },
+   "q": {
+    "te": "కొన్ని వర్గాల నమ్మకాల ప్రకారం, కాకులు చెట్ల పైభాగంలో గూళ్లు కట్టుకుంటే అది దేనిని సూచిస్తుంది?",
+    "en": "According to some community beliefs, what does it indicate when crows build their nests high on tree-tops?"
+   },
+   "options": {
+    "te": [
+     "భారీ వర్షపాతం",
+     "ముందస్తు రుతుపవనాలు",
+     "ఆలస్యమైన రుతుపవనాలు",
+     "తక్కువ వర్షపాతం"
+    ],
+    "en": [
+     "Heavy rainfall",
+     "Early monsoon",
+     "Delayed monsoon",
+     "Less rainfall"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "కాకులు చెట్ల పైభాగంలో గూళ్లు కట్టుకోవడం తక్కువ వర్షపాతాన్ని సూచిస్తుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Crows building nests high on tree-tops is believed to indicate less rainfall."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T17-0109",
+   "section": {
+    "te": "Wind direction in summer",
+    "en": "Wind direction in summer"
+   },
+   "q": {
+    "te": "వేసవి కాలంలో, ఉత్తర బెంగాల్ మరియు బీహార్‌లలో ITCZ ద్వారా ఆకర్షించబడే ఉపరితల గాలుల దిశ ఏది?",
+    "en": "During the hot weather season, what is the direction of the surface winds attracted by the ITCZ over north Bengal and Bihar?"
+   },
+   "options": {
+    "te": [
+     "తూర్పు లేదా ఆగ్నేయ దిశ",
+     "వాయువ్య దిశ",
+     "ఈశాన్య దిశ",
+     "నైరుతి దిశ"
+    ],
+    "en": [
+     "Easterly or southeasterly",
+     "Northwesterly",
+     "Northeasterly",
+     "Southwesterly"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఉత్తర బెంగాల్ మరియు బీహార్‌లలో ITCZ స్థానం వల్ల ఆకర్షించబడే ఉపరితల గాలులు తూర్పు లేదా ఆగ్నేయ దిశగా వీస్తాయి.",
+    "en": "Over north Bengal and Bihar, the winds attracted by the ITCZ are easterly or southeasterly."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T17-0121",
+   "section": {
+    "te": "Monsoon wind deflection",
+    "en": "Monsoon wind deflection"
+   },
+   "q": {
+    "te": "మయన్మార్ తీరంలోని ఏ కొండలు బంగాళాఖాత శాఖలోని ఎక్కువ భాగాన్ని భారత ఉపఖండం వైపు మళ్లిస్తాయి?",
+    "en": "Which hills along the coast of Myanmar deflect a big portion of the Bay of Bengal branch towards the Indian subcontinent?"
+   },
+   "options": {
+    "te": [
+     "పెగు కొండలు",
+     "అరకాన్ కొండలు",
+     "చిన్ కొండలు",
+     "షాన్ కొండలు"
+    ],
+    "en": [
+     "Pegu Range",
+     "Arakan Hills",
+     "Chin Hills",
+     "Shan Hills"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మయన్మార్ తీరంలో ఉండే అరకాన్ కొండలు బంగాళాఖాత రుతుపవన శాఖలోని అధిక భాగాన్ని భారత ఉపఖండం వైపు మళ్లిస్తాయి.",
+    "en": "The Arakan Hills along the coast of Myanmar deflect a large portion of the Bay of Bengal branch towards the Indian subcontinent."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T17-0137",
+   "section": {
+    "te": "Rainfall distribution northeast",
+    "en": "Rainfall distribution northeast"
+   },
+   "q": {
+    "te": "ఈశాన్య భారతదేశంలో వర్షపాత విస్తరణకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఉప-హిమాలయ ప్రాంతాలు మరియు మేఘాలయ కొండలలో వర్షపాతం 200 సెం.మీ కంటే ఎక్కువగా ఉంటుంది.\n2. బ్రహ్మపుత్ర లోయ మరియు దానిని ఆనుకుని ఉన్న కొండలలో వర్షపాతం 200 సెం.మీ కంటే తక్కువగా ఉంటుంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding rainfall distribution in northeastern India:\n1. In the sub-Himalayan areas and the hills of Meghalaya, the rainfall exceeds 200 cm.\n2. In the Brahmaputra valley and the adjoining hills, the rainfall is less than 200 cm.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రెండు ప్రకటనలు సరైనవే; ఉప-హిమాలయ ప్రాంతాలు, మేఘాలయ కొండలలో వర్షపాతం 200 సెం.మీ కంటే ఎక్కువ ఉండగా, బ్రహ్మపుత్ర లోయ మరియు సమీప కొండలలో ఇది 200 సెం.మీ కంటే తక్కువగా ఉంటుంది.",
+    "en": "Both statements are correct as rainfall exceeds 200 cm in the sub-Himalayan areas and Meghalaya hills, while in the Brahmaputra valley and adjoining hills it is less than 200 cm."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T17-0072",
+   "section": {
+    "te": "Trade winds crossing equator",
+    "en": "Trade winds crossing equator"
+   },
+   "q": {
+    "te": "ITCZ స్థానచలనం కారణంగా, దక్షిణార్థగోళపు వ్యాపార పవనాలు ఏ రేఖాంశాల మధ్య భూమధ్యరేఖను దాటుతాయి?",
+    "en": "Due to the shift of the ITCZ, between which longitudes do the trade winds of the southern hemisphere cross the equator?"
+   },
+   "options": {
+    "te": [
+     "40°E మరియు 60°E రేఖాంశాలు",
+     "70°E మరియు 90°E రేఖాంశాలు",
+     "60°E మరియు 80°E రేఖాంశాలు",
+     "20°E మరియు 40°E రేఖాంశాలు"
+    ],
+    "en": [
+     "40°E and 60°E longitudes",
+     "70°E and 90°E longitudes",
+     "60°E and 80°E longitudes",
+     "20°E and 40°E longitudes"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "దక్షిణార్థగోళంలోని వ్యాపార పవనాలు 40°E మరియు 60°E రేఖాంశాల మధ్య భూమధ్యరేఖను దాటి నైరుతి రుతుపవనాలుగా మారతాయి.",
+    "en": "The trade winds of the southern hemisphere cross the equator between 40°E and 60°E longitudes before turning into the southwest monsoon."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T17-0135",
+   "section": {
+    "te": "Average annual rainfall",
+    "en": "Average annual rainfall"
+   },
+   "q": {
+    "te": "భారతదేశంలో నమోదయ్యే సగటు వార్షిక వర్షపాతం ఎంత?",
+    "en": "What is the average annual rainfall recorded in India?"
+   },
+   "options": {
+    "te": [
+     "150 సెం.మీ",
+     "100 సెం.మీ",
+     "125 సెం.మీ",
+     "175 సెం.మీ"
+    ],
+    "en": [
+     "150 cm",
+     "100 cm",
+     "125 cm",
+     "175 cm"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మూల సమాచారం ప్రకారం, భారతదేశంలో సగటు వార్షిక వర్షపాతం సుమారు 125 సెం.మీ.",
+    "en": "The average annual rainfall in India is about 125 cm."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T17-0139",
+   "section": {
+    "te": "Traditional seasonal system",
+    "en": "Traditional seasonal system"
+   },
+   "q": {
+    "te": "సంవత్సరాన్ని ఆరు రెండు నెలల రుతువులుగా విభజించే భారతీయ సాంప్రదాయ విధానం, రుతువులలో స్వల్ప వ్యత్యాసం మాత్రమే ఉండటం వల్ల భారతదేశంలోని ఏ ప్రాంతంతో సరిపోలదు?",
+    "en": "The traditional Indian division of a year into six two-monthly seasons does not match with which part of India due to little variation in seasons?"
+   },
+   "options": {
+    "te": [
+     "ఉత్తర భారతదేశం",
+     "ఈశాన్య భారతదేశం",
+     "దక్షిణ భారతదేశం",
+     "మధ్య భారతదేశం"
+    ],
+    "en": [
+     "North India",
+     "North-east India",
+     "South India",
+     "Central India"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "దక్షిణ భారతదేశంలో రుతువుల మధ్య వ్యత్యాసం చాలా తక్కువగా ఉండటం వల్ల ఈ ఆరు రుతువుల విధానం అక్కడి కాలాలతో సరిపోలదు.",
+    "en": "The six two-monthly seasons system does not match with the seasons of south India where there is little variation in the seasons."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T17-0086",
+   "section": {
+    "te": "Break in monsoon definition",
+    "en": "Break in monsoon definition"
+   },
+   "q": {
+    "te": "నైరుతి ఋతుపవనాల కాలంలో 'ఋతుపవన విరామం' (Break in the monsoon) అంటే ఏమిటి?",
+    "en": "In the context of the southwest monsoon, what is meant by a 'break in the monsoon'?"
+   },
+   "options": {
+    "te": [
+     "కొద్ది రోజులు వర్షం కురిసిన తర్వాత ఒకటి లేదా అంతకంటే ఎక్కువ వారాల పాటు వర్షాలు పడకపోవడం",
+     "ఋతుపవన ద్రోణి ఆకస్మికంగా బంగాళాఖాతం వైపు మారడం",
+     "గాలుల దిశ నైరుతి నుండి ఈశాన్యానికి పూర్తిగా మారడం",
+     "ఉత్తర భారతదేశం నుండి ఋతుపవనాలు శాశ్వతంగా ఉపసంహరించుకోవడం"
+    ],
+    "en": [
+     "Failure of rainfall to occur for one or more weeks after having rains for a few days",
+     "Sudden shift of the monsoon trough towards the Bay of Bengal",
+     "Complete reversal of wind direction from southwesterly to northeasterly",
+     "Permanent withdrawal of the monsoon winds from northern India"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నైరుతి ఋతుపవనాల కాలంలో కొన్ని రోజులు వర్షాలు కురిసిన తర్వాత, ఒకటి లేదా అంతకంటే ఎక్కువ వారాల పాటు వర్షం పడకపోవడాన్ని ఋతుపవన విరామం అంటారు.",
+    "en": "A break in the monsoon occurs when, during the southwest monsoon, rain fails to occur for one or more weeks after a few days of rain."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T17-0007",
+   "section": {
+    "te": "J&K Weather Data",
+    "en": "J&K Weather Data"
+   },
+   "q": {
+    "te": "01-02-2024 నాటి జమ్మూ & కాశ్మీర్ వాతావరణ పారామితుల ఆధారంగా, ఏ స్టేషన్ ప్రతికూల (negative) గరిష్ట ఉష్ణోగ్రతను నమోదు చేసింది?",
+    "en": "Based on the weather parameters for Jammu & Kashmir on 01-02-2024, which station recorded a negative actual maximum temperature?"
+   },
+   "options": {
+    "te": [
+     "గుల్మార్గ్",
+     "పహల్గామ్",
+     "శ్రీనగర్",
+     "కుకెర్నాగ్"
+    ],
+    "en": [
+     "Gulmarg",
+     "Pahalgam",
+     "Srinagar",
+     "Kukernag"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పట్టిక ప్రకారం, గుల్మార్గ్ –2.6°C గరిష్ట ఉష్ణోగ్రతను (ACT) నమోదు చేసింది, మిగిలిన స్టేషన్లు ధన (positive) విలువలను కలిగి ఉన్నాయి.",
+    "en": "According to the table, Gulmarg recorded an actual maximum temperature (ACT) of –2.6°C, while other stations had positive values."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T17-0040",
+   "section": {
+    "te": "Ancient Rainfall Prediction",
+    "en": "Ancient Rainfall Prediction"
+   },
+   "q": {
+    "te": "ప్రాచీన గ్రంథం 'కృషిపరాశర' ప్రకారం, వర్షపాతాన్ని అంచనా వేయడానికి ప్రధాన ప్రాతిపదిక ఏమిటి?",
+    "en": "According to the ancient text Krishi-parashara, what was the primary basis for predicting rainfall?"
+   },
+   "options": {
+    "te": [
+     "పక్షుల వలస నమూనాలు",
+     "వసంత రుతువులో గాలుల దిశ",
+     "ఆకాశంలో చంద్రుడు మరియు సూర్యుని స్థానాలు",
+     "నిర్దిష్ట చెట్ల పుష్పించడం"
+    ],
+    "en": [
+     "The migration patterns of birds",
+     "The direction of winds during the spring season",
+     "The positions of the Moon and the Sun in the sky",
+     "The flowering of specific trees"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కృషిపరాశర వర్షపాతాన్ని అంచనా వేయడానికి ఆకాశంలో చంద్రుడు మరియు సూర్యుని స్థానాలను ప్రధాన సాంకేతికతగా ఉపయోగించింది.",
+    "en": "Krishi-parashara used the positions of the Moon and the Sun in the sky as the main technique to predict rainfall."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T17-0001",
+   "section": {
+    "te": "Northern Plains Climate",
+    "en": "Northern Plains Climate"
+   },
+   "q": {
+    "te": "భారతదేశంలోని ఉత్తర మైదానాలలో, ప్రధానంగా గోధుమలు పండించే ప్రాంతంలో ఎటువంటి శీతోష్ణస్థితి ఉంటుంది?",
+    "en": "What type of climate is found in the northern plains of India, where most of the wheat is grown?"
+   },
+   "options": {
+    "te": [
+     "ఉప ఉష్ణమండల (Subtropical) శీతోష్ణస్థితి",
+     "ఆల్పైన్ శీతోష్ణస్థితి",
+     "ఉష్ణమండల ఆర్ద్ర (Tropical wet) శీతోష్ణస్థితి",
+     "శుష్క (Arid) శీతోష్ణస్థితి"
+    ],
+    "en": [
+     "Subtropical climate",
+     "Alpine climate",
+     "Tropical wet climate",
+     "Arid climate"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఆధారం ప్రకారం, భారతదేశంలోని ఉత్తర మైదానాలు చాలా వేడిగా ఉండే వేసవికాలం మరియు చల్లని శీతాకాలంతో కూడిన ఉప ఉష్ణమండల శీతోష్ణస్థితిని కలిగి ఉంటాయి.",
+    "en": "The northern plains of India have a subtropical climate characterized by very hot summers and cold winters."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T17-0024",
+   "section": {
+    "te": "Climate Definition",
+    "en": "Climate Definition"
+   },
+   "q": {
+    "te": "ఒక ప్రాంతం యొక్క శీతోష్ణస్థితిని వివరించడానికి, కనీసం ఎన్ని సంవత్సరాల పాటు వాతావరణ నమూనాలను గమనించాలి?",
+    "en": "To describe the climate of a region, weather patterns must be observed over a period of at least how many years?"
+   },
+   "options": {
+    "te": [
+     "30 సంవత్సరాలు",
+     "50 సంవత్సరాలు",
+     "10 సంవత్సరాలు",
+     "20 సంవత్సరాలు"
+    ],
+    "en": [
+     "30 years",
+     "50 years",
+     "10 years",
+     "20 years"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మూడు దశాబ్దాలు (30 సంవత్సరాలు) లేదా అంతకంటే ఎక్కువ కాలం పాటు గమనించిన నమూనాల ఆధారంగా శీతోష్ణస్థితి వివరణను పాఠ్యభాగం నిర్వచిస్తుంది.",
+    "en": "The text defines climate description based on patterns observed over three decades (30 years) or more."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T17-0120",
+   "section": {
+    "te": "Chotanagpur plateau rainfall",
+    "en": "Chotanagpur plateau rainfall"
+   },
+   "q": {
+    "te": "నర్మదా, తపతి లోయల గుండా ప్రయాణించే అరేబియా సముద్ర రుతుపవన శాఖ నుండి చోటానాగ్‌పూర్ పీఠభూమి ఎంత వర్షపాతాన్ని పొందుతుంది?",
+    "en": "How much rainfall does the Chotanagpur plateau receive from the branch of the Arabian Sea monsoon that moves along the Narmada and Tapi valleys?"
+   },
+   "options": {
+    "te": [
+     "25 సెం.మీ",
+     "15 సెం.మీ",
+     "50 సెం.మీ",
+     "40 సెం.మీ"
+    ],
+    "en": [
+     "25 cm",
+     "15 cm",
+     "50 cm",
+     "40 cm"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "నర్మదా మరియు తపతి లోయల గుండా ప్రయాణించే అరేబియా సముద్ర శాఖ నుండి చోటానాగ్‌పూర్ పీఠభూమి 15 సెం.మీ వర్షపాతాన్ని పొందుతుంది.",
+    "en": "The branch moving along the Narmada and Tapi valleys gives 15 cm of rainfall to the Chotanagpur plateau before entering the Ganga plains."
+   }
+  }
+ ]
+}

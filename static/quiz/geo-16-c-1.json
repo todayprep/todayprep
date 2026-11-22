@@ -1,0 +1,942 @@
+{
+ "id": "geo-16-c-1",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Rivers – క్విజ్ 1",
+  "en": "Rivers – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T16-0072",
+   "section": {
+    "te": "Kaveri river origin",
+    "en": "Kaveri river origin"
+   },
+   "q": {
+    "te": "కావేరి నది ఏ కొండలలో జన్మిస్తుంది?",
+    "en": "In which hills does the Kaveri river rise?"
+   },
+   "options": {
+    "te": [
+     "అమర్‌కంటక్ కొండలు",
+     "మహాబలేశ్వర్ కొండలు",
+     "యాలకుల కొండలు (కార్డమమ్ హిల్స్)",
+     "బ్రహ్మగిరి కొండలు"
+    ],
+    "en": [
+     "Amarkantak hills",
+     "Mahabaleshwar hills",
+     "Cardamom hills",
+     "Brahmagiri hills"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "కావేరి నది కర్ణాటకలోని కొడగు జిల్లాలోని బ్రహ్మగిరి కొండలలో (1,341 మీ.) జన్మిస్తుంది.",
+    "en": "The Kaveri river rises in the Brahmagiri hills (1,341 m) located in the Kogadu district of Karnataka."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T16-0033",
+   "section": {
+    "te": "Kosi River Sedimentation",
+    "en": "Kosi River Sedimentation"
+   },
+   "q": {
+    "te": "కోసి నది తరచుగా తన మార్గాన్ని మార్చుకోవడానికి ప్రాథమిక కారణం ఏమిటి?",
+    "en": "What is the primary reason the Kosi river frequently changes its course?"
+   },
+   "options": {
+    "te": [
+     "మైదానాలలో టెక్టోనిక్ కార్యకలాపాలు",
+     "భారీ పరిమాణంలో అవక్షేపాలు (sediments) చేరడం వల్ల మార్గం మూసుకుపోవడం",
+     "అధిక బాష్పీభవన రేట్లు",
+     "కృత్రిమ కట్టల నిర్మాణం"
+    ],
+    "en": [
+     "Tectonic activity in the plains",
+     "Blockage of its course by huge quantities of sediments",
+     "High evaporation rates",
+     "Construction of artificial embankments"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కోసి నది పర్వతాల నుండి పెద్ద మొత్తంలో అవక్షేపాలను తీసుకువస్తుంది, ఇది మైదానాలలో పేరుకుపోయి దాని మార్గాన్ని అడ్డుకుంటుంది, దీనివల్ల అది మార్గాన్ని మార్చుకోవాల్సి వస్తుంది.",
+    "en": "The Kosi river carries a large amount of sediment from the mountains, which deposits in the plains and blocks its path, forcing it to change course."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T16-0052",
+   "section": {
+    "te": "Namami Gange Programme",
+    "en": "Namami Gange Programme"
+   },
+   "q": {
+    "te": "'నమామి గంగే కార్యక్రమం'ను కేంద్ర ప్రభుత్వం ఏ నెల మరియు సంవత్సరంలో \"ఫ్లాగ్‌షిప్ ప్రోగ్రామ్\"గా ఆమోదించింది?",
+    "en": "In which month and year was the 'Namami Gange Programme' approved as a Flagship Programme by the Union Government?"
+   },
+   "options": {
+    "te": [
+     "జూన్ 2015",
+     "జూన్ 2018",
+     "జూన్ 2012",
+     "జూన్ 2014"
+    ],
+    "en": [
+     "June 2015",
+     "June 2018",
+     "June 2012",
+     "June 2014"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "'నమామి గంగే కార్యక్రమం'ను కేంద్ర ప్రభుత్వం జూన్ 2014లో ఫ్లాగ్‌షిప్ ప్రోగ్రామ్‌గా ఆమోదించింది.",
+    "en": "The 'Namami Gange Programme' was approved as a Flagship Programme by the Union Government in June 2014."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T16-0106",
+   "section": {
+    "te": "Soil salinity from intensive irrigation",
+    "en": "Soil salinity from intensive irrigation"
+   },
+   "q": {
+    "te": "క్రింది ఏ ప్రాంతాలలో తీవ్రమైన సాగునీటి పారుదల వల్ల నేలలో లవణీయత (salinity) పెరుగుతోంది?",
+    "en": "In which of the following regions is intensive irrigation leading to an increase in soil salinity?"
+   },
+   "options": {
+    "te": [
+     "పంజాబ్, హర్యానా మరియు పశ్చిమ ఉత్తరప్రదేశ్",
+     "రాజస్థాన్ మరియు మహారాష్ట్ర",
+     "ఒడిశా మరియు పశ్చిమ బెంగాల్",
+     "ఛత్తీస్‌గఢ్ మరియు కేరళ"
+    ],
+    "en": [
+     "Punjab, Haryana and western Uttar Pradesh",
+     "Rajasthan and Maharashtra",
+     "Odisha and West Bengal",
+     "Chhattisgarh and Kerala"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పంజాబ్, హర్యానా మరియు పశ్చిమ ఉత్తరప్రదేశ్‌లలో తీవ్రమైన సాగునీటి పారుదల నేలలో లవణీయతను పెంచుతోంది మరియు భూగర్భ జలాలను క్షీణింపజేస్తోంది.",
+    "en": "Intensive irrigation in Punjab, Haryana, and western Uttar Pradesh is increasing salinity in the soil along with depletion of groundwater."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T16-0089",
+   "section": {
+    "te": "Precipitation water availability",
+    "en": "Precipitation water availability"
+   },
+   "q": {
+    "te": "భారతదేశంలో ఒక సంవత్సరంలో అవపాతం ద్వారా లభించే మొత్తం నీరు దాదాపు ఎంత?",
+    "en": "What is the total water available from precipitation in India in a year?"
+   },
+   "options": {
+    "te": [
+     "సుమారు 4,000 క్యూబిక్ కి.మీ.",
+     "సుమారు 1,122 క్యూబిక్ కి.మీ.",
+     "సుమారు 690 క్యూబిక్ కి.మీ.",
+     "సుమారు 1,869 క్యూబిక్ కి.మీ."
+    ],
+    "en": [
+     "About 4,000 cubic km",
+     "About 1,122 cubic km",
+     "About 690 cubic km",
+     "About 1,869 cubic km"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వనరు ప్రకారం, భారతదేశంలో ఒక సంవత్సరంలో అవపాతం ద్వారా లభించే మొత్తం నీరు దాదాపు 4,000 క్యూబిక్ కి.మీ.గా అంచనా వేయబడింది.",
+    "en": "The total water available from precipitation in India in a year is estimated at about 4,000 cubic km."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T16-0063",
+   "section": {
+    "te": "Godavari Polavaram gorge",
+    "en": "Godavari Polavaram gorge"
+   },
+   "q": {
+    "te": "గోదావరి నది తన దిగువ భాగంలో ఏ ప్రాంతానికి దక్షిణాన ఒక అందమైన లోతైన లోయను (గార్జ్) ఏర్పరుస్తుంది?",
+    "en": "To the south of which place does the Godavari river form a picturesque gorge in its lower reaches?"
+   },
+   "options": {
+    "te": [
+     "పోలవరం",
+     "రాజమండ్రి",
+     "భద్రాచలం",
+     "నాసిక్"
+    ],
+    "en": [
+     "Polavaram",
+     "Rajamundri",
+     "Bhadrachalam",
+     "Nasik"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పోలవరానికి దక్షిణాన గోదావరి నది ఒక అందమైన గార్జ్ (లోతైన లోయ)ను ఏర్పరుస్తుంది.",
+    "en": "The Godavari river forms a picturesque gorge in its lower reaches to the south of Polavaram."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T16-0014",
+   "section": {
+    "te": "Brahmaputra Meaning",
+    "en": "Brahmaputra Meaning"
+   },
+   "q": {
+    "te": "'బ్రహ్మపుత్ర' అనే పేరుకు అక్షరార్థం ఏమిటి?",
+    "en": "What is the literal meaning of the name 'Brahmaputra'?"
+   },
+   "options": {
+    "te": [
+     "పవిత్ర హిమానీనదం",
+     "జల దేవత",
+     "జీవ ప్రవాహం",
+     "బ్రహ్మ కుమారుడు"
+    ],
+    "en": [
+     "Sacred Glacier",
+     "Goddess of Water",
+     "The flow of life",
+     "The son of Brahma"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "బ్రహ్మపుత్ర అంటే 'బ్రహ్మ కుమారుడు' అని పాఠంలో స్పష్టంగా పేర్కొనబడింది.",
+    "en": "Brahmaputra means 'the son of Brahma'."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T16-0066",
+   "section": {
+    "te": "Luni river branches",
+    "en": "Luni river branches"
+   },
+   "q": {
+    "te": "పుష్కర్ సమీపంలో లూనీ నది ఏ రెండు శాఖలుగా ఉద్భవిస్తుంది?",
+    "en": "Near Pushkar, the Luni river originates in two branches named:"
+   },
+   "options": {
+    "te": [
+     "దిబాంగ్ మరియు లోహిత్",
+     "సరస్వతి మరియు సబర్మతి",
+     "పెన్‌గంగ మరియు మంజ్ర",
+     "కోయ్నా మరియు భీమా"
+    ],
+    "en": [
+     "Dibang and Lohit",
+     "Saraswati and Sabarmati",
+     "Penganga and Manjra",
+     "Koyna and Bhima"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "లూనీ నది పుష్కర్ సమీపంలో సరస్వతి మరియు సబర్మతి అనే రెండు శాఖలుగా పుడుతుంది.",
+    "en": "The Luni originates near Pushkar in two branches, namely the Saraswati and the Sabarmati."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T16-0047",
+   "section": {
+    "te": "Indus Name Meaning",
+    "en": "Indus Name Meaning"
+   },
+   "q": {
+    "te": "సింధు నదికి గల టిబెటన్ పేరు 'సింగీ ఖంబన్' అర్థం ఏమిటి?",
+    "en": "What is the meaning of the Tibetan name 'Singi Khamban' for the Indus river?"
+   },
+   "options": {
+    "te": [
+     "గుర్రం నోరు",
+     "ఏనుగు నోరు",
+     "పులి నోరు",
+     "సింహం నోరు"
+    ],
+    "en": [
+     "Horse's mouth",
+     "Elephant's mouth",
+     "Tiger's mouth",
+     "Lion's mouth"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "'సింగీ ఖంబన్' అనే టిబెటన్ పేరుకు అర్థం 'సింహం నోరు'.",
+    "en": "The Tibetan name 'Singi Khamban' literally translates to 'Lion's mouth'."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T16-0074",
+   "section": {
+    "te": "Kaveri water flow",
+    "en": "Kaveri water flow"
+   },
+   "q": {
+    "te": "ఇతర ద్వీపకల్ప నదులతో పోలిస్తే కావేరి నదిలో నీటి హెచ్చుతగ్గులు తక్కువగా ఉంటూ సంవత్సరం పొడవునా నీరు ఎందుకు ప్రవహిస్తుంది?",
+    "en": "Why does the Kaveri river carry water throughout the year with comparatively less fluctuation than other Peninsular rivers?"
+   },
+   "options": {
+    "te": [
+     "ఎగువ పరీవాహక ప్రాంతం నైరుతి రుతుపవనాల కాలంలో వర్షపాతాన్ని పొందుతుంది",
+     "దిగువ భాగం ఈశాన్య రుతుపవనాల కాలంలో వర్షపాతాన్ని పొందుతుంది",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "The upper catchment area receives rainfall during the southwest monsoon season",
+     "The lower part receives rainfall during the northeast monsoon season",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కావేరి ఎగువ పరీవాహక ప్రాంతం నైరుతి రుతుపవనాల ద్వారా, దిగువ ప్రాంతం ఈశాన్య రుతుపవనాల ద్వారా వర్షపాతం పొందడం వల్ల సంవత్సరం పొడవునా ప్రవాహం ఉంటుంది.",
+    "en": "The Kaveri carries water throughout the year because its upper catchment receives summer rain from the southwest monsoon, and its lower catchment receives winter rain from the northeast monsoon."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T16-0075",
+   "section": {
+    "te": "Kaveri basin distribution",
+    "en": "Kaveri basin distribution"
+   },
+   "q": {
+    "te": "కావేరి నదీ పరీవాహక ప్రాంతంలో అత్యధిక భాగం (56 శాతం) క్రింది ఏ రాష్ట్రంలో ఉంది?",
+    "en": "In which of the following states does the largest percentage (56 per cent) of the Kaveri basin lie?"
+   },
+   "options": {
+    "te": [
+     "కేరళ",
+     "కర్ణాటక",
+     "ఆంధ్రప్రదేశ్",
+     "తమిళనాడు"
+    ],
+    "en": [
+     "Kerala",
+     "Karnataka",
+     "Andhra Pradesh",
+     "Tamil Nadu"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "కావేరి పరీవాహక ప్రాంతంలో దాదాపు 56 శాతం తమిళనాడులో, 41 శాతం కర్ణాటకలో మరియు 3 శాతం కేరళలో ఉంది.",
+    "en": "About 56 per cent of the Kaveri basin falls in Tamil Nadu, 41 per cent in Karnataka, and 3 per cent in Kerala."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T16-0049",
+   "section": {
+    "te": "Alaknanda Source",
+    "en": "Alaknanda Source"
+   },
+   "q": {
+    "te": "అలకనంద నది ఏ హిమానీనదం (glacier) లో జన్మిస్తుంది?",
+    "en": "The Alaknanda river has its source in which glacier?"
+   },
+   "options": {
+    "te": [
+     "సతోపంత్ హిమానీనదం",
+     "గంగోత్రి హిమానీనదం",
+     "బియాస్ కుండ్",
+     "బోఖర్ చు"
+    ],
+    "en": [
+     "Satopanth glacier",
+     "Gangotri glacier",
+     "Beas Kund",
+     "Bokhar Chu"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అలకనంద నది యొక్క మూలం బద్రీనాథ్ పైన ఉన్న సతోపంత్ హిమానీనదం.",
+    "en": "The source of the Alaknanda river is the Satopanth glacier, which is located above Badrinath."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T16-0101",
+   "section": {
+    "te": "High groundwater utilisation states",
+    "en": "High groundwater utilisation states"
+   },
+   "q": {
+    "te": "క్రింది ఏ రాష్ట్రాలలో భూగర్భ జలాల వినియోగం చాలా ఎక్కువగా ఉంది?",
+    "en": "In which of the following states is the level of groundwater utilisation very high?"
+   },
+   "options": {
+    "te": [
+     "పంజాబ్ మరియు హర్యానా",
+     "రాజస్థాన్",
+     "తమిళనాడు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Punjab and Haryana",
+     "Rajasthan",
+     "Tamil Nadu",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పంజాబ్, హర్యానా, రాజస్థాన్ మరియు తమిళనాడు రాష్ట్రాలలో భూగర్భ జలాల వినియోగం చాలా ఎక్కువగా ఉంది.",
+    "en": "Groundwater utilisation is very high in Punjab, Haryana, Rajasthan, and Tamil Nadu."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T16-0056",
+   "section": {
+    "te": "Yamuna Left Bank Tributaries",
+    "en": "Yamuna Left Bank Tributaries"
+   },
+   "q": {
+    "te": "కింది నదులలో ఏది యమునా నదికి ఎడమ వైపున వచ్చి కలుస్తుంది?",
+    "en": "Which of the following rivers joins the Yamuna on its left bank?"
+   },
+   "options": {
+    "te": [
+     "బెత్వా",
+     "హిండన్",
+     "కెన్",
+     "చంబల్"
+    ],
+    "en": [
+     "Betwa",
+     "Hindan",
+     "Ken",
+     "Chambal"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "హిండన్, రిండ్, సెంగర్, వరుణ వంటివి యమునకు ఎడమ ఒడ్డున చేరగా, చంబల్, సింధ్, బెత్వా మరియు కెన్ నదులు కుడి ఒడ్డున కలుస్తాయి.",
+    "en": "The Hindan, Rind, Sengar, and Varuna join the Yamuna on its left bank, while Chambal, Sind, Betwa, and Ken join on its right bank."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T16-0050",
+   "section": {
+    "te": "Ganga Entry to Plains",
+    "en": "Ganga Entry to Plains"
+   },
+   "q": {
+    "te": "గంగా నది ఏ ప్రదేశంలో పర్వతాల నుండి బయటకు వచ్చి మైదానాల్లోకి ప్రవేశిస్తుంది?",
+    "en": "At which place does the Ganga river emerge from the mountains and enter the plains?"
+   },
+   "options": {
+    "te": [
+     "జోషీమఠ్",
+     "దేవప్రయాగ",
+     "హరిద్వార్",
+     "రిషికేశ్"
+    ],
+    "en": [
+     "Joshimath",
+     "Devprayag",
+     "Haridwar",
+     "Rishikesh"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "గంగా నది కొండ ప్రాంతాలను విడిచిపెట్టి హరిద్వార్ వద్ద మైదాన ప్రాంతంలోకి ప్రవేశిస్తుంది.",
+    "en": "The Ganga river leaves the hilly terrain and enters the flat plains at Haridwar."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T16-0059",
+   "section": {
+    "te": "Subansiri river origin",
+    "en": "Subansiri river origin"
+   },
+   "q": {
+    "te": "టిబెట్‌లో జన్మించి, పూర్వవర్తి (యాంటిసిడెంట్) నదిగా ఉన్న బ్రహ్మపుత్ర కుడి గట్టు ఉపనది ఏది?",
+    "en": "Which right bank tributary of the Brahmaputra river has its origin in Tibet and is an antecedent river?"
+   },
+   "options": {
+    "te": [
+     "బుర్హి దిహింగ్",
+     "లోహిత్",
+     "సుబన్‌సిరి",
+     "ధన్‌సిరి (సౌత్)"
+    ],
+    "en": [
+     "Burhi Dihing",
+     "Lohit",
+     "Subansiri",
+     "Dhansari (South)"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సుబన్‌సిరి నది టిబెట్‌లో ఉద్భవించి, పూర్వవర్తి నదిగా బ్రహ్మపుత్ర కుడి గట్టున కలుస్తుంది.",
+    "en": "The Subansiri originates in Tibet and is an antecedent river that joins the Brahmaputra on its right bank."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T16-0046",
+   "section": {
+    "te": "Indus Entry to Pakistan",
+    "en": "Indus Entry to Pakistan"
+   },
+   "q": {
+    "te": "సింధు నది ఏ ప్రాంతం వద్ద పాకిస్తాన్‌లోకి ప్రవేశిస్తుంది?",
+    "en": "Near which region does the Indus river enter Pakistan?"
+   },
+   "options": {
+    "te": [
+     "అటాక్",
+     "మిథన్‌కోట్",
+     "గిల్గిట్",
+     "చిలాస్"
+    ],
+    "en": [
+     "Attock",
+     "Mithankot",
+     "Gilgit",
+     "Chilas"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సింధు నది దర్దిస్థాన్ ప్రాంతంలోని చిలాస్ వద్ద పాకిస్తాన్‌లోకి ప్రవేశిస్తుంది.",
+    "en": "The Indus river enters Pakistan near Chilas in the Dardistan region."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T16-0017",
+   "section": {
+    "te": "Dendritic Drainage Pattern",
+    "en": "Dendritic Drainage Pattern"
+   },
+   "q": {
+    "te": "వృక్షం యొక్క కొమ్మలను పోలి ఉండే మరియు ఉత్తర మైదాన నదులలో సాధారణంగా కనిపించే డ్రైనేజీ నమూనా ఏది?",
+    "en": "Which drainage pattern resembles the branches of a tree and is commonly found in the rivers of the northern plain?"
+   },
+   "options": {
+    "te": [
+     "రేడియల్ (Radial)",
+     "డెన్డ్రిటిక్ (Dendritic)",
+     "ట్రెల్లిస్ (Trellis)",
+     "సెంట్రిపెటల్ (Centripetal)"
+    ],
+    "en": [
+     "Radial",
+     "Dendritic",
+     "Trellis",
+     "Centripetal"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "డెన్డ్రిటిక్ డ్రైనేజీ నమూనా చెట్టు కొమ్మల వంటి నిర్మాణాన్ని కలిగి ఉంటుంది, ఇది భారతదేశ ఉత్తర మైదానాల్లోని నదులకు విలక్షణమైనది.",
+    "en": "The dendritic drainage pattern is characterized by a tree-branch-like structure, typical of the rivers in the northern plains of India."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T16-0082",
+   "section": {
+    "te": "Sardar Sarovar Project",
+    "en": "Sardar Sarovar Project"
+   },
+   "q": {
+    "te": "సర్దార్ సరోవర్ ప్రాజెక్ట్‌ను క్రింది ఏ నదిపై నిర్మించారు?",
+    "en": "On which of the following rivers has the Sardar Sarovar Project been constructed?"
+   },
+   "options": {
+    "te": [
+     "నర్మద",
+     "తపతి",
+     "కావేరి",
+     "మహానది"
+    ],
+    "en": [
+     "Narmada",
+     "Tapi",
+     "Kaveri",
+     "Mahanadi"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సర్దార్ సరోవర్ ప్రాజెక్ట్‌ను నర్మదా నదిపై నిర్మించారు.",
+    "en": "The Sardar Sarovar Project has been constructed on the Narmada river."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T16-0077",
+   "section": {
+    "te": "Narmada river origin",
+    "en": "Narmada river origin"
+   },
+   "q": {
+    "te": "నర్మదా నది ఏ పీఠభూమి యొక్క పశ్చిమ భాగంలో జన్మిస్తుంది?",
+    "en": "The Narmada river originates on the western flank of which plateau?"
+   },
+   "options": {
+    "te": [
+     "మాల్వా పీఠభూమి",
+     "ఛోటానాగ్‌పూర్ పీఠభూమి",
+     "అమర్‌కంటక్ పీఠభూమి",
+     "షిల్లాంగ్ పీఠభూమి"
+    ],
+    "en": [
+     "Malwa plateau",
+     "Chota Nagpur plateau",
+     "Amarkantak plateau",
+     "Shillong plateau"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నర్మదా నది అమర్‌కంటక్ పీఠభూమి పశ్చిమ భాగంలో సుమారు 1,057 మీటర్ల ఎత్తులో జన్మిస్తుంది.",
+    "en": "The Narmada river originates on the western flank of the Amarkantak plateau at a height of about 1,057 m."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T16-0108",
+   "section": {
+    "te": "Harnessing of river flow",
+    "en": "Harnessing of river flow"
+   },
+   "q": {
+    "te": "భారతదేశంలో నదీ ప్రవాహ వినియోగానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\nనిశ్చితార్థం (A): గోదావరి, కృష్ణా మరియు కావేరి వంటి దక్షిణ భారత నదులలోని వార్షిక నీటి ప్రవాహంలో ఎక్కువ భాగం వినియోగంలోకి తీసుకురాబడింది.\nహేతువు (R): బ్రహ్మపుత్ర మరియు గంగా నదీ పరివాహక ప్రాంతాలలో వార్షిక నీటి ప్రవాహ వినియోగం ఇంకా పూర్తి కాలేదు.\nక్రింది వాటిలో ఏది సరైనది?",
+    "en": "Consider the following statements regarding the utilisation of river flow in India:\nAssertion (A): Much of the annual water flow in south Indian rivers like the Godavari, the Krishna, and the Kaveri has been harnessed.\nReason (R): In the Brahmaputra and the Ganga basins, the harnessing of annual water flow is yet to be done.\nWhich of the following is correct?"
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ సరైనవి, మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ సరైనవి, కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A సరైనది కానీ R తప్పు",
+     "A తప్పు కానీ R సరైనది"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "రెండు ప్రకటనలు సరైనవే, అయితే R అనేది A కి కారణం లేదా సరైన వివరణ కాదు.",
+    "en": "Both statements are correct facts mentioned in the text, but R is not the cause or explanation of A."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T16-0045",
+   "section": {
+    "te": "Indus Length in India",
+    "en": "Indus Length in India"
+   },
+   "q": {
+    "te": "భారతదేశ సరిహద్దుల్లో సింధు నది మొత్తం పొడవు ఎంత?",
+    "en": "What is the total length of the Indus river within the borders of India?"
+   },
+   "options": {
+    "te": [
+     "1,114 కి.మీ",
+     "1,180 కి.మీ",
+     "2,880 కి.మీ",
+     "2,525 కి.మీ"
+    ],
+    "en": [
+     "1,114 km",
+     "1,180 km",
+     "2,880 km",
+     "2,525 km"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సింధు నది మొత్తం పొడవు 2,880 కి.మీ కాగా, భారతదేశంలో దాని పొడవు 1,114 కి.మీ.",
+    "en": "While the total length of the Indus is 2,880 km, its length within India is 1,114 km."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T16-0054",
+   "section": {
+    "te": "Ramganga Confluence",
+    "en": "Ramganga Confluence"
+   },
+   "q": {
+    "te": "రామ్‌గంగ నది కింది వాటిలో ఏ ప్రదేశానికి సమీపంలో గంగా నదిలో కలుస్తుంది?",
+    "en": "The Ramganga river joins the Ganga near which of the following places?"
+   },
+   "options": {
+    "te": [
+     "ప్రయాగ్",
+     "ఛప్రా",
+     "కన్నౌజ్",
+     "నజీబాబాద్"
+    ],
+    "en": [
+     "Prayag",
+     "Chhapra",
+     "Kannauj",
+     "Najibabad"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఉత్తరప్రదేశ్‌లోని మైదానాల్లోకి ప్రవేశించిన తర్వాత, రామ్‌గంగ నది కన్నౌజ్ సమీపంలో గంగానదితో కలుస్తుంది.",
+    "en": "After entering the plains of Uttar Pradesh, the Ramganga joins the Ganga near Kannauj."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T16-0085",
+   "section": {
+    "te": "Freshwater proportion",
+    "en": "Freshwater proportion"
+   },
+   "q": {
+    "te": "భూమిపై ఉన్న మొత్తం నీటిలో మంచినీరు (ఫ్రెష్‌వాటర్) సుమారు ఎంత శాతం ఉంటుంది?",
+    "en": "Freshwater constitutes approximately what percentage of the total water on the earth?"
+   },
+   "options": {
+    "te": [
+     "సుమారు 71 శాతం",
+     "సుమారు 11 శాతం",
+     "సుమారు 7 శాతం",
+     "సుమారు 3 శాతం"
+    ],
+    "en": [
+     "About 71 per cent",
+     "About 11 per cent",
+     "About 7 per cent",
+     "About 3 per cent"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూమిపై ఉన్న మొత్తం నీటి వనరులలో మంచినీరు కేవలం 3 శాతం మాత్రమే ఉంటుంది.",
+    "en": "Freshwater constitutes only about 3 per cent of the total water on the globe."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T16-0032",
+   "section": {
+    "te": "Minor River Basins",
+    "en": "Minor River Basins"
+   },
+   "q": {
+    "te": "2,000 చదరపు కిలోమీటర్ల కంటే తక్కువ క్యాచ్‌మెంట్ ఏరియా ఉన్న చిన్న నదీ పరివాహక ప్రాంతాలు సాధారణంగా ఏ రకమైన ప్రాంతాలలో కనిపిస్తాయి?",
+    "en": "Minor river basins, which have a catchment area of less than 2,000 sq. km, are typically found in which type of regions?"
+   },
+   "options": {
+    "te": [
+     "తక్కువ వర్షపాత ప్రాంతాలు",
+     "మంచుతో కూడిన పర్వత ప్రాంతాలు",
+     "తీరప్రాంత డెల్టా ప్రాంతాలు",
+     "అధిక వర్షపాత ప్రాంతాలు"
+    ],
+    "en": [
+     "Areas of low rainfall",
+     "Glaciated mountain regions",
+     "Coastal delta regions",
+     "High rainfall areas"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "తక్కువ క్యాచ్‌మెంట్ ఏరియా ఉన్న చిన్న నదీ పరివాహక ప్రాంతాలు తక్కువ వర్షపాతం పొందే ప్రాంతాలలో సాధారణం.",
+    "en": "Minor river basins with small catchment areas are common in regions that receive low rainfall."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T16-0096",
+   "section": {
+    "te": "Major river surface water share",
+    "en": "Major river surface water share"
+   },
+   "q": {
+    "te": "దేశ మొత్తం వైశాల్యంలో కేవలం మూడింట ఒక వంతు మాత్రమే ఆక్రమించి, దేశ ఉపరితల నీటి వనరులలో 60 శాతం వాటాను కలిగి ఉన్న నదుల సమూహం ఏది?",
+    "en": "Which group of rivers accounts for only about one-third of India's total area, but contains 60 per cent of its total surface water resources?"
+   },
+   "options": {
+    "te": [
+     "గంగా, బ్రహ్మపుత్ర మరియు బరాక్",
+     "సింధు, గంగా మరియు యమునా",
+     "గోదావరి, కృష్ణా మరియు కావేరి",
+     "నర్మద, తపతి మరియు మహానది"
+    ],
+    "en": [
+     "The Ganga, the Brahmaputra and the Barak",
+     "The Indus, the Ganga and the Yamuna",
+     "The Godavari, the Krishna and the Kaveri",
+     "The Narmada, the Tapi and the Mahanadi"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "గంగా, బ్రహ్మపుత్ర మరియు బరాక్ నదుల పరీవాహక ప్రాంతాల్లో అవపాతం ఎక్కువగా ఉండడం వల్ల, అవి దేశ వైశాల్యంలో మూడింట ఒక వంతు ఉన్నప్పటికీ 60 శాతం ఉపరితల నీటిని కలిగి ఉన్నాయి.",
+    "en": "Due to high precipitation in their catchments, the Ganga, Brahmaputra, and Barak rivers account for 60 per cent of India's surface water resources despite covering only one-third of the country's area."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T16-0027",
+   "section": {
+    "te": "Kosi River",
+    "en": "Kosi River"
+   },
+   "q": {
+    "te": "తరచుగా తన మార్గాన్ని మార్చుకోవడం వల్ల ఏ నదిని 'బీహార్ దుఃఖదాయిని' (sorrow of Bihar) అని పిలుస్తారు?",
+    "en": "Which river is notoriously known as the 'sorrow of Bihar' due to its frequent course changes?"
+   },
+   "options": {
+    "te": [
+     "కోసి",
+     "గండక్",
+     "సోన్",
+     "గంగ"
+    ],
+    "en": [
+     "Kosi",
+     "Gandak",
+     "Son",
+     "Ganga"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "కోసి నది తరచుగా తన మార్గాన్ని మార్చుకోవడం వల్ల వరదలకు దారితీస్తుంది, అందుకే దీనిని 'బీహార్ దుఃఖదాయిని' అని పిలుస్తారు.",
+    "en": "The Kosi river is called the 'sorrow of Bihar' because it frequently changes its course, leading to floods."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T16-0068",
+   "section": {
+    "te": "Krishna catchment area",
+    "en": "Krishna catchment area"
+   },
+   "q": {
+    "te": "కృష్ణా నది పరీవాహక ప్రాంతంలో అత్యధిక వాటా (44 శాతం) క్రింది ఏ రాష్ట్రంలో ఉంది?",
+    "en": "In which of the following states does the largest portion (44 per cent) of the Krishna river's catchment area lie?"
+   },
+   "options": {
+    "te": [
+     "మహారాష్ట్ర",
+     "కర్ణాటక",
+     "తెలంగాణ",
+     "ఆంధ్రప్రదేశ్"
+    ],
+    "en": [
+     "Maharashtra",
+     "Karnataka",
+     "Telangana",
+     "Andhra Pradesh"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కృష్ణా నది పరీవాహక ప్రాంతంలో 44 శాతం కర్ణాటకలో, 27 శాతం మహారాష్ట్రలో, 29 శాతం ఆంధ్రప్రదేశ్ మరియు తెలంగాణలలో ఉంది.",
+    "en": "44 per cent of the total catchment area of the Krishna river lies in Karnataka, while 27 per cent lies in Maharashtra and 29 per cent in Andhra Pradesh and Telangana."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T16-0008",
+   "section": {
+    "te": "Catchment Area Definition",
+    "en": "Catchment Area Definition"
+   },
+   "q": {
+    "te": "నది సేకరించిన నీటిని ప్రవహింపజేసే నిర్దిష్ట ప్రాంతాన్ని ఏమని పిలుస్తారు?",
+    "en": "What is the term used for the specific area from which a river drains collected water?"
+   },
+   "options": {
+    "te": [
+     "డ్రైనేజీ నమూనా",
+     "డ్రైనేజీ వ్యవస్థ",
+     "ఎఫెమెరల్ జోన్",
+     "క్యాచ్‌మెంట్ ఏరియా (పరివాహక ప్రాంతం)"
+    ],
+    "en": [
+     "Drainage pattern",
+     "Drainage system",
+     "Ephemeral zone",
+     "Catchment area"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నది నీటిని సేకరించి ప్రవహింపజేసే నిర్దిష్ట ప్రాంతాన్ని దాని క్యాచ్‌మెంట్ ఏరియా (పరివాహక ప్రాంతం) అని అంటారు.",
+    "en": "The specific area from which a river collects and drains water is defined as its catchment area."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T16-0070",
+   "section": {
+    "te": "Rift valley rivers",
+    "en": "Rift valley rivers"
+   },
+   "q": {
+    "te": "క్రింది ద్వీపకల్ప నదులలో ఏవి పగులు లోయ (రిఫ్ట్ వ్యాలీ) గుండా ప్రవహిస్తాయి?",
+    "en": "Which of the following Peninsular rivers flow through a rift valley?"
+   },
+   "options": {
+    "te": [
+     "నర్మద",
+     "తాపి",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Narmada",
+     "Tapi",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నర్మద మరియు తాపి నదులు రెండూ ద్వీపకల్ప నదులలో మినహాయింపుగా పగులు లోయల గుండా ప్రవహిస్తాయి.",
+    "en": "Both Narmada and Tapi are exceptions among Peninsular rivers as they flow through rift valleys."
+   }
+  }
+ ]
+}

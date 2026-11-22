@@ -1,0 +1,942 @@
+{
+ "id": "geo-04-g1-4",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Landforms – క్విజ్ 4",
+  "en": "Landforms – Quiz 4"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T04-0010",
+   "section": {
+    "te": "Terrace Farming",
+    "en": "Terrace Farming"
+   },
+   "q": {
+    "te": "పర్వత వాలులపై సాగు కోసం మెట్లుగా చెక్కే పద్ధతిని ఏమని పిలుస్తారు?",
+    "en": "What is the practice of cutting steps into mountain slopes for cultivation called?"
+   },
+   "options": {
+    "te": [
+     "ఉద్ధరణ",
+     "క్రమక్షయం",
+     "మెట్ల వ్యవసాయం (Terrace farming)",
+     "పశువుల పెంపకం"
+    ],
+    "en": [
+     "Upliftment",
+     "Erosion",
+     "Terrace farming",
+     "Herding"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పర్వత వాలులపై మెట్లుగా చెక్కి వ్యవసాయం చేయడాన్ని మెట్ల వ్యవసాయం (Terrace farming) అంటారు.",
+    "en": "Terrace farming is the practice of cutting steps into mountain slopes to allow for cultivation."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T04-0070",
+   "section": {
+    "te": "Core Heat Transport",
+    "en": "Core Heat Transport"
+   },
+   "q": {
+    "te": "అందించిన సమాచారం ప్రకారం భూకేంద్ర మండలం (Core) యొక్క భాగాలను వాటి ఉష్ణ రవాణా యంత్రాంగంతో జతపరచండి:\n1. అంతర భూకేంద్ర మండలం (Inner Core) - i. అడ్వెక్షన్ - కన్వెక్షన్\n2. బాహ్య భూకేంద్ర మండలం (Outer Core) - ii. కండక్షన్ (Conduction)\nసరైన కోడ్‌ను ఎంచుకోండి:",
+    "en": "Match the part of the Earth's core with its heat transport mechanism as per the provided data:\n1. Inner Core - i. Advection - Convection\n2. Outer Core - ii. Conduction\nChoose the correct code:"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-i",
+     "1-i, 2-ii",
+     "1-i, 2-i",
+     "1-ii, 2-ii"
+    ],
+    "en": [
+     "1-ii, 2-i",
+     "1-i, 2-ii",
+     "1-i, 2-i",
+     "1-ii, 2-ii"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఉష్ణ ప్రవాహ దత్తాంశం ఆధారంగా, అంతర భూకేంద్ర మండలం కండక్షన్ (conduction) ఉపయోగిస్తుంది, బాహ్య భూకేంద్ర మండలం ఉష్ణ రవాణా కోసం అడ్వెక్షన్ మరియు కన్వెక్షన్ ఉపయోగిస్తుంది.",
+    "en": "Based on the heat flow data, the Inner Core uses conduction, while the Outer Core uses advection and convection for heat transport."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T04-0191",
+   "section": {
+    "te": "Ox-bow lake formation point",
+    "en": "Ox-bow lake formation point"
+   },
+   "q": {
+    "te": "మియాండర్లు లోతైన వంపులుగా పెరిగినప్పుడు, ఏ నిర్దిష్ట స్థానాల వద్ద జరిగే కోత కారణంగా అవి వేరుపడి గుర్రపునాడా సరస్సులుగా (ఆక్స్‌బో సరస్సులు) ఏర్పడతాయి?",
+    "en": "When meanders grow into deep loops, cut-offs occur primarily due to erosion at which specific points, leaving behind ox-bow lakes?"
+   },
+   "options": {
+    "te": [
+     "కుంభాకార శీర్ష బిందువులు",
+     "పాయింట్ బార్ల మధ్యభాగం",
+     "ప్లంజ్ పూల్స్",
+     "ఇన్‌ఫ్లెక్షన్ బిందువులు (ఇన్‌ఫ్లెక్షన్ పాయింట్లు)"
+    ],
+    "en": [
+     "Convex apex points",
+     "Center of point bars",
+     "Plunge pools",
+     "Inflection points"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మియాండర్ల వంపులు తీవ్రమైనప్పుడు, ఇన్‌ఫ్లెక్షన్ బిందువుల వద్ద కోత జరగడం వల్ల అవి నది నుండి తెగిపోయి గుర్రపునాడా సరస్సులుగా మిగిలిపోతాయి.",
+    "en": "As meanders develop into deep loops, they are cut off due to erosion occurring at the inflection points, forming ox-bow lakes."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T04-0117",
+   "section": {
+    "te": "Gradation Definition",
+    "en": "Gradation Definition"
+   },
+   "q": {
+    "te": "క్రమక్షయం ద్వారా భూమి ఉపరితలంలోని ఎత్తుపల్లాలను తగ్గించే ప్రక్రియను ఏమంటారు?",
+    "en": "The phenomenon of wearing down relief variations of the earth's surface through erosion is known as:"
+   },
+   "options": {
+    "te": [
+     "గ్రేడేషన్ (Gradation)",
+     "డయాస్ట్రోఫిజం (Diastrophism)",
+     "అగ్నిపర్వత ప్రక్రియ (Volcanism)",
+     "అగ్రేడేషన్ (Aggradation)"
+    ],
+    "en": [
+     "Gradation",
+     "Diastrophism",
+     "Volcanism",
+     "Aggradation"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "క్రమక్షయం ద్వారా భూమి ఉపరితల వ్యత్యాసాలను తగ్గించే దృగ్విషయాన్ని గ్రేడేషన్ అంటారు.",
+    "en": "Gradation is the process of wearing down the relief variations of the earth's surface specifically through erosion."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T04-0267",
+   "section": {
+    "te": "Seif dunes",
+    "en": "Seif dunes"
+   },
+   "q": {
+    "te": "సెయిఫ్ (Seif) ఇసుక దిబ్బకు మరియు బార్కాన్ ఇసుక దిబ్బకు మధ్య ఉన్న ప్రధాన వ్యత్యాసం ఏమిటి?",
+    "en": "What is the primary difference between a Seif dune and a Barchan dune?"
+   },
+   "options": {
+    "te": [
+     "సెయిఫ్ గాలికి లంబంగా ఉంటుంది",
+     "సెయిఫ్ కు ఒక రెక్క లేదా ఒక చివర మాత్రమే ఉంటుంది",
+     "సెయిఫ్ వృక్షసంపదలో మాత్రమే ఏర్పడుతుంది",
+     "సెయిఫ్ ఎత్తు చాలా తక్కువగా ఉంటుంది"
+    ],
+    "en": [
+     "Seif is perpendicular to the wind",
+     "Seif has only one wing or point",
+     "Seif forms only in vegetation",
+     "Seif is much lower in height"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సెయిఫ్ బార్కాన్ లాగానే ఉంటుంది కానీ దానికి ఒక రెక్క లేదా ఒక చివర మాత్రమే ఉంటుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "A Seif is similar to a barchan but has only one wing or point."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T04-0221",
+   "section": {
+    "te": "Till vs outwash deposits",
+    "en": "Till vs outwash deposits"
+   },
+   "q": {
+    "te": "హిమానీనద నిక్షేపాలకి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. హిమానీనద టిల్‌లోని ఎక్కువ రాతి శకలాలు కోణీయ లేదా ఉప-కోణీయ (angular to sub-angular) రూపంలో ఉంటాయి.\n2. టిల్ నిక్షేపాల వలె కాకుండా, అవుట్‌వాష్ నిక్షేపాలు స్థూలంగా పొరలుగా (stratified) మరియు వర్గీకరించబడి ఉంటాయి.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding glacial deposits:\n1. Most of the rock fragments in glacial till are angular to sub-angular in form.\n2. Unlike till deposits, outwash deposits are roughly stratified and assorted.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం రెండు ప్రకటనలు సరైనవే. టిల్‌లోని రాళ్ళు కోణీయంగా ఉంటాయి, అవుట్‌వాష్ నిక్షేపాలు పొరలుగా అమరి వర్గీకరించబడి ఉంటాయి.",
+    "en": "Both statements are correct according to the text: till fragments are angular to sub-angular, while outwash deposits are roughly stratified, assorted, and have rounded edges."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T04-0052",
+   "section": {
+    "te": "Tiṇai concept",
+    "en": "Tiṇai concept"
+   },
+   "q": {
+    "te": "ఐదు తిణైలకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. అవి విభిన్న ప్రాంతాలు మరియు వాటి లక్షణాల పట్ల లోతైన అవగాహనను ప్రతిబింబిస్తాయి.\n2. అవి మానవాళికి మరియు సహజ పర్యావరణానికి మధ్య ఉన్న లోతైన సంబంధాన్ని వివరిస్తాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the five Tiṇais:\n1. They reflect a keen awareness of diverse regions and their characteristics.\n2. They illustrate the deep connection between humanity and the natural environment.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "తిణై వర్గీకరణ ప్రాంతీయ వైవిధ్యం మరియు మానవులకు, ప్రకృతికి మధ్య ఉన్న బలమైన సంబంధంపై అవగాహనను చూపుతుంది.",
+    "en": "The Tiṇai classification shows an awareness of regional diversity and the strong link between humans and nature."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T04-0128",
+   "section": {
+    "te": "Diastrophism Components",
+    "en": "Diastrophism Components"
+   },
+   "q": {
+    "te": "ఈ క్రింది వాటిలో ఏది డయాస్ట్రోఫిజం (diastrophism) పరిధిలోకి వస్తుంది?",
+    "en": "Which of the following is included under diastrophism?"
+   },
+   "options": {
+    "te": [
+     "ఓరోజెనిక్ ప్రక్రియలు",
+     "ఎపిరోజెనిక్ ప్రక్రియలు",
+     "ప్లేట్ టెక్టోనిక్స్",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Orogenic processes",
+     "Epeirogenic processes",
+     "Plate tectonics",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "డయాస్ట్రోఫిజంలో ఓరోజెనిక్, ఎపిరోజెనిక్, భూకంపాలు మరియు ప్లేట్ టెక్టోనిక్ ప్రక్రియలు ఉంటాయి.",
+    "en": "Diastrophism includes orogenic, epeirogenic, earthquake, and plate tectonic processes."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T04-0178",
+   "section": {
+    "te": "Kaveri river gorge",
+    "en": "Kaveri river gorge"
+   },
+   "q": {
+    "te": "తమిళనాడులోని ఏ జిల్లాలో హొగెనెకల్ సమీపంలో కావేరి నది గార్జ్ (Gorge) రూపంలో లోయను ఏర్పరుస్తుంది?",
+    "en": "The Kaveri river forms a prominent gorge near Hogenekal in which of the following districts of Tamil Nadu?"
+   },
+   "options": {
+    "te": [
+     "వెల్లూరు",
+     "ధర్మపురి",
+     "ఈరోడ్",
+     "సేలం"
+    ],
+    "en": [
+     "Vellore",
+     "Dharmapuri",
+     "Erode",
+     "Salem"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "తమిళనాడులోని ధర్మపురి జిల్లా హొగెనెకల్ వద్ద కావేరి నది గార్జ్ రూపంలో లోతైన లోయను ఏర్పరుస్తుంది.",
+    "en": "According to the caption in Figure 6.1, the valley of Kaveri river forms a gorge near Hogenekal in Dharmapuri district, Tamil Nadu."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T04-0289",
+   "section": {
+    "te": "Etymology of Denude",
+    "en": "Etymology of Denude"
+   },
+   "q": {
+    "te": "'Denude' (వికోషీకరణం) అనే పదానికి అక్షరాలా అర్థం ఏమిటి?",
+    "en": "What is the literal meaning of the word 'denude'?"
+   },
+   "options": {
+    "te": [
+     "తొలగించడం లేదా వెలికితీయడం (strip off or uncover)",
+     "కరిగిపోవడం",
+     "నిర్మించడం",
+     "క్రిందికి కదలడం"
+    ],
+    "en": [
+     "To strip off or to uncover",
+     "To melt away",
+     "To build up",
+     "To move downwards"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "'Denude' అనే పదం తొలగించడం లేదా వెలికితీయడం అనే అర్థం వచ్చే పదం నుండి వచ్చింది.",
+    "en": "The word 'denude' comes from a term meaning to strip off or to uncover."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T04-0003",
+   "section": {
+    "te": "Mountain Characteristics",
+    "en": "Mountain Characteristics"
+   },
+   "q": {
+    "te": "పర్వతాలకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి వెడల్పైన పునాదిని (base) కలిగి ఉంటాయి.\n2. ఇవి నిటారుగా ఉండే వాలులను (steep slopes) కలిగి ఉంటాయి.\n3. ఇవి ఇరుకైన శిఖరాన్ని (summit) కలిగి ఉంటాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding mountains:\n1. They have a broad base.\n2. They have steep slopes.\n3. They have a narrow summit.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పర్వతాలు వెడల్పైన పునాది, నిటారుగా ఉండే వాలులు మరియు ఇరుకైన శిఖరం ద్వారా గుర్తించబడతాయి.",
+    "en": "Mountains are recognized by three main features: a broad base, steep slopes, and a narrow summit."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T04-0216",
+   "section": {
+    "te": "Arêtes formation",
+    "en": "Arêtes formation"
+   },
+   "q": {
+    "te": "హిమానీనద పర్వతాలలో, సర్క్ గోడల మధ్య కోత కారణంగా ఏర్పడే రంపపు పంటి ఆకారపు వాడిగా ఉండే గట్లను ఏమంటారు?",
+    "en": "In glaciated mountains, serrated or saw-toothed ridges with sharp crests formed between cirque walls are known as:"
+   },
+   "options": {
+    "te": [
+     "సహజ కట్టలు",
+     "అరేట్‌లు (Arêtes)",
+     "పాయింట్ బార్‌లు",
+     "స్టాలగ్మైట్‌లు"
+    ],
+    "en": [
+     "Natural levees",
+     "Arêtes",
+     "Point bars",
+     "Stalagmites"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సర్క్‌ల మధ్య తీవ్ర కోత వలన ఏర్పడే పదునైన, రంపపు పంటి ఆకారపు గట్లను అరేట్‌లు (arêtes) అంటారు.",
+    "en": "Progressive erosion narrows the divides between cirques into saw-toothed ridges called arêtes."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T04-0150",
+   "section": {
+    "te": "Deposition order of materials",
+    "en": "Deposition order of materials"
+   },
+   "q": {
+    "te": "భూస్వరూప కారకాల నిక్షేపణ ప్రక్రియలో, పదార్థాలు ఏ క్రమంలో నిక్షేపించబడతాయి?",
+    "en": "In the process of deposition by geomorphic agents, in what sequence are materials deposited?"
+   },
+   "options": {
+    "te": [
+     "సూక్ష్మ పదార్థాలు మొదట మరియు ముతక పదార్థాలు తరువాత నిక్షేపించబడతాయి",
+     "ముతక పదార్థాలు మొదట మరియు సూక్ష్మ పదార్థాలు తరువాత నిక్షేపించబడతాయి",
+     "సూక్ష్మ మరియు ముతక పదార్థాలు రెండూ ఒకే సమయంలో నిక్షేపించబడతాయి",
+     "సూక్ష్మ పదార్థాలు మాత్రమే నిక్షేపించబడతాయి; ముతక పదార్థాలు ఎప్పుడూ నిక్షేపించబడవు"
+    ],
+    "en": [
+     "Finer materials get deposited first and coarser ones later",
+     "Coarser materials get deposited first and finer ones later",
+     "Finer and coarser materials get deposited simultaneously",
+     "Only finer materials get deposited; coarser materials never deposit"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వాలు తగ్గినప్పుడు కారకాలు వేగాన్ని కోల్పోవడం వల్ల ముతక పదార్థాలు మొదట నిక్షేపించబడతాయి మరియు సూక్ష్మ పదార్థాలు తరువాత నిక్షేపించబడతాయి.",
+    "en": "As erosional agents lose velocity and energy on gentler slopes, the coarser materials settle first followed by the finer ones."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T04-0161",
+   "section": {
+    "te": "Landscape elevation in old stage",
+    "en": "Landscape elevation in old stage"
+   },
+   "q": {
+    "te": "భూస్వరూపాల పరిణామంలో వృద్ధ దశలో ఎక్కువ భాగం ప్రకృతి దృశ్యం (landscape) ఏ ఎత్తులో ఉంటుంది?",
+    "en": "During the old age stage of landform development, what is the elevation of most of the landscape?"
+   },
+   "options": {
+    "te": [
+     "సముద్ర మట్టం కంటే చాలా లోతులో",
+     "సముద్ర మట్టానికి వేల మీటర్ల ఎత్తులో",
+     "సముద్ర మట్టం వద్ద లేదా దానికి కొద్దిగా పైన",
+     "నిరంతర భూఉద్ధరణ వల్ల నిరంతరం పెరుగుతున్న ఎత్తులో"
+    ],
+    "en": [
+     "Deep below sea level",
+     "Thousands of meters above sea level",
+     "At or slightly above sea level",
+     "Constantly elevating due to vigorous uplift"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వృద్ధ దశలో క్రమక్షయం గరిష్ట స్థాయికి చేరి చాలా వరకు ప్రాంతం సముద్ర మట్టం వద్ద లేదా కొద్దిగా పైన ఉంటుంది.",
+    "en": "In old age, most of the landscape is at or slightly above sea level."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T04-0051",
+   "section": {
+    "te": "Plate tectonics effects",
+    "en": "Plate tectonics effects"
+   },
+   "q": {
+    "te": "ప్లేట్ టెక్టోనిక్స్‌ను అర్థం చేసుకోవడం కింది ఏ సహజ దృగ్విషయాలను వివరించడానికి సహాయపడుతుంది?",
+    "en": "Understanding plate tectonics helps explain which of the following natural phenomena?"
+   },
+   "options": {
+    "te": [
+     "భూకంపాలు",
+     "అగ్నిపర్వత పేలుళ్లు",
+     "ఖండాల ఏర్పాటు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Earthquakes",
+     "Volcanic eruptions",
+     "Formation of continents",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ప్లేట్ టెక్టోనిక్స్ భూకంపాలు, అగ్నిపర్వత పేలుళ్లు మరియు ఖండాలు, మహాసముద్రాలు ఎలా ఏర్పడతాయో వివరించడానికి సహాయపడుతుంది.",
+    "en": "Plate tectonics helps explain earthquakes, volcanic eruptions, and how continents and oceans are formed."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T04-0240",
+   "section": {
+    "te": "Lagoon Evolution",
+    "en": "Lagoon Evolution"
+   },
+   "q": {
+    "te": "వాలు తక్కువగా ఉన్న అవక్షేపక తీరంపై అలలు విరిగిపడినప్పుడు, లాగూన్‌లు తీర మైదానంగా మారడానికి ముందు ఏ విధంగా రూపాంతరం చెందుతాయి?",
+    "en": "When waves break over a gently sloping sedimentary coast, lagoons eventually turn into which of the following landforms before becoming a coastal plain?"
+   },
+   "options": {
+    "te": [
+     "ఇసుక దిబ్బ",
+     "స్పిట్",
+     "తరంగ కోత వేదిక",
+     "చిత్తడి నేల (స్వాంప్)"
+    ],
+    "en": [
+     "Sand dune",
+     "Spit",
+     "Wave-cut terrace",
+     "Swamp"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం లాగూన్‌లు క్రమంగా చిత్తడి నేలగా (స్వాంప్) మారి, ఆ తర్వాత తీర మైదానంగా రూపాంతరం చెందుతాయి.",
+    "en": "Lagoons would eventually turn into a swamp, which would subsequently turn into a coastal plain."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T04-0160",
+   "section": {
+    "te": "Stream divides in old stage",
+    "en": "Stream divides in old stage"
+   },
+   "q": {
+    "te": "ప్రవహించే నీటి భూస్వరూప పరిణామంలో వృద్ధ దశలో జలవిభాజకాలు (stream divides) ఎలా ఉంటాయి?",
+    "en": "In the old stage of running water landscape evolution, the stream divides are:"
+   },
+   "options": {
+    "te": [
+     "జలపాతాలతో కూడిన ఎత్తైన పర్వత శ్రేణులుగా",
+     "సరస్సులు, చిత్తడి నేలలతో విశాలంగా మరియు చదునుగా",
+     "తీవ్రమైన మరియు నిటారైన శిఖరాలుగా",
+     "ఎలాంటి చిత్తడి నేలలు లేని ఇరుకైన అంచులుగా"
+    ],
+    "en": [
+     "High mountain barriers with active waterfalls",
+     "Broad and flat with lakes, swamps and marshes",
+     "Sharp and steep ridges",
+     "Narrow divides without any lakes or marshes"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వృద్ధ దశలో జలవిభాజక ప్రాంతాలు చదునుగా, విశాలంగా మారి సరస్సులు మరియు చిత్తడి నేలలను కలిగి ఉంటాయి.",
+    "en": "In the old age stage, stream divides are broad and flat, often containing lakes, swamps, and marshes."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T04-0060",
+   "section": {
+    "te": "Plate Boundaries",
+    "en": "Plate Boundaries"
+   },
+   "q": {
+    "te": "ఏ రకమైన ఫలక సరిహద్దు వద్ద భూపటలం సృష్టించబడదు లేదా నాశనం చేయబడదు?",
+    "en": "At which type of plate boundary is crust neither created nor destroyed?"
+   },
+   "options": {
+    "te": [
+     "అపసరణ సరిహద్దు",
+     "అభిసరణ సరిహద్దు",
+     "రూపాంతర సరిహద్దు (Transform boundary)",
+     "సబ్డక్షన్ సరిహద్దు"
+    ],
+    "en": [
+     "Divergent boundary",
+     "Convergent boundary",
+     "Transform boundary",
+     "Subduction boundary"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రూపాంతర సరిహద్దులో, ఫలకలు ఒకదానికొకటి క్షితిజ సమాంతరంగా జరుగుతాయి, దీనివల్ల భూపటలం సృష్టించబడదు లేదా నాశనం చేయబడదు.",
+    "en": "In a transform boundary, plates slide past each other horizontally, resulting in no creation or destruction of the Earth's crust."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T04-0149",
+   "section": {
+    "te": "Soil science definition",
+    "en": "Soil science definition"
+   },
+   "q": {
+    "te": "నేలల (మృత్తికల) గురించిన శాస్త్రీయ అధ్యయనాన్ని ఏమంటారు?",
+    "en": "The scientific study of soil is known as:"
+   },
+   "options": {
+    "te": [
+     "లిథాలజీ (Lithology)",
+     "పెడాలజీ (Pedology)",
+     "జియోమార్ఫాలజీ (Geomorphology)",
+     "పెట్రాలజీ (Petrology)"
+    ],
+    "en": [
+     "Lithology",
+     "Pedology",
+     "Geomorphology",
+     "Petrology"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, నేల శాస్త్రాన్ని 'పెడాలజీ' అని పిలుస్తారు మరియు నేల శాస్త్రవేత్తను పెడాలజిస్ట్ అంటారు.",
+    "en": "Pedology is soil science, and a pedologist is a soil scientist."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T04-0215",
+   "section": {
+    "te": "Confluence of Ganga",
+    "en": "Confluence of Ganga"
+   },
+   "q": {
+    "te": "అలకనంద మరియు భాగీరథి నదులు ఏ ప్రాంతం సమీపంలో కలిసి గంగా నదిగా ఏర్పడతాయి?",
+    "en": "Rivers Alaknanda and Bhagirathi join together to form the river Ganga near which place?"
+   },
+   "options": {
+    "te": [
+     "విష్ణుప్రయాగ",
+     "కర్ణప్రయాగ",
+     "దేవప్రయాగ",
+     "రుద్రప్రయాగ"
+    ],
+    "en": [
+     "Vishnuprayag",
+     "Karnaprayag",
+     "Deoprayag",
+     "Rudraprayag"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "దేవప్రయాగ వద్ద అలకనంద మరియు భాగీరథి నదులు కలిసి గంగా నదిగా ప్రవహిస్తాయి.",
+    "en": "Rivers Alaknanda and Bhagirathi join to make river Ganga near Deoprayag."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T04-0026",
+   "section": {
+    "te": "East African Mining",
+    "en": "East African Mining"
+   },
+   "q": {
+    "te": "తూర్పు ఆఫ్రికా పీఠభూమి ప్రత్యేకించి ఏ ఖనిజాల తవ్వకానికి ప్రసిద్ధి చెందింది?",
+    "en": "The East African Plateau is particularly famous for the mining of which minerals?"
+   },
+   "options": {
+    "te": [
+     "మాంగనీస్ మరియు రాగి",
+     "ఇనుము మరియు బొగ్గు",
+     "బంగారం మరియు వజ్రాలు",
+     "పెట్రోలియం మరియు బాక్సైట్"
+    ],
+    "en": [
+     "Manganese and copper",
+     "Iron and coal",
+     "Gold and diamond",
+     "Petroleum and bauxite"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, తూర్పు ఆఫ్రికా పీఠభూమి బంగారం మరియు వజ్రాల గనులకు ప్రసిద్ధి చెందింది.",
+    "en": "The East African Plateau is famous for gold and diamond mining."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T04-0162",
+   "section": {
+    "te": "Stages of landmass development",
+    "en": "Stages of landmass development"
+   },
+   "q": {
+    "te": "ఒక భూభాగం అభివృద్ధి చెందే దశలను మానవ జీవితంలోని ఏ దశలతో పోల్చారు?",
+    "en": "A landmass passes through stages of development comparable to which stages of life?"
+   },
+   "options": {
+    "te": [
+     "బాల్య, కౌమార మరియు వృద్ధాప్య దశలు",
+     "జననం, పరిణామం మరియు విలుప్త దశలు",
+     "యువ (youth), ప్రౌఢ (mature) మరియు వృద్ధ (old age) దశలు",
+     "శైశవ, యవ్వన మరియు క్షీణ దశలు"
+    ],
+    "en": [
+     "Childhood, adolescence and old age",
+     "Birth, evolution and extinction",
+     "Youth, mature and old age",
+     "Infancy, adulthood and senility"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూస్వరూపం యొక్క పరిణామ క్రమాన్ని మానవ జీవిత దశలైన యువ, ప్రౌఢ మరియు వృద్ధ దశలతో పోల్చడం జరిగింది.",
+    "en": "The stages of landmass development are compared to human life stages: youth, mature, and old age."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T04-0258",
+   "section": {
+    "te": "Pediplains",
+    "en": "Pediplains"
+   },
+   "q": {
+    "te": "ఎడారి ప్రాంతాలలో ఎత్తైన భూభాగాలు తగ్గిన తర్వాత ఏర్పడే తక్కువ ఎత్తులో ఉండే, లక్షణాలు లేని మైదానాలను ఏమంటారు?",
+    "en": "The low, featureless plains formed in desert areas after the reduction of high relief are termed as:"
+   },
+   "options": {
+    "te": [
+     "పెడిప్లెయిన్స్",
+     "ప్లాయాస్",
+     "అల్యూవియల్ ఫ్యాన్స్",
+     "ఆల్కలీ ఫ్లాట్స్"
+    ],
+    "en": [
+     "Pediplains",
+     "Playas",
+     "Alluvial fans",
+     "Alkali flats"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఎడారులలోని ఎత్తైన భూభాగాలు క్రమంగా తగ్గిపోయి పెడిప్లెయిన్స్ అని పిలువబడే తక్కువ ఎత్తులో ఉండే మైదానాలుగా మారుతాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "High relief in deserts is eventually reduced to low featureless plains known as pediplains."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T04-0088",
+   "section": {
+    "te": "Types of Moraines",
+    "en": "Types of Moraines"
+   },
+   "q": {
+    "te": "కింది మొరైన్ల రకాలను వాటి సరైన వివరణలతో జతపరచండి:\n1. పార్శ్వ మొరైన్లు (Lateral) - i. హిమానీనదం చివరన ఏర్పడి దాని చివరి హద్దును సూచిస్తాయి\n2. టెర్మినల్ మొరైన్లు - ii. రెండు హిమానీనదాలు కలిసినప్పుడు వాటి పార్శ్వ భాగాలు కలిసి ఏర్పడతాయి\n3. మధ్యస్థ మొరైన్లు (Medial) - iii. హిమానీనదం యొక్క పక్క భాగాలలో (వైపులా) ఏర్పడతాయి\n\nసరైన కోడ్‌ను ఎంచుకోండి:",
+    "en": "Match the following types of moraines with their correct descriptions:\n1. Lateral moraines - i. Found at the end of glaciers, marking furthest advance\n2. Terminal moraines - ii. Formed when two glaciers meet and lateral moraines join\n3. Medial moraines - iii. Form along the sides of glaciers\n\nChoose the correct code:"
+   },
+   "options": {
+    "te": [
+     "1-iii, 2-i, 3-ii",
+     "1-i, 2-iii, 3-ii",
+     "1-ii, 2-i, 3-iii",
+     "1-iii, 2-ii, 3-i"
+    ],
+    "en": [
+     "1-iii, 2-i, 3-ii",
+     "1-i, 2-iii, 3-ii",
+     "1-ii, 2-i, 3-iii",
+     "1-iii, 2-ii, 3-i"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పార్శ్వ మొరైన్లు పక్కభాగాలలో (1-iii), టెర్మినల్ మొరైన్లు చివరన (2-i), మధ్యస్థ మొరైన్లు రెండు కలయిక వద్ద (3-ii) ఏర్పడతాయి.",
+    "en": "Lateral moraines form along the sides (1-iii), terminal moraines mark the furthest advance at the end (2-i), and medial moraines form when two glaciers meet (3-ii)."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T04-0223",
+   "section": {
+    "te": "Fjord definition",
+    "en": "Fjord definition"
+   },
+   "q": {
+    "te": "అధిక అక్షాంశాలలో సముద్రపు నీటితో నిండి తీరప్రాంతాలను ఏర్పరిచే లోతైన హిమానీనద ద్రోణులను (glacial troughs) ఏమని పిలుస్తారు?",
+    "en": "Very deep glacial troughs filled with sea water and forming shorelines in high latitudes are known as:"
+   },
+   "options": {
+    "te": [
+     "ఫియార్డులు (Fjords)",
+     "డ్రమ్లిన్లు (Drumlins)",
+     "లాగూన్లు (Lagoons)",
+     "సిర్క్‌లు (Cirques)"
+    ],
+    "en": [
+     "Fjords",
+     "Drumlins",
+     "Lagoons",
+     "Cirques"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సముద్రపు నీటితో నిండి అధిక అక్షాంశాలలో తీరాలను ఏర్పరిచే అత్యంత లోతైన హిమానీనద ద్రోణులను ఫియార్డులు అంటారు.",
+    "en": "Fjords (or fiords) are very deep glacial troughs filled with sea water that make up shorelines in high latitudes."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T04-0109",
+   "section": {
+    "te": "Sills and Sheets",
+    "en": "Sills and Sheets"
+   },
+   "q": {
+    "te": "సమాంతర అంతర్గమ అగ్నిశిలలకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. సన్నగా ఉండే క్షితిజ సమాంతర నిక్షేపాలను 'షీట్లు' (sheets) అంటారు.\n2. మందంగా ఉండే క్షితిజ సమాంతర నిక్షేపాలను 'సిల్స్' (sills) అంటారు.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding horizontal intrusive igneous rocks:\n1. The thinner horizontal deposits of intrusive igneous rocks are called sheets.\n2. The thick horizontal deposits of intrusive igneous rocks are called sills.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "క్షితిజ సమాంతర అంతర్గమ శిలల్లో పలుచని వాటిని షీట్లు అని, మందమైన నిక్షేపాలను సిల్స్ అని పిలుస్తారు.",
+    "en": "Thinner horizontal intrusive bodies are called sheets, whereas the thicker horizontal deposits are called sills."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T04-0067",
+   "section": {
+    "te": "Agents of Erosion",
+    "en": "Agents of Erosion"
+   },
+   "q": {
+    "te": "క్రమక్షయానికి (erosion) సంబంధించి సహజ కారకాలుగా ఈ క్రింది వాటిలో ఏవి పేర్కొనబడ్డాయి?\nA. నీరు\nB. గాలి\nC. మంచు (Ice)",
+    "en": "Which of the following are mentioned as natural agents of erosion?\nA. Water\nB. Wind\nC. Ice"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నీరు, గాలి, మంచు మరియు తరంగాలను క్రమక్షయానికి కారణమయ్యే సహజ కారకాలుగా పాఠ్యభాగం స్పష్టంగా పేర్కొంది.",
+    "en": "The text explicitly lists water, wind, ice, and waves as natural agents that carry out erosion."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T04-0023",
+   "section": {
+    "te": "Highest Plateau",
+    "en": "Highest Plateau"
+   },
+   "q": {
+    "te": "ప్రపంచంలోనే అతిపెద్ద మరియు ఎత్తైన పీఠభూమి ఏది?",
+    "en": "Which of the following is the largest and highest plateau in the world?"
+   },
+   "options": {
+    "te": [
+     "ఛోటానాగ్‌పూర్ పీఠభూమి",
+     "తూర్పు ఆఫ్రికా పీఠభూమి",
+     "టిబెట్ పీఠభూమి",
+     "దక్కన్ పీఠభూమి"
+    ],
+    "en": [
+     "Chhota Nagpur Plateau",
+     "East African Plateau",
+     "Tibetan Plateau",
+     "Deccan Plateau"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "టిబెట్ పీఠభూమి ప్రపంచంలోనే అతిపెద్ద మరియు అత్యంత ఎత్తైన పీఠభూమి.",
+    "en": "The Tibetan Plateau is the largest and highest plateau in the world."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T04-0247",
+   "section": {
+    "te": "Wind Actions",
+    "en": "Wind Actions"
+   },
+   "q": {
+    "te": "ఎడారి వాతావరణంలో, గాలి క్రింది వాటిలో ఏ భూస్వరూప చర్యలకు కారణమవుతుంది?",
+    "en": "In desert environments, wind causes which of the following geomorphic actions?"
+   },
+   "options": {
+    "te": [
+     "డిఫ్లేషన్ (ఎగురవేత)",
+     "అబ్రేషన్ (రాపిడి)",
+     "ఇంపాక్ట్ (తాకిడి)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Deflation",
+     "Abrasion",
+     "Impact",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఎడారులలో పవనాల చర్యల వల్ల డిఫ్లేషన్, అబ్రేషన్ మరియు ఇంపాక్ట్ అనే మూడు రకాల ప్రక్రియలు జరుగుతాయి.",
+    "en": "The textbook directly states: 'Winds cause deflation, abrasion and impact.'"
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T04-0055",
+   "section": {
+    "te": "Weathering vs Erosion",
+    "en": "Weathering vs Erosion"
+   },
+   "q": {
+    "te": "భౌమ ప్రక్రియలకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. శైథిల్యం (Weathering) అంటే కదలిక లేకుండా శిలలు విచ్ఛిన్నం కావడం.\n2. క్రమక్షయం (Erosion) అంటే విచ్ఛిన్నమైన పదార్థాలు ఒక చోటు నుండి మరొక చోటుకు తరలించబడటం.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding geomorphic processes:\n1. Weathering involves the breaking down of rocks without movement.\n2. Erosion involves the movement of broken materials from one place to another.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "శైథిల్యం అనేది శిలలు ఉన్నచోటే విచ్ఛిన్నం కావడాన్ని సూచిస్తుంది, అయితే క్రమక్షయం అనేది విచ్ఛిన్నమైన పదార్థాల రవాణా లేదా కదలికను కలిగి ఉంటుంది.",
+    "en": "Weathering is the breaking down of rocks in situ (without movement), whereas erosion involves the transport or movement of the broken material."
+   }
+  }
+ ]
+}

@@ -1,0 +1,942 @@
+{
+ "id": "geo-21-g1-4",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Mineral and Energy Resources – క్విజ్ 4",
+  "en": "Mineral and Energy Resources – Quiz 4"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T21-0135",
+   "section": {
+    "te": "Mineral Distribution",
+    "en": "Mineral Distribution"
+   },
+   "q": {
+    "te": "భారతదేశంలోని ప్రధాన ఖనిజ వనరులలో ఎక్కువ భాగం ఏ రెండు నగరాలను కలిపే ఊహాజనిత రేఖకు తూర్పున కేంద్రీకృతమై ఉన్నాయి?",
+    "en": "Most of the major mineral resources in India are concentrated to the east of an imaginary line linking which two cities?"
+   },
+   "options": {
+    "te": [
+     "బెంగళూరు మరియు లక్నో",
+     "చెన్నై మరియు కోల్‌కతా",
+     "మంగళూరు మరియు కాన్పూర్",
+     "ముంబై మరియు ఢిల్లీ"
+    ],
+    "en": [
+     "Bengaluru and Lucknow",
+     "Chennai and Kolkata",
+     "Mangaluru and Kanpur",
+     "Mumbai and Delhi"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మంగళూరు మరియు కాన్పూర్‌లను కలిపే రేఖకు తూర్పున ప్రధాన ఖనిజ వనరులు ఎక్కువగా కనిపిస్తాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text specifies that major mineral resources are mostly found to the east of a line linking Mangaluru and Kanpur."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T21-0031",
+   "section": {
+    "te": "Veins and Lodes",
+    "en": "Veins and Lodes"
+   },
+   "q": {
+    "te": "పగుళ్లు మరియు సందులలో ఖనిజాలు లభించే సందర్భంలో, పెద్ద పరిమాణంలో లభించే వాటిని ఏమని పిలుస్తారు?",
+    "en": "In the context of mineral occurrences in cracks and crevices, what are the larger occurrences called?"
+   },
+   "options": {
+    "te": [
+     "వీన్స్ (Veins)",
+     "లోడ్స్ (Lodes)",
+     "పొరలు (Layers)",
+     "బెడ్స్ (Beds)"
+    ],
+    "en": [
+     "Veins",
+     "Lodes",
+     "Layers",
+     "Beds"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పగుళ్లు మరియు కీళ్లలో కనిపించే ఖనిజాలను వాటి పరిమాణాన్ని బట్టి వర్గీకరిస్తారు: చిన్న వాటిని వీన్స్ అని, పెద్ద వాటిని లోడ్స్ అని పిలుస్తారు.",
+    "en": "Minerals found in cracks and joints are classified by size: smaller occurrences are veins, while larger ones are called lodes."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T21-0174",
+   "section": {
+    "te": "Mumbai High Production",
+    "en": "Mumbai High Production"
+   },
+   "q": {
+    "te": "ముంబై హైలో చమురు ఉత్పత్తి ఏ సంవత్సరంలో ప్రారంభమైంది?",
+    "en": "In which year did oil production commence at Mumbai High?"
+   },
+   "options": {
+    "te": [
+     "1956",
+     "1976",
+     "1980",
+     "1973"
+    ],
+    "en": [
+     "1956",
+     "1976",
+     "1980",
+     "1973"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ముంబై హై 1973లో కనుగొనబడింది, కానీ దాని ఉత్పత్తి 1976లో ప్రారంభమైంది.",
+    "en": "Mumbai High was discovered in 1973, but its production started in 1976."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T21-0134",
+   "section": {
+    "te": "Coal Distribution",
+    "en": "Coal Distribution"
+   },
+   "q": {
+    "te": "భారతదేశంలోని 97 శాతానికి పైగా బొగ్గు నిక్షేపాలు ఈ క్రింది ఏ నదీ లోయలలో ఉన్నాయి?",
+    "en": "In which of the following river valleys are over 97 per cent of India's coal reserves located?"
+   },
+   "options": {
+    "te": [
+     "దామోదర్ మరియు సోన్",
+     "మహానది మరియు గోదావరి",
+     "A మరియు B రెండూ",
+     "కృష్ణ మరియు కావేరి"
+    ],
+    "en": [
+     "Damodar and Sone",
+     "Mahanadi and Godavari",
+     "Both A and B",
+     "Krishna and Kaveri"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "దామోదర్, సోన్, మహానది మరియు గోదావరి లోయలలో 97% కంటే ఎక్కువ బొగ్గు నిక్షేపాలు ఉన్నాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Over 97% of coal reserves occur in the valleys of Damodar, Sone, Mahanadi, and Godavari."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T21-0118",
+   "section": {
+    "te": "Non-metallic Minerals",
+    "en": "Non-metallic Minerals"
+   },
+   "q": {
+    "te": "కింది వాటిలో అకర్బన అలోహ ఖనిజాలకు (inorganic non-metallic minerals) ఉదాహరణలు ఏవి?",
+    "en": "Which of the following are examples of inorganic non-metallic minerals?"
+   },
+   "options": {
+    "te": [
+     "అభ్రకం (Mica) మరియు సున్నపురాయి (Limestone)",
+     "గ్రాఫైట్",
+     "A మరియు B రెండూ",
+     "బొగ్గు మరియు పెట్రోలియం"
+    ],
+    "en": [
+     "Mica and Limestone",
+     "Graphite",
+     "Both A and B",
+     "Coal and Petroleum"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం అభ్రకం, సున్నపురాయి మరియు గ్రాఫైట్‌లను అకర్బన అలోహ ఖనిజాలుగా వర్గీకరించింది, అయితే బొగ్గు మరియు పెట్రోలియం సేంద్రీయమైనవి.",
+    "en": "The text classifies mica, limestone, and graphite as inorganic non-metallic minerals, while coal and petroleum are organic."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T21-0077",
+   "section": {
+    "te": "Coal Quality",
+    "en": "Coal Quality"
+   },
+   "q": {
+    "te": "కింది వాటిలో ఏ రకమైన బొగ్గు అత్యంత నాణ్యమైన గట్టి బొగ్గుగా పరిగణించబడుతుంది?",
+    "en": "Which of the following types of coal is considered the highest quality hard coal?"
+   },
+   "options": {
+    "te": [
+     "బిటుమినస్",
+     "లిగ్నైట్",
+     "పీట్",
+     "ఆంత్రాసైట్"
+    ],
+    "en": [
+     "Bituminous",
+     "Lignite",
+     "Peat",
+     "Anthracite"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, అన్ని రకాల గట్టి బొగ్గులలో ఆంత్రాసైట్ అత్యంత నాణ్యమైనది.",
+    "en": "Anthracite is the highest quality among all types of hard coal."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T21-0019",
+   "section": {
+    "te": "Mineral nutrition",
+    "en": "Mineral nutrition"
+   },
+   "q": {
+    "te": "మానవ ఆహారంలో ఖనిజాల ప్రాముఖ్యతకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. మన మొత్తం పోషకాహారంలో ఖనిజాల వినియోగం సుమారు 0.3 శాతంగా ఉంటుంది.\n2. మిగిలిన 99.7 శాతం ఆహార పదార్థాలను వినియోగించుకోవడానికి ఖనిజాలు అవసరం.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the importance of minerals in the human diet:\n1. Mineral intake accounts for approximately 0.3 percent of our total nutrient intake.\n2. Minerals are essential to utilize the remaining 99.7 percent of foodstuffs.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఖనిజాలు మన ఆహారంలో కేవలం 0.3% మాత్రమే ఉన్నప్పటికీ, మిగిలిన 99.7% ఆహారాన్ని ప్రాసెస్ చేయడానికి అవి అవసరమని పాఠ్యభాగం స్పష్టంగా పేర్కొంది.",
+    "en": "While minerals are only 0.3% of our intake, they are necessary to process the other 99.7% of our food."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T21-0088",
+   "section": {
+    "te": "Lignite Reserves",
+    "en": "Lignite Reserves"
+   },
+   "q": {
+    "te": "నెయ్వేలిలోని ప్రధాన లిగ్నైట్ నిక్షేపాలు ఏ రాష్ట్రంలో ఉన్నాయి?",
+    "en": "In which state are the principal lignite reserves of Neyveli located?"
+   },
+   "options": {
+    "te": [
+     "కర్ణాటక",
+     "తమిళనాడు",
+     "ఆంధ్రప్రదేశ్",
+     "కేరళ"
+    ],
+    "en": [
+     "Karnataka",
+     "Tamil Nadu",
+     "Andhra Pradesh",
+     "Kerala"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రధాన లిగ్నైట్ నిక్షేపాలు తమిళనాడులోని నెయ్వేలిలో ఉన్నాయని పాఠ్యాంశం పేర్కొంది.",
+    "en": "The main lignite reserves are found in Neyveli, Tamil Nadu."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T21-0128",
+   "section": {
+    "te": "Metallic Minerals",
+    "en": "Metallic Minerals"
+   },
+   "q": {
+    "te": "ఫెర్రస్ మరియు నాన్-ఫెర్రస్ లోహ ఖనిజాల మధ్య ప్రాథమిక వ్యత్యాసం ఏమిటి?",
+    "en": "What is the primary difference between ferrous and non-ferrous metallic minerals?"
+   },
+   "options": {
+    "te": [
+     "ఫెర్రస్ ఖనిజాలు మైదానాల్లో, నాన్-ఫెర్రస్ పీఠభూముల్లో కనిపిస్తాయి",
+     "ఫెర్రస్ ఖనిజాలు ఇనుమును కలిగి ఉంటాయి, నాన్-ఫెర్రస్ కలిగి ఉండవు",
+     "ఫెర్రస్ ఖనిజాలు సేంద్రీయమైనవి, నాన్-ఫెర్రస్ అకర్బనమైనవి",
+     "ఫెర్రస్ ఖనిజాలు అలోహాలు, నాన్-ఫెర్రస్ లోహాలు"
+    ],
+    "en": [
+     "Ferrous minerals are found in plains, non-ferrous in plateaus",
+     "Ferrous minerals contain iron, non-ferrous do not",
+     "Ferrous minerals are organic, non-ferrous are inorganic",
+     "Ferrous minerals are non-metallic, non-ferrous are metallic"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఇనుమును కలిగి ఉన్న లోహ ఖనిజాలను ఫెర్రస్ అని, ఇనుము లేని వాటిని నాన్-ఫెర్రస్ అని పిలుస్తారు.",
+    "en": "Metallic minerals with iron content are called ferrous, while those without iron content are called non-ferrous."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T21-0079",
+   "section": {
+    "te": "Coal Industry Location",
+    "en": "Coal Industry Location"
+   },
+   "q": {
+    "te": "భారీ పరిశ్రమలు మరియు థర్మల్ పవర్ స్టేషన్లు సాధారణంగా బొగ్గు గనుల వద్ద లేదా వాటికి సమీపంలో ఎందుకు ఉంటాయి?",
+    "en": "Why are heavy industries and thermal power stations generally located on or near coalfields?"
+   },
+   "options": {
+    "te": [
+     "బొగ్గు అత్యంత అస్థిరమైన పదార్థం",
+     "బొగ్గు ఒక భారీ పదార్థం, ఇది బూడిదగా మారినప్పుడు బరువును కోల్పోతుంది",
+     "బొగ్గు రవాణా చేయడానికి అధిక తేమ అవసరం",
+     "బొగ్గు పర్వత ప్రాంతాలలో మాత్రమే కనిపిస్తుంది"
+    ],
+    "en": [
+     "Coal is a highly volatile substance",
+     "Coal is a bulky material that loses weight as it is reduced to ash",
+     "Coal requires high moisture to be transported",
+     "Coal is only found in mountainous regions"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "బొగ్గు భారీగా ఉంటుంది మరియు బూడిదగా మారినప్పుడు బరువును కోల్పోతుంది, కాబట్టి పరిశ్రమలను బొగ్గు లభించే ప్రాంతాలకు సమీపంలో ఏర్పాటు చేయడం ఆర్థికంగా లాభదాయకం.",
+    "en": "Coal is bulky and loses weight when burned to ash, making it more economical to locate industries near the source."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T21-0141",
+   "section": {
+    "te": "Mineral Characteristics",
+    "en": "Mineral Characteristics"
+   },
+   "q": {
+    "te": "ఖనిజాల గురించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. అవి అంతటా సమానంగా పంపిణీ చేయబడతాయి.\n2. అవి కాలక్రమేణా తరిగిపోతాయి.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements about minerals:\n1. They are evenly distributed over space.\n2. They are exhaustible over time.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఖనిజాలు అసమానంగా పంపిణీ చేయబడతాయని మరియు కాలక్రమేణా తరిగిపోతాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Minerals are unevenly distributed and are exhaustible over time."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T21-0138",
+   "section": {
+    "te": "Odisha Iron Mines",
+    "en": "Odisha Iron Mines"
+   },
+   "q": {
+    "te": "గురుమహిసాని, సులైపేట్ మరియు బాదాంపహార్ ఇనుప ఖనిజ గనులు ఏ రాష్ట్రంలో ఉన్నాయి?",
+    "en": "In which state are the iron ore mines of Gurumahisani, Sulaipet, and Badampahar located?"
+   },
+   "options": {
+    "te": [
+     "ఒడిశా",
+     "జార్ఖండ్",
+     "కర్ణాటక",
+     "ఛత్తీస్‌గఢ్"
+    ],
+    "en": [
+     "Odisha",
+     "Jharkhand",
+     "Karnataka",
+     "Chhattisgarh"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఈ గనులు ఒడిశాలోని మయూర్ భంజ్ జిల్లాలో ఉన్నాయి.",
+    "en": "These mines are located in the Mayurbhanj district of Odisha."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T21-0105",
+   "section": {
+    "te": "Geothermal Energy Reason",
+    "en": "Geothermal Energy Reason"
+   },
+   "q": {
+    "te": "భూఉష్ణ శక్తి (Geothermal energy) ప్రాథమికంగా దేనివల్ల ఏర్పడుతుంది?",
+    "en": "Geothermal energy exists primarily because the Earth grows progressively hotter with:"
+   },
+   "options": {
+    "te": [
+     "పీడనం తగ్గడం వల్ల",
+     "ఎత్తు పెరిగేకొద్దీ",
+     "సూర్యరశ్మి ప్రభావం వల్ల",
+     "లోతు పెరిగేకొద్దీ భూమి వేడెక్కడం వల్ల"
+    ],
+    "en": [
+     "Decreasing pressure",
+     "Increasing altitude",
+     "Exposure to sunlight",
+     "Increasing depth"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూమి లోపలికి వెళ్లేకొద్దీ ఉష్ణోగ్రత పెరుగుతుంది కాబట్టి భూఉష్ణ శక్తి లభిస్తుంది.",
+    "en": "Geothermal energy is available because the temperature of the Earth increases as we go deeper into its interior."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T21-0127",
+   "section": {
+    "te": "Co-operative Farming",
+    "en": "Co-operative Farming"
+   },
+   "q": {
+    "te": "ఏ దేశంలో సహకార ఉద్యమం ఎంత విజయవంతమైందంటే, ఆచరణాత్మకంగా ప్రతి రైతు సహకార సంఘంలో సభ్యునిగా ఉన్నారు?",
+    "en": "In which country has the co-operative movement been so successful that practically every farmer is a member of a co-operative?"
+   },
+   "options": {
+    "te": [
+     "డెన్మార్క్",
+     "బెల్జియం",
+     "నెదర్లాండ్స్",
+     "స్వీడన్"
+    ],
+    "en": [
+     "Denmark",
+     "Belgium",
+     "Netherlands",
+     "Sweden"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సహకార ఉద్యమం అత్యంత విజయవంతమైన దేశంగా డెన్మార్క్‌ను పాఠ్యభాగం నొక్కి చెప్పింది, అక్కడ దాదాపు ప్రతి రైతు సభ్యునిగా ఉన్నారు.",
+    "en": "The text highlights Denmark as the country where the co-operative movement has been most successful, with almost every farmer being a member."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T21-0092",
+   "section": {
+    "te": "Electricity Generation",
+    "en": "Electricity Generation"
+   },
+   "q": {
+    "te": "కింది వాటిలో ఏ ఇంధనాలను మండించడం ద్వారా థర్మల్ విద్యుత్ ఉత్పత్తి అవుతుంది?\nA. బొగ్గు\nB. పెట్రోలియం\nC. సహజ వాయువు",
+    "en": "Thermal electricity is generated by burning which of the following fuels?\nA. Coal\nB. Petroleum\nC. Natural Gas"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "బొగ్గు, పెట్రోలియం మరియు సహజ వాయువు వంటి శిలాజ ఇంధనాలను మండించడం ద్వారా థర్మల్ విద్యుత్ ఉత్పత్తి అవుతుంది.",
+    "en": "Thermal power is produced by burning fossil fuels like coal, petroleum, and natural gas."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T21-0053",
+   "section": {
+    "te": "Bauxite Deposits",
+    "en": "Bauxite Deposits"
+   },
+   "q": {
+    "te": "ఒడిశాలోని ఏ జిల్లాలో ప్రసిద్ధ పంచపత్మాలి బాక్సైట్ నిక్షేపాలు ఉన్నాయి?",
+    "en": "In which district of Odisha are the famous Panchpatmali bauxite deposits located?"
+   },
+   "options": {
+    "te": [
+     "కోరాపుట్",
+     "కేందుఝర్",
+     "మయూర్ భంజ్",
+     "సింగ్‌భూమ్"
+    ],
+    "en": [
+     "Koraput",
+     "Kendujhar",
+     "Mayurbhanj",
+     "Singbhum"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఒడిశాలోని అత్యంత ముఖ్యమైన బాక్సైట్ నిక్షేపాలు అయిన పంచపత్మాలి నిక్షేపాలు కోరాపుట్ జిల్లాలో ఉన్నాయి.",
+    "en": "The Panchpatmali deposits, which are the most important bauxite deposits in Odisha, are located in the Koraput district."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T21-0166",
+   "section": {
+    "te": "Tertiary Coal Distribution",
+    "en": "Tertiary Coal Distribution"
+   },
+   "q": {
+    "te": "భారతదేశంలో టెర్షియరీ బొగ్గు లభ్యతకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి నాగాలాండ్ రాష్ట్రంలో కనిపిస్తాయి.\n2. ఇవి అరుణాచల్ ప్రదేశ్‌లో లభిస్తాయి.\n3. ఇవి జమ్మూ కాశ్మీర్‌లో కూడా కనిపిస్తాయి.\nపైన ఇచ్చిన ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding the occurrence of Tertiary coals in India:\n1. They are found in the state of Nagaland.\n2. They occur in Arunachal Pradesh.\n3. They are also found in Jammu and Kashmir.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "టెర్షియరీ బొగ్గు అస్సాం, అరుణాచల్ ప్రదేశ్, మేఘాలయ, నాగాలాండ్ మరియు ప్రత్యేకంగా జమ్మూ కాశ్మీర్‌లోని కాలాకోట్‌లో లభిస్తుంది.",
+    "en": "Tertiary coals occur in Assam, Arunachal Pradesh, Meghalaya, Nagaland, and specifically at Kalakot in Jammu and Kashmir."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T21-0142",
+   "section": {
+    "te": "North-Western Region",
+    "en": "North-Western Region"
+   },
+   "q": {
+    "te": "రాజస్థాన్ ఈ క్రింది ఏ నిర్మాణ రాళ్లను సమృద్ధిగా కలిగి ఉంది?",
+    "en": "Which of the following building stones is Rajasthan rich in?"
+   },
+   "options": {
+    "te": [
+     "ఇసుక రాయి (Sandstone)",
+     "గ్రానైట్",
+     "మార్బుల్",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Sandstone",
+     "Granite",
+     "Marble",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రాజస్థాన్‌లో ఇసుక రాయి, గ్రానైట్ మరియు మార్బుల్‌తో సహా నిర్మాణ రాళ్లు సమృద్ధిగా ఉన్నాయి.",
+    "en": "Rajasthan is rich in building stones including sandstone, granite, and marble."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T21-0103",
+   "section": {
+    "te": "Biogas Terminology",
+    "en": "Biogas Terminology"
+   },
+   "q": {
+    "te": "గ్రామీణ భారతదేశంలో, పశువుల పేడను ఉపయోగించే బయోగ్యాస్ ప్లాంట్లను సాధారణంగా ఏమని పిలుస్తారు?",
+    "en": "In rural India, biogas plants that specifically use cattle dung are commonly known as:"
+   },
+   "options": {
+    "te": [
+     "LPG ప్లాంట్లు",
+     "గోబర్ గ్యాస్ ప్లాంట్లు",
+     "థర్మల్ ప్లాంట్లు",
+     "సౌర విద్యుత్ ప్లాంట్లు"
+    ],
+    "en": [
+     "LPG plants",
+     "Gobar gas plants",
+     "Thermal plants",
+     "Solar plants"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "గ్రామీణ ప్రాంతాల్లో పశువుల పేడను ఉపయోగించే బయోగ్యాస్ ప్లాంట్లను 'గోబర్ గ్యాస్ ప్లాంట్లు' అని పిలుస్తారని పాఠ్య భాగం పేర్కొంది.",
+    "en": "Biogas plants using cattle dung are known as 'Gobar gas plants' in rural areas."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T21-0139",
+   "section": {
+    "te": "Manganese Association",
+    "en": "Manganese Association"
+   },
+   "q": {
+    "te": "భారతదేశంలోని మాంగనీస్ నిక్షేపాలు ప్రాథమికంగా ఏ భౌగోళిక వ్యవస్థతో సంబంధం కలిగి ఉన్నాయి?",
+    "en": "Manganese deposits in India are primarily associated with which geological system?"
+   },
+   "options": {
+    "te": [
+     "టెర్షియరీ వ్యవస్థ",
+     "గోండ్వానా వ్యవస్థ",
+     "ధార్వార్ వ్యవస్థ",
+     "వింధ్య వ్యవస్థ"
+    ],
+    "en": [
+     "Tertiary system",
+     "Gondwana system",
+     "Dharwar system",
+     "Vindhyan system"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అనేక నిర్మాణాలలో కనుగొనబడినప్పటికీ, మాంగనీస్ ప్రధానంగా ధార్వార్ వ్యవస్థతో సంబంధం కలిగి ఉంటుంది.",
+    "en": "Although found in many formations, manganese is mainly associated with the Dharwar system."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T21-0145",
+   "section": {
+    "te": "Chhattisgarh Iron Mines",
+    "en": "Chhattisgarh Iron Mines"
+   },
+   "q": {
+    "te": "దల్లి మరియు రాజహరా ఇనుప ఖనిజ గనులు ఛత్తీస్‌గఢ్‌లోని ఏ జిల్లాలో ఉన్నాయి?",
+    "en": "The Dalli and Rajhara iron ore mines are located in which district of Chhattisgarh?"
+   },
+   "options": {
+    "te": [
+     "దంతెవాడ",
+     "బస్తర్",
+     "బైలాడిలా",
+     "దుర్గ్"
+    ],
+    "en": [
+     "Dantewara",
+     "Bastar",
+     "Bailadila",
+     "Durg"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "దల్లి మరియు రాజహరా దుర్గ్ జిల్లాలో ఉన్న ముఖ్యమైన ఇనుప ఖనిజ గనులు.",
+    "en": "Dalli and Rajhara are important iron ore mines located in the Durg district."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T21-0078",
+   "section": {
+    "te": "Lignite Characteristics",
+    "en": "Lignite Characteristics"
+   },
+   "q": {
+    "te": "లిగ్నైట్ బొగ్గుకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఇది తక్కువ రకానికి చెందిన గోధుమ రంగు బొగ్గు.\n2. ఇది మెత్తగా ఉంటుంది మరియు అధిక తేమను కలిగి ఉంటుంది.\n3. దీనిని ప్రాథమికంగా బ్లాస్ట్ ఫర్నేస్‌లలో ఇనుమును కరిగించడానికి ఉపయోగిస్తారు.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding Lignite coal:\n1. It is a low-grade brown coal.\n2. It is soft and has high moisture content.\n3. It is primarily used for smelting iron in blast furnaces.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 only",
+     "1 and 2 only",
+     "2 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "లిగ్నైట్ అనేది అధిక తేమ కలిగిన తక్కువ రకపు గోధుమ బొగ్గు. ఇనుమును కరిగించడానికి లిగ్నైట్ కాదు, మెటలర్జికల్ బొగ్గు (బిటుమినస్) ఉపయోగించబడుతుంది.",
+    "en": "Lignite is a low-grade brown coal with high moisture. Metallurgical coal (high-grade bituminous), not lignite, is used for smelting iron."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T21-0158",
+   "section": {
+    "te": "Bauxite rock association",
+    "en": "Bauxite rock association"
+   },
+   "q": {
+    "te": "భారతదేశంలోని బాక్సైట్ నిక్షేపాలు ప్రాథమికంగా ఏ రకమైన శిలలతో సంబంధం కలిగి ఉంటాయి?",
+    "en": "Bauxite deposits in India are primarily associated with which of the following types of rocks?"
+   },
+   "options": {
+    "te": [
+     "ఇసుకరాతి శిలలు (Sandstone rocks)",
+     "రూపాంతర శిలలు (Metamorphic rocks)",
+     "అగ్ని శిలలు (Igneous rocks)",
+     "లాటరైట్ శిలలు (Laterite rocks)"
+    ],
+    "en": [
+     "Sandstone rocks",
+     "Metamorphic rocks",
+     "Igneous rocks",
+     "Laterite rocks"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "బాక్సైట్ తృతీయ (tertiary) నిక్షేపాలలో కనిపిస్తుంది మరియు ద్వీపకల్ప భారతదేశం మరియు తీర ప్రాంతాలలోని లాటరైట్ శిలలతో ప్రత్యేకంగా సంబంధం కలిగి ఉంటుంది.",
+    "en": "Bauxite is found in tertiary deposits and is specifically associated with laterite rocks in peninsular India and coastal tracts."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T21-0068",
+   "section": {
+    "te": "Coal mining risks",
+    "en": "Coal mining risks"
+   },
+   "q": {
+    "te": "బొగ్గు గనుల్లో పనిచేసే కార్మికులకు నిరంతరం ఉండే ముప్పులు ఏవి?\nA. గని పైకప్పులు కూలిపోవడం\nB. నీరు ముంచెత్తడం (Inundation)\nC. అగ్నిప్రమాదాలు",
+    "en": "Which of the following are constant threats to miners in coal mines?\nA. Collapsing mine roofs\nB. Inundation (flooding)\nC. Fires"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "బొగ్గు గనుల్లో పైకప్పులు కూలిపోవడం, నీరు ముంచెత్తడం మరియు అగ్నిప్రమాదాలు నిరంతర ముప్పులని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text explicitly lists collapsing roofs, inundation, and fires as constant threats in coal mines."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T21-0069",
+   "section": {
+    "te": "Mineral availability",
+    "en": "Mineral availability"
+   },
+   "q": {
+    "te": "భూమి యొక్క క్రస్ట్‌లో (earth's crust) పని చేయదగిన ఖనిజ నిక్షేపాల మొత్తం పరిమాణం ఎంత శాతం ఉంటుంది?",
+    "en": "What percentage of the earth's crust is made up of the total volume of workable mineral deposits?"
+   },
+   "options": {
+    "te": [
+     "1 శాతం",
+     "0.1 శాతం",
+     "5 శాతం",
+     "10 శాతం"
+    ],
+    "en": [
+     "1 per cent",
+     "0.1 per cent",
+     "5 per cent",
+     "10 per cent"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూమి యొక్క క్రస్ట్‌లో పని చేయదగిన ఖనిజ నిక్షేపాలు కేవలం ఒక శాతం మాత్రమే ఉంటాయి.",
+    "en": "Workable mineral deposits represent only a very small fraction, specifically one percent, of the earth's crust."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T21-0072",
+   "section": {
+    "te": "Energy resources",
+    "en": "Energy resources"
+   },
+   "q": {
+    "te": "పశువుల పేడ బిళ్ళలను ఇంధనంగా ఉపయోగించడాన్ని ఎందుకు నిరుత్సాహపరుస్తున్నారు?",
+    "en": "Why is the use of cattle dung cake as a fuel being discouraged?"
+   },
+   "options": {
+    "te": [
+     "ఇది వ్యవసాయానికి అవసరమైన విలువైన ఎరువును వినియోగిస్తుంది",
+     "దీనికి తక్కువ తాపన విలువ (heating value) ఉంటుంది",
+     "ఇది వాయు కాలుష్యానికి కారణమవుతుంది",
+     "దీనిని రవాణా చేయడం కష్టం"
+    ],
+    "en": [
+     "It consumes valuable manure needed for agriculture",
+     "It has low heating value",
+     "It causes air pollution",
+     "It is difficult to transport"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పేడ బిళ్ళల వాడకం వల్ల వ్యవసాయానికి ఎరువుగా ఉపయోగపడే విలువైన పేడ వృధా అవుతుంది.",
+    "en": "Dung cake use is discouraged because the dung could otherwise be used as valuable organic manure for farming."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T21-0014",
+   "section": {
+    "te": "Benefits of resource industries",
+    "en": "Benefits of resource industries"
+   },
+   "q": {
+    "te": "సహజ వనరుల సమీపంలో పరిశ్రమలు స్థాపించబడినప్పుడు కలిగే సానుకూల ప్రయోజనాలు ఏవి?",
+    "en": "Which of the following positive developments occur when industries are set up near natural resources?"
+   },
+   "options": {
+    "te": [
+     "స్థానిక ప్రజలకు ఉపాధి అవకాశాలు లభించడం",
+     "టౌన్‌షిప్‌లు ఏర్పడి, ఇతర ఆర్థిక అవకాశాలు విస్తరించడం",
+     "జీవన ప్రమాణాలను పెంచే ఆధునిక సౌకర్యాలు అందుబాటులోకి రావడం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Creation of employment opportunities for local people",
+     "Growth of townships and expansion of economic opportunities",
+     "Accessibility to modern facilities improving quality of life",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వనరుల దగ్గర పరిశ్రమలు రావడం వల్ల ఉపాధి కల్పన, పట్టణాల పెరుగుదల మరియు ఆధునిక సౌకర్యాలు అందుబాటులోకి రావడం వంటి అనేక ప్రయోజనాలు కలుగుతాయి.",
+    "en": "Setting up industries near resources creates employment, allows townships to grow, and improves quality of life by making modern facilities accessible."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T21-0082",
+   "section": {
+    "te": "Petroleum Geology",
+    "en": "Petroleum Geology"
+   },
+   "q": {
+    "te": "భారతదేశంలో పెట్రోలియం లభ్యతకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి ఎక్కువగా గోండ్వానా కాలపు శిలా నిర్మాణాలతో సంబంధం కలిగి ఉంటాయి.\n2. మడత పడిన ప్రాంతాలలో, చమురు అప్-ఫోల్డ్ (యాంటిక్లైన్స్) శిఖరంలో చిక్కుకుంటుంది.\n3. చమురును కలిగి ఉండే పొర సాధారణంగా గ్రానైట్ వంటి రంధ్రాలు లేని శిల.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding petroleum occurrences in India:\n1. They are mostly associated with rock formations of the Gondwana age.\n2. In regions of folding, oil is trapped in the crest of the upfold (anticlines).\n3. The oil-bearing layer is typically a non-porous rock like granite.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 only",
+     "2 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పెట్రోలియం టెర్షియరీ కాలపు శిలలతో (గోండ్వానా కాదు) మరియు రంధ్రాలు కలిగిన సున్నపురాయి లేదా ఇసుకరాతితో సంబంధం కలిగి ఉంటుంది. ఇది యాంటిక్లైన్స్‌లో చిక్కుకుంటుంది.",
+    "en": "Petroleum is associated with Tertiary age rocks (not Gondwana) and porous limestone or sandstone (not non-porous granite). It is trapped in anticlines."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T21-0089",
+   "section": {
+    "te": "Geological Age of Coal",
+    "en": "Geological Age of Coal"
+   },
+   "q": {
+    "te": "భారతదేశంలోని బొగ్గు యొక్క భౌగోళిక యుగాలకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. గోండ్వానా బొగ్గు 200 మిలియన్ సంవత్సరాల కంటే కొంచెం ఎక్కువ పురాతనమైనది.\n2. టెర్షియరీ బొగ్గు నిక్షేపాలు సుమారు 55 మిలియన్ సంవత్సరాల పురాతనమైనవి.\n3. టెర్షియరీ బొగ్గు ప్రధానంగా దామోదర్ లోయలో కనిపిస్తుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about the geological ages of coal in India:\n1. Gondwana coal is a little over 200 million years old.\n2. Tertiary coal deposits are approximately 55 million years old.\n3. Tertiary coals are primarily found in the Damodar valley.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "గోండ్వానా బొగ్గు (200 మిలియన్ ఏళ్లు) దామోదర్ లోయలో ఉండగా, టెర్షియరీ బొగ్గు (55 మిలియన్ ఏళ్లు) ఈశాన్య రాష్ట్రాల్లో కనిపిస్తుంది.",
+    "en": "Gondwana coal (200m years) is in the Damodar valley, while Tertiary coal (55m years) is found in North Eastern states."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T21-0018",
+   "section": {
+    "te": "Toothpaste abrasives",
+    "en": "Toothpaste abrasives"
+   },
+   "q": {
+    "te": "టూత్‌పేస్ట్‌లో పళ్లను శుభ్రపరచడానికి రాపిడి కారకాలుగా (abrasives) ఈ క్రింది ఏ ఖనిజాలు పనిచేస్తాయి?",
+    "en": "Which of the following minerals act as abrasives to clean teeth in toothpaste?"
+   },
+   "options": {
+    "te": [
+     "సిలికా మరియు సున్నపురాయి",
+     "అల్యూమినియం ఆక్సైడ్",
+     "ఫాస్ఫేట్ ఖనిజాలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Silica and Limestone",
+     "Aluminium oxide",
+     "Phosphate minerals",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సిలికా, సున్నపురాయి, అల్యూమినియం ఆక్సైడ్ మరియు వివిధ ఫాస్ఫేట్ ఖనిజాలను పళ్లను శుభ్రపరచడానికి ఉపయోగించే రాపిడి ఖనిజాలుగా పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text lists silica, limestone, aluminium oxide, and various phosphate minerals as abrasive minerals used for cleaning teeth."
+   }
+  }
+ ]
+}

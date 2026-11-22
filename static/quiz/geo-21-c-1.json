@@ -1,0 +1,942 @@
+{
+ "id": "geo-21-c-1",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Mineral and Energy Resources – క్విజ్ 1",
+  "en": "Mineral and Energy Resources – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T21-0169",
+   "section": {
+    "te": "Natural Gas Uses",
+    "en": "Natural Gas Uses"
+   },
+   "q": {
+    "te": "కింది ఏ పరిశ్రమలలో సహజ వాయువును ముడి పదార్థంగా ఉపయోగిస్తారు?\nA. రసాయన పరిశ్రమ\nB. ఎరువుల పరిశ్రమ",
+    "en": "Natural gas is used as a raw material in which of the following industries?\nA. Chemical industry\nB. Fertiliser industry"
+   },
+   "options": {
+    "te": [
+     "A మాత్రమే",
+     "B మాత్రమే",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "A only",
+     "B only",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రసాయన, పెట్రోకెమికల్ మరియు ఎరువుల పరిశ్రమలలో సహజ వాయువు ముడి పదార్థంగా ఉపయోగపడుతుంది.",
+    "en": "Natural gas serves as a raw material in chemical, petrochemical, and fertiliser industries."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T21-0010",
+   "section": {
+    "te": "Costs of resource exploitation",
+    "en": "Costs of resource exploitation"
+   },
+   "q": {
+    "te": "పారిశ్రామిక అభివృద్ధి కారణంగా వనరులు సమృద్ధిగా ఉన్న ప్రాంతాల ప్రజలు ఎదుర్కొనే ప్రతికూల పరిణామాలు ఏవి?",
+    "en": "Which of the following are adverse costs faced by communities in resource-rich areas due to industrial developments?"
+   },
+   "options": {
+    "te": [
+     "ప్రజలు తమ నివాసాల నుండి నిరాశ్రయులు కావడం (స్థానభ్రంశం)",
+     "పవిత్ర స్థలాలు ముప్పును ఎదుర్కొని వివాదాలకు దారితీయడం",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Displacement of people from their homes",
+     "Threats to their sacred places leading to conflicts",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వనరులు ఎక్కువగా ఉండే ప్రాంతాలలో నివసించే ప్రజలు తమ ఇళ్లను కోల్పోవడం మరియు వారి పవిత్ర స్థలాలకు ముప్పు ఏర్పడి ఘర్షణలకు దారితీయడం వంటి సమస్యలు ఎదురవుతాయి.",
+    "en": "People in resource-rich areas often get displaced from their homes and face threats to their sacred places, leading to conflicts."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T21-0175",
+   "section": {
+    "te": "Solar Energy Potential",
+    "en": "Solar Energy Potential"
+   },
+   "q": {
+    "te": "రాజస్థాన్‌తో పాటు, పశ్చిమ భారతదేశంలోని ఏ ఇతర రాష్ట్రం సౌర శక్తి అభివృద్ధికి ఎక్కువ సామర్థ్యాన్ని కలిగి ఉంది?",
+    "en": "Apart from Rajasthan, which other state in western India has greater potential for the development of solar energy?"
+   },
+   "options": {
+    "te": [
+     "గోవా",
+     "మహారాష్ట్ర",
+     "మధ్యప్రదేశ్",
+     "గుజరాత్"
+    ],
+    "en": [
+     "Goa",
+     "Maharashtra",
+     "Madhya Pradesh",
+     "Gujarat"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సౌర శక్తి అభివృద్ధికి గుజరాత్ మరియు రాజస్థాన్ రాష్ట్రాలు ఎక్కువ సామర్థ్యాన్ని కలిగి ఉన్నాయని పాఠ్యభాగం గుర్తిస్తుంది.",
+    "en": "The text identifies Gujarat and Rajasthan as having greater potential for solar energy development."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T21-0040",
+   "section": {
+    "te": "Bauxite formation",
+    "en": "Bauxite formation"
+   },
+   "q": {
+    "te": "ఉపరితల శిలల విచ్ఛిన్నం మరియు కరిగే అంశాల తొలగింపు ద్వారా ఏర్పడే అవశేష పదార్థం నుండి ఏ ఖనిజం ఏర్పడుతుంది?",
+    "en": "Which mineral is formed by the decomposition of surface rocks and the removal of soluble constituents, leaving a residual mass of weathered material?"
+   },
+   "options": {
+    "te": [
+     "బొగ్గు",
+     "ఇనుప ఖనిజం",
+     "బంగారం",
+     "బాక్సైట్"
+    ],
+    "en": [
+     "Coal",
+     "Iron ore",
+     "Gold",
+     "Bauxite"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఉపరితల శిలలు విచ్ఛిన్నమై, కరిగే భాగాలు తొలగిపోయి, మిగిలిన అవశేష పదార్థం నుండి బాక్సైట్ ఏర్పడుతుంది.",
+    "en": "Bauxite is formed through the weathering process where surface rocks decompose and soluble parts are removed, leaving the ore behind."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T21-0134",
+   "section": {
+    "te": "Coal Distribution",
+    "en": "Coal Distribution"
+   },
+   "q": {
+    "te": "భారతదేశంలోని 97 శాతానికి పైగా బొగ్గు నిక్షేపాలు ఈ క్రింది ఏ నదీ లోయలలో ఉన్నాయి?",
+    "en": "In which of the following river valleys are over 97 per cent of India's coal reserves located?"
+   },
+   "options": {
+    "te": [
+     "దామోదర్ మరియు సోన్",
+     "మహానది మరియు గోదావరి",
+     "A మరియు B రెండూ",
+     "కృష్ణ మరియు కావేరి"
+    ],
+    "en": [
+     "Damodar and Sone",
+     "Mahanadi and Godavari",
+     "Both A and B",
+     "Krishna and Kaveri"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "దామోదర్, సోన్, మహానది మరియు గోదావరి లోయలలో 97% కంటే ఎక్కువ బొగ్గు నిక్షేపాలు ఉన్నాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Over 97% of coal reserves occur in the valleys of Damodar, Sone, Mahanadi, and Godavari."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T21-0069",
+   "section": {
+    "te": "Mineral availability",
+    "en": "Mineral availability"
+   },
+   "q": {
+    "te": "భూమి యొక్క క్రస్ట్‌లో (earth's crust) పని చేయదగిన ఖనిజ నిక్షేపాల మొత్తం పరిమాణం ఎంత శాతం ఉంటుంది?",
+    "en": "What percentage of the earth's crust is made up of the total volume of workable mineral deposits?"
+   },
+   "options": {
+    "te": [
+     "5 శాతం",
+     "10 శాతం",
+     "1 శాతం",
+     "0.1 శాతం"
+    ],
+    "en": [
+     "5 per cent",
+     "10 per cent",
+     "1 per cent",
+     "0.1 per cent"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూమి యొక్క క్రస్ట్‌లో పని చేయదగిన ఖనిజ నిక్షేపాలు కేవలం ఒక శాతం మాత్రమే ఉంటాయి.",
+    "en": "Workable mineral deposits represent only a very small fraction, specifically one percent, of the earth's crust."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T21-0129",
+   "section": {
+    "te": "Organic Minerals",
+    "en": "Organic Minerals"
+   },
+   "q": {
+    "te": "సేంద్రీయ అలోహ ఖనిజాల గురించి కింది ప్రకటనలను పరిశీలించండి:\n1. వీటిని ఖనిజ ఇంధనాలు అని కూడా పిలుస్తారు.\n2. ఇవి భూమిలో కూరుకుపోయిన జంతు మరియు వృక్ష జీవాల నుండి ఉద్భవించాయి.\n3. అభ్రకం మరియు సున్నపురాయి ఈ వర్గానికి ప్రాథమిక ఉదాహరణలు.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about organic non-metallic minerals:\n1. They are also known as mineral fuels.\n2. They are derived from buried animal and plant life.\n3. Mica and limestone are primary examples of this category.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "బొగ్గు మరియు పెట్రోలియం వంటి సేంద్రీయ అలోహ ఖనిజాలు (ఖనిజ ఇంధనాలు) భూమిలో కూరుకుపోయిన జీవాల నుండి వస్తాయి. అభ్రకం మరియు సున్నపురాయి అకర్బన అలోహ ఖనిజాలు.",
+    "en": "Organic non-metallic minerals (mineral fuels) like coal and petroleum come from buried life. Mica and limestone are inorganic non-metallic minerals."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T21-0150",
+   "section": {
+    "te": "Manganese mining disadvantage",
+    "en": "Manganese mining disadvantage"
+   },
+   "q": {
+    "te": "మహారాష్ట్ర మరియు కర్ణాటక వంటి రాష్ట్రాల్లో ఉన్న మాంగనీస్ గనులకు సంబంధించి పేర్కొన్న ప్రధాన ప్రతికూలత ఏమిటి?",
+    "en": "What is the primary disadvantage mentioned for the manganese mines located in states like Maharashtra and Karnataka?"
+   },
+   "options": {
+    "te": [
+     "ఆ ప్రాంతాల్లో నైపుణ్యం కలిగిన కార్మికుల కొరత",
+     "వెలికితీత ఖర్చు చాలా ఎక్కువగా ఉండటం",
+     "ఖనిజం చాలా తక్కువ నాణ్యత కలిగి ఉండటం",
+     "అవి ఉక్కు కర్మాగారాలకు దూరంగా ఉండటం"
+    ],
+    "en": [
+     "Lack of skilled labour in these regions",
+     "The cost of extraction is too high",
+     "The ore is of very low quality",
+     "They are located far from steel plants"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మహారాష్ట్ర మరియు కర్ణాటక మాంగనీస్ ఉత్పత్తిలో ప్రధానమైనవి అయినప్పటికీ, అవి ఉక్కు కర్మాగారాలకు దూరంగా ఉండటం ఒక ప్రతికూలత అని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Although Maharashtra and Karnataka are major producers of manganese, the disadvantage is their distance from steel plants."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T21-0066",
+   "section": {
+    "te": "Mica in AP",
+    "en": "Mica in AP"
+   },
+   "q": {
+    "te": "ఆంధ్రప్రదేశ్‌లోని ఏ జిల్లాలో భారతదేశంలోని ముఖ్యమైన అభ్రక (Mica) బెల్ట్ ఉందని పేర్కొనబడింది?",
+    "en": "Which district in Andhra Pradesh is mentioned as having an important mica belt in India?"
+   },
+   "options": {
+    "te": [
+     "గుంటూరు",
+     "నెల్లూరు",
+     "కర్నూలు",
+     "విశాఖపట్నం"
+    ],
+    "en": [
+     "Guntur",
+     "Nellore",
+     "Kurnool",
+     "Visakhapatnam"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఆంధ్రప్రదేశ్‌లోని నెల్లూరు అభ్రక బెల్ట్ దేశంలో అభ్రకం ఉత్పత్తి చేసే ముఖ్యమైన ప్రాంతం.",
+    "en": "The Nellore mica belt in Andhra Pradesh is an important producer of mica in the country."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T21-0099",
+   "section": {
+    "te": "Solar Energy Technology",
+    "en": "Solar Energy Technology"
+   },
+   "q": {
+    "te": "సూర్యరశ్మిని నేరుగా విద్యుత్తుగా మార్చడానికి ఏ సాంకేతికతను ఉపయోగిస్తారు?",
+    "en": "Which technology is used to convert sunlight directly into electricity?"
+   },
+   "options": {
+    "te": [
+     "భూఉష్ణ సాంకేతికత",
+     "ఫోటోవోల్టాయిక్ సాంకేతికత",
+     "జలవిద్యుత్ సాంకేతికత",
+     "బయోమాస్ సాంకేతికత"
+    ],
+    "en": [
+     "Geothermal technology",
+     "Photovoltaic technology",
+     "Hydroelectric technology",
+     "Biomass technology"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సూర్యరశ్మిని నేరుగా విద్యుత్తుగా మార్చే పద్ధతిగా ఫోటోవోల్టాయిక్ సాంకేతికత ప్రత్యేకంగా పేర్కొనబడింది.",
+    "en": "Photovoltaic technology is specifically mentioned as the method to convert sunlight directly into electricity."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T21-0017",
+   "section": {
+    "te": "Toothpaste minerals",
+    "en": "Toothpaste minerals"
+   },
+   "q": {
+    "te": "కొన్ని టూత్‌పేస్ట్‌లలో 'మెరుపు' (sparkle) రావడానికి ఈ క్రింది ఏ ఖనిజం కారణం?",
+    "en": "Which of the following minerals is responsible for providing the 'sparkle' in some toothpastes?"
+   },
+   "options": {
+    "te": [
+     "సున్నపురాయి",
+     "మైకా",
+     "సిలికా",
+     "ఫ్లోరైట్"
+    ],
+    "en": [
+     "Limestone",
+     "Mica",
+     "Silica",
+     "Fluorite"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, సిలికా మరియు సున్నపురాయి వంటి ఖనిజాలను శుభ్రపరచడానికి ఉపయోగిస్తారు, అయితే టూత్‌పేస్ట్‌లోని మెరుపు మైకా నుండి వస్తుంది.",
+    "en": "While minerals like silica and limestone are used for cleaning, the sparkle in toothpaste is derived from mica."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T21-0127",
+   "section": {
+    "te": "Co-operative Farming",
+    "en": "Co-operative Farming"
+   },
+   "q": {
+    "te": "ఏ దేశంలో సహకార ఉద్యమం ఎంత విజయవంతమైందంటే, ఆచరణాత్మకంగా ప్రతి రైతు సహకార సంఘంలో సభ్యునిగా ఉన్నారు?",
+    "en": "In which country has the co-operative movement been so successful that practically every farmer is a member of a co-operative?"
+   },
+   "options": {
+    "te": [
+     "నెదర్లాండ్స్",
+     "బెల్జియం",
+     "డెన్మార్క్",
+     "స్వీడన్"
+    ],
+    "en": [
+     "Netherlands",
+     "Belgium",
+     "Denmark",
+     "Sweden"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సహకార ఉద్యమం అత్యంత విజయవంతమైన దేశంగా డెన్మార్క్‌ను పాఠ్యభాగం నొక్కి చెప్పింది, అక్కడ దాదాపు ప్రతి రైతు సభ్యునిగా ఉన్నారు.",
+    "en": "The text highlights Denmark as the country where the co-operative movement has been most successful, with almost every farmer being a member."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T21-0018",
+   "section": {
+    "te": "Toothpaste abrasives",
+    "en": "Toothpaste abrasives"
+   },
+   "q": {
+    "te": "టూత్‌పేస్ట్‌లో పళ్లను శుభ్రపరచడానికి రాపిడి కారకాలుగా (abrasives) ఈ క్రింది ఏ ఖనిజాలు పనిచేస్తాయి?",
+    "en": "Which of the following minerals act as abrasives to clean teeth in toothpaste?"
+   },
+   "options": {
+    "te": [
+     "సిలికా మరియు సున్నపురాయి",
+     "అల్యూమినియం ఆక్సైడ్",
+     "ఫాస్ఫేట్ ఖనిజాలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Silica and Limestone",
+     "Aluminium oxide",
+     "Phosphate minerals",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సిలికా, సున్నపురాయి, అల్యూమినియం ఆక్సైడ్ మరియు వివిధ ఫాస్ఫేట్ ఖనిజాలను పళ్లను శుభ్రపరచడానికి ఉపయోగించే రాపిడి ఖనిజాలుగా పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text lists silica, limestone, aluminium oxide, and various phosphate minerals as abrasive minerals used for cleaning teeth."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T21-0178",
+   "section": {
+    "te": "Petroleum Refining",
+    "en": "Petroleum Refining"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): బావుల నుండి తీసిన చమురును నేరుగా ఉపయోగించలేము.\nకారణం (R): ముడి చమురు అనేక మలినాలను కలిగి ఉంటుంది మరియు దానిని శుద్ధి చేయాలి.",
+    "en": "Assertion (A): Oil extracted from wells cannot be used directly.\nReason (R): Crude oil contains many impurities and needs to be refined."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ.",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు.",
+     "A నిజం కానీ R తప్పు.",
+     "A తప్పు కానీ R నిజం."
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A.",
+     "Both A and R are true but R is not the correct explanation of A.",
+     "A is true but R is false.",
+     "A is false but R is true."
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "బావుల నుండి తీసిన ముడి చమురు మలినాలను కలిగి ఉంటుంది, ఇది దాని ముడి స్థితిలో ఉపయోగించలేనిదిగా చేస్తుంది; అందువల్ల, అది తప్పనిసరిగా శుద్ధి చేయబడాలి.",
+    "en": "Crude oil extracted from wells contains impurities, making it unusable in its raw state; therefore, it must undergo refining."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T21-0037",
+   "section": {
+    "te": "Magnetite iron content",
+    "en": "Magnetite iron content"
+   },
+   "q": {
+    "te": "ఏ ఇనుప ఖనిజం అత్యుత్తమమైనదిగా పరిగణించబడుతుంది మరియు 70 శాతం వరకు ఇనుమును కలిగి ఉంటుంది?",
+    "en": "Which iron ore is considered the finest and contains up to 70 percent iron?"
+   },
+   "options": {
+    "te": [
+     "మాగ్నెటైట్",
+     "హేమటైట్",
+     "లిమోనైట్",
+     "సిడరైట్"
+    ],
+    "en": [
+     "Magnetite",
+     "Hematite",
+     "Limonite",
+     "Siderite"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మాగ్నెటైట్ 70% ఇనుమును కలిగి ఉండటం మరియు అయస్కాంత లక్షణాల వల్ల అత్యుత్తమ నాణ్యత గల ఇనుప ఖనిజంగా వర్ణించబడింది.",
+    "en": "Magnetite is described as the finest quality iron ore due to its high iron content of 70% and its magnetic properties."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T21-0076",
+   "section": {
+    "te": "Mining economics",
+    "en": "Mining economics"
+   },
+   "q": {
+    "te": "ప్రకటన (A): ఖనిజాల నిరంతర వెలికితీత ఖర్చుల పెరుగుదలకు దారితీస్తుంది.\nకారణం (R): ఖనిజ వెలికితీత ఎక్కువ లోతుల నుండి జరుగుతుంది మరియు నాణ్యత తగ్గుతుంది.",
+    "en": "Assertion (A): Continued extraction of ores leads to increasing costs.\nReason (R): Mineral extraction comes from greater depths along with a decrease in quality."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఉపరితలం దగ్గర ఖనిజాలు అయిపోతున్న కొద్దీ, తక్కువ నాణ్యత ఉన్న లోతైన ప్రాంతాల నుండి వాటిని వెలికితీయాల్సి రావడంతో ఖర్చులు పెరుగుతాయి.",
+    "en": "Costs increase because as minerals are depleted near the surface, they must be mined from deeper levels where the quality is often lower."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T21-0020",
+   "section": {
+    "te": "Titanium oxide sources",
+    "en": "Titanium oxide sources"
+   },
+   "q": {
+    "te": "టూత్‌పేస్ట్‌ను తెల్లగా మార్చే టైటానియం ఆక్సైడ్ ఈ క్రింది ఏ ఖనిజాల నుండి లభిస్తుంది?",
+    "en": "Titanium oxide, which makes toothpaste white, is derived from which of the following minerals?"
+   },
+   "options": {
+    "te": [
+     "రూటిల్ మరియు ఇల్మెనైట్",
+     "అనాటేస్",
+     "A మరియు B రెండూ",
+     "మైకా"
+    ],
+    "en": [
+     "Rutile and Ilmenite",
+     "Anatase",
+     "Both A and B",
+     "Mica"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "టైటానియం ఆక్సైడ్ రూటిల్, ఇల్మెనైట్ మరియు అనాటేస్ అనే మూడు ఖనిజాల నుండి వస్తుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Titanium oxide comes from three minerals: rutile, ilmenite, and anatase."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T21-0090",
+   "section": {
+    "te": "Gujarat Oil Fields",
+    "en": "Gujarat Oil Fields"
+   },
+   "q": {
+    "te": "గుజరాత్ రాష్ట్రంలోని అత్యంత ముఖ్యమైన చమురు క్షేత్రం కింది వాటిలో ఏది?",
+    "en": "Which of the following is the most important oil field in the state of Gujarat?"
+   },
+   "options": {
+    "te": [
+     "ముంబై హై",
+     "దిగ్బోయ్",
+     "అంకలేశ్వర్",
+     "నహర్కటియా"
+    ],
+    "en": [
+     "Mumbai High",
+     "Digboi",
+     "Ankeleshwar",
+     "Naharkatiya"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "గుజరాత్‌లోని అత్యంత ముఖ్యమైన చమురు క్షేత్రంగా అంకలేశ్వర్ గుర్తించబడింది.",
+    "en": "Ankeleshwar is identified as the most significant oil field in Gujarat."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T21-0183",
+   "section": {
+    "te": "Tidal Energy Potential",
+    "en": "Tidal Energy Potential"
+   },
+   "q": {
+    "te": "భారతదేశంలోని ఏ తీరం వెంబడి పెద్ద అలలు (Tidal waves) సంభవిస్తాయి, ఇది తరంగ శక్తి అభివృద్ధికి గొప్ప సామర్థ్యాన్ని అందిస్తుంది?",
+    "en": "Along which coast of India are large tidal waves known to occur, providing significant potential for tidal energy development?"
+   },
+   "options": {
+    "te": [
+     "పశ్చిమ తీరం",
+     "తూర్పు తీరం",
+     "ఉత్కల్ తీరం",
+     "కోరమాండల్ తీరం"
+    ],
+    "en": [
+     "West coast",
+     "East coast",
+     "Utkal coast",
+     "Coromandel coast"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భారతదేశ పశ్చిమ తీరం వెంబడి పెద్ద అలలు సంభవిస్తాయని, ఇది తరంగ శక్తికి గొప్ప సామర్థ్యాన్ని ఇస్తుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Large tidal waves occur along the west coast of India, giving it great potential for tidal energy."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T21-0006",
+   "section": {
+    "te": "Non-renewable resource classification",
+    "en": "Non-renewable resource classification"
+   },
+   "q": {
+    "te": "క్రింది వనరులను పరిశీలించండి:\n1. బొగ్గు మరియు పెట్రోలియం\n2. ఇనుము మరియు రాగి\n3. బంగారం\nపై వాటిలో వేటిని పునరుత్పాదకం కాని వనరులుగా (నాన్-రెన్యూవబుల్) పేర్కొన్నారు?",
+    "en": "Consider the following resources:\n1. Coal and petroleum\n2. Iron and copper\n3. Gold\nWhich of the resources given above are categorized as non-renewable resources?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "శిలాజ ఇంధనాలు (బొగ్గు, పెట్రోలియం), ఖనిజాలు మరియు లోహాలైన ఇనుము, రాగి, బంగారం అన్నీ పునరుత్పాదకం కాని వనరులుగా వర్గీకరించబడ్డాయి.",
+    "en": "The text lists fossil fuels (coal and petroleum), along with minerals and metals such as iron, copper, and gold, as non-renewable resources."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T21-0012",
+   "section": {
+    "te": "Solar Alliance focus",
+    "en": "Solar Alliance focus"
+   },
+   "q": {
+    "te": "ఇంటర్నేషనల్ అలయన్స్ ఫర్ సోలార్ ఎనర్జీ ప్రధానంగా ఏ దేశాలపై దృష్టి సారిస్తుంది?",
+    "en": "The International Alliance for Solar Energy focuses specifically on which group of nations?"
+   },
+   "options": {
+    "te": [
+     "తీవ్రమైన వాయు కాలుష్యం ఉన్న అత్యున్నత పారిశ్రామిక దేశాలు",
+     "సంవత్సరం పొడవునా సమృద్ధిగా సూర్యరశ్మిని పొందే దేశాలు",
+     "సొంత బొగ్గు నిల్వలు లేని వర్ధమాన దేశాలు",
+     "సముద్ర మట్టాలు పెరగడం వల్ల ముప్పు ఎదుర్కొంటున్న ద్వీప దేశాలు"
+    ],
+    "en": [
+     "Highly industrialized nations with severe air pollution",
+     "Countries blessed with abundant sunlight throughout the year",
+     "Developing nations that lack domestic coal reserves",
+     "Island nations facing rising sea levels"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఈ అలయన్స్ ఏడాది పొడవునా సమృద్ధిగా సూర్యకాంతి లభించే దేశాలపై ప్రత్యేక దృష్టి సారిస్తుంది.",
+    "en": "The International Alliance for Solar Energy focuses specifically on countries blessed with abundant sunlight throughout the year."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T21-0058",
+   "section": {
+    "te": "Iron Ore Export",
+    "en": "Iron Ore Export"
+   },
+   "q": {
+    "te": "మహారాష్ట్ర-గోవా బెల్ట్ నుండి లభించే ఇనుప ఖనిజం ప్రధానంగా ఏ ఓడరేవు ద్వారా ఎగుమతి చేయబడుతుంది?",
+    "en": "Iron ore from the Maharashtra-Goa belt is primarily exported through which port?"
+   },
+   "options": {
+    "te": [
+     "కాండ్లా ఓడరేవు",
+     "మర్మగావ్ ఓడరేవు",
+     "విశాఖపట్నం ఓడరేవు",
+     "మంగళూరు ఓడరేవు"
+    ],
+    "en": [
+     "Kandla port",
+     "Marmagao port",
+     "Vishakhapatnam port",
+     "Mangaluru port"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మహారాష్ట్ర-గోవా బెల్ట్ (గోవా మరియు రత్నగిరి సహా) నుండి ఇనుప ఖనిజం మర్మగావ్ ఓడరేవు ద్వారా ఎగుమతి చేయబడుతుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text specifies that iron ore from the Maharashtra-Goa belt (including Goa and Ratnagiri) is exported through the Marmagao port."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T21-0005",
+   "section": {
+    "te": "Bhadla Solar Park",
+    "en": "Bhadla Solar Park"
+   },
+   "q": {
+    "te": "భారతదేశ సౌర ఆశయాలకు మరియు సాంప్రదాయేతర వనరుల వైపు పరివర్తనకు ప్రతీకగా ఏ సోలార్ పార్క్ పేర్కొనబడింది?",
+    "en": "Which solar park is highlighted as a symbol of India’s solar ambitions and its transition toward renewable alternatives?"
+   },
+   "options": {
+    "te": [
+     "పావగడ సోలార్ పార్క్",
+     "భద్లా సోలార్ పార్క్",
+     "కర్నూలు అల్ట్రా సోలార్ పార్క్",
+     "రేవా సోలార్ పార్క్"
+    ],
+    "en": [
+     "Pavagada Solar Park",
+     "Bhadla Solar Park",
+     "Kurnool Ultra Solar Park",
+     "Rewa Solar Park"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారతదేశం సాంప్రదాయ ఇంధన వనరుల నుండి పునరుత్పాదక వనరుల వైపు మారడాన్ని ప్రదర్శించే ప్రతీకగా భద్లా సోలార్ పార్క్ నిలుస్తుంది.",
+    "en": "The Bhadla Solar Park is identified as a symbol of India’s solar ambitions, demonstrating the transition to renewable alternatives."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T21-0086",
+   "section": {
+    "te": "Electricity Generation",
+    "en": "Electricity Generation"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): జలవిద్యుత్ శక్తి పునరుత్పాదక ఇంధన వనరుగా పరిగణించబడుతుంది.\nకారణం (R): ఇది సహజంగా పునరుద్ధరించబడే వేగంగా ప్రవహించే నీటి ద్వారా ఉత్పత్తి చేయబడుతుంది.",
+    "en": "Assertion (A): Hydroelectricity is considered a renewable resource of energy.\nReason (R): It is generated by fast-flowing water which is naturally replenished."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "జలవిద్యుత్ పునరుత్పాదకమైనది ఎందుకంటే ఇది నీటి నిరంతర ప్రవాహంపై ఆధారపడి ఉంటుంది, పరిమితంగా ఉండే శిలాజ ఇంధనాల వలె కాకుండా.",
+    "en": "Hydroelectricity is renewable because it relies on the continuous flow of water, unlike fossil fuels which are finite."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T21-0068",
+   "section": {
+    "te": "Coal mining risks",
+    "en": "Coal mining risks"
+   },
+   "q": {
+    "te": "బొగ్గు గనుల్లో పనిచేసే కార్మికులకు నిరంతరం ఉండే ముప్పులు ఏవి?\nA. గని పైకప్పులు కూలిపోవడం\nB. నీరు ముంచెత్తడం (Inundation)\nC. అగ్నిప్రమాదాలు",
+    "en": "Which of the following are constant threats to miners in coal mines?\nA. Collapsing mine roofs\nB. Inundation (flooding)\nC. Fires"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "బొగ్గు గనుల్లో పైకప్పులు కూలిపోవడం, నీరు ముంచెత్తడం మరియు అగ్నిప్రమాదాలు నిరంతర ముప్పులని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text explicitly lists collapsing roofs, inundation, and fires as constant threats in coal mines."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T21-0026",
+   "section": {
+    "te": "Mineral properties",
+    "en": "Mineral properties"
+   },
+   "q": {
+    "te": "ఖనిజాలు ఏర్పడే పరిస్థితుల ఆధారంగా అవి ఈ క్రింది ఏ భౌతిక లక్షణాలను కలిగి ఉంటాయి?",
+    "en": "Which of the following physical properties are possessed by minerals based on their formation conditions?"
+   },
+   "options": {
+    "te": [
+     "రంగు మరియు కఠినత్వం",
+     "స్పటిక రూపాలు",
+     "మెరుపు (Lustre) మరియు సాంద్రత",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Colour and Hardness",
+     "Crystal forms",
+     "Lustre and Density",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఖనిజం ఏర్పడే పరిస్థితుల వల్ల రంగు, కఠినత్వం, స్పటిక రూపాలు, మెరుపు మరియు సాంద్రత వంటి లక్షణాలు ఏర్పడతాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text lists colour, hardness, crystal forms, lustre, and density as properties resulting from the conditions under which a mineral forms."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T21-0092",
+   "section": {
+    "te": "Electricity Generation",
+    "en": "Electricity Generation"
+   },
+   "q": {
+    "te": "కింది వాటిలో ఏ ఇంధనాలను మండించడం ద్వారా థర్మల్ విద్యుత్ ఉత్పత్తి అవుతుంది?\nA. బొగ్గు\nB. పెట్రోలియం\nC. సహజ వాయువు",
+    "en": "Thermal electricity is generated by burning which of the following fuels?\nA. Coal\nB. Petroleum\nC. Natural Gas"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "బొగ్గు, పెట్రోలియం మరియు సహజ వాయువు వంటి శిలాజ ఇంధనాలను మండించడం ద్వారా థర్మల్ విద్యుత్ ఉత్పత్తి అవుతుంది.",
+    "en": "Thermal power is produced by burning fossil fuels like coal, petroleum, and natural gas."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T21-0041",
+   "section": {
+    "te": "Mineral ownership",
+    "en": "Mineral ownership"
+   },
+   "q": {
+    "te": "భారతదేశంలో ఖనిజాల యాజమాన్యానికి సంబంధించి ఈ క్రింది ప్రకటనలను పరిగణించండి:\n1. భారతదేశంలోని మెజారిటీ ఖనిజాలు జాతీయం చేయబడ్డాయి.\n2. ఈశాన్య భారతదేశంలోని గిరిజన ప్రాంతాలలో, ఖనిజాలు వ్యక్తులు లేదా సంఘాల యాజమాన్యంలో ఉన్నాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding mineral ownership in India:\n1. Most minerals in India are nationalised.\n2. In tribal areas of north-east India, minerals are owned by individuals or communities.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతదేశంలో ఖనిజాలు సాధారణంగా జాతీయం చేయబడినప్పటికీ, ఈశాన్య గిరిజన ప్రాంతాలు మినహాయింపు, అక్కడ వ్యక్తులు లేదా సంఘాలు వాటిని కలిగి ఉంటారు.",
+    "en": "While minerals are generally nationalised in India, the north-east tribal areas are an exception where individuals or communities own them."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T21-0153",
+   "section": {
+    "te": "Copper minor producers",
+    "en": "Copper minor producers"
+   },
+   "q": {
+    "te": "భారతదేశంలో రాగి (Copper) అల్ప ఉత్పత్తిదారులుగా క్రింది వాటిలో ఏవి జాబితా చేయబడ్డాయి?",
+    "en": "Which of the following are listed as minor producers of Copper in India?"
+   },
+   "options": {
+    "te": [
+     "అగ్నిగుండల (ఆంధ్రప్రదేశ్)",
+     "చిత్రదుర్గ (కర్ణాటక)",
+     "సౌత్ ఆర్కాట్ (తమిళనాడు)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Agnigundala (Andhra Pradesh)",
+     "Chitradurg (Karnataka)",
+     "South Arcot (Tamil Nadu)",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వనరుల ప్రకారం అగ్నిగుండల, చిత్రదుర్గ, హసన్ మరియు సౌత్ ఆర్కాట్ రాగి యొక్క అల్ప ఉత్పత్తిదారులు.",
+    "en": "The source lists Agnigundala, Chitradurg, Hasan, and South Arcot as minor producers of copper."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T21-0137",
+   "section": {
+    "te": "Iron Ore Types",
+    "en": "Iron Ore Types"
+   },
+   "q": {
+    "te": "భారతదేశంలో లభించే రెండు ప్రధాన రకాల ఇనుప ఖనిజాలు ఏవి?",
+    "en": "What are the two main types of iron ore found in India?"
+   },
+   "options": {
+    "te": [
+     "లిగ్నైట్ మరియు ఆంత్రాసైట్",
+     "లిమోనైట్ మరియు సిడరైట్",
+     "బాక్సైట్ మరియు కుప్రైట్",
+     "హేమటైట్ మరియు మాగ్నెటైట్"
+    ],
+    "en": [
+     "Lignite and Anthracite",
+     "Limonite and Siderite",
+     "Bauxite and Cuprite",
+     "Haematite and Magnetite"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశంలో లభించే రెండు ప్రాథమిక రకాల ఇనుప ఖనిజాలు హేమటైట్ మరియు మాగ్నెటైట్.",
+    "en": "Haematite and magnetite are the two primary types of iron ore found in India."
+   }
+  }
+ ]
+}

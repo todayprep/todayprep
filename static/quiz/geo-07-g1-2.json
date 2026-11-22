@@ -1,0 +1,942 @@
+{
+ "id": "geo-07-g1-2",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Climate Elements – క్విజ్ 2",
+  "en": "Climate Elements – Quiz 2"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T07-0144",
+   "section": {
+    "te": "Sub Polar Lows",
+    "en": "Sub Polar Lows"
+   },
+   "q": {
+    "te": "60° N మరియు 60° S అక్షాంశాల వద్ద కనిపించే అల్పపీడన మండలాలను ఏమంటారు?",
+    "en": "The low-pressure belts found along 60° N and 60° S latitudes are known as:"
+   },
+   "options": {
+    "te": [
+     "ఉప ధ్రువ అల్పపీడనాలు (Subpolar lows)",
+     "భూమధ్యరేఖ అల్పపీడనాలు (Equatorial lows)",
+     "ధ్రువ అధిక పీడనాలు (Polar highs)",
+     "ఉప ఉష్ణమండల అధిక పీడనాలు (Subtropical highs)"
+    ],
+    "en": [
+     "Subpolar lows",
+     "Equatorial lows",
+     "Polar highs",
+     "Subtropical highs"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "రెండు అర్ధగోళాలలో 60° అక్షాంశాల వద్ద ఉండే అల్పపీడన మండలాలను ఉప ధ్రువ అల్పపీడనాలు అని పిలుస్తారు.",
+    "en": "The specific low-pressure belts located near the 60° latitudes in both hemispheres are called subpolar lows."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T07-0041",
+   "section": {
+    "te": "Dominant weather elements",
+    "en": "Dominant weather elements"
+   },
+   "q": {
+    "te": "తుఫాను (Cyclone) కదులుతున్నప్పుడు ఏ వాతావరణ అంశం ప్రధానమైనదిగా మారుతుంది?",
+    "en": "Which weather element becomes dominant when a cyclone is moving?"
+   },
+   "options": {
+    "te": [
+     "ఆర్ద్రత",
+     "అవపాతం (Precipitation)",
+     "ఉష్ణోగ్రత",
+     "వాతావరణ పీడనం"
+    ],
+    "en": [
+     "Humidity",
+     "Precipitation",
+     "Temperature",
+     "Atmospheric pressure"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "తుఫాను కదులుతున్నప్పుడు వాతావరణ పీడనం ప్రధానమైన అంశమని పాఠ్య భాగం పేర్కొంది.",
+    "en": "Atmospheric pressure is the dominant element when a cyclone is moving."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T07-0134",
+   "section": {
+    "te": "July Ocean Temperature",
+    "en": "July Ocean Temperature"
+   },
+   "q": {
+    "te": "జూలైలో, భూమధ్యరేఖ మహాసముద్రాలలో నమోదయ్యే ఉష్ణోగ్రత లక్షణం ఏమిటి?",
+    "en": "In July, what is the characteristic temperature recorded by the equatorial oceans?"
+   },
+   "options": {
+    "te": [
+     "27°C కంటే ఎక్కువ",
+     "15°C కంటే తక్కువ",
+     "ఖచ్చితంగా 20°C",
+     "10°C మరియు 15°C మధ్య"
+    ],
+    "en": [
+     "More than 27°C",
+     "Less than 15°C",
+     "Exactly 20°C",
+     "Between 10°C and 15°C"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "జూలైలో భూమధ్యరేఖ మహాసముద్రాలు 27°C కంటే ఎక్కువ వెచ్చని ఉష్ణోగ్రతను నమోదు చేస్తాయని పాఠ్యాంశం పేర్కొంది.",
+    "en": "In July, equatorial oceans record warmer temperatures of more than 27°C."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T07-0163",
+   "section": {
+    "te": "Force Interaction",
+    "en": "Force Interaction"
+   },
+   "q": {
+    "te": "పీడన ప్రవణత బలంతో పోలిస్తే కొరియాలిస్ బలం ఎలా పనిచేస్తుంది?",
+    "en": "How does the Coriolis force act in relation to the pressure gradient force?"
+   },
+   "options": {
+    "te": [
+     "దానికి సమాంతరంగా",
+     "దానికి వ్యతిరేకంగా",
+     "దానికి 45 డిగ్రీల కోణంలో",
+     "దానికి లంబంగా (Perpendicular)"
+    ],
+    "en": [
+     "Parallel to it",
+     "Opposite to it",
+     "At a 45-degree angle to it",
+     "Perpendicular to it"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పీడన ప్రవణత బలానికి కొరియాలిస్ బలం లంబంగా పనిచేస్తుందని వనరు పేర్కొంది.",
+    "en": "The Coriolis force acts perpendicular to the pressure gradient force."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T07-0195",
+   "section": {
+    "te": "Cloud Classification",
+    "en": "Cloud Classification"
+   },
+   "q": {
+    "te": "కింది మేఘాల రకాలను వాటి వర్గాలతో జతపరచండి:\nI. ఉన్నత మేఘాలు - a. ఆల్టోస్ట్రాటస్ (Altostratus)\nII. మధ్యస్థ మేఘాలు - b. నింబోస్ట్రాటస్ (Nimbostratus)\nIII. అల్ప మేఘాలు - c. సిరోక్యుములస్ (Cirrocumulus)",
+    "en": "Match the following cloud types with their categories:\nI. High Clouds - a. Altostratus\nII. Middle Clouds - b. Nimbostratus\nIII. Low Clouds - c. Cirrocumulus"
+   },
+   "options": {
+    "te": [
+     "I-c, II-a, III-b",
+     "I-a, II-b, III-c",
+     "I-b, II-c, III-a",
+     "I-c, II-b, III-a"
+    ],
+    "en": [
+     "I-c, II-a, III-b",
+     "I-a, II-b, III-c",
+     "I-b, II-c, III-a",
+     "I-c, II-b, III-a"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వర్గీకరణ ప్రకారం: సిరోక్యుములస్ ఉన్నత మేఘం, ఆల్టోస్ట్రాటస్ మధ్యస్థ మేఘం మరియు నింబోస్ట్రాటస్ అల్ప మేఘం.",
+    "en": "According to the classification: Cirrocumulus is a high cloud, Altostratus is a middle cloud, and Nimbostratus is a low cloud."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T07-0109",
+   "section": {
+    "te": "Heat Redistribution",
+    "en": "Heat Redistribution"
+   },
+   "q": {
+    "te": "నికర వికిరణం మిగులు ఉన్నప్పటికీ, ఉష్ణమండల ప్రాంతాలు (tropics) క్రమంగా ఎందుకు వేడెక్కవు?",
+    "en": "Why do the tropics NOT get progressively heated up despite having a surplus of net radiation?"
+   },
+   "options": {
+    "te": [
+     "అవి సముద్రాలతో ఆవరించి ఉండటం వల్ల",
+     "అవి అదనపు వేడిని అంతరిక్షంలోకి ప్రతిబింబిస్తాయి కాబట్టి",
+     "ఉష్ణమండల ప్రాంతాల అధిక ఎత్తు వల్ల",
+     "మిగులు ఉష్ణం ధృవాల వైపు పునఃపంపిణీ చేయబడుతుంది కాబట్టి"
+    ],
+    "en": [
+     "Because they are covered by oceans",
+     "Because they reflect all excess heat back to space",
+     "Because of the high altitude of tropical regions",
+     "Because surplus heat is redistributed polewards"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఉష్ణమండలాల నుండి మిగులు ఉష్ణం ధృవాల వైపు పునఃపంపిణీ చేయబడుతుంది, ఇది ఉష్ణమండలాలు అతిగా వేడెక్కకుండా నిరోధిస్తుంది.",
+    "en": "The surplus heat from the tropics is redistributed towards the poles, preventing the tropics from overheating."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T07-0130",
+   "section": {
+    "te": "Pressure Measurement",
+    "en": "Pressure Measurement"
+   },
+   "q": {
+    "te": "వాతావరణ పీడనాన్ని కొలవడానికి ఈ క్రింది ఏ పరికరాలను ఉపయోగించవచ్చు?",
+    "en": "Which of the following instruments can be used to measure atmospheric pressure?"
+   },
+   "options": {
+    "te": [
+     "పాదరస భారమితి (Mercury barometer)",
+     "అనెరాయిడ్ భారమితి (Aneroid barometer)",
+     "A మరియు B రెండూ",
+     "హైగ్రోమీటర్"
+    ],
+    "en": [
+     "Mercury barometer",
+     "Aneroid barometer",
+     "Both A and B",
+     "Hygrometer"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వాతావరణ పీడనాన్ని పాదరస భారమితి లేదా అనెరాయిడ్ భారమితిని ఉపయోగించి కొలుస్తారు.",
+    "en": "Atmospheric pressure is measured using either a mercury barometer or an aneroid barometer."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T07-0061",
+   "section": {
+    "te": "Low Pressure Weather",
+    "en": "Low Pressure Weather"
+   },
+   "q": {
+    "te": "అల్పపీడన ప్రాంతాలతో సాధారణంగా ఎటువంటి వాతావరణ పరిస్థితులు సంబంధం కలిగి ఉంటాయి?",
+    "en": "What type of weather conditions are typically associated with low-pressure areas?"
+   },
+   "options": {
+    "te": [
+     "మేఘావృతమైన ఆకాశం మరియు తడి వాతావరణం",
+     "పొడి మరియు గాలులతో కూడిన వాతావరణం",
+     "స్పష్టమైన మరియు ఎండతో కూడిన ఆకాశం",
+     "అత్యంత చల్లని మరియు మంచుతో కూడిన వాతావరణం"
+    ],
+    "en": [
+     "Cloudy skies and wet weather",
+     "Dry and windy weather",
+     "Clear and sunny skies",
+     "Extremely cold and snowy weather"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, అల్పపీడన ప్రాంతాలు మేఘావృతమైన ఆకాశం మరియు తడి వాతావరణంతో సంబంధం కలిగి ఉంటాయి.",
+    "en": "Low-pressure areas are associated with cloudy skies and wet weather."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T07-0151",
+   "section": {
+    "te": "Frictional Force Elevation",
+    "en": "Frictional Force Elevation"
+   },
+   "q": {
+    "te": "గాలి వేగంపై ఘర్షణ బలం (frictional force) ప్రభావం సాధారణంగా సుమారు ఎంత ఎత్తు వరకు ఉంటుంది?",
+    "en": "Up to what approximate elevation does the influence of frictional force on wind speed generally extend?"
+   },
+   "options": {
+    "te": [
+     "5 - 8 కి.మీ",
+     "0.5 - 1 కి.మీ",
+     "10 - 12 కి.మీ",
+     "1 - 3 కి.మీ"
+    ],
+    "en": [
+     "5 - 8 km",
+     "0.5 - 1 km",
+     "10 - 12 km",
+     "1 - 3 km"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఘర్షణ బలం ఉపరితలం వద్ద బలంగా ఉంటుంది మరియు సాధారణంగా 1 నుండి 3 కి.మీ ఎత్తు వరకు గాలి వేగాన్ని ప్రభావితం చేస్తుంది.",
+    "en": "Frictional force is strongest at the surface and typically affects wind speed up to an altitude of 1 to 3 km."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T07-0052",
+   "section": {
+    "te": "Insolation Definition",
+    "en": "Insolation Definition"
+   },
+   "q": {
+    "te": "భూమి గ్రహించే సూర్యుని నుండి వచ్చే సౌర శక్తిని ఈ క్రింది ఏ పదం వివరిస్తుంది?",
+    "en": "Which of the following terms describes the incoming solar energy from the Sun that is intercepted by the Earth?"
+   },
+   "options": {
+    "te": [
+     "వికిరణం (Radiation)",
+     "ఇన్సోలేషన్ (Insolation - సౌరపుటం)",
+     "అవపాతం (Precipitation)",
+     "సంవహనం (Convection)"
+    ],
+    "en": [
+     "Radiation",
+     "Insolation",
+     "Precipitation",
+     "Convection"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సూర్యుని నుండి వచ్చే మరియు భూమి గ్రహించే సౌర శక్తిని ఇన్సోలేషన్ (సౌరపుటం) అంటారు.",
+    "en": "Insolation is defined as the incoming solar energy from the Sun that is intercepted by the Earth."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T07-0092",
+   "section": {
+    "te": "Angle of Inclination",
+    "en": "Angle of Inclination"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): నిలువు కిరణాలతో పోలిస్తే వాలుగా ఉండే సూర్యకిరణాలు యూనిట్ వైశాల్యానికి తక్కువ వేడిని కలిగిస్తాయి.\nకారణం (R): వాలుగా ఉండే కిరణాలు పెద్ద వైశాల్యాన్ని ఆక్రమిస్తాయి, దీనివల్ల శక్తి మరింత విస్తృతంగా పంపిణీ చేయబడుతుంది.",
+    "en": "Assertion (A): Slant sun rays result in less heating per unit area compared to vertical rays.\nReason (R): Slant rays cover a larger area, causing the energy to be distributed more widely."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వాలుగా ఉండే కిరణాలు నిలువు కిరణాల కంటే ఎక్కువ వైశాల్యాన్ని ఆక్రమిస్తాయి, ఇది ఒకే పరిమాణంలో ఉన్న శక్తిని పెద్ద ప్రదేశంలో పంపిణీ చేస్తుంది, తద్వారా యూనిట్ వైశాల్యానికి నికర శక్తి తగ్గుతుంది.",
+    "en": "Slant rays cover more area than vertical rays, which distributes the same amount of energy over a larger space, thereby decreasing the net energy per unit area."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T07-0059",
+   "section": {
+    "te": "Atmospheric Pressure Distribution",
+    "en": "Atmospheric Pressure Distribution"
+   },
+   "q": {
+    "te": "ఈ క్రింది ఏ స్థాయిలో వాతావరణ పీడనం అత్యధికంగా నమోదవుతుంది?",
+    "en": "At which of the following levels is atmospheric pressure recorded as being the highest?"
+   },
+   "options": {
+    "te": [
+     "సముద్ర మట్టం",
+     "పర్వత శిఖరాలు",
+     "ఆర్కిటిక్ వలయం",
+     "స్ట్రాటో ఆవరణం (Stratosphere)"
+    ],
+    "en": [
+     "Sea level",
+     "Mountain peaks",
+     "The Arctic Circle",
+     "The Stratosphere"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వాతావరణ పీడనం సముద్ర మట్టం వద్ద అత్యధికంగా ఉంటుంది మరియు ఎత్తు పెరిగేకొద్దీ తగ్గుతుంది.",
+    "en": "Atmospheric pressure is highest at sea level and decreases as altitude increases."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T07-0011",
+   "section": {
+    "te": "Thermometer Mechanism",
+    "en": "Thermometer Mechanism"
+   },
+   "q": {
+    "te": "ఉష్ణోగ్రత పెరిగినప్పుడు థర్మామీటర్‌లోని రంగు ద్రవం ఏమవుతుంది?",
+    "en": "What happens to the coloured liquid in a thermometer when the temperature increases?"
+   },
+   "options": {
+    "te": [
+     "ఘనీభవిస్తుంది",
+     "సంకోచిస్తుంది",
+     "వ్యాపిస్తుంది (Expands)",
+     "రంగు మారుతుంది"
+    ],
+    "en": [
+     "It solidifies",
+     "It contracts",
+     "It expands",
+     "It changes colour"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఉష్ణోగ్రత పెరిగినప్పుడు థర్మామీటర్లలో ఉపయోగించే ద్రవాలు వ్యాపిస్తాయి.",
+    "en": "Thermometers use liquids that expand as the temperature rises to indicate the measurement."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T07-0165",
+   "section": {
+    "te": "ENSO Definition",
+    "en": "ENSO Definition"
+   },
+   "q": {
+    "te": "ఎల్ నినో మరియు ఏ ఇతర పరిస్థితి యొక్క ఉమ్మడి దృగ్విషయాన్ని ENSO అని పిలుస్తారు?",
+    "en": "The combined phenomenon of El Nino and which other condition is known as ENSO?"
+   },
+   "options": {
+    "te": [
+     "పసిఫిక్ డోలనం (Pacific Oscillation)",
+     "ఉత్తర డోలనం (Northern Oscillation)",
+     "హిందూ మహాసముద్ర డైపోల్",
+     "దక్షిణ డోలనం (Southern Oscillation)"
+    ],
+    "en": [
+     "Pacific Oscillation",
+     "Northern Oscillation",
+     "Indian Ocean Dipole",
+     "Southern Oscillation"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ENSO అంటే ఎల్ నినో సదరన్ ఆసిలేషన్ (దక్షిణ డోలనం), ఇది పసిఫిక్ మరియు ఎల్ నినోలో ఒత్తిడి మార్పుల ఉమ్మడి ప్రభావం.",
+    "en": "ENSO stands for El Nino Southern Oscillation, which is the combined effect of pressure changes in the Pacific and El Nino."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T07-0153",
+   "section": {
+    "te": "Forces on Surface Winds",
+    "en": "Forces on Surface Winds"
+   },
+   "q": {
+    "te": "భూ ఉపరితలం సమీపంలో క్షితిజ సమాంతర గాలులను (horizontal winds) ఈ క్రింది ఏ బలాలు ప్రభావితం చేస్తాయి?",
+    "en": "Which of the following forces affect the horizontal winds near the earth's surface?"
+   },
+   "options": {
+    "te": [
+     "పీడన ప్రవణత బలం",
+     "ఘర్షణ బలం",
+     "కొరియాలిస్ బలం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Pressure gradient force",
+     "Frictional force",
+     "Coriolis force",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఉపరితలం సమీపంలో క్షితిజ సమాంతర గాలులు పీడన ప్రవణత, ఘర్షణ మరియు కొరియాలిస్ బలాల ఉమ్మడి ప్రభావం వల్ల ఏర్పడతాయి.",
+    "en": "Horizontal winds near the surface are the result of the combined effects of the pressure gradient, friction, and the Coriolis force."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T07-0118",
+   "section": {
+    "te": "Altitude and Temperature",
+    "en": "Altitude and Temperature"
+   },
+   "q": {
+    "te": "సముద్ర మట్టానికి దగ్గరగా ఉన్న ప్రాంతాలు సాధారణంగా ఎత్తైన ప్రాంతాల కంటే ఎందుకు ఎక్కువ ఉష్ణోగ్రతలను నమోదు చేస్తాయి?",
+    "en": "Why do places near sea level generally record higher temperatures than places at higher elevations?"
+   },
+   "options": {
+    "te": [
+     "వాతావరణం క్రింద నుండి భూ వికిరణం ద్వారా వేడెక్కుతుంది కాబట్టి",
+     "సముద్ర మట్టం వద్ద గాలి వేగం ఎక్కువగా ఉండటం వల్ల",
+     "అవి ఎక్కువ ప్రత్యక్ష సూర్యకాంతిని పొందుతాయి కాబట్టి",
+     "అవి సూర్యుడికి దగ్గరగా ఉండటం వల్ల"
+    ],
+    "en": [
+     "Because the atmosphere is heated from below by terrestrial radiation",
+     "Because of higher wind speeds at sea level",
+     "Because they receive more direct sunlight",
+     "Because they are closer to the sun"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వాతావరణం భూమి ఉపరితలం నుండి క్రింద నుండి వేడెక్కుతుంది కాబట్టి, తక్కువ ఎత్తులో ఉన్న ప్రాంతాలు (సముద్ర మట్టానికి దగ్గరగా) ఎత్తైన ప్రాంతాల కంటే వెచ్చగా ఉంటాయి.",
+    "en": "Since the atmosphere is heated from below by the Earth's surface, lower altitudes (near sea level) are warmer than higher elevations."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T07-0145",
+   "section": {
+    "te": "Vertical Wind Motion",
+    "en": "Vertical Wind Motion"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): పెద్ద నిలువు పీడన ప్రవణత ఉన్నప్పటికీ మనం సాధారణంగా బలమైన పైకి వీచే గాలులను అనుభవించము.\nకారణం (R): నిలువు పీడన ప్రవణత బలం దాదాపు సమానమైన కానీ వ్యతిరేక గురుత్వాకర్షణ బలంతో సమతుల్యం చేయబడుతుంది.",
+    "en": "Assertion (A): We do not generally experience strong upward winds despite a large vertical pressure gradient.\nReason (R): The vertical pressure gradient force is balanced by a nearly equal but opposite gravitational force."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పెద్ద నిలువు పీడన ప్రవణత సాధారణంగా గాలిని బలంగా పైకి కదిలేలా చేస్తుంది, కానీ గురుత్వాకర్షణ శక్తి గాలిని అంతే బలంతో క్రిందికి లాగి, సమతుల్యతను కాపాడుతుంది.",
+    "en": "The large vertical pressure gradient would normally cause strong upward air movement, but gravity pulls the air down with equal force, maintaining balance."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T07-0088",
+   "section": {
+    "te": "Insolation Variation Factors",
+    "en": "Insolation Variation Factors"
+   },
+   "q": {
+    "te": "సూర్యపుటం యొక్క పరిమాణం మరియు తీవ్రతలో మార్పులకు ఈ క్రింది వాటిలో ఏ అంశాలు కారణమవుతాయి?",
+    "en": "Which of the following factors cause variations in the amount and intensity of insolation?"
+   },
+   "options": {
+    "te": [
+     "భూమి తన అక్షం మీద తిరగడం",
+     "సూర్యకిరణాల వాలు కోణం",
+     "పగటి కాలం నిడివి",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Rotation of earth on its axis",
+     "Angle of inclination of the sun's rays",
+     "Length of the day",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్య భాగం ప్రకారం, భూమి భ్రమణం, సూర్యకిరణాల కోణం మరియు పగటి నిడివి అన్నీ సూర్యపుటంలో మార్పులకు కారణమయ్యే ప్రాథమిక అంశాలు.",
+    "en": "The rotation of the earth, the angle of sun's rays, and the length of the day are all primary factors causing variations in insolation."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T07-0107",
+   "section": {
+    "te": "Earth's Heat Budget",
+    "en": "Earth's Heat Budget"
+   },
+   "q": {
+    "te": "భూమి యొక్క ఉష్ణ బడ్జెట్‌లో, భూమి మరియు వాతావరణం నుండి కలిపి అంతరిక్షంలోకి తిరిగి వెళ్ళే మొత్తం వికిరణ యూనిట్ల సంఖ్య ఎంత?",
+    "en": "In the Earth's heat budget, what is the total number of units of radiation that return to space from the Earth and the atmosphere combined?"
+   },
+   "options": {
+    "te": [
+     "51 యూనిట్లు",
+     "65 యూనిట్లు",
+     "48 యూనిట్లు",
+     "100 యూనిట్లు"
+    ],
+    "en": [
+     "51 units",
+     "65 units",
+     "48 units",
+     "100 units"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఉష్ణ బడ్జెట్ సూర్యుని నుండి పొందిన 65 యూనిట్లను, అంతరిక్షంలోకి తిరిగి వెళ్ళే 65 యూనిట్లతో (భూమి నుండి నేరుగా 17 + వాతావరణం నుండి 48) సమతుల్యం చేస్తుంది.",
+    "en": "The heat budget balances 65 units received from the sun with 65 units returning to space (17 from Earth directly + 48 from the atmosphere)."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T07-0023",
+   "section": {
+    "te": "Measuring Snowfall",
+    "en": "Measuring Snowfall"
+   },
+   "q": {
+    "te": "మంచు కురిసే ప్రాంతాలలో వర్షమాపకాన్ని ఉపయోగిస్తున్నప్పుడు, కొలతను నమోదు చేయడానికి ముందు అనుసరించాల్సిన విధానం ఏమిటి?",
+    "en": "When using a rain gauge in regions where it snows, what is the required procedure before recording the measurement?"
+   },
+   "options": {
+    "te": [
+     "మంచు నుండి సిలిండర్ బరువును తీసివేయాలి",
+     "కొలత తీసుకునే ముందు మంచు కరిగేలా చూడాలి",
+     "స్కేలుతో నేరుగా మంచు ఎత్తును కొలవాలి",
+     "మంచు లోతును పది రెట్లు గుణించాలి"
+    ],
+    "en": [
+     "Subtract the weight of the cylinder from the snow",
+     "Allow the snow to melt before taking the measurement",
+     "Measure the height of the snow directly with a scale",
+     "Multiply the snow depth by a factor of ten"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మంచు ఉన్నట్లయితే, కొలతను నమోదు చేయడానికి ముందు దానిని కరగనివ్వాలని మూలం స్పష్టంగా పేర్కొంది.",
+    "en": "If there is snow, it must be allowed to melt before the measurement is recorded."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T07-0181",
+   "section": {
+    "te": "Stationary Front",
+    "en": "Stationary Front"
+   },
+   "q": {
+    "te": "ఒక ఫ్రంట్ కదలకుండా ఒకే చోట ఉండిపోతే దానిని ఏమని పిలుస్తారు?",
+    "en": "What is a front called when it does not move and remains in one position?"
+   },
+   "options": {
+    "te": [
+     "ఉష్ణ ఫ్రంట్",
+     "శీతల ఫ్రంట్",
+     "స్థిరమైన (Stationary) ఫ్రంట్",
+     "ఆక్లూడెడ్ ఫ్రంట్"
+    ],
+    "en": [
+     "Warm front",
+     "Cold front",
+     "Stationary front",
+     "Occluded front"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "స్థిరమైన ఫ్రంట్ అనేది రెండు వాయురాశుల మధ్య సరిహద్దు, ఇది కదలకుండా ఒకే చోట ఉంటుంది.",
+    "en": "A stationary front is a boundary between two air masses that remains in a fixed position without moving."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T07-0029",
+   "section": {
+    "te": "High Altitude Symptoms",
+    "en": "High Altitude Symptoms"
+   },
+   "q": {
+    "te": "నిశ్చయం (A): ఎత్తైన ప్రాంతాలలో ప్రజలు తరచుగా శ్వాస తీసుకోవడంలో ఇబ్బంది లేదా తల తిరగడం వంటివి అనుభవిస్తారు.\nకారణం (R): ఎత్తైన ప్రాంతాలలో, గాలి పీడనం తక్కువగా ఉంటుంది మరియు ఊపిరితిత్తులకు తక్కువ ఆక్సిజన్ అందుబాటులో ఉంటుంది.",
+    "en": "Assertion (A): People often feel breathless or dizzy at high altitudes.\nReason (R): At high altitudes, the air pressure is lower and there is less oxygen available for the lungs."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఎత్తైన ప్రాంతాలలో తక్కువ వాతావరణ పీడనం వల్ల గాలి పలచబడి ఆక్సిజన్ తగ్గుతుంది, దీనివల్ల శ్వాస ఆడకపోవడం మరియు తల తిరగడం సంభవిస్తాయి.",
+    "en": "The lower atmospheric pressure at high altitudes results in thinner air and less oxygen, causing breathlessness and dizziness."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T07-0068",
+   "section": {
+    "te": "Cyclone Formation",
+    "en": "Cyclone Formation"
+   },
+   "q": {
+    "te": "చక్రవాతం (Cyclone) ఏర్పడేటప్పుడు, గాలులు తేమతో కూడిన గాలిని ఎక్కడి నుండి తెస్తాయి?",
+    "en": "In the formation of a cyclone, from where do the winds bring moist air?"
+   },
+   "options": {
+    "te": [
+     "పర్వతాల నుండి",
+     "సముద్రం నుండి",
+     "ఎడారి నుండి",
+     "ఎగువ వాతావరణం నుండి"
+    ],
+    "en": [
+     "From the mountains",
+     "From the sea",
+     "From the desert",
+     "From the upper atmosphere"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అల్పపీడన కేంద్రం వైపు గాలులు సముద్రం నుండి తేమతో కూడిన గాలిని తెచ్చినప్పుడు చక్రవాతాలు ఏర్పడతాయి.",
+    "en": "Cyclones are formed when winds bring moist air from the sea toward a low-pressure center."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T07-0185",
+   "section": {
+    "te": "Absolute Humidity Units",
+    "en": "Absolute Humidity Units"
+   },
+   "q": {
+    "te": "పరమ ఆర్ద్రతను (Absolute humidity) ఈ క్రింది ఏ ప్రమాణాలలో వ్యక్తపరుస్తారు?",
+    "en": "In which of the following units is absolute humidity expressed?"
+   },
+   "options": {
+    "te": [
+     "చదరపు మీటరుకు గ్రాములు",
+     "శాతం",
+     "ఘనపు మీటరుకు గ్రాములు",
+     "ఘనపు మీటరుకు కిలోగ్రాములు"
+    ],
+    "en": [
+     "Grams per square metre",
+     "Percentage",
+     "Grams per cubic metre",
+     "Kilograms per cubic metre"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పరమ ఆర్ద్రత అనేది గాలి యొక్క యూనిట్ ఘనపరిమాణానికి ఉండే నీటి ఆవిరి బరువు, దీనిని ఘనపు మీటరుకు గ్రాములలో వ్యక్తపరుస్తారు.",
+    "en": "Absolute humidity is the weight of water vapour per unit volume of air, expressed in grams per cubic metre."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T07-0097",
+   "section": {
+    "te": "Local Winds - Loo",
+    "en": "Local Winds - Loo"
+   },
+   "q": {
+    "te": "ఉత్తర భారతదేశంలో 'లూ' అని పిలువబడే స్థానిక వేసవి గాలులు ఏ వాతావరణ ప్రక్రియ ఫలితంగా ఏర్పడతాయి?",
+    "en": "The local summer wind in northern India known as 'loo' is a result of which atmospheric process?"
+   },
+   "options": {
+    "te": [
+     "వాహనం (Conduction)",
+     "భూ వికిరణం",
+     "అభివహనం (Advection)",
+     "సంవహనం (Convection)"
+    ],
+    "en": [
+     "Conduction",
+     "Terrestrial radiation",
+     "Advection",
+     "Convection"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వేసవిలో ఉత్తర భారతదేశంలోని 'లూ' గాలులు గాలి యొక్క క్షితిజ సమాంతర కదలిక వల్ల ఏర్పడతాయి, దీనినే అభివహన ప్రక్రియ అంటారు.",
+    "en": "The 'loo' winds in northern India during summer are caused by the horizontal movement of air, which is the process of advection."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T07-0005",
+   "section": {
+    "te": "Pine Cones Behavior",
+    "en": "Pine Cones Behavior"
+   },
+   "q": {
+    "te": "పైన్ కోన్లకు (Pine cones) సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. విత్తనాలను రక్షించడానికి అవి తేమతో కూడిన పరిస్థితులలో మూసుకుంటాయి.\n2. విత్తనాలను విడుదల చేయడానికి అవి పొడి పరిస్థితులలో తెరుచుకుంటాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding pine cones:\n1. They close in humid conditions to protect seeds.\n2. They open in dry conditions to release seeds.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పైన్ కోన్లు రక్షణ కోసం తేమతో కూడిన వాతావరణంలో మూసుకుంటాయి మరియు విత్తనాల వ్యాప్తి కోసం పొడి వాతావరణంలో తెరుచుకుంటాయి.",
+    "en": "Pine cones close in humid weather for protection and open in dry weather for seed dispersal."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T07-0175",
+   "section": {
+    "te": "Subtropical High Formation",
+    "en": "Subtropical High Formation"
+   },
+   "q": {
+    "te": "30° N మరియు S అక్షాంశాల వద్ద గాలి క్రిందికి దిగడానికి (sinking) సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది ITCZ నుండి వచ్చే గాలి పేరుకుపోవడం వల్ల సంభవిస్తుంది.\n2. గాలి ఈ అక్షాంశాలకు చేరుకున్నప్పుడు చల్లబడటం వల్ల ఇది జరుగుతుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding the sinking of air at 30° N and S latitudes:\n1. It is caused by the accumulation of air moving from the ITCZ.\n2. It occurs because the air cools down as it reaches these latitudes.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఉష్ణమండలాల నుండి గాలి పేరుకుపోవడం మరియు ఆ గాలి చల్లబడటం రెండింటి వల్ల 30° N మరియు S వద్ద గాలి క్రిందికి దిగుతుంది.",
+    "en": "Air sinks at 30° N and S due to both the accumulation of air from the tropics and the cooling of that air."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T07-0123",
+   "section": {
+    "te": "Temperature Range",
+    "en": "Temperature Range"
+   },
+   "q": {
+    "te": "యూరేషియా ఖండం యొక్క ఈశాన్య భాగంలో కనిపించే అత్యధిక ఉష్ణోగ్రత వ్యత్యాసానికి (60° C కంటే ఎక్కువ) ప్రధాన కారణం ఏమిటి?",
+    "en": "What is the primary reason for the highest range of temperature (more than 60° C) observed over the north-eastern part of the Eurasian continent?"
+   },
+   "options": {
+    "te": [
+     "ఖండాంతర ప్రభావం (Continentality)",
+     "సముద్ర మట్టం నుండి ఎత్తు (Altitude)",
+     "సముద్ర ప్రవాహాలు",
+     "అక్షాంశం"
+    ],
+    "en": [
+     "Continentality",
+     "Altitude",
+     "Ocean currents",
+     "Latitude"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "యూరేషియా ఈశాన్య భాగంలో అత్యధిక ఉష్ణోగ్రత వ్యత్యాసం ఉండటానికి ప్రధాన కారణం ఖండాంతర ప్రభావం (Continentality).",
+    "en": "The highest range of temperature over the north-eastern part of Eurasia is specifically attributed to continentality."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T07-0028",
+   "section": {
+    "te": "Anemometer Unit",
+    "en": "Anemometer Unit"
+   },
+   "q": {
+    "te": "ఎనిమోమీటర్ సాధారణంగా గాలి వేగాన్ని ఏ యూనిట్‌లో లెక్కిస్తుంది?",
+    "en": "In which unit does an anemometer typically calculate wind speed?"
+   },
+   "options": {
+    "te": [
+     "కిలోమీటర్లు/గంట (km/h)",
+     "మిల్లీబార్లు (mb)",
+     "మీటర్లు/సెకను (m/s)",
+     "మైళ్లు/గంట (mph)"
+    ],
+    "en": [
+     "Kilometres per hour (km/h)",
+     "Millibars (mb)",
+     "Metres per second (m/s)",
+     "Miles per hour (mph)"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఎనిమోమీటర్ గాలి వేగాన్ని గంటకు కిలోమీటర్ల (km/h) చొప్పున లెక్కిస్తుంది.",
+    "en": "The anemometer calculates wind speed in kilometres per hour (km/h)."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T07-0032",
+   "section": {
+    "te": "Acclimatisation Definition",
+    "en": "Acclimatisation Definition"
+   },
+   "q": {
+    "te": "'Acclimatise' (అలవాటు పడటం) అనే పదానికి అర్థం ఏమిటి?",
+    "en": "What does the term 'Acclimatise' mean?"
+   },
+   "options": {
+    "te": [
+     "చక్రవాతాన్ని అంచనా వేయడం",
+     "గాలి వేగాన్ని కొలవడం",
+     "కొత్త వాతావరణం లేదా పరిస్థితికి సర్దుబాటు చేసుకోవడం",
+     "ఉష్ణోగ్రత పరిధిని లెక్కించడం"
+    ],
+    "en": [
+     "To predict a cyclone",
+     "To measure the speed of wind",
+     "To adjust to a new climate or condition",
+     "To calculate the range of temperature"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "Acclimatise అంటే కొత్త వాతావరణం లేదా కొత్త పరిస్థితికి అలవాటు పడటం లేదా సర్దుబాటు చేసుకోవడం.",
+    "en": "Acclimatise means to adjust to a new climate or a new condition."
+   }
+  }
+ ]
+}

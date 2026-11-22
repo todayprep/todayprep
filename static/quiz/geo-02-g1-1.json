@@ -1,0 +1,942 @@
+{
+ "id": "geo-02-g1-1",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Earth – క్విజ్ 1",
+  "en": "Earth – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T02-0010",
+   "section": {
+    "te": "Coordinates Units",
+    "en": "Coordinates Units"
+   },
+   "q": {
+    "te": "భౌగోళిక కోఆర్డినేట్ల కొలతలో, ఒక డిగ్రీని ఎన్ని నిమిషాలుగా విభజించారు?",
+    "en": "In the measurement of geographical coordinates, one degree is divided into how many minutes?"
+   },
+   "options": {
+    "te": [
+     "60",
+     "24",
+     "360",
+     "100"
+    ],
+    "en": [
+     "60",
+     "24",
+     "360",
+     "100"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అక్షాంశాలు మరియు రేఖాంశాలను డిగ్రీలలో కొలుస్తారు, ఇక్కడ ప్రతి డిగ్రీ 60 నిమిషాలను కలిగి ఉంటుంది.",
+    "en": "Latitudes and longitudes are measured in degrees, where each degree consists of 60 minutes."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T02-0028",
+   "section": {
+    "te": "Hemispheres",
+    "en": "Hemispheres"
+   },
+   "q": {
+    "te": "ప్రధాన రేఖాంశానికి తూర్పున ఉన్న భూమి భాగాన్ని ఏమంటారు?",
+    "en": "The portion of the Earth located to the east of the Prime Meridian is known as the:"
+   },
+   "options": {
+    "te": [
+     "ఉత్తర అర్ధగోళం",
+     "దక్షిణ అర్ధగోళం",
+     "పశ్చిమ అర్ధగోళం",
+     "తూర్పు అర్ధగోళం"
+    ],
+    "en": [
+     "Northern hemisphere",
+     "Southern hemisphere",
+     "Western hemisphere",
+     "Eastern hemisphere"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ప్రధాన రేఖాంశం భూమిని తూర్పు మరియు పశ్చిమ అర్ధగోళాలుగా విభజిస్తుంది.",
+    "en": "The Prime Meridian divides the Earth into the Eastern and Western hemispheres."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T02-0014",
+   "section": {
+    "te": "Latitude Definition",
+    "en": "Latitude Definition"
+   },
+   "q": {
+    "te": "ఒక ప్రాంతం యొక్క అక్షాంశం ఏ బిందువు నుండి కోణంగా కొలవబడుతుంది?",
+    "en": "The latitude of a place is measured as an angle from which point?"
+   },
+   "options": {
+    "te": [
+     "భూమి ఉపరితలం",
+     "ప్రధాన రేఖాంశం",
+     "భూమి కేంద్రం",
+     "ఉత్తర ధ్రువం"
+    ],
+    "en": [
+     "The surface of the Earth",
+     "The Prime Meridian",
+     "The centre of the Earth",
+     "The North Pole"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అక్షాంశం అనేది భూమధ్యరేఖకు ఉత్తరంగా లేదా దక్షిణంగా ఉన్న ఒక బిందువు యొక్క కోణీయ దూరం, ఇది భూమి కేంద్రం నుండి కొలవబడుతుంది.",
+    "en": "Latitude is the angular distance of a point north or south of the equator, measured from the Earth's centre."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T02-0040",
+   "section": {
+    "te": "180° Longitude Time",
+    "en": "180° Longitude Time"
+   },
+   "q": {
+    "te": "0° రేఖాంశం మరియు 180° రేఖాంశం మధ్య ఖచ్చితమైన సమయ వ్యత్యాసం ఎంత?",
+    "en": "What is the exact time difference between the 0° longitude and the 180° longitude?"
+   },
+   "options": {
+    "te": [
+     "4 నిమిషాలు",
+     "12 గంటలు",
+     "6 గంటలు",
+     "24 గంటలు"
+    ],
+    "en": [
+     "4 minutes",
+     "12 hours",
+     "6 hours",
+     "24 hours"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "180° రేఖాంశం వద్ద సమయం 0° రేఖాంశం నుండి ఖచ్చితంగా 12 గంటల దూరంలో ఉంటుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The time at the 180° longitude is exactly 12 hours away from the 0° longitude."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T02-0013",
+   "section": {
+    "te": "Geographical Grid",
+    "en": "Geographical Grid"
+   },
+   "q": {
+    "te": "క్రింది వాటిని జతపరచండి:\n1. భూమధ్యరేఖ - i. 90°N\n2. ఉత్తర ధ్రువం - ii. 0°\n3. అక్షాంశాలు - iii. ఉత్తర-దక్షిణ రేఖలు\n4. రేఖాంశాలు - iv. తూర్పు-పడమర రేఖలు",
+    "en": "Match the following:\n1. Equator - i. 90°N\n2. North Pole - ii. 0°\n3. Parallels - iii. North-South lines\n4. Meridians - iv. East-West lines"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-i, 3-iv, 4-iii",
+     "1-i, 2-ii, 3-iii, 4-iv",
+     "1-ii, 2-i, 3-iii, 4-iv",
+     "1-iv, 2-iii, 3-ii, 4-i"
+    ],
+    "en": [
+     "1-ii, 2-i, 3-iv, 4-iii",
+     "1-i, 2-ii, 3-iii, 4-iv",
+     "1-ii, 2-i, 3-iii, 4-iv",
+     "1-iv, 2-iii, 3-ii, 4-i"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూమధ్యరేఖ 0°, ఉత్తర ధ్రువం 90°N, అక్షాంశాలు తూర్పు-పడమరగా మరియు రేఖాంశాలు ఉత్తర-దక్షిణంగా ఉంటాయి.",
+    "en": "The Equator is 0°, North Pole is 90°N, Parallels run East-West, and Meridians run North-South."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T02-0016",
+   "section": {
+    "te": "Equator Features",
+    "en": "Equator Features"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో భూమధ్యరేఖను వివరించేది ఏది?",
+    "en": "Which of the following describes the Equator?"
+   },
+   "options": {
+    "te": [
+     "భూగోళంపై అతిపెద్ద వృత్తం",
+     "ఉత్తర మరియు దక్షిణ ధ్రువాల మధ్యలో ఉంటుంది",
+     "భూగోళాన్ని రెండు సమాన భాగాలుగా విభజిస్తుంది",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Largest circle on the globe",
+     "Midway between North and South Poles",
+     "Divides the globe into two equal halves",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూమధ్యరేఖ అతిపెద్ద వృత్తం, బృహత్ వృత్తం మరియు ఇది రెండు ధ్రువాలకు సరిగ్గా మధ్యలో ఉండి భూమిని సమాన భాగాలుగా విభజిస్తుంది.",
+    "en": "The equator is the largest circle, a great circle, and is located exactly midway between the two poles, dividing Earth into equal halves."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T02-0019",
+   "section": {
+    "te": "Longitude and Time",
+    "en": "Longitude and Time"
+   },
+   "q": {
+    "te": "సూర్యుడు ఒక గంటలో ఎన్ని డిగ్రీల రేఖాంశాలను దాటుతాడు?",
+    "en": "How many degrees of longitude does the sun traverse in one hour?"
+   },
+   "options": {
+    "te": [
+     "45°",
+     "30°",
+     "15°",
+     "1°"
+    ],
+    "en": [
+     "45°",
+     "30°",
+     "15°",
+     "1°"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూమి 24 గంటల్లో 360° తిరుగుతుంది, అంటే సూర్యుడు గంటకు 15° రేఖాంశాలను దాటుతాడు.",
+    "en": "The Earth rotates 360° in 24 hours, which means the sun traverses 15° of longitude per hour."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T02-0024",
+   "section": {
+    "te": "Longitude and Time",
+    "en": "Longitude and Time"
+   },
+   "q": {
+    "te": "సూర్యుడు ఒక డిగ్రీ రేఖాంశాన్ని దాటడానికి ఎంత సమయం పడుతుంది?",
+    "en": "How much time does the sun take to traverse one degree of longitude?"
+   },
+   "options": {
+    "te": [
+     "60 నిమిషాలు",
+     "1 నిమిషం",
+     "4 నిమిషాలు",
+     "15 నిమిషాలు"
+    ],
+    "en": [
+     "60 minutes",
+     "1 minute",
+     "4 minutes",
+     "15 minutes"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సూర్యుడు ప్రతి నాలుగు నిమిషాలకు ఒక డిగ్రీ రేఖాంశాన్ని దాటుతాడు.",
+    "en": "The sun traverses one degree of longitude every four minutes."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T02-0008",
+   "section": {
+    "te": "Earth's Rotation",
+    "en": "Earth's Rotation"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): భూమి ఒక అబ్లేట్ స్ఫెరోయిడ్ మరియు ఖచ్చితమైన గోళం కాదు.\nకారణం (R): భూమి తన అక్షం మీద తిరగడం వల్ల భూమధ్యరేఖ వద్ద ఉబ్బెత్తుగా మారుతుంది.",
+    "en": "Assertion (A): The Earth is an oblate spheroid and not a perfect sphere.\nReason (R): The rotation of the Earth on its axis produces bulging at the equator."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూమి తిరగడం వల్ల భూమధ్యరేఖ వద్ద ఉబ్బెత్తుగా మారుతుంది, దీనివల్ల భూమధ్యరేఖ వ్యాసార్థం ధ్రువ వ్యాసార్థం కంటే ఎక్కువగా ఉంటుంది, ఫలితంగా అబ్లేట్ స్ఫెరోయిడ్ ఆకారం ఏర్పడుతుంది.",
+    "en": "The Earth's rotation causes it to bulge at the equator, making the equatorial radius larger than the polar radius, resulting in an oblate spheroid shape."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T02-0011",
+   "section": {
+    "te": "Meridians of Longitude",
+    "en": "Meridians of Longitude"
+   },
+   "q": {
+    "te": "రేఖాంశాలకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి ఉత్తర-దక్షిణంగా ఉండే నిలువు వరుసలు.\n2. ఇవి రెండు ధ్రువాలను కలుపుతాయి.\n3. ఇవి ఒకదానికొకటి సమాంతరంగా ఉంటాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about meridians of longitude:\n1. They are vertical lines running north-south.\n2. They join the two poles.\n3. They are parallel to each other.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "రేఖాంశాలు ధ్రువాలను కలిపే నిలువు రేఖలు; అవి ధ్రువాల వద్ద కలుస్తాయి కాబట్టి అవి సమాంతరంగా ఉండవు.",
+    "en": "Meridians are vertical lines joining the poles; they are not parallel because they converge at the poles."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T02-0034",
+   "section": {
+    "te": "Indian Standard Time",
+    "en": "Indian Standard Time"
+   },
+   "q": {
+    "te": "భారతీయ ప్రామాణిక సమయాన్ని (IST) లెక్కించడానికి ఉపయోగించే 82°30’E మెరిడియన్ కింది ఏ ప్రాంతం గుండా వెళుతుంది?",
+    "en": "The 82°30’E meridian used to calculate Indian Standard Time passes through which of the following locations?"
+   },
+   "options": {
+    "te": [
+     "నాగ్‌పూర్",
+     "పాట్నా",
+     "మీర్జాపూర్",
+     "ఉజ్జయిని"
+    ],
+    "en": [
+     "Nagpur",
+     "Patna",
+     "Mirzapur",
+     "Ujjain"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతీయ ప్రామాణిక సమయం (IST) మీర్జాపూర్ గుండా వెళ్ళే 82°30’E మెరిడియన్ ఆధారంగా లెక్కించబడుతుంది.",
+    "en": "The Indian Standard Time (IST) is calculated based on the 82°30’E meridian which passes through Mirzapur."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T02-0026",
+   "section": {
+    "te": "Time Calculation",
+    "en": "Time Calculation"
+   },
+   "q": {
+    "te": "గ్రీన్ విచ్ (0°) వద్ద సమయం మధ్యాహ్నం 12:00 అయితే, 90° తూర్పు రేఖాంశంలో ఉన్న థింపూ (భూటాన్) వద్ద స్థానిక సమయం ఎంత?",
+    "en": "If the time at Greenwich (0°) is 12:00 noon, what would be the local time at Thimpu (Bhutan) located at 90° East longitude?"
+   },
+   "options": {
+    "te": [
+     "ఉదయం 6:00",
+     "సాయంత్రం 6:00",
+     "అర్ధరాత్రి 12:00",
+     "రాత్రి 10:00"
+    ],
+    "en": [
+     "6:00 a.m.",
+     "6:00 p.m.",
+     "12:00 midnight",
+     "10:00 p.m."
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రతి 1° తూర్పుకు సమయం 4 నిమిషాలు పెరుగుతుంది. 90° కోసం, వ్యత్యాసం 360 నిమిషాలు (6 గంటలు), కాబట్టి సమయం సాయంత్రం 6:00 అవుతుంది.",
+    "en": "For every 1° east, time increases by 4 minutes. For 90°, the difference is 360 minutes (6 hours), making it 6:00 p.m."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T02-0006",
+   "section": {
+    "te": "Latitude Determination",
+    "en": "Latitude Determination"
+   },
+   "q": {
+    "te": "ఒక ప్రాంతం యొక్క అక్షాంశాన్ని క్రింది వాటిలో దేని సహాయంతో నిర్ణయించవచ్చు?",
+    "en": "The latitude of a place can be determined with the help of which of the following?"
+   },
+   "options": {
+    "te": [
+     "సూర్యుని ఎత్తు (Altitude of the sun)",
+     "ధ్రువ నక్షత్రం ఎత్తు (Altitude of the Pole Star)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Altitude of the sun",
+     "Altitude of the Pole Star",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యం ప్రకారం, సూర్యుని ఎత్తు లేదా ధ్రువ నక్షత్రం యొక్క ఎత్తును ఉపయోగించి ఒక ప్రాంతం యొక్క అక్షాంశాన్ని కనుగొనవచ్చు.",
+    "en": "The latitude of a place can be found using the altitude of either the sun or the Pole Star."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T02-0007",
+   "section": {
+    "te": "Meridians of Longitude",
+    "en": "Meridians of Longitude"
+   },
+   "q": {
+    "te": "రేఖాంశాల మధ్య దూరం ఎక్కడ అత్యధికంగా ఉంటుంది?",
+    "en": "Where are the meridians of longitude spaced farthest apart?"
+   },
+   "options": {
+    "te": [
+     "భూమధ్యరేఖ వద్ద",
+     "45 డిగ్రీల అక్షాంశం వద్ద",
+     "ఉత్తర ధ్రువం వద్ద",
+     "దక్షిణ ధ్రువం వద్ద"
+    ],
+    "en": [
+     "At the Equator",
+     "At 45 degrees latitude",
+     "At the North Pole",
+     "At the South Pole"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "రేఖాంశాల మధ్య గరిష్ట దూరం భూమధ్యరేఖ వద్ద ఉంటుంది మరియు అవి ధ్రువాల వద్ద కలుస్తాయి.",
+    "en": "Meridians of longitude have the maximum distance between them at the equator and meet (converge) at the poles."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T02-0017",
+   "section": {
+    "te": "Prime Meridian Location",
+    "en": "Prime Meridian Location"
+   },
+   "q": {
+    "te": "అంతర్జాతీయ ఒప్పందం ప్రకారం, ప్రధాన రేఖాంశం (Prime Meridian) కింది వాటిలో ఏ ప్రాంతం గుండా వెళుతుంది?",
+    "en": "According to the international agreement, the Prime Meridian passes through which of the following locations?"
+   },
+   "options": {
+    "te": [
+     "బెర్లిన్",
+     "గ్రీన్ విచ్",
+     "న్యూయార్క్",
+     "పారిస్"
+    ],
+    "en": [
+     "Berlin",
+     "Greenwich",
+     "New York",
+     "Paris"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రధాన రేఖాంశం (0°) లండన్ సమీపంలోని గ్రీన్ విచ్ అబ్జర్వేటరీ గుండా వెళుతుంది.",
+    "en": "The Prime Meridian (0°) passes through the Greenwich observatory near London."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T02-0025",
+   "section": {
+    "te": "Meridian Geometry",
+    "en": "Meridian Geometry"
+   },
+   "q": {
+    "te": "రేఖాంశాల గురించి కింది ప్రకటనలను పరిశీలించండి:\nA. రేఖాంశాలు అర్ధ వృత్తాలు.\nB. వ్యతిరేక రేఖాంశాలు కలిసి ఒక వృత్తాన్ని పూర్తి చేస్తాయి.\nకింది వాటిలో ఏది సరైనది?",
+    "en": "Consider the following statements about meridians:\nA. Meridians are semi-circles.\nB. Opposite meridians together complete a circle.\nWhich of the following is correct?"
+   },
+   "options": {
+    "te": [
+     "A మాత్రమే సరైనది",
+     "B మాత్రమే సరైనది",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Only A is correct",
+     "Only B is correct",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రేఖాంశాలు ధ్రువాల వద్ద కలిసే అర్ధ వృత్తాలు, మరియు ఏవైనా రెండు వ్యతిరేక రేఖాంశాలు కలిసి ఒక పూర్తి వృత్తాన్ని ఏర్పరుస్తాయి.",
+    "en": "Meridians are semi-circles that converge at poles, and any two opposite meridians form a full circle."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T02-0020",
+   "section": {
+    "te": "Temperature Zones",
+    "en": "Temperature Zones"
+   },
+   "q": {
+    "te": "23 ½° మరియు 66 ½° ఉత్తర మరియు దక్షిణ అక్షాంశాల మధ్య ఉన్న ప్రాంతాన్ని ఏ మండలంగా వర్గీకరించారు?",
+    "en": "The area between 23 ½° and 66 ½° north and south latitudes is classified as which zone?"
+   },
+   "options": {
+    "te": [
+     "శీతల మండలం (Frigid zone)",
+     "ఉష్ణ మండలం (Torrid zone)",
+     "భూమధ్యరేఖ మండలం",
+     "సమశీతోష్ణ మండలం (Temperate zone)"
+    ],
+    "en": [
+     "Frigid zone",
+     "Torrid zone",
+     "Equatorial zone",
+     "Temperate zone"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వనరు ప్రకారం, రెండు అర్ధగోళాలలో 23 ½° మరియు 66 ½° మధ్య సమశీతోష్ణ మండలం ఉంటుంది.",
+    "en": "The temperate zone lies between 23 ½° and 66 ½° in both hemispheres."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T02-0009",
+   "section": {
+    "te": "Equator",
+    "en": "Equator"
+   },
+   "q": {
+    "te": "భూమిపై ఉన్న ఏ ఊహాజనిత రేఖను 'బృహత్ వృత్తం' (great circle) అని కూడా పిలుస్తారు?",
+    "en": "Which imaginary line on the Earth is also known as a 'great circle'?"
+   },
+   "options": {
+    "te": [
+     "కర్కట రేఖ",
+     "ప్రధాన రేఖాంశం",
+     "ఆర్కిటిక్ వలయం",
+     "భూమధ్యరేఖ"
+    ],
+    "en": [
+     "Tropic of Cancer",
+     "Prime Meridian",
+     "Arctic Circle",
+     "Equator"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూమధ్యరేఖ అతిపెద్ద వృత్తం మరియు భూగోళాన్ని రెండు సమాన భాగాలుగా విభజిస్తుంది, అందుకే దీనిని బృహత్ వృత్తం అంటారు.",
+    "en": "The equator is the largest circle and divides the globe into two equal halves, hence it is called a great circle."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T02-0015",
+   "section": {
+    "te": "Poles Latitude",
+    "en": "Poles Latitude"
+   },
+   "q": {
+    "te": "ఉత్తర ధ్రువం యొక్క అక్షాంశం ఎంత?",
+    "en": "What is the latitude of the North Pole?"
+   },
+   "options": {
+    "te": [
+     "45°N",
+     "90°N",
+     "0°",
+     "180°"
+    ],
+    "en": [
+     "45°N",
+     "90°N",
+     "0°",
+     "180°"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఉత్తర ధ్రువం యొక్క అక్షాంశం 90°N మరియు దక్షిణ ధ్రువం యొక్క అక్షాంశం 90°S.",
+    "en": "The latitude of the North Pole is 90°N and the South Pole is 90°S."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T02-0023",
+   "section": {
+    "te": "Longitude Distance",
+    "en": "Longitude Distance"
+   },
+   "q": {
+    "te": "ధ్రువాల వద్ద రెండు రేఖాంశాల మధ్య దూరం ఎంత?",
+    "en": "What is the distance between two meridians of longitude at the poles?"
+   },
+   "options": {
+    "te": [
+     "79 కి.మీ",
+     "111.3 కి.మీ",
+     "0 కి.మీ",
+     "1 కి.మీ"
+    ],
+    "en": [
+     "79 km",
+     "111.3 km",
+     "0 km",
+     "1 km"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రేఖాంశాలన్నీ ధ్రువాల వద్ద కలుస్తాయి కాబట్టి, వాటి మధ్య దూరం సున్నా అవుతుంది.",
+    "en": "Since all meridians converge at the poles, the distance between them becomes zero."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T02-0038",
+   "section": {
+    "te": "Time Calculation",
+    "en": "Time Calculation"
+   },
+   "q": {
+    "te": "ప్రధాన మెరిడియన్ (Prime Meridian)కు పశ్చిమంగా వెళ్లేటప్పుడు ప్రతి ఒక డిగ్రీ రేఖాంశానికి సమయం ఏ రేటుతో తగ్గుతుంది?",
+    "en": "At what rate does the time decrease for every one degree of longitude when moving west of the Prime Meridian?"
+   },
+   "options": {
+    "te": [
+     "4 నిమిషాలు",
+     "1 నిమిషం",
+     "15 నిమిషాలు",
+     "60 నిమిషాలు"
+    ],
+    "en": [
+     "4 minutes",
+     "1 minute",
+     "15 minutes",
+     "60 minutes"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రధాన మెరిడియన్‌కు పశ్చిమంగా వెళ్లేటప్పుడు ప్రతి ఒక డిగ్రీ రేఖాంశానికి 4 నిమిషాల చొప్పున సమయం తగ్గుతుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Time decreases at a rate of 4 minutes per one degree of longitude as one moves west of the prime meridian."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T02-0032",
+   "section": {
+    "te": "Meridian Length",
+    "en": "Meridian Length"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): అన్ని రేఖాంశాలు సమాన పొడవును కలిగి ఉంటాయి.\nకారణం (R): రేఖాంశాలు ధ్రువాల వద్ద కలిసే అర్ధ వృత్తాలు.",
+    "en": "Assertion (A): All meridians of longitude are equal in length.\nReason (R): Meridians are semi-circles that converge at the poles."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "రేఖాంశాలు ఒకే రెండు బిందువులను (ధ్రువాలను) కలిపే అర్ధ వృత్తాలు కాబట్టి, పరిమాణంలో మారే అక్షాంశాల వలె కాకుండా, అవన్నీ సమాన పొడవును కలిగి ఉంటాయి.",
+    "en": "Because meridians are semi-circles connecting the same two points (the poles), they are all of equal length, unlike latitudes which vary in size."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T02-0027",
+   "section": {
+    "te": "Meridian Characteristics",
+    "en": "Meridian Characteristics"
+   },
+   "q": {
+    "te": "రేఖాంశాలకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. అవన్నీ సమాన పొడవును కలిగి ఉంటాయి.\n2. అవి ధ్రువాల వద్ద కలిసే అర్ధ వృత్తాలు.\n3. అవి ఒకదానికొకటి సమాంతరంగా ఉంటాయి.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding meridians of longitude:\n1. They are all equal in length.\n2. They are semi-circles that converge at the poles.\n3. They are parallel to each other.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 only",
+     "1 and 2 only",
+     "2 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "రేఖాంశాలు సమాన పొడవును కలిగి ఉంటాయి మరియు ధ్రువాల వద్ద కలుస్తాయి; అవి ఒకదానికొకటి సమాంతరంగా ఉండవు (అక్షాంశాల వలె కాకుండా).",
+    "en": "Meridians are equal in length and converge at poles; they are NOT parallel to each other (unlike latitudes)."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T02-0002",
+   "section": {
+    "te": "Parallels of Latitude",
+    "en": "Parallels of Latitude"
+   },
+   "q": {
+    "te": "అక్షాంశాలను ఒక డిగ్రీ అంతరంతో గీస్తే, భూమధ్యరేఖతో కలిపి మొత్తం అక్షాంశాల సంఖ్య ఎంత?",
+    "en": "If parallels of latitude are drawn at an interval of one degree, what is the total number of parallels including the equator?"
+   },
+   "options": {
+    "te": [
+     "179",
+     "181",
+     "180",
+     "90"
+    ],
+    "en": [
+     "179",
+     "181",
+     "180",
+     "90"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రతి అర్ధగోళంలో (ఉత్తర మరియు దక్షిణ) 89 అక్షాంశాలు మరియు భూమధ్యరేఖ (0°) కలిపి మొత్తం 179 అక్షాంశాలు ఉంటాయి.",
+    "en": "There are 89 parallels in each hemisphere (North and South) plus the equator (0°), making a total of 179 parallels."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T02-0012",
+   "section": {
+    "te": "Earth's Rotation",
+    "en": "Earth's Rotation"
+   },
+   "q": {
+    "te": "భూమి తన అక్షం మీద ఏ దిశలో తిరుగుతుంది?",
+    "en": "In which direction does the Earth spin on its axis?"
+   },
+   "options": {
+    "te": [
+     "పడమర నుండి తూర్పుకు",
+     "దక్షిణం నుండి ఉత్తరానికి",
+     "ఉత్తరం నుండి దక్షిణానికి",
+     "తూర్పు నుండి పడమరకు"
+    ],
+    "en": [
+     "West to East",
+     "South to North",
+     "North to South",
+     "East to West"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూమి తన అక్షం మీద పడమర నుండి తూర్పు వైపుకు తిరుగుతుంది.",
+    "en": "The Earth rotates on its axis from the west towards the east."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T02-0041",
+   "section": {
+    "te": "Time Direction",
+    "en": "Time Direction"
+   },
+   "q": {
+    "te": "కింది ప్రకటనలను పరిగణించండి:\n1. ప్రధాన మెరిడియన్‌కు తూర్పున కదులుతున్నప్పుడు సమయం పెరుగుతుంది.\n2. ప్రధాన మెరిడియన్‌కు పశ్చిమంగా కదులుతున్నప్పుడు సమయం తగ్గుతుంది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements:\n1. Time increases as one moves east of the Prime Meridian.\n2. Time decreases as one moves west of the Prime Meridian.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రధాన మెరిడియన్‌కు తూర్పున సమయం పెరుగుతుందని మరియు పశ్చిమాన తగ్గుతుందని పాఠ్యభాగం స్పష్టంగా పేర్కొంది.",
+    "en": "Time increases to the east and decreases to the west of the Prime Meridian."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T02-0004",
+   "section": {
+    "te": "Reference Points",
+    "en": "Reference Points"
+   },
+   "q": {
+    "te": "భూమి తన అక్షం మీద తిరగడం వల్ల ఏర్పడే సహజమైన ఆధార బిందువులు (points of reference) ఏవి?",
+    "en": "Which of the following are the natural points of reference provided by the spinning of the Earth on its axis?"
+   },
+   "options": {
+    "te": [
+     "ఉత్తర ధ్రువం",
+     "దక్షిణ ధ్రువం",
+     "A మరియు B రెండూ",
+     "భూమధ్యరేఖ"
+    ],
+    "en": [
+     "North Pole",
+     "South Pole",
+     "Both A and B",
+     "Equator"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూమి పడమర నుండి తూర్పుకు తిరగడం వల్ల ఉత్తర ధ్రువం మరియు దక్షిణ ధ్రువం అనే రెండు సహజ ఆధార బిందువులు ఏర్పడతాయి.",
+    "en": "The Earth's rotation from west to east provides two natural reference points: the North Pole and the South Pole."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T02-0039",
+   "section": {
+    "te": "IST and GMT Difference",
+    "en": "IST and GMT Difference"
+   },
+   "q": {
+    "te": "నిశ్చయం (A): భారతీయ ప్రామాణిక సమయం (IST) గ్రీన్‌విచ్ మీన్ టైమ్ (GMT) కంటే 5 గంటల 30 నిమిషాలు ముందు ఉంటుంది.\nకారణం (R): IST 82°30’E మెరిడియన్ నుండి లెక్కించబడుతుంది మరియు ప్రధాన మెరిడియన్‌కు తూర్పున సమయం పెరుగుతుంది.",
+    "en": "Assertion (A): Indian Standard Time (IST) is 5 hours 30 minutes ahead of Greenwich Mean Time (GMT).\nReason (R): IST is calculated from the 82°30’E meridian, and time increases east of the Prime Meridian."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "IST అనేది GMT కంటే 5.30 గంటలు ముందు ఉంటుంది ఎందుకంటే ఇది 82°30’E మెరిడియన్ ఆధారంగా ఉంటుంది మరియు 0° రేఖాంశం నుండి తూర్పుకు వెళ్లే కొద్దీ సమయం పెరుగుతుంది.",
+    "en": "IST is 5.30 hours ahead of GMT because it is based on the 82°30’E meridian, and time increases as one moves east from the 0° longitude."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T02-0022",
+   "section": {
+    "te": "Meridian Intersection",
+    "en": "Meridian Intersection"
+   },
+   "q": {
+    "te": "రేఖాంశాలు భూమధ్యరేఖను ఏ కోణంలో ఖండిస్తాయి?",
+    "en": "At what angle do the meridians of longitude intersect the equator?"
+   },
+   "options": {
+    "te": [
+     "180 డిగ్రీలు",
+     "60 డిగ్రీలు",
+     "90 డిగ్రీలు",
+     "45 డిగ్రీలు"
+    ],
+    "en": [
+     "180 degrees",
+     "60 degrees",
+     "90 degrees",
+     "45 degrees"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రేఖాంశాలు భూమధ్యరేఖను లంబ కోణంలో (90 డిగ్రీలు) ఖండిస్తాయని వనరు పేర్కొంది.",
+    "en": "Meridians intersect the equator at right angles, which is 90 degrees."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T02-0005",
+   "section": {
+    "te": "Small Circles",
+    "en": "Small Circles"
+   },
+   "q": {
+    "te": "భూమధ్యరేఖ మినహా ఇతర అక్షాంశాలకు సంబంధించి క్రింది వాటిలో ఏది సరైనది?",
+    "en": "Which of the following statements about parallels of latitude (other than the equator) is correct?"
+   },
+   "options": {
+    "te": [
+     "అవి భూమిని రెండు సమాన భాగాలుగా విభజిస్తాయి.",
+     "వాటిని బృహత్ వృత్తాలు (great circles) అని కూడా పిలుస్తారు.",
+     "అవి భూమిని రెండు అసమాన భాగాలుగా విభజిస్తాయి.",
+     "ధ్రువాల వైపు వెళ్లేకొద్దీ వాటి పరిమాణం పెరుగుతుంది."
+    ],
+    "en": [
+     "They divide the earth into two equal halves.",
+     "They are also referred to as great circles.",
+     "They divide the earth into two unequal halves.",
+     "They increase in size towards the poles."
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూమధ్యరేఖ తప్ప, మిగిలిన అన్ని అక్షాంశాలు భూమిని అసమాన భాగాలుగా విభజిస్తాయి మరియు వాటిని అల్ప వృత్తాలు (small circles) అని పిలుస్తారు.",
+    "en": "Except for the equator, all other parallels divide the earth into unequal halves and are called small circles."
+   }
+  }
+ ]
+}

@@ -1,0 +1,942 @@
+{
+ "id": "geo-04-g1-7",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Landforms – క్విజ్ 7",
+  "en": "Landforms – Quiz 7"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T04-0238",
+   "section": {
+    "te": "Indian Coastlines",
+    "en": "Indian Coastlines"
+   },
+   "q": {
+    "te": "భారత తీరప్రాంతాలకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. భారతదేశ పశ్చిమ తీరం కోతకు గురవుతున్న ఎత్తైన రాతి తీరం, ఇక్కడ క్రమక్షయ రూపాలు ప్రధానంగా ఉంటాయి.\n2. భారతదేశ తూర్పు తీరం నిమ్న అవక్షేపక తీరం, ఇక్కడ నిక్షేపణ రూపాలు ప్రధానంగా ఉంటాయి.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the coastlines of India:\n1. The west coast of India is a high rocky retreating coast where erosional forms dominate.\n2. The east coast of India is a low sedimentary coast where depositional forms dominate.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యపుస్తకం ప్రకారం, భారతదేశ పశ్చిమ తీరం క్రమక్షయ భూస్వరూపాలు ఎక్కువగా ఉండే ఎత్తైన రాతి తీరం కాగా, తూర్పు తీరం నిక్షేపణ భూస్వరూపాలు ఎక్కువగా ఉండే నిమ్న అవక్షేపక తీరం.",
+    "en": "India's west coast is a high rocky retreating coast dominated by erosional forms, while the east coast is a low sedimentary coast dominated by depositional forms."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T04-0227",
+   "section": {
+    "te": "Lateral moraines shape",
+    "en": "Lateral moraines shape"
+   },
+   "q": {
+    "te": "హిమానీనద లోయ పక్కల ఉండే పార్శ్వ మొరైన్లు టెర్మినల్ మొరైన్‌తో కలిసి ఏ ఆకారపు గట్టును ఏర్పరుస్తాయి?",
+    "en": "Lateral moraines along the sides of a glacial valley may join a terminal moraine to form a ridge shaped like a:"
+   },
+   "options": {
+    "te": [
+     "సరళ సమాంతర గోడ",
+     "త్రిభుజాకార శంకువు",
+     "ఖచ్చితమైన వృత్తం",
+     "గుర్రపునాడా ఆకారపు గట్టు (Horse-shoe shaped ridge)"
+    ],
+    "en": [
+     "Straight linear wall",
+     "Triangular cone",
+     "Perfect circle",
+     "Horse-shoe shaped ridge"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పార్శ్వ మొరైన్లు టెర్మినల్ మొరైన్‌తో కలిసి గుర్రపునాడా ఆకారపు గట్టును (horse-shoe shaped ridge) ఏర్పరచవచ్చు.",
+    "en": "Lateral moraines can join a terminal moraine to form a characteristic horse-shoe shaped ridge."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T04-0105",
+   "section": {
+    "te": "Wave Action Processes",
+    "en": "Wave Action Processes"
+   },
+   "q": {
+    "te": "సముద్రపు అలల ఏ రెండు ప్రక్రియల వల్ల తీరప్రాంత రాతి బీటలు క్రమంగా గుహగా (Sea cave) మారుతాయి?",
+    "en": "Which two processes of wave action turn a coastal rock crack into a sea cave?"
+   },
+   "options": {
+    "te": [
+     "ద్రావణం మరియు కార్బోనేషన్",
+     "తుప్పు పట్టడం మరియు ఆక్సీకరణ",
+     "గాలివీత మరియు పరస్పర ఘర్షణ",
+     "జలచర్య మరియు రాపిడి (Hydraulic action and abrasion)"
+    ],
+    "en": [
+     "Solution and carbonation",
+     "Corrosion and oxidation",
+     "Deflation and attrition",
+     "Hydraulic action and abrasion"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అలల జలచర్య (hydraulic action) మరియు రాపిడి (abrasion) వల్ల రాతి పగుళ్లు పెద్దవై సముద్ర గుహగా మారుతాయి.",
+    "en": "Hydraulic action and abrasion by breaking waves enlarge a crack in coastal rock into a cave."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T04-0104",
+   "section": {
+    "te": "Coastal Landforms",
+    "en": "Coastal Landforms"
+   },
+   "q": {
+    "te": "తీరప్రాంతంలో సముద్ర అలల కోత మరియు శైథిల్యం కారణంగా 'సీ స్టాక్' (Sea stack) మరింత క్షీణించి చివరికి ఏ రూపంగా మారుతుంది?",
+    "en": "Over time, as a sea stack gets eroded and weathered by wave action, which landform does it ultimately form?"
+   },
+   "options": {
+    "te": [
+     "సముద్ర తోరణం (Sea arch)",
+     "స్టంప్ (Stump)",
+     "తరంగ నిర్మిత వేదిక",
+     "సముద్ర గుహ (Sea cave)"
+    ],
+    "en": [
+     "Sea arch",
+     "Stump",
+     "Wave-cut platform",
+     "Sea cave"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సముద్రపు స్టాక్ కాలక్రమేణా అలల కోత మరియు శైథిల్యానికి గురై చిన్నదిగా మారి 'స్టంప్'గా రూపాంతరం చెందుతుంది.",
+    "en": "Continuous erosion and weathering of a sea stack over time reduces it into a stump."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T04-0024",
+   "section": {
+    "te": "Tibetan Plateau Features",
+    "en": "Tibetan Plateau Features"
+   },
+   "q": {
+    "te": "టిబెట్ పీఠభూమికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. దీని సగటు ఎత్తు 4,500 మీటర్లు.\n2. దీనిని 'ప్రపంచ పైకప్పు' (Roof of the World) అని పిలుస్తారు.\n3. తూర్పు నుండి పడమరకు ఇది దాదాపు 2,500 కి.మీ పొడవు కలిగి ఉంది.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding the Tibetan Plateau:\n1. It has an average altitude of 4,500 m.\n2. It has been nicknamed the 'Roof of the World'.\n3. From east to west, it is nearly 2,500 km long.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పై మూడు ప్రకటనలు సరైనవే: టిబెట్ పీఠభూమి సగటు ఎత్తు 4,500 మీటర్లు, దీనిని 'ప్రపంచ పైకప్పు' అంటారు మరియు తూర్పు-పడమరల మధ్య దీని పొడవు దాదాపు 2,500 కి.మీ.",
+    "en": "All three statements are correct: the Tibetan Plateau has an average altitude of 4,500 m, is nicknamed the 'Roof of the World', and is nearly 2,500 km long from east to west."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T04-0043",
+   "section": {
+    "te": "Continent definition",
+    "en": "Continent definition"
+   },
+   "q": {
+    "te": "పెద్ద నిరంతర భూభాగాన్ని ఏమని పిలుస్తారు?",
+    "en": "What is a large continuous expanse of land called?"
+   },
+   "options": {
+    "te": [
+     "ద్వీపం",
+     "ఖండం",
+     "మైదానం",
+     "పీఠభూమి"
+    ],
+    "en": [
+     "Island",
+     "Continent",
+     "Plain",
+     "Plateau"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వనరు ప్రకారం పెద్ద నిరంతర భూభాగాన్ని ఖండం అని నిర్వచిస్తారు.",
+    "en": "The source defines a large continuous expanse of land as a continent."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T04-0181",
+   "section": {
+    "te": "Delta deposits sorting",
+    "en": "Delta deposits sorting"
+   },
+   "q": {
+    "te": "ఒండలి విసనకర్రలతో పోలిస్తే, డెల్టాలను ఏర్పరిచే నిక్షేపాల ప్రధాన విశిష్ట లక్షణం ఏమిటి?",
+    "en": "Unlike alluvial fans, the deposits making up deltas are characterized by being:"
+   },
+   "options": {
+    "te": [
+     "స్పష్టమైన స్తరీకరణతో చక్కగా వర్గీకరించబడి (sorted) ఉండటం",
+     "భారీ బండరాళ్లతో కూడి ఎటువంటి విభజన లేకపోవడం",
+     "ఎటువంటి పొరలు లేదా స్తరీకరణ లేకుండా మిశ్రమంగా ఉండటం",
+     "కేవలం గులకరాయి శంకువులను మాత్రమే కలిగి ఉండటం"
+    ],
+    "en": [
+     "Very well sorted with clear stratification",
+     "Completely unsorted with coarse boulders",
+     "Mixed without any layering or stratification",
+     "Dominated solely by gravel cones"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఒండలి విసనకర్రల వలె కాకుండా, డెల్టాలను ఏర్పరిచే నిక్షేపాలు స్పష్టమైన పొరలతో (stratification) చక్కగా వర్గీకరించబడి ఉంటాయి.",
+    "en": "Deposits making up deltas are very well sorted with clear stratification, unlike the unstratified and less sorted deposits of alluvial fans."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T04-0050",
+   "section": {
+    "te": "Pālai occupation",
+    "en": "Pālai occupation"
+   },
+   "q": {
+    "te": "'పాలై' (ఎండిపోయిన, ఎడారి వంటి) ప్రాంతాలతో ముడిపడి ఉన్న ప్రధాన వృత్తులు ఏమిటి?",
+    "en": "What are the main occupations associated with the 'Pālai' (arid, desert-like) regions?"
+   },
+   "options": {
+    "te": [
+     "వ్యవసాయం",
+     "చేపల వేట",
+     "పశువుల పెంపకం",
+     "ప్రయాణం మరియు పోరాటం"
+    ],
+    "en": [
+     "Farming",
+     "Fishing",
+     "Cattle rearing",
+     "Journeying and fighting"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఎండిపోయిన ప్రాంతాలను కలిగి ఉన్న పాలై భూభాగంలో, ప్రధాన కార్యకలాపాలు ప్రయాణం మరియు పోరాటం.",
+    "en": "In the Pālai landscape, which consists of arid regions, the main activities are journeying and fighting."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T04-0071",
+   "section": {
+    "te": "Glacial landforms",
+    "en": "Glacial landforms"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో 'U' ఆకారపు లోయలను (U-shaped valleys) చెక్కడానికి కారణమయ్యే క్రమక్షయ కారకం (agent of gradation) ఏది?",
+    "en": "Which of the following agents of gradation is responsible for carving U-shaped valleys?"
+   },
+   "options": {
+    "te": [
+     "హిమానీనదాలు (Glaciers)",
+     "సముద్రపు అలలు",
+     "గాలి",
+     "ప్రవహించే నీరు"
+    ],
+    "en": [
+     "Glaciers",
+     "Sea waves",
+     "Wind",
+     "Running water"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "హిమానీనదాలు భారీ పరిమాణంలో పదార్థాలను రాపిడి చేసి మోసుకెళ్తూ, U-ఆకారపు లోయలను చెక్కుతాయి.",
+    "en": "Glaciers scrape and transport vast quantities of material, carving out characteristic U-shaped valleys."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T04-0040",
+   "section": {
+    "te": "Plateau characteristics",
+    "en": "Plateau characteristics"
+   },
+   "q": {
+    "te": "చుట్టుపక్కల భూమి కంటే ఎత్తుగా ఉండి, ఎక్కువ లేదా తక్కువ చదునైన ఉపరితలం కలిగి, కొన్ని వైపులా నిటారుగా ఉండే వాలులను కలిగి ఉండే భూస్వరూపం ఏది?",
+    "en": "Which landform is characterized by rising from the surrounding land with a more or less flat surface and often having steep slopes on some sides?"
+   },
+   "options": {
+    "te": [
+     "పీఠభూమి",
+     "ఎడారి",
+     "మైదానం",
+     "పర్వతం"
+    ],
+    "en": [
+     "Plateau",
+     "Desert",
+     "Plain",
+     "Mountain"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పీఠభూమి అనేది చుట్టుపక్కల ప్రాంతం కంటే ఎత్తుగా ఉండి, చదునైన పైభాగాన్ని కలిగి ఉండే భూస్వరూపం, ఇది తరచుగా నిటారుగా ఉండే వాలులను కలిగి ఉంటుంది.",
+    "en": "A plateau is defined as a landform that rises above the surrounding area and has a flat top, often with steep sides."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T04-0004",
+   "section": {
+    "te": "Hills vs Mountains",
+    "en": "Hills vs Mountains"
+   },
+   "q": {
+    "te": "తక్కువ ఎత్తు, తక్కువ నిటారుగా ఉండే వాలులు మరియు గుండ్రని శిఖరాలు కలిగిన ఎత్తైన ప్రాంతాలను ఏమని పిలుస్తారు?",
+    "en": "Highlands that have a lower height, less steep slopes, and rounded tops are specifically called:"
+   },
+   "options": {
+    "te": [
+     "పీఠభూములు",
+     "శిఖరాలు",
+     "మైదానాలు",
+     "కొండలు (Hills)"
+    ],
+    "en": [
+     "Plateaus",
+     "Summits",
+     "Plains",
+     "Hills"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "తక్కువ ఎత్తు, తక్కువ వాలు మరియు గుండ్రని పైభాగం కలిగిన ఎత్తైన ప్రాంతాలను కొండలు అని పిలుస్తారు.",
+    "en": "The text distinguishes hills from mountains by their lower height, less steep slopes, and rounded tops."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T04-0059",
+   "section": {
+    "te": "Earth Layers",
+    "en": "Earth Layers"
+   },
+   "q": {
+    "te": "శిలావరణం క్రింద ఉండి, టెక్టోనిక్ ఫలకలు కదలడానికి అనుమతించే పాక్షిక ద్రవ రూప (semi-molten) పొర ఏది?",
+    "en": "Which semi-molten layer lies beneath the lithosphere and allows tectonic plates to move?"
+   },
+   "options": {
+    "te": [
+     "బాహ్య భూకేంద్ర మండలం",
+     "దుర్బలావరణం (Asthenosphere)",
+     "భూపటలం",
+     "అంతర భూకేంద్ర మండలం"
+    ],
+    "en": [
+     "Outer Core",
+     "Asthenosphere",
+     "Crust",
+     "Inner Core"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "దుర్బలావరణం (Asthenosphere) అనేది శిలావరణం క్రింద ఉన్న పాక్షిక ద్రవ రూప పొర, ఇది ఫలకల కదలికకు సహాయపడుతుంది.",
+    "en": "The asthenosphere is the semi-molten layer located below the lithosphere that facilitates plate movement."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T04-0263",
+   "section": {
+    "te": "Blow outs and Caves",
+    "en": "Blow outs and Caves"
+   },
+   "q": {
+    "te": "గాలి రాపిడి వల్ల రాతి ముఖభాగాలపై ఏర్పడిన నిస్సారమైన పల్లాలు లోతుగా మరియు వెడల్పుగా మారినప్పుడు వాటిని ఏమని పిలుస్తారు?",
+    "en": "When shallow depressions on rock faces, caused by wind abrasion, become deeper and wider, they are referred to as:"
+   },
+   "options": {
+    "te": [
+     "డీఫ్లేషన్ హాలోస్",
+     "గుహలు (Caves)",
+     "బ్లో అవుట్స్",
+     "మష్రూమ్ రాక్స్"
+    ],
+    "en": [
+     "Deflation hollows",
+     "Caves",
+     "Blow outs",
+     "Mushroom rocks"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "బ్లో అవుట్స్ (ప్రారంభ నిస్సార పల్లాలు) లోతుగా మరియు వెడల్పుగా మారి గుహలుగా ఏర్పడతాయని పాఠ్యభాగం వివరిస్తుంది.",
+    "en": "Blow outs (initial shallow depressions) can become deeper and wider to form caves."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T04-0034",
+   "section": {
+    "te": "Cold Desert Example",
+    "en": "Cold Desert Example"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఆసియాలోని శీతల ఎడారిగా పేర్కొనబడినది ఏది?",
+    "en": "Which of the following is explicitly mentioned as a cold desert in Asia?"
+   },
+   "options": {
+    "te": [
+     "సహారా ఎడారి",
+     "గోబీ ఎడారి",
+     "కలహరి ఎడారి",
+     "థార్ ఎడారి"
+    ],
+    "en": [
+     "Sahara Desert",
+     "Gobi Desert",
+     "Kalahari Desert",
+     "Thar Desert"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఆసియాలోని గోబీ ఎడారిని శీతల ఎడారికి ఉదాహరణగా పేర్కొన్నారు.",
+    "en": "The Gobi Desert in Asia is identified as an example of a cold desert."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T04-0257",
+   "section": {
+    "te": "Inselberg definition",
+    "en": "Inselberg definition"
+   },
+   "q": {
+    "te": "పెడిమెంట్స్ వెనుకకు విస్తరించడం వల్ల పర్వతం గణనీయంగా తగ్గిన తర్వాత మిగిలి ఉన్న పర్వత అవశేషాన్ని ఏమంటారు?",
+    "en": "What is the remnant of a mountain called after it has been significantly reduced by the backward extension of pediments?"
+   },
+   "options": {
+    "te": [
+     "టేబుల్ రాక్",
+     "మష్రూమ్ రాక్",
+     "డీఫ్లేషన్ హాలో",
+     "ఇన్సెల్ బర్గ్ (Inselberg)"
+    ],
+    "en": [
+     "Table rock",
+     "Mushroom rock",
+     "Deflation hollow",
+     "Inselberg"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పెడిమెంట్స్ వెనుకకు విస్తరించి పర్వతం తగ్గుతున్నప్పుడు, మిగిలి ఉన్న పర్వత భాగాన్ని ఇన్సెల్ బర్గ్ అని పిలుస్తారు.",
+    "en": "As pediments extend backwards and the mountain is reduced, the remaining part of the mountain is called an inselberg."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T04-0005",
+   "section": {
+    "te": "Mountain Ranges",
+    "en": "Mountain Ranges"
+   },
+   "q": {
+    "te": "పర్వత శ్రేణులను వాటి ఖండాలతో జతపరచండి:\n1. హిమాలయాలు - i. యూరప్\n2. ఆల్ప్స్ - ii. దక్షిణ అమెరికా\n3. ఆండీస్ - iii. ఆసియా",
+    "en": "Match the mountain ranges with their respective continents:\n1. Himalayas - i. Europe\n2. Alps - ii. South America\n3. Andes - iii. Asia"
+   },
+   "options": {
+    "te": [
+     "1-iii, 2-i, 3-ii",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-ii, 3-i",
+     "1-ii, 2-i, 3-iii"
+    ],
+    "en": [
+     "1-iii, 2-i, 3-ii",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-ii, 3-i",
+     "1-ii, 2-i, 3-iii"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "హిమాలయాలు ఆసియాలో, ఆల్ప్స్ యూరప్‌లో మరియు ఆండీస్ దక్షిణ అమెరికాలో ఉన్నాయి.",
+    "en": "The Himalayas are in Asia, the Alps are in Europe, and the Andes are in South America."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T04-0218",
+   "section": {
+    "te": "Horn landform mechanism",
+    "en": "Horn landform mechanism"
+   },
+   "q": {
+    "te": "హిమానీనద ప్రాంతాలలో 'హార్న్‌లు' (horns) అని పిలువబడే ఎత్తైన, కోణీయ శిఖరాలు ఏ విధంగా ఏర్పడతాయి?",
+    "en": "In glaciated mountains, high, sharp-pointed and steep-sided peaks called 'horns' form when:"
+   },
+   "options": {
+    "te": [
+     "పీడ్‌మాంట్ హిమానీనదాలు మైదానాలపై వ్యాపించినప్పుడు",
+     "మూడు లేదా అంతకంటే ఎక్కువ హిమానీనదాలు తమ సర్క్‌లు కలిసే వరకు శీర్షకోత చేసినప్పుడు",
+     "భూగర్భ గుహల పైకప్పులు కూలిపోయి భారీ లోయలు ఏర్పడినప్పుడు",
+     "హిమానీనద ప్రవాహాలు అడుగుభాగంలో ఒండ్రు నిక్షేపాలను జమ చేసినప్పుడు"
+    ],
+    "en": [
+     "Piedmont glaciers spread across vast piedmont plains",
+     "Three or more radiating glaciers cut headward until their cirques meet",
+     "Sinkholes collapse to create deep underground depressions",
+     "Meltwater streams deposit layers of sorted alluvium at the base"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మూడు లేదా అంతకంటే ఎక్కువ దిశల్లో కదిలే హిమానీనదాల సర్క్‌లు కలిసేంత వరకు వెనుకకు కోత (headward erosion) జరపడం వల్ల హార్న్‌లు ఏర్పడతాయి.",
+    "en": "Horns form when three or more radiating glaciers cut headward until their cirques meet, creating a sharp-pointed, steep-sided peak."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T04-0140",
+   "section": {
+    "te": "Enrichment concept",
+    "en": "Enrichment concept"
+   },
+   "q": {
+    "te": "లీచింగ్ (leaching) ద్వారా కొన్ని పదార్థాలు తొలగించబడి, మిగిలిన విలువైన ఖనిజాల సాంద్రత పెరిగే దృగ్విషయాన్ని ఏమంటారు?",
+    "en": "The phenomenon where leaching removes certain materials, thereby increasing the concentration of remaining valuable minerals to economically viable levels, is termed:"
+   },
+   "options": {
+    "te": [
+     "కార్బోనేషన్",
+     "ఎక్స్‌ఫోలియేషన్",
+     "సుసంపన్నం కావడం (Enrichment)",
+     "జలీకరణం (Hydration)"
+    ],
+    "en": [
+     "Carbonation",
+     "Exfoliation",
+     "Enrichment",
+     "Hydration"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూగర్భ జలాల లీచింగ్ ద్వారా ఇతర పదార్థాలు తొలగింపబడి, విలువైన ఖనిజాల గాఢత పెరగడాన్ని 'ఎన్‌రిచ్‌మెంట్' (Enrichment) అంటారు.",
+    "en": "Enrichment occurs when leaching removes some materials, increasing the concentration of remaining valuable materials."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T04-0074",
+   "section": {
+    "te": "Delta agriculture",
+    "en": "Delta agriculture"
+   },
+   "q": {
+    "te": "సారవంతమైన ఒండ్రు నేలల కారణంగా డెల్టాలు క్రింది ఏ పంటల సాగుకు అనువైనవిగా పేర్కొనబడ్డాయి?",
+    "en": "Due to their rich alluvial soil, deltas are described as ideal for supporting which of the following crops?"
+   },
+   "options": {
+    "te": [
+     "వరి",
+     "జనపనార",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Rice",
+     "Jute",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "డెల్టాలు వాటిలోని సారవంతమైన ఒండ్రు నేలల వల్ల వ్యవసాయానికి అనువైనవి మరియు వరి, జనపనార వంటి పంటలకు మద్దతు ఇస్తాయి.",
+    "en": "Deltas are highly fertile due to alluvial deposits, making them well-suited for growing crops like rice and jute."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T04-0144",
+   "section": {
+    "te": "Biological acids in weathering",
+    "en": "Biological acids in weathering"
+   },
+   "q": {
+    "te": "జీవ సంబంధ శైథిల్యంలో, కుళ్ళిపోతున్న వృక్ష మరియు జంతు సంబంధ పదార్థాలు వేటిని ఉత్పత్తి చేయడం ద్వారా ఖనిజాల కరిగిపోయే స్వభావాన్ని పెంచుతాయి?",
+    "en": "During biological weathering, decaying plant and animal matter facilitate rock decay and element solubility primarily by producing:"
+   },
+   "options": {
+    "te": [
+     "హ్యూమిక్, కార్బోనిక్ మరియు ఇతర ఆమ్లాలు",
+     "ఎసిటిక్ మరియు సిట్రిక్ ఆమ్లాలు",
+     "సల్ఫ్యూరిక్ మరియు హైడ్రోఫ్లోరిక్ ఆమ్లాలు",
+     "హైడ్రోక్లోరిక్ మరియు నత్రిక ఆమ్లాలు"
+    ],
+    "en": [
+     "Humic, carbonic and other acids",
+     "Acetic and citric acids",
+     "Sulphuric and hydrofluoric acids",
+     "Hydrochloric and nitric acids"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "కుళ్ళిపోతున్న సేంద్రియ పదార్థాలు హ్యూమిక్, కార్బోనిక్ మరియు ఇతర ఆమ్లాలను ఉత్పత్తి చేసి శిలల క్షీణతను మరియు ఖనిజాల ద్రావణీయతను పెంచుతాయి.",
+    "en": "Decaying plant and animal matter help produce humic, carbonic, and other acids, which enhance mineral decay and solubility."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T04-0037",
+   "section": {
+    "te": "Plateaus as Storehouses of Minerals",
+    "en": "Plateaus as Storehouses of Minerals"
+   },
+   "q": {
+    "te": "క్రింద రెండు ప్రకటనలు ఇవ్వబడ్డాయి:\nనిశ్చితం (A): పీఠభూములలో మైనింగ్ (గనుల తవ్వకం) ఒక ప్రధాన ఆర్థిక కార్యకలాపం.\nకారణం (R): పీఠభూములు ఖనిజ నిక్షేపాలతో సమృద్ధిగా ఉంటాయి, వీటిని 'ఖనిజాల భాండాగారాలు' అని పిలుస్తారు.\nసరైన సమాధానాన్ని ఎంచుకోండి:",
+    "en": "Given below are two statements:\nAssertion (A): Mining is a major economic activity on plateaus.\nReason (R): Plateaus are rich in mineral deposits and have been called 'storehouses of minerals'.\nSelect the correct answer:"
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ సరైనవి, మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ సరైనవి, కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పీఠభూములు ఖనిజ సమృద్ధిని కలిగి ఉండడం వల్లనే అక్కడ మైనింగ్ ప్రధాన కార్యకలాపంగా మారింది; కాబట్టి A మరియు R రెండూ సరైనవి మరియు R అనేది A కి సరైన వివరణ.",
+    "en": "Both statements are correct, and R explains why mining is a major activity on plateaus, as they are rich in minerals."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T04-0296",
+   "section": {
+    "te": "Rock Resistance",
+    "en": "Rock Resistance"
+   },
+   "q": {
+    "te": "శిలల నిరోధకతకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. వివిధ రకాల శిలలు భూస్వరూప ప్రక్రియలకు మారుతున్న నిరోధకతను అందిస్తాయి.\n2. ఒక నిర్దిష్ట శిల ఒక ప్రక్రియకు నిరోధకతను కలిగి ఉండవచ్చు మరియు మరొక ప్రక్రియకు నిరోధకతను కలిగి ఉండకపోవచ్చు.\n3. శిలల నిర్మాణంలో మడతలు, లోపాలు మరియు ఖనిజాల కాఠిన్యం వంటి అంశాలు ఉంటాయి.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding rock resistance:\n1. Different types of rocks offer varying resistances to geomorphic processes.\n2. A particular rock may be resistant to one process and non-resistant to another.\n3. Rock structure includes aspects like folds, faults, and hardness of minerals.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "శిలలు మారుతున్న నిరోధకతను అందిస్తాయని, ఒక ప్రక్రియకు నిరోధకతను కలిగి ఉండి మరొకదానికి ఉండకపోవచ్చని మరియు నిర్మాణంలో మడతలు, లోపాలు మరియు ఖనిజ కాఠిన్యం ఉంటాయని పాఠ్యాంశం ధృవీకరిస్తుంది.",
+    "en": "The text confirms that rocks offer varying resistance, can be resistant to one process but not another, and that structure includes folds, faults, and mineral hardness."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T04-0013",
+   "section": {
+    "te": "Arunima Sinha",
+    "en": "Arunima Sinha"
+   },
+   "q": {
+    "te": "అరుణిమ సిన్హా గురించి ఈ క్రింది ప్రకటనలలో ఏది/వి సరైనవి?\n1. ఆమె 2013లో మౌంట్ ఎవరెస్ట్ అధిరోహించారు.\n2. ఆమె ప్రతి ఖండంలోని అత్యంత ఎత్తైన శిఖరాన్ని అధిరోహించారు.\n3. ఆమె అంటార్కిటికాలోని మౌంట్ విన్సన్‌ను అధిరోహించారు.",
+    "en": "Which of the following statements about Arunima Sinha is/are correct?\n1. She climbed Mount Everest in 2013.\n2. She climbed the highest peak of every continent.\n3. She climbed Mount Vinson in Antarctica."
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 only",
+     "1 and 2 only",
+     "2 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అరుణిమ సిన్హా 2013లో ఎవరెస్ట్‌ను అధిరోహించారు మరియు మౌంట్ విన్సన్‌తో సహా ప్రతి ఖండంలోని ఎత్తైన శిఖరాలను అధిరోహించారు.",
+    "en": "Arunima Sinha climbed Everest in 2013 and subsequently climbed the highest peak of every continent, including Mount Vinson."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T04-0081",
+   "section": {
+    "te": "Coastal landforms",
+    "en": "Coastal landforms"
+   },
+   "q": {
+    "te": "సముద్రపు అలలు తీరప్రాంతాలను కోతకు గురిచేయడం ద్వారా క్రింది ఏ భూస్వరూపాలు ఏర్పడతాయి?",
+    "en": "Which set of landforms is formed as sea waves erode coastlines?"
+   },
+   "options": {
+    "te": [
+     "V-ఆకారపు లోయలు మరియు రాపిడ్స్",
+     "సముద్రపు కొండలు (Cliffs), బీచ్‌లు మరియు బేలు (Bays)",
+     "ఒండ్రు విసనకర్రలు మరియు సహజ కట్టలు",
+     "సింక్‌హోల్స్ మరియు ఆక్స్‌బౌ సరస్సులు"
+    ],
+    "en": [
+     "V-shaped valleys and rapids",
+     "Cliffs, beaches, and bays",
+     "Alluvial fans and levees",
+     "Sinkholes and oxbow lakes"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సముద్రపు అలలు తీరాలను కోతకు గురిచేసి కొండలు (క్లిఫ్స్), బీచ్‌లు మరియు బేలను ఏర్పరుస్తాయి.",
+    "en": "The erosional and depositional activity of sea waves along coasts produces cliffs, beaches, and bays."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T04-0049",
+   "section": {
+    "te": "Geomorphic processes",
+    "en": "Geomorphic processes"
+   },
+   "q": {
+    "te": "కింది ఏ సహజ ప్రక్రియలు భూమి యొక్క భూస్వరూపాలను రూపొందిస్తాయి?\nA. టెక్టోనిక్ కదలికలు (Tectonic movements)\nB. క్రమక్షయం (Erosion)\nC. నిక్షేపణ (Deposition)",
+    "en": "Which of the following natural processes shape the Earth's landforms?\nA. Tectonic movements\nB. Erosion\nC. Deposition"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూమి యొక్క ఉపరితల లక్షణాలు టెక్టోనిక్ కదలికలు, క్రమక్షయం మరియు నిక్షేపణ ద్వారా రూపొందించబడతాయి.",
+    "en": "The Earth's surface features are shaped by tectonic movements, erosion, and deposition."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T04-0186",
+   "section": {
+    "te": "Natural levees features",
+    "en": "Natural levees features"
+   },
+   "q": {
+    "te": "పెద్ద నదుల ఒడ్డున ముతక నిక్షేపాలతో ఏర్పడే తక్కువ ఎత్తుగల, సమాంతర రేఖీయ గట్లను ఏమని పిలుస్తారు?",
+    "en": "Low, linear and parallel ridges of coarse deposits found along the banks of large rivers are known as:"
+   },
+   "options": {
+    "te": [
+     "ఒండలి విసనకర్రలు",
+     "పాయింట్ బార్లు",
+     "నదీ వేదికలు",
+     "సహజ కరకట్టలు (నేచురల్ లెవీస్)"
+    ],
+    "en": [
+     "Alluvial fans",
+     "Point bars",
+     "River terraces",
+     "Natural levees"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పెద్ద నదుల ఒడ్డున ముతక నిక్షేపాలతో సమాంతరంగా ఏర్పడే పొడవైన గట్లను సహజ కరకట్టలు (నేచురల్ లెవీస్) అంటారు.",
+    "en": "Natural levees are low, linear and parallel ridges composed of coarse deposits found along the banks of large rivers."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T04-0126",
+   "section": {
+    "te": "Metamorphism Cause",
+    "en": "Metamorphism Cause"
+   },
+   "q": {
+    "te": "శిలల రూపాంతర ప్రాప్తికి (metamorphism) కారణమయ్యే పీడనం, ఘనపరిమాణం మరియు ఉష్ణోగ్రత (PVT) మార్పులకు ఏవి కారణమవుతాయి?",
+    "en": "What causes pressure, volume, and temperature (PVT) changes that induce metamorphism of rocks?"
+   },
+   "options": {
+    "te": [
+     "సౌర శక్తి",
+     "డయాస్ట్రోఫిక్ ప్రక్రియలు",
+     "అలల ఘర్షణ",
+     "శైథిల్యం మరియు క్రమక్షయం"
+    ],
+    "en": [
+     "Solar energy",
+     "Diastrophic processes",
+     "Tidal friction",
+     "Weathering and erosion"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఓరోజెనీ మరియు ఎపిరోజెనీ వంటి డయాస్ట్రోఫిక్ ప్రక్రియలు PVT మార్పులకు కారణమవుతాయి, ఇవి శిలల రూపాంతర ప్రాప్తికి దారితీస్తాయి.",
+    "en": "Diastrophic processes like orogeny and epeirogeny cause PVT changes that lead to rock metamorphism."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T04-0184",
+   "section": {
+    "te": "Inactive floodplain deposits",
+    "en": "Inactive floodplain deposits"
+   },
+   "q": {
+    "te": "నదీ గట్ల పైభాగంలో ఉండే క్రియాశీలం కాని వరద మైదానం (ఇన్‌యాక్టివ్ ఫ్లడ్‌ప్లెయిన్) ప్రధానంగా క్రింది ఏ రకమైన నిక్షేపాలను కలిగి ఉంటుంది?",
+    "en": "The inactive floodplain located above the river banks basically contains which of the following types of deposits?"
+   },
+   "options": {
+    "te": [
+     "వరద నిక్షేపాలు (ఫ్లడ్ డిపాజిట్లు)",
+     "కాలువ/ప్రవాహ నిక్షేపాలు (ఛానల్ డిపాజిట్లు)",
+     "A మరియు B రెండూ",
+     "హిమానీనద నిక్షేపాలు"
+    ],
+    "en": [
+     "Flood deposits",
+     "Channel deposits",
+     "Both A and B",
+     "Glacial deposits"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నదీ గట్ల పైభాగంలోని క్రియాశీలం కాని వరద మైదానంలో ప్రధానంగా వరద నిక్షేపాలు మరియు కాలువ నిక్షేపాలు అనే రెండు రకాల నిక్షేపాలు ఉంటాయి.",
+    "en": "The inactive floodplain above the banks contains two main types of deposits: flood deposits and channel deposits."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T04-0151",
+   "section": {
+    "te": "Definition of erosion",
+    "en": "Definition of erosion"
+   },
+   "q": {
+    "te": "శిలా శకలాలను సేకరించడం మరియు వాటిని రవాణా చేయడం ఏ ప్రక్రియలో భాగం?",
+    "en": "Which of the following processes specifically involves the acquisition and transportation of rock debris?"
+   },
+   "options": {
+    "te": [
+     "రూపాంతరం (Metamorphism)",
+     "పటల విరూపణము (Diastrophism)",
+     "క్రమక్షయం (Erosion)",
+     "శిలాశైథిల్యం (Weathering)"
+    ],
+    "en": [
+     "Metamorphism",
+     "Diastrophism",
+     "Erosion",
+     "Weathering"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, శిలా శకలాలను సేకరించడం మరియు ఒక ప్రదేశం నుండి మరొక ప్రదేశానికి రవాణా చేయడం క్రమక్షయంలో భాగం.",
+    "en": "Erosion is defined as the process that involves the acquisition and transportation of rock debris."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T04-0143",
+   "section": {
+    "te": "Underground carbon dioxide",
+    "en": "Underground carbon dioxide"
+   },
+   "q": {
+    "te": "గాలిలో ఉండే కార్బన్ డయాక్సైడ్‌తో పాటు, భూగర్భంలో కార్బన్ డయాక్సైడ్ పరిమాణాన్ని మరింత పెంచేది ఏది?",
+    "en": "Over and above the carbon dioxide present in the air, what increases the quantity of carbon dioxide underground?"
+   },
+   "options": {
+    "te": [
+     "కేవలం స్వచ్ఛమైన వర్షపు నీరు ఇంకడం",
+     "ప్రత్యక్ష సూర్య వికిరణం",
+     "మొక్కలు మరియు జంతువుల కుళ్ళిపోవడం (Decomposition)",
+     "టెక్టానిక్ భారం తొలగింపు వలన కలిగే పీడన విడుదల"
+    ],
+    "en": [
+     "Infiltration of pure rainwater alone",
+     "Direct solar radiation",
+     "Decomposition of plants and animals",
+     "Pressure release from tectonic unloading"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మొక్కలు మరియు జంతువుల అవశేషాలు కుళ్ళిపోవడం వల్ల భూగర్భంలో కార్బన్ డయాక్సైడ్ పరిమాణం మరింత పెరుగుతుంది.",
+    "en": "Decomposition of plants and animals increases the quantity of carbon dioxide underground beyond what is present in the air."
+   }
+  }
+ ]
+}

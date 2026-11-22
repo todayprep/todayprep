@@ -1,0 +1,942 @@
+{
+ "id": "geo-32-c-2",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Economic Activities and Sectors – క్విజ్ 2",
+  "en": "Economic Activities and Sectors – Quiz 2"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T32-0024",
+   "section": {
+    "te": "Transport Geography",
+    "en": "Transport Geography"
+   },
+   "q": {
+    "te": "చేరుకోవడానికి సమానమైన సమయం పట్టే ప్రాంతాలను కలుపుతూ మ్యాప్‌పై గీసిన రేఖలను ఏమంటారు?",
+    "en": "What are the lines drawn on a map to join places that take an equal amount of time to reach called?"
+   },
+   "options": {
+    "te": [
+     "ఐసోహైట్స్ (Isohyets)",
+     "ఐసోక్రోన్ రేఖలు (Isochrone lines)",
+     "ఐసోబార్స్ (Isobars)",
+     "ఐసోథెర్మ్స్ (Isotherms)"
+    ],
+    "en": [
+     "Isohyets",
+     "Isochrone lines",
+     "Isobars",
+     "Isotherms"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రయాణ సమయం పరంగా సమానంగా ఉన్న ప్రదేశాలను కలపడానికి ఉపయోగించే భౌగోళిక రేఖలను ఐసోక్రోన్ రేఖలు అంటారు.",
+    "en": "Isochrone lines are specific geographical lines used to connect places that are equal in terms of travel time."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T32-0018",
+   "section": {
+    "te": "Commercial Livestock Rearing",
+    "en": "Commercial Livestock Rearing"
+   },
+   "q": {
+    "te": "వాణిజ్య పశువుల పెంపకంలో (Commercial livestock ranching), ఒక పచ్చిక బయలులో ఉంచే జంతువుల సంఖ్య దేని ఆధారంగా నిర్ణయించబడుతుంది?",
+    "en": "In commercial livestock ranching, the number of animals kept in a pasture is determined by which of the following?"
+   },
+   "options": {
+    "te": [
+     "రాంచ్ యొక్క మొత్తం వైశాల్యం",
+     "పచ్చిక బయలు యొక్క మోసే సామర్థ్యం (Carrying capacity)",
+     "అందుబాటులో ఉన్న పార్శిల్స్ సంఖ్య",
+     "మాంసం కోసం ఉన్న మార్కెట్ డిమాండ్"
+    ],
+    "en": [
+     "The total area of the ranch",
+     "The carrying capacity of the pasture",
+     "The number of parcels available",
+     "The market demand for meat"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, స్థిరమైన మేతను నిర్ధారించడానికి ఒక పచ్చిక బయలులో జంతువుల సంఖ్య ఆ పచ్చిక బయలు యొక్క మోసే సామర్థ్యం (carrying capacity) ప్రకారం ఉంచబడుతుంది.",
+    "en": "The number of animals in a pasture is strictly kept according to the carrying capacity of that specific pasture to ensure sustainable grazing."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T32-0115",
+   "section": {
+    "te": "Urbanisation and non-farm sectors",
+    "en": "Urbanisation and non-farm sectors"
+   },
+   "q": {
+    "te": "క్రింద రెండు ప్రకటనలు ఇవ్వబడ్డాయి, ఒకటి ప్రతిపాదన (A) మరియు మరొకటి కారణం (R) గా గుర్తించబడ్డాయి:\nప్రతిపాదన (A): ఢిల్లీ, చండీగఢ్ మరియు పుదుచ్చేరి వంటి అధిక పట్టణీకరణ ప్రాంతాలలో ఇతర సేవలలో నిమగ్నమై ఉన్న కార్మికుల నిష్పత్తి చాలా ఎక్కువగా ఉంది.\nకారణం (R): ఈ ప్రాంతాలలో పెద్ద ఎత్తున పట్టణీకరణ మరియు పారిశ్రామికీకరణ కారణంగా, పరిమిత వ్యవసాయ భూమి లభ్యత వల్ల వ్యవసాయేతర రంగాలలో ఎక్కువ మంది కార్మికులు అవసరమవుతారు.\nసరైన ఎంపికను ఎంచుకోండి:",
+    "en": "Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):\nAssertion (A): Highly urbanised areas like Delhi, Chandigarh, and Puducherry have a very large proportion of workers engaged in other services.\nReason (R): Large scale urbanisation and industrialisation in these areas require more workers in non-farm sectors due to limited availability of farming land.\nSelect the correct option:"
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పట్టణ ప్రాంతాల్లోని ఇతర సేవలలో కార్మికుల అధిక నిష్పత్తిని పరిమిత వ్యవసాయ భూమి మరియు పట్టణీకరణ, పారిశ్రామికీకరణ అవసరాలకు పాఠ్యాంశం ముడిపెట్టింది.",
+    "en": "The text links the high proportion of workers in other services in urban areas to limited farming land and the needs of urbanisation and industrialisation."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T32-0038",
+   "section": {
+    "te": "Wholesale Credit Extension",
+    "en": "Wholesale Credit Extension"
+   },
+   "q": {
+    "te": "హోల్‌సేల్ వ్యాపారంలో, రుణం (క్రెడిట్) సౌకర్యం కారణంగా రిటైల్ దుకాణాలు చాలా వరకు ఎవరి మూలధనంపై ఆధారపడి పనిచేస్తాయి?",
+    "en": "In wholesale trading, retail stores often operate very largely on whose capital due to the extension of credit?"
+   },
+   "options": {
+    "te": [
+     "ప్రభుత్వ రాయితీలు",
+     "తయారీదారుల సంఘాలు",
+     "హోల్‌సేలర్ మూలధనం",
+     "వాణిజ్య బ్యాంకులు"
+    ],
+    "en": [
+     "Government subsidies",
+     "Manufacturers' associations",
+     "The wholesaler's capital",
+     "Commercial banks"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "హోల్‌సేలర్లు రిటైల్ దుకాణాలకు పెద్ద ఎత్తున అరువు ఇవ్వడం వల్ల రిటైలర్లు ప్రధానంగా హోల్‌సేలర్ మూలధనంతోనే వ్యాపారం నిర్వహిస్తారు.",
+    "en": "Wholesalers extend credit to retail stores so significantly that the retailer operates largely on the wholesaler's capital."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T32-0001",
+   "section": {
+    "te": "Primary Activities Workers",
+    "en": "Primary Activities Workers"
+   },
+   "q": {
+    "te": "పని యొక్క బాహ్య స్వభావం (outdoor nature) కారణంగా ప్రాథమిక కార్యకలాపాలలో నిమగ్నమైన కార్మికులను ఏమని పిలుస్తారు?",
+    "en": "Workers engaged in primary activities are referred to as which of the following due to the outdoor nature of their work?"
+   },
+   "options": {
+    "te": [
+     "రెడ్-కాలర్ కార్మికులు",
+     "బ్లూ-కాలర్ కార్మికులు",
+     "వైట్-కాలర్ కార్మికులు",
+     "గోల్డ్-కాలర్ కార్మికులు"
+    ],
+    "en": [
+     "Red-collar workers",
+     "Blue-collar workers",
+     "White-collar workers",
+     "Gold-collar workers"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వ్యాసంలో పేర్కొన్న ప్రకారం, ప్రాథమిక కార్యకలాపాలు ఆరుబయట జరిగే స్వభావం కలిగి ఉన్నందున వాటిలో పనిచేసే వారిని రెడ్-కాలర్ కార్మికులు అంటారు.",
+    "en": "People engaged in primary activities are known as red-collar workers because of the outdoor nature of their work."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T32-0012",
+   "section": {
+    "te": "Tundra Migration Direction",
+    "en": "Tundra Migration Direction"
+   },
+   "q": {
+    "te": "టుండ్రా ప్రాంతాలలో సంచార పశువుల కాపరులు రుతువుల ప్రకారం ఎలా వలస వెళతారు?",
+    "en": "In the tundra regions, how do nomadic herders migrate during the seasons?"
+   },
+   "options": {
+    "te": [
+     "వేసవిలో ఉత్తరం నుండి దక్షిణానికి మరియు శీతాకాలంలో దక్షిణం నుండి ఉత్తరానికి",
+     "వేసవిలో దక్షిణం నుండి ఉత్తరానికి మరియు శీతాకాలంలో ఉత్తరం నుండి దక్షిణానికి",
+     "వేసవిలో తూర్పు నుండి పశ్చిమానికి మరియు శీతాకాలంలో పశ్చిమం నుండి తూర్పునకు",
+     "వేసవిలో పశ్చిమం నుండి తూర్పునకు మరియు శీతాకాలంలో తూర్పు నుండి పశ్చిమానికి"
+    ],
+    "en": [
+     "From north to south in summers and south to north in winters",
+     "From south to north in summers and from north to south in winters",
+     "From east to west in summers and west to east in winters",
+     "From west to east in summers and east to west in winters"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "టుండ్రా ప్రాంతాల్లో వేసవి కాలంలో దక్షిణం నుండి ఉత్తరానికి, శీతాకాలంలో ఉత్తరం నుండి దక్షిణానికి వలస వెళ్తారు.",
+    "en": "In tundra regions, nomadic herders migrate from south to north during summers and from north to south during winters."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T32-0040",
+   "section": {
+    "te": "World's Largest Tertiary Activity",
+    "en": "World's Largest Tertiary Activity"
+   },
+   "q": {
+    "te": "నమోదైన మొత్తం ఉద్యోగాలు మరియు మొత్తం ఆదాయం పరంగా ప్రపంచంలోనే అతిపెద్ద తృతీయ రంగ కార్యకలాపంగా క్రింది వాటిలో ఏది అవతరించింది?",
+    "en": "Which of the following has become the world's single largest tertiary activity in terms of total registered jobs and total revenue?"
+   },
+   "options": {
+    "te": [
+     "రిటైల్ వాణిజ్యం",
+     "పర్యాటకం (Tourism)",
+     "టెలికమ్యూనికేషన్",
+     "ఆర్థిక సేవలు"
+    ],
+    "en": [
+     "Retail trading",
+     "Tourism",
+     "Telecommunication",
+     "Financial services"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పర్యాటకం ప్రపంచంలోనే మొత్తం నమోదిత ఉద్యోగాలు మరియు ఆదాయం పరంగా అతిపెద్ద తృతీయ రంగ కార్యకలాపంగా మారింది.",
+    "en": "Tourism has become the world's single largest tertiary activity in total registered jobs and total revenue."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T32-0091",
+   "section": {
+    "te": "Dumped goods impact",
+    "en": "Dumped goods impact"
+   },
+   "q": {
+    "te": "స్వేచ్ఛా వాణిజ్యంలో పాల్గొనే దేశాలు 'డంప్డ్ వస్తువుల' (Dumped goods) పట్ల ఎందుకు అప్రమత్తంగా ఉండాలి?",
+    "en": "Why do countries participating in free trade need to be cautious about 'dumped goods'?"
+   },
+   "options": {
+    "te": [
+     "చౌక ధరలకు లభించే డంప్డ్ వస్తువులు దేశీయ ఉత్పత్తిదారులను నష్టపరుస్తాయి",
+     "అవి సేవా రంగం అంతటా విపరీతమైన ద్రవ్యోల్బణాన్ని కలిగిస్తాయి",
+     "అవి భౌతిక రవాణా మరియు నిల్వ వ్యవస్థలను దెబ్బతీస్తాయి",
+     "సముద్ర సరిహద్దులను దాటకుండా అవి అంతర్జాతీయంగా నిషేధించబడ్డాయి"
+    ],
+    "en": [
+     "Dumped goods of cheaper prices can harm the domestic producers",
+     "They cause rapid inflation across the entire service sector",
+     "They deplete the physical transport and storage networks",
+     "They are strictly banned from crossing maritime borders"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "స్వేచ్ఛా వాణిజ్యంతో పాటు తక్కువ ధరలకు వచ్చే డంప్డ్ వస్తువులు దేశీయంగా వస్తువులను ఉత్పత్తి చేసేవారిని దెబ్బతీసే ప్రమాదం ఉంది.",
+    "en": "Countries must guard against dumped goods because their artificially cheaper prices can undermine and harm domestic producers."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T32-0066",
+   "section": {
+    "te": "Outsourcing and Off-shoring",
+    "en": "Outsourcing and Off-shoring"
+   },
+   "q": {
+    "te": "అవుట్‌సోర్సింగ్‌లో భాగంగా పనిని విదేశీ ప్రాంతాలకు బదిలీ చేయడాన్ని ప్రత్యేకంగా ఏ పదంతో సూచిస్తారు?",
+    "en": "When outsourcing involves transferring work to overseas locations, which term is specifically used to describe it?"
+   },
+   "options": {
+    "te": [
+     "ఆఫ్-షోరింగ్ (Off-shoring)",
+     "నియర్-షోరింగ్ (Near-shoring)",
+     "హోమ్ షోరింగ్ (Home shoring)",
+     "ఇన్-సోర్సింగ్ (In-sourcing)"
+    ],
+    "en": [
+     "Off-shoring",
+     "Near-shoring",
+     "Home shoring",
+     "In-sourcing"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మూలం ప్రకారం, అవుట్‌సోర్సింగ్‌లో భాగంగా పనిని విదేశీ ప్రాంతాలకు బదిలీ చేయడాన్ని 'ఆఫ్-షోరింగ్' అని పిలుస్తారు.",
+    "en": "When outsourcing involves transferring work to overseas locations, it is described by the term off-shoring."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T32-0042",
+   "section": {
+    "te": "Industries Fostered by Tourism",
+    "en": "Industries Fostered by Tourism"
+   },
+   "q": {
+    "te": "పర్యాటకం క్రింది ఏ పరిశ్రమల వృద్ధిని ప్రోత్సహిస్తుంది?",
+    "en": "Tourism fosters the growth of which of the following industries?"
+   },
+   "options": {
+    "te": [
+     "మౌలిక సదుపాయాల పరిశ్రమలు",
+     "రిటైల్ వాణిజ్యం",
+     "హస్తకళా పరిశ్రమలు (జ్ఞాపికలు)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Infrastructure industries",
+     "Retail trading",
+     "Craft industries (souvenirs)",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పర్యాటకం మౌలిక సదుపాయాల పరిశ్రమలు, రిటైల్ వాణిజ్యం మరియు హస్తకళల అభివృద్ధికి తోడ్పడుతుంది.",
+    "en": "Tourism fosters the growth of infrastructure industries, retail trading, and craft industries (souvenirs)."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T32-0053",
+   "section": {
+    "te": "Knowledge Sector employment",
+    "en": "Knowledge Sector employment"
+   },
+   "q": {
+    "te": "అభివృద్ధి చెందిన ఆర్థిక వ్యవస్థలలో, మొత్తం శ్రామికులలో ఎంత భాగం 'నాలెడ్జ్ సెక్టార్' (జ్ఞాన రంగం) లో పనిచేస్తున్నారు?",
+    "en": "In developed economies, what proportion of all workers are employed in the 'Knowledge Sector'?"
+   },
+   "options": {
+    "te": [
+     "సగానికి పైగా",
+     "నాల్గవ వంతు కంటే తక్కువ",
+     "ఖచ్చితంగా మూడవ వంతు",
+     "ఖచ్చితంగా పది శాతం"
+    ],
+    "en": [
+     "Over half",
+     "Less than one-fourth",
+     "Exactly one-third",
+     "Exactly ten percent"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అభివృద్ధి చెందిన దేశాల ఆర్థిక వ్యవస్థలలో మొత్తం కార్మికులలో సగానికి పైగా (Over half) మంది 'నాలెడ్జ్ సెక్టార్' లో ఉపాధి పొందుతున్నారు.",
+    "en": "Over half of all workers in developed economies are employed in the 'Knowledge Sector'."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T32-0099",
+   "section": {
+    "te": "Work participation cause",
+    "en": "Work participation cause"
+   },
+   "q": {
+    "te": "భారతదేశ సందర్భంలో, తక్కువ ఆర్థికాభివృద్ధి ఉన్న ప్రాంతాలలో పని భాగస్వామ్య రేటు ఎక్కువగా ఉండటానికి కారణం ఏమిటి?",
+    "en": "In the context of India, why does the work participation rate tend to be higher in areas with lower levels of economic development?"
+   },
+   "options": {
+    "te": [
+     "ఆధునిక వ్యవసాయ యంత్రాలు సంప్రదాయ శారీరక శ్రమను తొలగించడం",
+     "జీవనాధార లేదా సమీప జీవనాధార ఆర్థిక కార్యకలాపాలను నిర్వహించడానికి ఎక్కువ సంఖ్యలో శారీరక శ్రామికులు అవసరం కావడం",
+     "అధిక పారిశ్రామికీకరణ వల్ల అధిక సంఖ్యలో వైట్ కాలర్ ఉద్యోగాలు లభించడం",
+     "అధిక అక్షరాస్యత రేటు విస్తృత ఉపాధిని ప్రోత్సహించడం"
+    ],
+    "en": [
+     "Modern agricultural machinery displaces traditional manual labour",
+     "A number of manual workers are needed to perform subsistence or near subsistence economic activities",
+     "High levels of industrialisation create abundant white-collar jobs",
+     "Higher literacy rates encourage widespread employment"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "తక్కువ ఆర్థికాభివృద్ధి గల ప్రాంతాలలో జీవనాధార లేదా సమీప జీవనాధార ఆర్థిక కార్యకలాపాలను చేపట్టడానికి ఎక్కువ మంది శారీరక శ్రామికులు అవసరమవుతారు.",
+    "en": "In areas with lower levels of economic development, a larger number of manual workers are needed to perform subsistence or near-subsistence economic activities."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T32-0036",
+   "section": {
+    "te": "Chain Stores Features",
+    "en": "Chain Stores Features"
+   },
+   "q": {
+    "te": "చైన్ స్టోర్లకు (Chain stores) సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి సరుకులను అత్యంత పొదుపుగా కొనుగోలు చేయగలవు.\n2. ఒక స్టోర్‌లో ప్రయోగం చేసి, దాని ఫలితాలను అనేక ఇతర స్టోర్లకు వర్తింపజేసే సామర్థ్యం వీటికి ఉంటుంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding chain stores:\n1. They are able to purchase merchandise most economically.\n2. They have the ability to experiment in one store and apply the results to many.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "చైన్ స్టోర్లు సరుకులను అత్యంత చౌకగా కొనుగోలు చేయడమే కాకుండా, ఒక దుకాణంలో ప్రయోగించిన ఫలితాలను అనేక దుకాణాలకు విస్తరింపజేస్తాయి.",
+    "en": "Chain stores purchase merchandise economically and have the ability to experiment in one store and apply the results to many."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T32-0022",
+   "section": {
+    "te": "Tertiary Activities",
+    "en": "Tertiary Activities"
+   },
+   "q": {
+    "te": "తృతీయ శ్రేణి కార్యకలాపాలు (Tertiary activities) కింది ఏ రెండు ప్రధాన అంశాలను కలిగి ఉంటాయి?",
+    "en": "Tertiary activities involve which of the following two main components?"
+   },
+   "options": {
+    "te": [
+     "తయారీ మరియు ప్రాసెసింగ్",
+     "ఉత్పత్తి (Production) మరియు మార్పిడి (Exchange)",
+     "వెలికితీత మరియు పరివర్తన",
+     "సేకరణ మరియు పంపిణీ"
+    ],
+    "en": [
+     "Manufacturing and Processing",
+     "Production and Exchange",
+     "Extraction and Transformation",
+     "Collection and Distribution"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "తృతీయ శ్రేణి కార్యకలాపాలలో ఉత్పత్తి (సేవల నిబంధన) మరియు మార్పిడి (వాణిజ్యం, రవాణా మరియు సమాచార మార్పిడి) రెండూ ఉంటాయని పాఠ్యభాగం నిర్వచించింది.",
+    "en": "The text defines tertiary activities as including both production (provision of services) and exchange (trade, transport, and communication)."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T32-0020",
+   "section": {
+    "te": "Secondary Activities",
+    "en": "Secondary Activities"
+   },
+   "q": {
+    "te": "ద్వితీయ శ్రేణి కార్యకలాపాలు (Secondary activities) ప్రధానంగా కింది ఏ పరిశ్రమలకు సంబంధించినవి?",
+    "en": "Secondary activities are primarily concerned with which of the following industries?"
+   },
+   "options": {
+    "te": [
+     "తయారీ (Manufacturing)",
+     "ప్రాసెసింగ్ (Processing)",
+     "నిర్మాణం (Construction)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Manufacturing",
+     "Processing",
+     "Construction",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ద్వితీయ శ్రేణి కార్యకలాపాలు తయారీ, ప్రాసెసింగ్ మరియు నిర్మాణ (మౌలిక సదుపాయాల) పరిశ్రమలకు సంబంధించినవని పాఠ్యభాగం స్పష్టంగా పేర్కొంది.",
+    "en": "Secondary activities are concerned with manufacturing, processing, and construction (infrastructure) industries."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T32-0025",
+   "section": {
+    "te": "Economic Sectors",
+    "en": "Economic Sectors"
+   },
+   "q": {
+    "te": "ప్రతిపాదన (A): తృతీయ శ్రేణి కార్యకలాపాలు యంత్రాల కంటే ప్రత్యేక నైపుణ్యాలు మరియు జ్ఞానంపై ఎక్కువగా ఆధారపడతాయి.\nకారణం (R): తృతీయ శ్రేణి కార్యకలాపాలు స్పష్టమైన వస్తువుల ఉత్పత్తి కంటే సేవల వాణిజ్య ఉత్పత్తిని కలిగి ఉంటాయి.",
+    "en": "Assertion (A): Tertiary activities rely more heavily on specialized skills and knowledge than on machinery.\nReason (R): Tertiary activities involve the commercial output of services rather than the production of tangible goods."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "తృతీయ శ్రేణి కార్యకలాపాలు సేవలు (కంటికి కనిపించనివి) పై దృష్టి పెడతాయి, వీటికి మానవ నైపుణ్యం అవసరం. యంత్రాలను ఉపయోగించి వస్తువులను తయారు చేసే ద్వితీయ శ్రేణి కార్యకలాపాల కంటే ఇవి భిన్నమైనవి.",
+    "en": "Tertiary activities focus on services (intangible) which require human expertise and skills, unlike secondary activities which focus on manufacturing tangible goods using machinery."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T32-0069",
+   "section": {
+    "te": "Origin of word salary",
+    "en": "Origin of word salary"
+   },
+   "q": {
+    "te": "ఆంగ్ల పదం 'salary' (జీతం) అనేది లాటిన్ పదం 'Salarium' నుండి వచ్చింది. దీని అర్థం దేని రూపంలో చెల్లింపు?",
+    "en": "The English word 'salary' originates from the Latin word 'Salarium', which literally means payment by which of the following?"
+   },
+   "options": {
+    "te": [
+     "పట్టు (Silk)",
+     "సుగంధ ద్రవ్యాలు (Spices)",
+     "ఉప్పు (Salt)",
+     "వెండి (Silver)"
+    ],
+    "en": [
+     "Silk",
+     "Spices",
+     "Salt",
+     "Silver"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "'Salary' అనే పదం లాటిన్ పదం 'Salarium' నుండి ఉద్భవించింది, దీని అర్థం ఉప్పు రూపంలో చెల్లింపు.",
+    "en": "The word salary comes from the Latin word Salarium, which means payment by salt."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T32-0013",
+   "section": {
+    "te": "Pastoral Nomadism Decline",
+    "en": "Pastoral Nomadism Decline"
+   },
+   "q": {
+    "te": "సంచార పశుపోషకుల సంఖ్య తగ్గడానికి మరియు వారి పరిధి క్షీణించడానికి ప్రధాన కారణాలు ఏవి?",
+    "en": "The shrinking of areas operated by pastoral nomads is primarily due to which of the following reasons?"
+   },
+   "options": {
+    "te": [
+     "రాజకీయ సరిహద్దుల విధింపు",
+     "వివిధ దేశాల నూతన పునరావాస/స్థిరనివాస ప్రణాళికలు",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Imposition of political boundaries",
+     "New settlement plans by different countries",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రాజకీయ సరిహద్దులు ఏర్పడటం మరియు వివిధ దేశాలు తెచ్చిన నూతన నివాస పథకాల వల్ల సంచార పశుపోషక ప్రాంతాలు తగ్గిపోతున్నాయి.",
+    "en": "The decline of pastoral nomadism is caused by both the imposition of political boundaries and new settlement plans by different countries."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T32-0033",
+   "section": {
+    "te": "Tertiary Activities",
+    "en": "Tertiary Activities"
+   },
+   "q": {
+    "te": "కింది వారిలో తృతీయ శ్రేణి కార్యకలాపాలలో నిమగ్నమై ఉన్న నిపుణులు ఎవరు?",
+    "en": "Which of the following professionals are engaged in tertiary activities?"
+   },
+   "options": {
+    "te": [
+     "ప్లంబర్ మరియు ఎలక్ట్రీషియన్",
+     "ఉపాధ్యాయుడు మరియు డాక్టర్",
+     "లాయర్ మరియు డ్రైవర్",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Plumber and Electrician",
+     "Teacher and Doctor",
+     "Lawyer and Driver",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "తృతీయ శ్రేణి కార్యకలాపాలలో నిమగ్నమై ఉన్న వ్యక్తులకు ఉదాహరణలుగా ప్లంబర్, ఎలక్ట్రీషియన్, టీచర్, డాక్టర్, లాయర్, డ్రైవర్ వంటి వారందరినీ పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text lists all these professionals (plumber, electrician, teacher, doctor, lawyer, driver) as examples of people engaged in tertiary activities."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T32-0045",
+   "section": {
+    "te": "Medical Tourism in India",
+    "en": "Medical Tourism in India"
+   },
+   "q": {
+    "te": "2005 సంవత్సరంలో చికిత్స కోసం యు.ఎస్.ఎ (U.S.A.) నుండి భారతదేశాన్ని సుమారు ఎంతమంది రోగులు సందర్శించారు?",
+    "en": "About how many patients from the U.S.A. visited India for medical treatment in the year 2005?"
+   },
+   "options": {
+    "te": [
+     "సుమారు 15,000",
+     "సుమారు 35,000",
+     "సుమారు 55,000",
+     "సుమారు 95,000"
+    ],
+    "en": [
+     "About 15,000",
+     "About 35,000",
+     "About 55,000",
+     "About 95,000"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "2005లో చికిత్స కోసం అమెరికా నుండి దాదాపు 55,000 మంది రోగులు భారతదేశాన్ని సందర్శించారు.",
+    "en": "About 55,000 patients from the U.S.A. visited India in 2005 for treatment."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T32-0057",
+   "section": {
+    "te": "Home shoring trend",
+    "en": "Home shoring trend"
+   },
+   "q": {
+    "te": "పంచమ రంగ సేవలలోని నూతన పోకడల ప్రకారం, 'హోమ్ షోరింగ్' (Home shoring) అనేది దేనికి ప్రత్యామ్నాయంగా ఉద్భవించింది?",
+    "en": "In the context of new trends in quinary services, 'home shoring' has emerged as:"
+   },
+   "options": {
+    "te": [
+     "ముడిసరుకు రవాణా పద్ధతిగా",
+     "ప్రాథమిక వ్యవసాయానికి ప్రత్యామ్నాయంగా",
+     "ఔట్‌సోర్సింగ్‌కు ప్రత్యామ్నాయంగా",
+     "సాంప్రదాయ రిటైల్ వ్యాపార విధానంగా"
+    ],
+    "en": [
+     "A method of raw material transportation",
+     "A replacement for primary agriculture",
+     "An alternative to outsourcing",
+     "A traditional retailing practice"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పంచమ రంగ సేవలలో 'హోమ్ షోరింగ్' అనేది ఔట్‌సోర్సింగ్‌కు ఒక బలమైన ప్రత్యామ్నాయంగా (alternative to outsourcing) అభివృద్ధి చెందింది.",
+    "en": "The text identifies 'home shoring' as a new trend in quinary services acting as an alternative to outsourcing."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T32-0014",
+   "section": {
+    "te": "Nomadic Herding Regions",
+    "en": "Nomadic Herding Regions"
+   },
+   "q": {
+    "te": "సంచార పశుపోషణ యొక్క ప్రధాన ప్రాంతం ఉత్తర ఆఫ్రికాలోని అట్లాంటిక్ తీరాల నుండి అరేబియా ద్వీపకల్పం మీదుగా తూర్పువైపు ఏ ప్రాంతం వరకు విస్తరించి ఉంది?",
+    "en": "The core region of pastoral nomadism extends from the Atlantic shores of North Africa eastwards across the Arabian Peninsula into:"
+   },
+   "options": {
+    "te": [
+     "స్కాండినేవియా మరియు పశ్చిమ ఐరోపా",
+     "ఆస్ట్రేలియా మరియు న్యూజిలాండ్",
+     "దక్షిణ అమెరికా మరియు అమెజాన్ బేసిన్",
+     "మంగోలియా మరియు మధ్య చైనా"
+    ],
+    "en": [
+     "Scandinavia and Western Europe",
+     "Australia and New Zealand",
+     "South America and Amazon Basin",
+     "Mongolia and Central China"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సంచార పశుపోషణ ముఖ్య కేంద్రం ఉత్తర ఆఫ్రికా అట్లాంటిక్ తీరం నుండి అరేబియా మీదుగా మంగోలియా మరియు మధ్య చైనా వరకు విస్తరించి ఉంది.",
+    "en": "The primary core region of pastoral nomadism extends from the Atlantic shores of North Africa across the Arabian peninsula into Mongolia and Central China."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T32-0093",
+   "section": {
+    "te": "Standard of living demand",
+    "en": "Standard of living demand"
+   },
+   "q": {
+    "te": "క్రింద రెండు ప్రకటనలు ఇవ్వబడ్డాయి, ఒకటి నిశ్చితార్థం (A) మరియు రెండవది కారణం (R):\nనిశ్చితార్థం (A): ప్రజల జీవన ప్రమాణం తక్కువగా ఉన్న దేశాలలో ఖరీదైన దిగుమతి వస్తువులకు డిమాండ్ తక్కువగా ఉంటుంది.\nకారణం (R): జీవన ప్రమాణం నాణ్యమైన దిగుమతి వస్తువుల డిమాండ్‌ను నిర్ణయిస్తుంది, ఎందుకంటే తక్కువ జీవన ప్రమాణం ఉన్నప్పుడు కొద్దిమంది మాత్రమే ఖరీదైన వస్తువులను కొనుగోలు చేయగలరు.\nసరైన ఎంపికను ఎంచుకోండి:",
+    "en": "Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):\nAssertion (A): Countries where the general population has a low standard of living exhibit limited demand for costly imported goods.\nReason (R): The standard of living determines the demand for quality imported products because with a low standard of living only a few people can afford expensive imports.\nSelect the correct option:"
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ సరైనవి మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ సరైనవి కానీ A కి R సరైన వివరణ కాదు",
+     "A సరైనది కానీ R తప్పు",
+     "A తప్పు కానీ R సరైనది"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం తక్కువ జీవన ప్రమాణాలు ఉన్నప్పుడు ఖరీదైన వస్తువులను కొనే స్తోమత కొద్దిమందికే ఉండటం వలన దిగుమతి వస్తువుల డిమాండ్ పరిమితంగా ఉంటుంది; కావున A మరియు R రెండూ సరైనవి.",
+    "en": "Both statements are correct and R accurately explains why a lower living standard curtails the demand for expensive imported items."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T32-0015",
+   "section": {
+    "te": "Pastoral Nomadism Southern Hemisphere",
+    "en": "Pastoral Nomadism Southern Hemisphere"
+   },
+   "q": {
+    "te": "దక్షిణార్థగోళంలో సంచార పశుపోషణ క్రింది ఏ ప్రాంతాలలో కనిపిస్తుంది?",
+    "en": "In the Southern Hemisphere, pastoral nomadism is found in which of the following areas?"
+   },
+   "options": {
+    "te": [
+     "న్యూజిలాండ్ మరియు టాస్మానియా",
+     "నైరుతి ఆఫ్రికా మరియు మడగాస్కర్ ద్వీపం",
+     "ఆస్ట్రేలియా ఉత్తర అంచు",
+     "దక్షిణ చిలీ మరియు ఫాక్‌లాండ్ దీవులు"
+    ],
+    "en": [
+     "New Zealand and Tasmania",
+     "South-west Africa and the island of Madagascar",
+     "Northern fringe of Australia",
+     "Southern Chile and Falkland Islands"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "దక్షిణార్థగోళంలో నైరుతి ఆఫ్రికాలోని చిన్న ప్రాంతాలు మరియు మడగాస్కర్ ద్వీపంలో సంచార పశుపోషణ పరిమితంగా ఉంది.",
+    "en": "In the southern hemisphere, pastoral nomadism exists in small areas in South-west Africa and on Madagascar island."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T32-0068",
+   "section": {
+    "te": "Jon Beel Mela",
+    "en": "Jon Beel Mela"
+   },
+   "q": {
+    "te": "భారతదేశంలో బార్టర్ పద్ధతి (వస్తు మార్పిడి విధానం) ఇప్పటికీ సజీవంగా ఉన్న ఏకైక ఉత్సవంగా భావించబడే 'జోన్ బీల్ మేళా' ఎక్కడ జరుగుతుంది?",
+    "en": "In which place does the 'Jon Beel Mela' take place, which is possibly the only fair in India where the barter system is still alive?"
+   },
+   "options": {
+    "te": [
+     "సిల్చార్",
+     "తేజ్‌పూర్",
+     "జాగీరోడ్",
+     "మజులి"
+    ],
+    "en": [
+     "Silchar",
+     "Tezpur",
+     "Jagiroad",
+     "Majuli"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "జోన్ బీల్ మేళా ప్రతి సంవత్సరం జనవరిలో పంట కోతల తర్వాత గౌహతికి 35 కి.మీ దూరంలోని జాగీరోడ్‌లో జరుగుతుంది.",
+    "en": "Jon Beel Mela takes place every January after the harvest season in Jagiroad, 35 km away from Guwahati."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T32-0010",
+   "section": {
+    "te": "Transhumance Definition",
+    "en": "Transhumance Definition"
+   },
+   "q": {
+    "te": "వేసవిలో మైదానాల నుండి పర్వత పచ్చిక బయళ్లకు, శీతాకాలంలో తిరిగి మైదానాలకు జరిగే కాలానుగుణ వలస ప్రక్రియను ఏమని పిలుస్తారు?",
+    "en": "The seasonal migration of pastoral nomads from plain areas to mountain pastures in summers and back to plains in winters is called:"
+   },
+   "options": {
+    "te": [
+     "పట్టణీకరణ",
+     "స్థిర వ్యవసాయం",
+     "రాంచింగ్",
+     "ట్రాన్స్‌హ్యూమన్స్ (Transhumance)"
+    ],
+    "en": [
+     "Urbanisation",
+     "Sedentary farming",
+     "Ranching",
+     "Transhumance"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మైదాన ప్రాంతాల నుండి పర్వత పచ్చిక బయళ్ళకు వేసవిలో మరియు శీతాకాలంలో తిరిగి మైదానాలకు మారే వలస ప్రక్రియను 'ట్రాన్స్‌హ్యూమన్స్' అంటారు.",
+    "en": "The process of seasonal migration between plains and mountain pastures is known as transhumance."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T32-0019",
+   "section": {
+    "te": "Regional Livestock",
+    "en": "Regional Livestock"
+   },
+   "q": {
+    "te": "కింది వాటిలో ప్రాంతం మరియు దాని ముఖ్యమైన పశువుల జంట ఏది సరిగ్గా సరిపోలింది?",
+    "en": "Which of the following pairs of region and its important livestock is correctly matched?"
+   },
+   "options": {
+    "te": [
+     "సహారా - యాక్ (Yak)",
+     "టిబెట్ - రెయిన్ డీర్ (Reindeer)",
+     "ఆండీస్ - లామాస్ (Llamas)",
+     "ఆర్కిటిక్ - ఒంటె"
+    ],
+    "en": [
+     "Sahara - Yak",
+     "Tibet - Reindeer",
+     "Andes - Llamas",
+     "Arctic - Camel"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "టిబెట్ మరియు ఆండీస్ పర్వత ప్రాంతాలలో యాక్ మరియు లామాలు అత్యంత ముఖ్యమైన జంతువులని పాఠ్యభాగం పేర్కొంది.",
+    "en": "In the mountainous areas of Tibet and Andes, yak and llamas are the most important animals."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T32-0074",
+   "section": {
+    "te": "Tariff reduction organizations",
+    "en": "Tariff reduction organizations"
+   },
+   "q": {
+    "te": "యుద్ధానంతర కాలంలో సుంకాలను తగ్గించడంలో సహాయపడి, ఆ తర్వాత కాలంలో ప్రపంచ వాణిజ్య సంస్థ (WTO) గా రూపాంతరం చెందిన సంస్థ ఏది?",
+    "en": "Which post-war organization helped in reducing tariffs and later evolved into the World Trade Organisation (WTO)?"
+   },
+   "options": {
+    "te": [
+     "ఆర్గనైజేషన్ ఫర్ ఎకనామిక్ కో-ఆపరేషన్ అండ్ డెవలప్‌మెంట్ (OECD)",
+     "యునైటెడ్ నేషన్స్ కాన్ఫరెన్స్ ఆన్ ట్రేడ్ అండ్ డెవలప్‌మెంట్ (UNCTAD)",
+     "జనరల్ అగ్రిమెంట్ ఫర్ టారిఫ్స్ అండ్ ట్రేడ్ (GATT)",
+     "ఇంటర్నేషనల్ ట్రేడ్ ఆర్గనైజేషన్ (ITO)"
+    ],
+    "en": [
+     "Organisation for Economic Co-operation and Development (OECD)",
+     "United Nations Conference on Trade and Development (UNCTAD)",
+     "General Agreement for Tariffs and Trade (GATT)",
+     "International Trade Organisation (ITO)"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "యుద్ధానంతర కాలంలో సుంకాలను తగ్గించడంలో సహాయపడిన 'జనరల్ అగ్రిమెంట్ ఫర్ టారిఫ్స్ అండ్ ట్రేడ్' (GATT), తర్వాతి కాలంలో ప్రపంచ వాణిజ్య సంస్థ (WTO) గా మారింది.",
+    "en": "The General Agreement for Tariffs and Trade (GATT) helped in reducing tariffs in the post-war period and later became the World Trade Organisation."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T32-0008",
+   "section": {
+    "te": "Gathered Forest Products",
+    "en": "Gathered Forest Products"
+   },
+   "q": {
+    "te": "వాణిజ్య సేకరణలో రబ్బరు, బలాటా, జిగురులు మరియు రెసిన్‌లను మొక్కలోని ఏ భాగం అందిస్తుంది?",
+    "en": "Which part of the plant yields rubber, balata, gums, and resins in commercial gathering?"
+   },
+   "options": {
+    "te": [
+     "బెరడు",
+     "ఆకులు",
+     "గింజలు (కాయలు)",
+     "చెట్టు కాండం (Tree trunk)"
+    ],
+    "en": [
+     "Bark",
+     "Leaves",
+     "Nuts",
+     "Tree trunk"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "చెట్ల కాండం రబ్బరు, బలాటా, జిగుర్లు మరియు రెసిన్‌లను ఉత్పత్తి చేస్తుంది.",
+    "en": "The tree trunk yields rubber, balata, gums, and resins."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T32-0104",
+   "section": {
+    "te": "Occupational structure trends",
+    "en": "Occupational structure trends"
+   },
+   "q": {
+    "te": "భారతదేశ వృత్తిపరమైన నిర్మాణం గురించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ద్వితీయ మరియు తృతీయ రంగాలతో పోలిస్తే ప్రాథమిక రంగ శ్రామికుల నిష్పత్తి చాలా ఎక్కువగా ఉంది.\n2. మూడు రంగాలలోనూ స్త్రీ శ్రామికుల కంటే పురుష శ్రామికుల సంఖ్య ఎక్కువగా ఉంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the occupational structure of India:\n1. Primary sector workers constitute a large proportion of the working population compared to secondary and tertiary sectors.\n2. Male workers out-number female workers in all the three sectors.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రెండు ప్రకటనలు సరైనవే. ప్రాథమిక రంగ శ్రామికుల నిష్పత్తి ద్వితీయ, తృతీయ రంగాల కంటే ఎక్కువ మరియు మూడు రంగాలలోనూ పురుష శ్రామికులు స్త్రీ శ్రామికుల కంటే ఎక్కువగా ఉన్నారు.",
+    "en": "Both statements are correct. The text explicitly mentions a large proportion of primary sector workers compared to secondary and tertiary sectors, and that male workers outnumber female workers in all three sectors."
+   }
+  }
+ ]
+}

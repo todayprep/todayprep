@@ -1,0 +1,942 @@
+{
+ "id": "geo-13-g1-3",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "India – క్విజ్ 3",
+  "en": "India – Quiz 3"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T13-0076",
+   "section": {
+    "te": "Tiger's Nest monastery",
+    "en": "Tiger's Nest monastery"
+   },
+   "q": {
+    "te": "భూటాన్‌లోని ప్రసిద్ధ బౌద్ధ ఆశ్రమం 'టైగర్స్ నెస్ట్' ఏ లోయకు ఎగువన ఉన్న పర్వత వాలుపై నిర్మించబడింది?",
+    "en": "The famous Buddhist monastery 'Tiger’s Nest' in Bhutan is perched high on a mountainside overhanging which valley?"
+   },
+   "options": {
+    "te": [
+     "ఫోబ్జికా లోయ",
+     "థింపూ లోయ",
+     "పారో లోయ",
+     "పునాఖా లోయ"
+    ],
+    "en": [
+     "Phobjikha valley",
+     "Thimphu valley",
+     "Paro valley",
+     "Punakha valley"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూటాన్‌లోని 'టైగర్స్ నెస్ట్' బౌద్ధ ఆశ్రమం పారో లోయకు ఎగువన పర్వతపు అంచున ఉంది.",
+    "en": "'Tiger's Nest' is a Buddhist monastery perched high on the mountainside overhanging the Paro valley in Bhutan."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T13-0056",
+   "section": {
+    "te": "Sundarban forest distribution",
+    "en": "Sundarban forest distribution"
+   },
+   "q": {
+    "te": "సుందర్‌బన్ నేషనల్ పార్క్‌లోని ప్రపంచంలోనే అతిపెద్ద మడ అడవులలో దాదాపు ఎంత భాగం బంగ్లాదేశ్‌లో ఉంది?",
+    "en": "Approximately what proportion of the world's largest mangrove forest, in the Sundarban National Park, lies in Bangladesh?"
+   },
+   "options": {
+    "te": [
+     "మూడింట రెండు వంతులు",
+     "సగం",
+     "నాలుగో వంతు",
+     "మూడో వంతు"
+    ],
+    "en": [
+     "Two-thirds",
+     "Half",
+     "One-fourth",
+     "One-third"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, సుందర్‌బన్ మడ అడవులలో దాదాపు మూడింట రెండు వంతుల భాగం బంగ్లాదేశ్‌లోను, మిగిలిన భాగం భారతదేశంలోను ఉంది.",
+    "en": "About two-thirds of the Sundarban mangrove forest lies in Bangladesh and the rest in India."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T13-0004",
+   "section": {
+    "te": "Indian Astronaut",
+    "en": "Indian Astronaut"
+   },
+   "q": {
+    "te": "1984లో అంతరిక్షంలోకి వెళ్లిన మొదటి భారతీయ వ్యోమగామి ఎవరు?",
+    "en": "Who was the first Indian astronaut to go into space in 1984?"
+   },
+   "options": {
+    "te": [
+     "ఏ.పి.జె. అబ్దుల్ కలాం",
+     "సతీష్ ధావన్",
+     "రాకేష్ శర్మ",
+     "విక్రమ్ సారాభాయ్"
+    ],
+    "en": [
+     "A.P.J. Abdul Kalam",
+     "Satish Dhawan",
+     "Rakesh Sharma",
+     "Vikram Sarabhai"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "1984లో అంతరిక్షంలోకి వెళ్లిన మొదటి భారతీయ వ్యోమగామి రాకేష్ శర్మ.",
+    "en": "Rakesh Sharma was the first Indian astronaut to go into space in 1984."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T13-0014",
+   "section": {
+    "te": "Sand Dunes",
+    "en": "Sand Dunes"
+   },
+   "q": {
+    "te": "థార్ ఎడారిలోని ఇసుక దిబ్బలు (Sand dunes) కొన్నిసార్లు ఎంత ఎత్తు వరకు పెరుగుతాయి?",
+    "en": "How high can sand dunes in the Thar Desert sometimes rise?"
+   },
+   "options": {
+    "te": [
+     "100 మీటర్లు",
+     "200 మీటర్లు",
+     "150 మీటర్లు",
+     "50 మీటర్లు"
+    ],
+    "en": [
+     "100 metres",
+     "200 metres",
+     "150 metres",
+     "50 metres"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఇసుక దిబ్బలు కొన్నిసార్లు 150 మీటర్ల ఎత్తు వరకు పెరుగుతాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Sand dunes can sometimes rise as high as 150 metres."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T13-0008",
+   "section": {
+    "te": "Ladakh Culture",
+    "en": "Ladakh Culture"
+   },
+   "q": {
+    "te": "లడఖ్ ప్రాంతంలో ఈ క్రింది ఏ పండుగలను జరుపుకుంటారు?",
+    "en": "Which of the following festivals are celebrated in the Ladakh region?"
+   },
+   "options": {
+    "te": [
+     "లోసర్ (Losar)",
+     "హెమిస్ పండుగ (Hemis Festival)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Losar",
+     "Hemis Festival",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం లోసర్ మరియు హెమిస్ పండుగలను లడఖ్ యొక్క రంగుల పండుగలుగా పేర్కొంది.",
+    "en": "Both Losar and the Hemis Festival as colourful festivals of Ladakh."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T13-0151",
+   "section": {
+    "te": "Southern Boundary",
+    "en": "Southern Boundary"
+   },
+   "q": {
+    "te": "బంగాళాఖాతంలో భారతదేశ దక్షిణ సరిహద్దు అక్షాంశం ఎంత?",
+    "en": "What is the latitude of India's southern boundary in the Bay of Bengal?"
+   },
+   "options": {
+    "te": [
+     "37°6' N",
+     "6°45' S",
+     "8°4' N",
+     "6°45' N"
+    ],
+    "en": [
+     "37°6' N",
+     "6°45' S",
+     "8°4' N",
+     "6°45' N"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశం యొక్క దక్షిణ సరిహద్దు బంగాళాఖాతంలో 6°45' N అక్షాంశం వరకు విస్తరించి ఉంది.",
+    "en": "While the mainland ends at a different point, the overall southern boundary of India extends to 6°45' N latitude in the Bay of Bengal."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T13-0175",
+   "section": {
+    "te": "India's Ancient Latitude",
+    "en": "India's Ancient Latitude"
+   },
+   "q": {
+    "te": "సుమారు 140 మిలియన్ సంవత్సరాల క్రితం, భారత ఉపఖండం ఏ అక్షాంశం వద్ద ఉంది?",
+    "en": "Approximately 140 million years ago, at what latitude was the Indian subcontinent located?"
+   },
+   "options": {
+    "te": [
+     "50° ఉత్తర అక్షాంశం",
+     "50° దక్షిణ అక్షాంశం",
+     "30° దక్షిణ అక్షాంశం",
+     "భూమధ్యరేఖ"
+    ],
+    "en": [
+     "50° N latitude",
+     "50° S latitude",
+     "30° S latitude",
+     "Equator"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రస్తుతానికి సుమారు 140 మిలియన్ సంవత్సరాల క్రితం, ఉపఖండం 50° దక్షిణ అక్షాంశం వద్ద ఉందని పాఠ్యాంశం స్పష్టంగా పేర్కొంది.",
+    "en": "About 140 million years before the present, the subcontinent was located as far south as 50°S latitude."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T13-0030",
+   "section": {
+    "te": "Indian Ocean Trade Traffic",
+    "en": "Indian Ocean Trade Traffic"
+   },
+   "q": {
+    "te": "హిందూ మహాసముద్రం గుండా జరిగే వాణిజ్య రవాణాకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ప్రపంచంలోని కంటైనర్ నౌకల్లో సగం దీని గుండా వెళతాయి.\n2. ప్రపంచంలోని బల్క్ కార్గోలో మూడో వంతు దీని ద్వారా రవాణా అవుతుంది.\n3. ప్రపంచ చమురులో మూడింట రెండు వంతులు దీని గుండా రవాణా చేయబడుతుంది.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding trade traffic through the Indian Ocean:\n1. Half of the world's container ships pass through it.\n2. One third of the world's bulk cargo is transported through it.\n3. Two-thirds of the world's oil is transported through it.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "హిందూ మహాసముద్రం ప్రపంచంలోని కంటైనర్ నౌకల్లో సగం, బల్క్ కార్గోలో మూడో వంతు మరియు చమురులో మూడింట రెండు వంతులను మోసుకెళ్లే రద్దీ మార్గం.",
+    "en": "The Indian Ocean carries half of the world's container ships, one third of the bulk cargo, and two-thirds of the world's oil."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T13-0104",
+   "section": {
+    "te": "Indian Migration to Malaysia",
+    "en": "Indian Migration to Malaysia"
+   },
+   "q": {
+    "te": "మలేషియాకు భారతీయ వలసలకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. వలసలు ప్రధానంగా 19 మరియు 20వ శతాబ్దాలలో జరిగాయి.\n2. ఎక్కువ మంది కార్మికులు ఉత్తర భారతదేశం నుండి వలస వెళ్లారు.\n3. వారు ప్రాథమికంగా రబ్బరు తోటలలో పనిచేశారు.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding Indian migration to Malaysia:\n1. Migration occurred mainly in the 19th and 20th centuries.\n2. Most workers migrated from North India.\n3. They primarily worked on rubber plantations.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రకటన 2 తప్పు ఎందుకంటే కార్మికులు ప్రధానంగా దక్షిణ భారతదేశం నుండి వచ్చారు, ఉత్తర భారతదేశం నుండి కాదు. పాఠ్యభాగం ప్రకారం 1 మరియు 3 ప్రకటనలు సరైనవి.",
+    "en": "Statement 2 is incorrect because the workers were mainly from South India, not North India. Statements 1 and 3 are correct according to the text."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T13-0165",
+   "section": {
+    "te": "Definition of Physiography",
+    "en": "Definition of Physiography"
+   },
+   "q": {
+    "te": "భారతదేశ భౌగోళిక స్వరూపం (Physiography) గురించి కింది ప్రకటనలను పరిశీలించండి:\n1. భౌగోళిక స్వరూపం అనేది నిర్మాణం, ప్రక్రియ మరియు అభివృద్ధి దశ యొక్క ఫలితం.\n2. ఉత్తర భారతదేశం అత్యధికంగా విచ్ఛిన్నమైన పీఠభూములతో కూడిన స్థిరమైన భూభాగం (table land) కలిగి ఉంటుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the physiography of India:\n1. Physiography is the outcome of structure, process, and the stage of development.\n2. The north of India is characterized by stable table land with highly dissected plateaus.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 లేదా 2 ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నిర్వచనం ప్రకారం ప్రకటన 1 సరైనది. ప్రకటన 2 తప్పు ఎందుకంటే ఉత్తర భారతదేశం పర్వత శ్రేణులతో కూడిన గరుకైన భూభాగాన్ని కలిగి ఉంటుంది, దక్షిణ భారతదేశం స్థిరమైన భూభాగాన్ని కలిగి ఉంటుంది.",
+    "en": "Statement 1 is correct as per the definition. Statement 2 is incorrect because the north has rugged topography with mountain ranges, while the south consists of stable table land."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T13-0123",
+   "section": {
+    "te": "Singapore Name Origin",
+    "en": "Singapore Name Origin"
+   },
+   "q": {
+    "te": "సింగపూర్ అనే పేరు 'సింగపురం' నుండి వచ్చింది, దీని అర్థం ఏమిటి?",
+    "en": "The name Singapore is derived from 'Singapuram', which means what?"
+   },
+   "options": {
+    "te": [
+     "సింహ నగరం",
+     "పులి నగరం",
+     "బంగారు నగరం",
+     "ఏనుగు నగరం"
+    ],
+    "en": [
+     "Lion City",
+     "Tiger City",
+     "Golden City",
+     "Elephant City"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సింగపూర్ అనే పేరు 'సింగపురం' నుండి వచ్చింది, దీని అర్థం 'సింహ నగరం'.",
+    "en": "The name Singapore comes from 'Singapuram', which translates to 'lion city'."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T13-0047",
+   "section": {
+    "te": "Guru Nanak Dev at Kartarpur",
+    "en": "Guru Nanak Dev at Kartarpur"
+   },
+   "q": {
+    "te": "సిక్కు మత స్థాపకుడైన గురు నానక్ దేవ్ తన జీవితపు చివరి ఎన్ని సంవత్సరాలు కర్తార్‌పూర్‌లో గడిపారు?",
+    "en": "How many years did Guru Nānak Dev spend at Kartarpur towards the end of his life?"
+   },
+   "options": {
+    "te": [
+     "చివరి 18 సంవత్సరాలు",
+     "చివరి 12 సంవత్సరాలు",
+     "చివరి 30 సంవత్సరాలు",
+     "చివరి 24 సంవత్సరాలు"
+    ],
+    "en": [
+     "Last 18 years",
+     "Last 12 years",
+     "Last 30 years",
+     "Last 24 years"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సిక్కు మత స్థాపకుడైన గురు నానక్ దేవ్ తన జీవితంలోని చివరి 18 సంవత్సరాలు కర్తార్‌పూర్‌లో గడిపారు.",
+    "en": "Guru Nanak Dev, the founder of Sikhism, spent the last 18 years of his life at Kartarpur."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T13-0013",
+   "section": {
+    "te": "Ladakh vs Thar",
+    "en": "Ladakh vs Thar"
+   },
+   "q": {
+    "te": "భారతీయ ఎడారుల గురించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. లడఖ్ ఒక శీతల ఎడారి, ఇక్కడ శీతాకాలపు ఉష్ణోగ్రతలు –30°C కంటే తక్కువకు పడిపోతాయి.\n2. థార్ ఎడారి ఎక్కువగా భారతదేశంలో ఉన్న ఒక విశాలమైన శుష్క ప్రాంతం.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about Indian deserts:\n1. Ladakh is a cold desert where winter temperatures can drop below –30°C.\n2. The Thar Desert is a vast arid region mostly located in India.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 లేదా 2 ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం రెండు ప్రకటనలు సరైనవే. లడఖ్ శీతల ఎడారి మరియు థార్ ఒక విశాలమైన శుష్క ప్రాంతం.",
+    "en": "Both statements are correct according to the text. Ladakh is a cold desert and Thar is a vast arid region."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T13-0045",
+   "section": {
+    "te": "Katas Raj temple location",
+    "en": "Katas Raj temple location"
+   },
+   "q": {
+    "te": "మహాభారతంతో సంబంధం ఉండి, పవిత్రమైన చెరువును కలిగి ఉన్న కటాస్ రాజ్ ఆలయ సముదాయం పాకిస్తాన్‌లోని ఏ ప్రావిన్స్‌లో ఉంది?",
+    "en": "In which province of Pakistan is the Katas Raj temple complex, linked to the Mahābhārata, located?"
+   },
+   "options": {
+    "te": [
+     "బలూచిస్తాన్",
+     "సింధ్",
+     "పంజాబ్",
+     "ఖైబర్ పఖ్తుంఖ్వా"
+    ],
+    "en": [
+     "Balochistan",
+     "Sindh",
+     "Punjab",
+     "Khyber Pakhtunkhwa"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మహాభారతంతో సంబంధం ఉన్న కటాస్ రాజ్ ఆలయ సముదాయం పాకిస్తాన్‌లోని పంజాబ్ ప్రావిన్స్‌లో ఉంది.",
+    "en": "The Katas Raj temple complex, linked to the Mahabharata and containing a sacred pond, is located in Pakistan's Punjab."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T13-0080",
+   "section": {
+    "te": "Tio River boundary",
+    "en": "Tio River boundary"
+   },
+   "q": {
+    "te": "భారతదేశం (మిజోరం) మరియు మయన్మార్ మధ్య అంతర్జాతీయ సరిహద్దులో భాగంగా ఉన్న నది ఏది?",
+    "en": "Which river forms part of the international boundary between India (Mizoram) and Myanmar?"
+   },
+   "options": {
+    "te": [
+     "చింద్విన్ నది",
+     "బరాక్ నది",
+     "తియో నది (Tio River)",
+     "కలదాన్ నది"
+    ],
+    "en": [
+     "Chindwin River",
+     "Barak River",
+     "Tio River",
+     "Kaladan River"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "తియో నది భారతదేశం (మిజోరం) మరియు మయన్మార్ మధ్య అంతర్జాతీయ సరిహద్దులో భాగంగా ఉంది.",
+    "en": "The Tio River forms part of the international boundary between Myanmar and India (Mizoram)."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T13-0040",
+   "section": {
+    "te": "India-China size comparison",
+    "en": "India-China size comparison"
+   },
+   "q": {
+    "te": "వైశాల్యం పరంగా, భారతదేశంతో పోలిస్తే చైనా సుమారు ఎన్ని రెట్లు పెద్దది?",
+    "en": "In terms of area, approximately how much larger is China compared to India?"
+   },
+   "options": {
+    "te": [
+     "మూడు రెట్లు",
+     "రెండు రెట్లు",
+     "నాలుగు రెట్లు",
+     "ఐదు రెట్లు"
+    ],
+    "en": [
+     "Three times",
+     "Two times",
+     "Four times",
+     "Five times"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, వైశాల్యం పరంగా చైనా భారతదేశం కంటే సుమారు మూడు రెట్లు పెద్దది.",
+    "en": "China is approximately three times larger than India in area."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T13-0134",
+   "section": {
+    "te": "India Relief Features",
+    "en": "India Relief Features"
+   },
+   "q": {
+    "te": "దేశ వైశాల్యంలో 27 శాతం ఉన్న భారతదేశ పీఠభూమి ప్రాంతం కింది వాటిలో దేనిని కలిగి ఉన్నందుకు ప్రసిద్ధి చెందింది?",
+    "en": "The plateau region of India, which accounts for 27 per cent of the country's area, is known for possessing which of the following?"
+   },
+   "options": {
+    "te": [
+     "ఖనిజాల సమృద్ధి నిల్వలు",
+     "శిలాజ ఇంధనాలు మరియు అడవులు",
+     "A మరియు B రెండూ",
+     "జీవనదుల ప్రవాహం"
+    ],
+    "en": [
+     "Rich reserves of minerals",
+     "Fossil fuels and forests",
+     "Both A and B",
+     "Perennial flow of rivers"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పీఠభూమి ప్రాంతం (27% వైశాల్యం) ఖనిజాలు, శిలాజ ఇంధనాలు మరియు అడవుల సమృద్ధి నిల్వలను కలిగి ఉంది.",
+    "en": "The plateau region (27% of the area) possesses rich reserves of minerals, fossil fuels, and forests."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T13-0063",
+   "section": {
+    "te": "India supplies to Nepal",
+    "en": "India supplies to Nepal"
+   },
+   "q": {
+    "te": "నేపాల్‌కు అతిపెద్ద వాణిజ్య భాగస్వామిగా భారతదేశం సరఫరా చేసే నిత్యావసర వస్తువులు ఏవి?",
+    "en": "Which of the following essential goods does India supply to Nepal as its largest trading partner?"
+   },
+   "options": {
+    "te": [
+     "పెట్రోలియం",
+     "మందులు",
+     "ఆహార పదార్థాలు మరియు తయారీ వస్తువులు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Petroleum",
+     "Medicines",
+     "Food items and manufactured products",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశం నేపాల్‌కు పెట్రోలియం, మందులు, ఆహార పదార్థాలు మరియు తయారీ వస్తువులు వంటి నిత్యావసరాలను సరఫరా చేస్తుంది.",
+    "en": "India supplies essential goods including petroleum, medicines, food items, and manufactured products to Nepal."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T13-0046",
+   "section": {
+    "te": "Hinglaj Mata Mandir location",
+    "en": "Hinglaj Mata Mandir location"
+   },
+   "q": {
+    "te": "పురాతన హింగ్లాజ్ మాతా మందిరం పాకిస్తాన్‌లోని ఏ ప్రాంతంలో ఉంది?",
+    "en": "In which region of Pakistan is the ancient Hinglaj Mata Mandir located?"
+   },
+   "options": {
+    "te": [
+     "సింధ్",
+     "పంజాబ్",
+     "ఖైబర్ పఖ్తుంఖ్వా",
+     "బలూచిస్తాన్"
+    ],
+    "en": [
+     "Sindh",
+     "Punjab",
+     "Khyber Pakhtunkhwa",
+     "Balochistan"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, పురాతన హింగ్లాజ్ మాతా మందిరం బలూచిస్తాన్‌లో ఉంది.",
+    "en": "The text identifies Hinglaj Mata Mandir as an ancient shrine located in Balochistan."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T13-0075",
+   "section": {
+    "te": "Vajrayana Buddhism origin",
+    "en": "Vajrayana Buddhism origin"
+   },
+   "q": {
+    "te": "'డైమండ్ వెహికల్' లేదా 'తాంత్రిక బౌద్ధం' అని పిలువబడే వజ్రయాన విభాగం, మహాయాన పొడిగింపుగా ఏ శతాబ్దంలో ఉద్భవించింది?",
+    "en": "Around which century did the Vajrayāna school, also known as the 'Diamond Vehicle' or 'Tantric Buddhism', arise as an extension of Mahāyāna?"
+   },
+   "options": {
+    "te": [
+     "క్రీ.శ. 6వ శతాబ్దం",
+     "క్రీ.శ. 8వ శతాబ్దం",
+     "క్రీ.పూ. 1వ శతాబ్దం",
+     "క్రీ.పూ. 3వ శతాబ్దం"
+    ],
+    "en": [
+     "6th century CE",
+     "8th century CE",
+     "1st century BCE",
+     "3rd century BCE"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వజ్రయాన బౌద్ధం క్రీ.శ. 6వ శతాబ్దంలో మహాయాన శాఖ విస్తరణగా ఉద్భవించింది.",
+    "en": "Vajrayāna, or the 'Diamond Vehicle', arose around the 6th century CE as an extension of Mahāyāna."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T13-0002",
+   "section": {
+    "te": "Indian Subcontinent",
+    "en": "Indian Subcontinent"
+   },
+   "q": {
+    "te": "భారతదేశంతో పాటు ఈ క్రింది ఏ దేశాలు భారత ఉపఖండంలో (Indian Subcontinent) భాగంగా పరిగణించబడతాయి?",
+    "en": "Which of the following countries are considered part of the Indian Subcontinent along with India?"
+   },
+   "options": {
+    "te": [
+     "పాకిస్తాన్ మరియు బంగ్లాదేశ్",
+     "నేపాల్ మరియు భూటాన్",
+     "శ్రీలంక మరియు మయన్మార్",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Pakistan and Bangladesh",
+     "Nepal and Bhutan",
+     "Sri Lanka and Myanmar",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారత ఉపఖండంలో భారతదేశం మరియు దాని పొరుగు దేశాలైన పాకిస్తాన్, బంగ్లాదేశ్, నేపాల్, భూటాన్, శ్రీలంక మరియు మయన్మార్ ఉన్నాయి.",
+    "en": "The Indian Subcontinent includes India and its neighbors: Pakistan, Bangladesh, Nepal, Bhutan, Sri Lanka, and Myanmar."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T13-0005",
+   "section": {
+    "te": "Jog Falls",
+    "en": "Jog Falls"
+   },
+   "q": {
+    "te": "జోగ్ జలపాతం (Jog Falls) భారతదేశంలోని ఏ రాష్ట్రంలో ఉంది?",
+    "en": "In which Indian state are the Jog Falls located?"
+   },
+   "options": {
+    "te": [
+     "మహారాష్ట్ర",
+     "తమిళనాడు",
+     "కర్ణాటక",
+     "ఆంధ్రప్రదేశ్"
+    ],
+    "en": [
+     "Maharashtra",
+     "Tamil Nadu",
+     "Karnataka",
+     "Andhra Pradesh"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం జోగ్ జలపాతం కర్ణాటకలో ఉంది.",
+    "en": "Jog Falls is located in Karnataka."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T13-0050",
+   "section": {
+    "te": "States bordering Pakistan",
+    "en": "States bordering Pakistan"
+   },
+   "q": {
+    "te": "క్రింది భారతీయ రాష్ట్రాలు మరియు కేంద్రపాలిత ప్రాంతాలను పరిశీలించండి:\n1. గుజరాత్\n2. రాజస్థాన్\n3. పంజాబ్\n4. లడఖ్\nభారత్-పాకిస్తాన్ సరిహద్దు పైవాటిలో వేటి గుండా విస్తరించి ఉంది?",
+    "en": "Consider the following Indian States and Union Territories:\n1. Gujarat\n2. Rajasthan\n3. Punjab\n4. Ladakh\nAcross which of the above does the India-Pakistan border stretch?"
+   },
+   "options": {
+    "te": [
+     "1, 2 మరియు 3 మాత్రమే",
+     "2, 3 మరియు 4 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2, 3 మరియు 4"
+    ],
+    "en": [
+     "1, 2 and 3 only",
+     "2, 3 and 4 only",
+     "1 and 3 only",
+     "1, 2, 3 and 4"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారత్-పాకిస్తాన్ సరిహద్దు గుజరాత్, రాజస్థాన్, పంజాబ్ రాష్ట్రాలు మరియు జమ్మూ & కాశ్మీర్, లడఖ్ కేంద్రపాలిత ప్రాంతాల గుండా విస్తరించి ఉంది.",
+    "en": "The border between India and Pakistan stretches across Gujarat, Rajasthan, Punjab, Jammu and Kashmir, and Ladakh."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T13-0168",
+   "section": {
+    "te": "Geological Regions of India",
+    "en": "Geological Regions of India"
+   },
+   "q": {
+    "te": "భౌగోళిక ప్రాంతాల ఆధారంగా, భారతదేశాన్ని కింది వాటిలో ఏవిగా విభజించవచ్చు?",
+    "en": "Based on geological regions, India can be broadly divided into which of the following?"
+   },
+   "options": {
+    "te": [
+     "ద్వీపకల్ప పీఠభూమి (The Peninsular Block)",
+     "హిమాలయాలు మరియు ఇతర ద్వీపకల్ప పర్వతాలు",
+     "సింధు-గంగా-బ్రహ్మపుత్ర మైదానం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "The Peninsular Block",
+     "The Himalayas and other Peninsular Mountains",
+     "Indo-Ganga-Brahmaputra Plain",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్య భాగం మూడు విస్తృత భౌగోళిక ప్రాంతాలను జాబితా చేసింది: ద్వీపకల్ప పీఠభూమి, హిమాలయాలు మరియు ఇతర ద్వీపకల్ప పర్వతాలు, మరియు సింధు-గంగా-బ్రహ్మపుత్ర మైదానం.",
+    "en": "The text lists three broad geological regions: the Peninsular Block, the Himalayas and other Peninsular Mountains, and the Indo-Ganga-Brahmaputra Plain."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T13-0032",
+   "section": {
+    "te": "Indian Ocean Population",
+    "en": "Indian Ocean Population"
+   },
+   "q": {
+    "te": "హిందూ మహాసముద్రం ద్వారా అనుసంధానించబడిన దేశాలు దాదాపు ఎంత జనాభాకు నిలయంగా ఉన్నాయి?",
+    "en": "The Indian Ocean connects countries that are home to approximately how many people?"
+   },
+   "options": {
+    "te": [
+     "2.7 బిలియన్లు",
+     "3.5 బిలియన్లు",
+     "1.4 బిలియన్లు",
+     "2.0 బిలియన్లు"
+    ],
+    "en": [
+     "2.7 billion",
+     "3.5 billion",
+     "1.4 billion",
+     "2.0 billion"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "హిందూ మహాసముద్రం అనుసంధానించే అనేక దేశాలు దాదాపు 2.7 బిలియన్ల ప్రజలకు నివాసంగా ఉన్నాయి.",
+    "en": "The Indian Ocean connects countries that are home to around 2.7 billion people."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T13-0019",
+   "section": {
+    "te": "Thar as Barrier",
+    "en": "Thar as Barrier"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): థార్ ఎడారి ఒక సహజ అవరోధంగా (natural barrier) పనిచేస్తుంది.\nకారణం (R): పగటిపూట అధిక ఉష్ణోగ్రతలు, చల్లని రాత్రులు మరియు నీటి కొరత వంటి కఠినమైన పరిస్థితులు మానవ మరియు జంతువుల కదలికలను అడ్డుకుంటాయి.",
+    "en": "Assertion (A): The Thar Desert acts as a natural barrier.\nReason (R): Harsh conditions like high daytime temperatures, cold nights, and lack of water deter human and animal movement."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ సరైనవి మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ సరైనవి కానీ A కి R సరైన వివరణ కాదు",
+     "A సరైనది కానీ R తప్పు",
+     "A తప్పు కానీ R సరైనది"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "థార్ ఎడారిలోని విపరీతమైన ఉష్ణోగ్రతలు మరియు నీటి కొరత కదలికలను కష్టతరం చేయడం వల్ల ఇది సహజ అవరోధంగా పనిచేస్తుంది.",
+    "en": "The Thar Desert is a natural barrier because its extreme temperatures and lack of water make movement difficult."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T13-0084",
+   "section": {
+    "te": "Uttarāpatha trade route",
+    "en": "Uttarāpatha trade route"
+   },
+   "q": {
+    "te": "ప్రాచీన కాలంలో గంగా మైదానాలను ఆఫ్ఘనిస్తాన్ మీదుగా మధ్య ఆసియాతో అనుసంధానించిన చారిత్రక వాణిజ్య మార్గం ఏది?",
+    "en": "Which historic trade route linked the Ganga plains to Central Asia via Afghanistan in ancient times?"
+   },
+   "options": {
+    "te": [
+     "దక్షిణాపథ",
+     "ఉత్తరాపథ",
+     "గ్రాండ్ ట్రంక్ రోడ్డు",
+     "సిల్క్ రూట్"
+    ],
+    "en": [
+     "Dakṣhiṇāpatha",
+     "Uttarāpatha",
+     "Grand Trunk Road",
+     "Silk Route"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, చారిత్రక ఉత్తరాపథ వాణిజ్య మార్గం గంగా మైదానాలను ఆఫ్ఘనిస్తాన్ ద్వారా మధ్య ఆసియాతో అనుసంధానించింది.",
+    "en": "The historic Uttarāpatha trade route linked the Ganga plains to Central Asia via Afghanistan."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T13-0057",
+   "section": {
+    "te": "Sundarban ecological protection",
+    "en": "Sundarban ecological protection"
+   },
+   "q": {
+    "te": "బెంగాల్ పులులకు నిలయంగా ఉండటంతో పాటు, సుందర్‌బన్స్ కింది ఏ విపత్తుకు సహజ అవరోధంగా పనిచేస్తూ వాతావరణ స్థితిస్థాపకతను (climate resilience) అందిస్తాయి?",
+    "en": "In addition to being home to the Bengal tiger, the Sundarbans are important for climate resilience because they serve as a barrier to:"
+   },
+   "options": {
+    "te": [
+     "భూకంపాలు",
+     "తుఫానులు (Cyclones)",
+     "సునామీలు",
+     "హిమానీనదాల కరుగుదల వల్ల వచ్చే వరదలు"
+    ],
+    "en": [
+     "Earthquakes",
+     "Cyclones",
+     "Tsunamis",
+     "Floods from glacial melt"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సుందర్‌బన్స్ తుఫానులకు సహజ అవరోధంగా పనిచేస్తూ వాతావరణ స్థితిస్థాపకతను అందించడంలో కీలక పాత్ర పోషిస్తాయి.",
+    "en": "The Sundarbans contribute significantly to climate resilience by acting as a natural barrier against cyclones."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T13-0007",
+   "section": {
+    "te": "Pangong Tso",
+    "en": "Pangong Tso"
+   },
+   "q": {
+    "te": "లడఖ్‌లోని పాంగాంగ్ త్సో (Pangong Tso) సరస్సు ఇతర సరస్సులతో పోలిస్తే ఏ ప్రత్యేక లక్షణాన్ని కలిగి ఉంది?",
+    "en": "What is a unique characteristic of Pangong Tso lake in Ladakh compared to most other lakes?"
+   },
+   "options": {
+    "te": [
+     "ఇది మానవ నిర్మిత సరస్సు",
+     "శీతాకాలంలో ఇది ఎప్పుడూ గడ్డకట్టదు",
+     "ఇది ఉప్పు నీటిని కలిగి ఉంటుంది",
+     "ఇది భారతదేశంలోనే అత్యంత లోతైన సరస్సు"
+    ],
+    "en": [
+     "It is a man-made lake",
+     "It never freezes in winter",
+     "It has salty water",
+     "It is the deepest lake in India"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాంగాంగ్ త్సో ఇతర సరస్సుల వలె కాకుండా ఉప్పు నీటిని కలిగి ఉండటం వల్ల ప్రత్యేకమైనది.",
+    "en": "Pangong Tso is unique because it has salty water, unlike most other lakes."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T13-0176",
+   "section": {
+    "te": "Geological Chronology",
+    "en": "Geological Chronology"
+   },
+   "q": {
+    "te": "భారతదేశ చరిత్రలోని ఈ క్రింది భౌగోళిక సంఘటనలను కాలక్రమానుసారంగా (మొదటి నుండి ఇటీవలి వరకు) అమర్చండి:\n1. భారతదేశం ఉత్తర దిశగా ప్రయాణం ప్రారంభించడం\n2. టెథిస్ సముద్రం ద్వారా భారతదేశం ఆసియా నుండి విడిపోవడం\n3. ఆసియాతో భారతదేశం ఢీకొనడం\n4. దక్కన్ ట్రాప్స్ ఏర్పడటం ప్రారంభం",
+    "en": "Arrange the following geological events in India's history in chronological order (from earliest to most recent):\n1. Start of India's northward journey\n2. Separation of India from Asia by the Tethys Sea\n3. Collision of India with Asia\n4. Start of Deccan Traps formation"
+   },
+   "options": {
+    "te": [
+     "2-1-4-3",
+     "1-2-3-4",
+     "2-1-3-4",
+     "1-2-4-3"
+    ],
+    "en": [
+     "2-1-4-3",
+     "1-2-3-4",
+     "2-1-3-4",
+     "1-2-4-3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "టెథిస్ సముద్రం విడిపోవడం (225 మిలియన్ సంవత్సరాల క్రితం), ఉత్తర ప్రయాణం (200 మి.సం.క్రితం), దక్కన్ ట్రాప్స్ (60 మి.సం.క్రితం), మరియు ఆసియాతో ఢీకొనడం (40-50 మి.సం.క్రితం).",
+    "en": "Tethys Sea separation (225 mya), Northward journey (200 mya), Deccan Traps (60 mya), and Collision with Asia (40-50 mya)."
+   }
+  }
+ ]
+}

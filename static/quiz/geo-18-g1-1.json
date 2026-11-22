@@ -1,0 +1,942 @@
+{
+ "id": "geo-18-g1-1",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Natural Vegetation and Forests – క్విజ్ 1",
+  "en": "Natural Vegetation and Forests – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T18-0039",
+   "section": {
+    "te": "Tropical thorn forests rainfall",
+    "en": "Tropical thorn forests rainfall"
+   },
+   "q": {
+    "te": "భారతదేశంలో ఉష్ణమండల ముళ్ళ అడవులు (Tropical thorn forests) ఎంత వర్షపాతం నమోదయ్యే ప్రాంతాలలో పెరుగుతాయి?",
+    "en": "Tropical thorn forests in India occur in areas which receive rainfall of:"
+   },
+   "options": {
+    "te": [
+     "50 సెం.మీ కంటే తక్కువ",
+     "50 నుండి 70 సెం.మీ మధ్య",
+     "70 నుండి 100 సెం.మీ మధ్య",
+     "200 సెం.మీ కంటే ఎక్కువ"
+    ],
+    "en": [
+     "Less than 50 cm",
+     "Between 50 and 70 cm",
+     "Between 70 and 100 cm",
+     "More than 200 cm"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఉష్ణమండల ముళ్ళ అడవులు 50 సెం.మీ కంటే తక్కువ వర్షపాతం నమోదయ్యే ప్రాంతాలలో విస్తరించి ఉంటాయి.",
+    "en": "Tropical thorn forests grow in areas that receive less than 50 cm of annual rainfall."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T18-0031",
+   "section": {
+    "te": "Reserved Forest States",
+    "en": "Reserved Forest States"
+   },
+   "q": {
+    "te": "ఈ క్రింది రాష్ట్రాలను వాటి ప్రధాన అటవీ వర్గీకరణతో జతపరచండి:\nI. మధ్యప్రదేశ్  a. రిజర్వ్డ్ అడవులు\nII. ఆంధ్రప్రదేశ్  b. శాశ్వత అడవులు\nIII. పంజాబ్         c. వర్గీకరించని అడవులు\nIV. గుజరాత్         d. రక్షిత అడవులు",
+    "en": "Match the following states with their dominant forest classification:\nI. Madhya Pradesh  a. Reserved Forests\nII. Andhra Pradesh  b. Permanent Forests\nIII. Punjab         c. Unclassed Forests\nIV. Gujarat         d. Protected Forests"
+   },
+   "options": {
+    "te": [
+     "I-b, II-a, III-d, IV-c",
+     "I-a, II-b, III-c, IV-d",
+     "I-b, II-d, III-a, IV-c",
+     "I-d, II-a, III-b, IV-c"
+    ],
+    "en": [
+     "I-b, II-a, III-d, IV-c",
+     "I-a, II-b, III-c, IV-d",
+     "I-b, II-d, III-a, IV-c",
+     "I-d, II-a, III-b, IV-c"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మధ్యప్రదేశ్ శాశ్వత అడవులను, ఆంధ్రప్రదేశ్ రిజర్వ్డ్ అడవులను, పంజాబ్ రక్షిత అడవులను మరియు గుజరాత్ వర్గీకరించని అడవులను కలిగి ఉన్నాయి.",
+    "en": "MP has permanent forests, AP has reserved forests, Punjab has protected forests, and Gujarat has unclassed forests."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T18-0001",
+   "section": {
+    "te": "Montane Forest Vegetation",
+    "en": "Montane Forest Vegetation"
+   },
+   "q": {
+    "te": "పైన్స్ మరియు దేవదారు వంటి శంఖాకార (కోనిఫర్) చెట్లు సాధారణంగా కనిపించే పర్వత వాలులను ఏ రకమైన అడవులు కప్పి ఉంచుతాయి?",
+    "en": "What type of forest often covers mountain slopes, where conifer trees such as pines and deodar are common?"
+   },
+   "options": {
+    "te": [
+     "ఉష్ణమండల ఆకురాల్చే అడవులు",
+     "పర్వత అడవులు (మాంటేన్ ఫారెస్ట్)",
+     "ముళ్ల అడవులు",
+     "మడ అడవులు (మాంగ్రూవ్ ఫారెస్ట్)"
+    ],
+    "en": [
+     "Tropical deciduous forest",
+     "Montane forest",
+     "Thorn forest",
+     "Mangrove forest"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పర్వత వాలులు తరచుగా మాంటేన్ అడవులతో కప్పబడి ఉంటాయని, వీటిలో పైన్స్, దేవదారు వంటి కోనిఫర్ చెట్లు ఎక్కువగా పెరుగుతాయని సమాచారం పేర్కొంది.",
+    "en": "Mountain slopes are often covered with montane forests, where conifer trees such as pines, firs, spruce, and deodar are common."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T18-0038",
+   "section": {
+    "te": "Himalayan slopes vegetation",
+    "en": "Himalayan slopes vegetation"
+   },
+   "q": {
+    "te": "ఉత్తర వాలులతో పోలిస్తే హిమాలయాల దక్షిణ వాలులలో దట్టమైన వృక్షసంపద ఉండటానికి కారణం ఏమిటి?",
+    "en": "Why do the southern slopes of the Himalayas carry a thicker vegetation cover compared to the north-facing slopes?"
+   },
+   "options": {
+    "te": [
+     "మానవ ఆవాసాలు లేకపోవడం వల్ల",
+     "తక్కువ ఎత్తు ఉండటం వల్ల",
+     "సమతల భూములు ఉండటం వల్ల",
+     "తులనాత్మకంగా ఎక్కువ వర్షపాతం ఉండటం వల్ల"
+    ],
+    "en": [
+     "Because of the absence of human settlements",
+     "Due to lower altitude",
+     "Due to flat land surfaces",
+     "Because of relatively higher precipitation"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పొడిబారిన ఉత్తర వాలులతో పోలిస్తే దక్షిణ వాలులు ఎక్కువ వర్షపాతం పొందడం వల్ల అక్కడ దట్టమైన వృక్షసంపద ఉంటుంది.",
+    "en": "The southern slopes of the Himalayas have thicker vegetation cover due to relatively higher precipitation compared to the drier north-facing slopes."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T18-0021",
+   "section": {
+    "te": "British Forest Exploitation",
+    "en": "British Forest Exploitation"
+   },
+   "q": {
+    "te": "ప్రకటన (A): గర్వాల్ మరియు కుమాన్ ప్రాంతాల్లోని ఓక్ అడవుల స్థానంలో బ్రిటిష్ వారు పైన్ (చిర్) చెట్లను నాటారు.\nకారణం (R): రైల్వే లైన్ల నిర్మాణానికి పైన్ కలప అవసరం.",
+    "en": "Assertion (A): The British replaced oak forests in Garhwal and Kumaon with pine (chir) trees.\nReason (R): Pine timber was needed for laying railway lines."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "రైల్వే నిర్మాణానికి పైన్ అవసరం కాబట్టి బ్రిటిష్ వారు ఓక్ స్థానంలో పైన్‌ను ప్రవేశపెట్టి అటవీ నిర్మాణాన్ని మార్చారు.",
+    "en": "The British changed the forest structure by replacing oak with pine because pine was required for railway construction."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T18-0040",
+   "section": {
+    "te": "Tropical thorn forest undergrowth",
+    "en": "Tropical thorn forest undergrowth"
+   },
+   "q": {
+    "te": "ఉష్ణమండల ముళ్ళ అడవులలో కింద పెరిగే గడ్డి (tussocky grass) గరిష్టంగా ఎంత ఎత్తు వరకు పెరుగుతుంది?",
+    "en": "In tropical thorn forests, up to what height does tussocky grass grow as undergrowth?"
+   },
+   "options": {
+    "te": [
+     "1 మీటర్",
+     "4 మీటర్లు",
+     "2 మీటర్లు",
+     "3 మీటర్లు"
+    ],
+    "en": [
+     "1 m",
+     "4 m",
+     "2 m",
+     "3 m"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఉష్ణమండల ముళ్ళ అడవులలో కింద పెరిగే తుప్పల గడ్డి (tussocky grass) 2 మీటర్ల ఎత్తు వరకు పెరుగుతుంది.",
+    "en": "In tropical thorn forests, tussocky grass grows up to a height of 2 m as undergrowth."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T18-0011",
+   "section": {
+    "te": "Sohra Mountain Forest",
+    "en": "Sohra Mountain Forest"
+   },
+   "q": {
+    "te": "పాఠ్యాంశంలోని చిత్ర వివరణ ప్రకారం, మహిళలు ఆకులు మరియు కట్టెల మోపులను మోసుకెళ్తున్న పర్వత అటవీ ప్రాంతం ఎక్కడ ఉంది?",
+    "en": "In the image description regarding forest dwellers, women are shown carrying bundles of leaves and wood from a mountain forest located in:"
+   },
+   "options": {
+    "te": [
+     "అల్మోరా, ఉత్తరాఖండ్",
+     "రాంచీ, జార్ఖండ్",
+     "బస్తర్, ఛత్తీస్‌గఢ్",
+     "సొహ్రా, మేఘాలయ"
+    ],
+    "en": [
+     "Almora, Uttarakhand",
+     "Ranchi, Jharkhand",
+     "Bastar, Chhattisgarh",
+     "Sohra, Meghalaya"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "చిత్రం 2.17 లోని వివరణ ప్రకారం, మేఘాలయలోని సొహ్రా పర్వత అటవీ ప్రాంతం నుండి మహిళలు ఆకులు, కట్టెల మోపులను మోసుకెళ్తున్నారు.",
+    "en": "The caption for Fig. 2.17 specifies that the women are carrying bundles of leaves and wood from a mountain forest in Sohra, Meghalaya."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T18-0003",
+   "section": {
+    "te": "High Altitude Vegetation",
+    "en": "High Altitude Vegetation"
+   },
+   "q": {
+    "te": "పర్వత వాతావరణంలో, ఎక్కువ ఎత్తుకు వెళ్ళేకొద్దీ చెట్ల స్థానంలో ఏవి కనిపిస్తాయి?",
+    "en": "In a mountain environment, what do trees give way to at higher altitudes?"
+   },
+   "options": {
+    "te": [
+     "ఎండిన ముళ్ల పొదలు",
+     "దట్టమైన వెడల్పాటి ఆకులు గల సతతహరిత అడవులు",
+     "మడ అడవులు",
+     "గడ్డి, నాచు మరియు లైకెన్లు"
+    ],
+    "en": [
+     "Dry thorny scrub",
+     "Dense evergreen broadleaf canopies",
+     "Mangrove swamps",
+     "Grasses, mosses and lichen"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పర్వత ప్రాంతాలలో ఎత్తు పెరిగేకొద్దీ చెట్ల స్థానంలో గడ్డి, నాచు మరియు లైకెన్లు కనిపిస్తాయని పాఠ్యాంశం తెలుపుతోంది.",
+    "en": "At higher altitudes in mountain environments, trees give way to grasses, mosses, and lichen."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T18-0027",
+   "section": {
+    "te": "Deciduous Forest Landscape",
+    "en": "Deciduous Forest Landscape"
+   },
+   "q": {
+    "te": "అధిక వర్షపాతం ఉన్న ప్రాంతాలలో గడ్డి పలకలతో కూడిన టేకు చెట్లు ఉన్న 'పార్క్‌ల్యాండ్ ల్యాండ్‌స్కేప్' ఏ రకమైన అడవుల లక్షణం?",
+    "en": "Which type of forest is characterized by a 'parkland landscape' with teak trees interspersed with patches of grass in higher rainfall regions?"
+   },
+   "options": {
+    "te": [
+     "తీరప్రాంత అడవులు",
+     "ఉష్ణమండల సతత హరిత అడవులు",
+     "పర్వత అడవులు",
+     "ఉష్ణమండల ఆకురాల్చే అడవులు"
+    ],
+    "en": [
+     "Littoral forests",
+     "Tropical Evergreen forests",
+     "Montane forests",
+     "Tropical Deciduous forests"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ద్వీపకల్ప పీఠభూమి మరియు ఉత్తర మైదానాల్లోని అధిక వర్షపాతం ఉన్న ప్రాంతాల్లోని ఉష్ణమండల ఆకురాల్చే అడవులు పార్క్‌ల్యాండ్ ల్యాండ్‌స్కేప్‌ను కలిగి ఉంటాయి.",
+    "en": "Tropical deciduous forests in higher rainfall areas of the Peninsular plateau and northern plains feature a parkland landscape."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T18-0024",
+   "section": {
+    "te": "Beej Bachao Andolan",
+    "en": "Beej Bachao Andolan"
+   },
+   "q": {
+    "te": "సింథటిక్ రసాయనాలు లేకుండా వైవిధ్యభరితమైన పంట ఉత్పత్తి సాధ్యమని 'బీజ్ బచావో ఆందోళన' ఏ ప్రాంతంలో నిరూపించింది?",
+    "en": "In which region did the 'Beej Bachao Andolan' demonstrate that diversified crop production is possible without synthetic chemicals?"
+   },
+   "options": {
+    "te": [
+     "తెహ్రీ",
+     "పశ్చిమ కనుమలు",
+     "కుమాన్",
+     "గర్వాల్"
+    ],
+    "en": [
+     "Tehri",
+     "Western Ghats",
+     "Kumaon",
+     "Garhwal"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "తెహ్రీలో జరిగిన బీజ్ బచావో ఆందోళన, రసాయన రహిత వైవిధ్యభరితమైన పంట ఉత్పత్తిని ప్రోత్సహించింది.",
+    "en": "The Beej Bachao Andolan took place in Tehri, promoting chemical-free diversified crop production."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T18-0029",
+   "section": {
+    "te": "British Use of Timber",
+    "en": "British Use of Timber"
+   },
+   "q": {
+    "te": "బ్రిటిష్ వారు భారతదేశంలో నిర్మాణ కార్యకలాపాల కోసం కలపను ఎందుకు ఉపయోగించారు?",
+    "en": "Why did the British use timber for construction activities in India?"
+   },
+   "options": {
+    "te": [
+     "అందుబాటులో ఉన్న ఏకైక పదార్థం అది కాబట్టి",
+     "ఎందుకంటే ఇది ఉష్ణ నిరోధకం (insulator of heat) గా పనిచేస్తుంది",
+     "రాతి కంటే చౌకగా ఉండటం వల్ల",
+     "కీటకాలను తట్టుకునే శక్తి ఉండటం వల్ల"
+    ],
+    "en": [
+     "Because it was the only material available",
+     "Because it acts as an insulator of heat",
+     "Because it was cheaper than stone",
+     "Because it was resistant to pests"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "బ్రిటిష్ వారు నిర్మాణంలో కలపను ఉపయోగించారు ఎందుకంటే అది ఉష్ణ నిరోధకంగా పనిచేస్తుందని పాఠ్య భాగం పేర్కొంది.",
+    "en": "The British used timber in construction because it serves as an insulator of heat."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T18-0037",
+   "section": {
+    "te": "Kashmir handicrafts trees",
+    "en": "Kashmir handicrafts trees"
+   },
+   "q": {
+    "te": "ప్రసిద్ధ కాశ్మీర్ హస్తకళలకు ఆధారాన్నిచ్చే వృక్షాలు ఏవి?",
+    "en": "Which of the following trees sustain the famous Kashmir handicrafts?"
+   },
+   "options": {
+    "te": [
+     "చినార్ (Chinar)",
+     "వాల్‌నట్ (Walnut)",
+     "A మరియు B రెండూ",
+     "స్ప్రూస్ (Spruce)"
+    ],
+    "en": [
+     "Chinar",
+     "Walnut",
+     "Both A and B",
+     "Spruce"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "చినార్ మరియు వాల్‌నట్ వృక్షాలు కాశ్మీర్ హస్తకళలకు ముఖ్యమైన కలపను సమకూరుస్తాయి.",
+    "en": "Chinar and walnut sustain the famous Kashmir handicrafts and belong to the temperate zone of the Himalayas."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T18-0022",
+   "section": {
+    "te": "Protected Forest States",
+    "en": "Protected Forest States"
+   },
+   "q": {
+    "te": "ఈ క్రింది రాష్ట్రాలను పరిశీలించండి: 1. ఒడిశా, 2. పంజాబ్, 3. హర్యానా, 4. బీహార్. వీటిలో ఏ రాష్ట్రాలు తమ అటవీ విస్తీర్ణంలో ఎక్కువ భాగాన్ని 'రక్షిత అడవులు' (protected forests) గా కలిగి ఉన్నాయి?",
+    "en": "Consider the following states: 1. Odisha, 2. Punjab, 3. Haryana, 4. Bihar. Which of these have a bulk of their forest area classified as 'protected forests'?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2, 3 మరియు 4",
+     "1, 3 మరియు 4 మాత్రమే"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1, 2, 3 and 4",
+     "1, 3 and 4 only"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "బీహార్, హర్యానా, పంజాబ్, హిమాచల్ ప్రదేశ్, ఒడిశా మరియు రాజస్థాన్ రాష్ట్రాల్లో రక్షిత అడవులు అధికంగా ఉన్నాయని పాఠ్య భాగం స్పష్టంగా పేర్కొంది.",
+    "en": "Bihar, Haryana, Punjab, Himachal Pradesh, Odisha, and Rajasthan as states with a bulk of protected forests."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T18-0050",
+   "section": {
+    "te": "East coast wetlands",
+    "en": "East coast wetlands"
+   },
+   "q": {
+    "te": "భారతదేశ చిత్తడి నేలల వర్గీకరణలో, చిలికా సరస్సు క్రింది ఏ వర్గానికి ప్రాతినిధ్యం వహిస్తుంది?",
+    "en": "In the classification of India's wetlands, Chilika Lake represents which of the following categories?"
+   },
+   "options": {
+    "te": [
+     "భారత తూర్పు తీరంలోని డెల్టా చిత్తడి నేలలు మరియు లాగూన్లు",
+     "దక్షిణాన గల దక్కన్ పీఠభూమి జలాశయాలు",
+     "గంగా మైదానంలోని మంచినీటి చిత్తడి నేలలు",
+     "బ్రహ్మపుత్ర వరద మైదానాలు"
+    ],
+    "en": [
+     "The delta wetlands and lagoons of India’s east coast",
+     "The reservoirs of the Deccan Plateau in the south",
+     "Freshwater marshes of the Gangetic Plain",
+     "The floodplains of the Brahmaputra"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "చిలికా సరస్సు భారత తూర్పు తీరంలోని డెల్టా చిత్తడి నేలలు మరియు లాగూన్ల వర్గం క్రిందకు వస్తుంది.",
+    "en": "Chilika Lake is categorized under the delta wetlands and lagoons of India’s east coast."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T18-0017",
+   "section": {
+    "te": "Permanent Forest Distribution",
+    "en": "Permanent Forest Distribution"
+   },
+   "q": {
+    "te": "భారతదేశంలోని ఏ రాష్ట్రంలో శాశ్వత అడవుల కింద అత్యధిక విస్తీర్ణం ఉంది, ఇది ఆ రాష్ట్ర మొత్తం అటవీ విస్తీర్ణంలో 75% గా ఉంది?",
+    "en": "Which Indian state has the largest area under permanent forests, accounting for 75% of its total forest area?"
+   },
+   "options": {
+    "te": [
+     "ఆంధ్రప్రదేశ్",
+     "మధ్యప్రదేశ్",
+     "మహారాష్ట్ర",
+     "పశ్చిమ బెంగాల్"
+    ],
+    "en": [
+     "Andhra Pradesh",
+     "Madhya Pradesh",
+     "Maharashtra",
+     "West Bengal"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్య భాగం ప్రకారం, మధ్యప్రదేశ్ రాష్ట్రం తన మొత్తం అటవీ విస్తీర్ణంలో 75 శాతంతో శాశ్వత అడవుల కింద అత్యధిక విస్తీర్ణాన్ని కలిగి ఉంది.",
+    "en": "Madhya Pradesh has the largest area under permanent forests, which constitutes 75% of its total forest area."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T18-0041",
+   "section": {
+    "te": "Himalayan forest altitude zones",
+    "en": "Himalayan forest altitude zones"
+   },
+   "q": {
+    "te": "హిమాలయ పర్వత శ్రేణులలో బ్లూ పైన్ (Blue pine) మరియు స్ప్రూస్ (spruce) వృక్షాలు సాధారణంగా ఏ ఎత్తు వద్ద కనిపిస్తాయి?",
+    "en": "In the Himalayan mountain ranges, at what altitude do Blue pine and spruce typically appear?"
+   },
+   "options": {
+    "te": [
+     "1,750–2,225 మీటర్లు",
+     "2,225–3,048 మీటర్లు",
+     "1,500–1,750 మీటర్లు",
+     "1,000–1,500 మీటర్లు"
+    ],
+    "en": [
+     "1,750–2,225 m",
+     "2,225–3,048 m",
+     "1,500–1,750 m",
+     "1,000–1,500 m"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "హిమాలయ శ్రేణులలో 2,225 నుండి 3,048 మీటర్ల ఎత్తుల మధ్య బ్లూ పైన్ మరియు స్ప్రూస్ వృక్షాలు కనిపిస్తాయి.",
+    "en": "Blue pine and spruce appear at altitudes between 2,225 and 3,048 m in the Himalayan ranges."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T18-0020",
+   "section": {
+    "te": "Evergreen Forest Species",
+    "en": "Evergreen Forest Species"
+   },
+   "q": {
+    "te": "ఉష్ణమండల సతత హరిత అడవులలో ఈ క్రింది ఏ వృక్ష జాతులు కనిపిస్తాయి?",
+    "en": "Which of the following tree species are found in Tropical Evergreen forests?"
+   },
+   "options": {
+    "te": [
+     "రోజ్‌వుడ్ మరియు మహోగని",
+     "ఐని మరియు ఎబోనీ",
+     "A మరియు B రెండూ",
+     "టేండు మరియు పలాస్"
+    ],
+    "en": [
+     "Rosewood and Mahogany",
+     "Aini and Ebony",
+     "Both A and B",
+     "Tendu and Palas"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఉష్ణమండల సతత హరిత అడవులలో కనిపించే జాతులుగా రోజ్‌వుడ్, మహోగని, ఐని మరియు ఎబోనీలను పాఠ్య భాగం పేర్కొంది.",
+    "en": "The text lists rosewood, mahogany, aini, and ebony as species found in tropical evergreen forests."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T18-0034",
+   "section": {
+    "te": "Shola forests",
+    "en": "Shola forests"
+   },
+   "q": {
+    "te": "నీలగిరి, అనైమలై మరియు పళని కొండలలోని సమశీతోష్ణ అడవులను ఏమని పిలుస్తారు?",
+    "en": "What are the temperate forests in the Nilgiris, Anaimalai and Palani hills called?"
+   },
+   "options": {
+    "te": [
+     "టIGA (Taiga)",
+     "టెరాయ్ (Terai)",
+     "షోలాలు (Sholas)",
+     "భాబర్ (Bhabar)"
+    ],
+    "en": [
+     "Taiga",
+     "Terai",
+     "Sholas",
+     "Bhabar"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నీలగిరి, అనైమలై మరియు పళని కొండలలోని సమశీతోష్ణ మండల అడవులను షోలాలు అని పిలుస్తారు.",
+    "en": "The temperate mountain forests located in the Nilgiris, Anaimalai, and Palani hills are called Sholas."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T18-0036",
+   "section": {
+    "te": "Himalayan pastoral tribes",
+    "en": "Himalayan pastoral tribes"
+   },
+   "q": {
+    "te": "హిమాలయాలలోని ఆల్పైన్ గడ్డిభూములను రుతువుల వారీ వలసల (transhumance) కోసం విస్తృతంగా ఉపయోగించే తెగలు ఏవి?",
+    "en": "Which of the following tribes use the Himalayan Alpine pastures extensively for transhumance?"
+   },
+   "options": {
+    "te": [
+     "గుజ్జర్లు (Gujjars)",
+     "బకర్వాల్లు (Bakarwals)",
+     "భోటియాలు (Bhotiyas)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Gujjars",
+     "Bakarwals",
+     "Bhotiyas",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "హిమాలయ ప్రాంతంలోని ఆల్పైన్ గడ్డిభూములను గుజ్జర్లు, బకర్వాల్లు, భోటియాలు మరియు గద్దీలు తమ పశువుల వలసల కోసం ఉపయోగిస్తారు.",
+    "en": "The Alpine pastures in the higher reaches of the Himalayas are used extensively for transhumance by tribes like the Gujjars, the Bakarwals, the Bhotiyas, and the Gaddis."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T18-0043",
+   "section": {
+    "te": "Dry deciduous forest rainfall range",
+    "en": "Dry deciduous forest rainfall range"
+   },
+   "q": {
+    "te": "భారతదేశంలో పొడి ఆకురాల్చే అడవులు (Dry deciduous forests) ఎంత వర్షపాతం నమోదయ్యే విస్తారమైన ప్రాంతాలలో విస్తరించి ఉన్నాయి?",
+    "en": "Dry deciduous forests cover vast areas of India where the annual rainfall ranges between:"
+   },
+   "options": {
+    "te": [
+     "150–200 సెం.మీ",
+     "100–150 సెం.మీ",
+     "50 సెం.మీ కంటే తక్కువ",
+     "70–100 సెం.మీ"
+    ],
+    "en": [
+     "150–200 cm",
+     "100–150 cm",
+     "Less than 50 cm",
+     "70–100 cm"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వార్షిక వర్షపాతం 70 నుండి 100 సెం.మీ మధ్య ఉండే దేశంలోని విస్తారమైన ప్రాంతాలలో పొడి ఆకురాల్చే అడవులు ఉన్నాయి.",
+    "en": "Dry deciduous forests cover vast areas of the country where rainfall ranges between 70 and 100 cm."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T18-0016",
+   "section": {
+    "te": "Women's Role in Forests",
+    "en": "Women's Role in Forests"
+   },
+   "q": {
+    "te": "ఇంటి అవసరాల కోసం అటవీ వనరులను సేకరించడం, నిర్వహించడం మరియు సాంప్రదాయ జ్ఞానాన్ని కొనసాగించడంలో ముఖ్యమైన పాత్ర పోషించేది ఎవరు?",
+    "en": "Who plays a vital role in collecting and managing forest resources for household needs and sustaining traditional knowledge?"
+   },
+   "options": {
+    "te": [
+     "వాణిజ్య కలప వ్యాపారులు",
+     "పట్టణ హోల్‌సేల్ వర్తకులు",
+     "మహిళలు",
+     "ఫారెస్ట్ రేంజ్ అధికారులు"
+    ],
+    "en": [
+     "Commercial timber loggers",
+     "Urban wholesale merchants",
+     "Women",
+     "Forest range officers"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "గృహావసరాల కోసం అటవీ వనరులను సేకరించడం, నిర్వహించడం మరియు సాంప్రదాయ పరిజ్ఞానాన్ని కాపాడటంలో ముఖ్యంగా మహిళలు కీలక పాత్ర పోషిస్తారు.",
+    "en": "The source highlights that women, in particular, play a vital role in collecting and managing forest resources and sustaining traditional knowledge."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T18-0042",
+   "section": {
+    "te": "Moist deciduous forests rainfall",
+    "en": "Moist deciduous forests rainfall"
+   },
+   "q": {
+    "te": "తేమతో కూడిన ఆకురాల్చే అడవులకు (Moist deciduous forests) సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి 100-200 సెం.మీ వర్షపాతం నమోదయ్యే ప్రాంతాలలో ఎక్కువగా ఉంటాయి.\n2. గంధపు చెక్క (sandalwood), ఇప్ప (mahua), ఉసిరి (amla) ఈ అడవులలో కనిపించే జాతులు.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding Moist Deciduous forests:\n1. They are pronounced in regions recording rainfall between 100-200 cm.\n2. Sandalwood, mahua, and amla are species found in these forests.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 రెండూ",
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "Both 1 and 2",
+     "1 only",
+     "2 only",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "తేమతో కూడిన ఆకురాల్చే అడవులు 100-200 సెం.మీ వర్షపాతం ఉన్న ప్రాంతాలలో ఉంటాయి మరియు వీటిలో గంధపు చెక్క, ఇప్ప, ఉసిరి వంటి వృక్షాలు పెరుగుతాయి.",
+    "en": "Moist deciduous forests occur in regions with 100-200 cm rainfall and include species like sandalwood, mahua, amla, teak, and sal."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T18-0047",
+   "section": {
+    "te": "Mangrove forest deltas",
+    "en": "Mangrove forest deltas"
+   },
+   "q": {
+    "te": "సుందర్‌బన్స్ మరియు అండమాన్ నికోబార్ దీవులు కాకుండా, మడ అడవులు క్రింది ఏ నదుల డెల్టాలలో ప్రాముఖ్యతను కలిగి ఉన్నాయి?",
+    "en": "Apart from the Sunderbans and Andaman & Nicobar Islands, mangrove forests are of significance in the deltas of which of the following rivers?"
+   },
+   "options": {
+    "te": [
+     "మహానది",
+     "గోదావరి",
+     "కృష్ణా",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Mahanadi",
+     "Godavari",
+     "Krishna",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మహానది, గోదావరి మరియు కృష్ణా నదుల డెల్టాలు భారతదేశంలో మడ అడవులకు ఇతర ముఖ్యమైన ప్రాంతాలు.",
+    "en": "The Mahanadi, Godavari, and Krishna deltas are mentioned as other significant areas for mangrove forests in India."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T18-0035",
+   "section": {
+    "te": "Southern mountain forest species",
+    "en": "Southern mountain forest species"
+   },
+   "q": {
+    "te": "దక్షిణ పర్వత అడవులలో కనిపించే ఆర్థిక ప్రాముఖ్యత కలిగిన చెట్లు ఏవి?",
+    "en": "Which of the following trees of economic significance are found in the southern mountain forests?"
+   },
+   "options": {
+    "te": [
+     "మాగ్నోలియా (Magnolia)",
+     "లారెల్ (Laurel)",
+     "సింకోనా (Cinchona)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Magnolia",
+     "Laurel",
+     "Cinchona",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "దక్షిణ పర్వత అడవులలో మాగ్నోలియా, లారెల్, సింకోనా మరియు వాటిల్ వంటి ఆర్థిక ప్రాముఖ్యత కలిగిన వృక్షాలు పెరుగుతాయి.",
+    "en": "Magnolia, laurel, cinchona, and wattle are economically significant trees found in the southern mountain forests."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T18-0046",
+   "section": {
+    "te": "Mangrove forest distribution",
+    "en": "Mangrove forest distribution"
+   },
+   "q": {
+    "te": "భారతదేశంలో, మడ అడవులు క్రింది ఏ ప్రాంతాలలో బాగా అభివృద్ధి చెందాయి?",
+    "en": "In India, mangrove forests are highly developed in which of the following regions?"
+   },
+   "options": {
+    "te": [
+     "అండమాన్ మరియు నికోబార్ దీవులు",
+     "పశ్చిమ బెంగాల్‌లోని సుందర్‌బన్స్",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Andaman and Nicobar Islands",
+     "Sunderbans of West Bengal",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మడ అడవులు అండమాన్ మరియు నికోబార్ దీవులు మరియు పశ్చిమ బెంగాల్‌లోని సుందర్‌బన్స్‌లలో విశేషంగా అభివృద్ధి చెందాయి.",
+    "en": "Mangrove forests are highly developed in the Andaman and Nicobar Islands as well as the Sunderbans of West Bengal."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T18-0023",
+   "section": {
+    "te": "Semi Evergreen Species",
+    "en": "Semi Evergreen Species"
+   },
+   "q": {
+    "te": "అర్ధ సతత హరిత అడవులలో (semi-evergreen forests) కనిపించే ప్రధాన వృక్ష జాతులు ఏవి?",
+    "en": "Which of the following are the main tree species found in semi-evergreen forests?"
+   },
+   "options": {
+    "te": [
+     "టేకు మరియు సాల్",
+     "ఓక్ మరియు పైన్",
+     "వైట్ సెడార్, హోలోక్ మరియు కైల్",
+     "కాక్టి మరియు ముళ్ల పొదలు"
+    ],
+    "en": [
+     "Teak and Sal",
+     "Oak and Pine",
+     "White cedar, Hollock and Kail",
+     "Cactii and Thorny bushes"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "తక్కువ వర్షపాతం ఉన్న ప్రాంతాల్లో కనిపించే అర్ధ సతత హరిత అడవులలో ప్రధానంగా వైట్ సెడార్, హోలోక్ మరియు కైల్ ఉంటాయి.",
+    "en": "Semi-evergreen forests, found in less rainy parts, primarily consist of white cedar, hollock, and kail."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T18-0019",
+   "section": {
+    "te": "Tropical Evergreen Climate",
+    "en": "Tropical Evergreen Climate"
+   },
+   "q": {
+    "te": "ఉష్ణమండల సతత హరిత అడవులు (Tropical evergreen forests) సాధారణంగా ఈ క్రింది ఏ వాతావరణ పరిస్థితులు ఉన్న ప్రాంతాలలో కనిపిస్తాయి?",
+    "en": "Tropical evergreen forests are typically found in areas with which of the following climatic conditions?"
+   },
+   "options": {
+    "te": [
+     "100 సెం.మీ కంటే తక్కువ వర్షపాతం మరియు 15°C కంటే తక్కువ ఉష్ణోగ్రత",
+     "200 సెం.మీ కంటే ఎక్కువ వర్షపాతం మరియు సగటు వార్షిక ఉష్ణోగ్రత 22°C కంటే ఎక్కువ",
+     "50-100 సెం.మీ మధ్య వర్షపాతం మరియు 30°C కంటే ఎక్కువ ఉష్ణోగ్రత",
+     "300 సెం.మీ కంటే ఎక్కువ వర్షపాతం మరియు 10°C కంటే తక్కువ ఉష్ణోగ్రత"
+    ],
+    "en": [
+     "Precipitation below 100 cm and temperature below 15°C",
+     "Precipitation over 200 cm and mean annual temperature above 22°C",
+     "Precipitation between 50-100 cm and temperature above 30°C",
+     "Precipitation over 300 cm and temperature below 10°C"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఉష్ణమండల సతత హరిత అడవులు 200 సెం.మీ కంటే ఎక్కువ వార్షిక వర్షపాతం మరియు 22°C కంటే ఎక్కువ ఉష్ణోగ్రత ఉన్న వెచ్చని, తేమతో కూడిన ప్రాంతాలలో పెరుగుతాయి.",
+    "en": "Tropical evergreen forests thrive in warm, humid areas with annual rainfall exceeding 200 cm and temperatures above 22°C."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T18-0004",
+   "section": {
+    "te": "Kumārasambhava Author",
+    "en": "Kumārasambhava Author"
+   },
+   "q": {
+    "te": "హిమాలయాల ప్రార్థనతో ప్రారంభమయ్యే 'కుమారసంభవం' అనే దీర్ఘ కావ్యాన్ని రచించినది ఎవరు?",
+    "en": "Who composed the long poem 'Kumārasambhava', which begins with an invocation to the Himalayas?"
+   },
+   "options": {
+    "te": [
+     "కాళిదాసు",
+     "బాణభట్టు",
+     "హరిసేనుడు",
+     "భవభూతి"
+    ],
+    "en": [
+     "Kālidāsa",
+     "Banabhatta",
+     "Harisena",
+     "Bhavabhuti"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సుమారు 1,500 సంవత్సరాల క్రితం జీవించిన ప్రాచీన భారతదేశపు గొప్ప కవి కాళిదాసు 'కుమారసంభవం' కావ్యాన్ని రచించారని సమాచారం పేర్కొంది.",
+    "en": "The source identifies Kālidāsa as the poet who lived at least 1,500 years ago and composed the poem Kumārasambhava."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T18-0025",
+   "section": {
+    "te": "Tropical Deciduous Species",
+    "en": "Tropical Deciduous Species"
+   },
+   "q": {
+    "te": "ఉష్ణమండల ఆకురాల్చే అడవులలో (Tropical Deciduous forests) సాధారణంగా కనిపించే చెట్లు ఏవి?",
+    "en": "Which of the following trees are common in Tropical Deciduous forests?"
+   },
+   "options": {
+    "te": [
+     "పైన్ మరియు ఓక్",
+     "టేండు, పలాస్ మరియు అమల్తాస్",
+     "రోజ్‌వుడ్ మరియు ఎబోనీ",
+     "వైట్ సెడార్ మరియు కైల్"
+    ],
+    "en": [
+     "Pine and Oak",
+     "Tendu, Palas and Amaltas",
+     "Rosewood and Ebony",
+     "White cedar and Kail"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఉష్ణమండల ఆకురాల్చే అడవులలో సాధారణంగా కనిపించే చెట్లలో టేండు, పలాస్, అమల్తాస్, బెల్, ఖైర్ మరియు యాక్సిల్‌వుడ్ ఉన్నాయి.",
+    "en": "Common trees in tropical deciduous forests include tendu, palas, amaltas, bel, khair, and axlewood."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T18-0008",
+   "section": {
+    "te": "Bishnoi Movement Leadership",
+    "en": "Bishnoi Movement Leadership"
+   },
+   "q": {
+    "te": "రాజస్థాన్‌లో అటవీ సంరక్షణ కోసం చేపట్టిన బిష్ణోయ్ ఉద్యమానికి నాయకత్వం వహించింది ఎవరు?",
+    "en": "Who led the Bishnoi Movement for forest protection in Rajasthan?"
+   },
+   "options": {
+    "te": [
+     "అమృతా దేవి",
+     "మేధా పాట్కర్",
+     "గౌరా దేవి",
+     "సునీతా నారాయణ్"
+    ],
+    "en": [
+     "Amrita Devi",
+     "Medha Patkar",
+     "Gaura Devi",
+     "Sunita Narain"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "రాజస్థాన్‌లో అడవుల రక్షణ కోసం జరిగిన బిష్ణోయ్ ఉద్యమానికి అమృతా దేవి నాయకత్వం వహించారని పాఠ్యాంశం స్పష్టం చేస్తోంది.",
+    "en": "The Bishnoi Movement in Rajasthan was led by Amrita Devi for the protection of forests."
+   }
+  }
+ ]
+}

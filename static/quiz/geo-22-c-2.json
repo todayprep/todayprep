@@ -1,0 +1,942 @@
+{
+ "id": "geo-22-c-2",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Population – క్విజ్ 2",
+  "en": "Population – Quiz 2"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T22-0092",
+   "section": {
+    "te": "Water Availability",
+    "en": "Water Availability"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): నదీ లోయలు ప్రపంచంలో అత్యంత సాంద్రత కలిగిన జనాభా ప్రాంతాలలో ఉన్నాయి.\nకారణం (R): నీటిని త్రాగడానికి, స్నానం చేయడానికి మరియు వంట చేయడానికి, అలాగే పశువులు, పంటలు, పరిశ్రమలు మరియు నౌకాయానం కోసం ఉపయోగిస్తారు.",
+    "en": "Assertion (A): River valleys are among the most densely populated areas of the world.\nReason (R): Water is used for drinking, bathing, and cooking, as well as for cattle, crops, industries, and navigation."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వివిధ మానవ మరియు ఆర్థిక కార్యకలాపాల కోసం మంచినీరు లభ్యత నదీ లోయలను స్థిరనివాసాలకు ఆకర్షణీయంగా చేస్తుంది, ఇది అధిక జనాభా సాంద్రతకు దారితీస్తుంది.",
+    "en": "The availability of fresh water for various human and economic activities makes river valleys attractive for settlement, leading to high population density."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T22-0044",
+   "section": {
+    "te": "Population Composition",
+    "en": "Population Composition"
+   },
+   "q": {
+    "te": "జనాభా కూర్పు (జనాభా నిర్మాణం) అధ్యయనంలో ఈ క్రింది ఏ లక్షణాలు చేర్చబడ్డాయి?\nA. వయస్సు మరియు లింగం\nB. వృత్తి మరియు విద్య\nC. భౌగోళిక పంపిణీ",
+    "en": "Which of the following characteristics are included in the study of population composition (structure of population)?\nA. Age and Gender\nB. Occupation and Education\nC. Geographical distribution"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వయస్సు, లింగం, వృత్తి మరియు విద్య వంటి లక్షణాలను ఉపయోగించి జనాభా కూర్పును పాఠ్యాంశం నిర్వచిస్తుంది, వీటిని భౌగోళిక పంపిణీ నుండి వేరు చేస్తుంది.",
+    "en": "The text defines population composition using characteristics like age, gender, occupation, and education, distinguishing them from geographical distribution."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T22-0158",
+   "section": {
+    "te": "National Youth Policy",
+    "en": "National Youth Policy"
+   },
+   "q": {
+    "te": "జాతీయ యువజన విధానం (NYP–2014) ప్రకారం, ఏ వయస్సు గలవారిని 'యువత'గా నిర్వచించారు?",
+    "en": "According to the National Youth Policy (NYP–2014), which age group is defined as 'youth'?"
+   },
+   "options": {
+    "te": [
+     "18–29 సంవత్సరాలు",
+     "15–25 సంవత్సరాలు",
+     "18–35 సంవత్సరాలు",
+     "15–29 సంవత్సరాలు"
+    ],
+    "en": [
+     "18–29 years",
+     "15–25 years",
+     "18–35 years",
+     "15–29 years"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జాతీయ యువజన విధానం 2014 ప్రకారం 15 నుండి 29 సంవత్సరాల మధ్య వయస్సు గలవారిని యువతగా పరిగణిస్తారు.",
+    "en": "The National Youth Policy 2014 specifically defines youth as individuals between the ages of 15 and 29 years."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T22-0154",
+   "section": {
+    "te": "Major States Population Share",
+    "en": "Major States Population Share"
+   },
+   "q": {
+    "te": "భారతదేశంలోని మొదటి 10 అత్యధిక జనాభా కలిగిన రాష్ట్రాలు (UP, మహారాష్ట్ర మరియు బీహార్‌తో సహా) కలిసి దేశం మొత్తం జనాభాలో సుమారు ఎంత శాతం ఉన్నాయి?",
+    "en": "The top 10 most populous states in India (including UP, Maharashtra, and Bihar) together account for approximately what percentage of the country's total population?"
+   },
+   "options": {
+    "te": [
+     "76 శాతం",
+     "90 శాతం",
+     "50 శాతం",
+     "66 శాతం"
+    ],
+    "en": [
+     "76 per cent",
+     "90 per cent",
+     "50 per cent",
+     "66 per cent"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "UP మరియు మహారాష్ట్రతో సహా 10 నిర్దిష్ట రాష్ట్రాలు కలిసి భారతదేశం మొత్తం జనాభాలో సుమారు 76 శాతంగా ఉన్నాయని మూలం పేర్కొంది.",
+    "en": "10 specific states, including UP and Maharashtra, together account for about 76 per cent of India's total population."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T22-0163",
+   "section": {
+    "te": "Regional Variation 1991-2001",
+    "en": "Regional Variation 1991-2001"
+   },
+   "q": {
+    "te": "1991-2001 కాలంలో జనాభా వృద్ధిలో ప్రాంతీయ వైవిధ్యాలకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. దేశంలోనే అత్యల్ప వృద్ధి రేటు కేరళలో నమోదైంది.\n2. ఉత్తర భారతదేశంలో పశ్చిమం నుండి తూర్పు వరకు ఉన్న రాష్ట్రాల బెల్ట్ సగటున 20-25 శాతం వృద్ధి రేటును కలిగి ఉంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding regional variations in population growth during 1991-2001:\n1. Kerala registered the lowest growth rate in the country.\n2. A continuous belt of states from west to east in North India had growth rates averaging 20-25 per cent.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 లేదా 2 ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వనరుల ప్రకారం రెండు ప్రకటనలు సరైనవే. కేరళ అత్యల్ప వృద్ధిని (9.4%) నమోదు చేయగా, ఉత్తర రాష్ట్రాల బెల్ట్ 20-25% వృద్ధిని నమోదు చేసింది.",
+    "en": "Both statements are correct based on the source. Kerala had the lowest growth (9.4%) and the northern belt states averaged 20-25% growth."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T22-0159",
+   "section": {
+    "te": "Phase IV Growth",
+    "en": "Phase IV Growth"
+   },
+   "q": {
+    "te": "దశ IV (1981 తర్వాత)లో, భారతదేశంలో జనాభా వృద్ధి రేటు క్రమంగా తగ్గడానికి ఈ క్రింది వాటిలో ఏ అంశాలు కారణం?",
+    "en": "In Phase IV (post-1981), which of the following factors are responsible for the gradual slowing down of the population growth rate in India?"
+   },
+   "options": {
+    "te": [
+     "ముడి జనన రేటు తగ్గడం",
+     "వివాహ సగటు వయస్సు పెరగడం",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Downward trend of crude birth rate",
+     "Increase in the mean age at marriage",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "దశ IVలో వృద్ధి రేటు తగ్గడానికి ముడి జనన రేటు తగ్గడం, వివాహ వయస్సు పెరగడం మరియు స్త్రీ విద్య మెరుగుపడటం కారణాలుగా ఉన్నాయి.",
+    "en": "The slowing growth rate in Phase IV is attributed to a declining crude birth rate, which was influenced by higher age at marriage and improved female education."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T22-0005",
+   "section": {
+    "te": "Population Rank",
+    "en": "Population Rank"
+   },
+   "q": {
+    "te": "ఏ సంవత్సరంలో భారతదేశం చైనాను అధిగమించి ప్రపంచంలోనే అత్యధిక జనాభా కలిగిన దేశంగా అవతరించింది?",
+    "en": "In which year did India surpass China to become the world's most populous country?"
+   },
+   "options": {
+    "te": [
+     "2022",
+     "2024",
+     "2021",
+     "2023"
+    ],
+    "en": [
+     "2022",
+     "2024",
+     "2021",
+     "2023"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మూలం ప్రకారం, 2023లో భారతదేశం చైనాను అధిగమించి ప్రపంచంలోనే అత్యధిక జనాభా కలిగిన దేశంగా అవతరించింది.",
+    "en": "India became the most populous country in the world in 2023, overtaking China."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T22-0176",
+   "section": {
+    "te": "Negative Growth Rate",
+    "en": "Negative Growth Rate"
+   },
+   "q": {
+    "te": "ఈ క్రింది ఏ దశాబ్దంలో భారతదేశం ప్రతికూల (negative) జనాభా వృద్ధి రేటును నమోదు చేసింది?",
+    "en": "In which of the following decades did India record a negative population growth rate?"
+   },
+   "options": {
+    "te": [
+     "1931-1941",
+     "1921-1931",
+     "1911-1921",
+     "1901-1911"
+    ],
+    "en": [
+     "1931-1941",
+     "1921-1931",
+     "1911-1921",
+     "1901-1911"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నిశ్చల దశలో భాగంగా, 1911-1921 దశాబ్దంలో భారతదేశం ప్రతికూల వృద్ధి రేటును నమోదు చేసింది.",
+    "en": "During the stagnant phase, India recorded a negative growth rate specifically in the decade of 1911-1921."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T22-0016",
+   "section": {
+    "te": "Social Transformation",
+    "en": "Social Transformation"
+   },
+   "q": {
+    "te": "బాన్ కీ-మూన్ ప్రకారం, ఇరవై ఒకటవ శతాబ్దపు అత్యంత ముఖ్యమైన సామాజిక పరివర్తనలలో ఒకటిగా ఏది మారబోతోంది?",
+    "en": "According to Ban Ki-moon, what is poised to become one of the most significant social transformations of the twenty-first century?"
+   },
+   "options": {
+    "te": [
+     "ప్రపంచ వలసలు",
+     "డిజిటల్ అక్షరాస్యత",
+     "పట్టణీకరణ",
+     "జనాభా వృద్ధాప్యం (Population ageing)"
+    ],
+    "en": [
+     "Global migration",
+     "Digital literacy",
+     "Urbanization",
+     "Population ageing"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "21వ శతాబ్దంలో జనాభా వృద్ధాప్యం ఒక ప్రధాన సామాజిక పరివర్తన అని బాన్ కీ-మూన్ పేర్కొన్నారు.",
+    "en": "Ban Ki-moon stated that population ageing will be a major social transformation in the 21st century."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T22-0031",
+   "section": {
+    "te": "Aging Population Impact",
+    "en": "Aging Population Impact"
+   },
+   "q": {
+    "te": "ప్రకటన (A): వృద్ధుల జనాభా వాటా పెరగడం వల్ల ఆర్థిక వృద్ధి మందగించవచ్చు.\nకారణం (R): ఎక్కువ మంది పదవీ విరమణ చేయడంతో, పొలాలు, కర్మాగారాలు మరియు కార్యాలయాల్లో పనిచేయడానికి తక్కువ మంది యువ కార్మికులు అందుబాటులో ఉంటారు.",
+    "en": "Assertion (A): An increase in the share of the elderly population can lead to a slowdown in economic growth.\nReason (R): As more people retire, there are fewer younger workers available for farms, factories, and offices."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వృద్ధాప్య జనాభా కారణంగా యువ కార్మికుల సంఖ్య తగ్గడం ఆర్థిక ఉత్పాదకత మరియు వృద్ధిని నేరుగా ప్రభావితం చేస్తుంది.",
+    "en": "The reduction in the younger workforce due to an aging population directly impacts economic productivity and growth."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T22-0003",
+   "section": {
+    "te": "Infrastructure Planning",
+    "en": "Infrastructure Planning"
+   },
+   "q": {
+    "te": "జనాభా డేటా ఆధారంగా, క్రింది వాటిలో ఏ ప్రణాళికా నిర్ణయాలు జనాభా లక్షణంతో సరిగ్గా సరిపోలుతున్నాయి?",
+    "en": "Based on demographic data, which of the following planning decisions is/are correctly matched with the population characteristic?"
+   },
+   "options": {
+    "te": [
+     "చిన్న పిల్లల అధిక నిష్పత్తి: మరిన్ని పాఠశాలల అవసరం",
+     "వృద్ధుల అధిక నిష్పత్తి: మరిన్ని ఆరోగ్య సంరక్షణ సౌకర్యాల అవసరం",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "High proportion of young children: Need for more schools",
+     "High proportion of elderly: Need for more healthcare facilities",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "జనాభా సమాచారం ప్రభుత్వాలకు మౌలిక సదుపాయాలను ప్లాన్ చేయడంలో సహాయపడుతుంది: పిల్లల కోసం మరిన్ని పాఠశాలలు మరియు వృద్ధుల కోసం మరిన్ని ఆరోగ్య సంరక్షణ సౌకర్యాలు.",
+    "en": "Demographic information helps governments plan infrastructure: more schools for children and more healthcare for the elderly."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T22-0086",
+   "section": {
+    "te": "Demographic Transition",
+    "en": "Demographic Transition"
+   },
+   "q": {
+    "te": "'జనాభా పరివర్తన' (demographic transition) లో సాధారణ కదలిక నమూనా ఏమిటి?",
+    "en": "What is the typical movement pattern in a 'demographic transition'?"
+   },
+   "options": {
+    "te": [
+     "తక్కువ జనన మరియు మరణ రేట్ల నుండి అధిక జనన మరియు మరణ రేట్ల వరకు",
+     "అధిక జనన మరియు మరణ రేట్ల నుండి తక్కువ జనన మరియు మరణ రేట్ల వరకు",
+     "అధిక జనన రేట్ల నుండి అధిక మరణ రేట్లకు మాత్రమే",
+     "తక్కువ వలసల నుండి అధిక వలసలకు మాత్రమే"
+    ],
+    "en": [
+     "From low birth and death rates to high birth and death rates",
+     "From high birth and death rates to low birth and death rates",
+     "From high birth rates to high death rates only",
+     "From low migration to high migration only"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "జనాభా పరివర్తన అనేది కాలక్రమేణా అధిక జనన మరియు మరణ రేట్ల నుండి తక్కువ జనన మరియు మరణ రేట్లకు మారే నమూనాను సూచిస్తుంది.",
+    "en": "Demographic transition refers to the pattern of moving from high birth and death rates to low birth and death rates over time."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T22-0039",
+   "section": {
+    "te": "Life Expectancy",
+    "en": "Life Expectancy"
+   },
+   "q": {
+    "te": "స్వాతంత్ర్య సమయంలో భారతదేశంలో పుట్టినప్పుడు సగటు ఆయుర్దాయం ఎంత?",
+    "en": "What was the life expectancy at birth in India at the time of independence?"
+   },
+   "options": {
+    "te": [
+     "70 ఏళ్లు",
+     "30 ఏళ్లు",
+     "28 ఏళ్లు",
+     "50 ఏళ్లు"
+    ],
+    "en": [
+     "70 years",
+     "30 years",
+     "28 years",
+     "50 years"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మూలం ప్రకారం, స్వాతంత్ర్య సమయంలో భారతదేశంలో పుట్టినప్పుడు సగటు ఆయుర్దాయం కేవలం 30 ఏళ్లు మాత్రమే.",
+    "en": "India's life expectancy at birth was only 30 years at the time of independence."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T22-0070",
+   "section": {
+    "te": "Population Peak Age",
+    "en": "Population Peak Age"
+   },
+   "q": {
+    "te": "15 ఏళ్లలోపు భారతీయుల సంఖ్య ఏ సంవత్సరంలో గరిష్ట స్థాయికి చేరుకుంది?",
+    "en": "In which year did the number of Indians under 15 years of age reach its peak?"
+   },
+   "options": {
+    "te": [
+     "2007",
+     "2011",
+     "2050",
+     "2001"
+    ],
+    "en": [
+     "2007",
+     "2011",
+     "2050",
+     "2001"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "15 ఏళ్లలోపు భారతీయుల సంఖ్య 2011లో గరిష్ట స్థాయికి చేరుకుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The number of Indians under 15 years of age peaked in 2011."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T22-0122",
+   "section": {
+    "te": "Crude Birth Rate",
+    "en": "Crude Birth Rate"
+   },
+   "q": {
+    "te": "అపరిపక్వ జనన రేటు (CBR) జనాభాలోని ఎంతమంది వ్యక్తులకు లెక్కించబడుతుంది?",
+    "en": "The Crude Birth Rate (CBR) is calculated per how many people in the population?"
+   },
+   "options": {
+    "te": [
+     "ప్రతి 1,000 మందికి",
+     "ప్రతి 10,000 మందికి",
+     "ప్రతి 1,00,000 మందికి",
+     "ప్రతి 100 మందికి"
+    ],
+    "en": [
+     "Per 1,000",
+     "Per 10,000",
+     "Per 1,00,000",
+     "Per 100"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "CBR అనేది అంచనా వేసిన మధ్య-సంవత్సర జనాభాలో ప్రతి వెయ్యి మందికి జరిగే సజీవ జననాల సంఖ్య.",
+    "en": "CBR is the number of live births per thousand of the estimated mid-year population."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T22-0043",
+   "section": {
+    "te": "Sex Ratio",
+    "en": "Sex Ratio"
+   },
+   "q": {
+    "te": "2011 జనాభా లెక్కల ప్రకారం భారతదేశ మొత్తం జనాభాలో మహిళల శాతం ఎంత?",
+    "en": "What was the percentage of women in India's total population as per the 2011 Census?"
+   },
+   "options": {
+    "te": [
+     "48.5%",
+     "51.5%",
+     "50.0%",
+     "45.8%"
+    ],
+    "en": [
+     "48.5%",
+     "51.5%",
+     "50.0%",
+     "45.8%"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "2011 జనాభా లెక్కల ప్రకారం భారతదేశ మొత్తం జనాభాలో మహిళలు 48.5 శాతంగా ఉన్నారు.",
+    "en": "The 2011 Census data shows that women comprised 48.5 per cent of the total population of India."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T22-0153",
+   "section": {
+    "te": "Spatial Distribution Factors",
+    "en": "Spatial Distribution Factors"
+   },
+   "q": {
+    "te": "భారతదేశంలో జనాభా విస్తరణకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఉత్తర భారత మైదానాలు మరియు తీర మైదానాలు అధిక జనాభా నిష్పత్తిని కలిగి ఉన్నాయి.\n2. దక్షిణ భారత రాష్ట్రాల అంతర్గత జిల్లాలు మరియు హిమాలయాలు తక్కువ జనాభా నిష్పత్తిని కలిగి ఉన్నాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding population distribution in India:\n1. North Indian Plains and Coastal Plains have a higher proportion of population.\n2. Interior districts of southern Indian states and the Himalayas have a lower proportion of population.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అంతర్గత దక్షిణ జిల్లాలు మరియు హిమాలయాలతో పోలిస్తే మైదానాలు మరియు తీర ప్రాంతాలు అధిక జనాభా నిష్పత్తిని కలిగి ఉన్నాయని మూలం ధృవీకరిస్తుంది.",
+    "en": "The source confirms that plains and coastal areas have higher population proportions compared to interior southern districts and the Himalayas."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T22-0130",
+   "section": {
+    "te": "Demographic Transition Stage 3",
+    "en": "Demographic Transition Stage 3"
+   },
+   "q": {
+    "te": "జనాభా పరివర్తన (Demographic Transition) యొక్క చివరి దశ యొక్క లక్షణం కానిది ఏది?",
+    "en": "Which of the following is NOT a characteristic of the last stage of Demographic Transition?"
+   },
+   "options": {
+    "te": [
+     "జనాభా పట్టణీకరణ మరియు అక్షరాస్యత కలిగి ఉంటుంది",
+     "జనాభా స్థిరంగా ఉంటుంది లేదా నెమ్మదిగా పెరుగుతుంది",
+     "అధిక సాంకేతిక పరిజ్ఞానం",
+     "జనాభా ఎక్కువగా వ్యవసాయంలో నిమగ్నమై ఉంటుంది"
+    ],
+    "en": [
+     "Population is urbanised and literate",
+     "Population is stable or grows slowly",
+     "High technical know-how",
+     "Population is mostly engaged in agriculture"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "చివరి దశలో, జనాభా పట్టణీకరణ మరియు అక్షరాస్యత కలిగి ఉంటుంది, ప్రాథమికంగా వ్యవసాయంలో నిమగ్నమై ఉండదు (ఇది మొదటి దశ లక్షణం).",
+    "en": "In the last stage, the population is urbanised and literate, not primarily engaged in agriculture (which is a characteristic of the first stage)."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T22-0102",
+   "section": {
+    "te": "Human Resources Quote",
+    "en": "Human Resources Quote"
+   },
+   "q": {
+    "te": "\"బంగారం కాదు (స్త్రీ) పురుషులు మాత్రమే ఒక ప్రజలను గొప్పగా మరియు బలంగా మార్చగలరు\" అనే పంక్తులను రాసింది ఎవరు?",
+    "en": "Who wrote the lines \"Not gold but only (Wo)men can make a people great and strong\"?"
+   },
+   "options": {
+    "te": [
+     "జార్జ్ బి. క్రెస్సీ",
+     "రాల్ఫ్ వాల్డో ఎమర్సన్",
+     "జాన్ మార్షల్",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "George B. Cressey",
+     "Ralph Waldo Emerson",
+     "John Marshall",
+     "None of these"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యాంశంలో ఉదహరించబడిన పద్యం రాల్ఫ్ వాల్డో ఎమర్సన్‌కు చెందినది.",
+    "en": "The poem quoted in the text is attributed to Ralph Waldo Emerson."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T22-0006",
+   "section": {
+    "te": "World Population Share",
+    "en": "World Population Share"
+   },
+   "q": {
+    "te": "ప్రస్తుతం ప్రపంచ మొత్తం జనాభాలో భారతీయుల శాతం ఎంత?",
+    "en": "What percentage of the world's total population is currently constituted by Indians?"
+   },
+   "options": {
+    "te": [
+     "12 శాతం",
+     "15 శాతం",
+     "17 శాతం",
+     "21 శాతం"
+    ],
+    "en": [
+     "12 per cent",
+     "15 per cent",
+     "17 per cent",
+     "21 per cent"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రపంచ జనాభాలో భారతీయులు సుమారు 17 శాతం ఉన్నారని మూలం పేర్కొంది.",
+    "en": "Indians make up approximately 17 per cent of the global population."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T22-0120",
+   "section": {
+    "te": "Mortality and Development",
+    "en": "Mortality and Development"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): ప్రపంచంలోని వివిధ ప్రాంతాలలో మరణాల రేటు మారుతూ ఉంటుంది.\nకారణం (R): మరణాల రేటు ఒక ప్రాంతం యొక్క సామాజిక పురోగతి మరియు ఆర్థిక అభివృద్ధి స్థాయిల ద్వారా ప్రభావితమవుతుంది.",
+    "en": "Assertion (A): Mortality rates vary across different regions of the world.\nReason (R): Mortality rates are affected by a region's social advancement and levels of economic development."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మరణాల రేటు ఏకరీతిగా ఉండదు ఎందుకంటే అవి నిర్దిష్ట ప్రాంతం యొక్క సామాజిక-ఆర్థిక అభివృద్ధిపై ఆధారపడి ఉంటాయి.",
+    "en": "Mortality rates are not uniform because they depend on the socio-economic development of the specific region."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T22-0160",
+   "section": {
+    "te": "Decadal Growth Trends",
+    "en": "Decadal Growth Trends"
+   },
+   "q": {
+    "te": "ఆరు అత్యధిక జనాభా కలిగిన రాష్ట్రాలలో, 1991-2001తో పోలిస్తే 2001-2011 కాలంలో దశాబ్ద వృద్ధి రేటులో అత్యధిక తగ్గుదల (శాతపు పాయింట్లలో) నమోదు చేసిన రాష్ట్రం ఏది?",
+    "en": "Among the six most populous states, which state registered the highest fall in decadal growth rate percentage points during 2001-2011 compared to 1991-2001?"
+   },
+   "options": {
+    "te": [
+     "ఆంధ్రప్రదేశ్",
+     "ఉత్తరప్రదేశ్",
+     "బీహార్",
+     "మహారాష్ట్ర"
+    ],
+    "en": [
+     "Andhra Pradesh",
+     "Uttar Pradesh",
+     "Bihar",
+     "Maharashtra"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వనరుల ప్రకారం, మహారాష్ట్రలో దశాబ్ద వృద్ధి రేటు అత్యధికంగా 6.7 శాతపు పాయింట్ల మేర తగ్గింది.",
+    "en": "The fall in decadal growth rate was highest for Maharashtra at 6.7 percentage points."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T22-0062",
+   "section": {
+    "te": "Demographic Dividend",
+    "en": "Demographic Dividend"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): భారతదేశం ప్రస్తుతం 'డెమోగ్రాఫిక్ డివిడెండ్' (జనాభా ప్రయోజనం)ను అనుభవిస్తోంది.\nకారణం (R): భారతదేశ జనాభా పిరమిడ్ యొక్క మధ్య భాగం చాలా వెడల్పుగా మారింది, ఇది 15 నుండి 60 సంవత్సరాల మధ్య ఉన్న పెద్ద పని చేసే వయస్సు గల సమూహాన్ని సూచిస్తుంది.",
+    "en": "Assertion (A): India is currently experiencing a 'demographic dividend'.\nReason (R): The middle part of India's population pyramid has become much wider, representing a large working-age group between 15 and 60 years."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "డెమోగ్రాఫిక్ డివిడెండ్ అనేది పెద్ద పని చేసే వయస్సు జనాభా (15-60 సంవత్సరాలు) ఫలితంగా వచ్చే ఆర్థిక వృద్ధి సామర్థ్యాన్ని సూచిస్తుంది, ఇది పిరమిడ్ మధ్యలో వెడల్పుగా ఉండటంలో కనిపిస్తుంది.",
+    "en": "The demographic dividend refers to the economic growth potential resulting from a large working-age population (15-60 years), which is reflected in the widening middle of the pyramid."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T22-0052",
+   "section": {
+    "te": "Sex Ratio",
+    "en": "Sex Ratio"
+   },
+   "q": {
+    "te": "2001 జనాభా లెక్కల ప్రకారం భారతదేశంలో లింగ నిష్పత్తి ఎంత?",
+    "en": "What was the sex ratio in India as per the 2001 Census?"
+   },
+   "options": {
+    "te": [
+     "950",
+     "943",
+     "933",
+     "927"
+    ],
+    "en": [
+     "950",
+     "943",
+     "933",
+     "927"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "2001 జనాభా లెక్కల ప్రకారం భారతదేశ లింగ నిష్పత్తి 1,000 మంది పురుషులకు 933 మంది మహిళలుగా నమోదైంది.",
+    "en": "The 2001 Census recorded India's sex ratio as 933 females per 1,000 males."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T22-0071",
+   "section": {
+    "te": "Ageing Population Challenges",
+    "en": "Ageing Population Challenges"
+   },
+   "q": {
+    "te": "వృద్ధాప్య జనాభా ఎదుర్కొనే సవాళ్లకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది ఆరోగ్య సంరక్షణ వ్యవస్థలపై ఒత్తిడిని పెంచుతుంది.\n2. పదవీ విరమణ చేసే వారి స్థానంలో తక్కువ మంది కార్మికులు ఉంటారు, ఇది ఆర్థిక వ్యవస్థను నెమ్మదిస్తుంది.\n3. తక్కువ మంది యువ పన్ను చెల్లింపుదారుల కారణంగా ప్రభుత్వాలు పెన్షన్లు చెల్లించడంలో సవాళ్లను ఎదుర్కొంటాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding the challenges of an ageing population:\n1. It leads to increased pressure on healthcare systems.\n2. There are fewer workers to replace those who retire, which can slow down the economy.\n3. Governments face challenges in paying pensions due to fewer young taxpayers.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వృద్ధాప్య జనాభా ఆరోగ్య సంరక్షణ ఒత్తిడిని పెంచుతుంది, కార్మికుల కొరత కారణంగా ఆర్థిక వ్యవస్థను నెమ్మదిస్తుంది మరియు తక్కువ పన్ను చెల్లింపుదారుల కారణంగా పెన్షన్ నిధుల సమస్యలను సృష్టిస్తుంది.",
+    "en": "An ageing population increases healthcare pressure, slows the economy due to labor shortages, and creates pension funding issues because of a smaller taxpayer base."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T22-0180",
+   "section": {
+    "te": "Population Composition Scope",
+    "en": "Population Composition Scope"
+   },
+   "q": {
+    "te": "'జనాభా కూర్పు' (population composition) కింద జనాభా భూగోళశాస్త్రంలో అధ్యయన రంగంగా ఈ క్రింది వాటిలో ఏది పేర్కొనబడలేదు?",
+    "en": "Which of the following is NOT mentioned as a field of study within population geography under 'population composition'?"
+   },
+   "options": {
+    "te": [
+     "వృత్తిపరమైన లక్షణాలు",
+     "వైవాహిక స్థితి",
+     "రాజకీయ అనుబంధం",
+     "నివాస స్థలం"
+    ],
+    "en": [
+     "Occupational characteristics",
+     "Marital status",
+     "Political affiliation",
+     "Place of residence"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వనరుల ప్రకారం వయస్సు, లింగం, నివాసం, జాతి లక్షణాలు, తెగలు, భాష, మతం, వైవాహిక స్థితి, అక్షరాస్యత మరియు వృత్తి వంటివి అధ్యయన రంగాలుగా పేర్కొనబడ్డాయి, కానీ రాజకీయ అనుబంధం పేర్కొనబడలేదు.",
+    "en": "The source lists age, sex, residence, ethnicity, tribes, language, religion, marital status, literacy, and occupation as fields of study, but does not mention political affiliation."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T22-0067",
+   "section": {
+    "te": "Population Structure",
+    "en": "Population Structure"
+   },
+   "q": {
+    "te": "జనాభా నిర్మాణ రేఖాచిత్రం యొక్క దిగువ భాగం ఏ సమూహాన్ని సూచిస్తుంది?",
+    "en": "Which group of people is represented by the bottom part of a population structure diagram?"
+   },
+   "options": {
+    "te": [
+     "పని చేసే వయోజనులు",
+     "పిల్లలు మరియు యువకులు (teenagers)",
+     "వృద్ధులు",
+     "వలసదారులు"
+    ],
+    "en": [
+     "Working adults",
+     "Children and teenagers",
+     "Elderly people",
+     "Migrants"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "జనాభా పిరమిడ్ యొక్క దిగువ భాగం జనాభాలోని యువ విభాగాన్ని, ప్రత్యేకంగా పిల్లలు మరియు యువకులను సూచిస్తుంది.",
+    "en": "The bottom section of a population pyramid represents the younger segment of the population, specifically children and teenagers."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T22-0058",
+   "section": {
+    "te": "Population Pyramid",
+    "en": "Population Pyramid"
+   },
+   "q": {
+    "te": "ఇటీవలి సంవత్సరాలలో, భారతదేశ జనాభా పిరమిడ్ గంట ఆకారంలో (bell-shaped) మారింది. ఈ పిరమిడ్‌లో ఇరుకైన పునాది (narrower base) ప్రత్యేకంగా దేనిని సూచిస్తుంది?",
+    "en": "In recent years, India's population pyramid has become more bell-shaped. What does a narrower base in this pyramid specifically signify?"
+   },
+   "options": {
+    "te": [
+     "కుటుంబాలు మునుపటి కంటే ఎక్కువ మంది పిల్లలను కలిగి ఉన్నాయి",
+     "కుటుంబాలు మునుపటి కంటే తక్కువ మంది పిల్లలను కలిగి ఉన్నాయి",
+     "పిల్లలలో మరణాల రేటు పెరిగింది",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Families are having more children than before",
+     "Families are having fewer children than before",
+     "The death rate among children has increased",
+     "None of these"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "జనాభా పిరమిడ్‌లో ఇరుకైన పునాది జనన రేటు తగ్గడాన్ని సూచిస్తుంది, అంటే కుటుంబాలు తక్కువ మంది పిల్లలను కలిగి ఉన్నాయని అర్థం.",
+    "en": "A narrower base in the population pyramid indicates a decline in the birth rate, meaning families are having fewer children."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T22-0078",
+   "section": {
+    "te": "Demography Definition",
+    "en": "Demography Definition"
+   },
+   "q": {
+    "te": "అందించిన నిర్వచనం ప్రకారం ఈ క్రింది వాటిలో ఏది జనాభా శాస్త్రం (Demography) అధ్యయనంలో చేర్చబడలేదు?",
+    "en": "Which of the following is NOT included in the study of demography according to the definition provided?"
+   },
+   "options": {
+    "te": [
+     "జనాభా పరిమాణం",
+     "జనాభా నిర్మాణం",
+     "జననాలు మరియు మరణాల వల్ల కలిగే మార్పులు",
+     "నేల కూర్పు అధ్యయనం"
+    ],
+    "en": [
+     "Population size",
+     "Population structure",
+     "Changes due to births and deaths",
+     "Study of soil composition"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జనాభా శాస్త్రంలో జనాభా పరిమాణం, నిర్మాణం మరియు జననాలు, మరణాలు మరియు వలసల నుండి వచ్చే మార్పుల అధ్యయనం ఉంటుంది, కానీ నేల కూర్పు ఉండదు.",
+    "en": "Demography includes the study of population size, structure, and changes from births, deaths, and migration, but not soil composition."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T22-0116",
+   "section": {
+    "te": "Significance of Population Change",
+    "en": "Significance of Population Change"
+   },
+   "q": {
+    "te": "క్రింది ప్రకటనలను పరిశీలించండి: ఒక ప్రాంతంలో జనాభా మార్పు దేనికి సూచిక?\n1. ఆర్థిక అభివృద్ధి\n2. సామాజిక అభ్యున్నతి\n3. చారిత్రక మరియు సాంస్కృతిక నేపథ్యం\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements: Population change in an area is an indicator of:\n1. Economic development\n2. Social upliftment\n3. Historical and cultural background\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జనాభా మార్పు ఒక ప్రాంతం యొక్క ఆర్థిక, సామాజిక, చారిత్రక మరియు సాంస్కృతిక స్థితిని ప్రతిబింబిస్తుంది.",
+    "en": "Population change reflects the economic, social, historical, and cultural state of a region."
+   }
+  }
+ ]
+}

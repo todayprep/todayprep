@@ -1,0 +1,942 @@
+{
+ "id": "geo-04-g1-3",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Landforms – క్విజ్ 3",
+  "en": "Landforms – Quiz 3"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T04-0015",
+   "section": {
+    "te": "Mountain Environment",
+    "en": "Mountain Environment"
+   },
+   "q": {
+    "te": "ప్రతిపాదన (A): పర్యాటకుల అధిక రాక పర్వత పర్యావరణంపై ఒత్తిడిని కలిగిస్తుంది.\nకారణం (R): పర్వత పర్యావరణం చాలా సున్నితమైనది (fragile).",
+    "en": "Assertion (A): An excessive inflow of visitors can put the mountain environment under pressure.\nReason (R): The mountain environment is fragile."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పర్వత పర్యావరణం సున్నితమైనది కాబట్టి, అధిక పర్యాటకం దానిపై ఒత్తిడిని పెంచుతుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The mountain environment is fragile, which is why excessive tourism puts it under pressure."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T04-0236",
+   "section": {
+    "te": "Factors governing coastal landforms",
+    "en": "Factors governing coastal landforms"
+   },
+   "q": {
+    "te": "తరంగాల చర్య కాకుండా, తీరప్రాంత భూస్వరూపాలు క్రింది వాటిలో వేటిపై ఆధారపడి ఉంటాయి?\n1. భూమి మరియు సముద్రపు అడుగుభాగం యొక్క ఆకృతి\n2. తీరం సముద్రం వైపు ముందుకు సాగుతోందా (ఉన్మజ్జితం) లేదా భూమి వైపు వెనక్కి తగ్గుతోందా (నిమజ్జితం)\nసరైన సమాధానాన్ని ఎంచుకోండి:",
+    "en": "Other than wave action, coastal landforms depend upon which of the following factors?\n1. The configuration of land and sea floor\n2. Whether the coast is advancing seaward or retreating landward\nSelect the correct answer using the code given below:"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అలల చర్యతో పాటు తీర భూస్వరూపాలు భూమి-సముద్రపు అడుగు ఆకృతి మరియు తీరం ముందుకు సాగుతోందా లేదా మునుగుతోందా అనే అంశాలపై ఆధారపడి ఉంటాయి.",
+    "en": "Apart from wave action, coastal landforms depend on the configuration of land and sea floor, and whether the coast is advancing seaward or retreating landward."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T04-0101",
+   "section": {
+    "te": "Karst Topography",
+    "en": "Karst Topography"
+   },
+   "q": {
+    "te": "సున్నపురాయి లేదా కరిగే స్వభావం గల శిలలు ఉన్న ప్రాంతాలలో భూగర్భ జలాలు రసాయనిక శైథిల్యం మరియు కోత ద్వారా ఏర్పరచే విశిష్ట స్థలాకృతిని ఏమంటారు?",
+    "en": "Underground water, particularly in regions of limestone or soluble rocks, creates a unique landscape through chemical weathering and erosion known as:"
+   },
+   "options": {
+    "te": [
+     "బాడ్‌ల్యాండ్ స్థలాకృతి",
+     "అగ్నిపర్వత స్థలాకృతి",
+     "హిమానీనద స్థలాకృతి",
+     "కార్స్ట్ స్థలాకృతి (Karst topography)"
+    ],
+    "en": [
+     "Badland topography",
+     "Volcanic topography",
+     "Glacial topography",
+     "Karst topography"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సున్నపురాయి వంటి కరిగే శిలలు ఉన్న ప్రాంతాలలో భూగర్భ జలాలు రసాయనిక శైథిల్యం, కోత చర్యల ద్వారా కార్స్ట్ స్థలాకృతిని ఏర్పరుస్తాయి.",
+    "en": "Underground water forms Karst topography in soluble rock regions like limestone through chemical weathering and erosion."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T04-0017",
+   "section": {
+    "te": "Valley Definition",
+    "en": "Valley Definition"
+   },
+   "q": {
+    "te": "కొండలు లేదా పర్వతాల మధ్య ఉండే తక్కువ ఎత్తు గల ప్రాంతాన్ని, తరచుగా నది ప్రవహించే చోటును ఏమంటారు?",
+    "en": "A lower area between hills or mountains, often with a river flowing through it, is known as a:"
+   },
+   "options": {
+    "te": [
+     "శిఖరం",
+     "పీఠభూమి",
+     "లోయ (Valley)",
+     "శ్రేణి"
+    ],
+    "en": [
+     "Summit",
+     "Plateau",
+     "Valley",
+     "Range"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కొండలు లేదా పర్వతాల మధ్య ఉండి, నది లేదా ప్రవాహం ప్రవహించే లోతట్టు ప్రాంతాన్ని లోయ అని పిలుస్తారు.",
+    "en": "A valley is defined as a lower area between hills or mountains, frequently containing a river or stream."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T04-0291",
+   "section": {
+    "te": "Definition of Stress",
+    "en": "Definition of Stress"
+   },
+   "q": {
+    "te": "భూస్వరూప ప్రక్రియల సందర్భంలో, 'యూనిట్ వైశాల్యానికి ప్రయోగించిన శక్తి'ని ఏమంటారు?",
+    "en": "In the context of geomorphic processes, what is 'force applied per unit area' called?"
+   },
+   "options": {
+    "te": [
+     "వైకల్యం (Deformation)",
+     "ఒత్తిడి (Stress)",
+     "సౌరపుటం (Insolation)",
+     "ప్రవణత (Gradient)"
+    ],
+    "en": [
+     "Deformation",
+     "Stress",
+     "Insolation",
+     "Gradient"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భూమిలోని పదార్థాలపై యూనిట్ వైశాల్యానికి ప్రయోగించే శక్తిని ఒత్తిడి (stress) అని పాఠ్యాంశం నిర్వచిస్తుంది.",
+    "en": "The text defines stress as the force applied per unit area on earth materials."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T04-0048",
+   "section": {
+    "te": "Neydal occupation",
+    "en": "Neydal occupation"
+   },
+   "q": {
+    "te": "తీర ప్రాంతాలలోని 'నెయ్దల్' భూభాగంలో ప్రధాన వృత్తులు ఏమిటి?",
+    "en": "What are the main occupations in the 'Neydal' landscape of the coastal regions?"
+   },
+   "options": {
+    "te": [
+     "ప్రయాణం మరియు పోరాటం",
+     "చేపల వేట మరియు సముద్రయానం",
+     "వేట మరియు సేకరణ",
+     "వ్యవసాయం మరియు పశువుల పెంపకం"
+    ],
+    "en": [
+     "Journeying and fighting",
+     "Fishing and seafaring",
+     "Hunting and gathering",
+     "Farming and cattle rearing"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "నెయ్దల్ భూభాగం తీర ప్రాంతాలను సూచిస్తుంది, ఇక్కడ ప్రజలు చేపల వేట మరియు సముద్రయానంలో నిమగ్నమై ఉంటారు.",
+    "en": "The Neydal landscape represents coastal regions where people engage in fishing and seafaring."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T04-0283",
+   "section": {
+    "te": "Rural settlement forms",
+    "en": "Rural settlement forms"
+   },
+   "q": {
+    "te": "టోపోగ్రాఫికల్ మ్యాప్‌లో క్రింది వాటిలో ఏ రకమైన స్థావరాలను గ్రామీణ స్థావరాలుగా గుర్తించవచ్చు?",
+    "en": "Which of the following settlement patterns can be identified as rural settlements on a topographical map?"
+   },
+   "options": {
+    "te": [
+     "కాంపాక్ట్ (Compact)",
+     "స్కాటర్డ్ (Scattered)",
+     "లీనియర్ (Linear)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Compact",
+     "Scattered",
+     "Linear",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మ్యాప్‌లో కాంపాక్ట్, స్కాటర్డ్, లీనియర్ మరియు సర్క్యులర్ అనే నాలుగు రకాల గ్రామీణ స్థావరాలను గుర్తించవచ్చని పాఠ్యం పేర్కొంది.",
+    "en": "Four types of rural settlements may be identified on the map: Compact, Scattered, Linear, and Circular."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T04-0046",
+   "section": {
+    "te": "Mullai occupation",
+    "en": "Mullai occupation"
+   },
+   "q": {
+    "te": "పచ్చిక బయళ్ళు మరియు అడవులతో కూడి, పశువుల పెంపకం ప్రధాన వృత్తిగా ఉన్న తిణై భూభాగం ఏది?",
+    "en": "Which Tiṇai landscape is characterized by grasslands and forests with cattle rearing as the main occupation?"
+   },
+   "options": {
+    "te": [
+     "మరుదం",
+     "ముల్లై",
+     "కురింజి",
+     "పాలై"
+    ],
+    "en": [
+     "Marudam",
+     "Mullai",
+     "Kuriñji",
+     "Pālai"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ముల్లై అంటే పచ్చిక బయళ్ళు మరియు అడవులు, ఇక్కడ ప్రాథమిక కార్యకలాపం పశువుల పెంపకం.",
+    "en": "Mullai refers to grasslands and forests where the primary activity is cattle rearing."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T04-0261",
+   "section": {
+    "te": "Alkali flats",
+    "en": "Alkali flats"
+   },
+   "q": {
+    "te": "ఉప్పు నిక్షేపాలతో నిండిన ప్లాయా మైదానాన్ని ఏమంటారు?",
+    "en": "What is a playa plain called when it is covered with salt deposits?"
+   },
+   "options": {
+    "te": [
+     "ఇన్సెల్ బర్గ్",
+     "ఆల్కలీ ఫ్లాట్స్",
+     "పెడిప్లెయిన్",
+     "సాల్ట్ పాన్"
+    ],
+    "en": [
+     "Inselberg",
+     "Alkali flats",
+     "Pediplain",
+     "Salt pan"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఉప్పుతో నిండిన ప్లాయా మైదానాన్ని 'ఆల్కలీ ఫ్లాట్స్' అని పిలుస్తారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text specifically names a playa plain covered by salts as 'alkali flats'."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T04-0299",
+   "section": {
+    "te": "Chemical Processes",
+    "en": "Chemical Processes"
+   },
+   "q": {
+    "te": "భూమిలోని పదార్థాలపై పనిచేసే రసాయన ప్రక్రియల సాధారణ ఫలితం ఏమిటి?",
+    "en": "What is a common result of chemical processes acting on earth materials?"
+   },
+   "options": {
+    "te": [
+     "రోజువారీ ఉష్ణోగ్రత పరిధిని తగ్గించడం",
+     "విరూపణ ఒత్తిళ్లను సృష్టించడం",
+     "ఖనిజాల కాఠిన్యాన్ని పెంచడం",
+     "రేణువుల మధ్య బంధాలు సడలడం"
+    ],
+    "en": [
+     "Reducing the daily range of temperature",
+     "Creating shear stresses",
+     "Increasing the hardness of minerals",
+     "Loosening of bonds between grains"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రసాయన ప్రక్రియలు సాధారణంగా రేణువుల మధ్య బంధాలు సడలడానికి లేదా కరిగే ఖనిజాలు కరిగిపోవడానికి దారితీస్తాయి.",
+    "en": "Chemical processes typically lead to the loosening of bonds between grains or the dissolving of soluble minerals."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T04-0210",
+   "section": {
+    "te": "Glacier movement cause",
+    "en": "Glacier movement cause"
+   },
+   "q": {
+    "te": "హిమానీనదాలు భూమిపై కదలడానికి ప్రాథమికంగా ఏ శక్తి కారణం?",
+    "en": "Glaciers move across the land primarily due to which of the following forces?"
+   },
+   "options": {
+    "te": [
+     "గురుత్వాకర్షణ బలం (Force of gravity)",
+     "అపకేంద్ర బలం",
+     "కొరియోలిస్ బలం",
+     "టెక్టానిక్ ఉద్ధరణ"
+    ],
+    "en": [
+     "Force of gravity",
+     "Centrifugal force",
+     "Coriolis force",
+     "Tectonic uplift"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "హిమానీనదాలు కదలడానికి ప్రధాన కారణం గురుత్వాకర్షణ బలం.",
+    "en": "Glaciers move basically because of the force of gravity."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T04-0001",
+   "section": {
+    "te": "Major Landforms",
+    "en": "Major Landforms"
+   },
+   "q": {
+    "te": "భూస్వరూపాలను (Landforms) స్థూలంగా ఎన్ని ప్రధాన వర్గాలుగా విభజించవచ్చు?",
+    "en": "Into how many major categories can landforms be broadly divided?"
+   },
+   "options": {
+    "te": [
+     "ఐదు",
+     "మూడు",
+     "నాలుగు",
+     "రెండు"
+    ],
+    "en": [
+     "Five",
+     "Three",
+     "Four",
+     "Two"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, భూస్వరూపాలను పర్వతాలు, పీఠభూములు మరియు మైదానాలు అని మూడు వర్గాలుగా విభజించారు.",
+    "en": "Landforms are broadly divided into three categories: mountains, plateaus, and plains."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T04-0213",
+   "section": {
+    "te": "Tarn lakes",
+    "en": "Tarn lakes"
+   },
+   "q": {
+    "te": "హిమానీనదం కనుమరుగైన తర్వాత సర్క్‌లలో ఏర్పడే సరస్సులను ఏమని పిలుస్తారు?",
+    "en": "Lakes that form within cirques after the glacier disappears are known as:"
+   },
+   "options": {
+    "te": [
+     "టార్న్ సరస్సులు (Tarn lakes)",
+     "క్రేటర్ సరస్సులు",
+     "ప్లాయా సరస్సులు",
+     "గుర్రపునాడా సరస్సులు (Ox-bow lakes)"
+    ],
+    "en": [
+     "Tarn lakes",
+     "Crater lakes",
+     "Playa lakes",
+     "Ox-bow lakes"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "హిమనీనదం కరిగిపోయిన తర్వాత సర్క్ లోపల నిలిచే నీటి సరస్సులను సర్క్ లేదా టార్న్ సరస్సులు (tarn lakes) అంటారు.",
+    "en": "A lake seen within a cirque after the glacier disappears is called a cirque or tarn lake."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T04-0021",
+   "section": {
+    "te": "Mount Kailash Religions",
+    "en": "Mount Kailash Religions"
+   },
+   "q": {
+    "te": "టిబెట్‌లోని కైలాస పర్వతాన్ని క్రింది ఏ మతాల అనుయాయులు పవిత్రమైనదిగా భావిస్తారు?\n1. హిందూమతం\n2. బౌద్ధమతం\n3. జైనమతం\n4. బోన్\nక్రింద ఇచ్చిన కోడ్‌ను ఉపయోగించి సరైన సమాధానాన్ని ఎంచుకోండి:",
+    "en": "Mount Kailash in Tibet is held sacred by followers of which of the following religions?\n1. Hinduism\n2. Buddhism\n3. Jainism\n4. Bon\nSelect the correct answer using the code given below:"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "1, 2 మరియు 3 మాత్రమే",
+     "2, 3 మరియు 4 మాత్రమే",
+     "1, 2, 3 మరియు 4"
+    ],
+    "en": [
+     "1 and 2 only",
+     "1, 2 and 3 only",
+     "2, 3 and 4 only",
+     "1, 2, 3 and 4"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "టిబెట్‌లోని కైలాస పర్వతాన్ని హిందూ, బౌద్ధ, జైన మరియు బోన్ (పురాతన టిబెటన్ మతం) మతాల వారు పవిత్రంగా భావిస్తారు.",
+    "en": "Mount Kailash in Tibet is considered sacred by followers of Hinduism, Buddhism, Jainism, and Bon (an ancient Tibetan religion)."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T04-0129",
+   "section": {
+    "te": "Exogenic Actions",
+    "en": "Exogenic Actions"
+   },
+   "q": {
+    "te": "బహిర్జనిత శక్తుల చర్యల ఫలితంగా ఏమి జరుగుతుంది?",
+    "en": "The actions of exogenic forces result in:"
+   },
+   "options": {
+    "te": [
+     "ఎత్తుపల్లాల క్షీణత (Degradation)",
+     "బేసిన్ల భర్తీ (Aggradation)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Degradation of relief",
+     "Aggradation of basins",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "బహిర్జనిత శక్తులు ఎత్తులను తగ్గించడం (డిగ్రేడేషన్) మరియు పల్లాలను నింపడం (అగ్రేడేషన్) రెండింటికీ కారణమవుతాయి.",
+    "en": "Exogenic forces cause both the wearing down (degradation) of elevations and the filling up (aggradation) of depressions."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T04-0096",
+   "section": {
+    "te": "Sea Stacks Formation",
+    "en": "Sea Stacks Formation"
+   },
+   "q": {
+    "te": "సముద్రపు తోరణాలు (arches) కూలిపోయిన తర్వాత సముద్రంలో విడిగా మిగిలి ఉండే రాతి స్తంభాలను ఏమని పిలుస్తారు?",
+    "en": "Isolated pillars of rock left standing in the sea after sea arches collapse are known as:"
+   },
+   "options": {
+    "te": [
+     "యార్డాంగ్‌లు",
+     "స్టాక్‌లు (Stacks)",
+     "అరెట్‌లు",
+     "ఇసుక తిన్నెలు (Sand bars)"
+    ],
+    "en": [
+     "Yardangs",
+     "Stacks",
+     "Aretes",
+     "Sand bars"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సముద్ర తోరణాలు కూలిపోయిన తర్వాత స్వతంత్రంగా నిటారుగా నిలిచి ఉండే రాతి స్తంభాలను 'స్టాక్‌లు' అంటారు.",
+    "en": "Stacks are isolated pillars of rock left standing after sea arches collapse."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T04-0295",
+   "section": {
+    "te": "Climatic Controls",
+    "en": "Climatic Controls"
+   },
+   "q": {
+    "te": "వివిధ భూస్వరూప ప్రక్రియలను నియంత్రించే రెండు ముఖ్యమైన వాతావరణ అంశాలు ఏవి?",
+    "en": "Which two important climatic elements control various geomorphic processes?"
+   },
+   "options": {
+    "te": [
+     "ఉష్ణోగ్రత మరియు అవపాతం",
+     "గాలి మరియు తేమ",
+     "సౌరపుటం మరియు వాయు పీడనం",
+     "మంచు చొచ్చుకుపోవడం మరియు బాష్పీభవనం"
+    ],
+    "en": [
+     "Temperature and precipitation",
+     "Wind and humidity",
+     "Insolation and air pressure",
+     "Frost penetration and evaporation"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూస్వరూప ప్రక్రియలను నియంత్రించే రెండు ప్రాథమిక వాతావరణ అంశాలుగా ఉష్ణోగ్రత మరియు అవపాతాన్ని పాఠ్యాంశం గుర్తిస్తుంది.",
+    "en": "The text identifies temperature and precipitation as the two primary climatic elements controlling geomorphic processes."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T04-0097",
+   "section": {
+    "te": "Wave-cut Platforms",
+    "en": "Wave-cut Platforms"
+   },
+   "q": {
+    "te": "తీరప్రాంత కొండలు (cliffs) కోతకు గురై వెనక్కి తగ్గినప్పుడు వెనుక మిగిలిపోయే చదునైన ప్రాంతాలను ఏమంటారు?",
+    "en": "Flat areas left behind as coastal cliffs retreat due to wave erosion are called:"
+   },
+   "options": {
+    "te": [
+     "బ్లోఅవుట్‌లు",
+     "వెంటిఫాక్ట్‌లు",
+     "వేవ్-కట్ ప్లాట్‌ఫారమ్‌లు",
+     "మొరైన్‌లు"
+    ],
+    "en": [
+     "Blowouts",
+     "Ventifacts",
+     "Wave-cut platforms",
+     "Moraines"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సముద్రపు కొండలు వెనక్కి తగ్గే క్రమంలో వాటి అడుగున ఏర్పడే చదునైన భాగాన్ని వేవ్-కట్ ప్లాట్‌ఫారమ్ అంటారు.",
+    "en": "Wave-cut platforms are flat areas left behind as coastal cliffs retreat."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T04-0302",
+   "section": {
+    "te": "Gravity and Stress",
+    "en": "Gravity and Stress"
+   },
+   "q": {
+    "te": "దిగువ కదలికకు దిశాత్మక శక్తిగా ఉండటమే కాకుండా, భూమిలోని పదార్థాలపై గురుత్వాకర్షణ ఇంకా దేనిని కలిగిస్తుంది?",
+    "en": "Besides being a directional force for downslope movement, what else does gravity cause on earth's materials?"
+   },
+   "options": {
+    "te": [
+     "ఒత్తిళ్లు (Stresses)",
+     "అవపాతం",
+     "సౌరపుటం",
+     "అగ్నిపర్వత ప్రక్రియ"
+    ],
+    "en": [
+     "Stresses",
+     "Precipitation",
+     "Insolation",
+     "Volcanism"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "గురుత్వాకర్షణ దిగువ కదలికలను సక్రియం చేయడంతో పాటు, భూమిలోని పదార్థాలపై ఒత్తిడిని కూడా కలిగిస్తుందని పాఠ్యాంశం పేర్కొంది.",
+    "en": "Gravity, in addition to activating downslope movements, also causes stresses on earth's materials."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T04-0172",
+   "section": {
+    "te": "Plunge pools",
+    "en": "Plunge pools"
+   },
+   "q": {
+    "te": "నీటి తీవ్రమైన తాకిడి మరియు బండరాళ్ల భ్రమణం వల్ల జలపాతాల అడుగుభాగంలో ఏర్పడే పెద్ద, లోతైన గుంటలను ఏమంటారు?",
+    "en": "Large and deep holes formed at the base of waterfalls due to the sheer impact of water and rotation of boulders are called:"
+   },
+   "options": {
+    "te": [
+     "కెటిల్ రంధ్రాలు",
+     "పోట్‌హోల్స్",
+     "ప్లంజ్ పూల్స్ (Plunge pools)",
+     "గుర్రపునాడా సరస్సులు"
+    ],
+    "en": [
+     "Kettle holes",
+     "Potholes",
+     "Plunge pools",
+     "Oxbow lakes"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "జలపాతాల వద్ద నీటి వేగం మరియు బండరాళ్లు గుండ్రంగా తిరగడం వల్ల వాటి పాదాల వద్ద ఏర్పడే లోతైన భారీ గుంటలను ప్లంజ్ పూల్స్ అంటారు.",
+    "en": "Large, deep potholes formed at the base of waterfalls due to water impact and boulder rotation are termed plunge pools."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T04-0030",
+   "section": {
+    "te": "Nohkalikai Falls Location",
+    "en": "Nohkalikai Falls Location"
+   },
+   "q": {
+    "te": "340 మీటర్ల ఎత్తు నుండి కిందకు దూకే నోహ్కలికై జలపాతం ఏ పీఠభూమి నుండి జాలువారుతుంది?",
+    "en": "The Nohkalikai Falls, which plunge 340 metres, drop down from which plateau?"
+   },
+   "options": {
+    "te": [
+     "చిరపుంజి పీఠభూమి",
+     "ఛోటానాగ్‌పూర్ పీఠభూమి",
+     "దక్కన్ పీఠభూమి",
+     "మాల్వా పీఠభూమి"
+    ],
+    "en": [
+     "Cherrapunji Plateau",
+     "Chhota Nagpur Plateau",
+     "Deccan Plateau",
+     "Malwa Plateau"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నోహ్కలికై జలపాతం మేఘాలయలోని చిరపుంజి పీఠభూమి నుండి 340 మీటర్ల ఎత్తు నుండి క్రిందికి పడుతుంది.",
+    "en": "The Nohkalikai Falls drop down 340 metres from the Cherrapunji Plateau in Meghalaya."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T04-0080",
+   "section": {
+    "te": "Delta definition",
+    "en": "Delta definition"
+   },
+   "q": {
+    "te": "నది ప్రవాహ మార్గంలో డెల్టా ఎక్కడ ఏర్పడుతుంది?",
+    "en": "Where is a delta formed along the course of a river?"
+   },
+   "options": {
+    "te": [
+     "నది సముద్రం, మహాసముద్రం లేదా సరస్సులోకి కలిసే ముఖద్వారం వద్ద",
+     "భూగర్భ సున్నపురాయి గుహలలో మాత్రమే",
+     "ఎగువ భాగంలో నిటారైన లోయల వెంబడి",
+     "ఎత్తైన పర్వతాలలో నది జన్మించే మూల ప్రదేశం వద్ద"
+    ],
+    "en": [
+     "At the mouth of a river where it flows into a sea, ocean, or lake",
+     "Exclusively inside underground limestone caves",
+     "Along steep vertical drops in the river's upper course",
+     "At the source of a river where it originates in high mountains"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నది సముద్రం, మహాసముద్రం లేదా సరస్సులోకి ప్రవహించే ముఖద్వారం వద్ద తాను మోసుకొచ్చిన అవక్షేపాలను నిక్షిప్తం చేయడం ద్వారా డెల్టా ఏర్పడుతుంది.",
+    "en": "A delta forms at the mouth of a river where it empties into a body of water (such as a sea, ocean, or lake) and drops its sediment load."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T04-0083",
+   "section": {
+    "te": "Cirques Glacial Landforms",
+    "en": "Cirques Glacial Landforms"
+   },
+   "q": {
+    "te": "హిమానీనదం కోత వల్ల దాని ప్రారంభ భాగంలో (తల భాగంలో) ఏర్పడే గిన్నె ఆకారపు గుంటలను ఏమని పిలుస్తారు?",
+    "en": "Bowl-shaped depressions formed at the head of a glacier by glacial erosion are known as:"
+   },
+   "options": {
+    "te": [
+     "ఫ్యోర్డ్‌లు (Fjords)",
+     "మొరైన్‌లు (Moraines)",
+     "సర్క్‌లు (Cirques)",
+     "అరెట్‌లు (Aretes)"
+    ],
+    "en": [
+     "Fjords",
+     "Moraines",
+     "Cirques",
+     "Aretes"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "హిమానీనదం ప్రారంభ భాగంలో కోత చర్య వలన ఏర్పడే గిన్నె ఆకారపు పల్లపు ప్రాంతాలను సర్క్‌లు అంటారు.",
+    "en": "Cirques are bowl-shaped depressions formed at the head of a glacier through glacial erosion."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T04-0018",
+   "section": {
+    "te": "Aravalli Range",
+    "en": "Aravalli Range"
+   },
+   "q": {
+    "te": "హిమాలయాలతో పోలిస్తే ఆరావళి శ్రేణి ఎందుకు తక్కువ ఎత్తులో మరియు గుండ్రంగా ఉంటుంది?",
+    "en": "Why is the Aravalli Range shorter and more rounded compared to the Himalayas?"
+   },
+   "options": {
+    "te": [
+     "ఎందుకంటే అది ఒక పీఠభూమి",
+     "ఎందుకంటే అది యువ పర్వతం",
+     "ఎందుకంటే అది ఇంకా ఎత్తు పెరుగుతోంది",
+     "ఎందుకంటే అది చాలా పురాతనమైనది మరియు క్రమక్షయం వల్ల గుండ్రంగా మారింది"
+    ],
+    "en": [
+     "Because it is a plateau",
+     "Because it is young",
+     "Because it is still growing in height",
+     "Because it is much older and rounded by erosion"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఆరావళి శ్రేణి హిమాలయాల కంటే పురాతనమైనది మరియు క్రమక్షయం కారణంగా దాని శిఖరాలు గుండ్రంగా మారాయి.",
+    "en": "The Aravalli Range is older than the Himalayas and its peaks have been rounded over time by the process of erosion."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T04-0179",
+   "section": {
+    "te": "Alluvial fans formation",
+    "en": "Alluvial fans formation"
+   },
+   "q": {
+    "te": "ఎత్తైన ప్రాంతాల నుండి ప్రవహించే ప్రవాహాలు క్రింది ఏ ప్రాంతంలోకి ప్రవేశించినప్పుడు ఒండలి విసనకర్రలు (Alluvial fans) ఏర్పడతాయి?",
+    "en": "Alluvial fans are typically formed when streams flowing from higher levels break into:"
+   },
+   "options": {
+    "te": [
+     "పర్వతాలలోని నిటారైన గార్జ్ భాగాలు",
+     "నిట్టనిలువుగా పడిపోయే ఎత్తైన పీఠభూమి అంచులు",
+     "లోతైన సముద్ర కందకాలు",
+     "తక్కువ వాలు కలిగిన పాదపీఠ మైదానాలు (Foot slope plains)"
+    ],
+    "en": [
+     "Steep gorge sections of mountains",
+     "High plateau edges with vertical drops",
+     "Deep marine trenches",
+     "Foot slope plains of low gradient"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఎగువ ప్రాంతాల నుంచి ప్రవహించే నదులు తక్కువ వాలు గల పాదపీఠ మైదానాల్లోకి అడుగుపెట్టినప్పుడు మోసుకొచ్చిన బరువైన భారాన్ని నిక్షేపించి ఒండలి విసనకర్రలను ఏర్పరుస్తాయి.",
+    "en": "Alluvial fans develop where streams leaving mountains/high levels flow onto gentle foot slope plains, dumping coarse load."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T04-0076",
+   "section": {
+    "te": "Groundwater landforms",
+    "en": "Groundwater landforms"
+   },
+   "q": {
+    "te": "సున్నపురాయి వంటి శిలలను కరిగించడం ద్వారా భూగర్భ జలాలు సాధారణంగా క్రింది ఏ భూస్వరూపాలను సృష్టిస్తాయి?",
+    "en": "By dissolving rocks such as limestone, groundwater typically creates which of the following landforms?"
+   },
+   "options": {
+    "te": [
+     "U-ఆకారపు లోయలు",
+     "గుహలు మరియు సింక్‌హోల్స్ (sinkholes)",
+     "డెల్టాలు మరియు సహజ కట్టలు",
+     "తీరపు కొండలు మరియు బేలు"
+    ],
+    "en": [
+     "U-shaped valleys",
+     "Caves and sinkholes",
+     "Deltas and levees",
+     "Cliffs and bays"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భూగర్భ జలాలు సున్నపురాయి వంటి రాళ్లను కరిగించడం ద్వారా గుహలు మరియు సింక్‌హోల్స్‌ను ఏర్పరుస్తాయి.",
+    "en": "Groundwater dissolves soluble rocks like limestone to create subsurface caves and sinkholes."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T04-0148",
+   "section": {
+    "te": "Biological organism wedging",
+    "en": "Biological organism wedging"
+   },
+   "q": {
+    "te": "వానపాములు, చెదపురుగులు మరియు ఎలుకల వంటి జీవులు బొరియలు చేయడం ద్వారా శైథిల్యానికి ఎలా దోహదం చేస్తాయి?",
+    "en": "Burrowing and wedging by organisms such as earthworms, termites, and rodents primarily aids weathering by:"
+   },
+   "options": {
+    "te": [
+     "భూగర్భ జలాలు మట్టిలోకి ఇంకకుండా అడ్డుకోవడం ద్వారా",
+     "కొత్త ఉపరితలాలను రసాయన చర్యలకు గురిచేయడం మరియు గాలి, తేమ లోపలికి ప్రవేశించడానికి సహాయపడటం ద్వారా",
+     "శిలా ఖనిజాలు తక్షణమే కరిగిపోయేలా చేయడం ద్వారా",
+     "శిలల భౌతిక విచ్ఛిన్నాన్ని పూర్తిగా నిలిపివేయడం ద్వారా"
+    ],
+    "en": [
+     "Preventing groundwater from penetrating the subsoil",
+     "Exposing new surfaces to chemical attack and assisting air and moisture penetration",
+     "Causing instantaneous melting of rock minerals",
+     "Completely stopping mechanical disintegration of bedrock"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "బొరియలు చేసే జీవులు కొత్త శిలా ఉపరితలాలను రసాయన చర్యలకు బహిర్గతం చేస్తూ, గాలి మరియు తేమ లోపలికి చొచ్చుకుపోవడానికి మార్గం సుగమం చేస్తాయి.",
+    "en": "Burrowing organisms help expose new rock surfaces to chemical attack and facilitate penetration of moisture and air."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T04-0108",
+   "section": {
+    "te": "Lacoliths",
+    "en": "Lacoliths"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో 'లాకోలిత్' (lacolith) లక్షణాన్ని సరిగ్గా వివరించేది ఏది?",
+    "en": "Which of the following best describes a 'lacolith'?"
+   },
+   "options": {
+    "te": [
+     "సమతల అడుగుభాగం కలిగి, క్రింది నుండి గొట్టం వంటి మార్గంతో అనుసంధానించబడిన పెద్ద గుమ్మటం వంటి అంతర్గమ శిల",
+     "ఆకాశానికి పుటాకారంలో సాసర్ వలె ఏర్పడే శిల",
+     "భూమికి లంబంగా గోడ మాదిరిగా ఏర్పడే అంతర్గమ శిలా నిర్మాణం",
+     "క్షితిజ సమాంతరంగా ఉండే సన్నని అంతర్గమ శిలా పొర"
+    ],
+    "en": [
+     "A large dome-shaped intrusive body with a level base connected by a pipe-like conduit from below",
+     "A saucer-shaped intrusive body concave to the sky",
+     "A wall-like intrusive structure solidifying perpendicular to the ground",
+     "A thin horizontal sheet of intrusive rock running parallel to bedding planes"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సమతలమైన అడుగుభాగం కలిగి, క్రింది నుంచి గొట్టం వంటి మార్గం ద్వారా శిలాద్రవం చేరి ఏర్పడే పెద్ద గుమ్మటపు అంతర్గమ శిలలను లాకోలిత్‌లు అంటారు.",
+    "en": "Lacoliths are large dome-shaped intrusive bodies having a flat/level base and fed by a pipe-like conduit from beneath."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T04-0207",
+   "section": {
+    "te": "Cave tunnels",
+    "en": "Cave tunnels"
+   },
+   "q": {
+    "te": "రెండు చివర్లా రంధ్రాలు లేదా ద్వారాలు కలిగిన సున్నపురాయి గుహలను ఏమని పిలుస్తారు?",
+    "en": "Limestone caves that have openings at both ends are called:"
+   },
+   "options": {
+    "te": [
+     "హార్న్‌లు",
+     "లాపీస్",
+     "సొరంగాలు (Tunnels)",
+     "డోలైన్‌లు"
+    ],
+    "en": [
+     "Horns",
+     "Lapies",
+     "Tunnels",
+     "Dolines"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రెండు చివర్లలోనూ ద్వారాలు ఉండే గుహలను సొరంగాలు (tunnels) అని పిలుస్తారు.",
+    "en": "Directly that caves having openings at both ends are called tunnels."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T04-0065",
+   "section": {
+    "te": "Convection Currents",
+    "en": "Convection Currents"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): భూమి యొక్క ప్రావారంలో (mantle) సంవహన ప్రవాహాలు ఏర్పడతాయి.\nకారణం (R): భూకేంద్ర మండలం నుండి వచ్చే వేడి వల్ల ద్రవ పదార్థం పైకి లేస్తుంది మరియు చల్లని పదార్థం క్రిందికి పోతుంది.\nసరైన సమాధానాన్ని ఎంచుకోండి:",
+    "en": "Assertion (A): Convection currents are created within the Earth's mantle.\nReason (R): Heat from the Earth's core causes molten material to rise while cooler material sinks.\nSelect the correct answer:"
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూకేంద్ర మండలం నుండి వచ్చే వేడి వల్ల వేడి ద్రవ పదార్థం పైకి లేవడం మరియు చల్లని పదార్థం క్రిందికి పోవడం వల్ల ప్రావారంలో సంవహన ప్రవాహాలు ఏర్పడతాయి.",
+    "en": "Convection currents in the mantle are indeed caused by the rising of hot molten material and the sinking of cooler material due to heat from the core."
+   }
+  }
+ ]
+}

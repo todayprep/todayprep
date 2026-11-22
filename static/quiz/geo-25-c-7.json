@@ -1,0 +1,942 @@
+{
+ "id": "geo-25-c-7",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Agriculture – క్విజ్ 7",
+  "en": "Agriculture – Quiz 7"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T25-0347",
+   "section": {
+    "te": "Economic reforms impact",
+    "en": "Economic reforms impact"
+   },
+   "q": {
+    "te": "1990లలో ప్రారంభమైన ఏ ఆర్థిక విధానం భారత వ్యవసాయ అభివృద్ధి గమనాన్ని ప్రభావితం చేసింది?",
+    "en": "Which economic policy initiation in the 1990s influenced the course of development of Indian agriculture?"
+   },
+   "options": {
+    "te": [
+     "వాణిజ్య బ్యాంకుల జాతీయీకరణ",
+     "వ్యవసాయ ఎగుమతులపై పూర్తి ప్రభుత్వ గుత్తాధిపత్యం",
+     "సరళీకరణ మరియు స్వేచ్ఛా మార్కెట్ ఆర్థిక వ్యవస్థ",
+     "వ్యవసాయ భూముల బలవంతపు సామూహికీకరణ"
+    ],
+    "en": [
+     "Nationalisation of commercial banks",
+     "Complete state monopoly on agricultural export",
+     "Liberalisation and free market economy",
+     "Forced collectivisation of agricultural land"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "1990లలో చేపట్టిన సరళీకరణ మరియు స్వేచ్ఛా మార్కెట్ ఆర్థిక విధానాలు భారతదేశ వ్యవసాయ రంగ అభివృద్ధిపై గణనీయమైన ప్రభావం చూపాయి.",
+    "en": "The initiation of liberalisation and a free market economy in the 1990s influenced the course of agricultural development in India."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T25-0267",
+   "section": {
+    "te": "Regional Cropping Patterns",
+    "en": "Regional Cropping Patterns"
+   },
+   "q": {
+    "te": "భారతదేశంలోని దక్షిణ ప్రాంతాలలో పంట కాలాల (ఖరీఫ్, రబీ, జైద్) మధ్య వ్యత్యాసం ఎందుకు స్పష్టంగా కనిపించదు?",
+    "en": "Why is the distinction between cropping seasons (Kharif, Rabi, Zaid) NOT clearly found in the southern parts of India?"
+   },
+   "options": {
+    "te": [
+     "శీతాకాలంలో వర్షపాతం లేకపోవడం వల్ల",
+     "అధిక ఉష్ణోగ్రతలు ఏడాది పొడవునా ఉష్ణమండల పంటలను పండించడానికి అనుమతించడం వల్ల",
+     "సారవంతమైన నేల లేకపోవడం వల్ల",
+     "కేవలం సమశీతోష్ణ పంటలు మాత్రమే ఉండటం వల్ల"
+    ],
+    "en": [
+     "Due to lack of rainfall in winter",
+     "Due to high temperatures allowing tropical crops year-round",
+     "Due to the absence of fertile soil",
+     "Due to the prevalence of only temperate crops"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "దక్షిణ భారతదేశంలో, నేలలో తేమ అందుబాటులో ఉంటే ఏడాది పొడవునా ఉష్ణమండల పంటలను పండించడానికి అధిక ఉష్ణోగ్రతలు వీలు కల్పిస్తాయి, దీనివల్ల కాలాల వ్యత్యాసం తక్కువగా ఉంటుంది.",
+    "en": "In southern India, high temperatures allow tropical crops to be grown at any time of the year if soil moisture is available, making seasonal distinctions less relevant."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T25-0128",
+   "section": {
+    "te": "Rice Production Rank",
+    "en": "Rice Production Rank"
+   },
+   "q": {
+    "te": "వరి ఉత్పత్తిలో ప్రపంచంలో భారతదేశం ఎన్నో స్థానంలో ఉంది?",
+    "en": "What is India's rank in the world in terms of rice production?"
+   },
+   "options": {
+    "te": [
+     "రెండవ",
+     "మొదటి",
+     "మూడవ",
+     "నాల్గవ"
+    ],
+    "en": [
+     "Second",
+     "First",
+     "Third",
+     "Fourth"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, చైనా తర్వాత ప్రపంచంలో వరిని అత్యధికంగా ఉత్పత్తి చేసే దేశం భారతదేశం (రెండవ స్థానం).",
+    "en": "India is the second largest producer of rice in the world, with China being the first."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T25-0103",
+   "section": {
+    "te": "Forest Policy",
+    "en": "Forest Policy"
+   },
+   "q": {
+    "te": "జాతీయ అటవీ విధానం (1952) ప్రకారం, పర్యావరణ సమతుల్యతను కాపాడటానికి భారతదేశంలో ఉండాల్సిన అటవీ విస్తీర్ణం శాతం ఎంత?",
+    "en": "According to the National Forest Policy (1952), what is the desired percentage of forest area in India for maintaining ecological balance?"
+   },
+   "options": {
+    "te": [
+     "25 శాతం",
+     "21 శాతం",
+     "33 శాతం",
+     "50 శాతం"
+    ],
+    "en": [
+     "25 per cent",
+     "21 per cent",
+     "33 per cent",
+     "50 per cent"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పర్యావరణ సమతుల్యత కోసం భౌగోళిక వైశాల్యంలో 33 శాతం అటవీ విస్తీర్ణం ఉండాలని 1952 నాటి జాతీయ అటవీ విధానం పేర్కొంది.",
+    "en": "The National Forest Policy of 1952 outlined that 33% of the geographical area should be under forest cover for ecological balance."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T25-0356",
+   "section": {
+    "te": "Dryland Cropping Pattern",
+    "en": "Dryland Cropping Pattern"
+   },
+   "q": {
+    "te": "భారతదేశంలోని విశాలమైన వర్షాధార మెట్ట ప్రాంతాలలో (డ్రైల్యాండ్స్) ప్రధానంగా ఏ పంటలను సాగు చేస్తారు?",
+    "en": "The vast rainfed dryland areas of India mostly grow which of the following crops?"
+   },
+   "options": {
+    "te": [
+     "ముతక తృణధాన్యాలు",
+     "పప్పుధాన్యాలు మరియు నూనెగింజలు",
+     "A మరియు B రెండూ",
+     "జనపనార మరియు చెరకు"
+    ],
+    "en": [
+     "Coarse cereals",
+     "Pulses and oilseeds",
+     "Both A and B",
+     "Jute and sugarcane"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "దేశంలోని వర్షాధార మెట్ట ప్రాంతాలలో ప్రధానంగా ముతక తృణధాన్యాలు, పప్పుధాన్యాలు మరియు నూనెగింజలను సాగు చేస్తారు.",
+    "en": "The vast rainfed drylands mostly grow coarse cereals, pulses, and oilseeds, which have low yields."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T25-0221",
+   "section": {
+    "te": "Dairy Farming Features",
+    "en": "Dairy Farming Features"
+   },
+   "q": {
+    "te": "పంటల సాగు వలె కాకుండా, సంవత్సరం పొడుగునా ఎటువంటి 'ఆఫ్ సీజన్' (విరామ కాలం) ఉండని వ్యవసాయ విధానం ఏది?",
+    "en": "Which of the following types of farming is characterized by having 'no off season' during the year, unlike crop raising?"
+   },
+   "options": {
+    "te": [
+     "పాడి వ్యవసాయం (డైరీ ఫార్మింగ్)",
+     "ప్రాచీన జీవనాధార వ్యవసాయం",
+     "విస్తృత వాణిజ్య ధాన్య వ్యవసాయం",
+     "మధ్యధరా వ్యవసాయం"
+    ],
+    "en": [
+     "Dairy farming",
+     "Primitive subsistence agriculture",
+     "Extensive commercial grain farming",
+     "Mediterranean agriculture"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాడి వ్యవసాయంలో పశువులకు దాణా వేయడం, పాలు పితకడం వంటి నిరంతర పనులు ఉంటాయి కాబట్టి, పంటల సాగులాగా ఇందులో సంవత్సరం పొడుగునా విరామ కాలం (ఆఫ్ సీజన్) ఉండదు.",
+    "en": "Dairy farming involves continuous and rigorous care in feeding and milching animals, meaning there is no off season during the year unlike crop cultivation."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T25-0005",
+   "section": {
+    "te": "Harappan Agriculture",
+    "en": "Harappan Agriculture"
+   },
+   "q": {
+    "te": "హరప్పా నాగరికత ప్రజల ప్రధాన పంటలు ఏవి?",
+    "en": "Which of the following were the staple crops of the Harappan civilization?"
+   },
+   "options": {
+    "te": [
+     "వరి మరియు చిరుధాన్యాలు",
+     "బార్లీ మరియు గోధుమలు",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Rice and Millets",
+     "Barley and Wheat",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "హరప్పా ప్రజల ప్రధాన పంటలు బార్లీ మరియు గోధుమలు అని మూల పాఠం స్పష్టంగా పేర్కొంది.",
+    "en": "Barley and wheat were the staple crops of the Harappans."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T25-0083",
+   "section": {
+    "te": "Agricultural Heritage",
+    "en": "Agricultural Heritage"
+   },
+   "q": {
+    "te": "కింది వ్యవసాయ వారసత్వ వ్యవస్థలను వాటి సంబంధిత రాష్ట్రాలతో జతపరచండి:\n1. కుంకుమపువ్వు సాగు - i. కేరళ\n2. సముద్ర మట్టానికి దిగువన ఉండే పద్ధతులు - ii. కాశ్మీర్\n3. అటవీ నిర్వహణ ఏకీకరణ - iii. ఒడిశా",
+    "en": "Match the following agricultural heritage systems with their respective states:\n1. Saffron farming - i. Kerala\n2. Below-sea-level methods - ii. Kashmir\n3. Forest management integration - iii. Odisha"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-i, 3-iii",
+     "1-ii, 2-iii, 3-i",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii"
+    ],
+    "en": [
+     "1-ii, 2-i, 3-iii",
+     "1-ii, 2-iii, 3-i",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, కుంకుమపువ్వు కాశ్మీర్‌లో, సముద్ర మట్టానికి దిగువన ఉండే పద్ధతులు కేరళలో మరియు అటవీ నిర్వహణ ఏకీకరణ ఒడిశాలో ఉన్నాయి.",
+    "en": "Saffron is farmed in Kashmir, below-sea-level methods are in Kerala, and forest management integration is in Odisha."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T25-0120",
+   "section": {
+    "te": "Regional Farming Names",
+    "en": "Regional Farming Names"
+   },
+   "q": {
+    "te": "ఛత్తీస్‌గఢ్‌లోని బస్తర్ జిల్లాలో 'నరికి కాల్చివేసే' వ్యవసాయాన్ని ఏమని పిలుస్తారు?",
+    "en": "What is the name of 'slash and burn' agriculture in the Bastar district of Chhattisgarh?"
+   },
+   "options": {
+    "te": [
+     "ఝుమ్మింగ్ (Jhumming)",
+     "బేవార్ (Bewar)",
+     "దీపా (Dipa)",
+     "పామ్లౌ (Pamlou)"
+    ],
+    "en": [
+     "Jhumming",
+     "Bewar",
+     "Dipa",
+     "Pamlou"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఛత్తీస్‌గఢ్‌లోని బస్తర్ జిల్లా మరియు అండమాన్ నికోబార్ దీవులలో నరికి కాల్చివేసే వ్యవసాయాన్ని 'దీపా' అని పిలుస్తారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text identifies 'Dipa' as the name for slash and burn agriculture in the Bastar district of Chhattisgarh and the Andaman and Nicobar Islands."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T25-0131",
+   "section": {
+    "te": "Paddy Varieties",
+    "en": "Paddy Varieties"
+   },
+   "q": {
+    "te": "ఒకే సంవత్సరంలో ఆస్ (Aus), అమన్ (Aman) మరియు బోరో (Boro) అనే మూడు వరి పంటలను ఈ క్రింది ఏ రాష్ట్రాల్లో పండిస్తారు?",
+    "en": "In which of the following states are three crops of paddy, namely Aus, Aman, and Boro, grown in a single year?"
+   },
+   "options": {
+    "te": [
+     "తమిళనాడు, కేరళ మరియు ఆంధ్రప్రదేశ్",
+     "అస్సాం, పశ్చిమ బెంగాల్ మరియు ఒడిశా",
+     "పంజాబ్, హర్యానా మరియు రాజస్థాన్",
+     "ఉత్తర ప్రదేశ్, బీహార్ మరియు మహారాష్ట్ర"
+    ],
+    "en": [
+     "Tamil Nadu, Kerala and Andhra Pradesh",
+     "Assam, West Bengal and Odisha",
+     "Punjab, Haryana and Rajasthan",
+     "Uttar Pradesh, Bihar and Maharashtra"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అస్సాం, పశ్చిమ బెంగాల్ మరియు ఒడిశా రాష్ట్రాల్లో సంవత్సరానికి మూడు వరి పంటలు (ఆస్, అమన్ మరియు బోరో) పండుతాయి.",
+    "en": "Assam, West Bengal, and Odisha are the states where three crops of paddy (Aus, Aman, and Boro) are grown annually."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T25-0057",
+   "section": {
+    "te": "Indian seed drill",
+    "en": "Indian seed drill"
+   },
+   "q": {
+    "te": "పురాతన భారతీయ విత్తన గొర్రు (seed drill) ఒక అద్భుతమైన ఆవిష్కరణగా పరిగణించబడింది, ఎందుకంటే ఇది ఈ క్రింది ఏ పనులను ఒకటిగా కలిపింది?",
+    "en": "The ancient Indian seed drill was considered an ingenious invention because it combined which of the following operations into one?"
+   },
+   "options": {
+    "te": [
+     "నేల తయారీ మరియు విత్తనాలు నాటడం మాత్రమే",
+     "విత్తనాలు నాటడం మరియు చాలును (furrow) మూసివేయడం మాత్రమే",
+     "నేల తయారీ, విత్తనాలు నాటడం మరియు చాలును మూసివేయడం",
+     "నేల తయారీ, నీటి పారుదల మరియు విత్తనాలు నాటడం"
+    ],
+    "en": [
+     "Soil preparation and seed planting only",
+     "Seed planting and closing of the furrow only",
+     "Soil preparation, seed planting, and closing of the furrow",
+     "Soil preparation, irrigation, and seed planting"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతీయ విత్తన గొర్రు నేల తయారీ, విత్తనాలు నాటడం మరియు చాలును మూసివేయడం వంటి పనులను ఒకేసారి చేసేది, దీనివల్ల మూడు దశల పని ఒకే దశకు తగ్గింది.",
+    "en": "The Indian seed drill performed soil preparation, seed planting, and closing the furrow simultaneously, reducing labor from a three-step to a one-step operation."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T25-0016",
+   "section": {
+    "te": "Harappan Rice Presence",
+    "en": "Harappan Rice Presence"
+   },
+   "q": {
+    "te": "హరప్పా ప్రాంతాల నుండి లభించిన పురావస్తు ఆధారాలు ఏ సహస్రాబ్దిలో వరి ఉన్నట్లు సూచిస్తున్నాయి?",
+    "en": "Archaeological evidence from Harappan sites points to the presence of rice in which millennium?"
+   },
+   "options": {
+    "te": [
+     "క్రీస్తుపూర్వం 8వ సహస్రాబ్ది",
+     "క్రీస్తుపూర్వం 1వ సహస్రాబ్ది",
+     "క్రీస్తుపూర్వం 3వ సహస్రాబ్ది",
+     "క్రీస్తుపూర్వం 7వ సహస్రాబ్ది"
+    ],
+    "en": [
+     "8th millennium BCE",
+     "1st millennium BCE",
+     "3rd millennium BCE",
+     "7th millennium BCE"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "గంగా మైదానంలో వరి అంతకుముందే ఉన్నప్పటికీ, హరప్పా ప్రాంతాలలో క్రీస్తుపూర్వం 3వ సహస్రాబ్దిలో వరి ఉన్నట్లు ఆధారాలు ఉన్నాయి.",
+    "en": "While rice was in the Ganga Plain earlier, Harappan sites show its presence in the 3rd millennium BCE."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T25-0329",
+   "section": {
+    "te": "Chemical Fertilizer Consumption",
+    "en": "Chemical Fertilizer Consumption"
+   },
+   "q": {
+    "te": "1960ల మధ్య కాలం నుండి భారతదేశంలో రసాయన ఎరువుల వినియోగం ఎన్ని రెట్లు పెరిగింది?",
+    "en": "Since the mid-1960s, the consumption of chemical fertilizers in India has increased by how many times?"
+   },
+   "options": {
+    "te": [
+     "15 రెట్లు",
+     "5 రెట్లు",
+     "10 రెట్లు",
+     "20 రెట్లు"
+    ],
+    "en": [
+     "15 times",
+     "5 times",
+     "10 times",
+     "20 times"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "1960ల మధ్య కాలం నుండి దేశంలో రసాయన ఎరువుల వినియోగం 15 రెట్లు పెరిగింది.",
+    "en": "Consumption of chemical fertilizers in India has increased by 15 times since the mid-1960s."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T25-0282",
+   "section": {
+    "te": "Foodgrains Cropped Area",
+    "en": "Foodgrains Cropped Area"
+   },
+   "q": {
+    "te": "భారతదేశంలోని మొత్తం పంట విస్తీర్ణంలో ఆహార ధాన్యాలు సుమారు ఎంత భాగాన్ని ఆక్రమిస్తాయి?",
+    "en": "Foodgrains occupy approximately what proportion of the total cropped area in India?"
+   },
+   "options": {
+    "te": [
+     "నాలుగింట ఒక వంతు (1/4)",
+     "మూడింట రెండు వంతులు (2/3)",
+     "సగం (1/2)",
+     "మూడింట ఒక వంతు (1/3)"
+    ],
+    "en": [
+     "One-fourth",
+     "Two-third",
+     "One-half",
+     "One-third"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారతదేశ వ్యవసాయ ఆర్థిక వ్యవస్థలో ఆహార ధాన్యాలు ప్రధానమైనవి, ఇవి మొత్తం పంట విస్తీర్ణంలో సుమారు మూడింట రెండు వంతుల భాగాన్ని ఆక్రమిస్తాయి.",
+    "en": "Foodgrains are dominant in the Indian agricultural economy, covering about two-third of the total cropped area."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T25-0178",
+   "section": {
+    "te": "Rubber Regions",
+    "en": "Rubber Regions"
+   },
+   "q": {
+    "te": "దక్షిణ భారత రాష్ట్రాలు మరియు అండమాన్ నికోబార్ దీవులు కాకుండా, ఈ క్రింది ఏ కొండ ప్రాంతాలలో రబ్బరు ప్రధానంగా పండుతుంది?",
+    "en": "Apart from South Indian states and Andaman and Nicobar islands, in which of the following hilly regions is rubber mainly grown?"
+   },
+   "options": {
+    "te": [
+     "జైంతియా కొండలు",
+     "ఖాసీ కొండలు",
+     "గారో కొండలు",
+     "నాగా కొండలు"
+    ],
+    "en": [
+     "Jaintia hills",
+     "Khasi hills",
+     "Garo hills",
+     "Naga hills"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, దక్షిణ భారతదేశం మరియు అండమాన్ నికోబార్ దీవులతో పాటు మేఘాలయలోని గారో కొండలలో రబ్బరు పండుతుంది.",
+    "en": "Rubber is grown in the Garo hills of Meghalaya besides South India and Andaman and Nicobar islands."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T25-0324",
+   "section": {
+    "te": "Tea Origin",
+    "en": "Tea Origin"
+   },
+   "q": {
+    "te": "తేయాకు క్రింది ఏ ప్రాంతంలోని కొండలలో పుట్టిన దేశీయ పంట (indigenous crop)?",
+    "en": "Tea is an indigenous crop belonging to the hills of which of the following regions?"
+   },
+   "options": {
+    "te": [
+     "పశ్చిమ కనుమలు",
+     "ఉత్తర చైనా",
+     "బ్రహ్మపుత్ర లోయ",
+     "దక్షిణ జపాన్"
+    ],
+    "en": [
+     "Western Ghats",
+     "Northern China",
+     "Brahmaputra valley",
+     "Southern Japan"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "తేయాకు అనేది ఉత్తర చైనా కొండ ప్రాంతాలకు చెందిన ఒక దేశీయ పంట.",
+    "en": "Tea is an indigenous crop of the hills in northern China."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T25-0149",
+   "section": {
+    "te": "Oil seeds usage",
+    "en": "Oil seeds usage"
+   },
+   "q": {
+    "te": "వంట నూనెలుగా కాకుండా, నూనె గింజలను ఈ క్రింది వాటిలో దేని ఉత్పత్తికి ముడి పదార్థాలుగా ఉపయోగిస్తారు?",
+    "en": "Apart from being used as cooking mediums, oil seeds are used as raw materials for the production of which of the following?"
+   },
+   "options": {
+    "te": [
+     "సబ్బులు",
+     "సౌందర్య సాధనాలు (Cosmetics)",
+     "మందు పూతలు (Ointments)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Soap",
+     "Cosmetics",
+     "Ointments",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సబ్బులు, సౌందర్య సాధనాలు మరియు మందు పూతల తయారీలో కొన్ని నూనె గింజలను ముడి పదార్థాలుగా ఉపయోగిస్తారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Some oil seeds are used as raw materials in making soap, cosmetics, and ointments."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T25-0362",
+   "section": {
+    "te": "PMKSY Objectives",
+    "en": "PMKSY Objectives"
+   },
+   "q": {
+    "te": "ప్రధానమంత్రి కృషి సించాయి యోజన (PMKSY) లక్ష్యాలకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. పొలాలకు నీటి భౌతిక లభ్యతను పెంచడం మరియు ఖచ్చితమైన నీటిపారుదల కింద సాగు విస్తీర్ణాన్ని విస్తరించడం దీని లక్ష్యం.\n2. వాటర్‌షెడ్ విధానాన్ని ఉపయోగించి వర్షాధార ప్రాంతాల సమగ్ర అభివృద్ధిని సాధించడం దీని లక్ష్యం.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the objectives of Pradhan Mantri Krishi Sinchayee Yojana (PMKSY):\n1. It aims to enhance physical access of water on farms and expand cultivable area under assured irrigation.\n2. It aims to ensure integrated development of rain-fed areas using the watershed approach.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "PMKSY లక్ష్యాలలో ఖచ్చితమైన నీటిపారుదల విస్తరణ (హర్ ఖేత్ కో పానీ) మరియు వాటర్‌షెడ్ విధానం ద్వారా వర్షాధార ప్రాంతాల సమగ్ర అభివృద్ధి రెండూ భాగమే.",
+    "en": "Both statements are correct. PMKSY aims to expand cultivable area under assured irrigation (Har khet ko pani) and ensure integrated development of rain-fed areas using the watershed approach."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T25-0335",
+   "section": {
+    "te": "Green Revolution coverage",
+    "en": "Green Revolution coverage"
+   },
+   "q": {
+    "te": "రసాయన ఎరువులతో పాటు అధిక దిగుబడి రకాలతో (HYVs) కూడిన ప్యాకేజీ సాంకేతికతను ప్రారంభంలో కింది ఏ రాష్ట్రాల్లోని నీటిపారుదల ప్రాంతాలలో ప్రవేశపెట్టారు?\n1. పంజాబ్ మరియు హర్యానా\n2. పశ్చిమ ఉత్తరప్రదేశ్\n3. ఆంధ్రప్రదేశ్ మరియు గుజరాత్\nక్రింద ఇచ్చిన కోడ్‌ను ఉపయోగించి సరైన సమాధానాన్ని ఎంచుకోండి:",
+    "en": "Package technology comprising HYVs along with chemical fertilisers was initially introduced in the irrigated areas of which of the following states?\n1. Punjab and Haryana\n2. Western Uttar Pradesh\n3. Andhra Pradesh and Gujarat\nSelect the correct answer using the code given below:"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3",
+     "1 మాత్రమే"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1, 2 and 3",
+     "1 only"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పంజాబ్, హర్యానా, పశ్చిమ ఉత్తరప్రదేశ్, ఆంధ్రప్రదేశ్ మరియు గుజరాత్ రాష్ట్రాల్లోని నీటిపారుదల గల ప్రాంతాలలో ఈ ప్యాకేజీ సాంకేతికతను ప్రవేశపెట్టారు.",
+    "en": "The package technology of HYVs and chemical fertilisers was introduced in the irrigated areas of Punjab, Haryana, Western Uttar Pradesh, Andhra Pradesh, and Gujarat."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T25-0049",
+   "section": {
+    "te": "Phad system features",
+    "en": "Phad system features"
+   },
+   "q": {
+    "te": "'ఫాద్ వ్యవస్థల' (Phad systems) నీటిపారుదలకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి ప్రధానంగా మహారాష్ట్రలో కనిపించే సమాజ ఆధారిత నీటిపారుదల వ్యవస్థలు.\n2. ఇవి నదీ జలాలను పొలాలకు మళ్లించడానికి చిన్న కాలువలను ఉపయోగిస్తాయి.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the 'Phad systems' of irrigation:\n1. They are community-based irrigation systems found particularly in Maharashtra.\n2. They use small canals to divert river water to fields.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రెండు ప్రకటనలూ సరైనవే; ఫాద్ వ్యవస్థలు మహారాష్ట్రలోని సమాజ ఆధారిత వ్యవస్థలు మరియు చిన్న కాలువల ద్వారా నది నీటిని పొలాలకు మళ్లిస్తాయి.",
+    "en": "Both statements are correct according to the text: Phad systems are community-based systems in Maharashtra that use small canals to divert river water to fields."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T25-0017",
+   "section": {
+    "te": "Agricultural Transport",
+    "en": "Agricultural Transport"
+   },
+   "q": {
+    "te": "కాశ్మీర్‌లోని ఏ సరస్సులో కూరగాయల రవాణా సాధారణంగా కనిపిస్తుంది?",
+    "en": "In which lake of Kashmir is the transportation of vegetables commonly seen?"
+   },
+   "options": {
+    "te": [
+     "వూలర్ సరస్సు",
+     "దాల్ సరస్సు",
+     "పాంగాంగ్ సరస్సు",
+     "చిలికా సరస్సు"
+    ],
+    "en": [
+     "Wular Lake",
+     "Dal Lake",
+     "Pangong Lake",
+     "Chilika Lake"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కాశ్మీర్‌లోని దాల్ సరస్సుపై కూరగాయల రవాణా జరుగుతుందని పాఠంలో పేర్కొన్నారు.",
+    "en": "The transportation of vegetables on the Dal Lake in Kashmir."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T25-0288",
+   "section": {
+    "te": "Bajra Cropped Area",
+    "en": "Bajra Cropped Area"
+   },
+   "q": {
+    "te": "భారతదేశంలోని మొత్తం పంట విస్తీర్ణంలో సజ్జలు (Bajra) సుమారు ఎంత శాతం ఆక్రమిస్తాయి?",
+    "en": "What percentage of the total cropped area in India is occupied by Bajra?"
+   },
+   "options": {
+    "te": [
+     "22.07 శాతం",
+     "5.2 శాతం",
+     "11 శాతం",
+     "12.8 శాతం"
+    ],
+    "en": [
+     "22.07 per cent",
+     "5.2 per cent",
+     "11 per cent",
+     "12.8 per cent"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వేడి మరియు పొడి వాతావరణ పరిస్థితులలో పండే ముతక ధాన్యమైన సజ్జలు, భారతదేశ మొత్తం పంట విస్తీర్ణంలో సుమారు 5.2 శాతాన్ని ఆక్రమిస్తాయి.",
+    "en": "Bajra, a coarse cereal sown in hot and dry climatic conditions, occupies about 5.2 per cent of India's total cropped area."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T25-0105",
+   "section": {
+    "te": "Water Disputes",
+    "en": "Water Disputes"
+   },
+   "q": {
+    "te": "కర్ణాటక, ఆంధ్రప్రదేశ్ మరియు మహారాష్ట్రల మధ్య కృష్ణా-గోదావరి నీటి వివాదానికి నిర్దిష్ట కారణం ఏమిటి?",
+    "en": "What is the specific reason for the Krishna-Godavari water dispute between Karnataka, Andhra Pradesh, and Maharashtra?"
+   },
+   "options": {
+    "te": [
+     "కర్ణాటకలోని రిజర్వాయర్లలో పూడిక చేరడం",
+     "పారిశ్రామిక వ్యర్థాల వల్ల నదీ జలాలు కలుషితం కావడం",
+     "రాజస్థాన్‌లో కొత్త ఆనకట్ట నిర్మాణం",
+     "మహారాష్ట్ర ప్రభుత్వం కోయినా వద్ద ఎక్కువ నీటిని మళ్లించడం"
+    ],
+    "en": [
+     "Siltation in the reservoirs of Karnataka",
+     "Pollution of river water by industrial effluents",
+     "Construction of a new dam in Rajasthan",
+     "Diversion of more water at Koyna by Maharashtra"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మహారాష్ట్ర ప్రభుత్వం బహుళార్థసాధక ప్రాజెక్టు కోసం కోయినా వద్ద ఎక్కువ నీటిని మళ్లించడం వల్ల కర్ణాటక మరియు ఆంధ్రప్రదేశ్‌లకు దిగువన ప్రవాహం తగ్గడం ఈ వివాదానికి కారణమైంది.",
+    "en": "The dispute arose because Maharashtra diverted more water at Koyna for a multipurpose project, reducing the downstream flow to Karnataka and Andhra Pradesh."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T25-0098",
+   "section": {
+    "te": "Transition to organic farming",
+    "en": "Transition to organic farming"
+   },
+   "q": {
+    "te": "రసాయన వ్యవసాయం నుండి సేంద్రీయ వ్యవసాయానికి మారిన ప్రారంభ దశలో పెమా కుటుంబ పొలం ఎదుర్కొన్న తక్షణ సమస్య ఏమిటి?",
+    "en": "What immediate challenge did Pema's farm face during the initial phase of switching from chemical to organic farming?"
+   },
+   "options": {
+    "te": [
+     "సహజ కంపోస్ట్‌ను తయారు చేయలేకపోవడం",
+     "సాంప్రదాయ విత్తనాలు పూర్తిగా నాశనం కావడం",
+     "కలుపు మొక్కలు పెరిగి పంటలన్నీ వెంటనే నాశనమవడం",
+     "నేల కోలుకుంటున్న సమయంలో దిగుబడులు గణనీయంగా తగ్గడం"
+    ],
+    "en": [
+     "Inability to prepare natural compost",
+     "A complete loss of traditional seeds",
+     "Immediate increase in weed growth that destroyed all crops",
+     "Severe drop in yields while soil recovered from chemicals"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సంవత్సరాల తరబడి రసాయనాల వాడకం వల్ల దెబ్బతిన్న నేల కోలుకుంటున్నందున ప్రారంభంలో దిగుబడులు తగ్గాయని పాఠ్యాంశంలో పేర్కొనబడింది.",
+    "en": "Initially yields dropped as the soil was recovering from years of chemical use."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T25-0137",
+   "section": {
+    "te": "Intensive Subsistence Farming",
+    "en": "Intensive Subsistence Farming"
+   },
+   "q": {
+    "te": "సాంద్ర జీవనాధార వ్యవసాయం (Intensive Subsistence Farming) గురించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది తక్కువ జనాభా ఒత్తిడి ఉన్న ప్రాంతాల్లో అభ్యసిస్తారు.\n2. ఇది అధిక మోతాదులో జీవరసాయన ఇన్‌పుట్‌లు మరియు నీటిపారుదలని ఉపయోగిస్తుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about Intensive Subsistence Farming:\n1. It is practiced in areas with low population pressure.\n2. It uses high doses of biochemical inputs and irrigation.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రకటన 1 తప్పు ఎందుకంటే ఇది అధిక జనాభా ఒత్తిడి ఉన్న ప్రాంతాల్లో అభ్యసిస్తారు. ప్రకటన 2 సరైనది ఎందుకంటే ఇది అధిక ఉత్పత్తి కోసం అధిక ఇన్‌పుట్‌లను ఉపయోగిస్తుంది.",
+    "en": "Statement 1 is incorrect because it is practiced in areas of high population pressure. Statement 2 is correct as it uses high inputs for higher production."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T25-0011",
+   "section": {
+    "te": "Oilseed Crops",
+    "en": "Oilseed Crops"
+   },
+   "q": {
+    "te": "కాలక్రమేణా రైతులు సాగు చేయడం నేర్చుకున్న నూనెగింజల జాబితాలో కింది వాటిలో ఏవి ఉన్నాయి?",
+    "en": "Which of the following are listed as oilseeds that farmers learned to cultivate over time?"
+   },
+   "options": {
+    "te": [
+     "నువ్వులు మరియు కుసుమలు",
+     "ఆవాలు మరియు ఆముదం",
+     "అవిసె గింజలు (Linseed)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Sesame and Safflower",
+     "Mustard and Castor",
+     "Linseed",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "కాలక్రమేణా రైతులు సాగు చేసిన నూనెగింజలుగా నువ్వులు, కుసుమలు, అవిసెలు, ఆవాలు మరియు ఆముదాలను పాఠం పేర్కొంది.",
+    "en": "The text lists sesame, safflower, linseed, mustard, and castor as oilseeds cultivated by farmers over time."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T25-0048",
+   "section": {
+    "te": "Bamboo drip irrigation",
+    "en": "Bamboo drip irrigation"
+   },
+   "q": {
+    "te": "ఊటల నుండి పొలాలకు నీటిని మళ్లించడానికి సాంప్రదాయకంగా 'వెదురు బిందు సేద్యం' (Bamboo drip irrigation) భారతదేశంలోని ఏ ప్రాంతంలో ఆచరిస్తారు?",
+    "en": "In which part of India is bamboo drip irrigation traditionally practiced to channel water from springs to fields?"
+   },
+   "options": {
+    "te": [
+     "ఉత్తర మైదానాలు",
+     "ఈశాన్య భారతదేశం",
+     "థార్ ఎడారి",
+     "పశ్చిమ తీర ప్రాంతం"
+    ],
+    "en": [
+     "Northern plains",
+     "Northeastern India",
+     "Thar Desert",
+     "Western coastal strip"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఈశాన్య భారతదేశంలోని కొన్ని ప్రాంతాలలో రైతులు వెదురు గొట్టాలను ఉపయోగించి ఊటల నుండి పొలాలకు నీటిని మళ్లించే విధానాన్ని ఆచరిస్తారు.",
+    "en": "Bamboo drip irrigation is traditionally practiced by farmers in parts of northeastern India."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T25-0146",
+   "section": {
+    "te": "Jowar importance",
+    "en": "Jowar importance"
+   },
+   "q": {
+    "te": "విస్తీర్ణం మరియు ఉత్పత్తి పరంగా భారతదేశంలో మూడవ అతి ముఖ్యమైన ఆహార పంట ఏది?",
+    "en": "Which food crop is the third most important in India with respect to area and production?"
+   },
+   "options": {
+    "te": [
+     "రాగులు",
+     "మొక్కజొన్న",
+     "సజ్జలు",
+     "జొన్నలు"
+    ],
+    "en": [
+     "Ragi",
+     "Maize",
+     "Bajra",
+     "Jowar"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "విస్తీర్ణం మరియు ఉత్పత్తి రెండింటి పరంగా భారతదేశంలో జొన్నలు మూడవ అతి ముఖ్యమైన ఆహార పంట అని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Jowar is the third most important food crop in India in terms of both area and production."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T25-0099",
+   "section": {
+    "te": "Organic produce in Sikkim",
+    "en": "Organic produce in Sikkim"
+   },
+   "q": {
+    "te": "సిక్కింలో సేంద్రీయ వ్యవసాయం విజయవంతమైన తర్వాత పెమా కింది ఏ ఉత్పత్తులను ప్రీమియం (మంచి) ధరలకు విక్రయించగలిగారు?",
+    "en": "Which of the following agricultural products was Pema able to sell at premium prices after establishing her organic farm in Sikkim?"
+   },
+   "options": {
+    "te": [
+     "యాలకులు (Cardamom)",
+     "అల్లం (Ginger)",
+     "సాంప్రదాయ కూరగాయలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Cardamom",
+     "Ginger",
+     "Traditional vegetables",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పెమా తన యాలకులు, అల్లం మరియు సాంప్రదాయ కూరగాయలను ప్రీమియం ధరలకు విక్రయించగలిగారని పాఠ్యాంశం పేర్కొంది.",
+    "en": "Pema was able to sell her cardamom, ginger, and traditional vegetables at premium prices."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T25-0056",
+   "section": {
+    "te": "Beejamrit components",
+    "en": "Beejamrit components"
+   },
+   "q": {
+    "te": "విత్తన శుద్ధి కోసం ICAR అభివృద్ధి చేసిన 'బీజామృతం' పేస్ట్‌లోని ప్రధాన భాగాలు ఏవి?",
+    "en": "Which of the following are the primary components of the 'beejamrit' paste developed by ICAR for seed coating?"
+   },
+   "options": {
+    "te": [
+     "ఆవు పేడ",
+     "ఆవు పంచితం",
+     "A మరియు B రెండూ",
+     "తేనె మరియు నెయ్యి"
+    ],
+    "en": [
+     "Cow dung",
+     "Cow urine",
+     "Both A and B",
+     "Honey and ghee"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "బీజామృతం అనేది ఆవు పేడ మరియు పంచితం ఉపయోగించి ICAR అభివృద్ధి చేసిన పేస్ట్. ఇది విత్తనాలను రక్షించడానికి మరియు మొలకెత్తే సమయాన్ని తగ్గించడానికి ఉపయోగపడుతుంది.",
+    "en": "Beejamrit is a paste developed by ICAR using cow dung and urine, along with other materials, to protect seeds and reduce germination time."
+   }
+  }
+ ]
+}

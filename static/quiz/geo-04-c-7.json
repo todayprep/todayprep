@@ -1,0 +1,942 @@
+{
+ "id": "geo-04-c-7",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Landforms – క్విజ్ 7",
+  "en": "Landforms – Quiz 7"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T04-0020",
+   "section": {
+    "te": "Mount Everest Tibetan Name",
+    "en": "Mount Everest Tibetan Name"
+   },
+   "q": {
+    "te": "'ప్రపంచ జగన్మాత' (Mother Goddess of the World) అనే అర్థాన్నిచ్చేలా టిబెటన్లు ఎవరెస్ట్ శిఖరాన్ని ఏమని పిలుస్తారు?",
+    "en": "What do Tibetans call Mount Everest, meaning 'Mother Goddess of the World'?"
+   },
+   "options": {
+    "te": [
+     "సాగరమాత",
+     "కాంచనగంగ",
+     "కైలాష్",
+     "చోమోలుంగ్మా"
+    ],
+    "en": [
+     "Sagarmatha",
+     "Kanchenjunga",
+     "Kailash",
+     "Chomolungma"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "టిబెటన్లు ఎవరెస్ట్ శిఖరాన్ని 'చోమోలుంగ్మా' అని పిలుస్తారు, దీని అర్థం 'ప్రపంచ జగన్మాత'.",
+    "en": "Tibetans call Mount Everest 'Chomolungma', which means 'Mother Goddess of the World' and worship it as such."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T04-0109",
+   "section": {
+    "te": "Sills and Sheets",
+    "en": "Sills and Sheets"
+   },
+   "q": {
+    "te": "సమాంతర అంతర్గమ అగ్నిశిలలకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. సన్నగా ఉండే క్షితిజ సమాంతర నిక్షేపాలను 'షీట్లు' (sheets) అంటారు.\n2. మందంగా ఉండే క్షితిజ సమాంతర నిక్షేపాలను 'సిల్స్' (sills) అంటారు.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding horizontal intrusive igneous rocks:\n1. The thinner horizontal deposits of intrusive igneous rocks are called sheets.\n2. The thick horizontal deposits of intrusive igneous rocks are called sills.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "క్షితిజ సమాంతర అంతర్గమ శిలల్లో పలుచని వాటిని షీట్లు అని, మందమైన నిక్షేపాలను సిల్స్ అని పిలుస్తారు.",
+    "en": "Thinner horizontal intrusive bodies are called sheets, whereas the thicker horizontal deposits are called sills."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T04-0108",
+   "section": {
+    "te": "Lacoliths",
+    "en": "Lacoliths"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో 'లాకోలిత్' (lacolith) లక్షణాన్ని సరిగ్గా వివరించేది ఏది?",
+    "en": "Which of the following best describes a 'lacolith'?"
+   },
+   "options": {
+    "te": [
+     "భూమికి లంబంగా గోడ మాదిరిగా ఏర్పడే అంతర్గమ శిలా నిర్మాణం",
+     "సమతల అడుగుభాగం కలిగి, క్రింది నుండి గొట్టం వంటి మార్గంతో అనుసంధానించబడిన పెద్ద గుమ్మటం వంటి అంతర్గమ శిల",
+     "ఆకాశానికి పుటాకారంలో సాసర్ వలె ఏర్పడే శిల",
+     "క్షితిజ సమాంతరంగా ఉండే సన్నని అంతర్గమ శిలా పొర"
+    ],
+    "en": [
+     "A wall-like intrusive structure solidifying perpendicular to the ground",
+     "A large dome-shaped intrusive body with a level base connected by a pipe-like conduit from below",
+     "A saucer-shaped intrusive body concave to the sky",
+     "A thin horizontal sheet of intrusive rock running parallel to bedding planes"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సమతలమైన అడుగుభాగం కలిగి, క్రింది నుంచి గొట్టం వంటి మార్గం ద్వారా శిలాద్రవం చేరి ఏర్పడే పెద్ద గుమ్మటపు అంతర్గమ శిలలను లాకోలిత్‌లు అంటారు.",
+    "en": "Lacoliths are large dome-shaped intrusive bodies having a flat/level base and fed by a pipe-like conduit from beneath."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T04-0057",
+   "section": {
+    "te": "Plate Movement",
+    "en": "Plate Movement"
+   },
+   "q": {
+    "te": "టెక్టోనిక్ ఫలకల కదలికకు ప్రధాన కారణం ఏమిటి?",
+    "en": "What is the primary cause of the movement of tectonic plates?"
+   },
+   "options": {
+    "te": [
+     "చంద్రుని గురుత్వాకర్షణ శక్తి",
+     "ప్రావారంలోని (mantle) సంవహన ప్రవాహాలు",
+     "భూమి యొక్క భ్రమణం",
+     "సముద్ర ప్రవాహాలు"
+    ],
+    "en": [
+     "Gravitational pull of the moon",
+     "Convection currents in the mantle",
+     "Rotation of the Earth",
+     "Ocean currents"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భూకేంద్ర మండలం నుండి వచ్చే వేడి వల్ల ప్రావారంలో ఏర్పడే సంవహన ప్రవాహాలు టెక్టోనిక్ ఫలకలను నెట్టడం మరియు లాగడం చేస్తాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Convection currents in the mantle, created by heat from the core, push and pull the tectonic plates."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T04-0227",
+   "section": {
+    "te": "Lateral moraines shape",
+    "en": "Lateral moraines shape"
+   },
+   "q": {
+    "te": "హిమానీనద లోయ పక్కల ఉండే పార్శ్వ మొరైన్లు టెర్మినల్ మొరైన్‌తో కలిసి ఏ ఆకారపు గట్టును ఏర్పరుస్తాయి?",
+    "en": "Lateral moraines along the sides of a glacial valley may join a terminal moraine to form a ridge shaped like a:"
+   },
+   "options": {
+    "te": [
+     "ఖచ్చితమైన వృత్తం",
+     "త్రిభుజాకార శంకువు",
+     "గుర్రపునాడా ఆకారపు గట్టు (Horse-shoe shaped ridge)",
+     "సరళ సమాంతర గోడ"
+    ],
+    "en": [
+     "Perfect circle",
+     "Triangular cone",
+     "Horse-shoe shaped ridge",
+     "Straight linear wall"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పార్శ్వ మొరైన్లు టెర్మినల్ మొరైన్‌తో కలిసి గుర్రపునాడా ఆకారపు గట్టును (horse-shoe shaped ridge) ఏర్పరచవచ్చు.",
+    "en": "Lateral moraines can join a terminal moraine to form a characteristic horse-shoe shaped ridge."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T04-0042",
+   "section": {
+    "te": "Marudam occupation",
+    "en": "Marudam occupation"
+   },
+   "q": {
+    "te": "తిణై వర్గీకరణలో, 'మరుదం' భూభాగంతో ముడిపడి ఉన్న ప్రధాన వృత్తి ఏమిటి?",
+    "en": "In the Tiṇai classification, what is the main occupation associated with the 'Marudam' landscape?"
+   },
+   "options": {
+    "te": [
+     "పశువుల పెంపకం",
+     "వ్యవసాయం",
+     "వేట",
+     "చేపల వేట"
+    ],
+    "en": [
+     "Cattle rearing",
+     "Farming",
+     "Hunting",
+     "Fishing"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మరుదం అంటే సారవంతమైన వ్యవసాయ మైదానాలు, ఇక్కడ ప్రధాన వృత్తి వ్యవసాయం.",
+    "en": "Marudam refers to fertile agricultural plains where the main occupation is farming."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T04-0171",
+   "section": {
+    "te": "Potholes formation",
+    "en": "Potholes formation"
+   },
+   "q": {
+    "te": "కొండ వాగుల రాతి నేలలపై రాతి శకలాల రాపిడి మరియు ప్రవాహ క్రమక్షయం వల్ల ఏర్పడే దాదాపు గుండ్రని గుంటలను ఏమంటారు?",
+    "en": "Over the rocky beds of hill-streams, circular depressions formed by stream erosion aided by the abrasion of rock fragments are called:"
+   },
+   "options": {
+    "te": [
+     "ప్లంజ్ పూల్స్",
+     "పోట్‌హోల్స్ (Potholes)",
+     "స్టాలగ్మైట్లు",
+     "సింక్‌హోల్స్"
+    ],
+    "en": [
+     "Plunge pools",
+     "Potholes",
+     "Stalagmites",
+     "Sinkholes"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కొండ వాగులలో రాతి శకలాలు తిరుగుతూ రాపిడి కలిగించడం వల్ల ఏర్పడే గుండ్రని గుంటలను పోట్‌హోల్స్ అంటారు.",
+    "en": "Potholes are circular depressions formed over rocky stream beds due to stream erosion aided by the abrasion of rock fragments."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T04-0247",
+   "section": {
+    "te": "Wind Actions",
+    "en": "Wind Actions"
+   },
+   "q": {
+    "te": "ఎడారి వాతావరణంలో, గాలి క్రింది వాటిలో ఏ భూస్వరూప చర్యలకు కారణమవుతుంది?",
+    "en": "In desert environments, wind causes which of the following geomorphic actions?"
+   },
+   "options": {
+    "te": [
+     "డిఫ్లేషన్ (ఎగురవేత)",
+     "అబ్రేషన్ (రాపిడి)",
+     "ఇంపాక్ట్ (తాకిడి)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Deflation",
+     "Abrasion",
+     "Impact",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఎడారులలో పవనాల చర్యల వల్ల డిఫ్లేషన్, అబ్రేషన్ మరియు ఇంపాక్ట్ అనే మూడు రకాల ప్రక్రియలు జరుగుతాయి.",
+    "en": "The textbook directly states: 'Winds cause deflation, abrasion and impact.'"
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T04-0280",
+   "section": {
+    "te": "Valley formation agents",
+    "en": "Valley formation agents"
+   },
+   "q": {
+    "te": "రెండు కొండలు లేదా పర్వత శ్రేణుల మధ్య ఉండే లోయ (valley), వేటి ద్వారా జరిగే పార్శ్వ కోత ఫలితంగా ఏర్పడుతుంది?",
+    "en": "A valley lying between two hills or ridges is formed as a result of lateral erosion by:"
+   },
+   "options": {
+    "te": [
+     "నది",
+     "హిమానీనదం",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "A river",
+     "A glacier",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, రెండు కొండల మధ్య ఉండే లోయ అనేది నది లేదా హిమానీనదం ద్వారా జరిగే పార్శ్వ కోత వలన ఏర్పడుతుంది.",
+    "en": "A valley is formed as a result of lateral erosion by either a river or a glacier."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T04-0045",
+   "section": {
+    "te": "Landform classification",
+    "en": "Landform classification"
+   },
+   "q": {
+    "te": "భూస్వరూపాలు సాధారణంగా ఎన్ని ప్రధాన రకాలుగా వర్గీకరించబడ్డాయి?",
+    "en": "Into how many main types are landforms generally classified?"
+   },
+   "options": {
+    "te": [
+     "రెండు",
+     "మూడు",
+     "నాలుగు",
+     "ఐదు"
+    ],
+    "en": [
+     "Two",
+     "Three",
+     "Four",
+     "Five"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భూస్వరూపాలు మూడు ప్రధాన రకాలుగా వర్గీకరించబడ్డాయి: పర్వతాలు, పీఠభూములు మరియు మైదానాలు.",
+    "en": "Landforms are classified into three main types: mountains, plateaus, and plains."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T04-0129",
+   "section": {
+    "te": "Exogenic Actions",
+    "en": "Exogenic Actions"
+   },
+   "q": {
+    "te": "బహిర్జనిత శక్తుల చర్యల ఫలితంగా ఏమి జరుగుతుంది?",
+    "en": "The actions of exogenic forces result in:"
+   },
+   "options": {
+    "te": [
+     "ఎత్తుపల్లాల క్షీణత (Degradation)",
+     "బేసిన్ల భర్తీ (Aggradation)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Degradation of relief",
+     "Aggradation of basins",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "బహిర్జనిత శక్తులు ఎత్తులను తగ్గించడం (డిగ్రేడేషన్) మరియు పల్లాలను నింపడం (అగ్రేడేషన్) రెండింటికీ కారణమవుతాయి.",
+    "en": "Exogenic forces cause both the wearing down (degradation) of elevations and the filling up (aggradation) of depressions."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T04-0040",
+   "section": {
+    "te": "Plateau characteristics",
+    "en": "Plateau characteristics"
+   },
+   "q": {
+    "te": "చుట్టుపక్కల భూమి కంటే ఎత్తుగా ఉండి, ఎక్కువ లేదా తక్కువ చదునైన ఉపరితలం కలిగి, కొన్ని వైపులా నిటారుగా ఉండే వాలులను కలిగి ఉండే భూస్వరూపం ఏది?",
+    "en": "Which landform is characterized by rising from the surrounding land with a more or less flat surface and often having steep slopes on some sides?"
+   },
+   "options": {
+    "te": [
+     "పీఠభూమి",
+     "మైదానం",
+     "ఎడారి",
+     "పర్వతం"
+    ],
+    "en": [
+     "Plateau",
+     "Plain",
+     "Desert",
+     "Mountain"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పీఠభూమి అనేది చుట్టుపక్కల ప్రాంతం కంటే ఎత్తుగా ఉండి, చదునైన పైభాగాన్ని కలిగి ఉండే భూస్వరూపం, ఇది తరచుగా నిటారుగా ఉండే వాలులను కలిగి ఉంటుంది.",
+    "en": "A plateau is defined as a landform that rises above the surrounding area and has a flat top, often with steep sides."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T04-0262",
+   "section": {
+    "te": "Deflation hollows",
+    "en": "Deflation hollows"
+   },
+   "q": {
+    "te": "నిరంతర గాలి ప్రవాహాల వల్ల వాతావరణం వల్ల శిథిలమైన పొర లేదా నేల కొట్టుకుపోవడం వల్ల ఏర్పడే నిస్సారమైన పల్లాలను ఏమంటారు?",
+    "en": "Shallow depressions created by the blowing out of weathered mantle or bare soil by persistent wind currents are known as:"
+   },
+   "options": {
+    "te": [
+     "గుహలు",
+     "బార్కాన్లు",
+     "పెడిమెంట్స్",
+     "డీఫ్లేషన్ హాలోస్ (Deflation hollows)"
+    ],
+    "en": [
+     "Caves",
+     "Barchans",
+     "Pediments",
+     "Deflation hollows"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "గాలి ప్రవాహాలు మట్టిని లేదా శిథిలాలను ఎగురవేయడం వల్ల ఏర్పడే నిస్సారమైన పల్లాలను డీఫ్లేషన్ హాలోస్ అంటారు.",
+    "en": "Deflation hollows are shallow depressions formed when wind currents blow out weathered mantle or soil."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T04-0210",
+   "section": {
+    "te": "Glacier movement cause",
+    "en": "Glacier movement cause"
+   },
+   "q": {
+    "te": "హిమానీనదాలు భూమిపై కదలడానికి ప్రాథమికంగా ఏ శక్తి కారణం?",
+    "en": "Glaciers move across the land primarily due to which of the following forces?"
+   },
+   "options": {
+    "te": [
+     "టెక్టానిక్ ఉద్ధరణ",
+     "అపకేంద్ర బలం",
+     "గురుత్వాకర్షణ బలం (Force of gravity)",
+     "కొరియోలిస్ బలం"
+    ],
+    "en": [
+     "Tectonic uplift",
+     "Centrifugal force",
+     "Force of gravity",
+     "Coriolis force"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "హిమానీనదాలు కదలడానికి ప్రధాన కారణం గురుత్వాకర్షణ బలం.",
+    "en": "Glaciers move basically because of the force of gravity."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T04-0225",
+   "section": {
+    "te": "Medial moraine definition",
+    "en": "Medial moraine definition"
+   },
+   "q": {
+    "te": "ఇరువైపులా పార్శ్వ మొరైన్లు ఉండి, హిమానీనద లోయ మధ్యభాగంలో ఏర్పడే మొరైన్‌ను ఏమని పిలుస్తారు?",
+    "en": "The moraine formed in the centre of a glacial valley flanked by lateral moraines is called a:"
+   },
+   "options": {
+    "te": [
+     "టెర్మినల్ మొరైన్ (Terminal moraine)",
+     "సిర్క్ మొరైన్ (Cirque moraine)",
+     "మధ్యస్థ మొరైన్ (Medial moraine)",
+     "భూతల మొరైన్ (Ground moraine)"
+    ],
+    "en": [
+     "Terminal moraine",
+     "Cirque moraine",
+     "Medial moraine",
+     "Ground moraine"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పార్శ్వ మొరైన్ల మధ్యలో, హిమానీనద లోయ కేంద్ర భాగంలో ఏర్పడే మొరైన్‌ను మధ్యస్థ మొరైన్ (medial moraine) అంటారు.",
+    "en": "A moraine situated in the centre of a glacial valley flanked on either side by lateral moraines is called a medial moraine."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T04-0143",
+   "section": {
+    "te": "Underground carbon dioxide",
+    "en": "Underground carbon dioxide"
+   },
+   "q": {
+    "te": "గాలిలో ఉండే కార్బన్ డయాక్సైడ్‌తో పాటు, భూగర్భంలో కార్బన్ డయాక్సైడ్ పరిమాణాన్ని మరింత పెంచేది ఏది?",
+    "en": "Over and above the carbon dioxide present in the air, what increases the quantity of carbon dioxide underground?"
+   },
+   "options": {
+    "te": [
+     "కేవలం స్వచ్ఛమైన వర్షపు నీరు ఇంకడం",
+     "మొక్కలు మరియు జంతువుల కుళ్ళిపోవడం (Decomposition)",
+     "ప్రత్యక్ష సూర్య వికిరణం",
+     "టెక్టానిక్ భారం తొలగింపు వలన కలిగే పీడన విడుదల"
+    ],
+    "en": [
+     "Infiltration of pure rainwater alone",
+     "Decomposition of plants and animals",
+     "Direct solar radiation",
+     "Pressure release from tectonic unloading"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మొక్కలు మరియు జంతువుల అవశేషాలు కుళ్ళిపోవడం వల్ల భూగర్భంలో కార్బన్ డయాక్సైడ్ పరిమాణం మరింత పెరుగుతుంది.",
+    "en": "Decomposition of plants and animals increases the quantity of carbon dioxide underground beyond what is present in the air."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T04-0269",
+   "section": {
+    "te": "Transverse dunes",
+    "en": "Transverse dunes"
+   },
+   "q": {
+    "te": "ఏ రకమైన ఇసుక దిబ్బలు గాలి వీచే దిశకు లంబంగా ఉంటాయి?",
+    "en": "Which type of sand dunes are aligned perpendicular to the direction of the wind?"
+   },
+   "options": {
+    "te": [
+     "పారాబోలిక్ దిబ్బలు",
+     "లాంగిట్యూడినల్ దిబ్బలు",
+     "సెయిఫ్ దిబ్బలు",
+     "ట్రాన్స్‌వర్స్ (Transverse) దిబ్బలు"
+    ],
+    "en": [
+     "Parabolic dunes",
+     "Longitudinal dunes",
+     "Seif dunes",
+     "Transverse dunes"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ట్రాన్స్‌వర్స్ దిబ్బలు గాలి దిశకు లంబంగా అమర్చబడి ఉంటాయని నిర్వచించబడింది.",
+    "en": "Transverse dunes are defined as being aligned perpendicular to the wind direction."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T04-0023",
+   "section": {
+    "te": "Highest Plateau",
+    "en": "Highest Plateau"
+   },
+   "q": {
+    "te": "ప్రపంచంలోనే అతిపెద్ద మరియు ఎత్తైన పీఠభూమి ఏది?",
+    "en": "Which of the following is the largest and highest plateau in the world?"
+   },
+   "options": {
+    "te": [
+     "టిబెట్ పీఠభూమి",
+     "తూర్పు ఆఫ్రికా పీఠభూమి",
+     "ఛోటానాగ్‌పూర్ పీఠభూమి",
+     "దక్కన్ పీఠభూమి"
+    ],
+    "en": [
+     "Tibetan Plateau",
+     "East African Plateau",
+     "Chhota Nagpur Plateau",
+     "Deccan Plateau"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "టిబెట్ పీఠభూమి ప్రపంచంలోనే అతిపెద్ద మరియు అత్యంత ఎత్తైన పీఠభూమి.",
+    "en": "The Tibetan Plateau is the largest and highest plateau in the world."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T04-0293",
+   "section": {
+    "te": "Differential Rates of Processes",
+    "en": "Differential Rates of Processes"
+   },
+   "q": {
+    "te": "భూస్వరూప ప్రక్రియలు ఎందుకు విభిన్న రేట్లలో పనిచేస్తాయి మరియు భూభాగంలో తేడాలకు దారితీస్తాయి?",
+    "en": "Why do geomorphic processes operate at differential rates and give rise to differences in topography?"
+   },
+   "options": {
+    "te": [
+     "అన్ని శిలలు ఒకే రకమైన రసాయన గ్రహణశీలతను కలిగి ఉండటం వల్ల",
+     "కొన్ని ప్రాంతాలలో గురుత్వాకర్షణ ఒత్తిడి లేకపోవడం వల్ల",
+     "మారుతున్న వాతావరణ పరిస్థితులు మరియు శిలల నిరోధకతలో తేడాల వల్ల",
+     "అన్ని ప్రాంతాలలో గాలి వేగం స్థిరంగా ఉండటం వల్ల"
+    ],
+    "en": [
+     "Because all rocks have the same chemical susceptibility",
+     "Due to the lack of gravitational stress in certain areas",
+     "Due to varying climatic conditions and different degrees of rock resistance",
+     "Because wind velocity is constant across all regions"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మారుతున్న వాతావరణ పరిస్థితులు మరియు శిలలు చూపే వివిధ స్థాయిల నిరోధకత వల్ల భూస్వరూప ప్రక్రియలు వేర్వేరు రేట్లలో పనిచేస్తాయి.",
+    "en": "Varying climatic conditions and the different degrees of resistance offered by rocks cause geomorphic processes to operate at different rates."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T04-0076",
+   "section": {
+    "te": "Groundwater landforms",
+    "en": "Groundwater landforms"
+   },
+   "q": {
+    "te": "సున్నపురాయి వంటి శిలలను కరిగించడం ద్వారా భూగర్భ జలాలు సాధారణంగా క్రింది ఏ భూస్వరూపాలను సృష్టిస్తాయి?",
+    "en": "By dissolving rocks such as limestone, groundwater typically creates which of the following landforms?"
+   },
+   "options": {
+    "te": [
+     "U-ఆకారపు లోయలు",
+     "డెల్టాలు మరియు సహజ కట్టలు",
+     "తీరపు కొండలు మరియు బేలు",
+     "గుహలు మరియు సింక్‌హోల్స్ (sinkholes)"
+    ],
+    "en": [
+     "U-shaped valleys",
+     "Deltas and levees",
+     "Cliffs and bays",
+     "Caves and sinkholes"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూగర్భ జలాలు సున్నపురాయి వంటి రాళ్లను కరిగించడం ద్వారా గుహలు మరియు సింక్‌హోల్స్‌ను ఏర్పరుస్తాయి.",
+    "en": "Groundwater dissolves soluble rocks like limestone to create subsurface caves and sinkholes."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T04-0223",
+   "section": {
+    "te": "Fjord definition",
+    "en": "Fjord definition"
+   },
+   "q": {
+    "te": "అధిక అక్షాంశాలలో సముద్రపు నీటితో నిండి తీరప్రాంతాలను ఏర్పరిచే లోతైన హిమానీనద ద్రోణులను (glacial troughs) ఏమని పిలుస్తారు?",
+    "en": "Very deep glacial troughs filled with sea water and forming shorelines in high latitudes are known as:"
+   },
+   "options": {
+    "te": [
+     "ఫియార్డులు (Fjords)",
+     "లాగూన్లు (Lagoons)",
+     "డ్రమ్లిన్లు (Drumlins)",
+     "సిర్క్‌లు (Cirques)"
+    ],
+    "en": [
+     "Fjords",
+     "Lagoons",
+     "Drumlins",
+     "Cirques"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సముద్రపు నీటితో నిండి అధిక అక్షాంశాలలో తీరాలను ఏర్పరిచే అత్యంత లోతైన హిమానీనద ద్రోణులను ఫియార్డులు అంటారు.",
+    "en": "Fjords (or fiords) are very deep glacial troughs filled with sea water that make up shorelines in high latitudes."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T04-0065",
+   "section": {
+    "te": "Convection Currents",
+    "en": "Convection Currents"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): భూమి యొక్క ప్రావారంలో (mantle) సంవహన ప్రవాహాలు ఏర్పడతాయి.\nకారణం (R): భూకేంద్ర మండలం నుండి వచ్చే వేడి వల్ల ద్రవ పదార్థం పైకి లేస్తుంది మరియు చల్లని పదార్థం క్రిందికి పోతుంది.\nసరైన సమాధానాన్ని ఎంచుకోండి:",
+    "en": "Assertion (A): Convection currents are created within the Earth's mantle.\nReason (R): Heat from the Earth's core causes molten material to rise while cooler material sinks.\nSelect the correct answer:"
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూకేంద్ర మండలం నుండి వచ్చే వేడి వల్ల వేడి ద్రవ పదార్థం పైకి లేవడం మరియు చల్లని పదార్థం క్రిందికి పోవడం వల్ల ప్రావారంలో సంవహన ప్రవాహాలు ఏర్పడతాయి.",
+    "en": "Convection currents in the mantle are indeed caused by the rising of hot molten material and the sinking of cooler material due to heat from the core."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T04-0123",
+   "section": {
+    "te": "Exogenic Energy Source",
+    "en": "Exogenic Energy Source"
+   },
+   "q": {
+    "te": "బహిర్జనిత శక్తులకు (exogenic forces) అవసరమైన శక్తి ప్రధానంగా దేని ద్వారా ప్రేరేపించబడుతుంది?",
+    "en": "The energy for exogenic forces is basically induced by:"
+   },
+   "options": {
+    "te": [
+     "రేడియోధార్మికత",
+     "సూర్యకాంతి",
+     "భూఉష్ణ ప్రవణతలు (Geothermal gradients)",
+     "అలల ఘర్షణ"
+    ],
+    "en": [
+     "Radioactivity",
+     "Sunlight",
+     "Geothermal gradients",
+     "Tidal friction"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "బాహ్య లేదా బహిర్జనిత శక్తులు ప్రధానంగా సూర్యకాంతి నుండి వచ్చే శక్తి ద్వారా నడపబడతాయి.",
+    "en": "External or exogenic forces are primarily driven by energy from sunlight."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T04-0162",
+   "section": {
+    "te": "Stages of landmass development",
+    "en": "Stages of landmass development"
+   },
+   "q": {
+    "te": "ఒక భూభాగం అభివృద్ధి చెందే దశలను మానవ జీవితంలోని ఏ దశలతో పోల్చారు?",
+    "en": "A landmass passes through stages of development comparable to which stages of life?"
+   },
+   "options": {
+    "te": [
+     "బాల్య, కౌమార మరియు వృద్ధాప్య దశలు",
+     "శైశవ, యవ్వన మరియు క్షీణ దశలు",
+     "జననం, పరిణామం మరియు విలుప్త దశలు",
+     "యువ (youth), ప్రౌఢ (mature) మరియు వృద్ధ (old age) దశలు"
+    ],
+    "en": [
+     "Childhood, adolescence and old age",
+     "Infancy, adulthood and senility",
+     "Birth, evolution and extinction",
+     "Youth, mature and old age"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూస్వరూపం యొక్క పరిణామ క్రమాన్ని మానవ జీవిత దశలైన యువ, ప్రౌఢ మరియు వృద్ధ దశలతో పోల్చడం జరిగింది.",
+    "en": "The stages of landmass development are compared to human life stages: youth, mature, and old age."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T04-0168",
+   "section": {
+    "te": "Gorge vs Canyon",
+    "en": "Gorge vs Canyon"
+   },
+   "q": {
+    "te": "గార్జ్ (Gorge) మరియు కాన్యన్ (Canyon)లను పోల్చుతూ క్రింది ప్రకటనలను పరిశీలించండి:\n1. గార్జ్ ఎగువ భాగం మరియు దిగువ భాగం వెడల్పు దాదాపు సమానంగా ఉంటుంది.\n2. కాన్యన్ దిగువ భాగం కంటే దాని ఎగువ భాగంలో ఎక్కువ వెడల్పుగా ఉంటుంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements comparing a gorge and a canyon:\n1. A gorge is almost equal in width at its top as well as its bottom.\n2. A canyon is wider at its top than at its bottom.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "గార్జ్ దాని పైభాగంలో మరియు అడుగుభాగంలో దాదాపు సమాన వెడల్పును కలిగి ఉంటుంది, అయితే కాన్యన్ అడుగుభాగం కంటే పైభాగంలో ఎక్కువ వెడల్పుగా ఉంటుంది.",
+    "en": "A gorge is almost equal in width at its top and bottom, whereas a canyon is wider at its top than at its bottom."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T04-0102",
+   "section": {
+    "te": "Cave Formations",
+    "en": "Cave Formations"
+   },
+   "q": {
+    "te": "భూగర్భ జలాల వల్ల గుహలలో ఏర్పడే నిర్మాణాలకు సంబంధించి, 'స్టాలక్టైట్లు' (stalactites) దేనిని సూచిస్తాయి?",
+    "en": "With reference to cave formations formed by underground water, which of the following correctly describes 'stalactites'?"
+   },
+   "options": {
+    "te": [
+     "గుహల నేల నుండి పైకి పెరిగే నిర్మాణాలు",
+     "నదులు ప్రవహించే భూగర్భ మార్గాలు",
+     "నేల కూలిపోవడం వల్ల ఏర్పడే లోతైన గుంటలు",
+     "గుహల పైకప్పు నుండి క్రిందికి వేలాడే మంచుగడ్డల వంటి నిర్మాణాలు"
+    ],
+    "en": [
+     "Formations rising from the floor of caves",
+     "Underground channels through which rivers flow",
+     "Depressions formed when the ground collapses into a cavity",
+     "Icicle-shaped formations hanging from the ceiling of caves"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "స్టాలక్టైట్లు అనేవి గుహల పైకప్పు భాగం నుండి క్రిందికి వేలాడే సూది లేదా మంచుగడ్డ ఆకారపు ఖనిజ నిర్మాణాలు.",
+    "en": "Stalactites are icicle-shaped mineral formations that hang downwards from the ceiling of caves."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T04-0080",
+   "section": {
+    "te": "Delta definition",
+    "en": "Delta definition"
+   },
+   "q": {
+    "te": "నది ప్రవాహ మార్గంలో డెల్టా ఎక్కడ ఏర్పడుతుంది?",
+    "en": "Where is a delta formed along the course of a river?"
+   },
+   "options": {
+    "te": [
+     "నది సముద్రం, మహాసముద్రం లేదా సరస్సులోకి కలిసే ముఖద్వారం వద్ద",
+     "ఎత్తైన పర్వతాలలో నది జన్మించే మూల ప్రదేశం వద్ద",
+     "భూగర్భ సున్నపురాయి గుహలలో మాత్రమే",
+     "ఎగువ భాగంలో నిటారైన లోయల వెంబడి"
+    ],
+    "en": [
+     "At the mouth of a river where it flows into a sea, ocean, or lake",
+     "At the source of a river where it originates in high mountains",
+     "Exclusively inside underground limestone caves",
+     "Along steep vertical drops in the river's upper course"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నది సముద్రం, మహాసముద్రం లేదా సరస్సులోకి ప్రవహించే ముఖద్వారం వద్ద తాను మోసుకొచ్చిన అవక్షేపాలను నిక్షిప్తం చేయడం ద్వారా డెల్టా ఏర్పడుతుంది.",
+    "en": "A delta forms at the mouth of a river where it empties into a body of water (such as a sea, ocean, or lake) and drops its sediment load."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T04-0191",
+   "section": {
+    "te": "Ox-bow lake formation point",
+    "en": "Ox-bow lake formation point"
+   },
+   "q": {
+    "te": "మియాండర్లు లోతైన వంపులుగా పెరిగినప్పుడు, ఏ నిర్దిష్ట స్థానాల వద్ద జరిగే కోత కారణంగా అవి వేరుపడి గుర్రపునాడా సరస్సులుగా (ఆక్స్‌బో సరస్సులు) ఏర్పడతాయి?",
+    "en": "When meanders grow into deep loops, cut-offs occur primarily due to erosion at which specific points, leaving behind ox-bow lakes?"
+   },
+   "options": {
+    "te": [
+     "ప్లంజ్ పూల్స్",
+     "పాయింట్ బార్ల మధ్యభాగం",
+     "కుంభాకార శీర్ష బిందువులు",
+     "ఇన్‌ఫ్లెక్షన్ బిందువులు (ఇన్‌ఫ్లెక్షన్ పాయింట్లు)"
+    ],
+    "en": [
+     "Plunge pools",
+     "Center of point bars",
+     "Convex apex points",
+     "Inflection points"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మియాండర్ల వంపులు తీవ్రమైనప్పుడు, ఇన్‌ఫ్లెక్షన్ బిందువుల వద్ద కోత జరగడం వల్ల అవి నది నుండి తెగిపోయి గుర్రపునాడా సరస్సులుగా మిగిలిపోతాయి.",
+    "en": "As meanders develop into deep loops, they are cut off due to erosion occurring at the inflection points, forming ox-bow lakes."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T04-0016",
+   "section": {
+    "te": "Andes Peak",
+    "en": "Andes Peak"
+   },
+   "q": {
+    "te": "ఆండీస్ పర్వత శ్రేణిలో అత్యంత ఎత్తైన శిఖరం ఏది?",
+    "en": "Which is the highest peak of the Andes mountain range?"
+   },
+   "options": {
+    "te": [
+     "మౌంట్ ఎవరెస్ట్",
+     "మౌంట్ బ్లాంక్",
+     "మౌంట్ అకాన్కాగువా",
+     "మౌంట్ కిలిమంజారో"
+    ],
+    "en": [
+     "Mount Everest",
+     "Mont Blanc",
+     "Mount Aconcagua",
+     "Mount Kilimanjaro"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "దక్షిణ అమెరికాలోని మౌంట్ అకాన్కాగువా ఆండీస్ శ్రేణిలో అత్యంత ఎత్తైన శిఖరం.",
+    "en": "Mount Aconcagua, located in South America, is the highest peak of the Andes range."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T04-0193",
+   "section": {
+    "te": "Causes of meandering",
+    "en": "Causes of meandering"
+   },
+   "q": {
+    "te": "నదులలో మియాండర్ ప్రవాహ నమూనాలు ఏర్పడటానికి క్రింది వాటిలో ఏవి కారణాలు?\n1. చాలా తక్కువ వాలుపై ప్రవహించే నీరు పార్శ్వంగా గట్లపై పనిచేసే స్వభావం\n2. గట్లను ఏర్పరిచే ఒండలి నిక్షేపాలు వదులుగా (అస్థిరంగా) ఉండటం\n3. ప్రవహించే నీటిని పక్కకు మళ్లించే కొరియాలిస్ బలం",
+    "en": "Meander channel patterns develop because of which of the following factors?\n1. Propensity of water flowing over very gentle gradients to work laterally\n2. Unconsolidated nature of alluvial deposits making up the banks\n3. Coriolis force deflecting fluid water"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "చాలా తక్కువ వాలుపై నీటి పార్శ్వ ప్రవాహం, ఒండలి నిక్షేపాల అస్థిర స్వభావం మరియు కొరియాలిస్ బలం అనే మూడూ మియాండర్లు ఏర్పడటానికి కారణాలు.",
+    "en": "Meanders develop due to gentle gradients causing lateral work, unconsolidated alluvium with irregularities, and the Coriolis force deflecting the flowing water."
+   }
+  }
+ ]
+}

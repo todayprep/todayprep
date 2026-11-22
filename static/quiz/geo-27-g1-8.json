@@ -1,0 +1,942 @@
+{
+ "id": "geo-27-g1-8",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Transport – క్విజ్ 8",
+  "en": "Transport – Quiz 8"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T27-0004",
+   "section": {
+    "te": "Thenmala Development",
+    "en": "Thenmala Development"
+   },
+   "q": {
+    "te": "తెన్మల ఎకో టూరిజం ప్రాజెక్టును కేరళలోని కింది ఏ శాఖలు సంయుక్తంగా అభివృద్ధి చేశాయి?",
+    "en": "The Thenmala Ecotourism project was jointly developed by which of the following departments of Kerala?"
+   },
+   "options": {
+    "te": [
+     "పర్యాటక మరియు అటవీ శాఖలు మాత్రమే",
+     "అటవీ మరియు నీటిపారుదల శాఖలు మాత్రమే",
+     "పర్యాటక, అటవీ మరియు నీటిపారుదల శాఖలు",
+     "పర్యాటక మరియు నీటిపారుదల శాఖలు మాత్రమే"
+    ],
+    "en": [
+     "Tourism and Forest Departments only",
+     "Forest and Irrigation Departments only",
+     "Tourism, Forest, and Irrigation Departments",
+     "Tourism and Irrigation Departments only"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్య భాగం ప్రకారం, ఈ ప్రాజెక్టును కేరళ పర్యాటక శాఖ, అటవీ శాఖ మరియు నీటిపారుదల శాఖలు సంయుక్తంగా అభివృద్ధి చేశాయి.",
+    "en": "The project was developed jointly by the Tourism Department, the Forest Department, and the Irrigation Department of Kerala."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T27-0342",
+   "section": {
+    "te": "Visakhapatnam Port Features",
+    "en": "Visakhapatnam Port Features"
+   },
+   "q": {
+    "te": "భూపరివేష్టిత నౌకాశ్రయమైన విశాఖపట్నం ఓడరేవు సముద్రంతో ఎలా అనుసంధానించబడి ఉంది?",
+    "en": "How is the land-locked harbour of Visakhapatnam Port connected to the sea?"
+   },
+   "options": {
+    "te": [
+     "గోదావరి నది నుండి నిర్మించిన మానవ నిర్మిత కాలువ ద్వారా",
+     "గట్టి రాయి మరియు ఇసుక గుండా తవ్విన కాలువ (channel) ద్వారా",
+     "సహజ సిద్ధమైన ఎస్ట్యూరీ ద్వారా",
+     "హుగ్లీ నది ద్వారా"
+    ],
+    "en": [
+     "Through a man-made canal from the Godavari river",
+     "Through a channel cut through solid rock and sand",
+     "Through a natural estuary",
+     "Through the Hugli river"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "విశాఖపట్నం ఓడరేవు ఒక భూపరివేష్టిత నౌకాశ్రయం, ఇది గట్టి రాయి మరియు ఇసుక గుండా తవ్విన కాలువ ద్వారా సముద్రంతో అనుసంధానించబడి ఉంటుంది.",
+    "en": "The Visakhapatnam Port is a land-locked harbour that connects to the sea via a channel specifically cut through solid rock and sand."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T27-0259",
+   "section": {
+    "te": "Water Transport Features",
+    "en": "Water Transport Features"
+   },
+   "q": {
+    "te": "భారతదేశంలో జల రవాణా యొక్క లక్షణాలు ఈ క్రింది వాటిలో ఏవి?",
+    "en": "Which of the following are characteristics of water transport in India?"
+   },
+   "options": {
+    "te": [
+     "అత్యంత చౌకైన రవాణా మార్గం",
+     "బరువైన మరియు భారీ వస్తువులను తీసుకెళ్లడానికి అనువైనది",
+     "ఇంధన సామర్థ్యం మరియు పర్యావరణ అనుకూలమైనది",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Cheapest means of transport",
+     "Suitable for heavy and bulky material",
+     "Fuel-efficient and eco-friendly",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జల రవాణా అత్యంత చౌకైనదిగా, భారీ సరుకులకు అత్యంత అనువైనదిగా, ఇంధన సామర్థ్యం మరియు పర్యావరణ అనుకూలమైనదిగా వర్ణించబడింది.",
+    "en": "Water transport is described as the cheapest, most suitable for heavy cargo, fuel-efficient, and eco-friendly."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T27-0046",
+   "section": {
+    "te": "National Waterway 3",
+    "en": "National Waterway 3"
+   },
+   "q": {
+    "te": "వెస్ట్-కోస్ట్ కెనాల్ (కొట్టాపురం-కొల్లం, ఉద్యోగమండల్ మరియు చంపాకర కాలువలు) తో కూడిన జాతీయ జలమార్గం నం. 3 ఏ రాష్ట్రంలో ఉంది?",
+    "en": "National Waterway No. 3, which comprises the West-Coast Canal (Kottapuram-Kollam, Udyogamandal and Champakkara canals), is located in which state?"
+   },
+   "options": {
+    "te": [
+     "తమిళనాడు",
+     "కేరళ",
+     "కర్ణాటక",
+     "మహారాష్ట్ర"
+    ],
+    "en": [
+     "Tamil Nadu",
+     "Kerala",
+     "Karnataka",
+     "Maharashtra"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "జాతీయ జలమార్గం నం. 3 కేరళ రాష్ట్రంలోని వెస్ట్-కోస్ట్ కెనాల్‌లో ఉంది.",
+    "en": "National Waterway No. 3 comprises the West-Coast Canal located in Kerala."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T27-0094",
+   "section": {
+    "te": "Road Transport Advantage",
+    "en": "Road Transport Advantage"
+   },
+   "q": {
+    "te": "ఇతర రవాణా మార్గాలతో పోలిస్తే రోడ్డు ద్వారా సరుకు రవాణా ఎందుకు ప్రాధాన్యత సంతరించుకుంటోంది?",
+    "en": "Why is freight transport by road gaining importance compared to other modes of transport?"
+   },
+   "options": {
+    "te": [
+     "ఇది సుదూర ప్రాంతాలకు అత్యంత వేగవంతమైన మార్గం",
+     "ఇది భారీ వర్షాల వల్ల ప్రభావితం కాదు",
+     "దీనికి నిర్వహణ ఖర్చు చాలా తక్కువ",
+     "ఇది ఇంటి వద్దకే సేవలను (door-to-door service) అందిస్తుంది"
+    ],
+    "en": [
+     "It is the fastest mode for long distances",
+     "It is unaffected by heavy rains",
+     "It has the lowest maintenance cost",
+     "It offers door-to-door service"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రోడ్డు రవాణా ఇంటి వద్దకే సేవలను అందించే ప్రత్యేక ప్రయోజనాన్ని కలిగి ఉన్నందున సరుకు రవాణాలో ప్రాధాన్యత సంతరించుకుంటోంది.",
+    "en": "Road transport is gaining importance in freight because it provides the unique advantage of door-to-door service."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T27-0277",
+   "section": {
+    "te": "Communication Systems",
+    "en": "Communication Systems"
+   },
+   "q": {
+    "te": "ఈ క్రింది వాటిలో ఏది అత్యంత ప్రభావవంతమైన మరియు అధునాతన వ్యక్తిగత సమాచార వ్యవస్థగా పరిగణించబడుతుంది?",
+    "en": "Which of the following is considered the most effective and advanced personal communication system?"
+   },
+   "options": {
+    "te": [
+     "రేడియో",
+     "టెలివిజన్",
+     "టెలిగ్రాఫ్",
+     "ఇంటర్నెట్"
+    ],
+    "en": [
+     "Radio",
+     "Television",
+     "Telegraph",
+     "Internet"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఇంటర్నెట్ అత్యంత అధునాతన మరియు ప్రభావవంతమైన వ్యక్తిగత సమాచార వ్యవస్థగా గుర్తించబడింది, ఇది ప్రత్యక్ష సంబంధాన్ని మరియు సమాచార ప్రాప్తిని అనుమతిస్తుంది.",
+    "en": "The internet is identified as the most advanced and effective personal communication system, enabling direct contact and access to information."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T27-0008",
+   "section": {
+    "te": "Suez Canal Connectivity",
+    "en": "Suez Canal Connectivity"
+   },
+   "q": {
+    "te": "సూయజ్ కాలువ కింది ఏ రెండు జలభాగాలను కలుపుతుంది?",
+    "en": "The Suez Canal connects which of the following two water bodies?"
+   },
+   "options": {
+    "te": [
+     "మధ్యధరా సముద్రం మరియు నల్ల సముద్రం",
+     "ఎర్ర సముద్రం మరియు మధ్యధరా సముద్రం",
+     "హిందూ మహాసముద్రం మరియు కాస్పియన్ సముద్రం",
+     "ఎర్ర సముద్రం మరియు అరేబియా సముద్రం"
+    ],
+    "en": [
+     "Mediterranean Sea and Black Sea",
+     "Red Sea and Mediterranean Sea",
+     "Indian Ocean and Caspian Sea",
+     "Red Sea and Arabian Sea"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సూయజ్ కాలువ అనేది ఎర్ర సముద్రాన్ని మధ్యధరా సముద్రంతో కలిపే మానవ నిర్మిత మార్గం.",
+    "en": "The Suez Canal is a human-made passage that connects the Red Sea with the Mediterranean Sea."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T27-0024",
+   "section": {
+    "te": "NHAI Implementation",
+    "en": "NHAI Implementation"
+   },
+   "q": {
+    "te": "స్వర్ణ చతుర్భుజి సూపర్ హైవే ప్రాజెక్టులను క్రింది ఏ సంస్థ అమలు చేస్తోంది?",
+    "en": "The Golden Quadrilateral Super Highway projects are implemented by which of the following organisations?"
+   },
+   "options": {
+    "te": [
+     "సెంట్రల్ పబ్లిక్ వర్క్స్ డిపార్ట్‌మెంట్ (CPWD)",
+     "ఇండియన్ రైల్వే కన్‌స్ట్రక్షన్ లిమిటెడ్ (IRCON)",
+     "నేషనల్ హైవేస్ అథారిటీ ఆఫ్ ఇండియా (NHAI)",
+     "బోర్డర్ రోడ్స్ ఆర్గనైజేషన్ (BRO)"
+    ],
+    "en": [
+     "Central Public Works Department (CPWD)",
+     "Indian Railway Construction Limited (IRCON)",
+     "National Highway Authority of India (NHAI)",
+     "Border Roads Organisation (BRO)"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఈ సూపర్ హైవే ప్రాజెక్టులను నేషనల్ హైవేస్ అథారిటీ ఆఫ్ ఇండియా (NHAI) అమలు చేస్తోంది.",
+    "en": "These Super Highway projects are being implemented by the National Highway Authority of India (NHAI)."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T27-0117",
+   "section": {
+    "te": "African Railways",
+    "en": "African Railways"
+   },
+   "q": {
+    "te": "బెంగ్యులా రైల్వే అంగోలా గుండా కింది ఏ ప్రాంతానికి వెళుతుంది?",
+    "en": "The Benguela Railway runs through Angola to which of the following regions?"
+   },
+   "options": {
+    "te": [
+     "అల్జీర్స్",
+     "దార్-ఎస్-సలామ్ తీరం",
+     "ప్రిటోరియా",
+     "కటంగా-జాంబియా కాపర్ బెల్ట్"
+    ],
+    "en": [
+     "Algiers",
+     "Dar-es-Salaam coast",
+     "Pretoria",
+     "Katanga-Zambia Copper Belt"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "బెంగ్యులా రైల్వే అంగోలా గుండా కటంగా-జాంబియా కాపర్ బెల్ట్‌కు వెళుతుందని పాఠ్య భాగం పేర్కొంది.",
+    "en": "The Benguela Railway goes through Angola to the Katanga-Zambia Copper Belt."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T27-0298",
+   "section": {
+    "te": "Mineral Export Trend",
+    "en": "Mineral Export Trend"
+   },
+   "q": {
+    "te": "2015-16 మరియు 2021-22 మధ్య 'ఖనిజ ధాతువులు మరియు ఖనిజాల' ఎగుమతి వాటాకు సంబంధించి ఈ క్రింది వాటిలో ఏ ప్రకటన సరైనది?",
+    "en": "Which of the following statements is correct regarding the export share of 'Ore and Minerals' between 2015-16 and 2021-22?"
+   },
+   "options": {
+    "te": [
+     "ఇది తీవ్రమైన తగ్గుదలని చూపింది.",
+     "ఇది గణనీయమైన వృద్ధిని చూపింది.",
+     "ఇది చాలా వరకు స్థిరంగా ఉంది.",
+     "ఇది ప్రతి సంవత్సరం విపరీతంగా హెచ్చుతగ్గులకు లోనైంది."
+    ],
+    "en": [
+     "It has shown a sharp decline.",
+     "It has shown a significant growth.",
+     "It has largely remained constant.",
+     "It has fluctuated wildly every year."
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "2015-16 నుండి 2021-22 వరకు ఎగుమతుల్లో ఖనిజ ధాతువులు మరియు ఖనిజాల వాటా చాలా వరకు స్థిరంగా ఉందని మూలం పేర్కొంది.",
+    "en": "The share of ore and minerals in exports remained largely constant during the period from 2015-16 to 2021-22."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T27-0290",
+   "section": {
+    "te": "Trade Growth Reasons",
+    "en": "Trade Growth Reasons"
+   },
+   "q": {
+    "te": "ఇటీవలి సంవత్సరాలలో భారతదేశ విదేశీ వాణిజ్యం వేగంగా పెరగడానికి ఈ క్రింది వాటిలో ఏవి కారణాలు?",
+    "en": "Which of the following are reasons for the sharp rise in India's overseas trade in recent years?"
+   },
+   "options": {
+    "te": [
+     "తయారీ రంగాలలో వేగం",
+     "ప్రభుత్వం యొక్క ఉదారవాద విధానాలు",
+     "మార్కెట్ల వైవిధ్యీకరణ",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Momentum in manufacturing sectors",
+     "Liberal policies of the government",
+     "Diversification of markets",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "తయారీ రంగంలో వేగం, ప్రభుత్వ సరళీకరణ మరియు మార్కెట్ వైవిధ్యీకరణ కారణంగా విదేశీ వాణిజ్యం వృద్ధి చెందింది.",
+    "en": "The growth in overseas trade is attributed to manufacturing momentum, government liberalization, and market diversification."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T27-0150",
+   "section": {
+    "te": "North Pacific Convergence",
+    "en": "North Pacific Convergence"
+   },
+   "q": {
+    "te": "విశాలమైన ఉత్తర పసిఫిక్ మహాసముద్రం మీదుగా సాగే వాణిజ్య మార్గాలు క్రింది ఏ కేంద్రం వద్ద కలుస్తాయి?",
+    "en": "Trade routes across the vast North Pacific Ocean converge at which of the following nodal points?"
+   },
+   "options": {
+    "te": [
+     "వాంకూవర్",
+     "సింగపూర్",
+     "హోనోలులు",
+     "మనీలా"
+    ],
+    "en": [
+     "Vancouver",
+     "Singapore",
+     "Honolulu",
+     "Manila"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఉత్తర పసిఫిక్ మహాసముద్రం మీదుగా సాగే అనేక వాణిజ్య సముద్ర మార్గాలు హోనోలులు వద్ద కేంద్రీకృతమవుతాయి.",
+    "en": "Trade across the vast North Pacific Ocean moves by several routes which converge at Honolulu."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T27-0101",
+   "section": {
+    "te": "Human Carriers",
+    "en": "Human Carriers"
+   },
+   "q": {
+    "te": "ఉత్తర భారతదేశంలో పల్లకిని (palki/doli) మోసే నలుగురు వ్యక్తులను ఏమని పిలుస్తారు?",
+    "en": "In North India, what are the four persons who carry a palanquin (palki/doli) called?"
+   },
+   "options": {
+    "te": [
+     "షెర్పాలు",
+     "కహార్‌లు (Kahars)",
+     "పోర్టర్లు",
+     "బార్జ్‌లు"
+    ],
+    "en": [
+     "Sherpas",
+     "Kahars",
+     "Porters",
+     "Barges"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఉత్తర భారతదేశంలో పల్లకిని మోసే నలుగురు వ్యక్తులను కహార్‌లు అని పిలుస్తారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "In North India, the four persons carrying a palanquin are known as Kahars."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T27-0227",
+   "section": {
+    "te": "Golden Quadrilateral",
+    "en": "Golden Quadrilateral"
+   },
+   "q": {
+    "te": "స్వర్ణ చతుర్భుజి (Golden Quadrilateral) ప్రాజెక్టుకు సంబంధించి క్రింది వాటిలో ఏది సరైనది కాదు?",
+    "en": "Which of the following is NOT correct regarding the Golden Quadrilateral project?"
+   },
+   "options": {
+    "te": [
+     "దీని పొడవు 5,846 కి.మీ.",
+     "ఇది ఢిల్లీ, ముంబై, చెన్నై మరియు కోల్‌కతాలను కలుపుతుంది.",
+     "ఇది 4/6 లేన్ల అధిక సాంద్రత కలిగిన ట్రాఫిక్ కారిడార్.",
+     "ఇది ప్రాథమికంగా గ్రామీణ ప్రాంతాలను ఓడరేవులకు అనుసంధానించడానికి రూపొందించబడింది."
+    ],
+    "en": [
+     "It is 5,846 km long.",
+     "It connects Delhi, Mumbai, Chennai, and Kolkata.",
+     "It is a 4/6 lane high density traffic corridor.",
+     "It was designed primarily to connect rural areas to ports."
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "స్వర్ణ చతుర్భుజి నాలుగు పెద్ద మెట్రో నగరాలను అనుసంధానించడానికి రూపొందించబడింది, ప్రాథమికంగా గ్రామీణ ప్రాంతాలను ఓడరేవులకు అనుసంధానించడానికి కాదు.",
+    "en": "The Golden Quadrilateral is designed to connect the four big metro cities, not primarily to connect rural areas to ports."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T27-0335",
+   "section": {
+    "te": "Diamond Harbour",
+    "en": "Diamond Harbour"
+   },
+   "q": {
+    "te": "హుగ్లీ నదిపై ఏ నగరం సమీపంలో డైమండ్ హార్బర్ అభివృద్ధి చేయబడింది?",
+    "en": "Diamond Harbour was developed near which city on the river Hugli?"
+   },
+   "options": {
+    "te": [
+     "ముంబై",
+     "కోల్‌కతా",
+     "విశాఖపట్నం",
+     "చెన్నై"
+    ],
+    "en": [
+     "Mumbai",
+     "Kolkata",
+     "Visakhapatnam",
+     "Chennai"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "విభజన నష్టాలను పూడ్చడానికి హుగ్లీ నదిపై కోల్‌కతా సమీపంలో డైమండ్ హార్బర్ అభివృద్ధి చేయబడింది.",
+    "en": "Diamond Harbour was developed near Kolkata on the river Hugli to compensate for partition losses."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T27-0347",
+   "section": {
+    "te": "Paradwip Port Purpose",
+    "en": "Paradwip Port Purpose"
+   },
+   "q": {
+    "te": "పారాదీప్ ఓడరేవు ప్రధానంగా ఏ వస్తువు యొక్క భారీ ఎగుమతులను నిర్వహించడానికి అభివృద్ధి చేయబడింది?",
+    "en": "Paradwip Port was developed mainly to handle the large-scale export of which commodity?"
+   },
+   "options": {
+    "te": [
+     "జనపనార ఉత్పత్తులు",
+     "ఇనుము ఖనిజం (Iron-ore)",
+     "బొగ్గు",
+     "పెట్రోలియం"
+    ],
+    "en": [
+     "Jute products",
+     "Iron-ore",
+     "Coal",
+     "Petroleum"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పారాదీప్ ఓడరేవు అభివృద్ధి యొక్క ప్రధాన ఉద్దేశ్యం ఇనుము ఖనిజం యొక్క భారీ ఎగుమతులను నిర్వహించడం.",
+    "en": "The primary purpose for the development of Paradwip Port was to handle the large-scale export of iron-ore."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T27-0197",
+   "section": {
+    "te": "Satellite Communication",
+    "en": "Satellite Communication"
+   },
+   "q": {
+    "te": "శాటిలైట్ కమ్యూనికేషన్ పరంగా, కమ్యూనికేషన్ యొక్క యూనిట్ ఖర్చు 'దూరంతో సంబంధం లేకుండా స్థిరంగా ఉంటుంది' (invariant in terms of distance) అంటే ఏమిటి?",
+    "en": "Regarding satellite communication, what does it mean when the unit cost of communication is 'invariant in terms of distance'?"
+   },
+   "options": {
+    "te": [
+     "దూరంతో పాటు ఖర్చు పెరుగుతుంది",
+     "డేటా బరువును బట్టి ఖర్చు నిర్ణయించబడుతుంది",
+     "దూరంతో సంబంధం లేకుండా ఖర్చు ఒకేలా ఉంటుంది",
+     "దూరం పెరిగే కొద్దీ ఖర్చు తగ్గుతుంది"
+    ],
+    "en": [
+     "The cost increases linearly with distance",
+     "The cost is determined by the weight of the data",
+     "The cost remains the same regardless of the distance",
+     "The cost decreases as distance increases"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "శాటిలైట్ కమ్యూనికేషన్ యూనిట్ ఖర్చును దూరంతో సంబంధం లేకుండా చేసింది, అంటే 500 కి.మీ దూరానికి అయ్యే ఖర్చే 5,000 కి.మీ దూరానికి కూడా అవుతుంది.",
+    "en": "Satellite communication has rendered the unit cost invariant of distance, meaning it costs the same to communicate over 500 km as it does over 5,000 km."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T27-0027",
+   "section": {
+    "te": "Atal Tunnel Length",
+    "en": "Atal Tunnel Length"
+   },
+   "q": {
+    "te": "బోర్డర్ రోడ్స్ ఆర్గనైజేషన్ నిర్మించిన అటల్ టన్నెల్ మొత్తం పొడవు ఎంత?",
+    "en": "What is the total length of the Atal Tunnel built by the Border Roads Organisation?"
+   },
+   "options": {
+    "te": [
+     "8.45 కి.మీ.",
+     "7.50 కి.మీ.",
+     "9.02 కి.మీ.",
+     "11.20 కి.మీ."
+    ],
+    "en": [
+     "8.45 Km",
+     "7.50 Km",
+     "9.02 Km",
+     "11.20 Km"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రపంచంలోనే అత్యంత పొడవైన హైవే టన్నెల్ అయిన అటల్ టన్నెల్ పొడవు 9.02 కి.మీ.",
+    "en": "The Atal Tunnel, the world's longest highway tunnel built by BRO, is 9.02 Km long."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T27-0263",
+   "section": {
+    "te": "Mahatma Gandhi on Railways",
+    "en": "Mahatma Gandhi on Railways"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): భారతీయ రైల్వేలు విభిన్న సంస్కృతుల ప్రజలను ఏకం చేశాయని మహాత్మా గాంధీ పేర్కొన్నారు.\nకారణం (R): ఈ సాంస్కృతిక ఏకీకరణ భారతదేశ స్వాతంత్ర్య పోరాటానికి దోహదపడింది.",
+    "en": "Assertion (A): Mahatma Gandhi stated that Indian railways brought people of diverse cultures together.\nReason (R): This cultural integration contributed to India’s freedom struggle."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "రైల్వేలు విభిన్న సంస్కృతులను ఏకం చేశాయని మహాత్మా గాంధీ గమనించారు, ఇది దేశ స్వాతంత్ర్య ఉద్యమానికి సహాయపడింది.",
+    "en": "Mahatma Gandhi observed that railways united diverse cultures, which in turn aided the national movement for independence."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T27-0223",
+   "section": {
+    "te": "Road Planning Chronology",
+    "en": "Road Planning Chronology"
+   },
+   "q": {
+    "te": "భారతీయ రోడ్డు రవాణా చరిత్రలోని క్రింది సంఘటనలను సరైన కాలక్రమానుసారంగా అమర్చండి:\n1. ఇరవై ఏళ్ల రోడ్డు ప్రణాళిక (Twenty-year road plan) పరిచయం\n2. 'నాగ్‌పూర్ ప్లాన్' రూపకల్పన\n3. NHAI కార్యకలాపాల ప్రారంభం",
+    "en": "Arrange the following events in Indian road transport history in the correct chronological order:\n1. Introduction of the Twenty-year road plan\n2. Drawing of the 'Nagpur Plan'\n3. Operationalization of NHAI"
+   },
+   "options": {
+    "te": [
+     "1-2-3",
+     "2-1-3",
+     "2-3-1",
+     "3-2-1"
+    ],
+    "en": [
+     "1-2-3",
+     "2-1-3",
+     "2-3-1",
+     "3-2-1"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "నాగ్‌పూర్ ప్లాన్ 1943లో రూపొందించబడింది, ఇరవై ఏళ్ల రోడ్డు ప్రణాళిక 1961లో ప్రవేశపెట్టబడింది మరియు NHAI 1995లో పని చేయడం ప్రారంభించింది.",
+    "en": "The Nagpur Plan was drawn in 1943, the Twenty-year road plan was introduced in 1961, and NHAI was operationalized in 1995."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T27-0133",
+   "section": {
+    "te": "Trans-Canadian Railway construction",
+    "en": "Trans-Canadian Railway construction"
+   },
+   "q": {
+    "te": "పశ్చిమ తీరంలోని బ్రిటిష్ కొలంబియా రాష్ట్రాల సమాఖ్యలో చేరడానికి కుదిరిన ఒప్పందంలో భాగంగా ట్రాన్స్-కెనడియన్ రైల్వే ఏ సంవత్సరంలో నిర్మించబడింది?",
+    "en": "In which year was the Trans-Canadian Railway constructed to fulfill an agreement that brought British Columbia into the Federation of States?"
+   },
+   "options": {
+    "te": [
+     "1882",
+     "1875",
+     "1869",
+     "1886"
+    ],
+    "en": [
+     "1882",
+     "1875",
+     "1869",
+     "1886"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ట్రాన్స్-కెనడియన్ రైల్వే 1886లో బ్రిటిష్ కొలంబియాను సమాఖ్యలో చేర్చే ఒప్పందం ప్రకారం నిర్మించబడింది.",
+    "en": "The 7,050 km long Trans-Canadian Railway was constructed in 1886 to make British Columbia join the Federation of States."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T27-0332",
+   "section": {
+    "te": "Kamarajar Port",
+    "en": "Kamarajar Port"
+   },
+   "q": {
+    "te": "ఓడరేవు ఒత్తిడిని తగ్గించడానికి కామరాజర్ (ఎన్నూర్) ఓడరేవు ఏ నగరానికి ఉత్తరాన 25 కి.మీ దూరంలో నిర్మించబడింది?",
+    "en": "Kamarajar (Ennore) port was constructed 25 km north of which city to relieve port pressure?"
+   },
+   "options": {
+    "te": [
+     "తూత్తుకుడి",
+     "మంగళూరు",
+     "చెన్నై",
+     "కొచ్చి"
+    ],
+    "en": [
+     "Tuticorin",
+     "Mangalore",
+     "Chennai",
+     "Kochi"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "చెన్నై ఓడరేవు వద్ద ఒత్తిడిని తగ్గించడానికి చెన్నైకి ఉత్తరాన 25 కి.మీ దూరంలో కామరాజర్ ఓడరేవు నిర్మించబడింది.",
+    "en": "Kamarajar port was built 25 km north of Chennai to relieve the pressure at Chennai port."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T27-0231",
+   "section": {
+    "te": "Rural Roads Share",
+    "en": "Rural Roads Share"
+   },
+   "q": {
+    "te": "భారతదేశంలోని మొత్తం రోడ్డు పొడవులో ఎంత శాతం గ్రామీణ రహదారులుగా వర్గీకరించబడింది?",
+    "en": "What percentage of the total road length in India is categorized as rural roads?"
+   },
+   "options": {
+    "te": [
+     "2 శాతం",
+     "40 శాతం",
+     "70 శాతం",
+     "80 శాతం"
+    ],
+    "en": [
+     "2 per cent",
+     "40 per cent",
+     "70 per cent",
+     "80 per cent"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "గ్రామీణ అనుసంధానానికి గ్రామీణ రహదారులు చాలా ముఖ్యమైనవి మరియు ఇవి భారతదేశం మొత్తం రోడ్డు పొడవులో సుమారు 80% ఉన్నాయి.",
+    "en": "Rural roads are vital for rural links and constitute about 80% of India's total road length."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T27-0135",
+   "section": {
+    "te": "Australian Trans-Continental Railway",
+    "en": "Australian Trans-Continental Railway"
+   },
+   "q": {
+    "te": "ఆస్ట్రేలియన్ ట్రాన్స్-కాంటినెంటల్ రైల్వే ఖండం అంతటా ఏ రెండు చివర నగరాలను కలుపుతుంది?",
+    "en": "The Australian Trans-Continental Railway connects which two terminal cities across the continent?"
+   },
+   "options": {
+    "te": [
+     "పెర్త్ మరియు అడిలైడ్",
+     "పెర్త్ మరియు సిడ్నీ",
+     "డార్విన్ మరియు మెల్‌బోర్న్",
+     "అడిలైడ్ మరియు బ్రిస్బేన్"
+    ],
+    "en": [
+     "Perth and Adelaide",
+     "Perth and Sydney",
+     "Darwin and Melbourne",
+     "Adelaide and Brisbane"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఆస్ట్రేలియన్ ట్రాన్స్-కాంటినెంటల్ రైల్వే పశ్చిమ తీరంలోని పెర్త్ నుండి తూర్పు తీరంలోని సిడ్నీ వరకు విస్తరించి ఉంది.",
+    "en": "The Australian Trans-Continental Railway runs from Perth on the west coast to Sydney on the east coast."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T27-0271",
+   "section": {
+    "te": "Cross Country Pipeline",
+    "en": "Cross Country Pipeline"
+   },
+   "q": {
+    "te": "1,157 కిలోమీటర్ల మేర నిర్మించిన ఆసియాలోనే మొట్టమొదటి క్రాస్ కంట్రీ పైప్‌లైన్ ఏ రెండు ప్రాంతాల మధ్య నిర్మించబడింది?",
+    "en": "Asia’s first cross-country pipeline, covering 1,157 km, was constructed between which two points?"
+   },
+   "options": {
+    "te": [
+     "ముంబై హై మరియు బాస్సేన్",
+     "నహర్కటియా మరియు బరౌని",
+     "బరౌని మరియు కాన్పూర్",
+     "హజీరా మరియు జగదీష్‌పూర్"
+    ],
+    "en": [
+     "Mumbai High and Bassein",
+     "Naharkatiya and Barauni",
+     "Barauni and Kanpur",
+     "Hazira and Jagdishpur"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఆసియాలో మొట్టమొదటి క్రాస్ కంట్రీ పైప్‌లైన్‌ను అస్సాంలోని నహర్కటియా చమురు క్షేత్రం నుండి బీహార్‌లోని బరౌని రిఫైనరీ వరకు OIL నిర్మించింది.",
+    "en": "The first cross-country pipeline in Asia was built by OIL from the Naharkatiya oilfield in Assam to the Barauni refinery in Bihar."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T27-0287",
+   "section": {
+    "te": "IRS Satellite",
+    "en": "IRS Satellite"
+   },
+   "q": {
+    "te": "మొదటి ఇండియన్ రిమోట్ సెన్సింగ్ శాటిలైట్, IRS-IA, మార్చి 1988లో ఏ ప్రదేశం నుండి ప్రయోగించబడింది?",
+    "en": "From which location was the first Indian Remote Sensing Satellite, IRS-IA, launched in March 1988?"
+   },
+   "options": {
+    "te": [
+     "శ్రీహరికోట, భారతదేశం",
+     "కౌరౌ, ఫ్రెంచ్ గయానా",
+     "కేప్ కెనావెరల్, USA",
+     "వైకనూర్, రష్యా"
+    ],
+    "en": [
+     "Sriharikota, India",
+     "Kourou, French Guiana",
+     "Cape Canaveral, USA",
+     "Vaikanour, Russia"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "IRS-IA ఉపగ్రహం మార్చి 1988లో రష్యాలోని వైకనూర్ నుండి ప్రయోగించబడిన తర్వాత పని చేయడం ప్రారంభించింది.",
+    "en": "The IRS-IA satellite became operational after being launched from Vaikanour in Russia in March 1988."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T27-0113",
+   "section": {
+    "te": "Channel Tunnel",
+    "en": "Channel Tunnel"
+   },
+   "q": {
+    "te": "యూరో టన్నెల్ గ్రూప్ ద్వారా నిర్వహించబడే ఛానల్ టన్నెల్ ఏ రెండు ప్రధాన నగరాలను కలుపుతుంది?",
+    "en": "Which two major cities are connected by the Channel Tunnel operated by the Euro Tunnel Group?"
+   },
+   "options": {
+    "te": [
+     "లండన్ మరియు పారిస్",
+     "మాస్కో మరియు వ్లాడివోస్టాక్",
+     "పారిస్ మరియు బ్రస్సెల్స్",
+     "లండన్ మరియు బెర్లిన్"
+    ],
+    "en": [
+     "London and Paris",
+     "Moscow and Vladivostok",
+     "Paris and Brussels",
+     "London and Berlin"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఛానల్ టన్నెల్ ఇంగ్లాండ్‌లోని లండన్‌ను ఫ్రాన్స్‌లోని పారిస్‌తో కలుపుతుంది.",
+    "en": "The Channel Tunnel connects London in England with Paris in France."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T27-0050",
+   "section": {
+    "te": "New Mangalore port iron ore source",
+    "en": "New Mangalore port iron ore source"
+   },
+   "q": {
+    "te": "కర్ణాటకలోని న్యూ మంగళూరు ఓడరేవు క్రింది ఏ గనుల నుండి ఇనుప ఖనిజ ఎగుమతిని నిర్వహిస్తుంది?",
+    "en": "The New Mangalore port in Karnataka caters to the export of iron ore concentrates from which of the following mines?"
+   },
+   "options": {
+    "te": [
+     "కుద్రేముఖ్ గనులు",
+     "రత్నగిరి గనులు",
+     "మయూర్ భంజ్ గనులు",
+     "బైలదిల్లా గనులు"
+    ],
+    "en": [
+     "Kudremukh mines",
+     "Ratnagiri mines",
+     "Mayurbhanj mines",
+     "Bailadila mines"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "న్యూ మంగళూరు పోర్ట్ కుద్రేముఖ్ గనుల నుండి లభించే ఇనుప ఖనిజాన్ని ఎగుమతి చేస్తుంది.",
+    "en": "New Mangalore port handles iron ore concentrates exported from Kudremukh mines."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T27-0055",
+   "section": {
+    "te": "Balance of Trade",
+    "en": "Balance of Trade"
+   },
+   "q": {
+    "te": "వాణిజ్య సమతుల్యత (Balance of trade) కు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఒక దేశం యొక్క ఎగుమతులు మరియు దిగుమతుల మధ్య వ్యత్యాసాన్ని వాణిజ్య సమతుల్యత అంటారు.\n2. దిగుమతుల విలువ ఎగుమతుల విలువ కంటే ఎక్కువగా ఉంటే, దానిని అనుకూల వాణిజ్య సమతుల్యత (favourable balance of trade) అంటారు.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the balance of trade:\n1. The balance of trade of a country is the difference between its export and import.\n2. When the value of imports exceeds the value of exports, it is called a favourable balance of trade.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఎగుమతులు మరియు దిగుమతుల మధ్య వ్యత్యాసాన్ని వాణిజ్య సమతుల్యత అంటారు కాబట్టి 1వ ప్రకటన సరైనది. దిగుమతుల విలువ ఎగుమతుల కంటే ఎక్కువైతే దానిని ప్రతికూల వాణిజ్య సమతుల్యత అంటారు, కాబట్టి 2వ ప్రకటన తప్పు.",
+    "en": "Statement 1 is correct as balance of trade is the difference between export and import. Statement 2 is incorrect because when the value of imports exceeds exports, it is termed an unfavourable balance of trade."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T27-0301",
+   "section": {
+    "te": "PSLV Full Form",
+    "en": "PSLV Full Form"
+   },
+   "q": {
+    "te": "భారతదేశం అభివృద్ధి చేసిన ఉపగ్రహ ప్రయోగ వాహనం PSLV యొక్క పూర్తి రూపం ఏమిటి?",
+    "en": "What is the full form of the satellite launching vehicle PSLV developed by India?"
+   },
+   "options": {
+    "te": [
+     "Primary Space Launch Vehicle",
+     "Polar Satellite Launch Vehicle",
+     "Power Satellite Launch Vehicle",
+     "Public Satellite Launch Vehicle"
+    ],
+    "en": [
+     "Primary Space Launch Vehicle",
+     "Polar Satellite Launch Vehicle",
+     "Power Satellite Launch Vehicle",
+     "Public Satellite Launch Vehicle"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "PSLV అంటే పోలార్ శాటిలైట్ లాంచ్ వెహికల్, దీనిని ఉపగ్రహాలను ప్రయోగించడానికి భారతదేశం అభివృద్ధి చేసింది.",
+    "en": "PSLV stands for Polar Satellite Launch Vehicle, which was developed by India for launching satellites."
+   }
+  }
+ ]
+}

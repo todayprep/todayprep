@@ -1,0 +1,942 @@
+{
+ "id": "geo-29-g1-5",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Natural Resources and Conservation – క్విజ్ 5",
+  "en": "Natural Resources and Conservation – Quiz 5"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T29-0227",
+   "section": {
+    "te": "Causes of Land Degradation",
+    "en": "Causes of Land Degradation"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఏ ప్రక్రియలు భూమి క్షీణతకు దారితీస్తాయి?",
+    "en": "Which of the following processes lead to land degradation?"
+   },
+   "options": {
+    "te": [
+     "నేల కోత మరియు నీటి నిల్వ",
+     "లవణీయత (Salinisation)",
+     "క్షారత (Alkalinisation)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Soil erosion and Waterlogging",
+     "Salinisation",
+     "Alkalinisation",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నేల కోత, నీటి నిల్వ, లవణీయత మరియు క్షారత అన్నీ భూమి క్షీణతకు దోహదపడే కారకాలు.",
+    "en": "Soil erosion, waterlogging, salinisation, and alkalinisation are all factors that contribute to land degradation."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T29-0101",
+   "section": {
+    "te": "Dam Classification",
+    "en": "Dam Classification"
+   },
+   "q": {
+    "te": "నిర్మాణం మరియు ఉపయోగించిన పదార్థాల ఆధారంగా, ఆనకట్టలను క్రింది వాటిలో ఏవిగా వర్గీకరించారు?",
+    "en": "Based on the structure and materials used, which of the following are classifications of dams?"
+   },
+   "options": {
+    "te": [
+     "టింబర్ (Timber) ఆనకట్టలు",
+     "ఎంబాంక్మెంట్ (Embankment) ఆనకట్టలు",
+     "మేసనరీ (Masonry) ఆనకట్టలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Timber dams",
+     "Embankment dams",
+     "Masonry dams",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నిర్మాణం మరియు ఉపయోగించిన పదార్థాల ఆధారంగా ఆనకట్టలను టింబర్, ఎంబాంక్మెంట్ మరియు మేసనరీ ఆనకట్టలుగా వర్గీకరించారు.",
+    "en": "Dams are classified into timber, embankment, and masonry dams based on their structure and the materials used in construction."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T29-0093",
+   "section": {
+    "te": "Water Quality Degradation",
+    "en": "Water Quality Degradation"
+   },
+   "q": {
+    "te": "పుష్కలంగా నీరు ఉన్నప్పటికీ, క్రింది వేటి వల్ల కలుషితమై అది మానవ వినియోగానికి ప్రమాదకరంగా మారుతుంది?",
+    "en": "Even in areas with ample water to meet people's needs, water can become hazardous for human use due to pollution caused by which of the following?"
+   },
+   "options": {
+    "te": [
+     "గృహ మరియు పారిశ్రామిక వ్యర్థాలు",
+     "వ్యవసాయంలో ఉపయోగించే రసాయనాలు, పురుగుమందులు మరియు ఎరువులు",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Domestic and industrial wastes",
+     "Chemicals, pesticides and fertilisers used in agriculture",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "గృహ మరియు పారిశ్రామిక వ్యర్థాలు, అలాగే వ్యవసాయంలో వాడే రసాయనాలు, పురుగుమందులు మరియు ఎరువుల వల్ల నీరు కలుషితమై ప్రమాదకరంగా మారుతుంది.",
+    "en": "Water can become hazardous for human use when polluted by domestic and industrial wastes as well as chemicals, pesticides, and fertilisers from agriculture."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T29-0219",
+   "section": {
+    "te": "Indira Gandhi Canal",
+    "en": "Indira Gandhi Canal"
+   },
+   "q": {
+    "te": "1948లో ఇందిరా గాంధీ కెనాల్ ప్రాజెక్టును ఎవరు రూపొందించారు?",
+    "en": "Who conceived the Indira Gandhi Canal project in 1948?"
+   },
+   "options": {
+    "te": [
+     "జవహర్‌లాల్ నెహ్రూ",
+     "మహాత్మా గాంధీ",
+     "సర్దార్ పటేల్",
+     "కన్వర్ సైన్"
+    ],
+    "en": [
+     "Jawaharlal Nehru",
+     "Mahatma Gandhi",
+     "Sardar Patel",
+     "Kanwar Sain"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఇందిరా గాంధీ కెనాల్ ప్రాజెక్టును 1948లో కన్వర్ సైన్ రూపొందించారు.",
+    "en": "The Indira Gandhi Canal project was conceived by Kanwar Sain in 1948."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T29-0103",
+   "section": {
+    "te": "Damodar River",
+    "en": "Damodar River"
+   },
+   "q": {
+    "te": "దామోదర్ లోయ ప్రాంతంలో వరదల వల్ల కలిగే ఇబ్బందుల కారణంగా సాంప్రదాయకంగా ఏ నదిని 'దుఃఖదాయక నది' (river of sorrow) అని పిలుస్తారు?",
+    "en": "Which river is traditionally known as the 'river of sorrow' due to the troubles caused by its flooding in the Damodar valley region?"
+   },
+   "options": {
+    "te": [
+     "దామోదర్",
+     "సట్లెజ్",
+     "మహానది",
+     "గంగా"
+    ],
+    "en": [
+     "Damodar",
+     "Sutluj",
+     "Mahanadi",
+     "Ganga"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "దామోదర్ నది లోయలోని ప్రజలకు తరచుగా వరదల వల్ల కలిగే కష్టాల కారణంగా దీనిని 'దుఃఖదాయక నది' అని పిలుస్తారు.",
+    "en": "The Damodar river is known as the 'river of sorrow' because of the frequent flooding that causes distress to the people in its valley."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T29-0105",
+   "section": {
+    "te": "Hirakud Project",
+    "en": "Hirakud Project"
+   },
+   "q": {
+    "te": "మహానది పరివాహక ప్రాంతంలో ఉన్న హీరాకుడ్ ప్రాజెక్ట్, ప్రధానంగా నీటి సంరక్షణను ఏ ఇతర లక్ష్యంతో అనుసంధానిస్తుంది?",
+    "en": "The Hirakud project, located in the Mahanadi basin, primarily integrates water conservation with which other objective?"
+   },
+   "options": {
+    "te": [
+     "వినోదం",
+     "చేపల పెంపకం",
+     "అంతర్గత నౌకాయానం",
+     "వరద నియంత్రణ"
+    ],
+    "en": [
+     "Recreation",
+     "Fish breeding",
+     "Inland navigation",
+     "Flood control"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మహానది పరివాహక ప్రాంతంలోని హీరాకుడ్ ప్రాజెక్ట్ నీటి సంరక్షణను వరదల నిర్వహణతో అనుసంధానించడానికి రూపొందించబడింది.",
+    "en": "The Hirakud project in the Mahanadi basin is designed to integrate the conservation of water with the management of floods."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T29-0230",
+   "section": {
+    "te": "Resource Planning Crops",
+    "en": "Resource Planning Crops"
+   },
+   "q": {
+    "te": "ఇందిరా గాంధీ కెనాల్ కమాండ్ ఏరియా సందర్భంలో, నీరు ఎక్కువగా అవసరమయ్యే పంటలను నివారించడానికి ప్రజలు ఏ తోట పంటలను పండించాలని ప్రోత్సహించబడ్డారు?",
+    "en": "In the context of the Indira Gandhi Canal command area, which plantation crops are people encouraged to grow to avoid water-intensive crops?"
+   },
+   "options": {
+    "te": [
+     "పత్తి మరియు పొగాకు",
+     "నిమ్మజాతి పండ్లు (Citrus fruits)",
+     "వరి మరియు గోధుమ",
+     "చెరకు మరియు జనుము"
+    ],
+    "en": [
+     "Cotton and Tobacco",
+     "Citrus fruits",
+     "Rice and Wheat",
+     "Sugarcane and Jute"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "నీటి వనరులను నిర్వహించడానికి, నీరు ఎక్కువగా అవసరమయ్యే పంటలకు బదులుగా నిమ్మజాతి పండ్ల వంటి తోట పంటలను పండించాలని ప్రజలను ప్రోత్సహిస్తున్నారు.",
+    "en": "To manage water resources, people are encouraged to grow plantation crops like citrus fruits instead of water-intensive crops."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T29-0221",
+   "section": {
+    "te": "Indira Gandhi Canal Location",
+    "en": "Indira Gandhi Canal Location"
+   },
+   "q": {
+    "te": "ఇందిరా గాంధీ కెనాల్‌కు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది పంజాబ్‌లోని హరికే బ్యారేజీ వద్ద ప్రారంభమవుతుంది.\n2. ఇది పాకిస్తాన్ సరిహద్దుకు సమాంతరంగా సగటున 40 కి.మీ దూరంలో ప్రవహిస్తుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the Indira Gandhi Canal:\n1. It originates at the Harike barrage in Punjab.\n2. It runs parallel to the Pakistan border at an average distance of 40 km.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఈ కాలువ పంజాబ్‌లోని హరికే బ్యారేజీ వద్ద ప్రారంభమవుతుంది మరియు థార్ ఎడారిలో పాకిస్తాన్ సరిహద్దుకు సమాంతరంగా సగటున 40 కి.మీ దూరంలో ప్రవహిస్తుంది.",
+    "en": "The canal originates at Harike barrage in Punjab and runs parallel to the Pakistan border at an average distance of 40 km in the Thar Desert."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T29-0021",
+   "section": {
+    "te": "Renewable resources condition",
+    "en": "Renewable resources condition"
+   },
+   "q": {
+    "te": "సౌరశక్తి, పవన శక్తి మరియు అడవుల నుండి కలప ఏ పరిస్థితిలో పునరుత్పాదక వనరులుగా ఉంటాయి?",
+    "en": "Under what condition do solar energy, wind energy, and timber from forests remain renewable resources?"
+   },
+   "options": {
+    "te": [
+     "వాటిని స్వదేశీ సంఘాలు ఉపయోగించినంత కాలం",
+     "వాటిని సుస్థిరమైన రీతిలో నిర్వహించినంత కాలం",
+     "వాటిని పారిశ్రామిక అవసరాలకు ఉపయోగించినంత కాలం",
+     "అవి పుష్కలమైన పరిమాణంలో అందుబాటులో ఉన్నంత కాలం"
+    ],
+    "en": [
+     "As long as they are used by indigenous communities",
+     "As long as they are managed in a sustainable manner",
+     "As long as they are used for industrial purposes",
+     "As long as they are available in abundant quantities"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఈ వనరులను సుస్థిరమైన రీతిలో నిర్వహించినంత కాలం అవి పునరుత్పాదకమైనవి అని పాఠ్యం పేర్కొంది.",
+    "en": "The text specifies that these resources are renewable as long as they are managed in a sustainable manner."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T29-0114",
+   "section": {
+    "te": "Rainfed agricultural storage",
+    "en": "Rainfed agricultural storage"
+   },
+   "q": {
+    "te": "రాజస్థాన్‌లో వర్షాధార నిల్వ నిర్మాణాల రూపంలోకి మార్చిన వ్యవసాయ క్షేత్రాలను ఏ జిల్లాలో ప్రత్యేకంగా 'ఖదీన్లు' అని పిలుస్తారు?",
+    "en": "In Rajasthan, agricultural fields converted into rain-fed storage structures are specifically known as 'Khadins' in which district?"
+   },
+   "options": {
+    "te": [
+     "బికనీర్",
+     "జైసల్మేర్",
+     "బార్మర్",
+     "ఫలోది"
+    ],
+    "en": [
+     "Bikaner",
+     "Jaisalmer",
+     "Barmer",
+     "Phalodi"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "రాజస్థాన్‌లోని జైసల్మేర్‌లో వ్యవసాయ పొలాలను వర్షపు నీటిని నిల్వ చేసే నిర్మాణాలుగా మార్చడాన్ని 'ఖదీన్లు' అని, ఇతర ప్రాంతాలలో 'జోహాద్లు' అని పిలుస్తారు.",
+    "en": "Rain-fed storage structures created by converting agricultural fields are called 'khadins' in Jaisalmer and 'Johads' in other parts of Rajasthan."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T29-0130",
+   "section": {
+    "te": "Forest Cover Goal",
+    "en": "Forest Cover Goal"
+   },
+   "q": {
+    "te": "అటవీ విధానం ప్రకారం భౌగోళిక విస్తీర్ణంలో ఎంత శాతం అటవీ విస్తీర్ణం కిందకు తీసుకురావాలనేది నిర్దిష్ట లక్ష్యం?",
+    "en": "What is the specific target percentage of geographical area to be brought under forest cover as per the forest policy?"
+   },
+   "options": {
+    "te": [
+     "25 శాతం",
+     "20 శాతం",
+     "33 శాతం",
+     "50 శాతం"
+    ],
+    "en": [
+     "25 per cent",
+     "20 per cent",
+     "33 per cent",
+     "50 per cent"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మొత్తం భౌగోళిక విస్తీర్ణంలో 33 శాతాన్ని అటవీ విస్తీర్ణం కిందకు తీసుకురావడం అటవీ విధానం యొక్క ప్రధాన లక్ష్యాలలో ఒకటి.",
+    "en": "One of the main aims of the forest policy is to bring 33 per cent of the total geographical area under forest cover."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T29-0038",
+   "section": {
+    "te": "Arthaśhāstra land assessment",
+    "en": "Arthaśhāstra land assessment"
+   },
+   "q": {
+    "te": "కౌటిల్యుని అర్థశాస్త్రానికి సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఇది భూమి అంచనాపై వివరణాత్మక మార్గదర్శకాలను కలిగి ఉంది.\n2. భూమి వర్గీకరణ సారవంతం మరియు ఉత్పాదకతపై ఆధారపడి ఉంటుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding Kauṭilya’s Arthaśhāstra:\n1. It contains detailed guidelines on land assessment.\n2. Land categorisation is based on fertility and productivity.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్య భాగం ప్రకారం, అర్థశాస్త్రం భూమి అంచనా కోసం వివరణాత్మక మార్గదర్శకాలను అందిస్తుంది మరియు భూమిని దాని సారవంతం మరియు ఉత్పాదకత ఆధారంగా వర్గీకరిస్తుంది.",
+    "en": "The Arthaśhāstra provides detailed guidelines for land assessment and categorises land based on its fertility and productivity."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T29-0035",
+   "section": {
+    "te": "Matching terms",
+    "en": "Matching terms"
+   },
+   "q": {
+    "te": "క్రింది పదాలను వాటి వివరణలతో జతపరచండి:\n1. పునరుద్ధరణ - A. కొత్త జీవాన్ని మరియు అభివృద్ధి చెందడానికి పరిస్థితులను సృష్టించే సామర్థ్యం.\n2. పునరుత్పత్తి - B. దేనినైనా దాని అసలు ఆరోగ్యకరమైన స్థితికి తీసుకురావడం.\n3. స్టీవార్డ్‌షిప్ - C. సహజ వనరుల బాధ్యతాయుతమైన మరియు వివేకవంతమైన ఉపయోగం.",
+    "en": "Match the following terms with their descriptions:\n1. Restoration - A. Ability to create new life and conditions for thriving.\n2. Regeneration - B. Returning something to its original healthy state.\n3. Stewardship - C. Responsible and wise use of natural resources."
+   },
+   "options": {
+    "te": [
+     "1-B, 2-A, 3-C",
+     "1-A, 2-B, 3-C",
+     "1-C, 2-A, 3-B",
+     "1-B, 2-C, 3-A"
+    ],
+    "en": [
+     "1-B, 2-A, 3-C",
+     "1-A, 2-B, 3-C",
+     "1-C, 2-A, 3-B",
+     "1-B, 2-C, 3-A"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పునరుద్ధరణ అంటే ఆరోగ్యకరమైన స్థితికి తీసుకురావడం, పునరుత్పత్తి అంటే కొత్త జీవాన్ని సృష్టించడం మరియు స్టీవార్డ్‌షిప్ అంటే వనరుల బాధ్యతాయుతమైన ఉపయోగం.",
+    "en": "Restoration is returning to a healthy state, regeneration is creating new life, and stewardship is the responsible use of resources."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T29-0131",
+   "section": {
+    "te": "Social Forestry Classification",
+    "en": "Social Forestry Classification"
+   },
+   "q": {
+    "te": "నేషనల్ కమిషన్ ఆన్ అగ్రికల్చర్ (1976) సామాజిక అటవీ పెంపకాన్ని మూడు వర్గాలుగా వర్గీకరించింది. కింది వాటిలో ఏది ఆ వర్గాలలో ఒకటి కాదు?",
+    "en": "The National Commission on Agriculture (1976) classified social forestry into three categories. Which of the following is NOT one of those categories?"
+   },
+   "options": {
+    "te": [
+     "పట్టణ అటవీ పెంపకం (Urban forestry)",
+     "గ్రామీణ అటవీ పెంపకం (Rural forestry)",
+     "పారిశ్రామిక అటవీ పెంపకం (Industrial forestry)",
+     "ఫామ్ అటవీ పెంపకం (Farm forestry)"
+    ],
+    "en": [
+     "Urban forestry",
+     "Rural forestry",
+     "Industrial forestry",
+     "Farm forestry"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "1976లో నిర్వచించబడిన మూడు వర్గాలు పట్టణ, గ్రామీణ మరియు ఫామ్ అటవీ పెంపకం. పారిశ్రామిక అటవీ పెంపకం ఒక వర్గంగా పేర్కొనబడలేదు.",
+    "en": "The three categories defined in 1976 are Urban, Rural, and Farm forestry. Industrial forestry is not mentioned as a category."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T29-0025",
+   "section": {
+    "te": "Paradox of Plenty",
+    "en": "Paradox of Plenty"
+   },
+   "q": {
+    "te": "సహజ వనరులు పుష్కలంగా ఉన్న ప్రాంతాలు నెమ్మదిగా ఆర్థిక వృద్ధిని సాధించే దృగ్విషయాన్ని ఆర్థికవేత్తలు ఏమని పిలుస్తారు?",
+    "en": "What term do economists use for the phenomenon where regions rich in natural resources experience slower economic growth?"
+   },
+   "options": {
+    "te": [
+     "సమృద్ధి వైపరీత్యం (Paradox of Plenty)",
+     "పారిశ్రామిక వెనుకబాటు (Industrial Lag)",
+     "వనరుల క్షీణత (Resource Depletion)",
+     "ఆర్థిక స్తబ్దత (Economic Stagnation)"
+    ],
+    "en": [
+     "Paradox of Plenty",
+     "Industrial Lag",
+     "Resource Depletion",
+     "Economic Stagnation"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వనరులు పుష్కలంగా ఉన్న ప్రాంతాలు ఆర్థికంగా నెమ్మదిగా అభివృద్ధి చెందే పరిస్థితిని 'సమృద్ధి వైపరీత్యం' (Paradox of Plenty) లేదా 'సహజ వనరుల శాపం' అని పాఠ్యం నిర్వచించింది.",
+    "en": "The text defines the 'paradox of plenty' or 'natural resource curse' as a situation where resource-rich regions grow slower economically."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T29-0116",
+   "section": {
+    "te": "Rooftop rainwater harvesting rule",
+    "en": "Rooftop rainwater harvesting rule"
+   },
+   "q": {
+    "te": "సాంప్రదాయ పైకప్పు వర్షపు నీటి సంరక్షణ పద్ధతిలో సాధారణంగా మొదటి వర్షపు నీటిని ఎందుకు సేకరించేవారు కాదు?",
+    "en": "In traditional rooftop rainwater harvesting systems, why was the first spell of rain usually NOT collected?"
+   },
+   "options": {
+    "te": [
+     "అది పైకప్పులను మరియు పైపులను శుభ్రం చేయడానికి ఉపయోగపడటం వల్ల",
+     "ఆ నీటిని నేరుగా బావుల్లోకి మళ్లించడం వల్ల",
+     "అందులో ట్యాంకును పాడుచేసే ఖనిజాలు ఎక్కువగా ఉండటం వల్ల",
+     "భూగర్భ టంకాల్లో నిల్వ సామర్థ్యం చాలా తక్కువగా ఉండటం వల్ల"
+    ],
+    "en": [
+     "It was used to clean the rooftops and the pipes",
+     "It was diverted directly to the open wells",
+     "It contained excessive minerals that spoiled the tank",
+     "The capacity of underground tankas was too limited"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మొదటి వర్షపు నీరు పైకప్పులను, పైపులను శుభ్రపరుస్తుంది కాబట్టి దానిని సేకరించకుండా వదిలేసి, ఆ తర్వాత కురిసే వర్షపు నీటిని నిల్వ చేసుకునేవారు.",
+    "en": "The first spell of rain was not collected because it washed and cleaned the roofs and the pipes, while water from subsequent showers was stored."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T29-0049",
+   "section": {
+    "te": "Groundwater replenishment strategies",
+    "en": "Groundwater replenishment strategies"
+   },
+   "q": {
+    "te": "భూగర్భ జల మట్టాలను పెంచడానికి ప్రయత్నించిన వ్యూహాలు కింది వాటిలో ఏవి?",
+    "en": "Which of the following are strategies attempted to raise groundwater levels?"
+   },
+   "options": {
+    "te": [
+     "చెరువులు మరియు కుంటల పునరుద్ధరణ",
+     "వృధా వినియోగాన్ని తగ్గించడం",
+     "నీటిని శుద్ధి చేయడం మరియు తిరిగి ఉపయోగించడం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Rejuvenation of ponds and tanks",
+     "Cutting down on wasteful consumption",
+     "Processing and reusing water",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూగర్భ జల మట్టాలను మెరుగుపరచడానికి చెరువుల పునరుద్ధరణ, వృధాను తగ్గించడం మరియు నీటిని తిరిగి ఉపయోగించడం వంటి వ్యూహాలను పాఠ్య భాగం పేర్కొంది.",
+    "en": "Rejuvenation of ponds, reducing waste, and reusing water as strategies to improve groundwater levels."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T29-0148",
+   "section": {
+    "te": "Haryali Project",
+    "en": "Haryali Project"
+   },
+   "q": {
+    "te": "'హర్యాలీ' ప్రాజెక్టుకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది కేంద్ర ప్రభుత్వం స్పాన్సర్ చేసిన వాటర్‌షెడ్ అభివృద్ధి ప్రాజెక్టు.\n2. ఇది గ్రామీణ ప్రజలు చేపల పెంపకం మరియు అడవుల పెంపకం కోసం నీటిని పొదుపు చేసేలా చేయడం లక్ష్యంగా పెట్టుకుంది.\n3. ఈ ప్రాజెక్టును రాష్ట్ర అటవీ శాఖలు అమలు చేస్తాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the 'Haryali' project:\n1. It is a watershed development project sponsored by the Central Government.\n2. It aims to enable rural populations to conserve water for fisheries and afforestation.\n3. The project is executed by the State Forest Departments.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రకటన 1 మరియు 2 సరైనవి. ప్రకటన 3 తప్పు ఎందుకంటే ఈ ప్రాజెక్టును ప్రజల భాగస్వామ్యంతో గ్రామ పంచాయతీలు అమలు చేస్తాయి, రాష్ట్ర అటవీ శాఖలు కాదు.",
+    "en": "Statement 1 and 2 are correct. Statement 3 is incorrect because the project is executed by Gram Panchayats with people's participation, not State Forest Departments."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T29-0168",
+   "section": {
+    "te": "Community Self-Reliance",
+    "en": "Community Self-Reliance"
+   },
+   "q": {
+    "te": "ఎలాంటి విరాళాలు తీసుకోకుండా కేవలం గ్రామ వనరులతోనే రాలెగాన్ సిద్ధిలో పాఠశాల భవనాన్ని ఎంత వ్యయంతో నిర్మించారు?",
+    "en": "What was the expenditure incurred to construct the school building in Ralegan Siddhi using only village resources without taking donations?"
+   },
+   "options": {
+    "te": [
+     "రూ. 32 లక్షలు",
+     "రూ. 12 లక్షలు",
+     "రూ. 22 లక్షలు",
+     "రూ. 50 లక్షలు"
+    ],
+    "en": [
+     "Rs. 32 lakh",
+     "Rs. 12 lakh",
+     "Rs. 22 lakh",
+     "Rs. 50 lakh"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఎలాంటి విరాళాలు స్వీకరించకుండా కేవలం గ్రామం యొక్క స్వంత వనరులతోనే రూ. 22 లక్షల పాఠశాల భవనాన్ని నిర్మించారు.",
+    "en": "A Rs. 22 lakh school building was constructed relying strictly on village resources without accepting donations."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T29-0126",
+   "section": {
+    "te": "Gendathur water collection statistics",
+    "en": "Gendathur water collection statistics"
+   },
+   "q": {
+    "te": "గెండత్తూర్ గ్రామంలోని వర్షపు నీటి సంరక్షణ వ్యవస్థకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఈ గ్రామం సంవత్సరానికి 1,000 మి.మీ. వర్షపాతం పొందుతుంది.\n2. 80 శాతం సేకరణ సామర్థ్యంతో, ప్రతి ఇల్లు ఏటా దాదాపు 50,000 లీటర్ల నీటిని సేకరించి ఉపయోగించుకోగలదు.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "With reference to the rainwater harvesting system in Gendathur village, consider the following statements:\n1. The village receives an annual precipitation of 1,000 mm.\n2. With 80 per cent collection efficiency, each house can collect and use about 50,000 litres of water annually.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రెండు ప్రకటనలు సరైనవే. గెండత్తూర్ 1,000 మి.మీ. వార్షిక వర్షపాతం పొందుతుంది, 80 శాతం సేకరణ సామర్థ్యంతో దాదాపు 10 నింపుడులలో ప్రతి ఇల్లు ఏటా 50,000 లీటర్ల నీటిని నిల్వ చేసుకోగలదు.",
+    "en": "Both statements are correct. Gendathur receives 1,000 mm annual rainfall, and with 80% collection efficiency over about 10 fillings, each house can harvest approximately 50,000 litres of water annually."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T29-0013",
+   "section": {
+    "te": "Resource transformation",
+    "en": "Resource transformation"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): చెట్లను ఫర్నిచర్‌గా మార్చినప్పుడు అవి వనరుగా పరిగణించబడతాయి.\nకారణం (R): మానవులు తమ జీవనోపాధి లేదా వినియోగం కోసం ప్రకృతిలోని అంశాలను ఉపయోగించినప్పుడు అవి వనరులుగా మారుతాయి.",
+    "en": "Assertion (A): Trees are considered a resource when they are converted into furniture.\nReason (R): Elements of nature become resources when humans use them for sustenance or consumption."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మానవులు తమ జీవనోపాధి లేదా వినియోగం కోసం ప్రకృతిని ఉపయోగించినప్పుడు అది వనరుగా మారుతుందని పాఠ్యభాగం వివరిస్తుంది, దీనికి ఉదాహరణగా ఫర్నిచర్‌గా మార్చబడిన చెట్లను పేర్కొంది.",
+    "en": "Nature becomes a resource when humans use it for sustenance or consumption, using trees converted to furniture as an example."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T29-0107",
+   "section": {
+    "te": "Impact on Aquatic Life",
+    "en": "Impact on Aquatic Life"
+   },
+   "q": {
+    "te": "ఆనకట్టలు నదులను ముక్కలు చేస్తాయి మరియు జలచరాలు వలస వెళ్లడాన్ని కష్టతరం చేస్తాయి, ఇది ముఖ్యంగా ఏ జీవక్రియకు సమస్యాత్మకంగా మారుతుంది?",
+    "en": "Dams fragment rivers and make it difficult for aquatic fauna to migrate, which is particularly problematic for which biological process?"
+   },
+   "options": {
+    "te": [
+     "కుళ్ళిపోవడం",
+     "గుడ్లు పెట్టడం (Spawning)",
+     "శ్వాసక్రియ",
+     "కిరణజన్య సంయోగక్రియ"
+    ],
+    "en": [
+     "Decomposition",
+     "Spawning",
+     "Respiration",
+     "Photosynthesis"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఆనకట్టల వల్ల నదులు విచ్ఛిన్నం కావడం జలచరాల వలసలను అడ్డుకుంటుంది, ఇది వాటి గుడ్లు పెట్టడానికి (ప్రజననం) చాలా అవసరం.",
+    "en": "The fragmentation of rivers by dams obstructs the migration of aquatic animals, which is essential for their spawning (reproduction)."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T29-0111",
+   "section": {
+    "te": "Multi-purpose Projects",
+    "en": "Multi-purpose Projects"
+   },
+   "q": {
+    "te": "ఆనకట్టలను 'బహుళార్థసాధక ప్రాజెక్టులు' అని పిలుస్తారు ఎందుకంటే అవి నిల్వ చేసిన నీటి యొక్క క్రింది ఏ ఉపయోగాలను అనుసంధానిస్తాయి?",
+    "en": "Dams are referred to as 'multi-purpose projects' because they integrate which of the following uses of impounded water?"
+   },
+   "options": {
+    "te": [
+     "విద్యుత్ ఉత్పత్తి మరియు సాగునీరు",
+     "వరద నియంత్రణ మరియు చేపల పెంపకం",
+     "నీటి సరఫరా మరియు వినోదం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Electricity generation and irrigation",
+     "Flood control and fish breeding",
+     "Water supply and recreation",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఆధునిక ఆనకట్టలను బహుళార్థసాధక ప్రాజెక్టులు అని పిలుస్తారు ఎందుకంటే అవి సాగునీరు, విద్యుత్, వరద నియంత్రణ వంటి అనేక సమగ్ర విధులను నిర్వహిస్తాయి.",
+    "en": "Modern dams are called multi-purpose projects because they serve many integrated functions like irrigation, power, flood control, and more."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T29-0037",
+   "section": {
+    "te": "Zabo system Nagaland",
+    "en": "Zabo system Nagaland"
+   },
+   "q": {
+    "te": "నేల మరియు నీటి సంరక్షణ కోసం సమగ్ర వ్యవసాయ విధానమైన 'జాబో వ్యవస్థ' ఏ రాష్ట్రంలో అమలులో ఉంది?",
+    "en": "The Zabo system, an integrated farming approach for soil and water conservation, is practiced in which state?"
+   },
+   "options": {
+    "te": [
+     "నాగాలాండ్",
+     "మేఘాలయ",
+     "అరుణాచల్ ప్రదేశ్",
+     "మిజోరం"
+    ],
+    "en": [
+     "Nagaland",
+     "Meghalaya",
+     "Arunachal Pradesh",
+     "Mizoram"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "జాబో వ్యవస్థ అనేది నాగాలాండ్‌లో నేల మరియు నీటి సంరక్షణ కోసం ఉపయోగించే ఒక సాంప్రదాయ సమగ్ర వ్యవసాయ విధానం.",
+    "en": "The Zabo system is a traditional integrated farming approach used in Nagaland for soil and water conservation."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T29-0092",
+   "section": {
+    "te": "Atal Jal Objective",
+    "en": "Atal Jal Objective"
+   },
+   "q": {
+    "te": "అటల్ భూజల్ యోజన ముఖ్య ఉద్దేశాలలో ఒకటి, సమాజంలో కేవలం వినియోగించే వైఖరి నుండి దేని వైపు ప్రవర్తనా మార్పు తీసుకురావడం?",
+    "en": "A key objective of the Atal Bhujal Yojana is to bring about a behavioural change in the community from consumption towards:"
+   },
+   "options": {
+    "te": [
+     "వ్యవసాయాన్ని పూర్తిగా నిలిపివేయడం",
+     "ఉచిత విద్యుత్ పంపిణీ",
+     "సంరక్షణ మరియు స్మార్ట్ నీటి నిర్వహణ",
+     "నదీ పరివాహక ప్రాంతాల అనుసంధానం"
+    ],
+    "en": [
+     "Complete cessation of agriculture",
+     "Free power distribution",
+     "Conservation and smart water management",
+     "Interlinking of river basins"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సమాజంలో ఉన్న వినియోగ వైఖరిని మార్చి నీటి సంరక్షణ మరియు స్మార్ట్ నీటి నిర్వహణ వైపు మళ్లించడం అటల్ జల్ ముఖ్య లక్ష్యం.",
+    "en": "A key aspect of Atal Jal is shifting the community's attitude from consumption to conservation and smart water management."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T29-0169",
+   "section": {
+    "te": "Local Governance Consensus",
+    "en": "Local Governance Consensus"
+   },
+   "q": {
+    "te": "రాలెగాన్ సిద్ధిలోని స్థానిక పాలన మరియు సామాజిక నిబంధనలకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. స్థానిక సంస్థల ఎన్నికలన్నీ ఏకాభిప్రాయం ఆధారంగా జరగడం ప్రారంభించాయి.\n2. పప్పుధాన్యాలు మరియు నూనెగింజల వంటి పంటల సాగు పూర్తిగా నిషేధించబడింది.\nపై ప్రకటనలలో ఏది సరైనది/సరైనవి?",
+    "en": "Consider the following statements regarding the local governance and community rules in Ralegan Siddhi:\n1. All elections to local bodies began to be held on the basis of consensus.\n2. Cultivation of crops such as pulses and oilseeds was completely prohibited.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "స్థానిక సంస్థల ఎన్నికలు ఏకాభిప్రాయంతో జరిగాయి కాబట్టి 1వ ప్రకటన సరైనది. పప్పుధాన్యాలు, నూనెగింజల సాగును ప్రోత్సహించారు కాబట్టి 2వ ప్రకటన తప్పు.",
+    "en": "Statement 1 is correct as local body elections were held on consensus. Statement 2 is incorrect because pulses and oilseeds were encouraged, not prohibited."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T29-0164",
+   "section": {
+    "te": "Village Youth Group",
+    "en": "Village Youth Group"
+   },
+   "q": {
+    "te": "వరకట్నం, కులవివక్ష వంటి సామాజిక రుగ్మతలను నిర్మూలించడానికి రాలెగాన్ సిద్ధిలో ఏర్పాటైన యువజన సంఘం పేరు ఏమిటి?",
+    "en": "What was the name of the youth group formed in Ralegan Siddhi to fight social evils like dowry and caste discrimination?"
+   },
+   "options": {
+    "te": [
+     "గ్రామ సేన",
+     "తరుణ్ మండల్",
+     "యువక్ దళ్",
+     "నవ యువక్ మండల్"
+    ],
+    "en": [
+     "Gram Sena",
+     "Tarun Mandal",
+     "Yuvak Dal",
+     "Nav Yuvak Mandal"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వరకట్న దురాచారం, కుల వివక్ష మరియు అస్పృశ్యతను రూపుమాపడానికి 'తరుణ్ మండల్' అనే యువజన సంఘం ఏర్పాటయింది.",
+    "en": "A youth group called Tarun Mandal was formed to work against the dowry system, caste discrimination, and untouchability."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T29-0225",
+   "section": {
+    "te": "Environmental Issues",
+    "en": "Environmental Issues"
+   },
+   "q": {
+    "te": "తీవ్రమైన నీటి పారుదల కారణంగా ఇందిరా గాంధీ కెనాల్ కమాండ్ ఏరియాలో ఏ జంట పర్యావరణ సమస్యలు తలెత్తాయి?",
+    "en": "Which twin environmental problems have emerged in the Indira Gandhi Canal command area due to intensive irrigation?"
+   },
+   "options": {
+    "te": [
+     "నేల కోత మరియు కరువు",
+     "నీటి నిల్వ (Waterlogging) మరియు నేల లవణీయత (Soil salinity)",
+     "గ్లోబల్ వార్మింగ్ మరియు ఆమ్ల వర్షం",
+     "అడవుల నరికివేత మరియు వాయు కాలుష్యం"
+    ],
+    "en": [
+     "Soil erosion and Drought",
+     "Waterlogging and Soil salinity",
+     "Global warming and Acid rain",
+     "Deforestation and Air pollution"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఈ ప్రాంతంలో తీవ్రమైన నీటి పారుదల మరియు అధిక నీటి వినియోగం వల్ల నీటి నిల్వ మరియు నేల లవణీయత సమస్యలు ఏర్పడ్డాయి.",
+    "en": "Intensive irrigation and excessive water use in the region have led to waterlogging and soil salinity."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T29-0001",
+   "section": {
+    "te": "Water conservation methods",
+    "en": "Water conservation methods"
+   },
+   "q": {
+    "te": "థార్ ఎడారిలో నీటి కొరత కారణంగా పాత్రలను శుభ్రం చేయడానికి ఉపయోగించే సాంప్రదాయ పద్ధతి ఏమిటి?",
+    "en": "In the Thar Desert, what is the traditional method used for cleaning utensils due to water scarcity?"
+   },
+   "options": {
+    "te": [
+     "పెద్ద పాత్రలలో మరిగించడం",
+     "ఇసుకతో రుద్దడం",
+     "ఉప్పు నీటితో కడగడం",
+     "రసాయన డిటర్జెంట్లను ఉపయోగించడం"
+    ],
+    "en": [
+     "Boiling in large vats",
+     "Scouring with sand",
+     "Washing with salt water",
+     "Using chemical detergents"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, థార్ ఎడారిలో నీటి కొరత ఉన్నందున, పాత్రలను శుభ్రం చేయడానికి ఇసుకతో రుద్దడం అనే సాంప్రదాయ పద్ధతిని ఉపయోగిస్తారు.",
+    "en": "Because water is scarce in the Thar Desert, the traditional method for cleaning utensils is to scour them with sand."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T29-0121",
+   "section": {
+    "te": "Shillong rainwater share",
+    "en": "Shillong rainwater share"
+   },
+   "q": {
+    "te": "మేఘాలయలోని షిల్లాంగ్‌లో, గృహాల మొత్తం నీటి అవసరాలలో దాదాపు ఎంత శాతం పైకప్పు వర్షపు నీటి సంరక్షణ ద్వారా లభిస్తుంది?",
+    "en": "In Shillong, Meghalaya, rooftop rainwater harvesting accounts for approximately what share of the total household water requirement?"
+   },
+   "options": {
+    "te": [
+     "15-25 శాతం",
+     "35-45 శాతం",
+     "5-10 శాతం",
+     "50-60 శాతం"
+    ],
+    "en": [
+     "15-25 per cent",
+     "35-45 per cent",
+     "5-10 per cent",
+     "50-60 per cent"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "షిల్లాంగ్‌లో ఇళ్ల మొత్తం నీటి అవసరాలలో దాదాపు 15-25 శాతం నీరు పైకప్పు వర్షపు నీటి నిల్వ నుంచే సమకూరుతుంది.",
+    "en": "In Shillong, nearly 15-25 per cent of the total household water requirement is met through rooftop rainwater harvesting."
+   }
+  }
+ ]
+}

@@ -1,0 +1,942 @@
+{
+ "id": "geo-26-c-2",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Industries – క్విజ్ 2",
+  "en": "Industries – Quiz 2"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T26-0018",
+   "section": {
+    "te": "Surat Industries",
+    "en": "Surat Industries"
+   },
+   "q": {
+    "te": "సూరత్ ఈ క్రింది ఏ రెండు పరిశ్రమలకు కేంద్రంగా ప్రసిద్ధి చెందింది?",
+    "en": "Surat is known as a hub for which of the following two industries?"
+   },
+   "options": {
+    "te": [
+     "ఐటి మరియు సాఫ్ట్‌వేర్",
+     "చలనచిత్ర పరిశ్రమ మరియు ఫైనాన్స్",
+     "వస్త్ర తయారీ మరియు వజ్రాల కోత",
+     "ఇత్తడి పని మరియు చెక్క బొమ్మలు"
+    ],
+    "en": [
+     "IT and Software",
+     "Film industry and finance",
+     "Textile manufacturing and diamond-cutting",
+     "Brass work and wooden toys"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సూరత్ వస్త్ర తయారీ మరియు వజ్రాల కోత పరిశ్రమలకు ప్రధాన కేంద్రం.",
+    "en": "Surat is a major hub for textile manufacturing and diamond-cutting."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T26-0032",
+   "section": {
+    "te": "Manufacturing and agriculture link",
+    "en": "Manufacturing and agriculture link"
+   },
+   "q": {
+    "te": "తయారీ పరిశ్రమలకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి వ్యవసాయాన్ని ఆధునీకరించడంలో సహాయపడతాయి.\n2. ద్వితీయ మరియు తృతీయ రంగాలలో ఉద్యోగాలను కల్పించడం ద్వారా వ్యవసాయ ఆదాయంపై ప్రజల అధిక ఆధారపడటాన్ని ఇవి తగ్గిస్తాయి.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding manufacturing industries:\n1. They help in modernising agriculture.\n2. They reduce the heavy dependence of people on agricultural income by providing jobs in secondary and tertiary sectors.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "తయారీ పరిశ్రమలు వ్యవసాయాన్ని ఆధునీకరించడమే కాకుండా, ద్వితీయ మరియు తృతీయ రంగాలలో ఉపాధిని కల్పించి వ్యవసాయంపై ఆధారపడటాన్ని తగ్గిస్తాయి.",
+    "en": "Both statements are correct as manufacturing industries modernise agriculture and reduce dependence on farming by creating secondary and tertiary jobs."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T26-0110",
+   "section": {
+    "te": "Cottage Manufacturing",
+    "en": "Cottage Manufacturing"
+   },
+   "q": {
+    "te": "గృహ/కుటీర తయారీ రంగంలో మూలధనం మరియు రవాణా ఎందుకు ఎక్కువ ప్రభావాన్ని చూపవు?",
+    "en": "Why do capital and transportation NOT wield much influence in household manufacturing?"
+   },
+   "options": {
+    "te": [
+     "ఇది తక్కువ వాణిజ్య ప్రాముఖ్యతను కలిగి ఉండటం మరియు చాలావరకు పనిముట్లు స్థానికంగా తయారుచేయబడటం వల్ల",
+     "తయారైన ఉత్పత్తులు కేవలం సుదూర ఎగుమతి మార్కెట్ల కోసమే ఉద్దేశించబడటం వల్ల",
+     "ప్రభుత్వాలే ఉచిత రవాణాను మరియు యంత్రాలను సమకూర్చడం వల్ల",
+     "ఉత్పత్తులన్నీ విలువైన లోహాలతో మాత్రమే తయారు కావడం వల్ల"
+    ],
+    "en": [
+     "Because it has low commercial significance and most tools are devised locally",
+     "Because finished products are exclusively meant for distant export markets",
+     "Because governments provide completely free shipping and machinery",
+     "Because the products are entirely made of high-value precious metals"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "కుటీర లేదా గృహ తయారీకి వాణిజ్య ప్రాముఖ్యత తక్కువగా ఉండటం మరియు పరికరాలు స్థానికంగానే తయారుకావడం వల్ల వీటికి మూలధనం, రవాణాల ప్రభావం పెద్దగా ఉండదు.",
+    "en": "Capital and transportation do not wield much influence because household manufacturing has low commercial significance and most tools are locally devised."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T26-0088",
+   "section": {
+    "te": "Mechanisation and Automation",
+    "en": "Mechanisation and Automation"
+   },
+   "q": {
+    "te": "పారిశ్రామిక ప్రక్రియలకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. మెకనైజేషన్ (Mechanisation) అంటే పనులను పూర్తి చేయడానికి గాడ్జెట్‌లను ఉపయోగించడం.\n2. ఆటోమేషన్ (Automation) అనేది మెకనైజేషన్ యొక్క అధునాతన దశ, ఇక్కడ మానవ ఆలోచన సహాయం లేకుండా తయారీ జరుగుతుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding industrial processes:\n1. Mechanisation refers to using gadgets to accomplish tasks.\n2. Automation is the advanced stage of mechanisation where manufacturing occurs without the aid of human thinking.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మెకనైజేషన్ అంటే గాడ్జెట్‌లను ఉపయోగించడం అని, ఆటోమేషన్ అనేది దాని అధునాతన దశ అని, ఇక్కడ ప్రక్రియలో మానవ ఆలోచన అవసరం లేదని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Mechanisation involves using gadgets, while automation is its advanced stage where human thinking is not required during the process."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T26-0024",
+   "section": {
+    "te": "GI forest products matching",
+    "en": "GI forest products matching"
+   },
+   "q": {
+    "te": "క్రింది GI-ట్యాగ్ పొందిన అటవీ ఉత్పత్తులను వాటి సంబంధిత రాష్ట్రం/కేంద్రపాలిత ప్రాంతంతో జతపరచండి:\n1. రాంబన్ సులై తేనె - i. అస్సాం\n2. తేజ్‌పూర్ లిచీ - ii. జమ్మూ & కాశ్మీర్\n3. త్రిపుర క్వీన్ పైనాపిల్ - iii. మేఘాలయ\n4. ఖాసీ మాండరిన్ - iv. త్రిపుర\nసరైన కోడ్‌ను ఎంచుకోండి:",
+    "en": "Match the following GI-tagged forest products with their respective State/Union Territory:\n1. Ramban Sulai Honey - i. Assam\n2. Tezpur Litchi - ii. Jammu and Kashmir\n3. Tripura Queen Pineapple - iii. Meghalaya\n4. Khasi Mandarin - iv. Tripura\nSelect the correct code:"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-i, 3-iv, 4-iii",
+     "1-i, 2-ii, 3-iii, 4-iv",
+     "1-ii, 2-i, 3-iii, 4-iv",
+     "1-iv, 2-iii, 3-ii, 4-i"
+    ],
+    "en": [
+     "1-ii, 2-i, 3-iv, 4-iii",
+     "1-i, 2-ii, 3-iii, 4-iv",
+     "1-ii, 2-i, 3-iii, 4-iv",
+     "1-iv, 2-iii, 3-ii, 4-i"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "రాంబన్ సులై తేనె జమ్మూ & కాశ్మీర్‌కు, తేజ్‌పూర్ లిచీ అస్సాంకు, త్రిపుర క్వీన్ పైనాపిల్ త్రిపురకు, ఖాసీ మాండరిన్ మేఘాలయకు చెందినవి.",
+    "en": "Ramban Sulai Honey is from Jammu and Kashmir, Tezpur Litchi from Assam, Tripura Queen Pineapple from Tripura, and Khasi Mandarin from Meghalaya."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T26-0104",
+   "section": {
+    "te": "Foot Loose Characteristics",
+    "en": "Foot Loose Characteristics"
+   },
+   "q": {
+    "te": "'ఫుట్ లూస్ పరిశ్రమలకు' సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి బరువు కోల్పోయే లేదా ఇతర ఏ నిర్దిష్ట ముడి పదార్థంపైనా ఆధారపడవు.\n2. ఇవి ఎక్కడైనా లభించే విడిభాగాలపై ప్రధానంగా ఆధారపడతాయి.\n3. ఇవి తక్కువ పరిమాణంలో ఉత్పత్తి చేస్తాయి మరియు సాధారణంగా కాలుష్య రహిత పరిశ్రమలు.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding 'Foot loose industries':\n1. They are not dependent on any specific raw material, weight losing or otherwise.\n2. They largely depend on component parts that can be obtained anywhere.\n3. They produce in small quantity and are generally not polluting industries.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఫుట్ లూస్ పరిశ్రమలు నిర్దిష్ట ముడిసరుకుపై ఆధారపడవు, విడిభాగాలను ఉపయోగిస్తాయి, తక్కువ పరిమాణంలో ఉత్పత్తి చేస్తాయి మరియు సాధారణంగా కాలుష్యం కలిగించవు.",
+    "en": "All three statements are correct descriptions of foot loose industries according to the source."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T26-0120",
+   "section": {
+    "te": "Non-metallic minerals",
+    "en": "Non-metallic minerals"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో అలోహ ఖనిజాల (non-metallic minerals) ఆధారిత పరిశ్రమకు ఉదాహరణ ఏది?",
+    "en": "Which of the following is an example of an industry based on non-metallic minerals?"
+   },
+   "options": {
+    "te": [
+     "ఇనుము మరియు ఉక్కు పరిశ్రమ",
+     "రాగి పరిశ్రమ",
+     "అల్యూమినియం పరిశ్రమ",
+     "కుండల తయారీ పరిశ్రమ (Pottery)"
+    ],
+    "en": [
+     "Iron and steel industry",
+     "Copper industry",
+     "Aluminium industry",
+     "Pottery industry"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సిమెంట్ మరియు కుండల తయారీ పరిశ్రమలు అలోహ ఖనిజాలను ముడిసరుకుగా ఉపయోగించే పరిశ్రమలు.",
+    "en": "Cement and pottery industries are specifically mentioned as industries that use non-metallic minerals."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T26-0116",
+   "section": {
+    "te": "Agri-business concept",
+    "en": "Agri-business concept"
+   },
+   "q": {
+    "te": "పారిశ్రామిక స్థాయిలో నిర్వహించబడే మరియు వ్యవసాయేతర రంగాలలో ప్రధాన వ్యాపార ఆసక్తులు కలిగిన సంస్థల ద్వారా ఆర్థిక సహాయం పొందే వాణిజ్య వ్యవసాయాన్ని ఏమని పిలుస్తారు?",
+    "en": "Commercial farming carried out on an industrial scale and often financed by business entities whose main interests lie outside agriculture is termed as:"
+   },
+   "options": {
+    "te": [
+     "అగ్రి-బిజినెస్ (Agri-business)",
+     "విస్తృత వ్యవసాయం",
+     "మిశ్రమ వ్యవసాయం",
+     "జీవనాధార వ్యవసాయం"
+    ],
+    "en": [
+     "Agri-business",
+     "Extensive farming",
+     "Mixed farming",
+     "Subsistence farming"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వ్యవసాయేతర వ్యాపార సంస్థలచే నిధులు సమకూర్చబడి, పారిశ్రామిక స్థాయిలో చేపట్టే వాణిజ్య వ్యవసాయాన్ని అగ్రి-బిజినెస్ అంటారు.",
+    "en": "Agri-business is defined as commercial farming conducted on an industrial scale, frequently funded by corporations having major interests outside agriculture."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T26-0038",
+   "section": {
+    "te": "Cotton spinning concentration",
+    "en": "Cotton spinning concentration"
+   },
+   "q": {
+    "te": "భారతదేశంలో నూలు వడకడం (Spinning) ప్రధానంగా ఏ రాష్ట్రాలలో కేంద్రీకృతమై ఉంది?",
+    "en": "In India, the spinning of cotton continues to be centralised mainly in which group of states?"
+   },
+   "options": {
+    "te": [
+     "పంజాబ్, హర్యానా మరియు రాజస్థాన్",
+     "మహారాష్ట్ర, గుజరాత్ మరియు తమిళనాడు",
+     "కర్ణాటక, కేరళ మరియు ఆంధ్రప్రదేశ్",
+     "ఉత్తర ప్రదేశ్, బీహార్ మరియు పశ్చిమ బెంగాల్"
+    ],
+    "en": [
+     "Punjab, Haryana and Rajasthan",
+     "Maharashtra, Gujarat and Tamil Nadu",
+     "Karnataka, Kerala and Andhra Pradesh",
+     "Uttar Pradesh, Bihar and West Bengal"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం నూలు వడకడం (స్పిన్నింగ్) మహారాష్ట్ర, గుజరాత్ మరియు తమిళనాడులలో కేంద్రీకృతమై కొనసాగుతోంది.",
+    "en": "Spinning continues to be centralised in Maharashtra, Gujarat, and Tamil Nadu."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T26-0064",
+   "section": {
+    "te": "Aluminium characteristics",
+    "en": "Aluminium characteristics"
+   },
+   "q": {
+    "te": "అల్యూమినియంకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది తేలికైనది, సులభంగా సాగే గుణం (మ్యాలీయబుల్) కలది మరియు మంచి ఉష్ణ వాహకం.\n2. ఇతర లోహాలతో కలిపినప్పుడు ఇది దృఢంగా మారుతుంది.\n3. ఇది ఉక్కు, రాగి, జింక్ మరియు సీసాలకు ప్రత్యామ్నాయంగా ప్రజాదరణ పొందింది.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding aluminium:\n1. It is light, malleable, and a good conductor of heat.\n2. It becomes strong when it is mixed with other metals.\n3. It has gained popularity as a substitute for steel, copper, zinc, and lead.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అల్యూమినియం తేలికైనది, తుప్పు పట్టనిది, ఉష్ణ వాహకం, ఇతర లోహాలతో కలిసినప్పుడు దృఢమైనదిగా మారుతుంది మరియు ఉక్కు, రాగి, జింక్, సీసాలకు ప్రత్యామ్నాయంగా ఉపయోగపడుతుంది.",
+    "en": "Aluminium is light, resistant to corrosion, heat conducting, malleable, becomes strong with other metals, and serves as a substitute for steel, copper, zinc, and lead."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T26-0056",
+   "section": {
+    "te": "Sugar Gur Khandsari Rank",
+    "en": "Sugar Gur Khandsari Rank"
+   },
+   "q": {
+    "te": "ప్రపంచంలో చక్కెర ఉత్పత్తిలో మరియు బెల్లం (గుర్), ఖండసారి ఉత్పత్తిలో భారతదేశం వరుసగా ఏ స్థానాల్లో ఉంది?",
+    "en": "What are India's global positions in the production of sugar and in the production of gur and khandsari, respectively?"
+   },
+   "options": {
+    "te": [
+     "చక్కెరలో రెండవ స్థానం; బెల్లం, ఖండసారిలో మొదటి స్థానం",
+     "చక్కెరలో మూడవ స్థానం; బెల్లం, ఖండసారిలో మొదటి స్థానం",
+     "చక్కెరలో రెండవ స్థానం; బెల్లం, ఖండసారిలో రెండవ స్థానం",
+     "చక్కెరలో మొదటి స్థానం; బెల్లం, ఖండసారిలో రెండవ స్థానం"
+    ],
+    "en": [
+     "Second in sugar; First in gur and khandsari",
+     "Third in sugar; First in gur and khandsari",
+     "Second in sugar; Second in gur and khandsari",
+     "First in sugar; Second in gur and khandsari"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రపంచ చక్కెర ఉత్పత్తిలో భారతదేశం రెండవ స్థానంలోను, బెల్లం (గుర్) మరియు ఖండసారి ఉత్పత్తిలో ప్రథమ స్థానంలోను ఉంది.",
+    "en": "India stands second in the world as a producer of sugar, but occupies the first place in the production of gur and khandsari."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T26-0021",
+   "section": {
+    "te": "Kandhamal Haldi features",
+    "en": "Kandhamal Haldi features"
+   },
+   "q": {
+    "te": "గిరిజన వర్గాలు పండించే ఒడిశాకు చెందిన GI-ట్యాగ్ కలిగిన కంధమాల్ పసుపు (Kandhamal Haldi) క్రింది ఏ ప్రత్యేక లక్షణానికి ప్రసిద్ధి చెందింది?",
+    "en": "Kandhamal Haldi, a GI-tagged product from Odisha grown by tribal communities, is specifically known for which of the following?"
+   },
+   "options": {
+    "te": [
+     "అధిక కర్కుమిన్ కంటెంట్ మరియు ఔషధ విలువ",
+     "అధిక సిట్రిక్ యాసిడ్ కంటెంట్",
+     "అధిక కెఫిన్ కంటెంట్",
+     "అధిక పైపరిన్ కంటెంట్"
+    ],
+    "en": [
+     "High curcumin content and medicinal value",
+     "High citric acid content",
+     "High caffeine content",
+     "High piperine content"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "కంధమాల్ పసుపు దాని అధిక కర్కుమిన్ (curcumin) కంటెంట్ మరియు ఔషధ విలువలకు ప్రసిద్ధి చెందింది.",
+    "en": "Kandhamal Haldi is a variety of turmeric grown by tribal communities in Odisha that is known for its high curcumin content and medicinal value."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T26-0009",
+   "section": {
+    "te": "Emerging Economic Centres",
+    "en": "Emerging Economic Centres"
+   },
+   "q": {
+    "te": "కొచ్చి, ఇండోర్ మరియు నాగ్‌పూర్ వంటి నగరాలు కంపెనీలు తమ కార్యాలయాలు మరియు గిడ్డంగులను స్థాపించడానికి ఎందుకు ఆకర్షణీయంగా మారుతున్నాయి?",
+    "en": "Why are cities like Kochi, Indore, and Nagpur becoming attractive for companies to establish offices and warehouses?"
+   },
+   "options": {
+    "te": [
+     "అవి ఓడరేవులు ఉన్న ఏకైక నగరాలు",
+     "పెద్ద నగరాల కంటే నిర్వహణ ఖర్చు తక్కువగా ఉండటం",
+     "అవి భారతదేశంలో అత్యధిక జనాభా కలిగిన నగరాలు",
+     "AI సాంకేతికత కలిగిన ఏకైక నగరాలు అవి"
+    ],
+    "en": [
+     "They are the only cities with ports",
+     "The cost of operations is lower than in larger cities",
+     "They have the highest population in India",
+     "They are the only cities with AI technology"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పెద్ద నగరాలతో పోలిస్తే ఈ నగరాల్లో నిర్వహణ ఖర్చులు తక్కువగా ఉండటం వల్ల కంపెనీలకు ఇవి లాభదాయకంగా ఉన్నాయి.",
+    "en": "Companies find these cities lucrative because the cost of operations is lower compared to major metropolises."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T26-0043",
+   "section": {
+    "te": "Traditional textiles setback cause",
+    "en": "Traditional textiles setback cause"
+   },
+   "q": {
+    "te": "వలస పాలన కాలంలో, భారతదేశ సాంప్రదాయ పత్తి వస్త్ర పరిశ్రమలు తీవ్ర ఎదురుదెబ్బను ఎదుర్కోవడానికి కారణం ఏమిటి?",
+    "en": "During the colonial period, why did traditional Indian cotton textile industries suffer a major setback?"
+   },
+   "options": {
+    "te": [
+     "ఇంగ్లాండ్ నుండి వచ్చిన మిల్లు వస్త్రాలతో పోటీ పడలేకపోవడం",
+     "భారతదేశంలో పత్తి సాగు పూర్తిగా లేకపోవడం",
+     "యూరోపియన్ వాణిజ్య సంస్థలు విధించిన అధిక ఎగుమతి పన్నులు",
+     "స్థానిక రాజులు చేనేతపై పూర్తి నిషేధం విధించడం"
+    ],
+    "en": [
+     "They could not compete with the mill-made cloth from England",
+     "Complete lack of cotton cultivation in India",
+     "Introduction of high export taxes by European trading companies",
+     "Complete ban on handloom weaving by local kings"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఇంగ్లాండ్ నుండి దిగుమతి అయిన మిల్లు వస్త్రాల ధర మరియు నాణ్యతతో మన సాంప్రదాయ చేనేత పరిశ్రమలు పోటీ పడలేకపోయాయి.",
+    "en": "The traditional textile industry suffered a setback during the colonial era because it could not compete with mill-made cloth from England."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T26-0036",
+   "section": {
+    "te": "Textile industry value chain",
+    "en": "Textile industry value chain"
+   },
+   "q": {
+    "te": "భారతదేశంలో ముడిసరుకు నుండి అత్యధిక విలువ ఆధారిత ఉత్పత్తుల వరకు విలువల గొలుసులో (value chain) స్వయం సమృద్ధిని మరియు సంపూర్ణతను కలిగి ఉన్న ఏకైక పరిశ్రమ ఏది?",
+    "en": "Which is the only industry in India that is self-reliant and complete in the value chain (from raw material to the highest value-added products)?"
+   },
+   "options": {
+    "te": [
+     "వస్త్ర పరిశ్రమ (Textile industry)",
+     "సిమెంట్ పరిశ్రమ",
+     "ఇనుము మరియు ఉక్కు పరిశ్రమ",
+     "పెట్రోకెమికల్స్ పరిశ్రమ"
+    ],
+    "en": [
+     "Textile industry",
+     "Cement industry",
+     "Iron and steel industry",
+     "Petrochemicals industry"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వస్త్ర పరిశ్రమ దేశంలో స్వయం సమృద్ధి కలిగి, ముడిసరుకు నుండి తుది విలువ ఆధారిత ఉత్పత్తుల వరకు పూర్తి విలువల గొలుసును కలిగి ఉన్న ఏకైక పరిశ్రమ.",
+    "en": "The textile industry is the only industry in India that is self-reliant and complete in the value chain from raw materials to highest value-added products."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T26-0041",
+   "section": {
+    "te": "Mineral-based industries",
+    "en": "Mineral-based industries"
+   },
+   "q": {
+    "te": "క్రింది పరిశ్రమలను పరిశీలించండి:\n1. సిమెంట్\n2. మెషిన్ టూల్స్\n3. పెట్రోకెమికల్స్\n4. జనపనార వస్త్రాలు (Jute textile)\nపైవాటిలో ఖనిజ ఆధారిత పరిశ్రమలుగా (Mineral-based industries) వర్గీకరించబడినవి ఏవి?",
+    "en": "Consider the following industries:\n1. Cement\n2. Machine tools\n3. Petrochemicals\n4. Jute textile\nWhich of the above are classified as mineral-based industries?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2, 3 మరియు 4 మాత్రమే",
+     "1, 2 మరియు 3 మాత్రమే",
+     "1, 2, 3 మరియు 4"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2, 3 and 4 only",
+     "1, 2 and 3 only",
+     "1, 2, 3 and 4"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సిమెంట్, మెషిన్ టూల్స్ మరియు పెట్రోకెమికల్స్ ఖనిజ ఆధారిత పరిశ్రమలు; జనపనార వ్యవసాయ ఆధారిత పరిశ్రమ.",
+    "en": "Cement, machine tools, and petrochemicals are mineral-based industries, whereas jute textile is an agro-based industry."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T26-0066",
+   "section": {
+    "te": "Aluminium raw material",
+    "en": "Aluminium raw material"
+   },
+   "q": {
+    "te": "అల్యూమినియం స్మెల్టర్లలో ఉపయోగించే ముడి పదార్థం ఏది, దీనిని చాలా బరువైన, ముదురు ఎరుపు రంగు రాయిగా పేర్కొంటారు?",
+    "en": "What is the primary raw material used in aluminium smelters, described as a very bulky, dark reddish coloured rock?"
+   },
+   "options": {
+    "te": [
+     "హెమటైట్",
+     "మాగ్నెటైట్",
+     "డోలమైట్",
+     "బాక్సైట్"
+    ],
+    "en": [
+     "Hematite",
+     "Magnetite",
+     "Dolomite",
+     "Bauxite"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అల్యూమినియం స్మెల్టర్లలో ఉపయోగించే ప్రధాన ముడి పదార్థం బాక్సైట్. ఇది బరువైన, ముదురు ఎరుపు రంగులో ఉండే రాయి.",
+    "en": "Bauxite is a bulky, dark reddish coloured rock used as the raw material in aluminium smelters."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T26-0129",
+   "section": {
+    "te": "High-tech workforce",
+    "en": "High-tech workforce"
+   },
+   "q": {
+    "te": "హై-టెక్నాలజీ పరిశ్రమలలో శ్రామిక శక్తి (వర్క్‌ఫోర్స్) కూర్పుకు సంబంధించి క్రింది వాటిలో ఏది సరైనది?\n1. అత్యంత నైపుణ్యం కలిగిన ప్రొఫెషనల్ (వైట్ కాలర్) కార్మికులు వాస్తవ ఉత్పత్తి (బ్లూ కాలర్) కార్మికుల కంటే చాలా ఎక్కువ సంఖ్యలో ఉంటారు.\n2. వాస్తవ ఉత్పత్తి (బ్లూ కాలర్) కార్మికులు శ్రామిక శక్తిలో అత్యధిక భాగాన్ని కలిగి ఉంటారు.",
+    "en": "In high-technology industries, which of the following is true regarding the workforce composition?\n1. Highly skilled professional (white collar) workers greatly outnumber actual production (blue collar) workers.\n2. Actual production (blue collar) workers make up the vast majority of the workforce."
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "హై-టెక్ పరిశ్రమలలో నిపుణులైన వైట్ కాలర్ కార్మికులు అధిక సంఖ్యలో ఉండి, వాస్తవ ఉత్పత్తి చేసే బ్లూ కాలర్ కార్మికుల కంటే చాలా ఎక్కువగా ఉంటారు.",
+    "en": "Professional (white collar) workers make up a large share and greatly outnumber actual production (blue collar) workers."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T26-0039",
+   "section": {
+    "te": "Consumer industries classification",
+    "en": "Consumer industries classification"
+   },
+   "q": {
+    "te": "ప్రాథమిక లేదా కీలక పరిశ్రమ కాకుండా, వినియోగదారు పరిశ్రమగా (Consumer industry) వర్గీకరించబడినది ఏది?",
+    "en": "Which of the following is classified as a consumer industry rather than a basic or key industry?"
+   },
+   "options": {
+    "te": [
+     "కుట్టు మిషన్లు (Sewing machines)",
+     "అల్యూమినియం కరిగించడం",
+     "రాగి కరిగించడం (Copper smelting)",
+     "ఇనుము మరియు ఉక్కు"
+    ],
+    "en": [
+     "Sewing machines",
+     "Aluminium smelting",
+     "Copper smelting",
+     "Iron and steel"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "కుట్టు మిషన్లు, పంచదార, టూత్‌పేస్ట్ మొదలైనవి వినియోగదారుల ప్రత్యక్ష ఉపయోగం కోసం వస్తువులను తయారుచేసే వినియోగదారు పరిశ్రమలు.",
+    "en": "Sewing machines, sugar, toothpaste, and paper produce goods for direct use by consumers and are classified as consumer industries."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T26-0125",
+   "section": {
+    "te": "Ownership classification",
+    "en": "Ownership classification"
+   },
+   "q": {
+    "te": "యాజమాన్యం ఆధారంగా వర్గీకరించబడిన పరిశ్రమలలో, భారతదేశంలో ప్రభుత్వ యాజమాన్యంలోని సంస్థలను సాధారణంగా ఏమని పిలుస్తారు?",
+    "en": "In the classification of industries based on ownership, state-owned enterprises in India are commonly referred to as:"
+   },
+   "options": {
+    "te": [
+     "బహుళజాతి సంస్థలు",
+     "ప్రైవేట్ లిమిటెడ్ కంపెనీలు",
+     "పబ్లిక్ సెక్టార్ అండర్‌టేకింగ్స్ (PSUs)",
+     "జాయింట్ సెక్టార్ యూనిట్లు"
+    ],
+    "en": [
+     "Multinational Corporations",
+     "Private Limited Companies",
+     "Public Sector Undertakings (PSUs)",
+     "Joint Sector Units"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రభుత్వ రంగ పరిశ్రమలు ప్రభుత్వం ఆధీనంలో ఉంటాయి; భారతదేశంలో వీటిని పబ్లిక్ సెక్టార్ అండర్‌టేకింగ్స్ (PSUs) అంటారు.",
+    "en": "Public sector industries are owned and managed by governments; in India, they are known as Public Sector Undertakings (PSUs)."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T26-0132",
+   "section": {
+    "te": "Technopolies definition",
+    "en": "Technopolies definition"
+   },
+   "q": {
+    "te": "ప్రాంతీయంగా కేంద్రీకృతమై, స్వయం సమృద్ధి కలిగి మరియు అత్యంత నైపుణ్యంతో కూడిన హై-టెక్ పరిశ్రమలను ఏమని పిలుస్తారు?",
+    "en": "High-tech industries that are regionally concentrated, self-sustained, and highly specialised are known as:"
+   },
+   "options": {
+    "te": [
+     "స్వేచ్ఛా వాణిజ్య మండలాలు",
+     "ఇండస్ట్రియల్ ఎస్టేట్లు",
+     "ఆగ్రో-ఫ్యాక్టరీలు",
+     "టెక్నోపోలీస్ (Technopolies)"
+    ],
+    "en": [
+     "Free trade zones",
+     "Industrial estates",
+     "Agro-factories",
+     "Technopolies"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ప్రాంతీయంగా కేంద్రీకృతమై, స్వయం సమృద్ధి మరియు ప్రత్యేకత కలిగిన హై-టెక్ పరిశ్రమల సమూహాలను టెక్నోపోలీస్ అంటారు.",
+    "en": "Regionally concentrated, self-sustained, and highly specialised high-tech industries are defined as technopolies."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T26-0111",
+   "section": {
+    "te": "Large Scale Types",
+    "en": "Large Scale Types"
+   },
+   "q": {
+    "te": "భారీ తరహా ఉత్పాదక వ్యవస్థ ఆధారంగా, ప్రపంచంలోని ప్రధాన పారిశ్రామిక ప్రాంతాలు క్రింది ఏ రెండు రకాలుగా వర్గీకరించబడ్డాయి?",
+    "en": "On the basis of the system of large scale manufacturing, the world's major industrial regions are grouped into which two broad types?"
+   },
+   "options": {
+    "te": [
+     "గృహ ఆధారిత మరియు చేతివృత్తుల పారిశ్రామిక ప్రాంతాలు",
+     "ప్రభుత్వ రంగ మరియు ఉమ్మడి రంగ పారిశ్రామిక ప్రాంతాలు",
+     "సాంప్రదాయ భారీ తరహా మరియు ఉన్నత సాంకేతిక (హైటెక్నాలజీ) భారీ తరహా పారిశ్రామిక ప్రాంతాలు",
+     "వ్యవసాయ ఆధారిత మరియు అటవీ ఆధారిత పారిశ్రామిక ప్రాంతాలు"
+    ],
+    "en": [
+     "Household-based and artisan-based industrial regions",
+     "Public-sector and joint-venture industrial regions",
+     "Traditional large-scale and high-technology large-scale industrial regions",
+     "Agro-based and forest-based industrial regions"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారీ తరహా పరిశ్రమల విధానం ఆధారంగా ప్రపంచ పారిశ్రామిక ప్రాంతాలు: 1. సాంప్రదాయ భారీ తరహా పారిశ్రామిక ప్రాంతాలు, 2. హైటెక్నాలజీ భారీ తరహా పారిశ్రామిక ప్రాంతాలుగా విభజించబడ్డాయి.",
+    "en": "Major industrial regions are grouped into: (i) traditional large-scale industrial regions and (ii) high-technology large scale industrial regions."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T26-0004",
+   "section": {
+    "te": "Sustainable Agriculture Practices",
+    "en": "Sustainable Agriculture Practices"
+   },
+   "q": {
+    "te": "నేల ఆరోగ్యాన్ని కాపాడటానికి వృక్షాయుర్వేదం ఏ పద్ధతులను ప్రోత్సహిస్తుంది?",
+    "en": "Which practices does Vṛikṣhāyurveda promote to maintain soil health?"
+   },
+   "options": {
+    "te": [
+     "ఏక పంట సాగు మరియు రసాయన ఎరువులు",
+     "పంట మార్పిడి (Crop rotation) మరియు మిశ్రమ పంటలు (Mixed cropping)",
+     "లోతైన దున్నకం మరియు భారీ నీటి పారుదల",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Monocropping and chemical fertilizers",
+     "Crop rotation and mixed cropping",
+     "Deep tilling and heavy irrigation",
+     "None of these"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "నేల ఆరోగ్యాన్ని కాపాడటానికి వృక్షాయుర్వేదం పంట మార్పిడి మరియు మిశ్రమ పంటల వంటి పద్ధతులను ప్రోత్సహిస్తుంది.",
+    "en": "Vṛikṣhāyurveda promotes sustainable practices like crop rotation and mixed cropping to ensure soil health."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T26-0028",
+   "section": {
+    "te": "Public sector philosophy",
+    "en": "Public sector philosophy"
+   },
+   "q": {
+    "te": "భారతదేశంలో ప్రభుత్వ రంగ పరిశ్రమలు మరియు ఉమ్మడి రంగ సంస్థలను (joint sector ventures) స్థాపించడం వెనుక ఉన్న ముఖ్య ఉద్దేశం/సిద్ధాంతం ఏమిటి?",
+    "en": "What was the main philosophy behind establishing public sector industries and joint sector ventures in India?"
+   },
+   "options": {
+    "te": [
+     "శ్రామిక శక్తిని పూర్తిగా తృతీయ రంగానికి బదిలీ చేయడం",
+     "పారిశ్రామికాభివృద్ధి ద్వారా నిరుద్యోగం మరియు పేదరికాన్ని నిర్మూలించడం",
+     "చిన్న తరహా మరియు గృహ పరిశ్రమలను పూర్తిగా తొలగించడం",
+     "అన్ని రంగాలలో భారీ పరిశ్రమలను ప్రైవేటీకరించడం"
+    ],
+    "en": [
+     "Shift of the entire labour force exclusively into tertiary activities",
+     "Eradication of unemployment and poverty through industrial development",
+     "Complete elimination of small-scale and household industries",
+     "Privatisation of heavy industries across all sectors"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "దేశంలో నిరుద్యోగం మరియు పేదరికాన్ని నిర్మూలించడానికి పారిశ్రామికాభివృద్ధి ఒక ముందస్తు షరతు అనే ఆలోచనే ప్రభుత్వ మరియు ఉమ్మడి రంగ పరిశ్రమల ఏర్పాటు వెనుక ఉన్న ముఖ్య సిద్ధాంతం.",
+    "en": "Industrial development as a precondition for the eradication of unemployment and poverty was the main philosophy behind public sector industries and joint ventures."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T26-0005",
+   "section": {
+    "te": "Mumbai Financial Hub",
+    "en": "Mumbai Financial Hub"
+   },
+   "q": {
+    "te": "ముంబై భారతదేశ ఆర్థిక రాజధానిగా మారడానికి దోహదపడిన బాంబే స్టాక్ ఎక్స్ఛేంజ్ (BSE) ఏ సంవత్సరంలో స్థాపించబడింది?",
+    "en": "In which year was the Bombay Stock Exchange (BSE) established, contributing to Mumbai becoming India's financial capital?"
+   },
+   "options": {
+    "te": [
+     "1875",
+     "1910",
+     "1930",
+     "1857"
+    ],
+    "en": [
+     "1875",
+     "1910",
+     "1930",
+     "1857"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "1875లో BSE స్థాపించబడటంతో ముంబై దేశ ఆర్థిక రాజధానిగా మారింది.",
+    "en": "The BSE was set up in 1875, which helped Mumbai emerge as the financial capital of India."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T26-0045",
+   "section": {
+    "te": "Light industries definition",
+    "en": "Light industries definition"
+   },
+   "q": {
+    "te": "ముడిసరుకు మరియు పూర్తయిన వస్తువుల బరువు ఆధారంగా, క్రింది వాటిలో తేలికపాటి పరిశ్రమగా (Light industry) వర్గీకరించబడినది ఏది?",
+    "en": "Based on the bulk and weight of raw materials and finished goods, which of the following is classified as a light industry?"
+   },
+   "options": {
+    "te": [
+     "ఓడల తయారీ పరిశ్రమ (Shipbuilding)",
+     "ఆటోమొబైల్ పరిశ్రమ",
+     "ఎలక్ట్రికల్ వస్తువుల పరిశ్రమ (Electrical goods)",
+     "ఇనుము మరియు ఉక్కు పరిశ్రమ"
+    ],
+    "en": [
+     "Shipbuilding industry",
+     "Automobile industry",
+     "Electrical goods industry",
+     "Iron and steel industry"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "తేలికపాటి ముడిసరుకులను ఉపయోగించి తేలికపాటి వస్తువులను తయారుచేసే ఎలక్ట్రికల్ వస్తువుల పరిశ్రమలు తేలికపాటి పరిశ్రమలుగా వర్గీకరించబడ్డాయి.",
+    "en": "Industries that use light raw materials and produce light goods, such as electrical goods industries, are light industries."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T26-0034",
+   "section": {
+    "te": "Small scale investment limit",
+    "en": "Small scale investment limit"
+   },
+   "q": {
+    "te": "ప్రస్తుతం, ఒక యూనిట్‌ను చిన్న తరహా పరిశ్రమగా (Small scale industry) వర్గీకరించడానికి దాని ఆస్తులపై అనుమతించబడిన గరిష్ట పెట్టుబడి పరిమితి ఎంత?",
+    "en": "At present, what is the maximum investment allowed on the assets of a unit for it to be classified as a small-scale industry?"
+   },
+   "options": {
+    "te": [
+     "రూపాయలు 1 కోటి",
+     "రూపాయలు 25 లక్షలు",
+     "రూపాయలు 5 కోట్లు",
+     "రూపాయలు 50 లక్షలు"
+    ],
+    "en": [
+     "Rupees 1 crore",
+     "Rupees 25 lakh",
+     "Rupees 5 crore",
+     "Rupees 50 lakh"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఒక యూనిట్ ఆస్తులపై అనుమతించబడిన పెట్టుబడి ఆధారంగా చిన్న తరహా పరిశ్రమను నిర్వచిస్తారు, ప్రస్తుతం ఈ గరిష్ట పరిమితి ఒక కోటి రూపాయలు.",
+    "en": "A small-scale industry is defined with reference to maximum investment allowed on assets, and at present, this limit is rupees one crore."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T26-0096",
+   "section": {
+    "te": "Government Policy",
+    "en": "Government Policy"
+   },
+   "q": {
+    "te": "పరిశ్రమల ఏర్పాటుకు సంబంధించి ప్రభుత్వాలు 'ప్రాంతీయ విధానాలను' (regional policies) అవలంబించడంలో ప్రధాన ఉద్దేశ్యం ఏమిటి?",
+    "en": "What is the primary objective of governments adopting 'regional policies' regarding industrial setup?"
+   },
+   "options": {
+    "te": [
+     "ప్రపంచ మార్కెట్లను నిరుత్సాహపరచడం",
+     "ఉత్పత్తి వ్యయాన్ని పెంచడం",
+     "మెకనైజేషన్ వినియోగాన్ని పరిమితం చేయడం",
+     "సమతుల్య ఆర్థిక అభివృద్ధిని ప్రోత్సహించడం"
+    ],
+    "en": [
+     "To discourage global markets",
+     "To increase the cost of production",
+     "To limit the use of mechanisation",
+     "To promote balanced economic development"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వివిధ ప్రాంతాలలో ఆర్థిక అభివృద్ధి సమతుల్యంగా ఉండేలా చూడటానికి ప్రభుత్వాలు ప్రాంతీయ విధానాలను ఉపయోగిస్తాయి.",
+    "en": "Regional policies are used by governments to ensure that economic development is balanced across different areas."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T26-0095",
+   "section": {
+    "te": "Agglomeration Economies",
+    "en": "Agglomeration Economies"
+   },
+   "q": {
+    "te": "అగ్లోమరేషన్ ఎకానమీస్ (Agglomeration economies) సందర్భంలో, పొదుపులు ప్రాథమికంగా ఎక్కడి నుండి లభిస్తాయి?",
+    "en": "In the context of agglomeration economies, from where are savings primarily derived?"
+   },
+   "options": {
+    "te": [
+     "ప్రభుత్వ రాయితీల నుండి మాత్రమే",
+     "వివిధ పరిశ్రమల మధ్య ఉన్న అనుసంధానాల (linkages) నుండి",
+     "కార్మికుల సంఖ్యను తగ్గించడం ద్వారా",
+     "మాన్యువల్ క్రాఫ్ట్ పద్ధతులను ఉపయోగించడం ద్వారా"
+    ],
+    "en": [
+     "From government subsidies only",
+     "From the linkages existing between different industries",
+     "From reducing the number of laborers",
+     "From using manual craft methods"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అగ్లోమరేషన్ ఎకానమీస్ వివిధ పరిశ్రమల మధ్య అనుసంధానాలు మరియు సామీప్యత ద్వారా పొదుపును అందిస్తాయి.",
+    "en": "Agglomeration economies provide savings through the linkages and proximity between different industries."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T26-0051",
+   "section": {
+    "te": "First Cotton Textile Mill",
+    "en": "First Cotton Textile Mill"
+   },
+   "q": {
+    "te": "ముంబైలో మొట్టమొదటి విజయవంతమైన వస్త్ర మిల్లు ఏ సంవత్సరంలో స్థాపించబడింది?",
+    "en": "In which year was the first successful textile mill established in Mumbai?"
+   },
+   "options": {
+    "te": [
+     "1850",
+     "1855",
+     "1854",
+     "1864"
+    ],
+    "en": [
+     "1850",
+     "1855",
+     "1854",
+     "1864"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతదేశంలో మొట్టమొదటి విజయవంతమైన వస్త్ర మిల్లు 1854 లో ముంబైలో స్థాపించబడింది.",
+    "en": "The first successful textile mill in India was established in Mumbai in 1854."
+   }
+  }
+ ]
+}

@@ -1,0 +1,942 @@
+{
+ "id": "geo-31-c-1",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Biodiversity – క్విజ్ 1",
+  "en": "Biodiversity – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T31-0125",
+   "section": {
+    "te": "WCED Leadership",
+    "en": "WCED Leadership"
+   },
+   "q": {
+    "te": "ఐక్యరాజ్యసమితి ఏర్పాటు చేసిన పర్యావరణం మరియు అభివృద్ధిపై ప్రపంచ కమిషన్ (WCED) కు ఎవరు నాయకత్వం వహించారు?",
+    "en": "Who was the head of the World Commission on Environment and Development (WCED) established by the United Nations?"
+   },
+   "options": {
+    "te": [
+     "ఎర్లిచ్",
+     "గ్రో హార్లెం బ్రండ్ట్‌ల్యాండ్",
+     "మెడోస్",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Ehrlich",
+     "Gro Harlem Brundtland",
+     "Meadows",
+     "None of these"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "WCED కి నార్వే ప్రధాని గ్రో హార్లెం బ్రండ్ట్‌ల్యాండ్ నాయకత్వం వహించారు, అందుకే దాని నివేదికను బ్రండ్ట్‌ల్యాండ్ నివేదిక అని కూడా పిలుస్తారు.",
+    "en": "The WCED was headed by the Norwegian Prime Minister Gro Harlem Brundtland, which is why its report is also called the Brundtland Report."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T31-0132",
+   "section": {
+    "te": "Air Pollution Effects",
+    "en": "Air Pollution Effects"
+   },
+   "q": {
+    "te": "వాయు కాలుష్యం మానవ శరీరంలోని ఏ వ్యవస్థలకు సంబంధించిన వ్యాధులను కలిగిస్తుంది?\n1. శ్వాసకోశ వ్యవస్థ (Respiratory system)\n2. నాడీ వ్యవస్థ (Nervous system)\n3. రక్త ప్రసరణ వ్యవస్థ (Circulatory system)",
+    "en": "Air pollution causes diseases related to which of the following human body systems?\n1. Respiratory system\n2. Nervous system\n3. Circulatory system"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "1 and 2 only",
+     "1 and 3 only",
+     "2 and 3 only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వాయు కాలుష్యం శ్వాసకోశ, నాడీ మరియు రక్త ప్రసరణ వ్యవస్థలపై ప్రభావం చూపుతుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Air pollution affects the respiratory, nervous, and circulatory systems."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T31-0003",
+   "section": {
+    "te": "Ecosystem services",
+    "en": "Ecosystem services"
+   },
+   "q": {
+    "te": "పర్యావరణ వ్యవస్థ విధులు మరియు సేవల గురించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. నీటిని శుద్ధి చేయడం మరియు నేల కోతను నిరోధించడం వంటి సహజ ప్రక్రియలు పర్యావరణ వ్యవస్థ విధులు.\n2. సహజ ప్రక్రియలు మానవులకు ప్రయోజనం చేకూర్చినప్పుడు, వాటిని పర్యావరణ వ్యవస్థ సేవలు అంటారు.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding ecosystem functions and services:\n1. Natural processes like water filtration and soil erosion prevention are ecosystem functions.\n2. When natural processes benefit humans, they are called ecosystem services.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం పర్యావరణ వ్యవస్థ విధులు (సహజ ప్రక్రియలు) మరియు పర్యావరణ వ్యవస్థ సేవలు (మానవులకు ప్రయోజనాలు) మధ్య వ్యత్యాసాన్ని చూపుతుంది. రెండు ప్రకటనలు దీనిని ఖచ్చితంగా ప్రతిబింబిస్తాయి.",
+    "en": "The text distinguishes between ecosystem functions (natural processes) and ecosystem services (benefits to humans). Both statements accurately reflect this."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T31-0024",
+   "section": {
+    "te": "Biome Pyramid",
+    "en": "Biome Pyramid"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): బయోమ్ పిరమిడ్‌లో, మనం పై స్థాయిలకు వెళ్లే కొద్దీ అందుబాటులో ఉన్న శక్తి తగ్గుతుంది.\nకారణం (R): జీవక్రియ ప్రక్రియల సమయంలో ప్రతి పోషక స్థాయిలో శక్తి ఉష్ణ రూపంలో కోల్పోతుంది.",
+    "en": "Assertion (A): In a biome pyramid, the available energy decreases as we move to higher trophic levels.\nReason (R): Energy is lost at each trophic level as heat during metabolic processes."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రతి దశలో జీవక్రియ సమయంలో శక్తి ఉష్ణంగా కోల్పోవడం వల్ల పై స్థాయిలలో శక్తి తగ్గుతుందని పిరమిడ్ చూపుతుంది.",
+    "en": "The pyramid shows a decrease in energy at higher levels because energy is lost as heat during metabolism at each stage."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T31-0156",
+   "section": {
+    "te": "Waste Collection in Metros",
+    "en": "Waste Collection in Metros"
+   },
+   "q": {
+    "te": "ముంబై మరియు బెంగళూరు వంటి భారతీయ మెట్రోపాలిటన్ నగరాల్లో సాధారణంగా ఎంత శాతం ఘన వ్యర్థాలను సేకరించి పారవేస్తారు?",
+    "en": "What percentage of solid waste is typically collected and disposed of in Indian metropolitan cities like Mumbai and Bengaluru?"
+   },
+   "options": {
+    "te": [
+     "సుమారు 90 శాతం",
+     "సుమారు 50 శాతం",
+     "సుమారు 30 శాతం",
+     "సుమారు 75 శాతం"
+    ],
+    "en": [
+     "About 90 per cent",
+     "About 50 per cent",
+     "About 30 per cent",
+     "About 75 per cent"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ముంబై, కోల్‌కతా, చెన్నై మరియు బెంగళూరు వంటి మెట్రోపాలిటన్ నగరాల్లో సుమారు 90 శాతం ఘన వ్యర్థాలను సేకరించి పారవేస్తారని పాఠ్య భాగం పేర్కొంది.",
+    "en": "In metropolitan cities like Mumbai, Kolkata, Chennai, and Bengaluru, about 90 per cent of solid waste is collected and disposed of."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T31-0066",
+   "section": {
+    "te": "Solid Wastes",
+    "en": "Solid Wastes"
+   },
+   "q": {
+    "te": "భారతదేశంలో ప్రధాన ఘన వ్యర్థాలుగా (Solid wastes) ఈ క్రింది వాటిలో ఏవి గుర్తించబడ్డాయి?",
+    "en": "Which of the following are identified as the major solid wastes in India?"
+   },
+   "options": {
+    "te": [
+     "ఫ్లై యాష్ (Fly ash)",
+     "ఫాస్ఫో-జిప్సం (Phospho-gypsum)",
+     "ఇనుము మరియు ఉక్కు స్లాగ్‌లు (Slags)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Fly ash",
+     "Phospho-gypsum",
+     "Iron and steel slags",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశంలోని ప్రధాన ఘన వ్యర్థాలుగా ఫ్లై యాష్, ఫాస్ఫో-జిప్సం మరియు ఇనుము-ఉక్కు స్లాగ్‌లను పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text lists fly ash, phospho-gypsum, and iron and steel slags as the major solid wastes in India."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T31-0105",
+   "section": {
+    "te": "Wildlife Protection Act",
+    "en": "Wildlife Protection Act"
+   },
+   "q": {
+    "te": "వన్యప్రాణి (సంరక్షణ) చట్టం, 1972 క్రింద భారత ప్రభుత్వం క్రింది వాటిలో వేటిని ఏర్పాటు చేసింది లేదా ప్రకటించింది?",
+    "en": "Under the Wild Life (Protection) Act, 1972, which of the following were established or declared by the Government of India?"
+   },
+   "options": {
+    "te": [
+     "జాతీయ పార్కులు (National parks)",
+     "అభయారణ్యాలు (Sanctuaries)",
+     "బయోస్ఫియర్ రిజర్వ్‌లు (Biosphere reserves)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "National parks",
+     "Sanctuaries",
+     "Biosphere reserves",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "1972 నాటి వన్యప్రాణి (సంరక్షణ) చట్టం కింద జాతీయ పార్కులు, అభయారణ్యాలు ఏర్పాటు చేయబడ్డాయి మరియు బయోస్ఫియర్ రిజర్వ్‌లు ప్రకటించబడ్డాయి.",
+    "en": "Under the Wild Life (Protection) Act, 1972, national parks and sanctuaries were established and biosphere reserves declared."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T31-0100",
+   "section": {
+    "te": "Tropical rain forests",
+    "en": "Tropical rain forests"
+   },
+   "q": {
+    "te": "భూమిపై ఉన్న మొత్తం జాతులలో ఉష్ణమండల వర్షారణ్యాలలో ఎంత శాతం జాతులు ఉన్నాయి?",
+    "en": "What percentage of the total species on Earth is contained in tropical rain forests?"
+   },
+   "options": {
+    "te": [
+     "75 శాతం",
+     "85 శాతం",
+     "50 శాతం",
+     "25 శాతం"
+    ],
+    "en": [
+     "75 per cent",
+     "85 per cent",
+     "50 per cent",
+     "25 per cent"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఉష్ణమండల వర్షారణ్యాలు భూమిపై ఉన్న జాతులలో 50 శాతాన్ని కలిగి ఉన్నాయని స్పష్టంగా పేర్కొనబడింది.",
+    "en": "Tropical rain forests contain 50 per cent of the species on the earth."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T31-0036",
+   "section": {
+    "te": "Aquatic Biomes",
+    "en": "Aquatic Biomes"
+   },
+   "q": {
+    "te": "కింది వాటిలో మంచినీటి బయోమ్‌లలో చేర్చబడినవి ఏవి?\nA. నదులు\nB. సరస్సులు\nC. పగడపు దిబ్బలు (Coral reefs)",
+    "en": "Which of the following are included in freshwater biomes?\nA. Rivers\nB. Lakes\nC. Coral reefs"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నదులు మరియు సరస్సులు మంచినీటి బయోమ్‌లు, పగడపు దిబ్బలు సముద్రపు బయోమ్‌లలో భాగం.",
+    "en": "Rivers and lakes are freshwater biomes, while coral reefs are part of marine biomes."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T31-0162",
+   "section": {
+    "te": "Daurala Timeline",
+    "en": "Daurala Timeline"
+   },
+   "q": {
+    "te": "దౌరాలా నివాసితుల దయనీయ స్థితి ఏ సంవత్సరంలో పౌర సమాజం దృష్టిని ఆకర్షించింది?",
+    "en": "In which year did the pitiable condition of the residents of Daurala draw the attention of civil society?"
+   },
+   "options": {
+    "te": [
+     "2005",
+     "2000",
+     "1998",
+     "2003"
+    ],
+    "en": [
+     "2005",
+     "2000",
+     "1998",
+     "2003"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "దౌరాలా నివాసితుల పరిస్థితి 2003 సంవత్సరంలో దృష్టిని ఆకర్షించిందని పాఠ్య భాగం పేర్కొంది.",
+    "en": "The condition of Dauralaites drew attention in the year 2003."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T31-0044",
+   "section": {
+    "te": "Geography and Conservation",
+    "en": "Geography and Conservation"
+   },
+   "q": {
+    "te": "ప్రతిపాదన (A): జీవవైవిధ్య సంరక్షణలో భూగోళశాస్త్రం కీలక పాత్ర పోషిస్తుంది.\nకారణం (R): భూమిపై జీవవైవిధ్యం అసమానంగా పంపిణీ చేయబడింది.",
+    "en": "Assertion (A): Geography plays a vital role in the conservation of biodiversity.\nReason (R): Biodiversity is unevenly distributed across the Earth."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వివిధ ప్రదేశాలలో (భూగోళశాస్త్రం) జీవరాశుల అసమాన పంపిణీ కారణంగా, సమర్థవంతమైన సంరక్షణ కోసం భౌగోళిక ప్రణాళిక అవసరం.",
+    "en": "The uneven distribution of life forms across different locations (geography) necessitates geographical planning for effective conservation."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T31-0078",
+   "section": {
+    "te": "Noise Pollution Control",
+    "en": "Noise Pollution Control"
+   },
+   "q": {
+    "te": "పరిశ్రమలలో శబ్ద కాలుష్యాన్ని తగ్గించడానికి ఈ క్రింది ఏ చర్యలు తీసుకోవచ్చు?",
+    "en": "Which of the following measures can be taken to reduce noise pollution in industries?"
+   },
+   "options": {
+    "te": [
+     "జనరేటర్లకు సైలెన్సర్లు అమర్చడం",
+     "శక్తి సామర్థ్యాన్ని పెంచడానికి యంత్రాలను రీడిజైన్ చేయడం",
+     "శబ్దాన్ని గ్రహించే పదార్థాలను (Noise absorbing material) ఉపయోగించడం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Fitting generators with silencers",
+     "Redesigning machinery to increase energy efficiency",
+     "Using noise absorbing material",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "శబ్ద కాలుష్యాన్ని తగ్గించడానికి సైలెన్సర్లు, యంత్రాల రీడిజైన్ మరియు శబ్దాన్ని గ్రహించే పదార్థాల వాడకాన్ని పాఠ్యభాగం సూచించింది.",
+    "en": "The text suggests using silencers, redesigning machinery, and using noise-absorbing materials to reduce noise."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T31-0135",
+   "section": {
+    "te": "Acid Rain",
+    "en": "Acid Rain"
+   },
+   "q": {
+    "te": "ప్రకటన (A): పట్టణ పరిసరాలలో వేసవి తర్వాత కురిసే మొదటి వర్షం యొక్క pH విలువ తదుపరి వర్షాల కంటే ఎల్లప్పుడూ తక్కువగా ఉంటుంది.\nకారణం (R): నగరాల్లోని వాతావరణ కాలుష్యం పట్టణ పొగమంచుకు (urban smog) కారణమవుతుంది మరియు ఇది ఆమ్ల వర్షాలకు దారితీస్తుంది.",
+    "en": "Assertion (A): The pH value of the first rain after summer in urban environments is always lower than subsequent rains.\nReason (R): Atmospheric pollution in cities causes urban smog and can lead to acid rains."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పట్టణ పొగమంచు మరియు వాతావరణ కాలుష్యం ఆమ్ల వర్షానికి కారణమవుతాయని, దీని ఫలితంగా వేసవి తర్వాత కురిసే మొదటి వర్షం తక్కువ pH విలువను కలిగి ఉంటుందని పాఠ్యభాగం వివరిస్తుంది.",
+    "en": "Urban smog and atmospheric pollution cause acid rain, which results in the first rain after summer having a lower pH value."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T31-0017",
+   "section": {
+    "te": "Rainforest climate",
+    "en": "Rainforest climate"
+   },
+   "q": {
+    "te": "ఉష్ణమండల వర్షారణ్య ప్రాంతాలలో సంవత్సరం పొడవునా ఉండే సాధారణ శీతోష్ణస్థితి పరిస్థితులు ఏమిటి?",
+    "en": "What are the typical climatic conditions of tropical rainforest regions throughout the year?"
+   },
+   "options": {
+    "te": [
+     "చల్లగా మరియు పొడిగా",
+     "వేడిగా మరియు పొడిగా",
+     "చల్లగా మరియు తేమగా",
+     "వేడిగా మరియు తేమగా (Hot and wet)"
+    ],
+    "en": [
+     "Cold and dry",
+     "Hot and dry",
+     "Cold and wet",
+     "Hot and wet"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఉష్ణమండల వర్షారణ్య ప్రాంతాలు సంవత్సరం పొడవునా వేడిగా మరియు తేమగా ఉండటం ద్వారా వర్గీకరించబడతాయి.",
+    "en": "Tropical rainforest regions are characterized by being hot and wet throughout the year."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T31-0075",
+   "section": {
+    "te": "NTPC Resource Preservation",
+    "en": "NTPC Resource Preservation"
+   },
+   "q": {
+    "te": "NTPC ఈ క్రింది ఏ సహజ వనరులను సంరక్షించడానికి చురుకైన విధానాన్ని అనుసరిస్తుంది?",
+    "en": "NTPC follows a proactive approach for preserving which of the following natural resources?"
+   },
+   "options": {
+    "te": [
+     "నీరు మరియు నూనె",
+     "వాయువు మరియు ఇంధనాలు",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Water and oil",
+     "Gas and fuels",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నీరు, నూనె, వాయువు మరియు ఇంధనాలతో సహా సహజ వనరులను సంరక్షించడానికి NTPC కృషి చేస్తుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "NTPC aims to preserve natural resources including water, oil, gas, and fuels."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T31-0056",
+   "section": {
+    "te": "Ecological Role of Forests",
+    "en": "Ecological Role of Forests"
+   },
+   "q": {
+    "te": "ప్రకటన (A): ఆవరణ వ్యవస్థలో అడవులు కీలక పాత్ర పోషిస్తాయి.\nకారణం (R): అడవులు ప్రాథమిక ఉత్పత్తిదారులు, వీటిపై ఇతర జీవులన్నీ ఆధారపడి ఉంటాయి.\nసరైన ఎంపికను ఎంచుకోండి:",
+    "en": "Assertion (A): Forests play a key role in the ecological system.\nReason (R): Forests are the primary producers on which all other living beings depend.\nSelect the correct option:"
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అడవులు ప్రాథమిక ఉత్పత్తిదారులుగా పనిచేస్తూ, మిగిలిన అన్ని జీవరాశులకు ఆధారాన్ని ఇస్తాయి కాబట్టి అవి ఆవరణ వ్యవస్థలో కీలకమైనవిగా పరిగణించబడతాయి.",
+    "en": "Forests are considered key to the ecological system because they function as primary producers, supporting all other life forms."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T31-0061",
+   "section": {
+    "te": "Historical Tiger Population",
+    "en": "Historical Tiger Population"
+   },
+   "q": {
+    "te": "శతాబ్దం ప్రారంభంలో పులుల సంఖ్య ఎంతగా అంచనా వేయబడింది?",
+    "en": "What was the estimated tiger population at the turn of the century, before it dwindled?"
+   },
+   "options": {
+    "te": [
+     "10,000",
+     "1,00,000",
+     "55,000",
+     "1,827"
+    ],
+    "en": [
+     "10,000",
+     "1,00,000",
+     "55,000",
+     "1,827"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "శతాబ్దం ప్రారంభంలో పులుల సంఖ్య 55,000గా అంచనా వేయబడిందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The tiger population was estimated to be 55,000 at the turn of the century."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T31-0082",
+   "section": {
+    "te": "Measuring Species Diversity",
+    "en": "Measuring Species Diversity"
+   },
+   "q": {
+    "te": "జాతుల వైవిధ్యాన్ని ఈ క్రింది వాటిలో దేని ద్వారా కొలవవచ్చు?",
+    "en": "The diversity of species can be measured through which of the following?"
+   },
+   "options": {
+    "te": [
+     "సమృద్ధి (Richness)",
+     "బాహుళ్యం (Abundance)",
+     "రకాలు (Types)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Richness",
+     "Abundance",
+     "Types",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, జాతుల వైవిధ్యాన్ని సమృద్ధి, బాహుళ్యం మరియు రకాలను ఉపయోగించి కొలుస్తారు.",
+    "en": "Species diversity is measured using richness, abundance, and types."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T31-0010",
+   "section": {
+    "te": "Gene bank",
+    "en": "Gene bank"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): ఉష్ణమండల వర్షారణ్యాలను 'జీన్ బ్యాంక్' (gene bank) అని కూడా పిలుస్తారు.\nకారణం (R): అవి పరిరక్షణ మరియు శాస్త్రీయ పరిశోధనలకు మద్దతు ఇచ్చే ప్రత్యేకమైన జన్యు పదార్థాన్ని సంరక్షిస్తాయి.",
+    "en": "Assertion (A): Tropical rainforests are also known as a 'gene bank'.\nReason (R): They preserve unique genetic material that supports conservation and scientific research."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఉష్ణమండల వర్షారణ్యాలను 'జీన్ బ్యాంకులు' అని పిలుస్తారు ఎందుకంటే అవి సైన్స్ మరియు పరిరక్షణకు విలువైన ప్రత్యేకమైన జన్యు పదార్థాన్ని నిల్వ చేస్తాయి మరియు సంరక్షిస్తాయి.",
+    "en": "Tropical rainforests are called 'gene banks' specifically because they store and preserve unique genetic material valuable for science and conservation."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T31-0068",
+   "section": {
+    "te": "Effluent Treatment",
+    "en": "Effluent Treatment"
+   },
+   "q": {
+    "te": "పారిశ్రామిక వ్యర్థాల శుద్ధి దశలను వాటి ప్రక్రియలతో జతపరచండి:\n1. ప్రాథమిక చికిత్స - i. జీవ, రసాయన మరియు భౌతిక ప్రక్రియలు\n2. ద్వితీయ చికిత్స - ii. యాంత్రిక పద్ధతులు\n3. తృతీయ చికిత్స - iii. జీవ ప్రక్రియ",
+    "en": "Match the phases of industrial effluent treatment with their respective processes:\n1. Primary treatment - i. Biological, chemical and physical processes\n2. Secondary treatment - ii. Mechanical means\n3. Tertiary treatment - iii. Biological process"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-iii, 3-i",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-i, 3-iii"
+    ],
+    "en": [
+     "1-ii, 2-iii, 3-i",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-i, 3-iii"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, ప్రాథమిక చికిత్స యాంత్రిక పద్ధతుల ద్వారా, ద్వితీయ చికిత్స జీవ ప్రక్రియ ద్వారా మరియు తృతీయ చికిత్స జీవ, రసాయన మరియు భౌతిక ప్రక్రియల ద్వారా జరుగుతుంది.",
+    "en": "Primary treatment is by mechanical means, secondary is by biological process, and tertiary involves biological, chemical, and physical processes."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T31-0015",
+   "section": {
+    "te": "Biome definition",
+    "en": "Biome definition"
+   },
+   "q": {
+    "te": "నిర్దిష్ట మొక్కలు మరియు జంతువులు ఒకే విధమైన శీతోష్ణస్థితి పరిస్థితులలో నివసించే ప్రపంచంలోని పెద్ద సహజ ప్రాంతాలను ఏమంటారు?",
+    "en": "What are large natural regions of the world where specific plants and animals live under similar climatic conditions called?"
+   },
+   "options": {
+    "te": [
+     "బయోమ్‌లు (Biomes)",
+     "నివాస స్థలాలు (Habitats)",
+     "పర్యావరణ వ్యవస్థలు",
+     "సముదాయాలు (Communities)"
+    ],
+    "en": [
+     "Biomes",
+     "Habitats",
+     "Ecosystems",
+     "Communities"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం బయోమ్‌లను ఒకే విధమైన శీతోష్ణస్థితి మరియు జీవరాశులను కలిగి ఉన్న పెద్ద సహజ ప్రాంతాలుగా నిర్వచిస్తుంది.",
+    "en": "The text defines biomes as large natural regions with similar climate and life forms."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T31-0121",
+   "section": {
+    "te": "Water Pollution Contributors",
+    "en": "Water Pollution Contributors"
+   },
+   "q": {
+    "te": "నీటిని కలుషితం చేసే వివిధ మానవ కార్యకలాపాలలో, అత్యంత ముఖ్యమైన కారకంగా ఏది గుర్తించబడింది?",
+    "en": "Among the various human activities that pollute water, which one is identified as the most significant contributor?"
+   },
+   "options": {
+    "te": [
+     "సాంస్కృతిక కార్యకలాపాలు",
+     "పరిశ్రమలు",
+     "వ్యవసాయ కార్యకలాపాలు",
+     "క్రమక్షయం"
+    ],
+    "en": [
+     "Cultural activities",
+     "Industry",
+     "Agricultural activities",
+     "Erosion"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వ్యవసాయం మరియు సంస్కృతి కూడా దోహదపడినప్పటికీ, నీటి కాలుష్యానికి పరిశ్రమలే అత్యంత ముఖ్యమైన కారకమని పాఠ్య భాగం స్పష్టంగా పేర్కొంది.",
+    "en": "While agriculture and culture also contribute, the text explicitly states that industry is the most significant contributor to water pollution."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T31-0118",
+   "section": {
+    "te": "Sustainable Development Definition",
+    "en": "Sustainable Development Definition"
+   },
+   "q": {
+    "te": "బ్రండ్ట్‌ల్యాండ్ నివేదిక ప్రకారం, సుస్థిర అభివృద్ధి అంటే భవిష్యత్ తరాల వారు తమ అవసరాలను తీర్చుకునే సామర్థ్యాన్ని దెబ్బతీయకుండా, ______ అవసరాలను తీర్చే అభివృద్ధి.",
+    "en": "According to the Brundtland Report, sustainable development is defined as development that meets the needs of the ______ without compromising the ability of future generations to meet their own needs."
+   },
+   "options": {
+    "te": [
+     "సాంకేతిక పురోగతి",
+     "పారిశ్రామిక రంగం",
+     "ప్రస్తుత తరాల",
+     "పాశ్చాత్య ప్రపంచం"
+    ],
+    "en": [
+     "Technological progress",
+     "Industrial sector",
+     "Present",
+     "Western world"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సుస్థిర అభివృద్ధి అంటే భవిష్యత్ తరాలు కూడా వారి అవసరాలను తీర్చుకోగలరని నిర్ధారిస్తూనే, ప్రస్తుత తరం అవసరాలను తీర్చడం.",
+    "en": "Sustainable development is defined as meeting the needs of the present generation while ensuring future generations can also meet theirs."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T31-0001",
+   "section": {
+    "te": "Oxygen production",
+    "en": "Oxygen production"
+   },
+   "q": {
+    "te": "సగటున, ఒక పరిణతి చెందిన చెట్టు రోజుకు ఎన్ని లీటర్ల ఆక్సిజన్‌ను ఉత్పత్తి చేస్తుంది?",
+    "en": "On average, how many litres of oxygen does a mature tree produce per day?"
+   },
+   "options": {
+    "te": [
+     "400 లీటర్లు",
+     "350 లీటర్లు",
+     "275 లీటర్లు",
+     "250 లీటర్లు"
+    ],
+    "en": [
+     "400 litres",
+     "350 litres",
+     "275 litres",
+     "250 litres"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మూలం ప్రకారం, ఒక పరిణతి చెందిన చెట్టు రోజుకు సుమారు 275 లీటర్ల ఆక్సిజన్‌ను ఉత్పత్తి చేస్తుంది, అయితే ఇది చెట్టు రకాన్ని బట్టి మారుతుంది.",
+    "en": "A mature tree produces approximately 275 litres of oxygen daily, though it varies by tree type."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T31-0021",
+   "section": {
+    "te": "Desert Biome",
+    "en": "Desert Biome"
+   },
+   "q": {
+    "te": "కచ్ రాన్ (Rann of Kutch) కు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఇది గుజరాత్‌లో ఉంది మరియు ప్రపంచంలోని అతిపెద్ద ఉప్పు ఎడారులలో ఒకటి.\n2. ఇది పొడి కాలంలో (dry season) చిత్తడి నేలగా మారుతుంది.\n3. ఇది వర్షాకాలంలో (monsoon) విశాలమైన తెల్లని ఉప్పు ఎడారిగా మారుతుంది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the Rann of Kutch:\n1. It is located in Gujarat and is one of the world's largest salt deserts.\n2. It turns into a marshy wetland during the dry season.\n3. It becomes a vast white salt desert during the monsoon.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 only",
+     "1 and 2 only",
+     "2 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రకటన 1 సరైనది. ప్రకటనలు 2 మరియు 3 తప్పు, ఎందుకంటే ఇది వర్షాకాలంలో చిత్తడి నేలగా మరియు పొడి కాలంలో ఉప్పు ఎడారిగా మారుతుంది.",
+    "en": "Statement 1 is correct. Statements 2 and 3 are incorrect because it turns into a marshy wetland during the monsoon and a salt desert during the dry season."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T31-0053",
+   "section": {
+    "te": "Lepcha Culture",
+    "en": "Lepcha Culture"
+   },
+   "q": {
+    "te": "లెప్చాల (Lepchas) జానపద గీతం ప్రకారం, వారి ప్రపంచంలో సంగీత సృష్టికర్తగా ఎవరు పరిగణించబడతారు?",
+    "en": "In the world of Lepchas, who is considered the creator of music according to their folk song?"
+   },
+   "options": {
+    "te": [
+     "మర్రి చెట్టు",
+     "నారక్",
+     "ముఖాలి",
+     "సైలెంట్ వ్యాలీ"
+    ],
+    "en": [
+     "Banyan",
+     "Narak",
+     "Mukhali",
+     "Silent Valley"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగంలో పేర్కొన్న లెప్చా జానపద గీతం ప్రకారం, నారక్ వారి ప్రపంచంలో సంగీత సృష్టికర్తగా పేర్కొనబడ్డారు.",
+    "en": "According to the Lepcha folk song mentioned in the text, Narak is addressed as the creator of music in their world."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T31-0112",
+   "section": {
+    "te": "Hawaii biodiversity threats",
+    "en": "Hawaii biodiversity threats"
+   },
+   "q": {
+    "te": "హవాయి దీవులలోని విశిష్టమైన మొక్కలు మరియు జంతువులు క్రింది వేటి వలన ముప్పును ఎదుర్కొంటున్నాయి?",
+    "en": "In the islands of Hawaii, unique plants and animals are threatened by which of the following?"
+   },
+   "options": {
+    "te": [
+     "ప్రవేశపెట్టబడిన జాతులు (Introduced species)",
+     "భూ అభివృద్ధి (Land development)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Introduced species",
+     "Land development",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "హవాయి దీవుల్లోని ప్రత్యేక జీవులు బయటి నుండి ప్రవేశపెట్టబడిన జాతులు మరియు భూ అభివృద్ధి రెండింటి వలనా ముప్పును ఎదుర్కొంటున్నాయి.",
+    "en": "The source specifies that unique plants and animals on Hawaii are threatened by introduced species and land development."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T31-0160",
+   "section": {
+    "te": "Daurala Case Study",
+    "en": "Daurala Case Study"
+   },
+   "q": {
+    "te": "మీరట్ సమీపంలోని దౌరాలాలో పర్యావరణ పునరుద్ధరణ ప్రయత్నం ఏ సార్వత్రిక చట్టంపై ఆధారపడి ఉంది?",
+    "en": "The ecological restoration effort in Daurala, near Meerut, was based on which universal law?"
+   },
+   "options": {
+    "te": [
+     "కాలుష్య కారకుడే చెల్లించాలి (Polluter pays)",
+     "శుభ్రమైన నీటి హక్కు",
+     "సుస్థిర అభివృద్ధి చట్టం",
+     "పర్యావరణ పరిరక్షణ చట్టం"
+    ],
+    "en": [
+     "Polluter pays",
+     "Right to clean water",
+     "Sustainable development law",
+     "Environmental protection act"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "దౌరాలాలో జరిగిన ప్రయత్నం 'కాలుష్య కారకుడే చెల్లించాలి' (Polluter pays) అనే సార్వత్రిక చట్టంపై ఆధారపడి ఉందని పాఠ్య భాగం పేర్కొంది.",
+    "en": "The effort in Daurala was based on the universal law 'Polluter pays'."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T31-0028",
+   "section": {
+    "te": "Tundra Biome",
+    "en": "Tundra Biome"
+   },
+   "q": {
+    "te": "తుండ్రా బయోమ్‌లో కింది వాటిలో ఏ రకమైన వృక్షసంపద కనిపిస్తుంది?\nA. నాచులు (Mosses)\nB. లైకెన్లు (Lichens)\nC. చిన్న పొదలు (Small shrubs)",
+    "en": "Which of the following types of vegetation are found in the Tundra biome?\nA. Mosses\nB. Lichens\nC. Small shrubs"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "తుండ్రా వృక్షసంపదలో నాచులు, లైకెన్లు మరియు చిన్న పొదలు ఉంటాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Tundra vegetation includes mosses, lichens, and small shrubs."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T31-0057",
+   "section": {
+    "te": "Conservation Benefits",
+    "en": "Conservation Benefits"
+   },
+   "q": {
+    "te": "కింది వాటిలో ఏ జీవనాధార వ్యవస్థలను రక్షించడానికి అడవులు మరియు వన్యప్రాణుల సంరక్షణ అవసరం?",
+    "en": "Conservation of forests and wildlife is essential to preserve which of the following life support systems?"
+   },
+   "options": {
+    "te": [
+     "నీరు",
+     "గాలి",
+     "నేల",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Water",
+     "Air",
+     "Soil",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నీరు, గాలి మరియు నేల వంటి మన జీవనాధార వ్యవస్థలను సంరక్షణ కాపాడుతుందని పాఠ్యభాగం స్పష్టంగా పేర్కొంది.",
+    "en": "Conservation preserves our life support systems, which include water, air, and soil."
+   }
+  }
+ ]
+}

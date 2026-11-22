@@ -1,0 +1,942 @@
+{
+ "id": "geo-25-c-3",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Agriculture – క్విజ్ 3",
+  "en": "Agriculture – Quiz 3"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T25-0160",
+   "section": {
+    "te": "Tea cultivation conditions",
+    "en": "Tea cultivation conditions"
+   },
+   "q": {
+    "te": "తేయాకు సాగుకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది ఉష్ణమండల మరియు ఉప-ఉష్ణమండల శీతోష్ణస్థితులలో బాగా పెరుగుతుంది.\n2. దీనికి హ్యూమస్ (humus) అధికంగా ఉండే లోతైన మరియు సారవంతమైన, నీరు నిలవని నేల అవసరం.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding tea cultivation:\n1. It grows well in tropical and sub-tropical climates.\n2. It requires deep and fertile well-drained soil rich in humus.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "తేయాకు మొక్కలు ఉష్ణమండల/ఉప-ఉష్ణమండల శీతోష్ణస్థితులలో పెరుగుతాయి మరియు సేంద్రీయ పదార్థం మరియు హ్యూమస్ అధికంగా ఉండే లోతైన, సారవంతమైన, నీరు నిలవని నేల అవసరం.",
+    "en": "Tea plants thrive in tropical/sub-tropical climates and require deep, fertile, well-drained soil that is rich in organic matter and humus."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T25-0066",
+   "section": {
+    "te": "Green Revolution architect",
+    "en": "Green Revolution architect"
+   },
+   "q": {
+    "te": "భారతదేశంలో హరిత విప్లవ పితామహుడిగా (architect) గుర్తించబడిన మరియు భారతరత్న గ్రహీత ఎవరు?",
+    "en": "Who is recognized as the architect of the Green Revolution in India and was a recipient of the Bharat Ratna?"
+   },
+   "options": {
+    "te": [
+     "వర్గీస్ కురియన్",
+     "సి. సుబ్రమణ్యం",
+     "ఎం.ఎస్. స్వామినాథన్",
+     "అమర్త్య సేన్"
+    ],
+    "en": [
+     "Verghese Kurien",
+     "C. Subramaniam",
+     "M.S. Swaminathan",
+     "Amartya Sen"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఎం.ఎస్. స్వామినాథన్ భారతదేశ హరిత విప్లవ రూపశిల్పిగా ప్రసిద్ధి చెందారు, ఇది ఆహార ఉత్పత్తిని గణనీయంగా పెంచింది.",
+    "en": "M.S. Swaminathan is known as the architect of India's Green Revolution, which significantly increased food production."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T25-0360",
+   "section": {
+    "te": "Rainfed Land Degradation",
+    "en": "Rainfed Land Degradation"
+   },
+   "q": {
+    "te": "భారతదేశంలోని ఆర్ద్ర మరియు అర్ధ-శుష్క ఉష్ణమండల వర్షాధార ప్రాంతాలలో భూసార క్షీణత ప్రధానంగా దేని ద్వారా జరుగుతుంది?",
+    "en": "Rainfed agricultural areas in humid and semi-arid tropics of India experience land degradation mainly through:"
+   },
+   "options": {
+    "te": [
+     "నీటి ద్వారా నేలకోత",
+     "గాలి ద్వారా నేలకోత",
+     "A మరియు B రెండూ",
+     "నీరు నిల్వ ఉండిపోవడం"
+    ],
+    "en": [
+     "Soil erosion by water",
+     "Wind erosion",
+     "Both A and B",
+     "Waterlogging"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఆర్ద్ర మరియు అర్ధ-శుష్క వర్షాధార ప్రాంతాలలో నీరు మరియు గాలి ద్వారా సంభవించే నేలకోత వల్ల భూసార క్షీణత జరుగుతుంది.",
+    "en": "Rainfed areas in humid and semi-arid tropics experience degradation primarily through soil erosion by water and wind erosion."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T25-0065",
+   "section": {
+    "te": "Gokṛiṣhi",
+    "en": "Gokṛiṣhi"
+   },
+   "q": {
+    "te": "సాంప్రదాయ 'గోకృషి' (Gokṛiṣhi) పద్ధతిలో, ఎడ్ల యొక్క నిర్దిష్ట పాత్ర ఏమిటి?",
+    "en": "In the traditional 'Gokṛiṣhi' method, what is the specific role of bullocks?"
+   },
+   "options": {
+    "te": [
+     "ఎరువును అందించడం",
+     "పంటలను మార్కెట్‌కు తరలించడం",
+     "బావుల నుండి నీటిని తోడటం",
+     "పొలాలను దున్నడం"
+    ],
+    "en": [
+     "Providing manure",
+     "Transporting crops to the market",
+     "Lifting water from wells",
+     "Ploughing the fields"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "గోకృషిలో, ఆవులు సేంద్రియ ఎరువును అందిస్తాయి, అయితే ఎడ్లను ప్రత్యేకంగా పొలాలను దున్నడానికి ఉపయోగిస్తారు.",
+    "en": "In Gokṛiṣhi, cows provide organic manure while bullocks are specifically used for the labor of ploughing the fields."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T25-0318",
+   "section": {
+    "te": "India Cotton Global Rank",
+    "en": "India Cotton Global Rank"
+   },
+   "q": {
+    "te": "చైనా తర్వాత పత్తి ఉత్పత్తిలో ప్రపంచంలో భారతదేశం ఏ స్థానంలో ఉంది?",
+    "en": "What is India's rank in the world in the production of cotton after China?"
+   },
+   "options": {
+    "te": [
+     "మొదటి",
+     "రెండవ",
+     "నాల్గవ",
+     "మూడవ"
+    ],
+    "en": [
+     "First",
+     "Second",
+     "Fourth",
+     "Third"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "చైనా తర్వాత ప్రపంచంలో పత్తి ఉత్పత్తిలో భారతదేశం రెండవ స్థానంలో ఉంది.",
+    "en": "India ranks second in global cotton production, behind China."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T25-0355",
+   "section": {
+    "te": "Low Labour Productivity",
+    "en": "Low Labour Productivity"
+   },
+   "q": {
+    "te": "అంతర్జాతీయ స్థాయితో పోలిస్తే భారతీయ వ్యవసాయంలో శ్రామిక ఉత్పాదకత చాలా తక్కువగా ఉండటానికి ప్రధాన కారణం ఏమిటి?",
+    "en": "What is the primary reason for very low labour productivity in Indian agriculture compared to international standards?"
+   },
+   "options": {
+    "te": [
+     "వాణిజ్య పంటల అధిక ఉత్పత్తి",
+     "నీటిపారుదల సౌకర్యాలు పూర్తిగా లేకపోవడం",
+     "భూవనరులపై అత్యధిక ఒత్తిడి ఉండటం",
+     "ఆధునిక యంత్రాలను విపరీతంగా ఉపయోగించడం"
+    ],
+    "en": [
+     "Overproduction of commercial cash crops",
+     "Complete absence of irrigation facilities",
+     "Very high pressure on the land resources",
+     "Excessive use of modern machinery"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూవనరులపై జనాభా ఒత్తిడి చాలా ఎక్కువగా ఉండటం వలన భారతీయ వ్యవసాయంలో శ్రామిక ఉత్పాదకత అంతర్జాతీయ స్థాయితో పోలిస్తే చాలా తక్కువగా ఉంది.",
+    "en": "Because of the very high pressure on the land resources, the labour productivity in Indian agriculture is very low compared to the international level."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T25-0102",
+   "section": {
+    "te": "Net Sown Area",
+    "en": "Net Sown Area"
+   },
+   "q": {
+    "te": "ఈ క్రింది రాష్ట్రాలు/కేంద్రపాలిత ప్రాంతాలను పరిశీలించండి:\n1. పంజాబ్\n2. మిజోరం\n3. మణిపూర్\n4. హర్యానా\nపైన పేర్కొన్న వాటిలో ఏ రాష్ట్రాల్లో నికర సాగు భూమి (NSA) మొత్తం వైశాల్యంలో 10 శాతం కంటే తక్కువగా ఉంది?",
+    "en": "Consider the following states/UTs:\n1. Punjab\n2. Mizoram\n3. Manipur\n4. Haryana\nIn which of the above is the Net Sown Area (NSA) less than 10 per cent of the total area?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 4 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3",
+     "2, 3 మరియు 4"
+    ],
+    "en": [
+     "1 and 4 only",
+     "2 and 3 only",
+     "1, 2 and 3",
+     "2, 3 and 4"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పంజాబ్ మరియు హర్యానాలో 80 శాతం కంటే ఎక్కువ నికర సాగు భూమి ఉండగా, మిజోరం మరియు మణిపూర్ (అరుణాచల్ ప్రదేశ్ మరియు అండమాన్ నికోబార్‌తో పాటు) 10 శాతం కంటే తక్కువ కలిగి ఉన్నాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text specifies that Punjab and Haryana have over 80% Net Sown Area, while Mizoram and Manipur (along with Arunachal Pradesh and Andaman Nicobar) have less than 10%."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T25-0343",
+   "section": {
+    "te": "British land revenue",
+    "en": "British land revenue"
+   },
+   "q": {
+    "te": "బ్రిటిష్ కాలంలో అమల్లో ఉన్న మూడు భూ రెవెన్యూ వ్యవస్థలలో (మహల్వారీ, రైత్వారీ, జమీందారీ) వేటిలో రైతులు అత్యంత తీవ్రంగా దోపిడీకి గురయ్యారు?",
+    "en": "Among the three land revenue systems operational during the British period (Mahalwari, Ryotwari, and Zamindari), which was the most exploitative for the peasants?"
+   },
+   "options": {
+    "te": [
+     "ఇనాందారీ",
+     "రైత్వారీ",
+     "జమీందారీ",
+     "మహల్వారీ"
+    ],
+    "en": [
+     "Inamdari",
+     "Ryotwari",
+     "Zamindari",
+     "Mahalwari"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "బ్రిటిష్ కాలంలో అమలులో ఉన్న మూడు రెవెన్యూ వ్యవస్థలలో జమీందారీ విధానం రైతులను అత్యంత తీవ్రంగా దోపిడీ చేసింది.",
+    "en": "Among Mahalwari, Ryotwari, and Zamindari systems, the Zamindari system was the most exploitative for peasants."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T25-0053",
+   "section": {
+    "te": "Drip irrigation alias",
+    "en": "Drip irrigation alias"
+   },
+   "q": {
+    "te": "ఏ ఆధునిక నీటిపారుదల పద్ధతిని 'ట్రికిల్ ఇరిగేషన్' (trickle irrigation) అని కూడా పిలుస్తారు?",
+    "en": "Which modern irrigation method is also known as 'trickle irrigation'?"
+   },
+   "options": {
+    "te": [
+     "తుంపర సేద్యం (Sprinkler irrigation)",
+     "బిందు సేద్యం (Drip irrigation)",
+     "కాలువ నీటిపారుదల (Canal irrigation)",
+     "ఫాద్ వ్యవస్థ (Phad system)"
+    ],
+    "en": [
+     "Sprinkler irrigation",
+     "Drip irrigation",
+     "Canal irrigation",
+     "Phad system"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "బిందు సేద్యాన్ని (Drip irrigation) 'ట్రికిల్ ఇరిగేషన్' అని కూడా పిలుస్తారు, ఇది మొక్కల వేర్లకు నేరుగా నీటిని నెమ్మదిగా అందిస్తుంది.",
+    "en": "Drip irrigation is also known as trickle irrigation because it delivers water slowly and directly to the plant's roots."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T25-0069",
+   "section": {
+    "te": "Seed drill efficiency",
+    "en": "Seed drill efficiency"
+   },
+   "q": {
+    "te": "భారతీయ విత్తన గొర్రు వాడకం వల్ల ఎన్ని వేర్వేరు పనులు ఒకటిగా కలిసి శ్రమ తగ్గింది?",
+    "en": "The use of the Indian seed drill reduced labor by combining how many separate operations into one?"
+   },
+   "options": {
+    "te": [
+     "రెండు",
+     "ఐదు",
+     "మూడు",
+     "నాలుగు"
+    ],
+    "en": [
+     "Two",
+     "Five",
+     "Three",
+     "Four"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "విత్తన గొర్రు నేల తయారీ, విత్తడం మరియు చాలును మూసివేయడం అనే మూడు వేర్వేరు దశలను ఒకటిగా కలిపింది.",
+    "en": "The seed drill combined soil preparation, planting, and furrow closing, which were originally three separate steps."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T25-0075",
+   "section": {
+    "te": "Agricultural Heritage",
+    "en": "Agricultural Heritage"
+   },
+   "q": {
+    "te": "భారతదేశంలోని కింది వ్యవసాయ వ్యవస్థలను పరిశీలించండి:\n1. కాశ్మీర్‌లో కుంకుమపువ్వు సాగు\n2. అటవీ నిర్వహణను ఏకీకృతం చేసే ఒడిశా సాంప్రదాయ వ్యవసాయ వ్యవస్థలు\n3. కేరళలో సముద్ర మట్టానికి దిగువన ఉన్న వ్యవసాయ పద్ధతులు\nపైన పేర్కొన్న వాటిలో వేటిని ఆహార మరియు వ్యవసాయ సంస్థ (FAO) ప్రపంచవ్యాప్తంగా ముఖ్యమైన వ్యవసాయ వారసత్వ వ్యవస్థలుగా గుర్తించింది?",
+    "en": "Consider the following agricultural systems in India:\n1. Saffron farming in Kashmir\n2. Traditional agricultural systems of Odisha integrating forest management\n3. Below-sea-level agricultural methods in Kerala\nWhich of the above have been recognized by the Food and Agriculture Organisation (FAO) as globally significant agricultural heritage systems?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "FAO కాశ్మీర్ కుంకుమపువ్వు, ఒడిశా అటవీ-ఏకీకృత వ్యవస్థలు మరియు కేరళ సముద్ర మట్టానికి దిగువన ఉన్న వ్యవసాయం - ఈ మూడింటినీ ప్రపంచవ్యాప్తంగా ముఖ్యమైన వ్యవసాయ వారసత్వ వ్యవస్థలుగా గుర్తించింది.",
+    "en": "The FAO has recognized all three systems: Kashmir's saffron, Odisha's forest-integrated systems, and Kerala's below-sea-level farming as globally significant agricultural heritage systems."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T25-0123",
+   "section": {
+    "te": "Bamboo Drip Irrigation",
+    "en": "Bamboo Drip Irrigation"
+   },
+   "q": {
+    "te": "మేఘాలయలోని వెదురు పైపుల వ్యవస్థలో కొండపై నుండి దిగువ ప్రాంతాలకు నీటిని రవాణా చేయడానికి ఉపయోగించే ప్రధాన పద్ధతి ఏమిటి?",
+    "en": "What is the primary method used to transport water from hilltops to lower reaches in Meghalaya's bamboo pipe system?"
+   },
+   "options": {
+    "te": [
+     "జంతువుల శక్తి",
+     "పవన శక్తి",
+     "గురుత్వాకర్షణ (Gravity)",
+     "ఎలక్ట్రిక్ పంపులు"
+    ],
+    "en": [
+     "Animal power",
+     "Wind energy",
+     "Gravity",
+     "Electric pumps"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వెదురు పైపులు గురుత్వాకర్షణను ఉపయోగించి కొండపై ఉన్న జీవ ఊటల నుండి దిగువ ప్రాంతాలకు నీటిని మళ్లిస్తాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Bamboo pipes divert perennial springs from hilltops to lower reaches using gravity."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T25-0074",
+   "section": {
+    "te": "Organic Fertilizers",
+    "en": "Organic Fertilizers"
+   },
+   "q": {
+    "te": "సేంద్రీయ వ్యవసాయం సందర్భంలో, 'సీడ్ కేక్' (seed cake) అంటే ఏమిటి?",
+    "en": "In the context of organic farming, what is 'seed cake'?"
+   },
+   "options": {
+    "te": [
+     "విత్తనాల నుండి నూనె తీసిన తర్వాత మిగిలిన అవశేషం",
+     "నాటడానికి ఉపయోగించే విత్తనాలు మరియు కంపోస్ట్ మిశ్రమం",
+     "వేపతో తయారు చేసిన ఒక రకమైన సేంద్రీయ పురుగుమందు",
+     "విత్తనాల పెరుగుదలను పెంచడానికి ఉపయోగించే రసాయన ఎరువు"
+    ],
+    "en": [
+     "The residue left after oil is extracted from seeds",
+     "A mixture of seeds and compost used for planting",
+     "A type of organic pesticide made from neem",
+     "A chemical fertilizer used to boost seed growth"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "విత్తనాల నుండి నూనెను తీసిన తర్వాత మిగిలిపోయే అవశేషాన్ని సీడ్ కేక్ అంటారు మరియు దీనిని సేంద్రీయ వ్యవసాయంలో సహజ ఎరువుగా ఉపయోగిస్తారు.",
+    "en": "Seed cake is the residue remaining after oil has been extracted from seeds and is used as a natural fertilizer in organic farming."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T25-0006",
+   "section": {
+    "te": "Vedic Crop Names",
+    "en": "Vedic Crop Names"
+   },
+   "q": {
+    "te": "కింది వేద పదాలను వాటి ఆధునిక పంట పేర్లతో జతపరచండి:\n1. యవ - i. వరి\n2. గోధూమ - ii. బార్లీ\n3. వ్రీహి - iii. గోధుమ",
+    "en": "Match the following Vedic terms with their modern crop names:\n1. Yava - i. Rice\n2. Godhūma - ii. Barley\n3. Vrīhi - iii. Wheat"
+   },
+   "options": {
+    "te": [
+     "1-i, 2-ii, 3-iii",
+     "1-ii, 2-iii, 3-i",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-i, 3-iii"
+    ],
+    "en": [
+     "1-i, 2-ii, 3-iii",
+     "1-ii, 2-iii, 3-i",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-i, 3-iii"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వేదాలలో, యవ అంటే బార్లీ, గోధూమ అంటే గోధుమ మరియు వ్రీహి అంటే వరి అని అర్థం.",
+    "en": "In the Vedas, Yava refers to barley, Godhūma refers to wheat, and Vrīhi refers to rice."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T25-0133",
+   "section": {
+    "te": "Rabi Success Factors",
+    "en": "Rabi Success Factors"
+   },
+   "q": {
+    "te": "శీతాకాలంలో భారతదేశంలోని ఉత్తర మరియు వాయువ్య ప్రాంతాలలో రబీ పంటల విజయానికి ఏ వాతావరణ దృగ్విషయం దోహదపడుతుంది?",
+    "en": "Which climatic phenomenon contributes to the success of rabi crops in the north and north-western parts of India during winter?"
+   },
+   "options": {
+    "te": [
+     "పశ్చిమ సమశీతోష్ణ చక్రవాతాలు (Western temperate cyclones)",
+     "ఉష్ణమండల చక్రవాతాలు",
+     "లూ గాలులు",
+     "నైరుతి రుతుపవనాలు"
+    ],
+    "en": [
+     "Western temperate cyclones",
+     "Tropical cyclones",
+     "Loo winds",
+     "South-west monsoon"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "శీతాకాలంలో పశ్చిమ సమశీతోష్ణ చక్రవాతాల వల్ల కలిగే వర్షపాతం ఉత్తర భారతదేశంలో గోధుమ వంటి రబీ పంటల విజయానికి కీలకమైన అంశం.",
+    "en": "Precipitation from western temperate cyclones during winter months is a key factor for the success of rabi crops like wheat in North India."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T25-0195",
+   "section": {
+    "te": "Community Forestry Lands",
+    "en": "Community Forestry Lands"
+   },
+   "q": {
+    "te": "గ్రామ పచ్చిక బయళ్ళు, దేవాలయ భూములు, రోడ్డు పక్కన, కాలువ గట్లు మరియు పాఠశాలలు వంటి ప్రభుత్వ లేదా సామాజిక భూములలో చెట్లను పెంచే పద్ధతిని ఏమంటారు?",
+    "en": "Which type of forestry involves raising trees on public or community lands such as village pastures, temple lands, roadsides, canal banks, and schools?"
+   },
+   "options": {
+    "te": [
+     "సామాజిక సామూహిక అటవీకరణ (Community forestry)",
+     "వాణిజ్య అటవీకరణ",
+     "ఫార్మ్ అటవీకరణ",
+     "వ్యవసాయ-అటవీకరణ"
+    ],
+    "en": [
+     "Community forestry",
+     "Commercial forestry",
+     "Farm forestry",
+     "Agro-forestry"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రజా లేదా సామాజిక భూములలో చెట్లను పెంచే విధానాన్ని సామాజిక సామూహిక అటవీకరణ (Community forestry) అంటారు.",
+    "en": "Community forestry involves the raising of trees on public or community land such as village pastures, temple land, roadsides, and canal banks."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T25-0170",
+   "section": {
+    "te": "Tea producing states",
+    "en": "Tea producing states"
+   },
+   "q": {
+    "te": "అస్సాం మరియు పశ్చిమ బెంగాల్ వంటి ప్రధాన రాష్ట్రాలే కాకుండా, భారతదేశంలో టీని ఉత్పత్తి చేసే ఇతర రాష్ట్రాలు ఏవి?",
+    "en": "Which of the following are also tea-producing states in India, besides the major ones like Assam and West Bengal?"
+   },
+   "options": {
+    "te": [
+     "ఆంధ్రప్రదేశ్",
+     "త్రిపుర",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Andhra Pradesh",
+     "Tripura",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రధాన ఉత్పత్తిదారులే కాకుండా, ఆంధ్రప్రదేశ్, త్రిపుర, హిమాచల్ ప్రదేశ్ మరియు మేఘాలయ వంటి రాష్ట్రాలు కూడా టీని ఉత్పత్తి చేస్తాయి.",
+    "en": "In addition to major producers, states like Andhra Pradesh, Tripura, Himachal Pradesh, and Meghalaya also produce tea."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T25-0184",
+   "section": {
+    "te": "Vinoba Bhave",
+    "en": "Vinoba Bhave"
+   },
+   "q": {
+    "te": "మహాత్మా గాంధీ ఎవరిని తన ఆధ్యాత్మిక వారసుడిగా ప్రకటించారు?",
+    "en": "Who was declared as the spiritual heir by Mahatma Gandhi?"
+   },
+   "options": {
+    "te": [
+     "సర్దార్ పటేల్",
+     "వినోబా భావే",
+     "జవహర్ లాల్ నెహ్రూ",
+     "రామచంద్రారెడ్డి"
+    ],
+    "en": [
+     "Sardar Patel",
+     "Vinoba Bhave",
+     "Jawaharlal Nehru",
+     "Ram Chandra Reddy"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మహాత్మా గాంధీ వినోబా భావేను తన ఆధ్యాత్మిక వారసుడిగా ప్రకటించారు, ఆ తర్వాత ఆయన భూదాన్-గ్రామదాన్ ఉద్యమానికి నాయకత్వం వహించారు.",
+    "en": "Mahatma Gandhi declared Vinoba Bhave as his spiritual heir, who later led the Bhoodan-Gramdan movement."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T25-0218",
+   "section": {
+    "te": "Features of plantation agriculture",
+    "en": "Features of plantation agriculture"
+   },
+   "q": {
+    "te": "తోటల వ్యవసాయం (Plantation agriculture) కు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది ఒకే పంట ప్రత్యేకతను (single crop specialisation) కలిగి ఉంటుంది.\n2. దీనికి భారీ మూలధన పెట్టుబడితో పాటు నిర్వహణ మరియు సాంకేతిక సహకారం అవసరం.\n3. ఇది ప్రాచీన, అశాస్త్రీయ సాగు పద్ధతులను ఉపయోగిస్తుంది.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding plantation agriculture:\n1. It is characterised by single crop specialisation.\n2. It requires large capital investment and managerial and technical support.\n3. It uses primitive, non-scientific methods of cultivation.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 3 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 2 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 3 only",
+     "2 and 3 only",
+     "1 and 2 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "1 మరియు 2 సరైనవి. ప్రకటన 3 తప్పు, ఎందుకంటే తోటల వ్యవసాయంలో ప్రాచీన పద్ధతులకు బదులుగా శాస్త్రీయ పద్ధతులను (scientific methods) ఉపయోగిస్తారు.",
+    "en": "Statements 1 and 2 are correct. Statement 3 is incorrect because plantation agriculture is characterised by scientific methods of cultivation, not primitive methods."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T25-0081",
+   "section": {
+    "te": "Traditional Farming",
+    "en": "Traditional Farming"
+   },
+   "q": {
+    "te": "పంటలు పండించడమే కాకుండా, స్థితిస్థాపకతను (resilience) పెంపొందించుకోవడానికి భారతీయ వ్యవసాయ కుటుంబాలు సాంప్రదాయకంగా కింది వాటిలో ఏ కార్యకలాపాలను నిర్వహిస్తాయి?\nA. తేనెటీగల పెంపకం (Apiculture)\nB. కోళ్ల పెంపకం\nC. అటవీ ఉత్పత్తుల సేకరణ",
+    "en": "Which of the following activities are traditionally practiced by Indian farming families to build resilience beyond growing crops?\nA. Apiculture\nB. Rearing poultry\nC. Collecting forest produce"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సాంప్రదాయ వ్యవసాయ కుటుంబాలు కోళ్ల పెంపకం, తేనెటీగల పెంపకం మరియు అటవీ ఉత్పత్తులను సేకరించడం ద్వారా తమ ఆదాయాన్ని వైవిధ్యపరుచుకుంటాయి.",
+    "en": "Traditional farming families diversify their income by rearing poultry, practicing apiculture (beekeeping), and collecting forest produce to build resilience."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T25-0064",
+   "section": {
+    "te": "Ancient seed prep (Cereals)",
+    "en": "Ancient seed prep (Cereals)"
+   },
+   "q": {
+    "te": "అర్థశాస్త్రం ప్రకారం, తృణధాన్యాలు, చిక్కుళ్ళు మరియు పప్పుధాన్యాలను నాటడానికి ముందు ఎలా సిద్ధం చేయాలి?",
+    "en": "According to the Arthaśhāstra, how should cereals, beans, and pulses be prepared before planting?"
+   },
+   "options": {
+    "te": [
+     "మంచులో నానబెట్టి, ఆపై ఎండలో ఎండబెట్టాలి",
+     "తేనె మరియు నెయ్యిలో నానబెట్టాలి",
+     "బీజామృతంతో పూత పూయాలి",
+     "ఆవు పేడను పూయాలి"
+    ],
+    "en": [
+     "Soaked in dew and then sun-dried",
+     "Soaked in honey and ghee",
+     "Coated with beejamrit",
+     "Smeared with cow dung"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఈ విత్తనాలను నాటడానికి ముందు కొన్ని రోజుల పాటు మంచులో నానబెట్టి, ఆపై ఎండలో ఎండబెట్టాలని అర్థశాస్త్రం నిర్దేశిస్తుంది.",
+    "en": "The Arthaśhāstra instructs that these seeds should be soaked in dew for several days and then dried in the sun before planting."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T25-0259",
+   "section": {
+    "te": "Expansion of non-agricultural land",
+    "en": "Expansion of non-agricultural land"
+   },
+   "q": {
+    "te": "భారతదేశంలో వ్యవసాయేతర వినియోగంలో ఉన్న విస్తీర్ణం ప్రధానంగా వేటి ఖర్చుతో (నష్టంతో) విస్తరిస్తోంది?",
+    "en": "The area under non-agricultural uses in India is expanding primarily at the expense of which of the following?"
+   },
+   "options": {
+    "te": [
+     "బంజరు భూములు మరియు వ్యవసాయ భూమి",
+     "రిజర్వ్ అడవులు మరియు జాతీయ పార్కులు",
+     "గ్రామ నీటి వనరులు మరియు పచ్చిక బయళ్ళు మాత్రమే",
+     "పర్వత వాలులు మరియు తీరప్రాంత మండలాలు"
+    ],
+    "en": [
+     "Wastelands and agricultural land",
+     "Reserved forests and national parks",
+     "Village water bodies and pastures only",
+     "Mountainous slopes and coastal zones"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వ్యవసాయేతర వినియోగం క్రింద ఉన్న భూమి ప్రధానంగా బంజరు భూములు మరియు వ్యవసాయ భూములను ఆక్రమిస్తూ పెరుగుతోంది.",
+    "en": "The area under non-agricultural uses increases at the expense of wastelands and agricultural land."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T25-0272",
+   "section": {
+    "te": "Rice Cultivation",
+    "en": "Rice Cultivation"
+   },
+   "q": {
+    "te": "పశ్చిమ బెంగాల్‌లోని రైతులు పండించే మూడు రకాల వరి పంటల పేర్లు ఏమిటి?",
+    "en": "What are the names of the three rice crops grown by farmers in West Bengal?"
+   },
+   "options": {
+    "te": [
+     "సాంబ, కురువై, తలడి",
+     "ఖరీఫ్, రబీ, జైద్",
+     "జొన్న, సజ్జ, కంది",
+     "ఆస్, అమన్, బోరో"
+    ],
+    "en": [
+     "Samba, Kuruvai, Thaladi",
+     "Kharif, Rabi, Zaid",
+     "Jowar, Bajra, Tur",
+     "Aus, Aman, Boro"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పశ్చిమ బెంగాల్‌లోని రైతులు ఆస్, అమన్ మరియు బోరో అనే మూడు వరి పంటలను పండిస్తారని పాఠ్య భాగం స్పష్టంగా పేర్కొంది.",
+    "en": "Farmers in West Bengal grow three rice crops: aus, aman, and boro."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T25-0122",
+   "section": {
+    "te": "Global Farming Names",
+    "en": "Global Farming Names"
+   },
+   "q": {
+    "te": "ఏ ప్రాంతంలో 'నరికి కాల్చివేసే' వ్యవసాయాన్ని 'మసోలే' (Masole) అని పిలుస్తారు?",
+    "en": "In which region is 'slash and burn' agriculture known as 'Masole'?"
+   },
+   "options": {
+    "te": [
+     "వియత్నాం",
+     "మెక్సికో",
+     "బ్రెజిల్",
+     "మధ్య ఆఫ్రికా"
+    ],
+    "en": [
+     "Vietnam",
+     "Mexico",
+     "Brazil",
+     "Central Africa"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, మధ్య ఆఫ్రికాలో 'నరికి కాల్చివేసే' వ్యవసాయాన్ని 'మసోలే' అని పిలుస్తారు.",
+    "en": "'slash and burn' agriculture is called 'Masole' in Central Africa."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T25-0033",
+   "section": {
+    "te": "Year-round rice cultivation",
+    "en": "Year-round rice cultivation"
+   },
+   "q": {
+    "te": "కింది రాష్ట్రాలను పరిశీలించండి:\n1. తమిళనాడు\n2. పశ్చిమ బెంగాల్\n3. ఆంధ్రప్రదేశ్\nరుతుపవనాలు మరియు నీటిపారుదల ద్వారా నీటి లభ్యత ఉన్నందున పై వాటిలో ఏ రాష్ట్రాలు ఏడాది పొడవునా వరిని పండిస్తాయి?",
+    "en": "Consider the following states:\n1. Tamil Nadu\n2. West Bengal\n3. Andhra Pradesh\nWhich of the above states grow rice throughout the year due to water availability from monsoons as well as irrigation?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "తమిళనాడు, పశ్చిమ బెంగాల్ మరియు ఆంధ్రప్రదేశ్ రాష్ట్రాలు రుతుపవనాలు మరియు సాగునీటి సౌకర్యం కారణంగా ఏడాది పొడవునా వరిని పండిస్తాయి.",
+    "en": "Tamil Nadu, West Bengal, and Andhra Pradesh all grow rice throughout the year due to abundant monsoon rains and irrigation."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T25-0030",
+   "section": {
+    "te": "Southwest monsoon months",
+    "en": "Southwest monsoon months"
+   },
+   "q": {
+    "te": "భారతదేశంలో నైరుతి రుతుపవనాలు ఏ నెలల్లో వర్షాన్ని తెస్తాయి?",
+    "en": "In India, during which months does the southwest monsoon bring rainfall?"
+   },
+   "options": {
+    "te": [
+     "మార్చి నుండి మే",
+     "అక్టోబర్ నుండి డిసెంబర్",
+     "జనవరి నుండి మార్చి",
+     "జూన్ నుండి సెప్టెంబర్"
+    ],
+    "en": [
+     "March to May",
+     "October to December",
+     "January to March",
+     "June to September"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నైరుతి రుతుపవనాలు జూన్ నుండి సెప్టెంబర్ వరకు వర్షపాతాన్ని అందిస్తాయి, ఇది ఖరీఫ్ పంటలకు చాలా కీలకం.",
+    "en": "The southwest monsoon brings rainfall from June to September and is crucial for kharif crops."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T25-0165",
+   "section": {
+    "te": "Castor seed cropping season",
+    "en": "Castor seed cropping season"
+   },
+   "q": {
+    "te": "భారతదేశంలో రబీ మరియు ఖరీఫ్ రెండు సీజన్లలోనూ పండించే నూనెగింజ ఏది?",
+    "en": "Which of the following oilseeds is grown as both a rabi and a kharif crop in India?"
+   },
+   "options": {
+    "te": [
+     "ఆవాలు",
+     "ఆముదాలు (Castor seed)",
+     "వేరుశనగ",
+     "అవిసెలు (Linseed)"
+    ],
+    "en": [
+     "Mustard",
+     "Castor seed",
+     "Groundnut",
+     "Linseed"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "చాలా నూనెగింజలు ఒక నిర్దిష్ట సీజన్‌కు పరిమితమై ఉండగా, ఆముదాలు రబీ మరియు ఖరీఫ్ రెండు సీజన్లలోనూ పండుతాయి.",
+    "en": "While most oilseeds are specific to a season, castor seed is unique as it is grown in both rabi and kharif seasons."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T25-0071",
+   "section": {
+    "te": "Ancient seed prep (Cotton)",
+    "en": "Ancient seed prep (Cotton)"
+   },
+   "q": {
+    "te": "అర్థశాస్త్రం ప్రకారం, పత్తి విత్తనాలను నాటడానికి ముందు దేనితో పూయాలి?",
+    "en": "According to the Arthaśhāstra, cotton seeds should be smeared with which of the following before planting?"
+   },
+   "options": {
+    "te": [
+     "ఆవు పేడ",
+     "తేనె",
+     "పంది కొవ్వు",
+     "నెయ్యి"
+    ],
+    "en": [
+     "Cow dung",
+     "Honey",
+     "Lard",
+     "Ghee"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పత్తి విత్తనాలను సిద్ధం చేయడానికి వాటికి ఆవు పేడను పూయాలని అర్థశాస్త్రం ప్రత్యేకంగా పేర్కొంది.",
+    "en": "The Arthaśhāstra specifically mentions that cotton seeds are to be smeared with cow dung for preparation."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T25-0366",
+   "section": {
+    "te": "Cropping Pattern Transformation",
+    "en": "Cropping Pattern Transformation"
+   },
+   "q": {
+    "te": "ప్రాంతంలో తీవ్రమైన కాలువ నీటిపారుదల ప్రవేశపెట్టడంతో, సాంప్రదాయ పంటలైన శనగలు, బజ్రా మరియు జొన్నల స్థానంలో ప్రధానంగా క్రింది ఏ పంటల సముదాయం సాగవుతోంది?",
+    "en": "With the introduction of intensive canal irrigation in the region, the traditional crops of gram, bajra, and jowar have been predominantly replaced by which of the following sets of crops?"
+   },
+   "options": {
+    "te": [
+     "మొక్కజొన్న, సోయాబీన్, రాగులు మరియు బార్లీ",
+     "తేయాకు, కాఫీ, రబ్బరు మరియు సుగంధ ద్రవ్యాలు",
+     "ఆవాలు, పొగాకు, పొద్దుతిరుగుడు మరియు జనపనార",
+     "గోధుమ, పత్తి, వేరుశనగ మరియు వరి"
+    ],
+    "en": [
+     "Maize, soyabean, ragi and barley",
+     "Tea, coffee, rubber and spices",
+     "Mustard, tobacco, sunflower and jute",
+     "Wheat, cotton, groundnut and rice"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "కాలువ నీటిపారుదల విస్తరణ వల్ల సంప్రదాయ పంటలైన శనగలు, బజ్రా, జొన్నల స్థానంలో గోధుమ, పత్తి, వేరుశనగ మరియు వరి పంటలు వచ్చి చేరాయి.",
+    "en": "Intensive canal irrigation replaced the traditional crops (gram, bajra, and jowar) with wheat, cotton, groundnut, and rice."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T25-0012",
+   "section": {
+    "te": "Ancient Agriculture at Mehrgarh",
+    "en": "Ancient Agriculture at Mehrgarh"
+   },
+   "q": {
+    "te": "మెహర్‌గఢ్‌లో ఏ పంటల సాగు క్రీస్తుపూర్వం 7వ సహస్రాబ్ది నాటిదని గుర్తించారు?",
+    "en": "In Mehrgarh, the cultivation of which crops is dated back to the 7th millennium BCE?"
+   },
+   "options": {
+    "te": [
+     "బార్లీ మరియు చిరుధాన్యాలు",
+     "నువ్వులు మరియు ఆవాలు",
+     "గోధుమ మరియు వరి",
+     "పత్తి మరియు జనపనార"
+    ],
+    "en": [
+     "Barley and Millets",
+     "Sesame and Mustard",
+     "Wheat and Rice",
+     "Cotton and Jute"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "బలూచిస్థాన్‌లోని మెహర్‌గఢ్‌లో బార్లీ మరియు చిరుధాన్యాల సాగు క్రీస్తుపూర్వం 7వ సహస్రాబ్ది నాటిదని ఆధారాలు ఉన్నాయి.",
+    "en": "The cultivation of barley and millets at Mehrgarh in Baluchistan dates back to the 7th millennium BCE."
+   }
+  }
+ ]
+}

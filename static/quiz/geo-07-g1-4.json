@@ -1,0 +1,942 @@
+{
+ "id": "geo-07-g1-4",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Climate Elements – క్విజ్ 4",
+  "en": "Climate Elements – Quiz 4"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T07-0101",
+   "section": {
+    "te": "Spatial Distribution of Insolation",
+    "en": "Spatial Distribution of Insolation"
+   },
+   "q": {
+    "te": "ఈ క్రింది ప్రాంతాలను అవి పొందే సూర్యపుటం పరిమాణంతో జతపరచండి:\n1. ఉష్ణమండలాలు - a. 70 వాట్/మీ2\n2. ధృవాలు - b. 320 వాట్/మీ2",
+    "en": "Match the following regions with the amount of insolation received at the surface:\n1. Tropics  -  a. 70 Watt/m2\n2. Poles    -  b. 320 Watt/m2"
+   },
+   "options": {
+    "te": [
+     "1-a, 2-b",
+     "1-b, 2-a",
+     "1-b, 2-b",
+     "1-a, 2-a"
+    ],
+    "en": [
+     "1-a, 2-b",
+     "1-b, 2-a",
+     "1-b, 2-b",
+     "1-a, 2-a"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్య భాగం ప్రకారం, సూర్యపుటం ఉష్ణమండలంలో 320 వాట్/మీ2 నుండి ధృవాల వద్ద 70 వాట్/మీ2 వరకు మారుతూ ఉంటుంది.",
+    "en": "Insolation varies from 320 Watt/m2 in the tropics to 70 Watt/m2 at the poles."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T07-0114",
+   "section": {
+    "te": "Terrestrial Radiation Components",
+    "en": "Terrestrial Radiation Components"
+   },
+   "q": {
+    "te": "51 యూనిట్ల భూ వికిరణానికి సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. 17 యూనిట్లు నేరుగా అంతరిక్షంలోకి వికిరణం చెందుతాయి.\n2. 34 యూనిట్లు వాతావరణం ద్వారా గ్రహించబడతాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the 51 units of terrestrial radiation:\n1. 17 units are radiated to space directly.\n2. 34 units are absorbed by the atmosphere.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూమి 51 యూనిట్లను తిరిగి వికిరణం చేస్తుంది, అందులో 17 నేరుగా అంతరిక్షంలోకి వెళ్తాయి మరియు 34 వివిధ ప్రక్రియల ద్వారా వాతావరణం గ్రహిస్తుంది.",
+    "en": "The Earth radiates 51 units back, where 17 go directly to space and 34 are absorbed by the atmosphere through various processes."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T07-0020",
+   "section": {
+    "te": "IMD Establishment",
+    "en": "IMD Establishment"
+   },
+   "q": {
+    "te": "భారత వాతావరణ శాఖ (IMD) ఏ సంవత్సరంలో స్థాపించబడింది?",
+    "en": "In which year was the India Meteorological Department (IMD) established?"
+   },
+   "options": {
+    "te": [
+     "1857",
+     "1901",
+     "1875",
+     "1947"
+    ],
+    "en": [
+     "1857",
+     "1901",
+     "1875",
+     "1947"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మూలం ప్రకారం, భారత వాతావరణ శాఖ 1875 సంవత్సరంలో స్థాపించబడింది.",
+    "en": "The India Meteorological Department was set up in the year 1875."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T07-0196",
+   "section": {
+    "te": "Nimbus Clouds",
+    "en": "Nimbus Clouds"
+   },
+   "q": {
+    "te": "కింది వాటిలో నింబస్ (Nimbus) మేఘాల లక్షణం ఏది?",
+    "en": "Which of the following is a characteristic of Nimbus clouds?"
+   },
+   "options": {
+    "te": [
+     "అవి ఎల్లప్పుడూ తెలుపు రంగులో ఉంటాయి",
+     "అవి ఈక వంటి రూపాన్ని కలిగి ఉంటాయి",
+     "అవి నలుపు లేదా ముదురు బూడిద రంగులో ఉంటాయి",
+     "అవి 8,000 మీటర్ల కంటే ఎక్కువ ఎత్తులో మాత్రమే ఏర్పడతాయి"
+    ],
+    "en": [
+     "They are always white in colour",
+     "They have a feathery appearance",
+     "They are black or dark gray",
+     "They only form at altitudes above 8,000m"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నింబస్ మేఘాలు వాటి నలుపు లేదా ముదురు బూడిద రంగు ద్వారా వర్గీకరించబడతాయి మరియు అవి మధ్య స్థాయిలలో లేదా ఉపరితలానికి దగ్గరగా ఏర్పడతాయి.",
+    "en": "Nimbus clouds are characterized by their black or dark gray color and they form at middle levels or near the surface."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T07-0178",
+   "section": {
+    "te": "Air Mass Classification",
+    "en": "Air Mass Classification"
+   },
+   "q": {
+    "te": "క్రింది వాయురాశి రకాలను వాటి మూల ప్రాంతాలతో జతపరచండి:\nI. మారిటైమ్ ట్రాపికల్ (mT) - a. ఉపఉష్ణమండల వేడి ఎడారులు\nII. కాంటినెంటల్ ట్రాపికల్ (cT) - b. వెచ్చని ఉష్ణమండల మహాసముద్రాలు\nIII. మారిటైమ్ పోలార్ (mP) - c. చల్లని మంచుతో కప్పబడిన ఖండాలు\nIV. కాంటినెంటల్ పోలార్ (cP) - d. చల్లని అధిక అక్షాంశ మహాసముద్రాలు",
+    "en": "Match the following air mass types with their source regions:\nI. Maritime tropical (mT) - a. Subtropical hot deserts\nII. Continental tropical (cT) - b. Warm tropical oceans\nIII. Maritime polar (mP) - c. Cold snow covered continents\nIV. Continental polar (cP) - d. Cold high latitude oceans"
+   },
+   "options": {
+    "te": [
+     "I-b, II-a, III-d, IV-c",
+     "I-a, II-b, III-c, IV-d",
+     "I-b, II-a, III-c, IV-d",
+     "I-d, II-c, III-b, IV-a"
+    ],
+    "en": [
+     "I-b, II-a, III-d, IV-c",
+     "I-a, II-b, III-c, IV-d",
+     "I-b, II-a, III-c, IV-d",
+     "I-d, II-c, III-b, IV-a"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మారిటైమ్ వాయురాశులు మహాసముద్రాల మీద (mT-వెచ్చని, mP-చల్లని), ఖండ వాయురాశులు భూమి మీద (cT-వేడి ఎడారులు, cP-మంచు ఖండాలు) ఏర్పడతాయి.",
+    "en": "Maritime air masses form over oceans (mT-warm, mP-cold), while continental air masses form over land (cT-hot deserts, cP-snowy continents)."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T07-0077",
+   "section": {
+    "te": "Atmospheric Layers",
+    "en": "Atmospheric Layers"
+   },
+   "q": {
+    "te": "భౌగోళిక శాస్త్రవేత్తలు (Geographers) ప్రధానంగా వాతావరణంలోని ఏ పొరలకు సంబంధించిన అంశాలపై దృష్టి పెడతారు?",
+    "en": "Geographers are primarily concerned with which layers of the atmosphere?"
+   },
+   "options": {
+    "te": [
+     "అన్ని పొరలు",
+     "మొదటి రెండు పొరలు",
+     "కేవలం ఎక్సోస్పియర్ (Exosphere)",
+     "కేవలం స్ట్రాటోస్పియర్ (Stratosphere)"
+    ],
+    "en": [
+     "All layers",
+     "First two layers",
+     "Only the exosphere",
+     "Only the stratosphere"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అన్ని పొరలు మనపై ప్రభావాన్ని చూపినప్పటికీ, భౌగోళిక శాస్త్రవేత్తలు వాతావరణంలోని మొదటి రెండు పొరలకు సంబంధించిన అంశాలపై దృష్టి పెడతారని పాఠ్యాంశం పేర్కొంది.",
+    "en": "While all layers influence us, geographers focus on the first two layers of the atmosphere."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T07-0075",
+   "section": {
+    "te": "Sea Breeze",
+    "en": "Sea Breeze"
+   },
+   "q": {
+    "te": "సముద్రం నుండి భూమి వైపు సముద్ర పవనం (Sea breeze) వీచడానికి దారితీసే నిర్దిష్ట పరిస్థితి ఏమిటి?",
+    "en": "What specific condition leads to the start of a sea breeze blowing from the sea to the land?"
+   },
+   "options": {
+    "te": [
+     "భూమిపై అధిక పీడనం",
+     "రాత్రి సమయం చల్లబడటం",
+     "సముద్రంపై అధిక పీడనం",
+     "భూమిపై అల్ప పీడన ప్రాంతం ఏర్పడటం"
+    ],
+    "en": [
+     "High pressure over land",
+     "Night time cooling",
+     "High pressure over sea",
+     "Low-pressure region over land"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పగటిపూట భూమి సముద్రం కంటే వేడిగా మారడం వల్ల భూమిపై అల్ప పీడన ప్రాంతం ఏర్పడుతుంది, దీనివల్ల సముద్రం నుండి గాలి వీస్తుంది.",
+    "en": "During the day, land becomes warmer than the sea, creating a low-pressure region over land, which causes wind to blow from the sea."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T07-0133",
+   "section": {
+    "te": "Air Drainage Mechanism",
+    "en": "Air Drainage Mechanism"
+   },
+   "q": {
+    "te": "నిశ్చయం (A): కొండలు మరియు పర్వతాలలో రాత్రి సమయంలో, చల్లని గాలి వాలు నుండి కిందికి కదిలి లోయ అడుగుభాగంలో పేరుకుపోతుంది.\nకారణం (R): చల్లని గాలి బరువుగా మరియు సాంద్రత ఎక్కువగా ఉంటుంది, ఇది గురుత్వాకర్షణ ప్రభావంతో దాదాపు నీటిలా పనిచేస్తుంది.",
+    "en": "Assertion (A): During the night in hills and mountains, cold air moves down the slope to pile up in valley bottoms.\nReason (R): Cold air is heavy and dense, acting almost like water under the influence of gravity."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "చల్లని గాలి సాంద్రత ఎక్కువగా మరియు బరువుగా ఉంటుంది, దీనివల్ల అది గురుత్వాకర్షణ కారణంగా నీటిలా వాలుల నుండి కిందికి ప్రవహిస్తుంది. ఇది లోయలలో ఎందుకు పేరుకుపోతుందో వివరిస్తుంది.",
+    "en": "Cold air is denser and heavier, causing it to flow down slopes like water due to gravity, which explains why it piles up in valleys."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T07-0126",
+   "section": {
+    "te": "Polar Climate",
+    "en": "Polar Climate"
+   },
+   "q": {
+    "te": "ఈ క్రింది ఏ ప్రాంతాలలో ఉష్ణోగ్రత విలోమం (temperature inversion) ఏడాది పొడవునా సాధారణంగా జరుగుతుంది?",
+    "en": "In which of the following regions is temperature inversion a normal occurrence throughout the year?"
+   },
+   "options": {
+    "te": [
+     "తీర మైదానాలు",
+     "భూమధ్యరేఖ ప్రాంతాలు",
+     "ధ్రువ ప్రాంతాలు",
+     "ఉప ఉష్ణమండల ఎడారులు"
+    ],
+    "en": [
+     "Coastal plains",
+     "Equatorial regions",
+     "Polar areas",
+     "Subtropical deserts"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, ధ్రువ ప్రాంతాలలో ఉష్ణోగ్రత విలోమం ఏడాది పొడవునా సాధారణంగా ఉంటుంది.",
+    "en": "Temperature inversion is a normal condition throughout the year over polar areas."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T07-0034",
+   "section": {
+    "te": "Pressure and Altitude",
+    "en": "Pressure and Altitude"
+   },
+   "q": {
+    "te": "వాతావరణ పీడనం గురించి క్రింది ప్రకటనలలో ఏది సరైనది?",
+    "en": "Which of the following statements about atmospheric pressure is correct?"
+   },
+   "options": {
+    "te": [
+     "పర్వతాల కంటే సముద్ర తీరంలో ఇది తక్కువగా ఉంటుంది",
+     "సముద్ర తీరం కంటే పర్వతాలలో ఇది ఎక్కువగా ఉంటుంది",
+     "సముద్ర తీరంలో ఇది ఎక్కువగా ఉంటుంది మరియు పర్వతాలలో తక్కువగా ఉంటుంది",
+     "ఎత్తుతో సంబంధం లేకుండా ఇది స్థిరంగా ఉంటుంది"
+    ],
+    "en": [
+     "It is lower near the sea coast than in the mountains",
+     "It is higher in the mountains than at the sea coast",
+     "It is higher near the sea coast and lower in the mountains",
+     "It remains constant regardless of altitude"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వాతావరణ పీడనం సముద్ర మట్టం (తీరం) వద్ద ఎక్కువగా ఉంటుంది మరియు ఎత్తు పెరిగేకొద్దీ (పర్వతాలు) తగ్గుతుంది.",
+    "en": "Atmospheric pressure is highest at sea level (coast) and decreases as altitude increases (mountains)."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T07-0035",
+   "section": {
+    "te": "Humidity factors",
+    "en": "Humidity factors"
+   },
+   "q": {
+    "te": "నీటి ఆవిరి పరిమాణంతో పాటు, ఆర్ద్రత (Humidity) ఈ క్రింది ఏ అంశాలపై ఆధారపడి ఉంటుంది?",
+    "en": "Apart from the amount of water vapour, which of the following factors does humidity depend on?"
+   },
+   "options": {
+    "te": [
+     "ఉష్ణోగ్రత మరియు గాలి",
+     "పీడనం మరియు ప్రాంతం",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Temperature and Wind",
+     "Pressure and Location",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్య భాగం ప్రకారం, ఆర్ద్రత అనేది ఉష్ణోగ్రత, గాలి, పీడనం మరియు ప్రాంతంపై ఆధారపడి ఉంటుంది.",
+    "en": "Humidity depends on temperature, wind, pressure, and location."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T07-0095",
+   "section": {
+    "te": "Scattering of Light",
+    "en": "Scattering of Light"
+   },
+   "q": {
+    "te": "వాతావరణంలో కాంతి పరిక్షేపణం (scattering) కు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది ట్రోపో ఆవరణంలోని చిన్న చిన్న తేలియాడే కణాల వల్ల కలుగుతుంది.\n2. దీని ఫలితంగా ఆకాశం నీలి రంగులో కనిపిస్తుంది.\n3. ఇది సూర్యోదయం మరియు సూర్యాస్తమయం సమయంలో సూర్యుడు ఎరుపు రంగులో ఉండటానికి కారణమవుతుంది.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding the scattering of light in the atmosphere:\n1. It is caused by small suspended particles in the troposphere.\n2. It results in the blue colour of the sky.\n3. It causes the red colour of the rising and setting sun.\nWhich of the statements are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ట్రోపో ఆవరణంలోని తేలియాడే కణాలు దృశ్య వర్ణపటాన్ని వెదజల్లుతాయి (పరిక్షేపణం), దీనివల్ల ఆకాశానికి నీలి రంగు మరియు సూర్యోదయం, సూర్యాస్తమయ సమయాల్లో సూర్యుడికి ఎరుపు రంగు వస్తుంది.",
+    "en": "Suspended particles in the troposphere scatter the visible spectrum, giving the sky its blue color and the sun its red color during sunrise and sunset."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T07-0198",
+   "section": {
+    "te": "Stratus Clouds",
+    "en": "Stratus Clouds"
+   },
+   "q": {
+    "te": "స్ట్రాటస్ (Stratus) మేఘాలు సాధారణంగా ఎలా ఏర్పడతాయి?",
+    "en": "How are Stratus clouds generally formed?"
+   },
+   "options": {
+    "te": [
+     "పర్వత అడ్డంకులపై గాలి వేగంగా పైకి వెళ్లడం ద్వారా",
+     "ఉష్ణ నష్టం లేదా వివిధ ఉష్ణోగ్రతలు కలిగిన వాయురాశుల కలయిక వల్ల",
+     "తీవ్రమైన వేడి మరియు పైకి లేచే సంవహన ప్రవాహాల వల్ల",
+     "అధిక ఎత్తులో నీటి బిందువులు గడ్డకట్టడం ద్వారా"
+    ],
+    "en": [
+     "By the rapid ascent of air over mountain barriers",
+     "Due to loss of heat or mixing of air masses with different temperatures",
+     "Due to intense heating and rising convection currents",
+     "By the freezing of water droplets at high altitudes"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "స్ట్రాటస్ మేఘాలు ఉష్ణ నష్టం లేదా వివిధ ఉష్ణోగ్రతలు కలిగిన వాయురాశుల కలయిక ద్వారా ఏర్పడే పొరల మేఘాలు.",
+    "en": "Stratus clouds are layered clouds formed by heat loss or the mixing of air masses that have different temperatures."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T07-0058",
+   "section": {
+    "te": "Effect of Rain",
+    "en": "Effect of Rain"
+   },
+   "q": {
+    "te": "ఒక ప్రాంతం యొక్క ఉష్ణోగ్రతపై వర్షం యొక్క సాధారణ ప్రభావం ఏమిటి?",
+    "en": "What is the general effect of rain on the temperature of a place?"
+   },
+   "options": {
+    "te": [
+     "ఇది ఉష్ణోగ్రతను తగ్గిస్తుంది",
+     "ఇది ఉష్ణోగ్రత వేగంగా హెచ్చుతగ్గులకు గురయ్యేలా చేస్తుంది",
+     "ఇది ఉష్ణోగ్రతపై ఎటువంటి ప్రభావాన్ని చూపదు",
+     "ఇది ఉష్ణోగ్రతను పెంచుతుంది"
+    ],
+    "en": [
+     "It lowers the temperature",
+     "It makes the temperature fluctuate rapidly",
+     "It has no effect on temperature",
+     "It increases the temperature"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వర్షం, అవపాతం యొక్క అత్యంత సాధారణ రూపం, ఇది ఒక ప్రాంతం యొక్క ఉష్ణోగ్రతను తగ్గించే ప్రభావాన్ని కలిగి ఉంటుంది.",
+    "en": "Rain, being the most common form of precipitation, has the effect of lowering the temperature of a location."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T07-0108",
+   "section": {
+    "te": "Atmospheric Absorption",
+    "en": "Atmospheric Absorption"
+   },
+   "q": {
+    "te": "వాతావరణం గ్రహించిన 34 యూనిట్ల భూ వికిరణంలో, ఘనీభవన గుప్త ఉష్ణం (latent heat of condensation) ద్వారా ఎన్ని యూనిట్లు గ్రహించబడతాయి?",
+    "en": "Out of the 34 units of terrestrial radiation absorbed by the atmosphere, how many units are absorbed through latent heat of condensation?"
+   },
+   "options": {
+    "te": [
+     "6 యూనిట్లు",
+     "9 యూనిట్లు",
+     "19 యూనిట్లు",
+     "17 యూనిట్లు"
+    ],
+    "en": [
+     "6 units",
+     "9 units",
+     "19 units",
+     "17 units"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూ వికిరణం నుండి వాతావరణం గ్రహించిన 34 యూనిట్లలో, 19 యూనిట్లు ఘనీభవన గుప్త ఉష్ణం ద్వారా గ్రహించబడతాయని పాఠ్యాంశం పేర్కొంది.",
+    "en": "The text specifies that of the 34 units absorbed by the atmosphere from terrestrial radiation, 19 units are through the latent heat of condensation."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T07-0158",
+   "section": {
+    "te": "Isobars and Pressure Gradient",
+    "en": "Isobars and Pressure Gradient"
+   },
+   "q": {
+    "te": "ఐసోబార్లు మరియు పీడన ప్రవణత మధ్య సంబంధాన్ని ఈ క్రింది వాటిలో ఏది వివరిస్తుంది?",
+    "en": "Which of the following describes the relationship between isobars and the pressure gradient?"
+   },
+   "options": {
+    "te": [
+     "ఐసోబార్ల దూరం పీడన ప్రవణతపై ఎటువంటి ప్రభావాన్ని చూపదు",
+     "ఐసోబార్లు దగ్గరగా ఉన్నప్పుడు పీడన ప్రవణత బలహీనంగా ఉంటుంది",
+     "ఐసోబార్లు దగ్గరగా ఉన్నప్పుడు పీడన ప్రవణత బలంగా ఉంటుంది",
+     "ఐసోబార్లతో సంబంధం లేకుండా పీడన ప్రవణత స్థిరంగా ఉంటుంది"
+    ],
+    "en": [
+     "Isobar spacing has no effect on pressure gradient",
+     "Pressure gradient is weak when isobars are close",
+     "Pressure gradient is strong when isobars are close",
+     "Pressure gradient is constant regardless of isobars"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మ్యాప్‌లో ఐసోబార్లు ఒకదానికొకటి ఎంత దగ్గరగా ఉంటే, ఆ ప్రాంతంలో పీడన ప్రవణత బలం అంత బలంగా ఉంటుంది.",
+    "en": "The closer the isobars are to each other on a map, the stronger the pressure gradient force in that area."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T07-0160",
+   "section": {
+    "te": "Coriolis Force Location",
+    "en": "Coriolis Force Location"
+   },
+   "q": {
+    "te": "ఈ క్రింది ఏ ప్రదేశాలలో కొరియాలిస్ బలం గరిష్టంగా ఉంటుంది?",
+    "en": "At which of the following locations is the Coriolis force at its maximum?"
+   },
+   "options": {
+    "te": [
+     "ఉప ఉష్ణమండలాలు (Sub-tropics)",
+     "ధృవాలు",
+     "భూమధ్యరేఖ",
+     "అయన రేఖలు (Tropics)"
+    ],
+    "en": [
+     "The Sub-tropics",
+     "The Poles",
+     "The Equator",
+     "The Tropics"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కొరియాలిస్ బలం భూమధ్యరేఖ వద్ద ఉండదు మరియు ధృవాల వద్ద గరిష్ట స్థాయికి చేరుకుంటుంది.",
+    "en": "The Coriolis force is absent at the equator and reaches its maximum strength at the poles."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T07-0043",
+   "section": {
+    "te": "Relative Humidity",
+    "en": "Relative Humidity"
+   },
+   "q": {
+    "te": "0% సాపేక్ష ఆర్ద్రతకు సంబంధించి ఈ క్రింది వాటిలో ఏది నిజం?",
+    "en": "Which of the following is true regarding 0% relative humidity?"
+   },
+   "options": {
+    "te": [
+     "ఇది ఎడారి ప్రాంతాలలో సాధారణం",
+     "సహజ పరిస్థితులలో ఇది అసాధ్యం",
+     "ఇది శీతాకాలంలో మాత్రమే సంభవిస్తుంది",
+     "గాలి నీటి ఆవిరితో సంతృప్తమైందని ఇది సూచిస్తుంది"
+    ],
+    "en": [
+     "It is common in desert regions",
+     "It is impossible in natural conditions",
+     "It occurs only during the winter season",
+     "It indicates the air is saturated with water vapour"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సహజ పరిస్థితులలో అస్సలు నీటి ఆవిరి లేని గాలి (0% ఆర్ద్రత) అసాధ్యమని పాఠ్య భాగం పేర్కొంది.",
+    "en": "Air containing absolutely no water vapour (0% humidity) is impossible in natural conditions."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T07-0087",
+   "section": {
+    "te": "Insolation Definition",
+    "en": "Insolation Definition"
+   },
+   "q": {
+    "te": "భూమి గ్రహించే సౌర వికిరణాన్ని ఏమని పిలుస్తారు?",
+    "en": "What is the term used for the incoming solar radiation received by the Earth?"
+   },
+   "options": {
+    "te": [
+     "సంవహనం",
+     "ఆల్బిడో",
+     "సూర్యపుటం (Insolation)",
+     "భూ వికిరణం"
+    ],
+    "en": [
+     "Convection",
+     "Albedo",
+     "Insolation",
+     "Terrestrial radiation"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సూర్యుని నుండి భూమి పొందే శక్తిని ఇన్‌కమింగ్ సోలార్ రేడియేషన్ లేదా క్లుప్తంగా 'సూర్యపుటం' (insolation) అని పిలుస్తారు.",
+    "en": "The energy received by the earth from the sun is called incoming solar radiation, or 'insolation' for short."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T07-0006",
+   "section": {
+    "te": "Natural Weather Indicators",
+    "en": "Natural Weather Indicators"
+   },
+   "q": {
+    "te": "ప్రకృతి పరిశీలనల ప్రకారం, చీమలు తమ గుడ్లను ఎత్తైన ప్రాంతాలకు తరలించడం దేనిని సూచిస్తుంది?",
+    "en": "According to natural observations, what does the shifting of eggs by ants to higher ground indicate?"
+   },
+   "options": {
+    "te": [
+     "తగ్గుతున్న తేమ",
+     "రాబోయే భారీ వర్షం",
+     "రాబోయే వడగాల్పులు",
+     "శీతాకాలం రాక"
+    ],
+    "en": [
+     "Decreasing humidity",
+     "Expected heavy rain",
+     "A coming heatwave",
+     "Arrival of winter"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "చీమలు గుడ్లను ఎత్తైన ప్రదేశానికి తీసుకెళ్లడం అనేది భారీ వర్షం రాబోతుందనడానికి సహజ సంకేతం.",
+    "en": "The movement of ants carrying eggs to higher ground is a natural signal for expected heavy rain."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T07-0136",
+   "section": {
+    "te": "Vertical Pressure Variation",
+    "en": "Vertical Pressure Variation"
+   },
+   "q": {
+    "te": "దిగువ వాతావరణంలో, ఎత్తు పెరిగేకొద్దీ వాతావరణ పీడనం సుమారుగా ఏ రేటుతో తగ్గుతుంది?",
+    "en": "In the lower atmosphere, at what approximate rate does the atmospheric pressure decrease with an increase in elevation?"
+   },
+   "options": {
+    "te": [
+     "ప్రతి 1 మీటరుకు 1 mb",
+     "ప్రతి 1 మీటరుకు 10 mb",
+     "ప్రతి 100 మీటర్లకు 10 mb",
+     "ప్రతి 10 మీటర్లకు 1 mb"
+    ],
+    "en": [
+     "1 mb for every 1 m",
+     "10 mb for every 1 m",
+     "10 mb for every 100 m",
+     "1 mb for every 10 m"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, దిగువ వాతావరణంలో, ప్రతి 10 మీటర్ల ఎత్తు పెరిగేకొద్దీ పీడనం సుమారు 1 మిల్లీబార్ (mb) తగ్గుతుంది.",
+    "en": "In the lower atmosphere, pressure decreases by approximately 1 millibar (mb) for every 10 meters of increase in height."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T07-0176",
+   "section": {
+    "te": "Polar Cell Winds",
+    "en": "Polar Cell Winds"
+   },
+   "q": {
+    "te": "ధ్రువాల నుండి మధ్య అక్షాంశాల వైపు వీచే పవనాలను ఏమని పిలుస్తారు?",
+    "en": "What are the winds that blow from the poles towards the middle latitudes called?"
+   },
+   "options": {
+    "te": [
+     "జెట్ స్ట్రీమ్స్",
+     "వ్యాపార పవనాలు (Trade winds)",
+     "ధ్రువ తూర్పు పవనాలు (Polar easterlies)",
+     "పశ్చిమ పవనాలు (Westerlies)"
+    ],
+    "en": [
+     "Jet streams",
+     "Trade winds",
+     "Polar easterlies",
+     "Westerlies"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ధ్రువ సెల్‌లో, చల్లని దట్టమైన గాలి ధ్రువాల వద్ద క్రిందికి దిగి, మధ్య అక్షాంశాల వైపు ధ్రువ తూర్పు పవనాలుగా వీస్తుంది.",
+    "en": "In the polar cell, cold dense air subsides at the poles and flows toward middle latitudes as polar easterlies."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T07-0004",
+   "section": {
+    "te": "Atmospheric Pressure",
+    "en": "Atmospheric Pressure"
+   },
+   "q": {
+    "te": "భూమి ఉపరితలంపై 'వాతావరణ పీడనం' (Atmospheric Pressure) దేనిని సూచిస్తుంది?",
+    "en": "What does 'Atmospheric Pressure' represent on the Earth's surface?"
+   },
+   "options": {
+    "te": [
+     "గాలి వేగం",
+     "నీటి ఆవిరి పరిమాణం",
+     "మన పైన ఉన్న గాలి బరువు",
+     "పరిసరాల ఉష్ణోగ్రత"
+    ],
+    "en": [
+     "The speed of the wind",
+     "The amount of water vapour",
+     "The weight of the air above us",
+     "The temperature of the surroundings"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వాతావరణ పీడనం అంటే మన పైన ఉన్న గాలి బరువు, ఇది భూమి ఉపరితలంపై అనుభూతి చెందుతుంది.",
+    "en": "Atmospheric pressure is the weight of the air above us that is felt on the Earth's surface."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T07-0014",
+   "section": {
+    "te": "Temperature Effects",
+    "en": "Temperature Effects"
+   },
+   "q": {
+    "te": "శీతాకాలంలో కొబ్బరి నూనె ఏమవుతుంది?",
+    "en": "What happens to coconut oil during the winter season?"
+   },
+   "options": {
+    "te": [
+     "ఎరుపు రంగులోకి మారుతుంది",
+     "ఆవిరైపోతుంది",
+     "మరింత ద్రవంగా మారుతుంది",
+     "ఘనరూపంలోకి మారుతుంది"
+    ],
+    "en": [
+     "It changes to a red colour",
+     "It evaporates",
+     "It becomes more liquid",
+     "It turns solid"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "శీతాకాలంలో చల్లని ఉష్ణోగ్రతల వల్ల కొబ్బరి నూనె ద్రవ రూపం నుండి ఘన రూపంలోకి మారుతుంది.",
+    "en": "Due to the cold temperatures in winter, coconut oil changes from a liquid to a solid state."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T07-0187",
+   "section": {
+    "te": "Cirrus Clouds Altitude",
+    "en": "Cirrus Clouds Altitude"
+   },
+   "q": {
+    "te": "సిరస్ (Cirrus) మేఘాలు సాధారణంగా ఏ ఎత్తులో ఏర్పడతాయి?",
+    "en": "At what altitude range are Cirrus clouds typically formed?"
+   },
+   "options": {
+    "te": [
+     "2,000 - 5,000 మీటర్లు",
+     "8,000 - 12,000 మీటర్లు",
+     "4,000 - 7,000 మీటర్లు",
+     "12,000 - 15,000 మీటర్లు"
+    ],
+    "en": [
+     "2,000 - 5,000 m",
+     "8,000 - 12,000 m",
+     "4,000 - 7,000 m",
+     "12,000 - 15,000 m"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వనరుల ప్రకారం, సిరస్ మేఘాలు 8,000 నుండి 12,000 మీటర్ల మధ్య ఎత్తులో ఏర్పడే ఉన్నత స్థాయి మేఘాలు.",
+    "en": "Cirrus clouds are high-altitude clouds formed between 8,000 and 12,000 meters."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T07-0122",
+   "section": {
+    "te": "July Temperature",
+    "en": "July Temperature"
+   },
+   "q": {
+    "te": "జూలై నెలలో, 40° N మరియు 40° S అక్షాంశాల వెంబడి నమోదయ్యే ఉష్ణోగ్రత ఎంత?",
+    "en": "In the month of July, what is the temperature recorded along the 40° N and 40° S latitudes?"
+   },
+   "options": {
+    "te": [
+     "0° C",
+     "10° C",
+     "27° C",
+     "20° C"
+    ],
+    "en": [
+     "0° C",
+     "10° C",
+     "27° C",
+     "20° C"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "జూలైలో, 40° N మరియు 40° S అక్షాంశాల వెంబడి 10° C సమోష్ణ రేఖ వెళ్తుందని పాఠ్యాంశం పేర్కొంది.",
+    "en": "In July, the isotherm of 10° C runs along both the 40° N and 40° S latitudes."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T07-0156",
+   "section": {
+    "te": "Air Movement in Low Pressure",
+    "en": "Air Movement in Low Pressure"
+   },
+   "q": {
+    "te": "అల్పపీడన ప్రాంతంపై గాలికి సాధారణంగా ఏమి జరుగుతుంది?",
+    "en": "What typically happens to the air over a low-pressure area?"
+   },
+   "options": {
+    "te": [
+     "అది క్రిందికి దిగి విడిపోతుంది (diverge)",
+     "అది కేంద్రీకృతమై (converge) పైకి లేస్తుంది",
+     "అది నిశ్చలంగా ఉంటుంది",
+     "అది క్షితిజ సమాంతరంగా మాత్రమే కదులుతుంది"
+    ],
+    "en": [
+     "It subsides and diverges",
+     "It converges and rises",
+     "It remains stationary",
+     "It moves only horizontally"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అల్పపీడన వ్యవస్థలో, గాలి కేంద్రం వైపు కేంద్రీకృతమై పైకి లేస్తుంది.",
+    "en": "In a low-pressure system, air converges toward the center and is forced to rise upward."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T07-0056",
+   "section": {
+    "te": "Precipitation Cause",
+    "en": "Precipitation Cause"
+   },
+   "q": {
+    "te": "అవపాతం (Precipitation) భూమిపై పడటానికి ప్రాథమికంగా ఈ క్రింది ఏ అంశం కారణం?",
+    "en": "Precipitation falls on the Earth primarily due to which of the following factors?"
+   },
+   "options": {
+    "te": [
+     "వాతావరణ పీడనం",
+     "గాలి వేగం",
+     "భూమి భ్రమణం",
+     "గురుత్వాకర్షణ"
+    ],
+    "en": [
+     "Atmospheric pressure",
+     "Wind speed",
+     "Earth's rotation",
+     "Gravity"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వాతావరణం నీటి ఆవిరితో నిండిన తర్వాత, గురుత్వాకర్షణ కారణంగా అవపాతం భూమిపై పడుతుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Precipitation falls on the Earth due to gravity once the atmosphere becomes saturated with water vapour."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T07-0201",
+   "section": {
+    "te": "Snowfall Characteristics",
+    "en": "Snowfall Characteristics"
+   },
+   "q": {
+    "te": "ఉష్ణోగ్రత 0°C కంటే తక్కువగా ఉన్నప్పుడు మంచు కురిసే సమయంలో తేమ ఏ రేఖాగణిత రూపంలో విడుదలవుతుంది?",
+    "en": "In what geometric form is moisture released during snowfall when the temperature is below 0°C?"
+   },
+   "options": {
+    "te": [
+     "ఆకారం లేని ఆవిరి",
+     "గోళాకార బిందువులు",
+     "ఏకకేంద్ర పొరలు",
+     "షట్కోణ స్ఫటికాలు (Hexagonal crystals)"
+    ],
+    "en": [
+     "Shapeless vapour",
+     "Spherical droplets",
+     "Concentric layers",
+     "Hexagonal crystals"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఉష్ణోగ్రత 0°C కంటే తక్కువగా ఉన్నప్పుడు, తేమ షట్కోణ స్ఫటికాలుగా విడుదలవుతుంది, ఇవి మంచు పొరలను (flakes) ఏర్పరుస్తాయి.",
+    "en": "When the temperature is below 0°C, moisture is released as hexagonal crystals which form flakes of snow."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T07-0199",
+   "section": {
+    "te": "Forms of Precipitation",
+    "en": "Forms of Precipitation"
+   },
+   "q": {
+    "te": "కింది వాటిలో ఏ రకమైన అవపాతాలు తక్కువగా సంభవిస్తాయని మరియు సమయం మరియు ప్రదేశం రెండింటిలోనూ అడపాదడపా (sporadic) ఉంటాయని వివరించబడ్డాయి?",
+    "en": "Which of the following forms of precipitation are described as being limited in occurrence and sporadic in both time and space?"
+   },
+   "options": {
+    "te": [
+     "వర్షం మరియు మంచు (Rain and Snow)",
+     "స్లీట్ మరియు వడగళ్ళు (Sleet and Hail)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Rain and Snow",
+     "Sleet and Hail",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వర్షం మరియు మంచు సాధారణమైనవి అయితే, స్లీట్ మరియు వడగళ్ళు పరిమితంగా మరియు అడపాదడపా సంభవిస్తాయని పాఠ్యం పేర్కొంది.",
+    "en": "While rain and snow are common, sleet and hail are limited and sporadic in occurrence."
+   }
+  }
+ ]
+}

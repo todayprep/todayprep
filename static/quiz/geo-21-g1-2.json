@@ -1,0 +1,942 @@
+{
+ "id": "geo-21-g1-2",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Mineral and Energy Resources – క్విజ్ 2",
+  "en": "Mineral and Energy Resources – Quiz 2"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T21-0184",
+   "section": {
+    "te": "Geothermal Energy Sources",
+    "en": "Geothermal Energy Sources"
+   },
+   "q": {
+    "te": "భూతాప శక్తి (Geothermal energy) కి సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. మాగ్మా భూమి ఉపరితలంపైకి వచ్చినప్పుడు విడుదలయ్యే వేడి నుండి దీనిని ఉత్పత్తి చేయవచ్చు.\n2. గీజర్ బావుల ద్వారా వెలువడే వేడి నీటిని ఉష్ణ శక్తిని ఉత్పత్తి చేయడానికి ఉపయోగించవచ్చు.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding Geothermal energy:\n1. It can be generated from the heat released when magma comes to the earth's surface.\n2. Hot water gushing out through geyser wells can be used to produce thermal energy.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 లేదా 2 ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మాగ్మా ద్వారా విడుదలయ్యే వేడి నుండి మరియు గీజర్ బావుల నుండి వచ్చే వేడి నీటి నుండి కూడా భూతాప శక్తిని పొందవచ్చని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Geothermal energy can be tapped from heat released by magma and also from hot water from geyser wells."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T21-0054",
+   "section": {
+    "te": "Mineral Etymology",
+    "en": "Mineral Etymology"
+   },
+   "q": {
+    "te": "'బైలాడిలా' కొండల పేరు దేనిని పోలి ఉండటం వల్ల వచ్చింది?",
+    "en": "The name of the 'Bailadila' hills is derived from its resemblance to which of the following?"
+   },
+   "options": {
+    "te": [
+     "పర్వత శిఖరం",
+     "ఎద్దు కుంభాకారం (hump)",
+     "ఏనుగు దంతం",
+     "గుర్రం ముఖం"
+    ],
+    "en": [
+     "The peak of a mountain",
+     "The hump of an ox",
+     "The tusk of an elephant",
+     "The face of a horse"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "బైలాడిలా కొండలు ఎద్దు కుంభాకారాన్ని (hump) పోలి ఉండటం వల్ల ఆ పేరు వచ్చింది.",
+    "en": "The Bailadila hills are named so because they resemble the hump of an ox."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T21-0161",
+   "section": {
+    "te": "Jharkhand mica belt",
+    "en": "Jharkhand mica belt"
+   },
+   "q": {
+    "te": "జార్ఖండ్‌లోని దిగువ హజారీబాగ్ పీఠభూమిలో ఉన్న అధిక నాణ్యత గల అభ్రకపు బెల్ట్ యొక్క కొలతలు ఏమిటి?",
+    "en": "What are the dimensions of the high-quality mica belt in the lower Hazaribagh plateau of Jharkhand?"
+   },
+   "options": {
+    "te": [
+     "200 కి.మీ పొడవు మరియు 30 కి.మీ వెడల్పు",
+     "100 కి.మీ పొడవు మరియు 10 కి.మీ వెడల్పు",
+     "320 కి.మీ పొడవు మరియు 50 కి.మీ వెడల్పు",
+     "150 కి.మీ పొడవు మరియు 22 కి.మీ వెడల్పు"
+    ],
+    "en": [
+     "200 km length and 30 km width",
+     "100 km length and 10 km width",
+     "320 km length and 50 km width",
+     "150 km length and 22 km width"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "దిగువ హజారీబాగ్ పీఠభూమిలోని అభ్రకపు బెల్ట్ సుమారు 150 కి.మీ పొడవు మరియు 22 కి.మీ వెడల్పు కలిగి ఉంటుంది.",
+    "en": "The mica belt in the lower Hazaribagh plateau extends approximately 150 km in length and 22 km in width."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T21-0151",
+   "section": {
+    "te": "Mica properties",
+    "en": "Mica properties"
+   },
+   "q": {
+    "te": "అభ్రకం (Mica) గురించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. దీనిని చాలా సన్నని పలకలుగా విభజించవచ్చు, ఇవి దృఢంగా మరియు సరళంగా (flexible) ఉంటాయి.\n2. ఆంధ్రప్రదేశ్‌లోని నెల్లూరు జిల్లా ఉత్తమ నాణ్యమైన అభ్రకాన్ని ఉత్పత్తి చేయడంలో ప్రసిద్ధి చెందింది.\n3. దీనిని ప్రధానంగా ఇనుప ఖనిజం కరిగించడానికి (smelting) ఉపయోగిస్తారు.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about Mica:\n1. It can be split into very thin sheets which are tough and flexible.\n2. Nellore district in Andhra Pradesh is known for producing the best quality mica.\n3. It is primarily used in the smelting of iron ore.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 only",
+     "1 and 2 only",
+     "2 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రకటనలు 1 మరియు 2 సరైనవి. అభ్రకాన్ని ప్రధానంగా ఎలక్ట్రికల్ మరియు ఎలక్ట్రానిక్ పరిశ్రమలలో ఉపయోగిస్తారు, కాబట్టి ప్రకటన 3 తప్పు. ఇనుప ఖనిజాన్ని కరిగించడానికి బొగ్గును ఉపయోగిస్తారు.",
+    "en": "Statements 1 and 2 are correct. Statement 3 is incorrect because mica is mainly used in electrical and electronic industries, while coal is used for smelting iron ore."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T21-0002",
+   "section": {
+    "te": "Solar Alliance founders",
+    "en": "Solar Alliance founders"
+   },
+   "q": {
+    "te": "2015లో ఇంటర్నేషనల్ అలయన్స్ ఫర్ సోలార్ ఎనర్జీ (IASE)ని ఏ రెండు దేశాలు ప్రారంభించాయి?",
+    "en": "Which two countries launched the International Alliance for Solar Energy (IASE) in 2015?"
+   },
+   "options": {
+    "te": [
+     "భారతదేశం మరియు జర్మనీ",
+     "భారతదేశం మరియు జపాన్",
+     "భారతదేశం మరియు ఫ్రాన్స్",
+     "భారతదేశం మరియు అమెరికా"
+    ],
+    "en": [
+     "India and Germany",
+     "India and Japan",
+     "India and France",
+     "India and the USA"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సౌరశక్తిని వినియోగించుకోవడానికి 2015లో భారతదేశం మరియు ఫ్రాన్స్ కలిసి ఇంటర్నేషనల్ అలయన్స్ ఫర్ సోలార్ ఎనర్జీని ప్రారంభించాయి.",
+    "en": "India and France jointly launched the International Alliance for Solar Energy (IASE) in 2015 as a coalition of sunshine-rich countries."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T21-0124",
+   "section": {
+    "te": "History of Minerals",
+    "en": "History of Minerals"
+   },
+   "q": {
+    "te": "మానవ అభివృద్ధి చరిత్ర ఖనిజాల పేరుతో పిలువబడే దశలలో ప్రతిబింబిస్తుంది. కింది వాటిలో పేర్కొన్న సరైన క్రమం ఏది?",
+    "en": "The history of human development is reflected in stages named after minerals. Which of the following is the correct sequence mentioned?"
+   },
+   "options": {
+    "te": [
+     "రాగి యుగం, ఇనుప యుగం, కాంస్య యుగం",
+     "రాగి యుగం (Copper age), కాంస్య యుగం (Bronze age), ఇనుప యుగం (Iron age)",
+     "ఇనుప యుగం, కాంస్య యుగం, రాగి యుగం",
+     "కాంస్య యుగం, రాగి యుగం, ఇనుప యుగం"
+    ],
+    "en": [
+     "Copper age, Iron age, Bronze age",
+     "Copper age, Bronze age, Iron age",
+     "Iron age, Bronze age, Copper age",
+     "Bronze age, Copper age, Iron age"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం మానవ అభివృద్ధి దశలను రాగి యుగం, కాంస్య యుగం మరియు ఇనుప యుగం క్రమంలో జాబితా చేసింది.",
+    "en": "The text lists the stages of human development in the sequence of copper age, bronze age, and iron age."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T21-0046",
+   "section": {
+    "te": "Mineral Etymology",
+    "en": "Mineral Etymology"
+   },
+   "q": {
+    "te": "కర్ణాటకలోని ఖనిజ సంపన్న ప్రాంతాల సందర్భంలో, స్థానిక కన్నడ భాషలో 'కుద్రే' (Kudre) అనే పదానికి అర్థం ఏమిటి?",
+    "en": "In the context of mineral-rich regions in Karnataka, what does the word 'Kudre' mean in the local Kannada language?"
+   },
+   "options": {
+    "te": [
+     "ఎద్దు",
+     "శిఖరం",
+     "కుంభాకారం (Hump)",
+     "గుర్రం"
+    ],
+    "en": [
+     "Ox",
+     "Peak",
+     "Hump",
+     "Horse"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, కన్నడలో 'కుద్రే' అంటే గుర్రం అని అర్థం. కర్ణాటకలోని పశ్చిమ కనుమలలోని ఎత్తైన శిఖరం గుర్రం ముఖాన్ని పోలి ఉంటుంది.",
+    "en": "'Kudre' in Kannada means horse, and the highest peak in the Western Ghats of Karnataka resembles a horse's face."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T21-0066",
+   "section": {
+    "te": "Mica in AP",
+    "en": "Mica in AP"
+   },
+   "q": {
+    "te": "ఆంధ్రప్రదేశ్‌లోని ఏ జిల్లాలో భారతదేశంలోని ముఖ్యమైన అభ్రక (Mica) బెల్ట్ ఉందని పేర్కొనబడింది?",
+    "en": "Which district in Andhra Pradesh is mentioned as having an important mica belt in India?"
+   },
+   "options": {
+    "te": [
+     "నెల్లూరు",
+     "కర్నూలు",
+     "గుంటూరు",
+     "విశాఖపట్నం"
+    ],
+    "en": [
+     "Nellore",
+     "Kurnool",
+     "Guntur",
+     "Visakhapatnam"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఆంధ్రప్రదేశ్‌లోని నెల్లూరు అభ్రక బెల్ట్ దేశంలో అభ్రకం ఉత్పత్తి చేసే ముఖ్యమైన ప్రాంతం.",
+    "en": "The Nellore mica belt in Andhra Pradesh is an important producer of mica in the country."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T21-0037",
+   "section": {
+    "te": "Magnetite iron content",
+    "en": "Magnetite iron content"
+   },
+   "q": {
+    "te": "ఏ ఇనుప ఖనిజం అత్యుత్తమమైనదిగా పరిగణించబడుతుంది మరియు 70 శాతం వరకు ఇనుమును కలిగి ఉంటుంది?",
+    "en": "Which iron ore is considered the finest and contains up to 70 percent iron?"
+   },
+   "options": {
+    "te": [
+     "మాగ్నెటైట్",
+     "హేమటైట్",
+     "సిడరైట్",
+     "లిమోనైట్"
+    ],
+    "en": [
+     "Magnetite",
+     "Hematite",
+     "Siderite",
+     "Limonite"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మాగ్నెటైట్ 70% ఇనుమును కలిగి ఉండటం మరియు అయస్కాంత లక్షణాల వల్ల అత్యుత్తమ నాణ్యత గల ఇనుప ఖనిజంగా వర్ణించబడింది.",
+    "en": "Magnetite is described as the finest quality iron ore due to its high iron content of 70% and its magnetic properties."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T21-0102",
+   "section": {
+    "te": "Wind Farm States",
+    "en": "Wind Farm States"
+   },
+   "q": {
+    "te": "తమిళనాడు కాకుండా, భారతదేశంలోని ఈ క్రింది ఏ రాష్ట్రాలు/కేంద్రపాలిత ప్రాంతాలలో ముఖ్యమైన పవన విద్యుత్ కేంద్రాలు ఉన్నాయి?",
+    "en": "Apart from Tamil Nadu, which of the following states/UTs have important wind farms in India?"
+   },
+   "options": {
+    "te": [
+     "ఆంధ్రప్రదేశ్ మరియు కర్ణాటక",
+     "గుజరాత్ మరియు కేరళ",
+     "మహారాష్ట్ర మరియు లక్షద్వీప్",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Andhra Pradesh and Karnataka",
+     "Gujarat and Kerala",
+     "Maharashtra and Lakshadweep",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఆంధ్రప్రదేశ్, కర్ణాటక, గుజరాత్, కేరళ, మహారాష్ట్ర మరియు లక్షద్వీప్‌లలో ముఖ్యమైన పవన విద్యుత్ కేంద్రాలు ఉన్నాయని పాఠ్య భాగం పేర్కొంది.",
+    "en": "The text lists Andhra Pradesh, Karnataka, Gujarat, Kerala, Maharashtra, and Lakshadweep as locations with important wind farms."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T21-0129",
+   "section": {
+    "te": "Organic Minerals",
+    "en": "Organic Minerals"
+   },
+   "q": {
+    "te": "సేంద్రీయ అలోహ ఖనిజాల గురించి కింది ప్రకటనలను పరిశీలించండి:\n1. వీటిని ఖనిజ ఇంధనాలు అని కూడా పిలుస్తారు.\n2. ఇవి భూమిలో కూరుకుపోయిన జంతు మరియు వృక్ష జీవాల నుండి ఉద్భవించాయి.\n3. అభ్రకం మరియు సున్నపురాయి ఈ వర్గానికి ప్రాథమిక ఉదాహరణలు.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about organic non-metallic minerals:\n1. They are also known as mineral fuels.\n2. They are derived from buried animal and plant life.\n3. Mica and limestone are primary examples of this category.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "బొగ్గు మరియు పెట్రోలియం వంటి సేంద్రీయ అలోహ ఖనిజాలు (ఖనిజ ఇంధనాలు) భూమిలో కూరుకుపోయిన జీవాల నుండి వస్తాయి. అభ్రకం మరియు సున్నపురాయి అకర్బన అలోహ ఖనిజాలు.",
+    "en": "Organic non-metallic minerals (mineral fuels) like coal and petroleum come from buried life. Mica and limestone are inorganic non-metallic minerals."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T21-0076",
+   "section": {
+    "te": "Mining economics",
+    "en": "Mining economics"
+   },
+   "q": {
+    "te": "ప్రకటన (A): ఖనిజాల నిరంతర వెలికితీత ఖర్చుల పెరుగుదలకు దారితీస్తుంది.\nకారణం (R): ఖనిజ వెలికితీత ఎక్కువ లోతుల నుండి జరుగుతుంది మరియు నాణ్యత తగ్గుతుంది.",
+    "en": "Assertion (A): Continued extraction of ores leads to increasing costs.\nReason (R): Mineral extraction comes from greater depths along with a decrease in quality."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఉపరితలం దగ్గర ఖనిజాలు అయిపోతున్న కొద్దీ, తక్కువ నాణ్యత ఉన్న లోతైన ప్రాంతాల నుండి వాటిని వెలికితీయాల్సి రావడంతో ఖర్చులు పెరుగుతాయి.",
+    "en": "Costs increase because as minerals are depleted near the surface, they must be mined from deeper levels where the quality is often lower."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T21-0090",
+   "section": {
+    "te": "Gujarat Oil Fields",
+    "en": "Gujarat Oil Fields"
+   },
+   "q": {
+    "te": "గుజరాత్ రాష్ట్రంలోని అత్యంత ముఖ్యమైన చమురు క్షేత్రం కింది వాటిలో ఏది?",
+    "en": "Which of the following is the most important oil field in the state of Gujarat?"
+   },
+   "options": {
+    "te": [
+     "అంకలేశ్వర్",
+     "నహర్కటియా",
+     "ముంబై హై",
+     "దిగ్బోయ్"
+    ],
+    "en": [
+     "Ankeleshwar",
+     "Naharkatiya",
+     "Mumbai High",
+     "Digboi"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "గుజరాత్‌లోని అత్యంత ముఖ్యమైన చమురు క్షేత్రంగా అంకలేశ్వర్ గుర్తించబడింది.",
+    "en": "Ankeleshwar is identified as the most significant oil field in Gujarat."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T21-0061",
+   "section": {
+    "te": "Iron Ore Mines",
+    "en": "Iron Ore Mines"
+   },
+   "q": {
+    "te": "ఒడిశాలోని ఏ నిర్దిష్ట గనులలో అధిక నాణ్యత గల హెమటైట్ ఖనిజం లభిస్తుంది?",
+    "en": "In which specific mines of Odisha is high-grade hematite ore found?"
+   },
+   "options": {
+    "te": [
+     "బైలాడిలా గనులు",
+     "బాదాంపహార్ గనులు",
+     "గువా గనులు",
+     "నోాముండి గనులు"
+    ],
+    "en": [
+     "Bailadila mines",
+     "Badampahar mines",
+     "Gua mines",
+     "Noamundi mines"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఒడిశాలోని మయూర్ భంజ్ మరియు కేందుఝర్ జిల్లాల్లోని బాదాంపహార్ గనులలో అధిక నాణ్యత గల హెమటైట్ ఖనిజం లభిస్తుంది.",
+    "en": "High-grade hematite ore in Odisha is found in the Badampahar mines located in Mayurbhanj and Kendujhar districts."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T21-0148",
+   "section": {
+    "te": "Iron Ore Advantage",
+    "en": "Iron Ore Advantage"
+   },
+   "q": {
+    "te": "నిశ్చయం (A): ఈశాన్య పీఠభూమి ప్రాంతంలోని ఇనుప ఖనిజ గనులకు ఒక ప్రత్యేక ప్రయోజనం ఉంది.\nకారణం (R): ఈ గనులు బొగ్గు క్షేత్రాలకు అతి సమీపంలో ఉన్నాయి.",
+    "en": "Assertion (A): Iron ore mines in the northeastern plateau region have a distinct advantage.\nReason (R): These mines occur in close proximity to coal fields."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఈశాన్య పీఠభూమిలో ఇనుప ఖనిజ గనులు బొగ్గు క్షేత్రాలకు సమీపంలో ఉండటం ఆ పరిశ్రమకు ప్రధాన ప్రయోజనం.",
+    "en": "The proximity of iron ore mines to coal fields in the northeastern plateau is a major advantage for the industry."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T21-0041",
+   "section": {
+    "te": "Mineral ownership",
+    "en": "Mineral ownership"
+   },
+   "q": {
+    "te": "భారతదేశంలో ఖనిజాల యాజమాన్యానికి సంబంధించి ఈ క్రింది ప్రకటనలను పరిగణించండి:\n1. భారతదేశంలోని మెజారిటీ ఖనిజాలు జాతీయం చేయబడ్డాయి.\n2. ఈశాన్య భారతదేశంలోని గిరిజన ప్రాంతాలలో, ఖనిజాలు వ్యక్తులు లేదా సంఘాల యాజమాన్యంలో ఉన్నాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding mineral ownership in India:\n1. Most minerals in India are nationalised.\n2. In tribal areas of north-east India, minerals are owned by individuals or communities.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతదేశంలో ఖనిజాలు సాధారణంగా జాతీయం చేయబడినప్పటికీ, ఈశాన్య గిరిజన ప్రాంతాలు మినహాయింపు, అక్కడ వ్యక్తులు లేదా సంఘాలు వాటిని కలిగి ఉంటారు.",
+    "en": "While minerals are generally nationalised in India, the north-east tribal areas are an exception where individuals or communities own them."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T21-0176",
+   "section": {
+    "te": "Thorium Sources",
+    "en": "Thorium Sources"
+   },
+   "q": {
+    "te": "బీచ్ ఇసుకలో కనిపించే కింది ఏ ఖనిజాల నుండి థోరియం ప్రధానంగా పొందబడుతుంది?",
+    "en": "Thorium is mainly obtained from which of the following minerals found in beach sands?"
+   },
+   "options": {
+    "te": [
+     "యురేనియం మరియు మైకా",
+     "బాక్సైట్ మరియు మాంగనీస్",
+     "లిగ్నైట్ మరియు బొగ్గు",
+     "మోనజైట్ మరియు ఇల్మెనైట్"
+    ],
+    "en": [
+     "Uranium and Mica",
+     "Bauxite and Manganese",
+     "Lignite and Coal",
+     "Monazite and Ilmenite"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "కేరళ మరియు తమిళనాడు తీరప్రాంత బీచ్ ఇసుకలో కనిపించే మోనజైట్ మరియు ఇల్మెనైట్ నుండి థోరియం ప్రధానంగా సంగ్రహించబడుతుంది.",
+    "en": "Thorium is primarily extracted from monazite and ilmenite found in the beach sands of Kerala and Tamil Nadu."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T21-0178",
+   "section": {
+    "te": "Petroleum Refining",
+    "en": "Petroleum Refining"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): బావుల నుండి తీసిన చమురును నేరుగా ఉపయోగించలేము.\nకారణం (R): ముడి చమురు అనేక మలినాలను కలిగి ఉంటుంది మరియు దానిని శుద్ధి చేయాలి.",
+    "en": "Assertion (A): Oil extracted from wells cannot be used directly.\nReason (R): Crude oil contains many impurities and needs to be refined."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ.",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు.",
+     "A నిజం కానీ R తప్పు.",
+     "A తప్పు కానీ R నిజం."
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A.",
+     "Both A and R are true but R is not the correct explanation of A.",
+     "A is true but R is false.",
+     "A is false but R is true."
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "బావుల నుండి తీసిన ముడి చమురు మలినాలను కలిగి ఉంటుంది, ఇది దాని ముడి స్థితిలో ఉపయోగించలేనిదిగా చేస్తుంది; అందువల్ల, అది తప్పనిసరిగా శుద్ధి చేయబడాలి.",
+    "en": "Crude oil extracted from wells contains impurities, making it unusable in its raw state; therefore, it must undergo refining."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T21-0067",
+   "section": {
+    "te": "Mining hazards",
+    "en": "Mining hazards"
+   },
+   "q": {
+    "te": "గని కార్మికులు ప్రధానంగా ఏ కారణం చేత ఊపిరితిత్తుల వ్యాధులకు (pulmonary diseases) గురవుతారు?",
+    "en": "Miners are particularly vulnerable to pulmonary diseases due to which of the following factors?"
+   },
+   "options": {
+    "te": [
+     "ధూళి మరియు విషపూరిత పొగలను పీల్చడం",
+     "సూర్యరశ్మి లేకపోవడం",
+     "అధిక వాతావరణ పీడనం",
+     "కలుషితమైన త్రాగునీరు"
+    ],
+    "en": [
+     "Inhalation of dust and noxious fumes",
+     "Lack of sunlight",
+     "High atmospheric pressure",
+     "Contaminated drinking water"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "గని పనుల సమయంలో ధూళి మరియు విషపూరిత పొగలను పీల్చడం వల్ల కార్మికులకు ఊపిరితిత్తుల వ్యాధులు వస్తాయి.",
+    "en": "The inhalation of dust and toxic fumes during mining activities leads to pulmonary (lung) diseases among workers."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T21-0182",
+   "section": {
+    "te": "Uranium Mining Districts",
+    "en": "Uranium Mining Districts"
+   },
+   "q": {
+    "te": "యురేనియం లభించే ఈ క్రింది జిల్లాలను వాటి సంబంధిత రాష్ట్రాలతో జతపరచండి:\n1. దుర్గ్ - i. మహారాష్ట్ర\n2. భండారా - ii. హిమాచల్ ప్రదేశ్\n3. కులు - iii. ఛత్తీస్‌గఢ్",
+    "en": "Match the following districts where Uranium is found with their respective states:\n1. Durg - i. Maharashtra\n2. Bhandara - ii. Himachal Pradesh\n3. Kullu - iii. Chhattisgarh"
+   },
+   "options": {
+    "te": [
+     "1-iii, 2-i, 3-ii",
+     "1-i, 2-ii, 3-iii",
+     "1-ii, 2-iii, 3-i",
+     "1-iii, 2-ii, 3-i"
+    ],
+    "en": [
+     "1-iii, 2-i, 3-ii",
+     "1-i, 2-ii, 3-iii",
+     "1-ii, 2-iii, 3-i",
+     "1-iii, 2-ii, 3-i"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, యురేనియం దుర్గ్ (ఛత్తీస్‌గఢ్), భండారా (మహారాష్ట్ర) మరియు కులు (హిమాచల్ ప్రదేశ్) లలో లభిస్తుంది.",
+    "en": "Uranium is found in Durg (Chhattisgarh), Bhandara (Maharashtra), and Kullu (Himachal Pradesh)."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T21-0175",
+   "section": {
+    "te": "Solar Energy Potential",
+    "en": "Solar Energy Potential"
+   },
+   "q": {
+    "te": "రాజస్థాన్‌తో పాటు, పశ్చిమ భారతదేశంలోని ఏ ఇతర రాష్ట్రం సౌర శక్తి అభివృద్ధికి ఎక్కువ సామర్థ్యాన్ని కలిగి ఉంది?",
+    "en": "Apart from Rajasthan, which other state in western India has greater potential for the development of solar energy?"
+   },
+   "options": {
+    "te": [
+     "గోవా",
+     "మధ్యప్రదేశ్",
+     "గుజరాత్",
+     "మహారాష్ట్ర"
+    ],
+    "en": [
+     "Goa",
+     "Madhya Pradesh",
+     "Gujarat",
+     "Maharashtra"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సౌర శక్తి అభివృద్ధికి గుజరాత్ మరియు రాజస్థాన్ రాష్ట్రాలు ఎక్కువ సామర్థ్యాన్ని కలిగి ఉన్నాయని పాఠ్యభాగం గుర్తిస్తుంది.",
+    "en": "The text identifies Gujarat and Rajasthan as having greater potential for solar energy development."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T21-0111",
+   "section": {
+    "te": "Geothermal Energy Process",
+    "en": "Geothermal Energy Process"
+   },
+   "q": {
+    "te": "భూఉష్ణ శక్తి ఉత్పత్తిలో, భూగర్భ జలాలు శిలల నుండి ఉష్ణాన్ని గ్రహించి ఉపరితలానికి చేరుకున్నప్పుడు ఏమవుతాయి?",
+    "en": "In geothermal energy generation, what happens to groundwater when it absorbs heat from rocks and rises to the surface?"
+   },
+   "options": {
+    "te": [
+     "ఆమ్లంగా మారుతాయి",
+     "ఆవిరిగా (steam) మారుతాయి",
+     "అదృశ్యమవుతాయి",
+     "మంచుగా మారుతాయి"
+    ],
+    "en": [
+     "It becomes acidic",
+     "It turns into steam",
+     "It disappears",
+     "It turns into ice"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వేడి భూగర్భ జలాలు ఉపరితలానికి చేరుకున్నప్పుడు ఆవిరిగా మారుతాయని, దీనిని టర్బైన్లను తిప్పడానికి ఉపయోగిస్తారని పాఠ్య భాగం వివరిస్తుంది.",
+    "en": "Hot groundwater turns into steam as it rises to the surface, which is then used to drive turbines."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T21-0035",
+   "section": {
+    "te": "Economic viability of minerals",
+    "en": "Economic viability of minerals"
+   },
+   "q": {
+    "te": "ఖనిజ నిల్వల ఆర్థిక సాధ్యతకు (economic viability) సంబంధించి ఈ క్రింది అంశాలను పరిగణించండి:\n1. ధాతువులో ఖనిజం యొక్క సాంద్రత\n2. వెలికితీత సౌలభ్యం\n3. మార్కెట్‌కు దగ్గరగా ఉండటం\nపైన పేర్కొన్న వాటిలో ఏ అంశాలు ముఖ్యమైన పాత్ర పోషిస్తాయి?",
+    "en": "Consider the following factors regarding the economic viability of a mineral reserve:\n1. Concentration of mineral in the ore\n2. Ease of extraction\n3. Closeness to the market\nWhich of the factors given above play an important role?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, ఖనిజ సాంద్రత, వెలికితీత సౌలభ్యం మరియు మార్కెట్‌కు సామీప్యత అనేవి ఒక నిల్వ ఆర్థికంగా లాభదాయకమా కాదా అని నిర్ణయిస్తాయి.",
+    "en": "The concentration of the mineral, how easily it can be mined, and its proximity to the market all determine if a reserve is economically viable."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T21-0004",
+   "section": {
+    "te": "Rajasthan solar park",
+    "en": "Rajasthan solar park"
+   },
+   "q": {
+    "te": "రాజస్థాన్‌లో ఉన్న ప్రపంచంలోనే అతిపెద్ద సౌర పార్కులలో ఒకటి, ఆ రాష్ట్ర ప్రస్తుత విద్యుత్ అవసరాలలో సుమారు ఎంత శాతాన్ని తీర్చగలదు?",
+    "en": "One of the largest solar parks in the world located in Rajasthan can generate enough electricity to power about what percentage of the state's current needs?"
+   },
+   "options": {
+    "te": [
+     "సుమారు 5%",
+     "సుమారు 15%",
+     "సుమారు 50%",
+     "సుమారు 25%"
+    ],
+    "en": [
+     "About 5%",
+     "About 15%",
+     "About 50%",
+     "About 25%"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "రాజస్థాన్‌లోని ఈ సోలార్ పార్క్ ఆ రాష్ట్ర ప్రస్తుత విద్యుత్ అవసరాలలో సుమారు 15% విద్యుత్‌ను ఉత్పత్తి చేయగలదు.",
+    "en": "The solar park located in Rajasthan can generate enough electricity to power about 15% of the current needs of Rajasthan."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T21-0040",
+   "section": {
+    "te": "Bauxite formation",
+    "en": "Bauxite formation"
+   },
+   "q": {
+    "te": "ఉపరితల శిలల విచ్ఛిన్నం మరియు కరిగే అంశాల తొలగింపు ద్వారా ఏర్పడే అవశేష పదార్థం నుండి ఏ ఖనిజం ఏర్పడుతుంది?",
+    "en": "Which mineral is formed by the decomposition of surface rocks and the removal of soluble constituents, leaving a residual mass of weathered material?"
+   },
+   "options": {
+    "te": [
+     "బంగారం",
+     "ఇనుప ఖనిజం",
+     "బొగ్గు",
+     "బాక్సైట్"
+    ],
+    "en": [
+     "Gold",
+     "Iron ore",
+     "Coal",
+     "Bauxite"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఉపరితల శిలలు విచ్ఛిన్నమై, కరిగే భాగాలు తొలగిపోయి, మిగిలిన అవశేష పదార్థం నుండి బాక్సైట్ ఏర్పడుతుంది.",
+    "en": "Bauxite is formed through the weathering process where surface rocks decompose and soluble parts are removed, leaving the ore behind."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T21-0070",
+   "section": {
+    "te": "Mineral conservation",
+    "en": "Mineral conservation"
+   },
+   "q": {
+    "te": "ఖనిజ వనరులు 'పరిమితమైనవి మరియు పునరుద్ధరించలేనివి' (finite and non-renewable) అని ఎందుకు పరిగణించబడతాయి?",
+    "en": "Mineral resources are considered 'finite and non-renewable' primarily because:"
+   },
+   "options": {
+    "te": [
+     "అవి చోటా నాగ్‌పూర్‌లో మాత్రమే కనిపిస్తాయి",
+     "అవి వేగంగా ఎగుమతి చేయబడుతున్నాయి",
+     "వాటి ఏర్పడే భౌగోళిక ప్రక్రియలు అనంతమైన నెమ్మదిగా ఉంటాయి",
+     "అవి భూమి క్రస్ట్‌లో 1% మాత్రమే ఉన్నాయి"
+    ],
+    "en": [
+     "They are found only in Chota Nagpur",
+     "They are being exported rapidly",
+     "Geological processes of formation are infinitely slow",
+     "They are only 1% of the earth's crust"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఖనిజాలు ఏర్పడటానికి మిలియన్ల సంవత్సరాలు పడుతుంది, కాబట్టి వాటి పునరుద్ధరణ రేటు వినియోగ రేటుతో పోలిస్తే చాలా తక్కువ.",
+    "en": "The rate of replenishment is infinitely small compared to the rate of consumption because geological formation takes millions of years."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T21-0121",
+   "section": {
+    "te": "Global Mining Trends",
+    "en": "Global Mining Trends"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): అభివృద్ధి చెందిన ఆర్థిక వ్యవస్థలు మైనింగ్ మరియు శుద్ధి చేసే ఉత్పత్తి దశల నుండి వెనక్కి తగ్గుతున్నాయి.\nకారణం (R): ఈ దేశాలు అధిక కార్మిక వ్యయాలను ఎదుర్కొంటున్నాయి.",
+    "en": "Assertion (A): Developed economies are retreating from the mining and refining stages of production.\nReason (R): These countries are facing high labour costs."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అభివృద్ధి చెందిన దేశాలు మైనింగ్ మరియు ప్రాసెసింగ్ నుండి దూరంగా జరుగుతున్నాయి ఎందుకంటే వారి కార్మిక వ్యయాలు చాలా ఎక్కువగా ఉన్నాయి.",
+    "en": "Developed nations are moving away from mining and processing specifically because their labour costs have become too high."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T21-0011",
+   "section": {
+    "te": "Non-renewable resources nature",
+    "en": "Non-renewable resources nature"
+   },
+   "q": {
+    "te": "పునరుత్పాదకం కాని వనరులకు (నాన్-రెన్యూవబుల్) సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి చాలా సుదీర్ఘ కాలంలో ఏర్పడతాయి.\n2. మనం వాటిని వినియోగించే రేటు కంటే వేగంగా అవి తిరిగి భర్తీ చేయబడతాయి.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding non-renewable resources:\n1. They are created over long periods.\n2. They replenish at a rate faster than we use them.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పునరుత్పాదకం కాని వనరులు సుదీర్ఘ కాలంలో ఏర్పడతాయి మరియు మనం ఉపయోగించే వేగంతో అవి తిరిగి భర్తీ కాలేవు. కాబట్టి 1 మాత్రమే సరైనది.",
+    "en": "Non-renewable resources are created over long periods and cannot be replenished at the rate we use them, making statement 2 incorrect."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T21-0109",
+   "section": {
+    "te": "Biogas Benefits",
+    "en": "Biogas Benefits"
+   },
+   "q": {
+    "te": "బయోగ్యాస్ ప్లాంట్ల ద్వారా రైతులకు కలిగే 'రెండు ప్రయోజనాలు' (twin benefits) ఏమిటి?",
+    "en": "What are the 'twin benefits' provided by biogas plants to farmers?"
+   },
+   "options": {
+    "te": [
+     "విద్యుత్ మరియు నీరు",
+     "శక్తి మరియు మెరుగైన నాణ్యత గల ఎరువు",
+     "ఇంధనం మరియు కృత్రిమ ఎరువులు",
+     "ఉష్ణం మరియు పురుగుమందులు"
+    ],
+    "en": [
+     "Electricity and water",
+     "Energy and improved quality of manure",
+     "Fuel and synthetic fertilizer",
+     "Heat and pesticides"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "బయోగ్యాస్ ప్లాంట్లు రైతులకు గృహావసరాలకు శక్తిని మరియు వ్యవసాయానికి మెరుగైన నాణ్యత గల ఎరువును అందిస్తాయి.",
+    "en": "Biogas plants provide farmers with energy for domestic use and an improved quality of manure for agriculture."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T21-0060",
+   "section": {
+    "te": "Aluminium Properties",
+    "en": "Aluminium Properties"
+   },
+   "q": {
+    "te": "అల్యూమినియంకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది ఇనుము వంటి లోహాల బలాన్ని కలిగి ఉంటుంది.\n2. ఇది అత్యంత తేలికైనది.\n3. ఇది తక్కువ విద్యుత్ వాహకతను కలిగి ఉంటుంది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding Aluminium:\n1. It possesses the strength of metals like iron.\n2. It is characterized by extreme lightness.\n3. It has poor electrical conductivity.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అల్యూమినియం దాని బలం (ఇనుము వలె) మరియు అత్యంత తేలికైన గుణానికి ప్రసిద్ధి చెందింది, అయితే ఇది మంచి వాహకం, తక్కువ వాహకం కాదు.",
+    "en": "Aluminium is known for its strength (like iron) and extreme lightness, but it is a good conductor, not a poor one."
+   }
+  }
+ ]
+}

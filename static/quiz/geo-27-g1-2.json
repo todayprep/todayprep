@@ -1,0 +1,942 @@
+{
+ "id": "geo-27-g1-2",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Transport – క్విజ్ 2",
+  "en": "Transport – Quiz 2"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T27-0114",
+   "section": {
+    "te": "Russian Transport",
+    "en": "Russian Transport"
+   },
+   "q": {
+    "te": "రష్యాలో, దేశం యొక్క మొత్తం రవాణాలో రైల్వేలు ఎంత శాతం వాటాను కలిగి ఉన్నాయి?",
+    "en": "In Russia, what percentage of the country's total transport is accounted for by railways?"
+   },
+   "options": {
+    "te": [
+     "90 శాతం",
+     "40 శాతం",
+     "75 శాతం",
+     "33 శాతం"
+    ],
+    "en": [
+     "90 per cent",
+     "40 per cent",
+     "75 per cent",
+     "33 per cent"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "రష్యా మొత్తం రవాణాలో రైల్వేలు దాదాపు 90 శాతం వాటాను కలిగి ఉన్నాయని పాఠ్య భాగం పేర్కొంది.",
+    "en": "Railways account for about 90 per cent of Russia's total transport."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T27-0028",
+   "section": {
+    "te": "Atal Tunnel Location",
+    "en": "Atal Tunnel Location"
+   },
+   "q": {
+    "te": "అటల్ టన్నెల్ హిమాలయాలలోని ఏ పర్వత శ్రేణిలో, సగటు సముద్ర మట్టం (MSL) నుండి ఎంత ఎత్తులో నిర్మించబడింది?",
+    "en": "Atal Tunnel is built in which Himalayan range and at what altitude above Mean Sea Level (MSL)?"
+   },
+   "options": {
+    "te": [
+     "పీర్ పంజాల్ శ్రేణి, 3000 మీటర్లు",
+     "జాన్స్కర్ శ్రేణి, 3500 మీటర్లు",
+     "ధౌలాధర్ శ్రేణి, 3000 మీటర్లు",
+     "శివాలిక్ శ్రేణి, 2500 మీటర్లు"
+    ],
+    "en": [
+     "Pir Panjal range, 3000 metres",
+     "Zanskar range, 3500 metres",
+     "Dhauladhar range, 3000 metres",
+     "Shiwalik range, 2500 metres"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అటల్ టన్నెల్ హిమాలయాలలోని పీర్ పంజాల్ శ్రేణిలో సగటు సముద్ర మట్టం నుండి 3000 మీటర్ల ఎత్తులో నిర్మించబడింది.",
+    "en": "The Atal Tunnel is built in the Pir Panjal range of the Himalayas at an altitude of 3000 metres from the Mean Sea Level."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T27-0320",
+   "section": {
+    "te": "Port Capacity",
+    "en": "Port Capacity"
+   },
+   "q": {
+    "te": "2016లో భారతీయ ఓడరేవుల సరుకు రవాణా సామర్థ్యం ఎంత?",
+    "en": "What was the cargo handling capacity of Indian ports in 2016?"
+   },
+   "options": {
+    "te": [
+     "1000 మిలియన్ టన్నుల కంటే ఎక్కువ",
+     "837 మిలియన్ టన్నుల కంటే ఎక్కువ",
+     "20 మిలియన్ టన్నుల కంటే ఎక్కువ",
+     "500 మిలియన్ టన్నుల కంటే ఎక్కువ"
+    ],
+    "en": [
+     "More than 1000 million tonnes",
+     "More than 837 million tonnes",
+     "More than 20 million tonnes",
+     "More than 500 million tonnes"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారతీయ ఓడరేవుల సామర్థ్యం 1951లో 20 మిలియన్ టన్నుల నుండి 2016లో 837 మిలియన్ టన్నుల కంటే ఎక్కువకు పెరిగింది.",
+    "en": "The capacity of Indian ports grew from 20 million tonnes in 1951 to over 837 million tonnes in 2016."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T27-0069",
+   "section": {
+    "te": "Recreational services location",
+    "en": "Recreational services location"
+   },
+   "q": {
+    "te": "వినోద మరియు విశ్రాంతి సేవల ప్రదేశాన్ని పరిగణనలోకి తీసుకుంటే, ఒక గోల్ఫ్ కోర్స్ సాధారణంగా ఎక్కడ స్థలాన్ని ఎంచుకుంటుంది?",
+    "en": "In terms of the location of recreational and entertainment services, where would a golf course choose a site?"
+   },
+   "options": {
+    "te": [
+     "CBD కంటే భూమి ధరలు తక్కువగా ఉన్న ప్రదేశంలో",
+     "నేరుగా సెంట్రల్ బిజినెస్ డిస్ట్రిక్ట్ (CBD) లోపల",
+     "ప్రత్యేకంగా రవాణా టెర్మినళ్ల లోపల",
+     "హోల్‌సేల్ మండీల కోసం కేటాయించిన ప్రదేశాలలో"
+    ],
+    "en": [
+     "Where land costs are lower than in the CBD",
+     "Directly within the Central Business District (CBD)",
+     "Exclusively inside transport terminals",
+     "In areas reserved only for wholesale mandis"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సెంట్రల్ బిజినెస్ డిస్ట్రిక్ట్ (CBD) కంటే భూమి ధరలు తక్కువగా ఉన్న ప్రదేశంలో గోల్ఫ్ కోర్స్ తన స్థలాన్ని ఎంచుకుంటుంది.",
+    "en": "A golf course would choose a site where land costs are lower than in the Central Business District (CBD)."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T27-0177",
+   "section": {
+    "te": "St. Lawrence Seaway",
+    "en": "St. Lawrence Seaway"
+   },
+   "q": {
+    "te": "నిశ్చయం (A): సెయింట్ లారెన్స్ సీవేలో, మాంట్రియల్ వద్ద వస్తువులను చిన్న నౌకల్లోకి బదిలీ చేయాలి.\nకారణం (R): మాంట్రియల్ దాటి రాపిడ్స్ (rapids) ఉండటం వల్ల పెద్ద సముద్ర నౌకలు ముందుకు వెళ్లకుండా అడ్డుకుంటాయి.",
+    "en": "Assertion (A): On the St. Lawrence Seaway, goods must be trans-shipped to smaller vessels at Montreal.\nReason (R): There is a presence of rapids beyond Montreal that prevents large ocean-going vessels from navigating further."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పెద్ద నౌకలు మాంట్రియల్ వరకు చేరుకోగలవు, కానీ రాపిడ్స్ ఉండటం వల్ల తదుపరి ప్రయాణం కోసం సరుకును చిన్న నౌకల్లోకి మార్చాల్సి ఉంటుంది.",
+    "en": "Large vessels can reach Montreal, but rapids necessitate moving cargo to smaller ships for further travel."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T27-0284",
+   "section": {
+    "te": "Communication Classification",
+    "en": "Communication Classification"
+   },
+   "q": {
+    "te": "వ్యక్తిగత మరియు సామూహిక సమాచార ప్రసారం వంటి వర్గాలుగా సమాచార మార్పిడి పద్ధతులను ఏ ప్రాతిపదికన విభజించవచ్చు?",
+    "en": "On what basis can the modes of communication be divided into categories like personal and mass communication?"
+   },
+   "options": {
+    "te": [
+     "వేగం మరియు దూరం",
+     "ఖర్చు మరియు సాంకేతికత",
+     "భాష మరియు ప్రాంతం",
+     "స్థాయి మరియు నాణ్యత (Scale and quality)"
+    ],
+    "en": [
+     "Speed and distance",
+     "Cost and technology",
+     "Language and region",
+     "Scale and quality"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠం ప్రకారం, సమాచార మార్పిడి పద్ధతులు వాటి స్థాయి మరియు నాణ్యత ఆధారంగా వర్గీకరించబడ్డాయి.",
+    "en": "Communication modes are categorized based on their scale and quality."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T27-0175",
+   "section": {
+    "te": "Panama Canal Zone",
+    "en": "Panama Canal Zone"
+   },
+   "q": {
+    "te": "పనామా కాలువకు ఇరువైపులా 'కెనాల్ జోన్'ను రూపొందించడానికి అమెరికా ప్రభుత్వం కొనుగోలు చేసిన ప్రాంతం వెడల్పు ఎంత?",
+    "en": "What is the width of the area purchased by the U.S. government on either side of the Panama Canal to create the 'Canal Zone'?"
+   },
+   "options": {
+    "te": [
+     "12 కి.మీ",
+     "72 కి.మీ",
+     "8 కి.మీ",
+     "26 కి.మీ"
+    ],
+    "en": [
+     "12 km",
+     "72 km",
+     "8 km",
+     "26 km"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అమెరికా ప్రభుత్వం కాలువకు ఇరువైపులా 8 కిలోమీటర్ల భూమిని కొనుగోలు చేసి, దానిని కెనాల్ జోన్‌గా పేర్కొంది.",
+    "en": "The U.S. government purchased 8 km of land on each side of the canal, designating it as the Canal Zone."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T27-0257",
+   "section": {
+    "te": "National Waterway 2",
+    "en": "National Waterway 2"
+   },
+   "q": {
+    "te": "జాతీయ జలమార్గం 2 (NW 2) లో, బ్రహ్మపుత్ర నది స్టీమర్ల ద్వారా ఏ ప్రాంతం వరకు ప్రయాణించవచ్చు?",
+    "en": "In National Waterway 2 (NW 2), the Brahmaputra river is navigable by steamers up to which location?"
+   },
+   "options": {
+    "te": [
+     "ధుబ్రి",
+     "డిబ్రూగఢ్",
+     "సాదియా",
+     "పాట్నా"
+    ],
+    "en": [
+     "Dhubri",
+     "Dibrugarh",
+     "Sadiya",
+     "Patna"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సాదియా-ధుబ్రి స్ట్రెచ్ (NW 2) లో, బ్రహ్మపుత్ర నది స్టీమర్ల ద్వారా డిబ్రూగఢ్ వరకు ప్రయాణించవచ్చు.",
+    "en": "In the Sadiya-Dhubri stretch (NW 2), the Brahmaputra is navigable by steamers up to Dibrugarh."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T27-0165",
+   "section": {
+    "te": "Rhine Ports",
+    "en": "Rhine Ports"
+   },
+   "q": {
+    "te": "రుర్ (Ruhr) బేసిన్ యొక్క సంపన్న ఉత్పాదక ప్రాంతానికి రైన్ నౌకాశ్రయంగా ఈ క్రింది వాటిలో ఏది పనిచేస్తుంది?",
+    "en": "Which of the following serves as the Rhine port for the prosperous manufacturing area of the Ruhr basin?"
+   },
+   "options": {
+    "te": [
+     "డ్యూసెల్డార్ఫ్",
+     "కొలోన్",
+     "రోటర్‌డ్యామ్",
+     "బాసెల్"
+    ],
+    "en": [
+     "Dusseldorf",
+     "Cologne",
+     "Rotterdam",
+     "Basel"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "డ్యూసెల్డార్ఫ్ అనేది రుర్ బొగ్గు గని మరియు ఉత్పాదక ప్రాంతానికి సేవలందించే రైన్ నదిపై ఉన్న ఓడరేవు.",
+    "en": "Dusseldorf is the specific port on the Rhine that serves the Ruhr coalfield and manufacturing region."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T27-0256",
+   "section": {
+    "te": "National Waterway 4",
+    "en": "National Waterway 4"
+   },
+   "q": {
+    "te": "జాతీయ జలమార్గం 4 (NW 4) కాకినాడ-పుదుచ్చేరి కాలువలతో పాటు ఏ నదుల నిర్దిష్ట భాగాలను కవర్ చేస్తుంది?",
+    "en": "National Waterway 4 (NW 4) covers specified stretches of which rivers along with the Kakinada-Puducherry canals?"
+   },
+   "options": {
+    "te": [
+     "గంగ మరియు బ్రహ్మపుత్ర",
+     "గోదావరి మరియు కృష్ణ",
+     "మహానది మరియు గోదావరి",
+     "బ్రాహ్మణి మరియు మాతై"
+    ],
+    "en": [
+     "Ganga and Brahmaputra",
+     "Godavari and Krishna",
+     "Mahanadi and Godavari",
+     "Brahmani and Matai"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "NW 4 గోదావరి మరియు కృష్ణా నదుల నిర్దిష్ట భాగాలను కలిగి ఉంది, ఇది మొత్తం 1078 కి.మీ మేర విస్తరించి ఉంది.",
+    "en": "NW 4 includes specified stretches of the Godavari and Krishna rivers, spanning a total of 1078 km."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T27-0006",
+   "section": {
+    "te": "Bangkok Airport",
+    "en": "Bangkok Airport"
+   },
+   "q": {
+    "te": "సముద్ర మథనం యొక్క భారీ శిల్పం ఉన్న బ్యాంకాక్ విమానాశ్రయం అధికారిక పేరు ఏమిటి?",
+    "en": "What is the official name of the airport in Bangkok that features a massive sculpture of 'Samudra Manthana'?"
+   },
+   "options": {
+    "te": [
+     "సువర్ణభూమి విమానాశ్రయం",
+     "డాన్ ముయాంగ్ విమానాశ్రయం",
+     "ఇందిరా గాంధీ అంతర్జాతీయ విమానాశ్రయం",
+     "చాంగి విమానాశ్రయం"
+    ],
+    "en": [
+     "Suvarnabhumi Airport",
+     "Don Mueang Airport",
+     "Indira Gandhi International Airport",
+     "Changi Airport"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్య భాగం బ్యాంకాక్‌లోని విమానాశ్రయాన్ని సువర్ణభూమి విమానాశ్రయంగా పేర్కొంది, ఇక్కడ హిందూ పురాణమైన సముద్ర మథనం శిల్పం ఉంది.",
+    "en": "The text identifies the airport in Bangkok as Suvarnabhumi Airport, which houses a sculpture of the Hindu myth Samudra Manthana."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T27-0234",
+   "section": {
+    "te": "North-South Corridor",
+    "en": "North-South Corridor"
+   },
+   "q": {
+    "te": "కొచ్చిన్-సేలం స్పర్‌తో సహా ఉత్తర-దక్షిణ కారిడార్ ద్వారా ఈ క్రింది ఏ ప్రాంతాలు అనుసంధానించబడ్డాయి?",
+    "en": "Which of the following locations are connected by the North-South corridor, including the Cochin-Salem Spur?"
+   },
+   "options": {
+    "te": [
+     "సిల్చార్ మరియు పోర్‌బందర్",
+     "చండీగఢ్ మరియు లేహ్",
+     "శ్రీనగర్ మరియు కన్యాకుమారి",
+     "ఢిల్లీ మరియు ముంబై"
+    ],
+    "en": [
+     "Silchar and Porbandar",
+     "Chandigarh and Leh",
+     "Srinagar and Kanniyakumari",
+     "Delhi and Mumbai"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మూలం ప్రకారం, ఉత్తర-దక్షిణ కారిడార్ జమ్మూ కాశ్మీర్‌లోని శ్రీనగర్‌ను తమిళనాడులోని కన్యాకుమారితో కలుపుతుంది, దీని పొడవు 4,076 కి.మీ.",
+    "en": "The North-South corridor connects Srinagar in Jammu and Kashmir with Kanniyakumari in Tamil Nadu, spanning 4,076 km."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T27-0044",
+   "section": {
+    "te": "National Waterway 1",
+    "en": "National Waterway 1"
+   },
+   "q": {
+    "te": "జాతీయ జలమార్గం నం. 1 (N.W. No.1) క్రింది ఏ నదీ మార్గాన్ని కవర్ చేస్తుంది?",
+    "en": "National Waterway No. 1 (N.W. No.1) covers which of the following stretches?"
+   },
+   "options": {
+    "te": [
+     "సాదియా మరియు ధుబ్రి మధ్య బ్రహ్మపుత్ర నది",
+     "ప్రయాగ్‌రాజ్ మరియు హల్దియా మధ్య గంగా నది",
+     "కేరళలోని వెస్ట్-కోస్ట్ కెనాల్",
+     "గోదావరి మరియు కృష్ణా నదుల నిర్దిష్ట భాగాలు"
+    ],
+    "en": [
+     "Brahmaputra river between Sadiya and Dhubri",
+     "Ganga river between Prayagraj and Haldia",
+     "West-Coast Canal in Kerala",
+     "Specified stretches of Godavari and Krishna rivers"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "జాతీయ జలమార్గం నం. 1 అనేది ప్రయాగ్‌రాజ్ మరియు హల్దియా మధ్య గంగా నదిలో 1620 కి.మీ మేర విస్తరించి ఉంది.",
+    "en": "National Waterway No. 1 is on the Ganga river between Prayagraj and Haldia covering a distance of 1620 km."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T27-0179",
+   "section": {
+    "te": "Inland Waterway Cargo",
+    "en": "Inland Waterway Cargo"
+   },
+   "q": {
+    "te": "అంతర్గత జలమార్గాల ద్వారా రవాణా చేయడానికి ఈ క్రింది ఏ భారీ సరుకులు అనువైనవి?",
+    "en": "Which of the following heavy cargoes are suitable for transport through inland waterways?"
+   },
+   "options": {
+    "te": [
+     "బొగ్గు మరియు సిమెంట్",
+     "కలప మరియు లోహ ఖనిజాలు",
+     "త్వరగా పాడైపోయే ఆహార పదార్థాలు",
+     "A మరియు B రెండూ"
+    ],
+    "en": [
+     "Coal and Cement",
+     "Timber and Metallic ores",
+     "Perishable food items",
+     "Both A and B"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "బొగ్గు, సిమెంట్, కలప మరియు ఖనిజాల వంటి భారీ పదార్థాలకు అంతర్గత జలమార్గాలు అనువైనవి.",
+    "en": "Inland waterways are ideal for bulky, heavy materials like coal, cement, timber, and ores."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T27-0009",
+   "section": {
+    "te": "Thenmala Meaning",
+    "en": "Thenmala Meaning"
+   },
+   "q": {
+    "te": "'తెన్మల' అనే పేరుకు అక్షరార్థం ఏమిటి?",
+    "en": "What is the literal meaning of the name 'Thenmala'?"
+   },
+   "options": {
+    "te": [
+     "బంగారు పర్వతం",
+     "పచ్చని అడవి",
+     "తేనె కొండ (Honey Hill)",
+     "నిశ్శబ్ద లోయ"
+    ],
+    "en": [
+     "Golden Mountain",
+     "Green Forest",
+     "Honey Hill",
+     "Silent Valley"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "తెన్మల అంటే 'తేనె కొండ' అని అర్థం, ఇది ఆ ప్రాంతం యొక్క సహజ సంపదను మరియు జీవవైవిధ్యాన్ని ప్రతిబింబిస్తుంది.",
+    "en": "The name Thenmala means 'Honey Hill', which reflects the natural richness and biodiversity of the area."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T27-0099",
+   "section": {
+    "te": "Transport Revolution",
+    "en": "Transport Revolution"
+   },
+   "q": {
+    "te": "పద్దెనిమిదవ శతాబ్దంలో రవాణా రంగంలో విప్లవాత్మక మార్పును తెచ్చిన ఆవిష్కరణ ఏది?",
+    "en": "Which invention brought about a revolution in transport in the eighteenth century?"
+   },
+   "options": {
+    "te": [
+     "ఆవిరి యంత్రం (Steam Engine)",
+     "అంతర్గత దహన యంత్రం (Internal Combustion Engine)",
+     "చక్రం",
+     "పైప్‌లైన్"
+    ],
+    "en": [
+     "The Steam Engine",
+     "The Internal Combustion Engine",
+     "The Wheel",
+     "The Pipeline"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "18వ శతాబ్దంలో ఆవిరి యంత్రం కనిపెట్టడం రవాణా రంగంలో విప్లవాత్మక మార్పులకు కారణమైంది.",
+    "en": "The invention of the steam engine in the 18th century is credited with revolutionizing transport."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T27-0184",
+   "section": {
+    "te": "Telephone monopoly",
+    "en": "Telephone monopoly"
+   },
+   "q": {
+    "te": "20వ శతాబ్దం ప్రారంభంలో మరియు మధ్యలో అమెరికా టెలిఫోన్ పరిశ్రమపై ఏ కంపెనీ గుత్తాధిపత్యాన్ని కలిగి ఉంది?",
+    "en": "Which company enjoyed a monopoly over the U.S.A.’s telephone industry during the early and mid-twentieth century?"
+   },
+   "options": {
+    "te": [
+     "ఆపిల్",
+     "AT&T",
+     "మైక్రోసాఫ్ట్",
+     "IBM"
+    ],
+    "en": [
+     "Apple",
+     "AT&T",
+     "Microsoft",
+     "IBM"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అమెరికన్ టెలిగ్రాఫ్ అండ్ టెలిఫోన్ కంపెనీ (AT&T) 20వ శతాబ్దం ప్రారంభం నుండి మధ్య వరకు అమెరికా టెలిఫోన్ పరిశ్రమలో గుత్తాధిపత్యాన్ని కలిగి ఉంది.",
+    "en": "The American Telegraph and Telephone Company (AT&T) held a monopoly in the US telephone industry during the early to mid-20th century."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T27-0183",
+   "section": {
+    "te": "Big Inch pipeline",
+    "en": "Big Inch pipeline"
+   },
+   "q": {
+    "te": "అమెరికాలోని 'బిగ్ ఇంచ్' పైప్‌లైన్ మెక్సికో సింధుశాఖలోని చమురు బావుల నుండి ఏ ప్రాంతానికి పెట్రోలియంను రవాణా చేస్తుంది?",
+    "en": "The 'Big Inch' pipeline in the USA carries petroleum from the oil wells of the Gulf of Mexico to which region?"
+   },
+   "options": {
+    "te": [
+     "మధ్య రాష్ట్రాలు",
+     "పశ్చిమ రాష్ట్రాలు",
+     "దక్షిణ రాష్ట్రాలు",
+     "ఈశాన్య రాష్ట్రాలు"
+    ],
+    "en": [
+     "Central States",
+     "Western States",
+     "Southern States",
+     "North-eastern States"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "బిగ్ ఇంచ్ అనేది మెక్సికో సింధుశాఖ నుండి అమెరికాలోని ఈశాన్య రాష్ట్రాలకు పెట్రోలియంను రవాణా చేసే ప్రసిద్ధ పైప్‌లైన్.",
+    "en": "The Big Inch is a famous pipeline that transports petroleum from the Gulf of Mexico to the North-eastern States of the USA."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T27-0112",
+   "section": {
+    "te": "African Railways",
+    "en": "African Railways"
+   },
+   "q": {
+    "te": "ప్రకటన (A): ఆఫ్రికా ఖండంలోని మొత్తం రైల్వే పొడవులో దక్షిణాఫ్రికా దాదాపు 45% కలిగి ఉంది.\nకారణం (R): దక్షిణాఫ్రికాలో బంగారం, వజ్రం మరియు రాగి మైనింగ్ కార్యకలాపాలు ఎక్కువగా కేంద్రీకృతమై ఉన్నాయి.",
+    "en": "Assertion (A): South Africa accounts for nearly 45% of the total railway length in the African continent.\nReason (R): There is a high concentration of gold, diamond, and copper mining activities in South Africa."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఆఫ్రికాలోని 40,000 కిలోమీటర్లలో దక్షిణాఫ్రికా 18,000 కిలోమీటర్లను (45%) కలిగి ఉంది మరియు పాఠ్య భాగం దీనిని మైనింగ్ కార్యకలాపాలతో స్పష్టంగా ముడిపెట్టింది.",
+    "en": "South Africa has 18,000 km out of Africa's 40,000 km (45%), and the text explicitly links this to mining activities."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T27-0322",
+   "section": {
+    "te": "Port Regulation",
+    "en": "Port Regulation"
+   },
+   "q": {
+    "te": "భారతదేశంలో ఓడరేవుల నియంత్రణకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ప్రధాన ఓడరేవుల విధానాన్ని కేంద్ర ప్రభుత్వం నిర్ణయిస్తుంది.\n2. చిన్న ఓడరేవులను రాష్ట్ర ప్రభుత్వాలు నియంత్రిస్తాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding port regulation in India:\n1. The policy for major ports is decided by the Central Government.\n2. Minor ports are regulated by the State Governments.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 లేదా 2 ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రధాన ఓడరేవులను కేంద్ర ప్రభుత్వం నియంత్రిస్తుంది, చిన్న ఓడరేవులను రాష్ట్ర ప్రభుత్వాలు నియంత్రిస్తాయి.",
+    "en": "The central government regulates major ports, while state governments regulate minor ports."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T27-0022",
+   "section": {
+    "te": "North-South Corridor",
+    "en": "North-South Corridor"
+   },
+   "q": {
+    "te": "సూపర్ హైవేల ప్రాజెక్ట్ కింద ఉత్తర-దక్షిణ కారిడార్ (North-South corridor) ఏ రెండు చివరలను అనుసంధానిస్తుంది?",
+    "en": "Under the Super Highways project, the North-South corridor connects which two terminal locations?"
+   },
+   "options": {
+    "te": [
+     "శ్రీనగర్ మరియు కన్యాకుమారి",
+     "జమ్ము మరియు తిరువనంతపురం",
+     "లేహ్ మరియు కన్యాకుమారి",
+     "శ్రీనగర్ మరియు కొచ్చి"
+    ],
+    "en": [
+     "Srinagar and Kanniyakumari",
+     "Jammu and Thiruvananthapuram",
+     "Leh and Kanyakumari",
+     "Srinagar and Kochi"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఉత్తర-దక్షిణ కారిడార్ జమ్మూ కాశ్మీర్‌లోని శ్రీనగర్‌ను తమిళనాడులోని కన్యాకుమారితో కలుపుతుంది.",
+    "en": "The North-South corridor links Srinagar (Jammu & Kashmir) and Kanniyakumari (Tamil Nadu)."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T27-0205",
+   "section": {
+    "te": "Types of Ports",
+    "en": "Types of Ports"
+   },
+   "q": {
+    "te": "అధిక పరిమాణంలో బల్క్ (bulk) మరియు సాధారణ సరుకును (general cargo) నిర్వహించే ఓడరేవులను ఏమని పిలుస్తారు?",
+    "en": "What type of ports are characterized by handling bulk and general cargo in large volumes?"
+   },
+   "options": {
+    "te": [
+     "ప్యాకెట్ స్టేషన్లు",
+     "వాణిజ్య ఓడరేవులు",
+     "పారిశ్రామిక ఓడరేవులు",
+     "సమగ్ర ఓడరేవులు (Comprehensive Ports)"
+    ],
+    "en": [
+     "Packet Stations",
+     "Commercial Ports",
+     "Industrial Ports",
+     "Comprehensive Ports"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అధిక పరిమాణంలో బల్క్ మరియు సాధారణ సరుకును నిర్వహించే వాటిని సమగ్ర ఓడరేవులుగా నిర్వచించారు.",
+    "en": "Comprehensive ports are defined as those that handle both bulk and general cargo in large volumes."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T27-0033",
+   "section": {
+    "te": "Metalled road materials",
+    "en": "Metalled road materials"
+   },
+   "q": {
+    "te": "భారతదేశంలో అన్ని కాలాలలోనూ ఉపయోగపడే మెటల్ రోడ్లను (Metalled roads) ఈ క్రింది ఏ పదార్థాలతో నిర్మించవచ్చు?",
+    "en": "Metalled roads in India are all-weather roads that may be made of which of the following materials?"
+   },
+   "options": {
+    "te": [
+     "సిమెంట్ లేదా కాంక్రీట్",
+     "బొగ్గు తారు (బిటుమిన్)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Cement or concrete",
+     "Bitumen of coal",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం మెటల్ రోడ్లను సిమెంట్, కాంక్రీట్ లేదా బొగ్గు తారుతో నిర్మిస్తారు, కాబట్టి ఇవి అన్ని కాలాల్లో ఉపయోగపడే రహదారులు.",
+    "en": "Metalled roads may be made of cement, concrete or bitumen of coal, making them all-weather roads."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T27-0211",
+   "section": {
+    "te": "Packet Stations",
+    "en": "Packet Stations"
+   },
+   "q": {
+    "te": "ఇంగ్లీష్ ఛానల్ మీదుగా ఉన్న ప్యాకెట్ స్టేషన్ల (ఫెర్రీ పోర్టులు) జంట ఏది?",
+    "en": "Which pair of packet stations (ferry ports) is located across the English Channel?"
+   },
+   "options": {
+    "te": [
+     "మాన్‌హీమ్ మరియు డ్యూయిస్‌బర్గ్",
+     "ఏథెన్స్ మరియు పిరయస్",
+     "కొచ్చి మరియు కార్వార్",
+     "డోవర్ మరియు కలైస్"
+    ],
+    "en": [
+     "Mannheim and Duisburg",
+     "Athens and Piraeus",
+     "Kochi and Karwar",
+     "Dover and Calais"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఇంగ్లాండ్‌లోని డోవర్ మరియు ఫ్రాన్స్‌లోని కలైస్ ఇంగ్లీష్ ఛానల్ మీదుగా ఉన్న ప్యాకెట్ స్టేషన్లకు ఉదాహరణలు.",
+    "en": "Dover in England and Calais in France are examples of packet stations located across the English Channel."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T27-0189",
+   "section": {
+    "te": "USA pipeline freight",
+    "en": "USA pipeline freight"
+   },
+   "q": {
+    "te": "అమెరికాలో పైప్‌లైన్‌ల ద్వారా ఎన్ని టన్ను-కిమీ సరుకు రవాణా చేయబడుతుంది?",
+    "en": "What percentage of all freight per tonne-km is carried through pipelines in the U.S.A.?"
+   },
+   "options": {
+    "te": [
+     "25 శాతం",
+     "17 శాతం",
+     "60 శాతం",
+     "10 శాతం"
+    ],
+    "en": [
+     "25%",
+     "17%",
+     "60%",
+     "10%"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అమెరికాలో, టన్ను-కిమీలో కొలిచిన మొత్తం సరుకు రవాణాలో సుమారు 17 శాతం పైప్‌లైన్‌ల ద్వారా జరుగుతుంది.",
+    "en": "In the U.S.A., pipelines carry approximately 17 per cent of all freight measured in tonne-km."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T27-0281",
+   "section": {
+    "te": "Airport Authority of India",
+    "en": "Airport Authority of India"
+   },
+   "q": {
+    "te": "ఎయిర్‌పోర్ట్ అథారిటీ ఆఫ్ ఇండియా (AAI) ఈ క్రింది ఏ సేవలను అందిస్తుంది?",
+    "en": "Which of the following services are provided by the Airport Authority of India (AAI)?"
+   },
+   "options": {
+    "te": [
+     "సురక్షితమైన మరియు సమర్థవంతమైన విమాన ట్రాఫిక్ సేవలు",
+     "ఏరోనాటికల్ కమ్యూనికేషన్ సేవలు",
+     "A మరియు B రెండూ",
+     "ముడి చమురు అన్వేషణ"
+    ],
+    "en": [
+     "Safe and efficient air traffic services",
+     "Aeronautical communication services",
+     "Both A and B",
+     "Exploration of crude oil"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతీయ గగనతలంలో విమాన ట్రాఫిక్ సేవలు మరియు ఏరోనాటికల్ కమ్యూనికేషన్ సేవలు రెండింటికీ AAI బాధ్యత వహిస్తుంది.",
+    "en": "AAI is responsible for both air traffic services and aeronautical communication services within Indian Air Space."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T27-0255",
+   "section": {
+    "te": "Konkan Railway Partners",
+    "en": "Konkan Railway Partners"
+   },
+   "q": {
+    "te": "కొంకణ్ రైల్వే ప్రాజెక్టులో భాగస్వాములుగా ఉన్న రాష్ట్రాలు ఏవి?",
+    "en": "Which of the following states are partners in the Konkan Railway undertaking?"
+   },
+   "options": {
+    "te": [
+     "మహారాష్ట్ర, గోవా మరియు కర్ణాటక",
+     "మహారాష్ట్ర, గుజరాత్ మరియు గోవా",
+     "కర్ణాటక, కేరళ మరియు గోవా",
+     "మహారాష్ట్ర, కర్ణాటక మరియు కేరళ"
+    ],
+    "en": [
+     "Maharashtra, Goa and Karnataka",
+     "Maharashtra, Gujarat and Goa",
+     "Karnataka, Kerala and Goa",
+     "Maharashtra, Karnataka and Kerala"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "కొంకణ్ రైల్వే అనేది మహారాష్ట్ర, గోవా మరియు కర్ణాటక రాష్ట్రాలతో కూడిన ఉమ్మడి సంస్థ.",
+    "en": "The Konkan Railway is a joint undertaking involving the states of Maharashtra, Goa, and Karnataka."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T27-0120",
+   "section": {
+    "te": "Alaskan Highway",
+    "en": "Alaskan Highway"
+   },
+   "q": {
+    "te": "అలాస్కాన్ హైవే కింది ఏ రెండు ప్రాంతాలను కలుపుతుంది?",
+    "en": "The Alaskan Highway connects which of the following two locations?"
+   },
+   "options": {
+    "te": [
+     "వాంకోవర్ మరియు సెయింట్ జాన్స్ సిటీ",
+     "డార్విన్ మరియు మెల్బోర్న్",
+     "అల్జీర్స్ మరియు కొనక్రీ",
+     "ఎడ్మంటన్ మరియు యాంకరేజ్"
+    ],
+    "en": [
+     "Vancouver and St. John’s City",
+     "Darwin and Melbourne",
+     "Algiers and Conakry",
+     "Edmonton and Anchorage"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అలాస్కాన్ హైవే కెనడాలోని ఎడ్మంటన్‌ను అలాస్కాలోని యాంకరేజ్‌తో కలుపుతుంది.",
+    "en": "The Alaskan Highway links Edmonton in Canada to Anchorage in Alaska."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T27-0129",
+   "section": {
+    "te": "Trans-Siberian Railway length",
+    "en": "Trans-Siberian Railway length"
+   },
+   "q": {
+    "te": "ప్రపంచంలోనే అత్యంత పొడవైన విద్యుదీకరించబడిన ట్రాన్స్-కాంటినెంటల్ రైల్వే అయిన ట్రాన్స్-సైబీరియన్ రైల్వే మొత్తం పొడవు ఎంత?",
+    "en": "What is the total length of the Trans-Siberian Railway, the longest electrified trans-continental railway in the world?"
+   },
+   "options": {
+    "te": [
+     "7,050 కి.మీ.",
+     "9,332 కి.మీ.",
+     "8,450 కి.మీ.",
+     "9,120 కి.మీ."
+    ],
+    "en": [
+     "7,050 km",
+     "9,332 km",
+     "8,450 km",
+     "9,120 km"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ట్రాన్స్-సైబీరియన్ రైల్వే 9,332 కి.మీ. పొడవుతో ప్రపంచంలోనే అత్యంత పొడవైన డబుల్ ట్రాక్ మరియు విద్యుదీకరించబడిన రైలు మార్గంగా నిలిచింది.",
+    "en": "The Trans-Siberian Railway is 9,332 km long, making it the longest double-tracked and electrified trans-continental railway in the world."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T27-0170",
+   "section": {
+    "te": "Great Lakes Canals",
+    "en": "Great Lakes Canals"
+   },
+   "q": {
+    "te": "ఉత్తర అమెరికాలోని గ్రేట్ లేక్స్‌ను నిరంతర అంతర్గత జలమార్గంగా మార్చడానికి ఈ క్రింది ఏ కాలువలు కలుపుతాయి?",
+    "en": "Which of the following canals connect the Great Lakes of North America to form a continuous inland waterway?"
+   },
+   "options": {
+    "te": [
+     "సూ కాలువ",
+     "వెల్లాండ్ కాలువ",
+     "A మరియు B రెండూ",
+     "వోల్గా-డాన్ కాలువ"
+    ],
+    "en": [
+     "Soo Canal",
+     "Welland Canal",
+     "Both A and B",
+     "Volga-Don Canal"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "గ్రేట్ లేక్స్ (సుపీరియర్, హురాన్, ఎరీ మరియు అంటారియో) సూ మరియు వెల్లాండ్ కాలువలు రెండింటి ద్వారా అనుసంధానించబడి ఉన్నాయి.",
+    "en": "The Great Lakes (Superior, Huron, Erie, and Ontario) are linked by both the Soo and Welland canals."
+   }
+  }
+ ]
+}

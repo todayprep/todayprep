@@ -1,0 +1,942 @@
+{
+ "id": "geo-29-c-3",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Natural Resources and Conservation – క్విజ్ 3",
+  "en": "Natural Resources and Conservation – Quiz 3"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T29-0158",
+   "section": {
+    "te": "Atal Bhujal Yojana Objectives",
+    "en": "Atal Bhujal Yojana Objectives"
+   },
+   "q": {
+    "te": "అటల్ భూజల్ యోజన (అటల్ జల్) సమాజంలో తీసుకురావాలని లక్ష్యంగా పెట్టుకున్న కీలక ప్రవర్తనా మార్పు ఏమిటి?",
+    "en": "What is a key behavioural change that the Atal Bhujal Yojana (Atal Jal) aims to bring in the community?"
+   },
+   "options": {
+    "te": [
+     "నీటి పారుదల నుండి చేపల పెంపకానికి",
+     "గ్రామీణ ప్రాంతాల నుండి పట్టణాలకు వలస వెళ్లడం",
+     "వినియోగం నుండి పరిరక్షణకు",
+     "పరిరక్షణ నుండి వినియోగానికి"
+    ],
+    "en": [
+     "From irrigation to fisheries",
+     "From rural to urban migration",
+     "From consumption to conservation",
+     "From conservation to consumption"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అటల్ జల్ సమాజం యొక్క వైఖరిని వినియోగం నుండి పరిరక్షణ మరియు స్మార్ట్ వాటర్ మేనేజ్‌మెంట్ వైపు మార్చాలని లక్ష్యంగా పెట్టుకుంది.",
+    "en": "Atal Jal aims to change the community's attitude from consumption to conservation and smart water management."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T29-0064",
+   "section": {
+    "te": "Ladakh Resource Characteristics",
+    "en": "Ladakh Resource Characteristics"
+   },
+   "q": {
+    "te": "లడఖ్ శీతల ఎడారికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది దేశంలోని ఇతర ప్రాంతాల నుండి సంబంధం లేకుండా ఒంటరిగా ఉంది.\n2. ఇది ఎంతో గొప్ప సాంస్కృతిక వారసత్వాన్ని కలిగి ఉంది.\n3. ఇది ముఖ్యమైన ఖనిజాలు మరియు సమృద్ధిగా నీటి వనరులను కలిగి ఉంది.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding the cold desert of Ladakh:\n1. It is relatively isolated from the rest of the country.\n2. It has a very rich cultural heritage.\n3. It possesses abundant reserves of vital minerals and water resources.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "లడఖ్ దేశంలోని ఇతర ప్రాంతాల నుండి వేరుగా ఉండి, గొప్ప సాంస్కృతిక వారసత్వం కలిగి ఉంది; కానీ ఇది నీరు, మౌలిక సదుపాయాలు మరియు కొన్ని ముఖ్య ఖనిజాల కొరతను ఎదుర్కొంటోంది.",
+    "en": "Statements 1 and 2 are correct. Statement 3 is incorrect because Ladakh is deficient in water, infrastructure, and some vital minerals."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T29-0024",
+   "section": {
+    "te": "Role of Tuna in ecosystem",
+    "en": "Role of Tuna in ecosystem"
+   },
+   "q": {
+    "te": "సముద్ర పర్యావరణ వ్యవస్థను సమతుల్యంగా ఉంచడంలో ట్యూనా చేప ఎలా సహాయపడుతుంది?",
+    "en": "How does the tuna fish help in keeping the ocean ecosystem in balance?"
+   },
+   "options": {
+    "te": [
+     "ఇతర సముద్ర జీవుల కోసం ఆక్సిజన్‌ను ఉత్పత్తి చేయడం ద్వారా",
+     "చిన్న చేపలు మరియు రొయ్యలను తినడం ద్వారా",
+     "ఏటా వివిధ మహాసముద్రాలకు వలస వెళ్లడం ద్వారా",
+     "సముద్రపు అడుగుభాగంలోని వ్యర్థాలను శుభ్రం చేయడం ద్వారా"
+    ],
+    "en": [
+     "By producing oxygen for other marine life",
+     "By consuming smaller fish and shrimps",
+     "By migrating to different oceans annually",
+     "By cleaning the ocean floor of waste"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ట్యూనా చిన్న చేపలు మరియు రొయ్యలను తినడం ద్వారా సముద్ర పర్యావరణ వ్యవస్థను సమతుల్యంగా ఉంచుతుందని పాఠ్యం పేర్కొంది.",
+    "en": "Tuna keeps the ocean ecosystem in balance by consuming smaller fish and shrimps."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T29-0018",
+   "section": {
+    "te": "Water reuse",
+    "en": "Water reuse"
+   },
+   "q": {
+    "te": "థార్ ఎడారిలో, పాత్రలను కడగడానికి ఉపయోగించిన నీటిని సాధారణంగా ఏ విధంగా పునర్వినియోగిస్తారు?",
+    "en": "In the Thar Desert, what is a common way the water used for rinsing utensils is reused?"
+   },
+   "options": {
+    "te": [
+     "పారిశ్రామిక మైనింగ్ కోసం",
+     "మొక్కలకు నీరు పోయడానికి",
+     "త్రాగడానికి",
+     "మరిన్ని పాత్రలను శుభ్రం చేయడానికి"
+    ],
+    "en": [
+     "For industrial mining",
+     "For watering a plant",
+     "For drinking",
+     "For cleaning more utensils"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "థార్ ఎడారిలో, పాత్రలను కడిగిన నీటిని మొక్కలకు నీరు పోయడం వంటి పనుల కోసం పునర్వినియోగిస్తారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "In the Thar Desert, water used for a light rinse is reused for purposes like watering a plant."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T29-0062",
+   "section": {
+    "te": "Mineral Resources Distribution",
+    "en": "Mineral Resources Distribution"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఏ భారతీయ రాష్ట్రాల సమూహం ఖనిజాలు మరియు బొగ్గు నిల్వలకు సమృద్ధిగా పేరొందింది?",
+    "en": "Which of the following groups of Indian states is specifically mentioned as being rich in minerals and coal deposits?"
+   },
+   "options": {
+    "te": [
+     "రాజస్థాన్, గుజరాత్ మరియు పంజాబ్",
+     "అరుణాచల్ ప్రదేశ్, అసోం మరియు మేఘాలయ",
+     "కేరళ, తమిళనాడు మరియు కర్ణాటక",
+     "జార్ఖండ్, ఛత్తీస్‌గఢ్ మరియు మధ్యప్రదేశ్"
+    ],
+    "en": [
+     "Rajasthan, Gujarat and Punjab",
+     "Arunachal Pradesh, Assam and Meghalaya",
+     "Kerala, Tamil Nadu and Karnataka",
+     "Jharkhand, Chhattisgarh and Madhya Pradesh"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జార్ఖండ్, ఛత్తీస్‌గఢ్ మరియు మధ్యప్రదేశ్ రాష్ట్రాలు ఖనిజాలు మరియు బొగ్గు నిల్వలతో సమృద్ధిగా ఉన్నాయి.",
+    "en": "Jharkhand, Chhattisgarh, and Madhya Pradesh are highlighted as regions rich in minerals and coal deposits."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T29-0126",
+   "section": {
+    "te": "Gendathur water collection statistics",
+    "en": "Gendathur water collection statistics"
+   },
+   "q": {
+    "te": "గెండత్తూర్ గ్రామంలోని వర్షపు నీటి సంరక్షణ వ్యవస్థకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఈ గ్రామం సంవత్సరానికి 1,000 మి.మీ. వర్షపాతం పొందుతుంది.\n2. 80 శాతం సేకరణ సామర్థ్యంతో, ప్రతి ఇల్లు ఏటా దాదాపు 50,000 లీటర్ల నీటిని సేకరించి ఉపయోగించుకోగలదు.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "With reference to the rainwater harvesting system in Gendathur village, consider the following statements:\n1. The village receives an annual precipitation of 1,000 mm.\n2. With 80 per cent collection efficiency, each house can collect and use about 50,000 litres of water annually.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రెండు ప్రకటనలు సరైనవే. గెండత్తూర్ 1,000 మి.మీ. వార్షిక వర్షపాతం పొందుతుంది, 80 శాతం సేకరణ సామర్థ్యంతో దాదాపు 10 నింపుడులలో ప్రతి ఇల్లు ఏటా 50,000 లీటర్ల నీటిని నిల్వ చేసుకోగలదు.",
+    "en": "Both statements are correct. Gendathur receives 1,000 mm annual rainfall, and with 80% collection efficiency over about 10 fillings, each house can harvest approximately 50,000 litres of water annually."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T29-0198",
+   "section": {
+    "te": "Sectoral Planning Definition",
+    "en": "Sectoral Planning Definition"
+   },
+   "q": {
+    "te": "వ్యవసాయం, సాగునీరు, తయారీ రంగం వంటి ఆర్థిక వ్యవస్థలోని వివిధ రంగాల అభివృద్ధి కోసం పథకాలను రూపొందించి అమలు చేయడాన్ని ఏమంటారు?",
+    "en": "Formulation and implementation of schemes aimed at the development of various sectors of the economy such as agriculture, irrigation, and manufacturing is known as:"
+   },
+   "options": {
+    "te": [
+     "ప్రాంతీయ ప్రణాళిక (Regional planning)",
+     "రంగాలవారీ ప్రణాళిక (Sectoral planning)",
+     "లక్ష్యిత ప్రాంత ప్రణాళిక (Target area planning)",
+     "ప్రాదేశిక ప్రణాళిక (Spatial planning)"
+    ],
+    "en": [
+     "Regional planning",
+     "Sectoral planning",
+     "Target area planning",
+     "Spatial planning"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఆర్థిక వ్యవస్థలోని వ్యవసాయం, సాగునీరు, తయారీ వంటి వివిధ రంగాల అభివృద్ధికి పథకాలను రూపొందించి అమలు చేయడాన్ని రంగాలవారీ ప్రణాళిక అంటారు.",
+    "en": "Sectoral planning refers to the formulation and implementation of programmes aimed at developing various sectors of the economy."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T29-0152",
+   "section": {
+    "te": "Watershed Management Scope",
+    "en": "Watershed Management Scope"
+   },
+   "q": {
+    "te": "విస్తృత అర్థంలో, వాటర్‌షెడ్ మేనేజ్‌మెంట్ ఈ క్రింది ఏ వనరుల పరిరక్షణ మరియు వివేకవంతమైన వినియోగాన్ని కలిగి ఉంటుంది?",
+    "en": "In a broad sense, watershed management includes the conservation and judicious use of which of the following resources?"
+   },
+   "options": {
+    "te": [
+     "సహజ వనరులు (భూమి, నీరు, మొక్కలు, జంతువులు)",
+     "మానవ వనరులు",
+     "A మరియు B రెండూ",
+     "నీటి వనరులు మాత్రమే"
+    ],
+    "en": [
+     "Natural resources (land, water, plants, animals)",
+     "Human resources",
+     "Both A and B",
+     "Only water resources"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "విస్తృతార్థంలో, వాటర్‌షెడ్ మేనేజ్‌మెంట్ అనేది వాటర్‌షెడ్‌లోని సహజ వనరులు (భూమి, నీరు, మొక్కలు, జంతువులు) మరియు మానవ వనరులు రెండింటినీ కలిగి ఉంటుంది.",
+    "en": "Broadly, watershed management includes both natural resources (land, water, plants, animals) and human resources within the watershed."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T29-0217",
+   "section": {
+    "te": "Transhumance Proportion in Bharmaur",
+    "en": "Transhumance Proportion in Bharmaur"
+   },
+   "q": {
+    "te": "ప్రస్తుతం భర్మార్ ప్రాంతంలో మొత్తం కుటుంబాలలో సుమారు ఎంత వంతు మాత్రమే రుతుసంబంధ పశువుల వలసను (transhumance) ఆచరిస్తున్నారు?",
+    "en": "At present, approximately what proportion of the total households in the Bharmaur region practise transhumance?"
+   },
+   "options": {
+    "te": [
+     "నాల్గవ వంతు (One-fourth)",
+     "మూడవ వంతు (One-third)",
+     "సగం వంతు (One-half)",
+     "పదవ వంతు (One-tenth)"
+    ],
+    "en": [
+     "One-fourth",
+     "One-third",
+     "One-half",
+     "One-tenth"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పశుపోషణ ప్రాధాన్యత తగ్గడాన్ని సూచిస్తూ, ప్రస్తుతం భర్మార్‌లోని మొత్తం కుటుంబాలలో పదవ వంతు మాత్రమే రుతుసంబంధ వలసను కొనసాగిస్తున్నారు.",
+    "en": "The declining role of pastoralism is evident from the fact that only about one-tenth of total households currently practise transhumance in Bharmaur."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T29-0015",
+   "section": {
+    "te": "Types of natural treasures",
+    "en": "Types of natural treasures"
+   },
+   "q": {
+    "te": "కింది సహజ వస్తువులను పరిశీలించండి:\n1. నీరు మరియు గాలి\n2. బొగ్గు మరియు పెట్రోలియం\n3. విలువైన రాళ్లు మరియు లోహపు ఖనిజాలు\nవీటిలో ఏవి మిలియన్ల సంవత్సరాలుగా ఏర్పడిన భూమి యొక్క 'నిధులు' (treasures) గా వర్ణించబడ్డాయి?",
+    "en": "Consider the following natural entities:\n1. Water and Air\n2. Coal and Petroleum\n3. Precious stones and Metal ores\nWhich of these are described as 'treasures' of the Earth that formed over millions of years?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నీరు, గాలి, నేల, బొగ్గు, పెట్రోలియం, విలువైన రాళ్లు, లోహపు ఖనిజాలు మరియు కలపను మిలియన్ల సంవత్సరాలుగా ఏర్పడిన నిధులుగా పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text lists water, air, soil, coal, petroleum, precious stones, metal ores, and timber as treasures formed over millions of years."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T29-0145",
+   "section": {
+    "te": "Groundwater Pollution",
+    "en": "Groundwater Pollution"
+   },
+   "q": {
+    "te": "భారతదేశంలోని వివిధ ప్రాంతాలలో భూగర్భ జలాల కాలుష్యం ఈ క్రింది వాటిలో వేటి అధిక సాంద్రత వల్ల సంభవించింది?",
+    "en": "Groundwater pollution in various parts of India has occurred due to high concentrations of which of the following?"
+   },
+   "options": {
+    "te": [
+     "ఫ్లోరైడ్ మరియు నైట్రేట్లు",
+     "భారీ/విషపూరిత లోహాలు",
+     "A మరియు B రెండూ",
+     "సేంద్రీయ మరియు బాక్టీరియా కాలుష్యం"
+    ],
+    "en": [
+     "Fluoride and Nitrates",
+     "Heavy/toxic metals",
+     "Both A and B",
+     "Organic and bacterial contamination"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూగర్భ జలాల కాలుష్యానికి భారీ/విషపూరిత లోహాలు, ఫ్లోరైడ్ మరియు నైట్రేట్లు కారణాలని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Heavy/toxic metals, fluoride, and nitrates as causes for groundwater pollution."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T29-0132",
+   "section": {
+    "te": "Urban Forestry Scope",
+    "en": "Urban Forestry Scope"
+   },
+   "q": {
+    "te": "పట్టణ అటవీ పెంపకం (Urban forestry) కింది ఏ ప్రాంతాలలో చెట్ల నిర్వహణను కలిగి ఉంటుంది?",
+    "en": "Urban forestry involves the management of trees in which of the following areas?"
+   },
+   "options": {
+    "te": [
+     "గ్రీన్ బెల్ట్‌లు మరియు పార్కులు",
+     "రోడ్డు పక్కన అవెన్యూలు",
+     "పారిశ్రామిక మరియు వాణిజ్య గ్రీన్ బెల్ట్‌లు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Green belts and parks",
+     "Roadside avenues",
+     "Industrial and commercial green belts",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పట్టణ అటవీ పెంపకం పార్కులు, రోడ్ల పక్కన మరియు పారిశ్రామిక గ్రీన్ బెల్ట్‌లతో సహా పట్టణ ప్రాంతాల్లోని ప్రభుత్వ మరియు ప్రైవేట్ భూములలో చెట్ల నిర్వహణను కవర్ చేస్తుంది.",
+    "en": "Urban forestry covers the management of trees on both public and private lands in urban areas, including parks, roadsides, and industrial green belts."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T29-0142",
+   "section": {
+    "te": "Groundwater Pollution",
+    "en": "Groundwater Pollution"
+   },
+   "q": {
+    "te": "ఉపరితల జలవనరులలోని విషపూరిత పదార్థాలు చివరికి భూగర్భ జలాలను ఎలా ప్రభావితం చేస్తాయి?",
+    "en": "How can toxic substances in surface water bodies eventually affect groundwater?"
+   },
+   "options": {
+    "te": [
+     "ఆవిరైపోయి మళ్ళీ వర్షంగా పడటం ద్వారా",
+     "నేల ద్వారా కిందికి ఇంకడం (seep down) ద్వారా",
+     "జలచరాలు వాటిని తీసుకోవడం ద్వారా",
+     "విషపూరిత పదార్థాలు భూగర్భ జలాలను ప్రభావితం చేయలేవు"
+    ],
+    "en": [
+     "By evaporating and falling back as rain",
+     "By seeping down through the soil",
+     "By being consumed by aquatic animals",
+     "Toxic substances cannot affect groundwater"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఉపరితల జలవనరులలోని కాలుష్య కారకాలు కిందికి ఇంకి, కింద ఉన్న భూగర్భ జలాలను కలుషితం చేస్తాయని పాఠ్య భాగం పేర్కొంది.",
+    "en": "Pollutants in surface water bodies can seep down and pollute the groundwater beneath."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T29-0225",
+   "section": {
+    "te": "Environmental Issues",
+    "en": "Environmental Issues"
+   },
+   "q": {
+    "te": "తీవ్రమైన నీటి పారుదల కారణంగా ఇందిరా గాంధీ కెనాల్ కమాండ్ ఏరియాలో ఏ జంట పర్యావరణ సమస్యలు తలెత్తాయి?",
+    "en": "Which twin environmental problems have emerged in the Indira Gandhi Canal command area due to intensive irrigation?"
+   },
+   "options": {
+    "te": [
+     "గ్లోబల్ వార్మింగ్ మరియు ఆమ్ల వర్షం",
+     "నేల కోత మరియు కరువు",
+     "అడవుల నరికివేత మరియు వాయు కాలుష్యం",
+     "నీటి నిల్వ (Waterlogging) మరియు నేల లవణీయత (Soil salinity)"
+    ],
+    "en": [
+     "Global warming and Acid rain",
+     "Soil erosion and Drought",
+     "Deforestation and Air pollution",
+     "Waterlogging and Soil salinity"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఈ ప్రాంతంలో తీవ్రమైన నీటి పారుదల మరియు అధిక నీటి వినియోగం వల్ల నీటి నిల్వ మరియు నేల లవణీయత సమస్యలు ఏర్పడ్డాయి.",
+    "en": "Intensive irrigation and excessive water use in the region have led to waterlogging and soil salinity."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T29-0110",
+   "section": {
+    "te": "Submergence Impacts",
+    "en": "Submergence Impacts"
+   },
+   "q": {
+    "te": "వరద మైదానాలలో నిర్మించిన జలాశయాల వల్ల ఇప్పటికే ఉన్న వృక్షసంపద మరియు నేల మునిగిపోయినప్పుడు ఏమవుతుంది?",
+    "en": "What happens to the existing vegetation and soil when they are submerged by reservoirs created on floodplains?"
+   },
+   "options": {
+    "te": [
+     "అవి నీటికి సహజ వడపోతలుగా పనిచేస్తాయి",
+     "అవి కాలక్రమేణా కుళ్ళిపోతాయి (decomposition)",
+     "అవి భూకంపాలను నివారిస్తాయి",
+     "అవి నేల సారవంతం కావడానికి దారితీస్తాయి"
+    ],
+    "en": [
+     "They act as natural filters for water",
+     "They undergo decomposition over time",
+     "They prevent earthquakes",
+     "They lead to soil enrichment"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వరద మైదానాల్లోని జలాశయాల వల్ల మునిగిపోయిన వృక్షసంపద మరియు నేల కాలక్రమేణా కుళ్ళిపోతాయి.",
+    "en": "Vegetation and soil submerged by reservoirs on floodplains eventually decompose over a period of time."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T29-0066",
+   "section": {
+    "te": "Colonisation and Technology",
+    "en": "Colonisation and Technology"
+   },
+   "q": {
+    "te": "వలస పాలక దేశాలు ఇతర ప్రాంతాల వనరులను దోచుకోవడానికి మరియు ఆ వలసలపై తమ ఆధిపత్యాన్ని స్థాపించడానికి ప్రాథమికంగా ఏది సహాయపడింది?",
+    "en": "What primarily enabled colonising nations to exploit the rich resources of other regions and establish supremacy over colonies?"
+   },
+   "options": {
+    "te": [
+     "కేవలం అత్యధిక సైనిక బలం మాత్రమే",
+     "అనుకూలమైన భౌగోళిక ప్రాంతం",
+     "సాంకేతిక అభివృద్ధిలో ఉన్నత స్థాయి",
+     "స్వదేశంలో అపారమైన ఖనిజ నిల్వలు ఉండటం"
+    ],
+    "en": [
+     "Superior military manpower alone",
+     "Favourable geographical terrain",
+     "Higher level of technological development",
+     "Presence of vast domestic mineral reserves"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వలస పాలక దేశాలలోని ఉన్నత స్థాయి సాంకేతిక పరిజ్ఞానమే ఇతర ప్రాంతాల వనరులను వినియోగించుకుని వాటిపై ఆధిపత్యాన్ని చెలాయించడానికి తోడ్పడింది.",
+    "en": "The higher level of technological development of colonising countries primarily helped them exploit resources and establish supremacy."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T29-0125",
+   "section": {
+    "te": "Gendathur rainwater status",
+    "en": "Gendathur rainwater status"
+   },
+   "q": {
+    "te": "గెండత్తూర్ గ్రామంలో దాదాపు ఎన్ని గృహాలు పైకప్పు వర్షపు నీటి సంరక్షణ వ్యవస్థను ఏర్పాటు చేసుకొని, వర్షపు నీటిలో సమృద్ధిగా ఉన్న అరుదైన గుర్తింపును పొందాయి?",
+    "en": "How many households in Gendathur village have installed rooftop rainwater harvesting systems, earning it the rare distinction of being rich in rainwater?"
+   },
+   "options": {
+    "te": [
+     "దాదాపు 100 గృహాలు",
+     "దాదాపు 500 గృహాలు",
+     "దాదాపు 1,000 గృహాలు",
+     "దాదాపు 200 గృహాలు"
+    ],
+    "en": [
+     "Nearly 100 households",
+     "Nearly 500 households",
+     "Nearly 1,000 households",
+     "Nearly 200 households"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "గెండత్తూర్ గ్రామంలో దాదాపు 200 గృహాలు పైకప్పు వర్షపు నీటి సంరక్షణ వ్యవస్థను ఏర్పాటు చేసుకుని, వర్షపు నీటి సంపన్న గ్రామంగా గుర్తింపు పొందాయి.",
+    "en": "Nearly 200 households in Gendathur installed rooftop rainwater harvesting systems, making the village rich in rainwater."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T29-0172",
+   "section": {
+    "te": "Coastal Aquifers Protection",
+    "en": "Coastal Aquifers Protection"
+   },
+   "q": {
+    "te": "తీరప్రాంతాలలో, వర్షపు నీటితో జలధరలను (aquifers) రీఛార్జ్ చేయడం క్రింది ఏ సమస్యను నివారించడంలో ప్రత్యేకంగా సహాయపడుతుంది?",
+    "en": "In coastal regions, recharging aquifers through rainwater harvesting is specifically effective in preventing which of the following phenomena?"
+   },
+   "options": {
+    "te": [
+     "నేల ద్రవీకరణ",
+     "ఉష్ణ విస్తరణ",
+     "ఉప్పు నీటి చొరబాటు (సాల్ట్ వాటర్ ఇంట్రూజన్)",
+     "మేఘ విస్ఫోటనం"
+    ],
+    "en": [
+     "Soil liquefaction",
+     "Thermal expansion",
+     "Salt water intrusion",
+     "Cloud bursts"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వర్షపు నీటితో జలధరలను రీఛార్జ్ చేయడం వల్ల తీరప్రాంతాలలోకి సముద్రపు ఉప్పునీరు చొరబడకుండా అరికట్టవచ్చు.",
+    "en": "Recharging aquifers through rainwater harvesting arrests salt water intrusion in coastal areas."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T29-0183",
+   "section": {
+    "te": "Water as economic good",
+    "en": "Water as economic good"
+   },
+   "q": {
+    "te": "జాతీయ నీటి విధానం 2012 ప్రకారం, క్రింది ఏ ప్రాథమిక అవసరాలను తీర్చిన తర్వాత మాత్రమే నీటిని ఆర్థిక వస్తువుగా (economic good) పరిగణించాలి?\n1. సురక్షిత తాగునీరు మరియు పారిశుధ్యం\n2. ఆహార భద్రత సాధించడం\n3. కనీస పర్యావరణ వ్యవస్థ అవసరాలు",
+    "en": "According to the National Water Policy 2012, water should be treated as an economic good only AFTER meeting which of the following pre-emptive needs?\n1. Safe drinking water and sanitation\n2. Achieving food security\n3. Minimum eco-system needs"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సురక్షిత తాగునీరు, ఆహార భద్రత మరియు పర్యావరణ వ్యవస్థ కనీస అవసరాలను తీర్చిన తర్వాతే నీటిని ఆర్థిక వస్తువుగా పరిగణించాలని జాతీయ నీటి విధానం 2012 పేర్కొంది.",
+    "en": "The policy specifies treating water as an economic good after meeting needs for safe drinking water, sanitation, food security, supporting livelihoods of poor agriculturists, and minimum eco-system needs."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T29-0100",
+   "section": {
+    "te": "Hauz Khas Tank",
+    "en": "Hauz Khas Tank"
+   },
+   "q": {
+    "te": "ఢిల్లీలోని హౌజ్ ఖాస్ ట్యాంకును అల్లావుద్దీన్ ఖిల్జీ ఏ ప్రాంతానికి నీటిని సరఫరా చేయడానికి నిర్మించారు?",
+    "en": "The tank in Hauz Khas, Delhi, was constructed by Allauddin Khilji specifically to supply water to which area?"
+   },
+   "options": {
+    "te": [
+     "చాందినీ చౌక్ ప్రాంతం",
+     "సిరి కోట ప్రాంతం",
+     "కుతుబ్ మినార్ ప్రాంతం",
+     "ఎర్రకోట ప్రాంతం"
+    ],
+    "en": [
+     "Chandni Chowk area",
+     "Siri Fort area",
+     "Qutub Minar area",
+     "Red Fort area"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అల్లావుద్దీన్ ఖిల్జీ 13-14వ శతాబ్దంలో సిరి కోట ప్రాంతానికి నీటి సరఫరా కోసం హౌజ్ ఖాస్ ట్యాంకును నిర్మించారు.",
+    "en": "Allauddin Khilji built the Hauz Khas tank in the 13th-14th Century to provide water supply to the Siri Fort area."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T29-0167",
+   "section": {
+    "te": "Local Dispute Resolution",
+    "en": "Local Dispute Resolution"
+   },
+   "q": {
+    "te": "పోలీసుల వరకు వెళ్లకుండా గ్రామంలోని వివాదాలను పరిష్కరించుకోవడానికి రాలెగాన్ సిద్ధిలో ఏర్పాటు చేయబడిన అనధికారిక న్యాయస్థానాల వ్యవస్థ ఏది?",
+    "en": "What informal court system was set up in Ralegan Siddhi to resolve local disputes without referring cases to the police?"
+   },
+   "options": {
+    "te": [
+     "లోక్ అదాలత్",
+     "మహిళా అదాలత్",
+     "న్యాయ పంచాయతీలు",
+     "గ్రామ న్యాయాలయ"
+    ],
+    "en": [
+     "Lok Adalat",
+     "Mahila Adalat",
+     "Nyay Panchayats",
+     "Gram Nyayalaya"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రాలెగాన్ సిద్ధిలో 'న్యాయ పంచాయతీలు' అనే అనధికారిక న్యాయస్థానాలను ఏర్పాటు చేయడం వల్ల ఏ ఒక్క కేసు కూడా పోలీసుల వద్దకు వెళ్ళలేదు.",
+    "en": "A system of informal courts called Nyay Panchayats was established, ensuring that no case needed to be referred to the police."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T29-0046",
+   "section": {
+    "te": "Sanskrit texts water management",
+    "en": "Sanskrit texts water management"
+   },
+   "q": {
+    "te": "నీటి నిర్వహణ పద్ధతులను డాక్యుమెంట్ చేసినట్లుగా కింది ఏ సంస్కృత గ్రంథం పేర్కొనబడలేదు?",
+    "en": "Which of the following Sanskrit texts is NOT mentioned as documenting water management practices?"
+   },
+   "options": {
+    "te": [
+     "వేదాలు",
+     "వృక్షాయుర్వేదం",
+     "రామాయణం",
+     "కృషిపరాశర"
+    ],
+    "en": [
+     "Vedas",
+     "Vṛikṣhāyurveda",
+     "Ramayana",
+     "Kṛiṣhiparāśhara"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్య భాగం వేదాలు, కృషిపరాశర, అర్థశాస్త్రం మరియు వృక్షాయుర్వేదాలను నీటి నిర్వహణను డాక్యుమెంట్ చేసే మూలాలుగా జాబితా చేసింది, కానీ రామాయణాన్ని పేర్కొనలేదు.",
+    "en": "The text lists the Vedas, Kṛiṣhiparāśhara, Arthaśhāstra, and Vṛikṣhāyurveda as sources documenting water management, but does not mention the Ramayana."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T29-0052",
+   "section": {
+    "te": "Mendha Lekha revenue use",
+    "en": "Mendha Lekha revenue use"
+   },
+   "q": {
+    "te": "మెంధా లేఖా నమూనాలో అటవీ ఉత్పత్తుల నుండి వచ్చే ఆదాయాన్ని ఎలా ఉపయోగిస్తారు?",
+    "en": "How is the revenue from forest produce used in the Mendha Lekha model?"
+   },
+   "options": {
+    "te": [
+     "మరిన్ని మట్టి నిర్మాణాలను నిర్మించడం కోసం",
+     "రసాయన ఎరువుల కొనుగోలు కోసం",
+     "గోండ్ తెగ వ్యక్తిగత లాభం కోసం",
+     "విద్య మరియు మౌలిక సదుపాయాల వంటి సామాజిక సంక్షేమ కార్యకలాపాల కోసం"
+    ],
+    "en": [
+     "For building more mud structures",
+     "For purchasing chemical fertilisers",
+     "For individual profit of the Gond tribe",
+     "For community welfare activities like education and infrastructure"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మెంధా లేఖాలో, అటవీ వనరుల ద్వారా వచ్చే ఆదాయాన్ని విద్య మరియు మౌలిక సదుపాయాల కోసం సమాజంలో తిరిగి పెట్టుబడిగా పెడతారు.",
+    "en": "In Mendha Lekha, the money earned from forest resources is reinvested into the community for education and infrastructure."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T29-0193",
+   "section": {
+    "te": "Inter-state river legislation",
+    "en": "Inter-state river legislation"
+   },
+   "q": {
+    "te": "జాతీయ నీటి విధానం 2012 ప్రకారం, అంతర్-రాష్ట్ర నదులు మరియు నదీ లోయల సరైన అభివృద్ధి కోసం ఏ విధమైన చట్టం ఉండాలని నొక్కిచెప్పబడింది?",
+    "en": "According to the National Water Policy 2012, what type of legislation is emphasized for the optimum development of inter-State rivers and river valleys?"
+   },
+   "options": {
+    "te": [
+     "విచక్షణాధికార ప్రాంతీయ మార్గదర్శకాలు",
+     "సమగ్ర చట్టం (Comprehensive legislation)",
+     "తాత్కాలిక కార్యనిర్వాహక ఉత్తర్వులు",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Discretionary regional guidelines",
+     "Comprehensive legislation",
+     "Temporary executive orders",
+     "None of these"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అంతర్-రాష్ట్ర నదులు మరియు నదీ లోయల గరిష్ట/సరైన అభివృద్ధి కోసం సమగ్రమైన శాసనం (comprehensive legislation) అవసరమని విధానంలో నొక్కిచెప్పబడింది.",
+    "en": "The policy highlights the need for 'comprehensive legislation for optimum development of inter-State rivers and river valleys.'"
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T29-0155",
+   "section": {
+    "te": "River Water Quality",
+    "en": "River Water Quality"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): భారతదేశంలోని ప్రధాన నదులు సాధారణంగా కొండ ప్రాంతాలలోని వాటి ఎగువ భాగాలలో మెరుగైన నీటి నాణ్యతను కలిగి ఉంటాయి.\nకారణం (R): మైదాన ప్రాంతాలతో పోలిస్తే ఈ ఎగువ ప్రాంతాలలో జనాభా సాంద్రత తక్కువగా ఉంటుంది.",
+    "en": "Assertion (A): Major rivers in India generally have better water quality in their upper stretches in hilly areas.\nReason (R): These upper stretches are less densely populated compared to the plains."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నదుల ఎగువ కొండ ప్రాంతాలలో జనాభా తక్కువగా ఉండటం వల్ల అక్కడ నీటి నాణ్యత మెరుగ్గా ఉంటుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Rivers retain better quality in upper hilly stretches because they are less densely populated."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T29-0032",
+   "section": {
+    "te": "Forest depletion",
+    "en": "Forest depletion"
+   },
+   "q": {
+    "te": "అడవిలో చెట్లు పెరిగే వేగం కంటే వేగంగా కలపను సేకరిస్తే కలిగే పరిణామం ఏమిటి?",
+    "en": "What is the consequence of harvesting timber faster than the forest can grow trees?"
+   },
+   "options": {
+    "te": [
+     "అడవి చివరికి క్షీణిస్తుంది (depleted)",
+     "చెట్లు భర్తీ చేయడానికి వేగంగా పెరుగుతాయి",
+     "నేల మరింత సారవంతంగా మారుతుంది",
+     "అడవి తన వైశాల్యాన్ని విస్తరిస్తుంది"
+    ],
+    "en": [
+     "The forest will eventually be depleted",
+     "The trees will grow back faster to compensate",
+     "The soil will become more fertile",
+     "The forest will expand its area"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పెరుగుదల రేటు కంటే వేగంగా కలపను సేకరించడం అడవి క్షీణతకు దారితీస్తుందని పాఠ్యం స్పష్టంగా పేర్కొంది.",
+    "en": "Harvesting timber faster than the growth rate leads to the depletion of the forest."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T29-0001",
+   "section": {
+    "te": "Water conservation methods",
+    "en": "Water conservation methods"
+   },
+   "q": {
+    "te": "థార్ ఎడారిలో నీటి కొరత కారణంగా పాత్రలను శుభ్రం చేయడానికి ఉపయోగించే సాంప్రదాయ పద్ధతి ఏమిటి?",
+    "en": "In the Thar Desert, what is the traditional method used for cleaning utensils due to water scarcity?"
+   },
+   "options": {
+    "te": [
+     "ఇసుకతో రుద్దడం",
+     "పెద్ద పాత్రలలో మరిగించడం",
+     "ఉప్పు నీటితో కడగడం",
+     "రసాయన డిటర్జెంట్లను ఉపయోగించడం"
+    ],
+    "en": [
+     "Scouring with sand",
+     "Boiling in large vats",
+     "Washing with salt water",
+     "Using chemical detergents"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, థార్ ఎడారిలో నీటి కొరత ఉన్నందున, పాత్రలను శుభ్రం చేయడానికి ఇసుకతో రుద్దడం అనే సాంప్రదాయ పద్ధతిని ఉపయోగిస్తారు.",
+    "en": "Because water is scarce in the Thar Desert, the traditional method for cleaning utensils is to scour them with sand."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T29-0224",
+   "section": {
+    "te": "Indira Gandhi Canal Structure",
+    "en": "Indira Gandhi Canal Structure"
+   },
+   "q": {
+    "te": "ప్రకటన (A): ఇందిరా గాంధీ కెనాల్ వ్యవస్థలోని అన్ని లిఫ్ట్ కాలువలు ప్రధాన కాలువ యొక్క ఎడమ గట్టు వద్ద ప్రారంభమవుతాయి.\nకారణం (R): భూమి యొక్క వాలుకు వ్యతిరేకంగా ప్రవహించేలా లిఫ్ట్ కాలువల్లో నీటిని పైకి ఎత్తుతారు.",
+    "en": "Assertion (A): All lift canals of the Indira Gandhi Canal system originate at the left bank of the main canal.\nReason (R): The water in lift canals is lifted up to make it flow against the slope of the land."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "కుడి వైపున భూమి కాలువ నుండి దూరంగా వాలుగా ఉన్నందున ఎడమ గట్టుపై లిఫ్ట్ కాలువలు నిర్మించబడ్డాయి, సహజ వాలుకు వ్యతిరేకంగా ప్రవహించడానికి ఎడమ వైపున నీటిని ఎత్తాల్సి ఉంటుంది.",
+    "en": "Lift canals are constructed on the left bank because the land slopes away from the canal on the right, requiring water to be lifted on the left to flow against the natural slope."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T29-0135",
+   "section": {
+    "te": "Tribal Role in Forestry",
+    "en": "Tribal Role in Forestry"
+   },
+   "q": {
+    "te": "అటవీ సంరక్షణ విధానం ప్రకారం, అటవీ అభివృద్ధిలో గిరిజన వర్గాలను ఎలా చేర్చుకోవాలి?",
+    "en": "According to the forest conservation policy, how should tribal communities be integrated into forest development?"
+   },
+   "options": {
+    "te": [
+     "వారిని కేవలం చిన్న అటవీ ఉత్పత్తుల సేకరించేవారిగా పరిగణించడం ద్వారా",
+     "వారిని చిన్న అటవీ ఉత్పత్తుల పెంపకందారులుగా మార్చడం మరియు సంరక్షణలో భాగస్వామ్యాన్ని ప్రోత్సహించడం ద్వారా",
+     "వారిని అటవీ ప్రాంతాల నుండి పట్టణ కేంద్రాలకు తరలించడం ద్వారా",
+     "వారి జీవనోపాధి కోసం అటవీ వనరులను ఉపయోగించకుండా నిషేధించడం ద్వారా"
+    ],
+    "en": [
+     "By treating them only as minor forest produce collectors",
+     "By making them growers of minor forest produce and encouraging participation in conservation",
+     "By relocating them from forest areas to urban centers",
+     "By prohibiting them from using forest resources for their livelihood"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "గిరిజనులు కేవలం సేకరించేవారిగా కాకుండా, చిన్న అటవీ ఉత్పత్తుల పెంపకందారులుగా మరియు సంరక్షణలో చురుకైన భాగస్వాములుగా ఉండాలని విధానం సూచిస్తుంది.",
+    "en": "The policy suggests that tribals should be encouraged to be growers of minor forest produce and active participants in conservation, rather than just collectors."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T29-0047",
+   "section": {
+    "te": "Bunding and Terracing",
+    "en": "Bunding and Terracing"
+   },
+   "q": {
+    "te": "కింది ప్రకటనలను పరిశీలించండి:\n1. బండింగ్ అనేది నేలలోని తేమను తగ్గించడానికి నిర్మించిన మట్టి కట్టలను కలిగి ఉంటుంది.\n2. టెర్రేసింగ్ అనేది నేల కోతను నిరోధించడానికి కొండవాలులపై మెట్ల వంటి నిర్మాణాలను సృష్టిస్తుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements:\n1. Bunding involves earthen embankments to reduce soil moisture.\n2. Terracing creates level steps on hillsides to prevent erosion.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రకటన 1 తప్పు ఎందుకంటే బండింగ్ నేల తేమను పెంచడానికి రూపొందించబడింది, తగ్గించడానికి కాదు. టెర్రేసింగ్ నిర్వచనం ప్రకారం ప్రకటన 2 సరైనది.",
+    "en": "Statement 1 is incorrect because bunding is designed to increase soil moisture, not reduce it. Statement 2 is correct as per the definition of terracing."
+   }
+  }
+ ]
+}

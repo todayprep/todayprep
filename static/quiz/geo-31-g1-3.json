@@ -1,0 +1,942 @@
+{
+ "id": "geo-31-g1-3",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Biodiversity – క్విజ్ 3",
+  "en": "Biodiversity – Quiz 3"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T31-0032",
+   "section": {
+    "te": "Grassland Biome",
+    "en": "Grassland Biome"
+   },
+   "q": {
+    "te": "ఆఫ్రికాలోని సవన్నాలలో (Savannas) సాధారణంగా కింది ఏ జంతువులు కనిపిస్తాయి?",
+    "en": "Which of the following animals are typically found in the Savannas of Africa?"
+   },
+   "options": {
+    "te": [
+     "తిమింగలాలు మరియు డాల్ఫిన్లు",
+     "రెయిన్ డీర్ మరియు ఆర్కిటిక్ నక్కలు",
+     "సింహాలు, ఏనుగులు మరియు జిరాఫీలు",
+     "ఒంటెలు మరియు బల్లులు"
+    ],
+    "en": [
+     "Whales and dolphins",
+     "Reindeer and Arctic foxes",
+     "Lions, elephants, and giraffes",
+     "Camels and lizards"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఆఫ్రికాలోని సవన్నాలు (ఉష్ణమండల గడ్డి భూములు) సింహాలు, ఏనుగులు మరియు జిరాఫీల వంటి పెద్ద జంతువులకు నిలయం.",
+    "en": "The Savannas (tropical grasslands) in Africa are home to large animals like lions, elephants, and giraffes."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T31-0165",
+   "section": {
+    "te": "Aquifer Recharge",
+    "en": "Aquifer Recharge"
+   },
+   "q": {
+    "te": "ప్రతిపాదన (A): దౌరాలాలోని పూడికతో నిండిన చెరువును శుభ్రం చేసి పూడిక తీశారు.\nకారణం (R): చెరువులో పూడిక తీయడం వల్ల పెద్ద మొత్తంలో నీరు భూగర్భ జలమట్టాలను (aquifers) రీఛార్జ్ చేయడానికి వీలు కల్పించింది.",
+    "en": "Assertion (A): The silted pond in Daurala was cleaned and desilted.\nReason (R): Desilting the pond allowed a large quantity of water to recharge the aquifers."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పెద్ద మొత్తంలో నీరు భూగర్భ జలమట్టాలను రీఛార్జ్ చేయడానికి వీలుగా చెరువులో పూడిక తీసినట్లు పాఠ్య భాగం వివరిస్తుంది.",
+    "en": "The pond was desilted specifically to allow a large quantity of water to recharge the aquifers."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T31-0163",
+   "section": {
+    "te": "Rainwater Harvesting Impact",
+    "en": "Rainwater Harvesting Impact"
+   },
+   "q": {
+    "te": "దౌరాలా కేస్ స్టడీ ప్రకారం, వర్షపు నీటి సంరక్షణ నిర్మాణాలను నిర్మించడం వల్ల కలిగిన నిర్దిష్ట ప్రయోజనం ఏమిటి?",
+    "en": "According to the Daurala case study, what was the specific benefit of constructing rainwater harvesting structures?"
+   },
+   "options": {
+    "te": [
+     "ఇది గ్రామంలో నేల కోతను నిరోధించింది",
+     "ఇది భూగర్భ జలాల్లోని కలుషితాలను తగ్గించడానికి (diluting) సహాయపడింది",
+     "ఇది వేసవిలో సాగుకు నీటిని అందించింది",
+     "ఇది పారిశ్రామిక నీటి అవసరాన్ని పూర్తిగా తొలగించింది"
+    ],
+    "en": [
+     "It prevented soil erosion in the village",
+     "It helped in diluting the contaminants of the groundwater",
+     "It provided water for irrigation during summer",
+     "It completely eliminated the need for industrial water"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వర్షపు నీటి సంరక్షణ నిర్మాణాలు వర్షాకాలం తర్వాత భూగర్భ జలాల్లోని కలుషితాలను తగ్గించడానికి సహాయపడ్డాయని పాఠ్య భాగం పేర్కొంది.",
+    "en": "Rainwater harvesting structures helped in diluting the contaminants of the groundwater after the monsoons."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T31-0069",
+   "section": {
+    "te": "NTPC Certification",
+    "en": "NTPC Certification"
+   },
+   "q": {
+    "te": "NTPC తన పర్యావరణ నిర్వహణ వ్యవస్థ (EMS) కోసం ఏ ISO ధృవీకరణను కలిగి ఉంది?",
+    "en": "Which ISO certification does NTPC hold for its Environment Management System (EMS)?"
+   },
+   "options": {
+    "te": [
+     "ISO 14001",
+     "ISO 27001",
+     "ISO 9001",
+     "ISO 50001"
+    ],
+    "en": [
+     "ISO 14001",
+     "ISO 27001",
+     "ISO 9001",
+     "ISO 50001"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "NTPC తన పర్యావరణ నిర్వహణ వ్యవస్థ కోసం ISO 14001 ధృవీకరణను కలిగి ఉంది.",
+    "en": "NTPC holds the ISO 14001 certification for its Environment Management System."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T31-0010",
+   "section": {
+    "te": "Gene bank",
+    "en": "Gene bank"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): ఉష్ణమండల వర్షారణ్యాలను 'జీన్ బ్యాంక్' (gene bank) అని కూడా పిలుస్తారు.\nకారణం (R): అవి పరిరక్షణ మరియు శాస్త్రీయ పరిశోధనలకు మద్దతు ఇచ్చే ప్రత్యేకమైన జన్యు పదార్థాన్ని సంరక్షిస్తాయి.",
+    "en": "Assertion (A): Tropical rainforests are also known as a 'gene bank'.\nReason (R): They preserve unique genetic material that supports conservation and scientific research."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఉష్ణమండల వర్షారణ్యాలను 'జీన్ బ్యాంకులు' అని పిలుస్తారు ఎందుకంటే అవి సైన్స్ మరియు పరిరక్షణకు విలువైన ప్రత్యేకమైన జన్యు పదార్థాన్ని నిల్వ చేస్తాయి మరియు సంరక్షిస్తాయి.",
+    "en": "Tropical rainforests are called 'gene banks' specifically because they store and preserve unique genetic material valuable for science and conservation."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T31-0060",
+   "section": {
+    "te": "Tiger Habitats",
+    "en": "Tiger Habitats"
+   },
+   "q": {
+    "te": "ప్రపంచంలోని పులుల జనాభాలో సుమారు మూడింట రెండు వంతుల ఆవాసాన్ని కలిగి ఉన్నందున, అక్రమ వేట మరియు వ్యాపారానికి ప్రధాన లక్ష్యంగా మారిన రెండు దేశాలు ఏవి?",
+    "en": "Which two nations are prime targets for poaching and illegal trading because they provide habitat to about two-thirds of the surviving tiger population?"
+   },
+   "options": {
+    "te": [
+     "భారతదేశం మరియు బంగ్లాదేశ్",
+     "నేపాల్ మరియు భూటాన్",
+     "భారతదేశం మరియు నేపాల్",
+     "భారతదేశం మరియు చైనా"
+    ],
+    "en": [
+     "India and Bangladesh",
+     "Nepal and Bhutan",
+     "India and Nepal",
+     "India and China"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతదేశం మరియు నేపాల్ ప్రపంచంలోని మిగిలి ఉన్న పులులలో మూడింట రెండు వంతులకి నిలయంగా ఉన్నాయి, అందుకే అవి అక్రమ వ్యాపారానికి లక్ష్యంగా మారాయి.",
+    "en": "India and Nepal are home to about two-thirds of the world's surviving tigers, making them targets for illegal trade."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T31-0142",
+   "section": {
+    "te": "Water Pollution Causes",
+    "en": "Water Pollution Causes"
+   },
+   "q": {
+    "te": "నీటి కాలుష్యానికి కారణాలుగా ఈ క్రింది ఏ సాంస్కృతిక కార్యకలాపాలు పేర్కొనబడ్డాయి?\n1. తీర్థయాత్రలు (Pilgrimage)\n2. మతపరమైన జాతరలు (Religious fairs)\n3. పర్యాటకం (Tourism)",
+    "en": "Which of the following cultural activities are mentioned as causes of water pollution?\n1. Pilgrimage\n2. Religious fairs\n3. Tourism"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "1 and 2 only",
+     "1 and 3 only",
+     "2 and 3 only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నీటి కాలుష్యానికి కారణమయ్యే సాంస్కృతిక కార్యకలాపాలుగా తీర్థయాత్రలు, మతపరమైన జాతరలు మరియు పర్యాటకాన్ని పాఠ్యభాగం స్పష్టంగా పేర్కొంది.",
+    "en": "Pilgrimage, religious fairs, and tourism as cultural activities that cause water pollution."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T31-0012",
+   "section": {
+    "te": "Human oxygen needs",
+    "en": "Human oxygen needs"
+   },
+   "q": {
+    "te": "ఒక మనిషికి ప్రతిరోజూ సుమారు ఎన్ని లీటర్ల ఆక్సిజన్ అవసరం?",
+    "en": "Approximately how many litres of oxygen does a human being need every day?"
+   },
+   "options": {
+    "te": [
+     "300 లీటర్లు",
+     "450 లీటర్లు",
+     "350 లీటర్లు",
+     "275 లీటర్లు"
+    ],
+    "en": [
+     "300 litres",
+     "450 litres",
+     "350 litres",
+     "275 litres"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఒక మనిషికి ప్రతిరోజూ సుమారు 350 లీటర్ల ఆక్సిజన్ అవసరమని పాఠ్యభాగం పేర్కొంది, అయితే ఇది వ్యక్తిని బట్టి మారుతుంది.",
+    "en": "A human being requires about 350 litres of oxygen daily, though this varies by individual."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T31-0046",
+   "section": {
+    "te": "Human-Environment Interaction",
+    "en": "Human-Environment Interaction"
+   },
+   "q": {
+    "te": "మైదాన ప్రాంతాల కోసం ప్రత్యేకంగా పేర్కొనబడిన స్థిరమైన పద్ధతి (Sustainable practice) క్రింది వాటిలో ఏది?",
+    "en": "Which of the following is mentioned as a sustainable practice specifically for the plains?"
+   },
+   "options": {
+    "te": [
+     "అగ్రోఫారెస్ట్రీ (Agroforestry)",
+     "ఆదిమ వేట",
+     "మాస్ టూరిజం",
+     "మెట్ల వ్యవసాయం (Terrace farming)"
+    ],
+    "en": [
+     "Agroforestry",
+     "Primitive hunting",
+     "Mass tourism",
+     "Terrace farming"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం భూగోళశాస్త్రం ఆధారంగా స్థిరమైన పద్ధతులకు ఉదాహరణలను ఇచ్చింది: కొండల కోసం మెట్ల వ్యవసాయం మరియు మైదానాల కోసం అగ్రోఫారెస్ట్రీ.",
+    "en": "The text provides examples of sustainable practices based on geography: terrace farming for hills and agroforestry for plains."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T31-0034",
+   "section": {
+    "te": "Biome Pyramid",
+    "en": "Biome Pyramid"
+   },
+   "q": {
+    "te": "బయోమ్ పిరమిడ్‌లోని కింది పోషక స్థాయిలను అడుగు నుండి పైకి అమర్చండి:\n1. అగ్ర మాంసాహారులు\n2. శాఖాహారులు\n3. ఉత్పత్తిదారులు\n4. మాంసాహారులు",
+    "en": "Arrange the following trophic levels in a biome pyramid from the base to the top:\n1. Top predators\n2. Herbivores\n3. Producers\n4. Carnivores"
+   },
+   "options": {
+    "te": [
+     "3-2-4-1",
+     "3-4-2-1",
+     "2-3-4-1",
+     "1-4-2-3"
+    ],
+    "en": [
+     "3-2-4-1",
+     "3-4-2-1",
+     "2-3-4-1",
+     "1-4-2-3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అడుగు నుండి పైకి సరైన క్రమం: ఉత్పత్తిదారులు, తర్వాత శాఖాహారులు (ప్రాథమిక), తర్వాత మాంసాహారులు (ద్వితీయ), మరియు చివరగా అగ్ర మాంసాహారులు (తృతీయ).",
+    "en": "The correct order from base to top is Producers, then Herbivores (primary), then Carnivores (secondary), and finally Top predators (tertiary)."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T31-0082",
+   "section": {
+    "te": "Measuring Species Diversity",
+    "en": "Measuring Species Diversity"
+   },
+   "q": {
+    "te": "జాతుల వైవిధ్యాన్ని ఈ క్రింది వాటిలో దేని ద్వారా కొలవవచ్చు?",
+    "en": "The diversity of species can be measured through which of the following?"
+   },
+   "options": {
+    "te": [
+     "సమృద్ధి (Richness)",
+     "బాహుళ్యం (Abundance)",
+     "రకాలు (Types)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Richness",
+     "Abundance",
+     "Types",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, జాతుల వైవిధ్యాన్ని సమృద్ధి, బాహుళ్యం మరియు రకాలను ఉపయోగించి కొలుస్తారు.",
+    "en": "Species diversity is measured using richness, abundance, and types."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T31-0101",
+   "section": {
+    "te": "Vulnerable species definition",
+    "en": "Vulnerable species definition"
+   },
+   "q": {
+    "te": "అంతరించిపోవడానికి దారితీసే కారకాలు ఇలాగే కొనసాగితే సమీప భవిష్యత్తులో అంతరించిపోయే ప్రమాదం ఉన్న జాతులను ఏమంటారు?",
+    "en": "Species which are likely to be in danger of extinction in the near future if the factors threatening their extinction continue are called:"
+   },
+   "options": {
+    "te": [
+     "ముప్పును ఎదుర్కొంటున్న జాతులు (Vulnerable species)",
+     "అంతరించిపోతున్న జాతులు (Endangered species)",
+     "అరుదైన జాతులు (Rare species)",
+     "అంతరించిన జాతులు (Extinct species)"
+    ],
+    "en": [
+     "Vulnerable species",
+     "Endangered species",
+     "Rare species",
+     "Extinct species"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "హానికర కారకాలు కొనసాగితే సమీప భవిష్యత్తులో అంతరించిపోయే ప్రమాదం ఉన్న జాతులను 'ముప్పును ఎదుర్కొంటున్న జాతులు' (Vulnerable species) అంటారు.",
+    "en": "Under the heading 'Vulnerable Species', the text states they include species likely to be in danger of extinction in the near future if threatening factors continue."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T31-0018",
+   "section": {
+    "te": "Biome categories",
+    "en": "Biome categories"
+   },
+   "q": {
+    "te": "పర్యావరణం ఆధారంగా బయోమ్‌లను ఏ రెండు విస్తృత వర్గాలుగా విభజించవచ్చు?",
+    "en": "Into which two broad categories can biomes be divided based on their environment?"
+   },
+   "options": {
+    "te": [
+     "భూసంబంధిత (Terrestrial) మరియు జలసంబంధిత (Aquatic)",
+     "అడవి మరియు ఎడారి",
+     "ఉష్ణమండల మరియు ధ్రువ",
+     "గడ్డి భూమి మరియు తుండ్రా"
+    ],
+    "en": [
+     "Terrestrial and Aquatic",
+     "Forest and Desert",
+     "Tropical and Polar",
+     "Grassland and Tundra"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "బయోమ్‌లు భూసంబంధిత (భూమి ఆధారిత) మరియు జలసంబంధిత (నీటి ఆధారిత) రకాలుగా వర్గీకరించబడ్డాయి.",
+    "en": "Biomes are categorized into terrestrial (land-based) and aquatic (water-based) types."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T31-0161",
+   "section": {
+    "te": "Groundwater Contamination",
+    "en": "Groundwater Contamination"
+   },
+   "q": {
+    "te": "దౌరాలా గ్రామంలో భూగర్భ జలాలు భార లోహాలతో (heavy metals) కలుషితం కావడానికి ప్రాథమిక కారణం ఏమిటి?",
+    "en": "What was the primary cause of groundwater contamination with heavy metals in Daurala village?"
+   },
+   "options": {
+    "te": [
+     "పరిశ్రమల నుండి శుద్ధి చేయని మురుగునీరు భూగర్భ జలాల్లోకి చేరడం",
+     "సహజ భౌగోళిక నిక్షేపాలు",
+     "రసాయన ఎరువుల అధిక వినియోగం",
+     "గృహ ఘన వ్యర్థాలను బహిరంగంగా పారవేయడం"
+    ],
+    "en": [
+     "Untreated wastewater of industries leaching to the groundwater",
+     "Natural geological deposits",
+     "Excessive use of chemical fertilizers",
+     "Open dumping of household solid waste"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "దౌరాలాలో భార లోహాల కాలుష్యానికి కారణం శుద్ధి చేయని పారిశ్రామిక మురుగునీరు భూగర్భ జలమట్టంలోకి చేరడమేనని పాఠ్య భాగం గుర్తిస్తుంది.",
+    "en": "The text identifies the leaching of untreated industrial wastewater into the groundwater table as the reason for heavy metal contamination in Daurala."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T31-0022",
+   "section": {
+    "te": "Tundra Biome",
+    "en": "Tundra Biome"
+   },
+   "q": {
+    "te": "తుండ్రా బయోమ్‌లో నేల దాదాపు ఏడాది పొడవునా గడ్డకట్టి ఉండే స్థితిని ఏమంటారు?",
+    "en": "What is the condition called when the soil remains frozen almost year-round in the Tundra biome?"
+   },
+   "options": {
+    "te": [
+     "ఐస్-క్యాప్",
+     "గ్లేసియేషన్",
+     "పెర్మాఫ్రాస్ట్ (Permafrost)",
+     "ఫ్రాస్ట్-హీవ్"
+    ],
+    "en": [
+     "Ice-cap",
+     "Glaciation",
+     "Permafrost",
+     "Frost-heave"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "తుండ్రాలో దాదాపు ఏడాది పొడవునా గడ్డకట్టి ఉండే నేలను పెర్మాఫ్రాస్ట్ అంటారు.",
+    "en": "Permafrost is the term used for soil that remains frozen almost throughout the year in the Tundra."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T31-0157",
+   "section": {
+    "te": "Waste Collection in Small Towns",
+    "en": "Waste Collection in Small Towns"
+   },
+   "q": {
+    "te": "భారతదేశంలోని మెట్రోపాలిటన్ నగరాలు మినహా మిగిలిన నగరాలు మరియు పట్టణాలలో, ఉత్పత్తి అయ్యే వ్యర్థాలలో ఎంత శాతం సేకరించకుండా వదిలివేయబడుతుంది?",
+    "en": "In most cities and towns in India (excluding metropolises), what percentage of generated waste is left uncollected?"
+   },
+   "options": {
+    "te": [
+     "10 నుండి 20 శాతం",
+     "60 నుండి 80 శాతం",
+     "90 శాతం కంటే ఎక్కువ",
+     "30 నుండి 50 శాతం"
+    ],
+    "en": [
+     "10 to 20 per cent",
+     "60 to 80 per cent",
+     "Over 90 per cent",
+     "30 to 50 per cent"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మిగిలిన నగరాలు మరియు పట్టణాలలో, ఉత్పత్తి అయ్యే వ్యర్థాలలో సుమారు 30 నుండి 50 శాతం సేకరించకుండా వదిలివేయబడుతుందని పాఠ్య భాగం పేర్కొంది.",
+    "en": "In most other cities and towns, about 30 to 50 per cent of the waste generated is left uncollected."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T31-0125",
+   "section": {
+    "te": "WCED Leadership",
+    "en": "WCED Leadership"
+   },
+   "q": {
+    "te": "ఐక్యరాజ్యసమితి ఏర్పాటు చేసిన పర్యావరణం మరియు అభివృద్ధిపై ప్రపంచ కమిషన్ (WCED) కు ఎవరు నాయకత్వం వహించారు?",
+    "en": "Who was the head of the World Commission on Environment and Development (WCED) established by the United Nations?"
+   },
+   "options": {
+    "te": [
+     "ఎర్లిచ్",
+     "గ్రో హార్లెం బ్రండ్ట్‌ల్యాండ్",
+     "మెడోస్",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Ehrlich",
+     "Gro Harlem Brundtland",
+     "Meadows",
+     "None of these"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "WCED కి నార్వే ప్రధాని గ్రో హార్లెం బ్రండ్ట్‌ల్యాండ్ నాయకత్వం వహించారు, అందుకే దాని నివేదికను బ్రండ్ట్‌ల్యాండ్ నివేదిక అని కూడా పిలుస్తారు.",
+    "en": "The WCED was headed by the Norwegian Prime Minister Gro Harlem Brundtland, which is why its report is also called the Brundtland Report."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T31-0132",
+   "section": {
+    "te": "Air Pollution Effects",
+    "en": "Air Pollution Effects"
+   },
+   "q": {
+    "te": "వాయు కాలుష్యం మానవ శరీరంలోని ఏ వ్యవస్థలకు సంబంధించిన వ్యాధులను కలిగిస్తుంది?\n1. శ్వాసకోశ వ్యవస్థ (Respiratory system)\n2. నాడీ వ్యవస్థ (Nervous system)\n3. రక్త ప్రసరణ వ్యవస్థ (Circulatory system)",
+    "en": "Air pollution causes diseases related to which of the following human body systems?\n1. Respiratory system\n2. Nervous system\n3. Circulatory system"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "1 and 2 only",
+     "1 and 3 only",
+     "2 and 3 only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వాయు కాలుష్యం శ్వాసకోశ, నాడీ మరియు రక్త ప్రసరణ వ్యవస్థలపై ప్రభావం చూపుతుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Air pollution affects the respiratory, nervous, and circulatory systems."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T31-0006",
+   "section": {
+    "te": "Rainforest location",
+    "en": "Rainforest location"
+   },
+   "q": {
+    "te": "ఉష్ణమండల వర్షారణ్యాలు ప్రధానంగా ఏ అక్షాంశ శ్రేణుల మధ్య ఉన్నాయి?",
+    "en": "Tropical rainforests are primarily located between which latitudinal ranges?"
+   },
+   "options": {
+    "te": [
+     "30° N నుండి 30° S",
+     "0° నుండి 10° ఉత్తర మరియు దక్షిణ",
+     "23.5° N నుండి 23.5° S",
+     "66.5° N నుండి 66.5° S"
+    ],
+    "en": [
+     "30° N to 30° S",
+     "0° to 10° North and South",
+     "23.5° N to 23.5° S",
+     "66.5° N to 66.5° S"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఉష్ణమండల వర్షారణ్యాలు భూమధ్యరేఖకు సమీపంలో, ప్రత్యేకంగా కర్కట రేఖ (23.5° N) మరియు మకర రేఖ (23.5° S) మధ్య కనిపిస్తాయి.",
+    "en": "Tropical rainforests are found near the Equator, specifically between the Tropic of Cancer (23.5° N) and the Tropic of Capricorn (23.5° S)."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T31-0095",
+   "section": {
+    "te": "Hotspots of Diversity",
+    "en": "Hotspots of Diversity"
+   },
+   "q": {
+    "te": "జాతుల వైవిధ్యం ఎక్కువగా ఉన్న ప్రాంతాలను ఏమని పిలుస్తారు?",
+    "en": "Areas rich in species diversity are called:"
+   },
+   "options": {
+    "te": [
+     "కోల్డ్‌స్పాట్‌లు",
+     "హాట్‌స్పాట్‌లు (Hotspots)",
+     "అభయారణ్యాలు",
+     "బయోస్పియర్లు"
+    ],
+    "en": [
+     "Coldspots",
+     "Hotspots",
+     "Sanctuaries",
+     "Biospheres"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "జాతుల వైవిధ్యం ఎక్కువగా ఉన్న ప్రాంతాలను హాట్‌స్పాట్‌లుగా వ్యాసం నిర్వచించింది.",
+    "en": "The text defines areas rich in species diversity as hotspots of diversity."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T31-0155",
+   "section": {
+    "te": "Solid Waste Health Hazards",
+    "en": "Solid Waste Health Hazards"
+   },
+   "q": {
+    "te": "ఘన వ్యర్థాల వల్ల కలిగే ఆరోగ్య ప్రమాదాలకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. అవి అసహ్యకరమైన వాసనలను సృష్టిస్తాయి.\n2. అవి వ్యాధి వాహకాలుగా పనిచేసే ఈగలు మరియు ఎలుకలకు ఆవాసంగా ఉంటాయి.\n3. అవి టైఫాయిడ్ మరియు మలేరియా వంటి వ్యాధులకు దారితీస్తాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding health hazards caused by solid wastes:\n1. They create obnoxious smells.\n2. They harbour flies and rodents which act as disease carriers.\n3. They can lead to diseases like typhoid and malaria.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఘన వ్యర్థాలు అసహ్యకరమైన వాసనలు, ఈగలు మరియు ఎలుకలకు ఆవాసం కల్పించడం మరియు టైఫాయిడ్, మలేరియా వంటి వ్యాధులను వ్యాప్తి చేయడం ద్వారా ఆరోగ్య ప్రమాదాలను కలిగిస్తాయని పాఠ్య భాగం ధృవీకరిస్తుంది.",
+    "en": "The text confirms that solid wastes cause health hazards through obnoxious smells, harbouring flies and rodents, and spreading diseases like typhoid, malaria, etc."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T31-0068",
+   "section": {
+    "te": "Effluent Treatment",
+    "en": "Effluent Treatment"
+   },
+   "q": {
+    "te": "పారిశ్రామిక వ్యర్థాల శుద్ధి దశలను వాటి ప్రక్రియలతో జతపరచండి:\n1. ప్రాథమిక చికిత్స - i. జీవ, రసాయన మరియు భౌతిక ప్రక్రియలు\n2. ద్వితీయ చికిత్స - ii. యాంత్రిక పద్ధతులు\n3. తృతీయ చికిత్స - iii. జీవ ప్రక్రియ",
+    "en": "Match the phases of industrial effluent treatment with their respective processes:\n1. Primary treatment - i. Biological, chemical and physical processes\n2. Secondary treatment - ii. Mechanical means\n3. Tertiary treatment - iii. Biological process"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-iii, 3-i",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-i, 3-iii"
+    ],
+    "en": [
+     "1-ii, 2-iii, 3-i",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-i, 3-iii"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, ప్రాథమిక చికిత్స యాంత్రిక పద్ధతుల ద్వారా, ద్వితీయ చికిత్స జీవ ప్రక్రియ ద్వారా మరియు తృతీయ చికిత్స జీవ, రసాయన మరియు భౌతిక ప్రక్రియల ద్వారా జరుగుతుంది.",
+    "en": "Primary treatment is by mechanical means, secondary is by biological process, and tertiary involves biological, chemical, and physical processes."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T31-0029",
+   "section": {
+    "te": "Aquatic Biomes",
+    "en": "Aquatic Biomes"
+   },
+   "q": {
+    "te": "సముద్రపు బయోమ్‌లు భూమి యొక్క వాతావరణాన్ని ఎలా ప్రభావితం చేస్తాయి?",
+    "en": "How do marine biomes influence the Earth's climate?"
+   },
+   "options": {
+    "te": [
+     "భాష్పోత్సేకం ద్వారా ప్రపంచ వర్షపాత నమూనాలను నియంత్రించడం ద్వారా",
+     "తీరప్రాంతాల్లో నేల కోతను నివారించడం ద్వారా",
+     "భూమికి అవసరమైన మెజారిటీ ఆక్సిజన్‌ను ఉత్పత్తి చేయడం ద్వారా",
+     "ఉష్ణాన్ని నిల్వ చేయడం మరియు పంపిణీ చేయడం ద్వారా"
+    ],
+    "en": [
+     "By controlling the global rainfall patterns through transpiration",
+     "By preventing soil erosion along the coastlines",
+     "By producing the majority of the Earth's oxygen",
+     "By storing and distributing heat"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సముద్రపు బయోమ్‌లు ప్రపంచవ్యాప్తంగా ఉష్ణాన్ని నిల్వ చేయడం మరియు పంపిణీ చేయడం ద్వారా వాతావరణాన్ని ప్రభావితం చేస్తాయి.",
+    "en": "Marine biomes influence the climate by storing and distributing heat across the globe."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T31-0016",
+   "section": {
+    "te": "Resource treatment consequences",
+    "en": "Resource treatment consequences"
+   },
+   "q": {
+    "te": "శాస్త్రవేత్తల ప్రకారం, సహజ వనరుల పట్ల బాధ్యతారహితమైన ప్రవర్తన క్రింది వాటిలో దేనికి దారితీసింది?\nA. కాలుష్యం\nB. జీవవైవిధ్య నష్టం\nC. వాతావరణ మార్పు",
+    "en": "According to scientists, the irresponsible treatment of natural resources has led to which of the following?\nA. Pollution\nB. Biodiversity loss\nC. Climate change"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వనరుల పట్ల బాధ్యతారహితమైన ప్రవర్తన కాలుష్యం, జీవవైవిధ్య నష్టం మరియు వాతావరణ మార్పులకు దారితీస్తుందని పాఠ్యభాగం స్పష్టంగా పేర్కొంది.",
+    "en": "Irresponsible treatment of resources leads to pollution, biodiversity loss, and climate change."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T31-0017",
+   "section": {
+    "te": "Rainforest climate",
+    "en": "Rainforest climate"
+   },
+   "q": {
+    "te": "ఉష్ణమండల వర్షారణ్య ప్రాంతాలలో సంవత్సరం పొడవునా ఉండే సాధారణ శీతోష్ణస్థితి పరిస్థితులు ఏమిటి?",
+    "en": "What are the typical climatic conditions of tropical rainforest regions throughout the year?"
+   },
+   "options": {
+    "te": [
+     "వేడిగా మరియు పొడిగా",
+     "చల్లగా మరియు పొడిగా",
+     "వేడిగా మరియు తేమగా (Hot and wet)",
+     "చల్లగా మరియు తేమగా"
+    ],
+    "en": [
+     "Hot and dry",
+     "Cold and dry",
+     "Hot and wet",
+     "Cold and wet"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఉష్ణమండల వర్షారణ్య ప్రాంతాలు సంవత్సరం పొడవునా వేడిగా మరియు తేమగా ఉండటం ద్వారా వర్గీకరించబడతాయి.",
+    "en": "Tropical rainforest regions are characterized by being hot and wet throughout the year."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T31-0149",
+   "section": {
+    "te": "Noise Measurement",
+    "en": "Noise Measurement"
+   },
+   "q": {
+    "te": "స్థిరమైన శబ్దం యొక్క స్థాయిని ఈ క్రింది ఏ యూనిట్లలో కొలుస్తారు?",
+    "en": "In which of the following units is the level of steady noise measured?"
+   },
+   "options": {
+    "te": [
+     "వాట్స్",
+     "హెర్ట్జ్",
+     "పాస్కల్స్",
+     "డెసిబెల్స్ (dB)"
+    ],
+    "en": [
+     "Watts",
+     "Hertz",
+     "Pascals",
+     "Decibels (dB)"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్య భాగం ప్రకారం, స్థిరమైన శబ్దం యొక్క స్థాయిని డెసిబెల్స్ (dB) పరంగా వ్యక్తీకరించబడిన ధ్వని స్థాయి ద్వారా కొలుస్తారు.",
+    "en": "The level of steady noise is measured by sound level expressed in terms of decibels (dB)."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T31-0116",
+   "section": {
+    "te": "Population Bomb Publication",
+    "en": "Population Bomb Publication"
+   },
+   "q": {
+    "te": "ఎర్లిచ్ రాసిన 'ది పాపులేషన్ బాంబ్' ఏ సంవత్సరంలో ప్రచురించబడింది?",
+    "en": "In which year was 'The Population Bomb' by Ehrlich published?"
+   },
+   "options": {
+    "te": [
+     "1968",
+     "1972",
+     "1987",
+     "1960"
+    ],
+    "en": [
+     "1968",
+     "1972",
+     "1987",
+     "1960"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్య భాగం ప్రకారం, 'ది పాపులేషన్ బాంబ్' 1968లో ఎర్లిచ్ చేత ప్రచురించబడింది, ఇది పర్యావరణ సమస్యలపై అవగాహనను పెంచింది.",
+    "en": "'The Population Bomb' was published by Ehrlich in 1968, raising awareness about environmental issues."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T31-0111",
+   "section": {
+    "te": "Madagascar endemic species",
+    "en": "Madagascar endemic species"
+   },
+   "q": {
+    "te": "మడగాస్కర్‌లో దాదాపు ఎంత శాతం మొక్కలు మరియు జంతువులు ప్రపంచంలో మరెక్కడా కనిపించవు?",
+    "en": "In Madagascar, what percentage of plants and animals are found nowhere else in the world?"
+   },
+   "options": {
+    "te": [
+     "దాదాపు 65 శాతం",
+     "దాదాపు 50 శాతం",
+     "దాదాపు 85 శాతం",
+     "దాదాపు 75 శాతం"
+    ],
+    "en": [
+     "About 65 per cent",
+     "About 50 per cent",
+     "About 85 per cent",
+     "About 75 per cent"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మడగాస్కర్‌లోని దాదాపు 85 శాతం మొక్కలు మరియు జంతువులు ప్రపంచంలో మరెక్కడా కనిపించవని పాఠ్యాంశంలో పేర్కొనబడింది.",
+    "en": "The text states: 'In Madagascar, for example, about 85 per cent of the plants and animals are found nowhere else in the world'."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T31-0146",
+   "section": {
+    "te": "Namami Gange Objectives",
+    "en": "Namami Gange Objectives"
+   },
+   "q": {
+    "te": "'నమామి గంగే కార్యక్రమం' యొక్క లక్ష్యాలు ఈ క్రింది వాటిలో ఏవి?\n1. పారిశ్రామిక వ్యర్థాల పర్యవేక్షణ\n2. జీవవైవిధ్యాన్ని పెంచడానికి నదీ తీరం వెంట అటవీకరణ\n3. నది ఉపరితలాన్ని శుభ్రపరచడం\n4. నదీ తీర అభివృద్ధి (River front development)",
+    "en": "Which of the following are objectives of the 'Namami Gange Programme'?\n1. Monitoring of industrial effluents\n2. Afforestation along the bank to increase biodiversity\n3. Cleaning of the river surface\n4. Development of river front"
+   },
+   "options": {
+    "te": [
+     "1, 2 మరియు 3 మాత్రమే",
+     "2, 3 మరియు 4 మాత్రమే",
+     "1 మరియు 4 మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "1, 2 and 3 only",
+     "2, 3 and 4 only",
+     "1 and 4 only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జాబితా చేయబడిన అన్ని పాయింట్లు నమామి గంగే కార్యక్రమం యొక్క లక్ష్యాలుగా పాఠ్యభాగంలో స్పష్టంగా పేర్కొనబడ్డాయి.",
+    "en": "All the listed points are explicitly mentioned in the text as objectives of the Namami Gange Programme."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T31-0028",
+   "section": {
+    "te": "Tundra Biome",
+    "en": "Tundra Biome"
+   },
+   "q": {
+    "te": "తుండ్రా బయోమ్‌లో కింది వాటిలో ఏ రకమైన వృక్షసంపద కనిపిస్తుంది?\nA. నాచులు (Mosses)\nB. లైకెన్లు (Lichens)\nC. చిన్న పొదలు (Small shrubs)",
+    "en": "Which of the following types of vegetation are found in the Tundra biome?\nA. Mosses\nB. Lichens\nC. Small shrubs"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "తుండ్రా వృక్షసంపదలో నాచులు, లైకెన్లు మరియు చిన్న పొదలు ఉంటాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Tundra vegetation includes mosses, lichens, and small shrubs."
+   }
+  }
+ ]
+}

@@ -1,0 +1,942 @@
+{
+ "id": "geo-27-g1-6",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Transport – క్విజ్ 6",
+  "en": "Transport – Quiz 6"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T27-0173",
+   "section": {
+    "te": "Supersonic Aircraft",
+    "en": "Supersonic Aircraft"
+   },
+   "q": {
+    "te": "సూపర్‌సోనిక్ విమానం లండన్ మరియు న్యూయార్క్ మధ్య దూరాన్ని కవర్ చేయడానికి ఎంత సమయం పడుతుంది?",
+    "en": "How much time does a supersonic aircraft take to cover the distance between London and New York?"
+   },
+   "options": {
+    "te": [
+     "3.5 గంటలు",
+     "10 గంటలు",
+     "35 గంటలు",
+     "72 గంటలు"
+    ],
+    "en": [
+     "3.5 hours",
+     "10 hours",
+     "35 hours",
+     "72 hours"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సూపర్‌సోనిక్ విమానాలు ప్రయాణ సమయాన్ని గణనీయంగా తగ్గించాయి, లండన్ నుండి న్యూయార్క్‌కు 3.5 గంటల్లో చేరుకుంటాయి.",
+    "en": "Supersonic aircraft have significantly reduced travel time, covering London to New York in 3.5 hours."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T27-0285",
+   "section": {
+    "te": "Television History",
+    "en": "Television History"
+   },
+   "q": {
+    "te": "భారతదేశంలో టెలివిజన్ చరిత్రకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. టెలివిజన్ సేవలు ప్రారంభంలో 1959లో జాతీయ రాజధానిలో ప్రారంభమయ్యాయి.\n2. 1976లో, టెలివిజన్ ఆల్ ఇండియా రేడియో నుండి వేరు చేయబడింది మరియు దూరదర్శన్ అని పేరు పెట్టారు.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the history of television in India:\n1. Television services initially began in the National Capital in 1959.\n2. In 1976, television was separated from All India Radio and named Doordarshan.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "టెలివిజన్ సేవలు 1959లో ఢిల్లీలో ప్రారంభమయ్యాయి మరియు తరువాత 1976లో AIR నుండి వేరు చేయబడి దూరదర్శన్‌గా మారాయి.",
+    "en": "Television services started in Delhi in 1959 and were later separated from AIR to become Doordarshan in 1976."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T27-0264",
+   "section": {
+    "te": "Total Railway Length",
+    "en": "Total Railway Length"
+   },
+   "q": {
+    "te": "రైల్వే ఇయర్ బుక్ 2019-20 ప్రకారం, భారతీయ రైల్వే నెట్‌వర్క్ మొత్తం పొడవు ఎంత?",
+    "en": "According to the Railway Yearbook 2019-20, what was the total length of the Indian Railways network?"
+   },
+   "options": {
+    "te": [
+     "14,500 కి.మీ",
+     "63,950 కి.మీ",
+     "67,956 కి.మీ",
+     "65,000 కి.మీ"
+    ],
+    "en": [
+     "14,500 km",
+     "63,950 km",
+     "67,956 km",
+     "65,000 km"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "2019-20 డేటా ప్రకారం భారతీయ రైల్వే నెట్‌వర్క్ మొత్తం పొడవు 67,956 కి.మీ అని మూలం పేర్కొంది.",
+    "en": "The source specifies that the total length of the Indian Railways network was 67,956 km as per the 2019-20 data."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T27-0102",
+   "section": {
+    "te": "Traffic Flow",
+    "en": "Traffic Flow"
+   },
+   "q": {
+    "te": "ట్రాఫిక్ ప్రవాహం (traffic flow) సందర్భంలో, 'పీక్స్' (peaks) మరియు 'ట్రఫ్స్' (troughs) దేనిని సూచిస్తాయి?",
+    "en": "In the context of traffic flow, what do 'peaks' and 'troughs' refer to?"
+   },
+   "options": {
+    "te": [
+     "ట్రాఫిక్ ప్రవాహం యొక్క గరిష్ట మరియు కనిష్ట పాయింట్లు",
+     "మెటల్ మరియు అన్‌మెటల్ రోడ్లు",
+     "పర్వత రోడ్లు మరియు లోయ రోడ్లు",
+     "వేగ పరిమితులు మరియు కనీస వేగం"
+    ],
+    "en": [
+     "High points and low points of traffic flow",
+     "Metalled and unmetalled roads",
+     "Mountain roads and valley roads",
+     "Speed limits and minimum speeds"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "రోజులో నిర్ణీత సమయాల్లో సంభవించే ట్రాఫిక్ ప్రవాహం యొక్క గరిష్ట పాయింట్లను పీక్స్ అని మరియు కనిష్ట పాయింట్లను ట్రఫ్స్ అని పాఠ్యభాగం నిర్వచించింది.",
+    "en": "The text defines peaks as high points and troughs as low points of traffic flow occurring at particular times of the day."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T27-0017",
+   "section": {
+    "te": "Road Network Length",
+    "en": "Road Network Length"
+   },
+   "q": {
+    "te": "2020–21 నాటి సమాచారం ప్రకారం, భారతదేశంలోని మొత్తం రోడ్డు నెట్‌వర్క్ దాదాపు ఎన్ని లక్షల కిలోమీటర్లు ఉంది?",
+    "en": "According to 2020–21 data, the total road network in India aggregates to approximately what length?"
+   },
+   "options": {
+    "te": [
+     "71.45 లక్షల కి.మీ.",
+     "48.60 లక్షల కి.మీ.",
+     "62.16 లక్షల కి.మీ.",
+     "54.82 లక్షల కి.మీ."
+    ],
+    "en": [
+     "71.45 lakh km",
+     "48.60 lakh km",
+     "62.16 lakh km",
+     "54.82 lakh km"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "2020–21 నాటికి భారతదేశం ప్రపంచంలోనే రెండవ అతిపెద్ద రోడ్డు నెట్‌వర్క్‌ను కలిగి ఉంది, ఇది దాదాపు 62.16 లక్షల కిలోమీటర్లుగా ఉంది.",
+    "en": "According to 2020–21 data, India has the second largest road network in the world, aggregating to about 62.16 lakh km."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T27-0198",
+   "section": {
+    "te": "Indian Satellites",
+    "en": "Indian Satellites"
+   },
+   "q": {
+    "te": "కింది భారతీయ ఉపగ్రహాలను వాటి ప్రయోగ కాలక్రమానుసారం సరైన క్రమంలో అమర్చండి:\n1. రోహిణి\n2. ఆర్యభట్ట\n3. ఆపిల్ (APPLE)\n4. భాస్కర-I",
+    "en": "Arrange the following Indian satellites in the correct chronological order of their launch:\n1. Rohini\n2. Aryabhatt\n3. APPLE\n4. Bhaskar-I"
+   },
+   "options": {
+    "te": [
+     "2-4-1-3",
+     "2-1-4-3",
+     "4-2-1-3",
+     "1-2-4-3"
+    ],
+    "en": [
+     "2-4-1-3",
+     "2-1-4-3",
+     "4-2-1-3",
+     "1-2-4-3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సరైన క్రమం: ఆర్యభట్ట (1975), భాస్కర-I (1979), రోహిణి (1980), మరియు ఆపిల్ (1981).",
+    "en": "The correct order is Aryabhatt (1975), Bhaskar-I (1979), Rohini (1980), and APPLE (1981)."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T27-0218",
+   "section": {
+    "te": "Packet Stations Function",
+    "en": "Packet Stations Function"
+   },
+   "q": {
+    "te": "ప్యాకెట్ స్టేషన్లకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. వీటిని ఫెర్రీ పోర్టులు అని కూడా అంటారు.\n2. ఇవి కేవలం బల్క్ పారిశ్రామిక కార్గోను రవాణా చేయడానికి మాత్రమే ఉద్దేశించబడ్డాయి.\n3. ఇవి సాధారణంగా ఒక జలవనరుకు ఇరువైపులా ఒకదానికొకటి ఎదురుగా జంటలుగా ఉంటాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding Packet Stations:\n1. They are also known as ferry ports.\n2. They are exclusively concerned with transporting bulk industrial cargo.\n3. They usually occur in pairs facing each other across a water body.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్యాకెట్ స్టేషన్లు ప్రయాణీకులు మరియు మెయిల్ (బల్క్ కార్గో కాదు) కు సంబంధించిన ఫెర్రీ పోర్టులు మరియు తక్కువ దూరంలో జంటలుగా ఉంటాయి.",
+    "en": "Packet stations are ferry ports concerned with passengers and mail (not bulk cargo) and occur in pairs across short distances."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T27-0221",
+   "section": {
+    "te": "National Highways Traffic",
+    "en": "National Highways Traffic"
+   },
+   "q": {
+    "te": "భారతదేశంలోని జాతీయ రహదారులకు (NH) సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. జాతీయ రహదారులు మొత్తం రోడ్డు పొడవులో సుమారు 2 శాతం ఉన్నాయి.\n2. జాతీయ రహదారులు మొత్తం రోడ్డు ట్రాఫిక్‌లో 40 శాతాన్ని మోస్తాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding National Highways (NH) in India:\n1. National Highways constitute about 2 per cent of the total road length.\n2. National Highways carry 40 per cent of the total road traffic.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 లేదా 2 ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్య భాగం ప్రకారం, జాతీయ రహదారులు రోడ్డు పొడవులో కేవలం 2% మాత్రమే ఉన్నప్పటికీ, 40% ట్రాఫిక్‌ను నిర్వహిస్తాయి.",
+    "en": "National Highways make up only 2% of the road length but handle a significant 40% of the traffic."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T27-0210",
+   "section": {
+    "te": "Entrepot Ports",
+    "en": "Entrepot Ports"
+   },
+   "q": {
+    "te": "బాల్టిక్ ప్రాంతానికి 'ఎంట్రెపోట్' (ఎగుమతి కోసం వస్తువుల సేకరణ కేంద్రం)గా ఏ ఓడరేవు పనిచేస్తుంది?",
+    "en": "Which port serves as an 'entrepot' (collection centre for export) for the Baltic region?"
+   },
+   "options": {
+    "te": [
+     "కోపెన్‌హాగన్",
+     "సింగపూర్",
+     "ఏడెన్",
+     "రోటర్‌డ్యామ్"
+    ],
+    "en": [
+     "Copenhagen",
+     "Singapore",
+     "Aden",
+     "Rotterdam"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "బాల్టిక్ ప్రాంతానికి కోపెన్‌హాగన్ ఎంట్రెపోట్ పోర్ట్ అని మూలం పేర్కొంది.",
+    "en": "Copenhagen is the entrepot port for the Baltic region."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T27-0190",
+   "section": {
+    "te": "Air transport importance",
+    "en": "Air transport importance"
+   },
+   "q": {
+    "te": "వాయు రవాణాకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. చేరుకోలేని ప్రాంతాలకు చేరుకోవడానికి ఇది తరచుగా ఏకైక మార్గం.\n2. ఇరాక్‌లో జరిగిన వైమానిక దాడుల్లో చూసినట్లుగా దీనికి గొప్ప వ్యూహాత్మక ప్రాముఖ్యత ఉంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding air transport:\n1. It is often the only means to reach inaccessible areas.\n2. It has great strategic importance, as seen in the air strikes in Iraq.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "చేరుకోలేని ప్రాంతాలకు చేరుకోవడానికి వాయు రవాణా చాలా ముఖ్యమైనది మరియు ఇరాక్‌లో జరిగిన వైమానిక దాడుల ద్వారా దీని వ్యూహాత్మక ప్రాముఖ్యత నిరూపితమైంది.",
+    "en": "Air transport is vital for reaching inaccessible areas and has strategic importance, exemplified by air strikes in Iraq."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T27-0316",
+   "section": {
+    "te": "Principal Commodities Import",
+    "en": "Principal Commodities Import"
+   },
+   "q": {
+    "te": "పట్టిక 8.5 ప్రకారం, 2021-22లో భారతదేశం దిగుమతి చేసుకున్న 'రసాయన ఉత్పత్తుల' (Chemical products) విలువ (కోట్ల రూపాయలలో) ఎంత?",
+    "en": "What was the value of 'Chemical products' imported by India in 2021-22 as per Table 8.5 (in crore rupees)?"
+   },
+   "options": {
+    "te": [
+     "1,05,796",
+     "3,08,882",
+     "4,99,766",
+     "67,545"
+    ],
+    "en": [
+     "1,05,796",
+     "3,08,882",
+     "4,99,766",
+     "67,545"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పట్టిక 8.5 ప్రకారం, 2021-22లో రసాయన ఉత్పత్తుల దిగుమతి విలువ 3,08,882 కోట్ల రూపాయలుగా ఉంది.",
+    "en": "Table 8.5 shows that the import value of chemical products in 2021-22 was 3,08,882 crore rupees."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T27-0174",
+   "section": {
+    "te": "Inland Waterway Factors",
+    "en": "Inland Waterway Factors"
+   },
+   "q": {
+    "te": "అంతర్గత జలమార్గాల అభివృద్ధికి సంబంధించి ఈ క్రింది అంశాలను పరిగణించండి:\n1. ఛానల్ యొక్క వెడల్పు మరియు లోతు.\n2. నీటి ప్రవాహంలో కొనసాగింపు.\n3. వాడుకలో ఉన్న రవాణా సాంకేతికత.\nపై వాటిలో ఏవి సరైనవి?",
+    "en": "Consider the following factors regarding the development of inland waterways:\n1. Width and depth of the channel.\n2. Continuity in the water flow.\n3. Transport technology in use.\nWhich of the above factors are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, నౌకాయానం అనేది ఛానల్ కొలతలు, ప్రవాహ కొనసాగింపు మరియు సాంకేతికతపై ఆధారపడి ఉంటుంది.",
+    "en": "Navigability depends on channel dimensions, flow continuity, and technology."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T27-0343",
+   "section": {
+    "te": "Haldia Port Location",
+    "en": "Haldia Port Location"
+   },
+   "q": {
+    "te": "కోల్‌కతా నుండి దిగువన (downstream) ఎంత దూరంలో హల్దియా ఓడరేవు ఉంది?",
+    "en": "At what distance downstream from Kolkata is the Haldia Port located?"
+   },
+   "options": {
+    "te": [
+     "100 కి.మీ.",
+     "128 కి.మీ.",
+     "105 కి.మీ.",
+     "25 కి.మీ."
+    ],
+    "en": [
+     "100 km",
+     "128 km",
+     "105 km",
+     "25 km"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కోల్‌కతా ఓడరేవు వద్ద రద్దీని తగ్గించడానికి హల్దియా ఓడరేవును కోల్‌కతా నుండి 105 కిలోమీటర్ల దిగువన నిర్మించారు.",
+    "en": "Haldia Port was constructed 105 km downstream from Kolkata to reduce congestion at the Kolkata port."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T27-0346",
+   "section": {
+    "te": "Kolkata Port Significance",
+    "en": "Kolkata Port Significance"
+   },
+   "q": {
+    "te": "శ్యామ ప్రసాద్ ముఖర్జీ (కోల్‌కతా) ఓడరేవుకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. పారాదీప్ మరియు హల్దియా వంటి ఇతర ఓడరేవులకు ఎగుమతులు మళ్లించడం వల్ల ఇది తన ప్రాముఖ్యతను కోల్పోయింది.\n2. ఇది హుగ్లీ నదిలో పూడిక (silt) పేరుకుపోయే సమస్యను ఎదుర్కొంటోంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the Shyama Prasad Mookerjee (Kolkata) Port:\n1. It has lost significance due to diversion of exports to ports like Paradwip and Haldia.\n2. It faces the problem of silt accumulation in the Hugli river.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఇతర ఓడరేవులకు ఎగుమతులు మళ్లించడం వల్ల ఈ ఓడరేవు ప్రాముఖ్యతను కోల్పోయిందని మరియు హుగ్లీ నదిలో పూడిక సమస్యను ఎదుర్కొంటోందని పాఠ్య భాగం ధృవీకరిస్తుంది.",
+    "en": "The text confirms both that the port lost significance due to export diversion to other ports and that it faces siltation problems in the Hugli river."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T27-0152",
+   "section": {
+    "te": "North Pacific Ports",
+    "en": "North Pacific Ports"
+   },
+   "q": {
+    "te": "ఉత్తర పసిఫిక్ సముద్ర మార్గంలో ఆసియా తీరం వైపు ఉన్న నౌకాశ్రయం క్రింది వాటిలో ఏది?",
+    "en": "Which of the following ports is situated on the Asian side of the North Pacific Sea Route?"
+   },
+   "options": {
+    "te": [
+     "పోర్ట్‌ల్యాండ్",
+     "వాంకూవర్",
+     "కోబ్",
+     "సియాటెల్"
+    ],
+    "en": [
+     "Portland",
+     "Vancouver",
+     "Kobe",
+     "Seattle"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పోర్ట్‌ల్యాండ్, సియాటెల్, వాంకూవర్ అమెరికా తీరంలో ఉండగా; కోబ్, యొకహోమా, షాంఘై వంటివి ఆసియా తీరంలో ఉన్నాయి.",
+    "en": "Yokohama, Kobe, Shanghai, Hong Kong, Manila, and Singapore are on the Asian side, while Vancouver, Seattle, Portland, San Francisco, and Los Angeles are on the American side."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T27-0293",
+   "section": {
+    "te": "Export Trends",
+    "en": "Export Trends"
+   },
+   "q": {
+    "te": "భారతదేశ ఎగుమతి కూర్పులో మారుతున్న ధోరణులకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఎగుమతుల్లో వ్యవసాయం మరియు అనుబంధ ఉత్పత్తుల వాటా సంవత్సరాలుగా తగ్గింది.\n2. ఎగుమతుల్లో ముడి పెట్రోలియం మరియు ఉత్పత్తుల వాటా పెరిగింది.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the changing patterns of India's export composition:\n1. The share of agriculture and allied products in exports has decreased over the years.\n2. The share of crude petroleum and products in exports has increased.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మూలం ప్రకారం, భారతదేశ ఎగుమతి కూర్పులో వ్యవసాయం మరియు తయారీ వస్తువుల వాటా తగ్గింది, అయితే ముడి పెట్రోలియం మరియు ఇతర వస్తువుల వాటా పెరిగింది.",
+    "en": "The share of agriculture and manufactured goods decreased, while crude petroleum and other commodities increased in India's export composition."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T27-0121",
+   "section": {
+    "te": "North America Railways",
+    "en": "North America Railways"
+   },
+   "q": {
+    "te": "ఉత్తర అమెరికాలోని రైల్వేలకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ప్రయాణీకుల కంటే సుదూర ప్రాంతాలకు బరువైన సరుకు రవాణా కోసం రైల్వేలను ఎక్కువగా ఉపయోగిస్తారు.\n2. ముఖ్యమైన సరుకు రవాణా వస్తువులలో ఖనిజాలు, ధాన్యాలు, కలప మరియు యంత్రాలు ఉన్నాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది సరైనది/వి?",
+    "en": "Consider the following statements regarding railways in North America:\n1. Railways are used more for long-distance bulky freight than for passengers.\n2. Important freight items include ores, grains, timber, and machinery.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 లేదా 2 ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఉత్తర అమెరికా రైల్వేలు ప్రయాణీకుల రవాణా కంటే ఖనిజాలు మరియు ధాన్యాలు వంటి బరువైన సరుకు రవాణాకు ప్రాధాన్యత ఇస్తాయని పాఠ్య భాగం ధృవీకరిస్తుంది.",
+    "en": "The text confirms that North American railways prioritize bulky freight like ores and grains over passenger transport."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T27-0051",
+   "section": {
+    "te": "Sea trade volume and value",
+    "en": "Sea trade volume and value"
+   },
+   "q": {
+    "te": "సముద్ర మార్గం ద్వారా జరిగే భారతదేశ విదేశీ వాణిజ్యానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. దేశ వాణిజ్య పరిమాణంలో (volume) 95 శాతం సముద్రం ద్వారా రవాణా అవుతుంది.\n2. విలువల పరంగా (in terms of value) 68 శాతం వాణిజ్యం సముద్ర మార్గం ద్వారా జరుగుతుంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding India's foreign trade carried by sea:\n1. 95 per cent of the country's trade volume is moved by sea.\n2. In terms of value, 68 per cent of the trade is moved by sea.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రెండు ప్రకటనలు సరైనవే. భారతదేశ వాణిజ్య పరిమాణంలో 95% మరియు విలువ పరంగా 68% సముద్ర మార్గం ద్వారానే రవాణా అవుతుంది.",
+    "en": "Both statements are correct according to the text: 95% of trade by volume and 68% in terms of value is moved by sea."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T27-0207",
+   "section": {
+    "te": "Global Village Concept",
+    "en": "Global Village Concept"
+   },
+   "q": {
+    "te": "ప్రకటన (A): ఆధునిక ప్రపంచంలో గ్లోబల్ విలేజ్ (global village) అనే భావన వాస్తవమైంది.\nకారణం (R): రవాణా వ్యవస్థల కంటే ఆధునిక సమాచార వ్యవస్థలే గ్లోబల్ విలేజ్ సాకారం కావడానికి ఎక్కువ దోహదపడ్డాయి.",
+    "en": "Assertion (A): The concept of a global village has become a reality in the modern world.\nReason (R): Modern communication systems have contributed more than transportation to making the global village a reality."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "రవాణా వ్యవస్థల కంటే ఆధునిక సమాచార వ్యవస్థలే గ్లోబల్ విలేజ్ భావనను వాస్తవ రూపంలోకి తెచ్చాయని పాఠ్య భాగం పేర్కొంది.",
+    "en": "Modern communication systems have made the global village a reality, more so than transportation systems."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T27-0187",
+   "section": {
+    "te": "Telegraph colonization",
+    "en": "Telegraph colonization"
+   },
+   "q": {
+    "te": "అమెరికన్ వెస్ట్ వలసరాజ్య స్థాపనలో ఏ కమ్యూనికేషన్ మోడ్ కీలక పాత్ర పోషించింది?",
+    "en": "Which mode of communication was instrumental in the colonisation of the American West?"
+   },
+   "options": {
+    "te": [
+     "ఆప్టిక్ ఫైబర్ కేబుల్స్",
+     "టెలిగ్రాఫ్",
+     "ఇంటర్నెట్",
+     "టెలిఫోన్"
+    ],
+    "en": [
+     "Optic fiber cables",
+     "Telegraph",
+     "Internet",
+     "Telephone"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అమెరికన్ వెస్ట్ వలసరాజ్య స్థాపనలో టెలిగ్రాఫ్ కీలక పాత్ర పోషించింది.",
+    "en": "The telegraph played a key role in the colonization of the American West."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T27-0253",
+   "section": {
+    "te": "Kerala Backwaters",
+    "en": "Kerala Backwaters"
+   },
+   "q": {
+    "te": "ప్రసిద్ధ నెహ్రూ ట్రోఫీ బోట్ రేస్, దీనిని 'వల్లంకలి' అని కూడా పిలుస్తారు, ఇది ఏ రాష్ట్రంలోని బ్యాక్ వాటర్స్ (backwaters) లో జరుగుతుంది?",
+    "en": "The famous Nehru Trophy Boat Race, also known as 'Vallamkali', is held in the backwaters of which state?"
+   },
+   "options": {
+    "te": [
+     "గోవా",
+     "మహారాష్ట్ర",
+     "కేరళ",
+     "కర్ణాటక"
+    ],
+    "en": [
+     "Goa",
+     "Maharashtra",
+     "Kerala",
+     "Karnataka"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కేరళలోని బ్యాక్ వాటర్స్ (కాయల్) పర్యాటకులను ఆకర్షించడానికి మరియు నెహ్రూ ట్రోఫీ బోట్ రేస్ (వల్లంకలి) నిర్వహించడానికి ప్రసిద్ధి చెందాయి.",
+    "en": "The backwaters (Kayal) of Kerala are famous for attracting tourists and hosting the Nehru Trophy Boat Race (Vallamkali)."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T27-0291",
+   "section": {
+    "te": "Trade Balance 2021-22",
+    "en": "Trade Balance 2021-22"
+   },
+   "q": {
+    "te": "2021-22 సంవత్సరపు గణాంకాల ప్రకారం, కోట్ల రూపాయలలో భారతదేశ వాణిజ్య సమతుల్యత (trade balance) ఎంత?",
+    "en": "According to the data for the year 2021-22, what was India's trade balance in crore rupees?"
+   },
+   "options": {
+    "te": [
+     "14,25,753",
+     "31,47,021",
+     "-45,72,775",
+     "-14,25,753"
+    ],
+    "en": [
+     "14,25,753",
+     "31,47,021",
+     "-45,72,775",
+     "-14,25,753"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "2021-22లో, భారతదేశ ఎగుమతులు రూ. 31,47,021 కోట్లు మరియు దిగుమతులు రూ. 45,72,775 కోట్లు, దీని ఫలితంగా రూ. 14,25,753 కోట్ల ప్రతికూల వాణిజ్య సమతుల్యత ఏర్పడింది.",
+    "en": "In 2021-22, India's exports were Rs. 31,47,021 crore and imports were Rs. 45,72,775 crore, resulting in a negative trade balance of Rs. 14,25,753 crore."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T27-0232",
+   "section": {
+    "te": "Road Category Lengths",
+    "en": "Road Category Lengths"
+   },
+   "q": {
+    "te": "2020 డేటా ప్రకారం కింది రోడ్డు వర్గాలను వాటి పొడవులతో జతపరచండి:\nజాబితా-I: 1. జాతీయ రహదారులు, 2. రాష్ట్ర రహదారులు\nజాబితా-II: i. 1,76,818 కి.మీ, ii. 1,36,440 కి.మీ",
+    "en": "Match the following road categories with their lengths as per 2020 data:\nList-I: 1. National Highways, 2. State Highways\nList-II: i. 1,76,818 km, ii. 1,36,440 km"
+   },
+   "options": {
+    "te": [
+     "1-i, 2-ii",
+     "1-ii, 2-i",
+     "1-ii, 2-ii",
+     "1-i, 2-i"
+    ],
+    "en": [
+     "1-i, 2-ii",
+     "1-ii, 2-i",
+     "1-ii, 2-ii",
+     "1-i, 2-i"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పట్టిక 7.1 ప్రకారం, జాతీయ రహదారులు 1,36,440 కి.మీ మరియు రాష్ట్ర రహదారులు 1,76,818 కి.మీ.",
+    "en": "According to Table 7.1, National Highways are 1,36,440 km and State Highways are 1,76,818 km."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T27-0296",
+   "section": {
+    "te": "Satellite Systems",
+    "en": "Satellite Systems"
+   },
+   "q": {
+    "te": "భారతీయ ఉపగ్రహ వ్యవస్థలకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. టెలికమ్యూనికేషన్ వంటి బహుళ-ప్రయోజన వినియోగం కోసం 1983లో INSAT వ్యవస్థ స్థాపించబడింది.\n2. IRS-IA ప్రయోగంతో 1988లో IRS వ్యవస్థ పని చేయడం ప్రారంభించింది.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding Indian satellite systems:\n1. The INSAT system was established in 1983 for multi-purpose use like telecommunication.\n2. The IRS system became operational in 1988 with the launch of IRS-IA.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "టెలికమ్యూనికేషన్ మరియు వాతావరణ శాస్త్రం కోసం 1983లో INSAT స్థాపించబడింది, రిమోట్ సెన్సింగ్ కోసం 1988లో IRS ప్రారంభమైంది.",
+    "en": "INSAT was established in 1983 for telecommunication and meteorology, while IRS started in 1988 for remote sensing."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T27-0329",
+   "section": {
+    "te": "Port Locations",
+    "en": "Port Locations"
+   },
+   "q": {
+    "te": "ఈ క్రింది ఓడరేవులను వాటి భౌగోళిక స్థానాలతో జతపరచండి:\n1. దీన్ దయాల్ పోర్ట్ - i. జువారి ఎస్ట్యూరీ\n2. మర్మగోవా పోర్ట్ - ii. వెంబనాడ్ కాయల్\n3. కొచ్చిన్ పోర్ట్ - iii. కచ్ సింధుశాఖ (Gulf of Kuchchh)",
+    "en": "Match the following ports with their geographical locations:\n1. Deendayal Port - i. Zuari estuary\n2. Mormugao Port - ii. Vembanad Kayal\n3. Cochin Port - iii. Gulf of Kuchchh"
+   },
+   "options": {
+    "te": [
+     "1-iii, 2-i, 3-ii",
+     "1-i, 2-ii, 3-iii",
+     "1-ii, 2-iii, 3-i",
+     "1-iii, 2-ii, 3-i"
+    ],
+    "en": [
+     "1-iii, 2-i, 3-ii",
+     "1-i, 2-ii, 3-iii",
+     "1-ii, 2-iii, 3-i",
+     "1-iii, 2-ii, 3-i"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "దీన్ దయాల్ కచ్ సింధుశాఖ వద్ద, మర్మగోవా జువారి ఎస్ట్యూరీ వద్ద మరియు కొచ్చిన్ వెంబనాడ్ కాయల్ వద్ద ఉన్నాయి.",
+    "en": "Deendayal is at Gulf of Kuchchh, Mormugao is at Zuari estuary, and Cochin is at Vembanad Kayal."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T27-0144",
+   "section": {
+    "te": "Northern Atlantic Route",
+    "en": "Northern Atlantic Route"
+   },
+   "q": {
+    "te": "ప్రపంచ విదేశీ వాణిజ్యంలో నాల్గవ వంతు రవాణా జరుగుతూ, 'బిగ్ ట్రంక్ రూట్' అని పిలువబడే సముద్ర మార్గం ఏది?",
+    "en": "Which sea route is known as the 'Big Trunk Route' and handles one-fourth of the world's foreign trade?"
+   },
+   "options": {
+    "te": [
+     "మధ్యధరా-హిందూ మహాసముద్ర మార్గం",
+     "దక్షిణ పసిఫిక్ సముద్ర మార్గం",
+     "ఉత్తర అట్లాంటిక్ సముద్ర మార్గం",
+     "కేప్ ఆఫ్ గుడ్ హోప్ సముద్ర మార్గం"
+    ],
+    "en": [
+     "The Mediterranean–Indian Ocean Sea Route",
+     "The South Pacific Sea Route",
+     "The Northern Atlantic Sea Route",
+     "The Cape of Good Hope Sea Route"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఉత్తర అట్లాంటిక్ సముద్ర మార్గం ప్రపంచ విదేశీ వాణిజ్యంలో 1/4 వంతును కలిగి ఉండి ప్రపంచంలోనే అత్యంత రద్దీగా ఉండే మార్గంగా నిలిచింది, కాబట్టి దీనిని 'బిగ్ ట్రంక్ రూట్' అని పిలుస్తారు.",
+    "en": "The Northern Atlantic Sea Route links North-eastern U.S.A. and North-western Europe. One-fourth of the world's foreign trade moves on this route, making it the busiest in the world, and it is otherwise called the Big Trunk Route."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T27-0162",
+   "section": {
+    "te": "Panama Canal Locks",
+    "en": "Panama Canal Locks"
+   },
+   "q": {
+    "te": "పనామా కాలువలో ఓడలు వివిధ స్థాయిలను దాటడానికి అనుమతించే వ్యవస్థలో ఎన్ని లాకులు (locks) ఉన్నాయి?",
+    "en": "How many locks are part of the system that allows ships to cross different levels in the Panama Canal?"
+   },
+   "options": {
+    "te": [
+     "ఆరు-లాక్ వ్యవస్థ",
+     "పది-లాక్ వ్యవస్థ",
+     "నాలుగు-లాక్ వ్యవస్థ",
+     "ఎనిమిది-లాక్ వ్యవస్థ"
+    ],
+    "en": [
+     "Six-lock system",
+     "Ten-lock system",
+     "Four-lock system",
+     "Eight-lock system"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నీటి మట్టాలలో 26 మీటర్ల వ్యత్యాసాన్ని నిర్వహించడానికి పనామా కాలువ ఆరు-లాక్ వ్యవస్థను ఉపయోగిస్తుంది.",
+    "en": "The Panama Canal uses a six-lock system to manage the 26-meter difference in water levels."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T27-0203",
+   "section": {
+    "te": "Satellite Communication History",
+    "en": "Satellite Communication History"
+   },
+   "q": {
+    "te": "1970లలో శాటిలైట్ కమ్యూనికేషన్ ఆవిర్భావానికి దారితీసిన అంతరిక్ష పరిశోధనలో ఏ రెండు దేశాలు అగ్రగామిగా ఉన్నాయి?",
+    "en": "Which two entities pioneered space research leading to the emergence of satellite communication in the 1970s?"
+   },
+   "options": {
+    "te": [
+     "జర్మనీ మరియు జపాన్",
+     "భారతదేశం మరియు చైనా",
+     "అమెరికా మరియు పూర్వపు యు.ఎస్.ఎస్.ఆర్ (U.S.S.R.)",
+     "అమెరికా మరియు బ్రిటన్"
+    ],
+    "en": [
+     "Germany and Japan",
+     "India and China",
+     "USA and former USSR",
+     "USA and UK"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "శాటిలైట్ కమ్యూనికేషన్ అభివృద్ధికి దారితీసిన అంతరిక్ష పరిశోధనలో అమెరికా మరియు పూర్వపు యు.ఎస్.ఎస్.ఆర్ అగ్రగామిగా ఉన్నాయి.",
+    "en": "The USA and the former USSR were the pioneers in space research that led to the development of satellite communication."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T27-0110",
+   "section": {
+    "te": "Railway Density",
+    "en": "Railway Density"
+   },
+   "q": {
+    "te": "ప్రతి 6.5 చదరపు కిలోమీటర్ల విస్తీర్ణానికి 1 కిలోమీటరు రైల్వేతో ప్రపంచంలోనే అత్యధిక రైల్వే సాంద్రత కలిగిన దేశం ఏది?",
+    "en": "Which country has the highest railway density in the world, with 1 km of railway for every 6.5 sq km area?"
+   },
+   "options": {
+    "te": [
+     "యునైటెడ్ కింగ్‌డమ్",
+     "బెల్జియం",
+     "USA",
+     "రష్యా"
+    ],
+    "en": [
+     "United Kingdom",
+     "Belgium",
+     "USA",
+     "Russia"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రతి 6.5 చదరపు కిలోమీటర్ల విస్తీర్ణానికి 1 కిలోమీటరు రైల్వేతో బెల్జియం అత్యధిక రైల్వే సాంద్రతను కలిగి ఉందని పాఠ్య భాగం పేర్కొంది.",
+    "en": "Belgium has the highest railway density of 1 km of railway for every 6.5 sq km area."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T27-0154",
+   "section": {
+    "te": "Suez Canal Features",
+    "en": "Suez Canal Features"
+   },
+   "q": {
+    "te": "సూయజ్ కాలువకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది లాకులు (locks) లేని సముద్ర మట్టపు కాలువ.\n2. ఇది సుమారు 160 కి.మీ పొడవు మరియు 11 నుండి 15 మీటర్ల లోతు కలిగి ఉంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the Suez Canal:\n1. It is a sea-level canal constructed without locks.\n2. It has a length of about 160 km and a depth of 11 to 15 m.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సూయజ్ కాలువ లాకులు లేని సముద్ర మట్టపు కాలువ, దీని పొడవు సుమారు 160 కి.మీ మరియు లోతు 11 నుండి 15 మీటర్లు.",
+    "en": "The Suez Canal is a sea-level canal without locks. It is about 160 km long and 11 to 15 m deep."
+   }
+  }
+ ]
+}

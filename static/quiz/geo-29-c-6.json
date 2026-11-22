@@ -1,0 +1,942 @@
+{
+ "id": "geo-29-c-6",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Natural Resources and Conservation – క్విజ్ 6",
+  "en": "Natural Resources and Conservation – Quiz 6"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T29-0011",
+   "section": {
+    "te": "Soil conservation",
+    "en": "Soil conservation"
+   },
+   "q": {
+    "te": "చిత్ర వివరణ ప్రకారం 'సున్నితమైన దున్నకం' (gentle ploughing) వల్ల కలిగే ప్రయోజనం ఏమిటి?",
+    "en": "What is the benefit of 'gentle ploughing' as per the image description?"
+   },
+   "options": {
+    "te": [
+     "ఇది లోహపు ఖనిజాల వెలికితీతను పెంచుతుంది",
+     "ఇది నేలను సాంస్కృతికంగా ఆమోదయోగ్యంగా మారుస్తుంది",
+     "ఇది భూగర్భ పర్యావరణ వ్యవస్థకు కనీస అంతరాయం కలిగిస్తుంది",
+     "ఇది బొగ్గు ఏర్పడటానికి సహాయపడుతుంది"
+    ],
+    "en": [
+     "It increases the extraction of metal ores",
+     "It makes the soil culturally acceptable",
+     "It causes minimal disturbance to the underground ecosystem",
+     "It helps in the formation of coal"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సున్నితమైన దున్నకం భూగర్భ పర్యావరణ వ్యవస్థకు కనీస అంతరాయం కలిగిస్తుంది మరియు నేలలోని తేమను నిలుపుకుంటుంది కాబట్టి ఇది ప్రయోజనకరం.",
+    "en": "Gentle ploughing is beneficial because it causes minimal disturbance to the underground ecosystem and retains soil moisture."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T29-0098",
+   "section": {
+    "te": "Historical Irrigation Works",
+    "en": "Historical Irrigation Works"
+   },
+   "q": {
+    "te": "క్రింది చారిత్రక సాగునీటి పనులను వాటి ప్రస్తుత రాష్ట్రాలతో జతపరచండి:\n1. కళింగ - i. మహారాష్ట్ర\n2. బెన్నూరు - ii. ఒడిశా\n3. కొల్హాపూర్ - iii. కర్ణాటక",
+    "en": "Match the following historical irrigation works with their respective modern-day states:\n1. Kalinga - i. Maharashtra\n2. Bennur - ii. Odisha\n3. Kolhapur - iii. Karnataka"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-iii, 3-i",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-i, 3-iii"
+    ],
+    "en": [
+     "1-ii, 2-iii, 3-i",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-i, 3-iii"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, అధునాతన సాగునీటి పనులు కళింగ (ఒడిశా), బెన్నూరు (కర్ణాటక) మరియు కొల్హాపూర్ (మహారాష్ట్ర) లలో కనుగొనబడ్డాయి.",
+    "en": "Sophisticated irrigation works were found in Kalinga (Odisha), Bennur (Karnataka), and Kolhapur (Maharashtra)."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T29-0162",
+   "section": {
+    "te": "Ralegan Siddhi Location",
+    "en": "Ralegan Siddhi Location"
+   },
+   "q": {
+    "te": "వాటర్‌షెడ్ అభివృద్ధికి దేశవ్యాప్తంగా ఆదర్శంగా నిలిచిన రాలెగాన్ సిద్ధి, మహారాష్ట్రలోని ఏ జిల్లాలో ఉంది?",
+    "en": "Ralegan Siddhi, which has become a national model for watershed development, is located in which district of Maharashtra?"
+   },
+   "options": {
+    "te": [
+     "సోలాపూర్",
+     "అహ్మద్‌నగర్",
+     "పుణె",
+     "సతారా"
+    ],
+    "en": [
+     "Solapur",
+     "Ahmadnagar",
+     "Pune",
+     "Satara"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "రాలెగాన్ సిద్ధి మహారాష్ట్రలోని అహ్మద్‌నగర్ జిల్లాలో ఉన్న ఒక చిన్న గ్రామం.",
+    "en": "Ralegan Siddhi is a small village located in the Ahmadnagar district of Maharashtra."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T29-0186",
+   "section": {
+    "te": "Jal Kranti Abhiyan regions",
+    "en": "Jal Kranti Abhiyan regions"
+   },
+   "q": {
+    "te": "జల్ క్రాంతి అభియాన్ కింద గుర్తించిన ఆదర్శ కమాండ్ ప్రాంతాలకు సంబంధించి, క్రింది జతలను పరిశీలించండి:\n1. ఉత్తర ప్రాంతం - హర్యానా\n2. దక్షిణ ప్రాంతం - తెలంగాణ\n3. తూర్పు ప్రాంతం - ఒడిశా\nపై జతలలో ఏవి సరిగ్గా సరిపోలినవి?",
+    "en": "With reference to the model command areas identified under the Jal Kranti Abhiyan, consider the following region-state pairs:\n1. North - Haryana\n2. South - Telangana\n3. East - Odisha\nWhich of the pairs given above are correctly matched?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జల్ క్రాంతి అభియాన్ ప్రకారం ఉత్తర ప్రాంతానికి హర్యానా/యుపి, దక్షిణానికి తెలంగాణ/కర్ణాటక/తమిళనాడు, తూర్పు ప్రాంతానికి ఒడిశా పేర్కొనబడ్డాయి. కాబట్టి మూడూ సరైనవే.",
+    "en": "The source lists: UP, Haryana (North); Karnataka, Telangana, Tamil Nadu (South); Odisha (East). All three given pairs are correct."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T29-0028",
+   "section": {
+    "te": "Traditional fishing practices",
+    "en": "Traditional fishing practices"
+   },
+   "q": {
+    "te": "సాంప్రదాయ సంఘాలు చేపల గుడ్లు పెట్టే కాలంలో (spawning season) చేపలు పట్టకుండా ఎందుకు ఉండేవారు?",
+    "en": "Why did traditional communities refrain from fishing during the spawning season?"
+   },
+   "options": {
+    "te": [
+     "ఆ సీజన్‌లో చేపలు విషపూరితంగా ఉంటాయి కాబట్టి",
+     "ఆ సమయంలో వచ్చే మతపరమైన పండుగల కారణంగా",
+     "సముద్రపు నీరు సహజంగా శుద్ధి కావడానికి",
+     "చేపల జనాభా నిర్వహణను సాధ్యం చేయడానికి"
+    ],
+    "en": [
+     "Because fish are poisonous during that season",
+     "Due to religious festivals occurring at that time",
+     "To allow the ocean water to purify naturally",
+     "To enable the maintenance of the fish population"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "చేపల జనాభాను నిర్వహించడానికి వీలుగా కమ్యూనిటీలు గుడ్లు పెట్టే కాలంలో చేపలు పట్టడాన్ని నియంత్రించేవారని పాఠ్యం పేర్కొంది.",
+    "en": "Communities regulated fishing during the spawning season to help maintain the fish population."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T29-0013",
+   "section": {
+    "te": "Resource transformation",
+    "en": "Resource transformation"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): చెట్లను ఫర్నిచర్‌గా మార్చినప్పుడు అవి వనరుగా పరిగణించబడతాయి.\nకారణం (R): మానవులు తమ జీవనోపాధి లేదా వినియోగం కోసం ప్రకృతిలోని అంశాలను ఉపయోగించినప్పుడు అవి వనరులుగా మారుతాయి.",
+    "en": "Assertion (A): Trees are considered a resource when they are converted into furniture.\nReason (R): Elements of nature become resources when humans use them for sustenance or consumption."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మానవులు తమ జీవనోపాధి లేదా వినియోగం కోసం ప్రకృతిని ఉపయోగించినప్పుడు అది వనరుగా మారుతుందని పాఠ్యభాగం వివరిస్తుంది, దీనికి ఉదాహరణగా ఫర్నిచర్‌గా మార్చబడిన చెట్లను పేర్కొంది.",
+    "en": "Nature becomes a resource when humans use it for sustenance or consumption, using trees converted to furniture as an example."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T29-0130",
+   "section": {
+    "te": "Forest Cover Goal",
+    "en": "Forest Cover Goal"
+   },
+   "q": {
+    "te": "అటవీ విధానం ప్రకారం భౌగోళిక విస్తీర్ణంలో ఎంత శాతం అటవీ విస్తీర్ణం కిందకు తీసుకురావాలనేది నిర్దిష్ట లక్ష్యం?",
+    "en": "What is the specific target percentage of geographical area to be brought under forest cover as per the forest policy?"
+   },
+   "options": {
+    "te": [
+     "33 శాతం",
+     "25 శాతం",
+     "50 శాతం",
+     "20 శాతం"
+    ],
+    "en": [
+     "33 per cent",
+     "25 per cent",
+     "50 per cent",
+     "20 per cent"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మొత్తం భౌగోళిక విస్తీర్ణంలో 33 శాతాన్ని అటవీ విస్తీర్ణం కిందకు తీసుకురావడం అటవీ విధానం యొక్క ప్రధాన లక్ష్యాలలో ఒకటి.",
+    "en": "One of the main aims of the forest policy is to bring 33 per cent of the total geographical area under forest cover."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T29-0038",
+   "section": {
+    "te": "Arthaśhāstra land assessment",
+    "en": "Arthaśhāstra land assessment"
+   },
+   "q": {
+    "te": "కౌటిల్యుని అర్థశాస్త్రానికి సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఇది భూమి అంచనాపై వివరణాత్మక మార్గదర్శకాలను కలిగి ఉంది.\n2. భూమి వర్గీకరణ సారవంతం మరియు ఉత్పాదకతపై ఆధారపడి ఉంటుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding Kauṭilya’s Arthaśhāstra:\n1. It contains detailed guidelines on land assessment.\n2. Land categorisation is based on fertility and productivity.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్య భాగం ప్రకారం, అర్థశాస్త్రం భూమి అంచనా కోసం వివరణాత్మక మార్గదర్శకాలను అందిస్తుంది మరియు భూమిని దాని సారవంతం మరియు ఉత్పాదకత ఆధారంగా వర్గీకరిస్తుంది.",
+    "en": "The Arthaśhāstra provides detailed guidelines for land assessment and categorises land based on its fertility and productivity."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T29-0041",
+   "section": {
+    "te": "Traditional soil management",
+    "en": "Traditional soil management"
+   },
+   "q": {
+    "te": "సాంప్రదాయ నేల నిర్వహణకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. నేల భూమాతలో భాగంగా పరిగణించబడింది.\n2. మల్చింగ్ మరియు బహుళ పంటల సాగు వంటి పద్ధతులు ఉపయోగించబడ్డాయి.\n3. సమగ్ర నిర్వహణ కోసం రసాయన ఎరువులకు ప్రాధాన్యత ఇవ్వబడింది.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding traditional soil management:\n1. Soil was considered part of Mother Earth.\n2. Practices like mulching and multi-cropping were used.\n3. Chemical fertilisers were preferred for holistic management.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3",
+     "1 మాత్రమే"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1, 2 and 3",
+     "1 only"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సాంప్రదాయ పద్ధతులు సహజ ఎరువులు, మల్చింగ్ మరియు బహుళ పంటల సాగును ఉపయోగించాయి, నేలను భూమాతలో భాగంగా చూశాయి. రసాయన ఎరువులు నేల క్షీణతకు కారణమవుతాయి, ఇవి సాంప్రదాయ సమగ్ర నిర్వహణలో భాగం కావు.",
+    "en": "Traditional practices used natural fertilisers, mulching, and multi-cropping, viewing soil as part of Mother Earth. Chemical fertilisers are linked to soil degradation, not traditional holistic management."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T29-0071",
+   "section": {
+    "te": "Determinants Resource Development",
+    "en": "Determinants Resource Development"
+   },
+   "q": {
+    "te": "భారతదేశంలో వనరుల అభివృద్ధి అనేది కేవలం వనరుల లభ్యతపై మాత్రమే కాకుండా క్రింది వాటిలో వేటిపై కూడా ఆధారపడి ఉంటుంది?",
+    "en": "In India, resource development does NOT merely involve resource availability, but also requires which of the following?"
+   },
+   "options": {
+    "te": [
+     "సాంకేతిక పరిజ్ఞానం",
+     "మానవ వనరుల నాణ్యత",
+     "ప్రజల చారిత్రక అనుభవాలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Appropriate technology",
+     "Quality of human resources",
+     "Historical experiences of the people",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశంలో వనరుల అభివృద్ధి కేవలం వనరుల లభ్యతపైనే కాక సాంకేతికత, మానవ వనరుల నాణ్యత మరియు ప్రజల చారిత్రక అనుభవాలపై ఆధారపడి ఉంటుంది.",
+    "en": "Resource development in India involves availability of resources along with technology, quality of human resources, and historical experiences."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T29-0051",
+   "section": {
+    "te": "Terracing purpose",
+    "en": "Terracing purpose"
+   },
+   "q": {
+    "te": "నేల సంరక్షణ పద్ధతిగా 'టెర్రేసింగ్' యొక్క ప్రాథమిక ఉద్దేశ్యం ఏమిటి?",
+    "en": "What is the primary purpose of 'Terracing' as a soil conservation practice?"
+   },
+   "options": {
+    "te": [
+     "గాలి వేగాన్ని పెంచడానికి",
+     "నేల నుండి ఖనిజాలను సేకరించడానికి",
+     "కొండవాలులలో నేల కోతను నిరోధించడానికి",
+     "నీటి ప్రవాహం కోసం నిటారుగా ఉండే వాలులను సృష్టించడానికి"
+    ],
+    "en": [
+     "To increase the speed of wind",
+     "To harvest minerals from the soil",
+     "To prevent soil erosion on hillsides",
+     "To create steep slopes for water flow"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "టెర్రేసింగ్ కొండవాలులపై మెట్ల వంటి నిర్మాణాలను సృష్టించడం ద్వారా నీటి వేగాన్ని తగ్గించి నేల కోతను నిరోధిస్తుంది.",
+    "en": "Terracing creates steps on hillsides to slow down water and prevent soil erosion."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T29-0157",
+   "section": {
+    "te": "Polluted Rivers",
+    "en": "Polluted Rivers"
+   },
+   "q": {
+    "te": "ఈ క్రింది నదులలో ఏవి వాటి మొత్తం పొడవునా (entire stretches) తీవ్రంగా కలుషితమైనట్లు జాబితా చేయబడ్డాయి?",
+    "en": "Which of the following rivers are listed as severely polluted in their entire stretches?"
+   },
+   "options": {
+    "te": [
+     "సబర్మతి మరియు గోమతి",
+     "అడయార్ మరియు కూమ్",
+     "వైగై మరియు మూసీ",
+     "గంగ మరియు యమున"
+    ],
+    "en": [
+     "The Sabarmati and the Gomti",
+     "The Adyar and the Cooum",
+     "The Vaigai and the Musi",
+     "The Ganga and the Yamuna"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అడయార్ మరియు కూమ్ నదులు వాటి మొత్తం పొడవునా తీవ్రంగా కలుషితమయ్యాయని పాఠ్యభాగం ప్రత్యేకంగా పేర్కొంది.",
+    "en": "The text specifically mentions the Adyar and the Cooum as being severely polluted in their entire stretches."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T29-0043",
+   "section": {
+    "te": "Check dams function",
+    "en": "Check dams function"
+   },
+   "q": {
+    "te": "చిన్న వాగుల అడ్డంగా నిర్మించిన చెక్ డ్యామ్‌ల యొక్క నిర్దిష్ట విధి ఏమిటి?",
+    "en": "What is a specific function of check dams constructed across small streams?"
+   },
+   "options": {
+    "te": [
+     "వెదురు కోతను నిరోధించడానికి",
+     "అవక్షేపాలు పేరుకుపోయేలా చేయడానికి",
+     "నీటి వేగాన్ని పెంచడానికి",
+     "మట్టి నిర్మాణాలను పునరుద్ధరించడానికి"
+    ],
+    "en": [
+     "To prevent bamboo harvesting",
+     "To allow sediment deposition",
+     "To increase water velocity",
+     "To refurbish mud structures"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "చెక్ డ్యామ్‌లు నీటి ప్రవాహాన్ని తగ్గించడానికి రూపొందించబడ్డాయి, ఇది నేల కోతను నిరోధించడానికి మరియు అవక్షేపాలు పేరుకుపోయేలా చేయడానికి సహాయపడుతుంది.",
+    "en": "Check dams are designed to slow down water flow, which helps in preventing erosion and allowing sediments to settle."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T29-0113",
+   "section": {
+    "te": "Bengal traditional irrigation",
+    "en": "Bengal traditional irrigation"
+   },
+   "q": {
+    "te": "బెంగాల్ వరద మైదానాలలో ప్రజలు తమ పొలాలకు నీరు అందించడానికి ఏ విధమైన కాలువలను అభివృద్ధి చేశారు?",
+    "en": "What type of channels did people develop in the flood plains of Bengal to irrigate their agricultural fields?"
+   },
+   "options": {
+    "te": [
+     "భూగర్భ కాలువలు",
+     "జీవ నదీ కాలువలు",
+     "వరద కాలువలు (ఇనుండేషన్ ఛానల్స్)",
+     "కుల్స్"
+    ],
+    "en": [
+     "Underground aqueducts",
+     "Perennial canals",
+     "Inundation channels",
+     "Kuls"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "బెంగాల్‌లోని వరద మైదాన ప్రాంతాల్లో రైతులు తమ పొలాల సాగు కోసం వరద కాలువలను (ఇనుండేషన్ ఛానల్స్) అభివృద్ధి చేసుకున్నారు.",
+    "en": "In the flood plains of Bengal, farmers historically developed inundation channels to irrigate their fields."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T29-0109",
+   "section": {
+    "te": "Sedimentation Effects",
+    "en": "Sedimentation Effects"
+   },
+   "q": {
+    "te": "నదులకు ఆనకట్టలు కట్టడం వల్ల కలిగే ప్రభావాలకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది జలాశయం అడుగుభాగంలో అధికంగా అవక్షేపం (sedimentation) పేరుకుపోయేలా చేస్తుంది.\n2. దీని ఫలితంగా నదీ గర్భాలు రాతిమయంగా మారుతాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the effects of damming rivers:\n1. It causes excessive sedimentation at the bottom of the reservoir.\n2. It results in rockier stream beds.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఆనకట్టలు కట్టడం వల్ల సహజ ప్రవాహం ప్రభావితమవుతుంది, దీనివల్ల జలాశయం అడుగున అధికంగా అవక్షేపం పేరుకుపోతుంది మరియు నదీ గర్భాలు రాతిమయంగా మారుతాయి.",
+    "en": "Damming affects natural flow, leading to excessive sedimentation at the reservoir bottom and making stream beds rockier."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T29-0201",
+   "section": {
+    "te": "Target Group Programmes",
+    "en": "Target Group Programmes"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో 'లక్ష్యిత ప్రాంత కార్యక్రమం' (target area programme) కాకుండా 'లక్ష్యిత వర్గ కార్యక్రమం' (target group programme) గా వర్గీకరించబడినది ఏది?",
+    "en": "Which of the following is categorized as a 'target group programme' rather than a 'target area programme'?"
+   },
+   "options": {
+    "te": [
+     "కొండ ప్రాంత అభివృద్ధి కార్యక్రమం (Hill Area Development Programme)",
+     "కమాండ్ ఏరియా డెవలప్‌మెంట్ ప్రోగ్రామ్",
+     "ఉపాంత రైతుల అభివృద్ధి సంస్థ (MFDA)",
+     "ఎడారి అభివృద్ధి కార్యక్రమం (Desert Development Programme)"
+    ],
+    "en": [
+     "Hill Area Development Programme",
+     "Command Area Development Programme",
+     "Marginal Farmers Development Agency",
+     "Desert Development Programme"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఉపాంత రైతుల అభివృద్ధి సంస్థ (MFDA) మరియు చిన్న రైతుల అభివృద్ధి సంస్థ (SFDA)లు లక్ష్యిత వర్గ కార్యక్రమాలకు ఉదాహరణలు.",
+    "en": "Small Farmers Development Agency (SFDA) and Marginal Farmers Development Agency (MFDA) are examples of target group programmes, whereas the others are target area programmes."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T29-0036",
+   "section": {
+    "te": "Mendha Lekha self-governance",
+    "en": "Mendha Lekha self-governance"
+   },
+   "q": {
+    "te": "మెంధా లేఖా గ్రామం సందర్భంలో 'మావా నాటే మావా రాజ్' అనే సూత్రం దేనిని సూచిస్తుంది?",
+    "en": "What does the principle 'Mawa Nate Mawa Raj' signify in the context of Mendha Lekha village?"
+   },
+   "options": {
+    "te": [
+     "మా భూమి, మా హక్కు",
+     "మా అడవి, మా సంపద",
+     "మా గ్రామం, మా పాలన",
+     "మా ప్రజలు, మా శక్తి"
+    ],
+    "en": [
+     "Our land, our right",
+     "Our forest, our wealth",
+     "Our village, our rule",
+     "Our people, our power"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "'మావా నాటే మావా రాజ్' అనే సూత్రం 'మా గ్రామం, మా పాలన' అని అర్థం, ఇది గ్రామసభ ద్వారా సామూహిక నిర్ణయాధికారాన్ని నిర్ధారిస్తుంది.",
+    "en": "The principle 'Mawa Nate Mawa Raj' translates to 'our village, our rule', which ensures collective decision-making through the Gram Sabha."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T29-0072",
+   "section": {
+    "te": "Resource Inventory Components",
+    "en": "Resource Inventory Components"
+   },
+   "q": {
+    "te": "వనరుల ప్రణాళికలో 'వనరుల గుర్తింపు మరియు జాబితా తయారీ' దశలో క్రింది వాటిలో ఏ ప్రక్రియలు ఉంటాయి?",
+    "en": "In the process of resource planning, the stage of 'identification and inventory of resources' involves which of the following activities?"
+   },
+   "options": {
+    "te": [
+     "సర్వే చేయడం మరియు మ్యాపింగ్ చేయడం",
+     "గుణాత్మక అంచనా",
+     "పరిమాణాత్మక అంచనా మరియు కొలత",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Surveying and mapping",
+     "Qualitative estimation",
+     "Quantitative estimation and measurement",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వనరుల గుర్తింపు మరియు జాబితా తయారీలో సర్వేలు, మ్యాపింగ్, గుణాత్మక మరియు పరిమాణాత్మక అంచనాలు, కొలతలు ఉంటాయి.",
+    "en": "Identification and inventory involves surveying, mapping, and qualitative and quantitative estimation and measurement of resources."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T29-0233",
+   "section": {
+    "te": "Indira Gandhi Canal Stage-I",
+    "en": "Indira Gandhi Canal Stage-I"
+   },
+   "q": {
+    "te": "ఇందిరా గాంధీ కెనాల్ యొక్క స్టేజ్-I కమాండ్ ఏరియాలో క్రింది జిల్లాలలో ఏవి భాగంగా ఉన్నాయి?",
+    "en": "Which of the following districts are part of the Stage-I command area of the Indira Gandhi Canal?"
+   },
+   "options": {
+    "te": [
+     "గంగానగర్ మరియు హనుమాన్‌గఢ్",
+     "బికనీర్ ఉత్తర భాగం",
+     "A మరియు B రెండూ",
+     "జైసల్మేర్ మరియు బార్మర్"
+    ],
+    "en": [
+     "Ganganagar and Hanumangarh",
+     "Northern part of Bikaner",
+     "Both A and B",
+     "Jaisalmer and Barmer"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "స్టేజ్-I కమాండ్ ఏరియాలో గంగానగర్, హనుమాన్‌గఢ్ మరియు బికనీర్ జిల్లాల ఉత్తర భాగాలు ఉన్నాయి.",
+    "en": "Stage-I command area includes Ganganagar, Hanumangarh, and the northern part of Bikaner districts."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T29-0241",
+   "section": {
+    "te": "Jhabua Tribal Population",
+    "en": "Jhabua Tribal Population"
+   },
+   "q": {
+    "te": "మధ్యప్రదేశ్‌లోని ఝాబువా జిల్లాలో గిరిజన జనాభా ప్రధానంగా ఏ తెగకు చెందినవారు?",
+    "en": "The tribal population of Jhabua district in Madhya Pradesh is predominantly composed of which community?"
+   },
+   "options": {
+    "te": [
+     "సంతాల్‌లు",
+     "ముండాలు",
+     "భిల్లులు",
+     "గోండులు"
+    ],
+    "en": [
+     "Santhals",
+     "Mundas",
+     "Bhils",
+     "Gonds"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఝాబువా జిల్లాలో అత్యధిక శాతం గిరిజన జనాభా ప్రధానంగా భిల్ తెగకు చెందినవారు.",
+    "en": "Jhabua district is characterised by a high concentration of tribal population, mostly belonging to the Bhil community."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T29-0101",
+   "section": {
+    "te": "Dam Classification",
+    "en": "Dam Classification"
+   },
+   "q": {
+    "te": "నిర్మాణం మరియు ఉపయోగించిన పదార్థాల ఆధారంగా, ఆనకట్టలను క్రింది వాటిలో ఏవిగా వర్గీకరించారు?",
+    "en": "Based on the structure and materials used, which of the following are classifications of dams?"
+   },
+   "options": {
+    "te": [
+     "టింబర్ (Timber) ఆనకట్టలు",
+     "ఎంబాంక్మెంట్ (Embankment) ఆనకట్టలు",
+     "మేసనరీ (Masonry) ఆనకట్టలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Timber dams",
+     "Embankment dams",
+     "Masonry dams",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నిర్మాణం మరియు ఉపయోగించిన పదార్థాల ఆధారంగా ఆనకట్టలను టింబర్, ఎంబాంక్మెంట్ మరియు మేసనరీ ఆనకట్టలుగా వర్గీకరించారు.",
+    "en": "Dams are classified into timber, embankment, and masonry dams based on their structure and the materials used in construction."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T29-0085",
+   "section": {
+    "te": "Hydrological cycle renewability",
+    "en": "Hydrological cycle renewability"
+   },
+   "q": {
+    "te": "నీరు ఒక పునరుత్పాదక సహజ వనరు అని నిర్ధారించేది క్రింది వాటిలో ఏది?",
+    "en": "What ensures that water is a renewable natural resource?"
+   },
+   "options": {
+    "te": [
+     "భూగర్భ జలాలు ఎప్పటికీ తగ్గకపోవడం",
+     "నీరంతా జలచక్రం (hydrological cycle) లో నిరంతరం కదలడం",
+     "సముద్రపు నీటిని శుద్ధి చేయడం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Groundwater tables never deplete",
+     "All water moves within the hydrological cycle",
+     "Desalination of ocean water",
+     "All of the above"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "నీరంతా జలచక్రం ద్వారా నిరంతరం పునరుద్ధరించబడుతూ మరియు రీఛార్జ్ అవుతూ కదలడం వల్ల నీరు పునరుత్పాదక వనరుగా కొనసాగుతుంది.",
+    "en": "The hydrological cycle continually renews and recharges water, ensuring that it remains a renewable resource."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T29-0092",
+   "section": {
+    "te": "Atal Jal Objective",
+    "en": "Atal Jal Objective"
+   },
+   "q": {
+    "te": "అటల్ భూజల్ యోజన ముఖ్య ఉద్దేశాలలో ఒకటి, సమాజంలో కేవలం వినియోగించే వైఖరి నుండి దేని వైపు ప్రవర్తనా మార్పు తీసుకురావడం?",
+    "en": "A key objective of the Atal Bhujal Yojana is to bring about a behavioural change in the community from consumption towards:"
+   },
+   "options": {
+    "te": [
+     "నదీ పరివాహక ప్రాంతాల అనుసంధానం",
+     "వ్యవసాయాన్ని పూర్తిగా నిలిపివేయడం",
+     "ఉచిత విద్యుత్ పంపిణీ",
+     "సంరక్షణ మరియు స్మార్ట్ నీటి నిర్వహణ"
+    ],
+    "en": [
+     "Interlinking of river basins",
+     "Complete cessation of agriculture",
+     "Free power distribution",
+     "Conservation and smart water management"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సమాజంలో ఉన్న వినియోగ వైఖరిని మార్చి నీటి సంరక్షణ మరియు స్మార్ట్ నీటి నిర్వహణ వైపు మళ్లించడం అటల్ జల్ ముఖ్య లక్ష్యం.",
+    "en": "A key aspect of Atal Jal is shifting the community's attitude from consumption to conservation and smart water management."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T29-0161",
+   "section": {
+    "te": "Haryali Project Execution",
+    "en": "Haryali Project Execution"
+   },
+   "q": {
+    "te": "'హర్యాలీ' వాటర్‌షెడ్ అభివృద్ధి ప్రాజెక్టును అమలు చేసే బాధ్యత ఏ సంస్థది?",
+    "en": "Which body is responsible for executing the 'Haryali' watershed development project?"
+   },
+   "options": {
+    "te": [
+     "కేంద్ర కాలుష్య నియంత్రణ మండలి",
+     "రాష్ట్ర కాలుష్య నియంత్రణ మండలి",
+     "గ్రామ పంచాయతీలు",
+     "ప్రభుత్వేతర సంస్థలు"
+    ],
+    "en": [
+     "Central Pollution Control Board",
+     "State Pollution Control Boards",
+     "Gram Panchayats",
+     "Non-governmental organisations"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "హర్యాలీ ప్రాజెక్టును ప్రజల భాగస్వామ్యంతో గ్రామ పంచాయతీలు అమలు చేస్తాయి.",
+    "en": "The Haryali project is executed by Gram Panchayats with the participation of the people."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T29-0007",
+   "section": {
+    "te": "Cultural resource constraints",
+    "en": "Cultural resource constraints"
+   },
+   "q": {
+    "te": "సహజ వనరులకు సంబంధించి సాంస్కృతికంగా ఆమోదయోగ్యం కాని చర్యకు ఉదాహరణగా కింది వాటిలో ఏది ఇవ్వబడింది?",
+    "en": "Which of the following is given as an example of a culturally unacceptable action regarding natural resources?"
+   },
+   "options": {
+    "te": [
+     "పాత్రలను శుభ్రం చేయడానికి ఇసుకను ఉపయోగించడం",
+     "సముద్రగర్భం నుండి చమురును వెలికితీయడం",
+     "పవిత్ర వనాలలో (sacred groves) చెట్లను నరకడం",
+     "లోతైన గనులలో బొగ్గును తవ్వడం"
+    ],
+    "en": [
+     "Using sand to clean utensils",
+     "Extracting oil from the seabed",
+     "Cutting trees in sacred groves",
+     "Mining coal in deep pits"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పవిత్ర వనాలలో చెట్లను నరకడం సాంస్కృతికంగా ఆమోదయోగ్యం కాకపోవచ్చునని, అది వాటిని వనరుగా వినియోగించుకోవడానికి అడ్డంకి అని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Cutting trees in sacred groves may be culturally unacceptable, preventing them from being exploited as a resource."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T29-0039",
+   "section": {
+    "te": "Continuous Contour Trench",
+    "en": "Continuous Contour Trench"
+   },
+   "q": {
+    "te": "కంటిన్యూయస్ కాంటౌర్ ట్రెంచ్ (CCT) యొక్క ప్రాథమిక విధి ఏమిటి?",
+    "en": "What is the primary function of a Continuous Contour Trench (CCT)?"
+   },
+   "options": {
+    "te": [
+     "వర్షపు నీటి వేగాన్ని తగ్గించి, భూమిలోకి ఇంకేలా చేయడానికి",
+     "నీటి వేగాన్ని పెంచడానికి",
+     "వెదురు కోయడానికి",
+     "అవక్షేపాలు పేరుకుపోకుండా నిరోధించడానికి"
+    ],
+    "en": [
+     "To slow down and infiltrate rainwater",
+     "To increase water velocity",
+     "To harvest bamboo",
+     "To prevent sediment deposition"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వర్షపు నీటి వేగాన్ని తగ్గించడానికి కాంటౌర్ లైన్ల వెంట CCTలు తవ్వబడతాయి, తద్వారా నీరు భూమిలోకి ఇంకేలా చేస్తుంది, ఇది నేల కోతను నిరోధిస్తుంది మరియు భూగర్భ జలాలను పునరుద్ధరిస్తుంది.",
+    "en": "CCTs are dug along contour lines to slow down rainwater, allowing it to infiltrate the ground, which prevents erosion and recharges groundwater."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T29-0148",
+   "section": {
+    "te": "Haryali Project",
+    "en": "Haryali Project"
+   },
+   "q": {
+    "te": "'హర్యాలీ' ప్రాజెక్టుకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది కేంద్ర ప్రభుత్వం స్పాన్సర్ చేసిన వాటర్‌షెడ్ అభివృద్ధి ప్రాజెక్టు.\n2. ఇది గ్రామీణ ప్రజలు చేపల పెంపకం మరియు అడవుల పెంపకం కోసం నీటిని పొదుపు చేసేలా చేయడం లక్ష్యంగా పెట్టుకుంది.\n3. ఈ ప్రాజెక్టును రాష్ట్ర అటవీ శాఖలు అమలు చేస్తాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the 'Haryali' project:\n1. It is a watershed development project sponsored by the Central Government.\n2. It aims to enable rural populations to conserve water for fisheries and afforestation.\n3. The project is executed by the State Forest Departments.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రకటన 1 మరియు 2 సరైనవి. ప్రకటన 3 తప్పు ఎందుకంటే ఈ ప్రాజెక్టును ప్రజల భాగస్వామ్యంతో గ్రామ పంచాయతీలు అమలు చేస్తాయి, రాష్ట్ర అటవీ శాఖలు కాదు.",
+    "en": "Statement 1 and 2 are correct. Statement 3 is incorrect because the project is executed by Gram Panchayats with people's participation, not State Forest Departments."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T29-0229",
+   "section": {
+    "te": "Urban Renewal Mission",
+    "en": "Urban Renewal Mission"
+   },
+   "q": {
+    "te": "పట్టణ పునరుద్ధరణ మిషన్‌లో భాగంగా పట్టణ మురికివాడల్లో జీవన ప్రమాణాలను మెరుగుపరచడానికి భారత ప్రభుత్వం ఏ మిషన్‌ను ప్రారంభించింది?",
+    "en": "Which mission was launched by the Government of India to improve the quality of life in urban slums as part of the urban renewal mission?"
+   },
+   "options": {
+    "te": [
+     "స్వచ్ఛ భారత్ మిషన్",
+     "మేక్ ఇన్ ఇండియా",
+     "డిజిటల్ ఇండియా",
+     "స్కిల్ ఇండియా"
+    ],
+    "en": [
+     "Swachh Bharat Mission",
+     "Make in India",
+     "Digital India",
+     "Skill India"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పట్టణ మురికివాడల్లో జీవన ప్రమాణాలను మెరుగుపరచడానికి స్వచ్ఛ భారత్ మిషన్ (SBM) ప్రారంభించబడింది.",
+    "en": "The Swachh Bharat Mission (SBM) was launched to improve the quality of life in urban slums."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T29-0058",
+   "section": {
+    "te": "Resource Conservation Books",
+    "en": "Resource Conservation Books"
+   },
+   "q": {
+    "te": "1974లో 'స్మాల్ ఈజ్ బ్యూటిఫుల్' (Small is Beautiful) అనే పుస్తకంలో వనరుల పరిరక్షణపై గాంధేయ తత్వాన్ని ఎవరు తిరిగి ప్రతిపాదించారు?",
+    "en": "Who presented Gandhian philosophy on resource conservation in the book 'Small is Beautiful' in 1974?"
+   },
+   "options": {
+    "te": [
+     "గ్రో హర్లెం బ్రండ్ట్‌ల్యాండ్",
+     "క్లబ్ ఆఫ్ రోమ్",
+     "అమర్త్య సేన్",
+     "ఇ.ఎఫ్. షుమాకర్"
+    ],
+    "en": [
+     "Gro Harlem Brundtland",
+     "Club of Rome",
+     "Amartya Sen",
+     "E.F. Schumacher"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "1974లో షుమాకర్ తన 'స్మాల్ ఈజ్ బ్యూటిఫుల్' అనే పుస్తకంలో గాంధేయ తత్వాన్ని మళ్లీ ప్రజల ముందుకు తెచ్చారు.",
+    "en": "In 1974, Schumacher presented Gandhian philosophy once again in his seminal book 'Small is Beautiful'."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T29-0074",
+   "section": {
+    "te": "Land Utilisation Classification",
+    "en": "Land Utilisation Classification"
+   },
+   "q": {
+    "te": "భూ వినియోగ వర్గీకరణలో 'శాశ్వత పచ్చిక బయళ్ళు మరియు మేత భూములు' ఏ శీర్షిక క్రింద చేర్చబడ్డాయి?",
+    "en": "In the classification of land resources, 'Permanent pastures and grazing land' is categorized under which heading?"
+   },
+   "options": {
+    "te": [
+     "సాగుకు అందుబాటులో లేని భూమి",
+     "బంజరు మరియు వ్యర్థ భూమి",
+     "బీడు భూములు",
+     "సాగు చేయని ఇతర భూమి (బీడు భూములు మినహా)"
+    ],
+    "en": [
+     "Land not available for cultivation",
+     "Barren and waste land",
+     "Fallow land",
+     "Other uncultivated land (excluding fallow land)"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "శాశ్వత పచ్చిక బయళ్ళు మరియు మేత భూములను 'సాగు చేయని ఇతర భూమి (బీడు భూములు మినహా)' అనే విభాగంలో వర్గీకరించారు.",
+    "en": "Permanent pastures and grazing land is categorized under 'Other uncultivated land (excluding fallow land)'."
+   }
+  }
+ ]
+}

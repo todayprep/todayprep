@@ -1,0 +1,942 @@
+{
+ "id": "geo-25-c-9",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Agriculture – క్విజ్ 9",
+  "en": "Agriculture – Quiz 9"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T25-0032",
+   "section": {
+    "te": "Rainfall from both monsoons",
+    "en": "Rainfall from both monsoons"
+   },
+   "q": {
+    "te": "నైరుతి మరియు ఈశాన్య రుతుపవనాలు రెండింటి ద్వారా వర్షపాతం పొందే తీర మైదానాలు ఏవి?",
+    "en": "Which of the following coastal plains receive rainfall from both the southwest and northeast monsoons?"
+   },
+   "options": {
+    "te": [
+     "మలబార్ తీర మైదానాలు",
+     "కోరమాండల్ తీర మైదానాలు",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Malabar plains",
+     "Coromandel plains",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మలబార్ (కేరళ) మరియు కోరమాండల్ (తమిళనాడు) మైదానాలు నైరుతి మరియు ఈశాన్య రుతుపవనాలు రెండింటి ద్వారా వర్షాన్ని పొందుతాయి.",
+    "en": "Both the Malabar plains (Kerala) and Coromandel plains (Tamil Nadu) receive rain from both southwest and northeast monsoons."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T25-0004",
+   "section": {
+    "te": "History of Rice Cultivation",
+    "en": "History of Rice Cultivation"
+   },
+   "q": {
+    "te": "భారతదేశంలోని ఏ ప్రాంతంలో క్రీస్తుపూర్వం 7వ లేదా 8వ సహస్రాబ్ది నాటికే వరి ధాన్యాలు ఉన్నట్లు పురావస్తు పరిశోధనలు వెల్లడించాయి?",
+    "en": "In which region of India has the presence of rice grains been found as early as the 7th or 8th millennium BCE?"
+   },
+   "options": {
+    "te": [
+     "గంగా మైదానం",
+     "బ్రహ్మపుత్ర లోయ",
+     "సింధు లోయ",
+     "దక్కన్ పీఠభూమి"
+    ],
+    "en": [
+     "Ganga Plain",
+     "Brahmaputra Valley",
+     "Indus Valley",
+     "Deccan Plateau"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పురావస్తు ఆధారాల ప్రకారం క్రీస్తుపూర్వం 7వ లేదా 8వ సహస్రాబ్దిలో గంగా మైదానంలో వరి ధాన్యాలు ఉన్నట్లు తెలుస్తోంది.",
+    "en": "Archaeological evidence indicates that rice grains were present in the Ganga Plain during the 7th or 8th millennium BCE."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T25-0112",
+   "section": {
+    "te": "Water Resources",
+    "en": "Water Resources"
+   },
+   "q": {
+    "te": "అధికారిక అంచనాల ప్రకారం, ప్రస్తుతం భారతదేశంలో ఎన్ని క్రియాశీలక (functional) చెరువులు ఉన్నాయి?",
+    "en": "According to official estimates, how many functional tanks are there in India at present?"
+   },
+   "options": {
+    "te": [
+     "15 లక్షల కంటే ఎక్కువ",
+     "5 లక్షల కంటే తక్కువ",
+     "8,000 కంటే ఎక్కువ",
+     "ఖచ్చితంగా 10 లక్షలు"
+    ],
+    "en": [
+     "More than 15 lakh",
+     "Less than 5 lakh",
+     "More than 8,000",
+     "Exactly 10 lakh"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రస్తుతం భారతదేశంలో 15 లక్షల కంటే ఎక్కువ క్రియాశీలక చెరువులు ఉన్నాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "There are more than 15 lakh functional tanks in India currently."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T25-0140",
+   "section": {
+    "te": "Rabi Season Timing",
+    "en": "Rabi Season Timing"
+   },
+   "q": {
+    "te": "భారతదేశంలో రబీ పంటల సాధారణ కోత కాలం (harvesting period) ఏది?",
+    "en": "What is the typical harvesting period for rabi crops in India?"
+   },
+   "options": {
+    "te": [
+     "జూలై నుండి ఆగస్టు",
+     "ఏప్రిల్ నుండి జూన్",
+     "సెప్టెంబర్ నుండి అక్టోబర్",
+     "అక్టోబర్ నుండి డిసెంబర్"
+    ],
+    "en": [
+     "July to August",
+     "April to June",
+     "September to October",
+     "October to December"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "రబీ పంటలను శీతాకాలంలో (అక్టోబర్-డిసెంబర్) విత్తుతారు మరియు వేసవిలో, ప్రత్యేకంగా ఏప్రిల్ నుండి జూన్ వరకు కోస్తారు.",
+    "en": "Rabi crops are sown in winter (Oct-Dec) and harvested in summer, specifically from April to June."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T25-0308",
+   "section": {
+    "te": "Rapeseed Cultivation Features",
+    "en": "Rapeseed Cultivation Features"
+   },
+   "q": {
+    "te": "భారతదేశంలో రేప్‌సీడ్ మరియు ఆవాల సాగుకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి రబీ కాలంలో సాగు చేయబడే మంచుకు సున్నితమైన ఉపఉష్ణమండల పంటలు.\n2. ఈ పంటల సాగు విస్తీర్ణంలో దాదాపు మూడింట రెండు వంతులు నీటిపారుదల సౌకర్యం కలిగి ఉంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding rapeseed and mustard cultivation in India:\n1. These are frost-sensitive subtropical crops grown during the rabi season.\n2. About two-third of the cultivated area under these crops is irrigated.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రేప్‌సీడ్ మరియు ఆవాలు రబీ సీజన్‌లో సాగు చేయబడే ఉపఉష్ణమండల పంటలు, ఇవి మంచుకు సున్నితమైనవి మరియు వీటి సాగు విస్తీర్ణంలో దాదాపు మూడింట రెండు వంతులు నీటిపారుదల కలిగి ఉంది.",
+    "en": "Rapeseed and mustard are subtropical crops cultivated during the rabi season that are frost-sensitive, and about two-third of their cultivated area is irrigated."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T25-0231",
+   "section": {
+    "te": "Collective Farming Rights",
+    "en": "Collective Farming Rights"
+   },
+   "q": {
+    "te": "పూర్వపు సోవియట్ యూనియన్‌లోని సామూహిక వ్యవసాయ విధానంలో, రైతులు తమ వనరులన్నింటినీ ఏకం చేసిన తర్వాత వారికి కల్పించబడిన మినహాయింపు ఏమిటి?",
+    "en": "Under the collective farming system of the erstwhile Soviet Union, what exception was granted to farmers after pooling their resources?"
+   },
+   "options": {
+    "te": [
+     "తమ రోజువారీ అవసరాల కోసం పంటలు పండించుకోవడానికి చాలా చిన్న ప్లాట్లను ఉంచుకోవడానికి అనుమతించారు",
+     "ఉమ్మడి ఉత్పత్తులలో సగభాగం అంతర్జాతీయ మార్కెట్లలో అమ్ముకోవచ్చు",
+     "ఉమ్మడి భూముల్లో శారీరక శ్రమ చేయడం నుండి వారికి మినహాయింపు లభించింది",
+     "వారు భారీ వ్యవసాయ యంత్రాలు మరియు పశువులను ప్రైవేటుగా కలిగి ఉండవచ్చు"
+    ],
+    "en": [
+     "They were allowed to retain very small plots to grow crops for daily requirements",
+     "They could sell half of the collective produce in international markets",
+     "They were exempted from providing manual labour on communal lands",
+     "They could privately own large farm machinery and livestock"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సోవియట్ యూనియన్ సామూహిక వ్యవసాయంలో రైతులు భూమి, పశువులు, శ్రమను సమీకరించినప్పటికీ, తమ రోజువారీ కుటుంబ అవసరాల కోసం చిన్నపాటి ప్లాట్లను సొంతంగా ఉంచుకోవడానికి అనుమతి ఉండేది.",
+    "en": "Even though farmers pooled land, livestock, and labour, they were permitted to retain small personal plots to produce food for their own daily requirements."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T25-0127",
+   "section": {
+    "te": "Global Farming Names",
+    "en": "Global Farming Names"
+   },
+   "q": {
+    "te": "బ్రెజిల్‌లో 'నరికి కాల్చివేసే' వ్యవసాయాన్ని క్రింది వాటిలో ఏ పేరుతో పిలుస్తారు?",
+    "en": "In Brazil, 'slash and burn' agriculture is known by which of the following names?"
+   },
+   "options": {
+    "te": [
+     "మిల్పా (Milpa)",
+     "రోకా (Roca)",
+     "లడాంగ్ (Ladang)",
+     "కొనుకో (Conuco)"
+    ],
+    "en": [
+     "Milpa",
+     "Roca",
+     "Ladang",
+     "Conuco"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "బ్రెజిల్‌లో 'నరికి కాల్చివేసే' వ్యవసాయాన్ని 'రోకా' అని పిలుస్తారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "'slash and burn' agriculture is known as 'Roca' in Brazil."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T25-0243",
+   "section": {
+    "te": "Net Sown Area",
+    "en": "Net Sown Area"
+   },
+   "q": {
+    "te": "పంటలు విత్తి, కోత కోసే వాస్తవ భౌతిక భూమి విస్తీర్ణాన్ని ఏమని పిలుస్తారు?",
+    "en": "The physical extent of land on which crops are sown and harvested is known as:"
+   },
+   "options": {
+    "te": [
+     "స్థూల సాగు విస్తీర్ణం (Gross Cropped Area)",
+     "సాగుయోగ్యమైన వ్యర్థ భూమి",
+     "రిపోర్టింగ్ ఏరియా",
+     "నికర సాగు విస్తీర్ణం (Net Sown Area)"
+    ],
+    "en": [
+     "Gross Cropped Area",
+     "Culturable Wasteland",
+     "Reporting Area",
+     "Net Sown Area"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పంటలను నాటి మరియు కోత కోసే వాస్తవ భూ వైశాల్యాన్ని 'నికర సాగు విస్తీర్ణం' (Net Sown Area) అంటారు.",
+    "en": "The physical extent of land on which crops are sown and harvested is defined as Net Sown Area."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T25-0240",
+   "section": {
+    "te": "Culturable Wasteland",
+    "en": "Culturable Wasteland"
+   },
+   "q": {
+    "te": "భూ రెవెన్యూ రికార్డుల ప్రకారం, ఐదేళ్ల కంటే ఎక్కువ కాలం పాటు సాగు చేయకుండా బీడుగా వదిలేసిన భూమిని ఏమని వర్గీకరిస్తారు?",
+    "en": "According to the land revenue records, any cultivable land left fallow (uncultivated) for more than five years is classified as:"
+   },
+   "options": {
+    "te": [
+     "ప్రస్తుత బీడు భూమి",
+     "ప్రస్తుత బీడు కాకుండా ఇతర బీడు భూమి",
+     "బంజరు భూమి",
+     "సాగుయోగ్యమైన వ్యర్థ భూమి (Culturable Wasteland)"
+    ],
+    "en": [
+     "Current Fallow",
+     "Fallow other than Current Fallow",
+     "Barren Land",
+     "Culturable Wasteland"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఐదు సంవత్సరాలకు పైగా సాగు చేయకుండా వదిలివేసిన ఏ భూమినైనా 'సాగుయోగ్యమైన వ్యర్థ భూమి'గా పరిగణిస్తారు.",
+    "en": "Any land left fallow (uncultivated) for more than five years is classified as Culturable Wasteland and can be cultivated after reclamation."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T25-0034",
+   "section": {
+    "te": "Origin of season terms",
+    "en": "Origin of season terms"
+   },
+   "q": {
+    "te": "భారతీయ వ్యవసాయ పంట కాలాలను సూచించే 'ఖరీఫ్', 'రబీ', మరియు 'జైద్' అనే పదాలు ఏ భాషా మూలానికి చెందినవి?",
+    "en": "The Indian cropping season terms 'kharif', 'rabi', and 'zaid' originate from which language?"
+   },
+   "options": {
+    "te": [
+     "పర్షియన్",
+     "అరబిక్",
+     "టర్కిష్",
+     "సంస్కృతం"
+    ],
+    "en": [
+     "Persian",
+     "Arabic",
+     "Turkish",
+     "Sanskrit"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఖరీఫ్, రబీ మరియు జైద్ అనే వ్యవసాయ పదాలు అరబిక్ మూలం నుండి వచ్చినవి.",
+    "en": "The terms kharif, rabi, and zaid are of Arabic origin."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T25-0018",
+   "section": {
+    "te": "Intercropping at Kalibangan",
+    "en": "Intercropping at Kalibangan"
+   },
+   "q": {
+    "te": "సుమారు క్రీ.పూ. 2800 నాటి అంతర పంటల సాగు (ఇంటర్‌క్రాపింగ్) ఆనవాళ్లు నిలువు వరుసల దుక్కుల (perpendicular furrows) రూపంలో ఏ హరప్పా ప్రదేశంలో లభించాయి?",
+    "en": "At which Harappan site was archaeological evidence of intercropping around 2800 BCE discovered in the form of perpendicular furrows?"
+   },
+   "options": {
+    "te": [
+     "ధోలవీర",
+     "లోథాల్",
+     "బనవాలి",
+     "కాలిబంగన్"
+    ],
+    "en": [
+     "Dholavira",
+     "Lothal",
+     "Banawali",
+     "Kalibangan"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రాజస్థాన్‌లోని కాలిబంగన్ వద్ద నిలువు వరుసల దుక్కుల రూపంలో సుమారు క్రీ.పూ. 2800 నాటి అంతర పంటల సాగు ఆధారాలు లభించాయి.",
+    "en": "Archaeological evidence of intercropping around 2800 BCE was discovered at Kalibangan in Rajasthan, proven by perpendicular furrows."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T25-0060",
+   "section": {
+    "te": "Traditional practices validation",
+    "en": "Traditional practices validation"
+   },
+   "q": {
+    "te": "ICAR డాక్యుమెంటేషన్ మరియు పరీక్షల ప్రకారం, ఎంత శాతం సాంప్రదాయ వ్యవసాయ పద్ధతులు ఆధునిక విజ్ఞాన శాస్త్రం ద్వారా ధృవీకరించబడ్డాయి?",
+    "en": "According to ICAR's documentation and testing, what percentage of traditional agricultural practices were validated by modern science?"
+   },
+   "options": {
+    "te": [
+     "50 శాతం కంటే ఎక్కువ",
+     "ఖచ్చితంగా 100 శాతం",
+     "85 శాతం కంటే ఎక్కువ",
+     "75 శాతం కంటే ఎక్కువ"
+    ],
+    "en": [
+     "Over 50 per cent",
+     "Exactly 100 per cent",
+     "Over 85 per cent",
+     "Over 75 per cent"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ICAR వందకు పైగా సాంప్రదాయ పద్ధతులను పరీక్షించింది మరియు వాటిలో 85 శాతం కంటే ఎక్కువ శాస్త్రీయంగా సరైనవని కనుగొంది.",
+    "en": "ICAR tested over a hundred traditional practices and found that more than 85 per cent were scientifically valid."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T25-0181",
+   "section": {
+    "te": "Cotton Maturity",
+    "en": "Cotton Maturity"
+   },
+   "q": {
+    "te": "ప్రత్తి పంట పక్వానికి రావడానికి సుమారు ఎన్ని నెలల సమయం పడుతుంది?",
+    "en": "Approximately how many months does a cotton crop require to mature?"
+   },
+   "options": {
+    "te": [
+     "4 నుండి 6 నెలలు",
+     "10 నుండి 12 నెలలు",
+     "6 నుండి 8 నెలలు",
+     "2 నుండి 4 నెలలు"
+    ],
+    "en": [
+     "4 to 6 months",
+     "10 to 12 months",
+     "6 to 8 months",
+     "2 to 4 months"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రత్తి ఒక ఖరీఫ్ పంట, ఇది పక్వానికి రావడానికి 6 నుండి 8 నెలల సుదీర్ఘ కాలం పడుతుంది.",
+    "en": "Cotton is a kharif crop that has a relatively long growing period, taking 6 to 8 months to reach maturity."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T25-0363",
+   "section": {
+    "te": "PMKSY Slogan Alignment",
+    "en": "PMKSY Slogan Alignment"
+   },
+   "q": {
+    "te": "ప్రధానమంత్రి కృషి సించాయి యోజన (PMKSY) కింద ఖచ్చితమైన నీటిపారుదల కల్పించి సాగు విస్తీర్ణాన్ని పెంచే లక్ష్యంతో ముడిపడి ఉన్న నినాదం ఏది?",
+    "en": "Under the Pradhan Mantri Krishi Sinchayee Yojana (PMKSY), which motto is explicitly associated with expanding cultivable area under assured irrigation?"
+   },
+   "options": {
+    "te": [
+     "హర్ ఖేత్ కో పానీ",
+     "సాయిల్ హెల్త్ కార్డ్",
+     "పర్ డ్రాప్ మోర్ క్రాప్",
+     "పరంపరాగత్ కృషి"
+    ],
+    "en": [
+     "Har khet ko pani",
+     "Soil health card",
+     "Per drop more crop",
+     "Paramparagat Krishi"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పొలాలకు నీటి లభ్యతను పెంచడం మరియు నీటిపారుదల కింద విస్తీర్ణాన్ని పెంచే లక్ష్యానికి 'హర్ ఖేత్ కో పానీ' అనే నినాదం సంబంధించింది.",
+    "en": "The objective to enhance physical access of water on the farm and expand cultivable area under assured irrigation is associated with 'Har khet ko pani'."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T25-0266",
+   "section": {
+    "te": "Land Use Trends",
+    "en": "Land Use Trends"
+   },
+   "q": {
+    "te": "1950-51 మరియు 2019-20 మధ్య, మొత్తం రిపోర్టింగ్ ఏరియాలో 'సాగు చేయదగిన బంజరు భూమి' శాతం ఏ విధంగా మారింది?",
+    "en": "Between 1950-51 and 2019-20, the percentage of 'Culturable Waste land' in the total reporting area changed from:"
+   },
+   "options": {
+    "te": [
+     "13.4% నుండి 6.8% కి",
+     "3.7% నుండి 4.5% కి",
+     "8.0% నుండి 3.9% కి",
+     "6.1% నుండి 3.7% కి"
+    ],
+    "en": [
+     "13.4% to 6.8%",
+     "3.7% to 4.5%",
+     "8.0% to 3.9%",
+     "6.1% to 3.7%"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పట్టిక 3.1 ప్రకారం, రిపోర్టింగ్ ఏరియాలో సాగు చేయదగిన బంజరు భూమి శాతం 1950-51లో 8.0% ఉండగా, 2019-20 నాటికి 3.9% కి తగ్గింది.",
+    "en": "As per Table 3.1, Culturable Waste land as a percentage of Reporting Area was 8.0% in 1950-51 and declined to 3.9% in 2019-20."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T25-0052",
+   "section": {
+    "te": "Kallanai river",
+    "en": "Kallanai river"
+   },
+   "q": {
+    "te": "ప్రాచీన నీటి మళ్లింపు నిర్మాణం 'కల్లనై'ను (గ్రాండ్ అనికట్) కరికాలుడు ఏ నదిపై నిర్మించాడు?",
+    "en": "The ancient water-diverting structure 'Kallanai' (the grand anicut) was built by Karikāla across which river?"
+   },
+   "options": {
+    "te": [
+     "గోదావరి నది",
+     "కృష్ణా నది",
+     "కావేరి నది",
+     "తుంగభద్ర నది"
+    ],
+    "en": [
+     "Godavari River",
+     "Krishna River",
+     "Kaveri River",
+     "Tungabhadra River"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కరికాలుడు సుమారు 1,800 సంవత్సరాల క్రితం కావేరి నదిపై కల్లనైను నిర్మించాడు.",
+    "en": "Kallanai was built across the Kaveri River by Karikāla about 1,800 years ago."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T25-0203",
+   "section": {
+    "te": "Intensive Subsistence Land Holdings",
+    "en": "Intensive Subsistence Land Holdings"
+   },
+   "q": {
+    "te": "వరి పంట ప్రధానంగా సాగే సాంద్ర జీవనాధార వ్యవసాయంలో కమతాల పరిమాణం చాలా చిన్నదిగా ఉండటానికి ప్రధాన కారణం ఏమిటి?",
+    "en": "In intensive subsistence agriculture dominated by wet paddy cultivation, land holdings are very small primarily due to:"
+   },
+   "options": {
+    "te": [
+     "అధిక జనాభా సాంద్రత",
+     "యంత్రాల అధిక వినియోగం",
+     "నేల సారం తక్కువగా ఉండటం",
+     "నీటిపారుదల సౌకర్యాల కొరత"
+    ],
+    "en": [
+     "High density of population",
+     "Heavy use of machinery",
+     "Low soil fertility",
+     "Lack of irrigation facilities"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అధిక జనాభా సాంద్రత కారణంగా ఈ వ్యవసాయ ప్రాంతాలలో కమతాలు చాలా చిన్నవిగా ఉంటాయి.",
+    "en": "Land holdings are very small due to the high density of population."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T25-0163",
+   "section": {
+    "te": "Jute producing states",
+    "en": "Jute producing states"
+   },
+   "q": {
+    "te": "భారతదేశంలో జనపనారను ఉత్పత్తి చేసే ప్రధాన రాష్ట్రాలు ఏవి?",
+    "en": "Which of the following states are major producers of jute in India?"
+   },
+   "options": {
+    "te": [
+     "పశ్చిమ బెంగాల్",
+     "బీహార్",
+     "అస్సాం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "West Bengal",
+     "Bihar",
+     "Assam",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశంలోని ప్రధాన జనపనార ఉత్పత్తి రాష్ట్రాలలో పశ్చిమ బెంగాల్, బీహార్, అస్సాం, ఒడిశా మరియు మేఘాలయ ఉన్నాయి.",
+    "en": "The major jute producing states in India include West Bengal, Bihar, Assam, Odisha, and Meghalaya."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T25-0316",
+   "section": {
+    "te": "Assam Tea Area",
+    "en": "Assam Tea Area"
+   },
+   "q": {
+    "te": "భారతదేశంలో తేయాకు సాగు విస్తీర్ణంలో అస్సాం ఎంత శాతాన్ని కలిగి ఉంది?",
+    "en": "Assam accounts for what percentage of the total cropped area under tea in India?"
+   },
+   "options": {
+    "te": [
+     "45.5 శాతం",
+     "53.2 శాతం",
+     "50.0 శాతం",
+     "65.4 శాతం"
+    ],
+    "en": [
+     "45.5 per cent",
+     "53.2 per cent",
+     "50.0 per cent",
+     "65.4 per cent"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భారతదేశంలో తేయాకు సాగు విస్తీర్ణంలో అస్సాం దాదాపు 53.2 శాతాన్ని కలిగి ఉంది మరియు దేశంలో ఉత్పత్తి అయ్యే తేయాకులో సగానికి పైగా ఇక్కడే ఉత్పత్తి అవుతుంది.",
+    "en": "Assam accounts for about 53.2 per cent of the total cropped area under tea and contributes more than half of India's tea production."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T25-0219",
+   "section": {
+    "te": "Extensive commercial grain principal crop",
+    "en": "Extensive commercial grain principal crop"
+   },
+   "q": {
+    "te": "విస్తృత వాణిజ్య ధాన్యపు సాగులో పండించే ప్రధాన పంట ఏది?",
+    "en": "Which of the following is the principal crop grown in extensive commercial grain cultivation?"
+   },
+   "options": {
+    "te": [
+     "గోధుమ (Wheat)",
+     "రై (Rye)",
+     "బార్లీ (Barley)",
+     "మొక్కజొన్న (Corn)"
+    ],
+    "en": [
+     "Wheat",
+     "Rye",
+     "Barley",
+     "Corn"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "విస్తృత వాణిజ్య ధాన్యపు సాగులో గోధుమ ప్రధాన పంటగా పండించబడుతుందని మూల గ్రంథం పేర్కొంది.",
+    "en": "Wheat is the principal crop of extensive commercial grain cultivation."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T25-0315",
+   "section": {
+    "te": "Jute Cropped Area",
+    "en": "Jute Cropped Area"
+   },
+   "q": {
+    "te": "కొద్ది రాష్ట్రాల్లో మాత్రమే కేంద్రీకృతమై ఉన్నందున, భారతదేశంలో మొత్తం సాగు విస్తీర్ణంలో జనపనార సుమారు ఎంత శాతాన్ని ఆక్రమించింది?",
+    "en": "Being concentrated in only a few states, jute accounts for approximately what percentage of the total cropped area in India?"
+   },
+   "options": {
+    "te": [
+     "7.5 శాతం",
+     "2.5 శాతం",
+     "0.5 శాతం",
+     "4.7 శాతం"
+    ],
+    "en": [
+     "7.5 per cent",
+     "2.5 per cent",
+     "0.5 per cent",
+     "4.7 per cent"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పశ్చిమ బెంగాల్, బీహార్, అస్సాం వంటి కొన్ని రాష్ట్రాలలో మాత్రమే కేంద్రీకృతమై ఉన్నందున, దేశంలోని మొత్తం సాగు విస్తీర్ణంలో జనపనార కేవలం 0.5 శాతాన్ని మాత్రమే ఆక్రమించింది.",
+    "en": "Jute cultivation is concentrated primarily in eastern states like West Bengal, Bihar, and Assam, accounting for only about 0.5 per cent of the total cropped area."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T25-0262",
+   "section": {
+    "te": "Common Property Resources",
+    "en": "Common Property Resources"
+   },
+   "q": {
+    "te": "గ్రామీణ గృహాలకు ఉమ్మడి ఆస్తి వనరుల (CPRs) ద్వారా ఈ క్రింది ఏ చిన్న అటవీ ఉత్పత్తులు లభిస్తాయి?",
+    "en": "Which of the following minor forest products are provided by Common Property Resources (CPRs) to rural households?"
+   },
+   "options": {
+    "te": [
+     "పండ్లు మరియు గింజలు",
+     "నార మరియు ఔషధ మొక్కలు",
+     "A మరియు B రెండూ",
+     "కలప మరియు బొగ్గు"
+    ],
+    "en": [
+     "Fruits and nuts",
+     "Fibre and medicinal plants",
+     "Both A and B",
+     "Timber and coal"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్య భాగం ప్రకారం, CPRలు పశుగ్రాసం, ఇంధనం, పండ్లు, గింజలు, నార మరియు ఔషధ మొక్కలను అందిస్తాయి.",
+    "en": "CPRs provide fodder, fuel, fruits, nuts, fibre, and medicinal plants."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T25-0261",
+   "section": {
+    "te": "Land Ownership Classification",
+    "en": "Land Ownership Classification"
+   },
+   "q": {
+    "te": "యాజమాన్యం ఆధారంగా భూమి వర్గీకరణ ప్రకారం, ఉమ్మడి ఆస్తి వనరులు (CPRs) ఎవరి యాజమాన్యంలో ఉంటాయి?",
+    "en": "According to the classification of land based on ownership, who owns the Common Property Resources (CPRs)?"
+   },
+   "options": {
+    "te": [
+     "ప్రభుత్వం (స్టేట్)",
+     "ప్రభుత్వేతర సంస్థలు",
+     "వ్యక్తుల సమూహం",
+     "ప్రైవేట్ వ్యక్తులు"
+    ],
+    "en": [
+     "The State",
+     "Non-Governmental Organisations",
+     "Group of individuals",
+     "Private individuals"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రైవేట్ భూమి వ్యక్తుల యాజమాన్యంలో ఉండగా, ఉమ్మడి ఆస్తి వనరులు సమాజ ఉపయోగం కోసం ప్రభుత్వం యాజమాన్యంలో ఉంటాయని మూలం పేర్కొంది.",
+    "en": "While private land is owned by individuals, common property resources are owned by the state for community use."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T25-0342",
+   "section": {
+    "te": "Dryland flash floods",
+    "en": "Dryland flash floods"
+   },
+   "q": {
+    "te": "మహారాష్ట్ర, గుజరాత్ మరియు రాజస్థాన్‌లలోని మెట్ట/శుష్క ప్రాంతాల్లో కింది ఏ సంవత్సరాలలో ఆకస్మిక వరదలు (ఫ్లాష్ ఫ్లడ్స్) సంభవించాయి?",
+    "en": "In which of the following pairs of years did flash floods occur in the drylands of Maharashtra, Gujarat, and Rajasthan?"
+   },
+   "options": {
+    "te": [
+     "2006 మరియు 2017",
+     "2001 మరియు 2011",
+     "2010 మరియు 2020",
+     "1998 మరియు 2008"
+    ],
+    "en": [
+     "2006 and 2017",
+     "2001 and 2011",
+     "2010 and 2020",
+     "1998 and 2008"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మహారాష్ట్ర, గుజరాత్ మరియు రాజస్థాన్‌ల శుష్క ప్రాంతాలలో 2006 మరియు 2017లలో ఆకస్మిక వరదలు సంభవించాయి.",
+    "en": "The drylands of Maharashtra, Gujarat, and Rajasthan experienced flash floods in the years 2006 and 2017."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T25-0311",
+   "section": {
+    "te": "West Bengal Jute Share",
+    "en": "West Bengal Jute Share"
+   },
+   "q": {
+    "te": "భారతదేశంలో మొత్తం జనపనార ఉత్పత్తిలో పశ్చిమ బెంగాల్ వాటా ఎంత?",
+    "en": "What proportion of the total jute production in India is accounted for by West Bengal?"
+   },
+   "options": {
+    "te": [
+     "దాదాపు సగం",
+     "దాదాపు మూడింట రెండు వంతులు",
+     "దాదాపు మూడింట ఒక వంతు",
+     "దాదాపు నాలుగింట మూడు వంతులు"
+    ],
+    "en": [
+     "About half",
+     "About two-third",
+     "About one-third",
+     "About three-fourth"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "దేశంలోని మొత్తం జనపనార ఉత్పత్తిలో పశ్చిమ బెంగాల్ దాదాపు నాలుగింట మూడు వంతుల వాటాను కలిగి ఉంది.",
+    "en": "West Bengal is the leading producer, accounting for about three-fourth of the total jute production in India."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T25-0143",
+   "section": {
+    "te": "Commercial Farming Inputs",
+    "en": "Commercial Farming Inputs"
+   },
+   "q": {
+    "te": "వాణిజ్య వ్యవసాయం యొక్క లక్షణాలు ఈ క్రింది వాటిలో ఏవి?\nA. HYV విత్తనాల వినియోగం\nB. రసాయన ఎరువుల వినియోగం\nC. కీటకనాశినులు మరియు పురుగుమందుల వినియోగం",
+    "en": "Which of the following are characteristics of commercial farming?\nA. Use of HYV seeds\nB. Use of chemical fertilisers\nC. Use of insecticides and pesticides"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అధిక ఉత్పాదకతను సాధించడానికి HYV విత్తనాలు, రసాయన ఎరువులు మరియు పురుగుమందుల వంటి ఆధునిక ఇన్‌పుట్‌లను ఉపయోగించడం వాణిజ్య వ్యవసాయం యొక్క లక్షణం.",
+    "en": "Commercial farming is characterized by the use of modern inputs like HYV seeds, chemical fertilizers, and pesticides to achieve high productivity."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T25-0211",
+   "section": {
+    "te": "Commercial grain farming zone",
+    "en": "Commercial grain farming zone"
+   },
+   "q": {
+    "te": "విస్తృత వాణిజ్య ధాన్యపు వ్యవసాయం ప్రధానంగా ఏ భౌగోళిక ప్రాంతంలో ఆచరించబడుతుంది?",
+    "en": "Extensive commercial grain cultivation is predominantly practised in which geographical zone?"
+   },
+   "options": {
+    "te": [
+     "మధ్య అక్షాంశాల అర్థ-శుష్క లోతట్టు ప్రాంతాలు",
+     "ఉష్ణమండల ఋతుపవన తీర ప్రాంతాలు",
+     "ఎత్తైన సమశీతోష్ణ పీఠభూములు",
+     "భూమధ్యరేఖ తేమతో కూడిన లోతట్టు ప్రాంతాలు"
+    ],
+    "en": [
+     "Interior parts of semi-arid lands of the mid-latitudes",
+     "Coastal regions of tropical monsoon lands",
+     "High-altitude temperate plateaus",
+     "Equatorial humid lowlands"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మధ్య అక్షాంశాల అర్థ-శుష్క లోతట్టు ప్రాంతాలలో (semi-arid lands of the mid-latitudes) వాణిజ్య ధాన్యపు సాగు ఆచరించబడుతుంది.",
+    "en": "Commercial grain cultivation is practised in the interior parts of semi-arid lands of the mid-latitudes."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T25-0344",
+   "section": {
+    "te": "Twin agricultural menaces",
+    "en": "Twin agricultural menaces"
+   },
+   "q": {
+    "te": "భారతీయ వ్యవసాయంలో \"జంట బెడదలు/ముప్పులు\" (twin menace) గా వేటిని పేర్కొంటారు?",
+    "en": "Which of the following are described as the \"twin menace\" in Indian agriculture?"
+   },
+   "options": {
+    "te": [
+     "చీడపీడలు మరియు మొక్కల వ్యాధులు",
+     "నేల కోత మరియు క్షారత్వం",
+     "కరువులు మరియు వరదలు",
+     "నీరు నిలవడం మరియు అటవీ నిర్మూలన"
+    ],
+    "en": [
+     "Pests and plant diseases",
+     "Soil erosion and salinity",
+     "Droughts and floods",
+     "Waterlogging and deforestation"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వర్షపాతంలో హెచ్చుతగ్గుల వల్ల ఏర్పడే కరువులు మరియు వరదలు భారత వ్యవసాయానికి నిరంతర జంట ముప్పులుగా ఉన్నాయి.",
+    "en": "Fluctuations in rainfall cause vulnerability to both dry spells and inundation, making droughts and floods the twin menace in Indian agriculture."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T25-0096",
+   "section": {
+    "te": "Natural pest repellents Sikkim",
+    "en": "Natural pest repellents Sikkim"
+   },
+   "q": {
+    "te": "సిక్కిం కేస్ స్టడీ ప్రకారం, పెమా కుటుంబం సహజ పురుగు నివారణిలను (pest repellents) తయారు చేయడానికి వేటిని ఉపయోగించింది?",
+    "en": "In the Sikkim case study, which natural ingredients were used by Pema's family to prepare pest repellents?"
+   },
+   "options": {
+    "te": [
+     "వేప",
+     "వెల్లుల్లి",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Neem",
+     "Garlic",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పెమా కుటుంబం వేప మరియు వెల్లుల్లిని ఉపయోగించి సహజ పురుగు నివారణిలను తయారు చేసిందని పేర్కొనబడింది.",
+    "en": "According to the case study, Pema's family prepared natural pest repellents using neem and garlic."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T25-0076",
+   "section": {
+    "te": "Modern Farming",
+    "en": "Modern Farming"
+   },
+   "q": {
+    "te": "కింది వాటిలో 'హైడ్రోపోనిక్స్' (Hydroponics) ను ఏది ఉత్తమంగా వివరిస్తుంది?",
+    "en": "Which of the following best describes 'Hydroponics'?"
+   },
+   "options": {
+    "te": [
+     "తక్కువ నీటితో పొడి, ఎడారి నేలల్లో మొక్కలను పెంచడం",
+     "మట్టి లేకుండా పోషకాలు అధికంగా ఉన్న నీటి ద్రావణాలలో మొక్కలను పెంచడం",
+     "నీటి పారుదల కోసం కేవలం వర్షపు నీటిని మాత్రమే ఉపయోగించే వ్యవసాయ పద్ధతి",
+     "దట్టమైన అటవీ ప్రాంతాలలో పంటలను పండించే పద్ధతి"
+    ],
+    "en": [
+     "Growing plants in dry, arid soil with minimal water",
+     "Growing plants in nutrient-rich water solutions without soil",
+     "A method of farming that uses only rainwater for irrigation",
+     "The practice of growing crops inside deep forest areas"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "హైడ్రోపోనిక్స్ అనేది మట్టి లేని వ్యవసాయ పద్ధతి, ఇక్కడ మొక్కలు పోషకాలు అధికంగా ఉన్న నీటి ద్రావణాల ద్వారా నేరుగా అవసరమైన ఖనిజాలను పొందుతాయి.",
+    "en": "Hydroponics is a soil-less farming method where plants get essential minerals directly through nutrient-rich water solutions."
+   }
+  }
+ ]
+}

@@ -1,0 +1,942 @@
+{
+ "id": "geo-25-g1-8",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Agriculture – క్విజ్ 8",
+  "en": "Agriculture – Quiz 8"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T25-0137",
+   "section": {
+    "te": "Intensive Subsistence Farming",
+    "en": "Intensive Subsistence Farming"
+   },
+   "q": {
+    "te": "సాంద్ర జీవనాధార వ్యవసాయం (Intensive Subsistence Farming) గురించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది తక్కువ జనాభా ఒత్తిడి ఉన్న ప్రాంతాల్లో అభ్యసిస్తారు.\n2. ఇది అధిక మోతాదులో జీవరసాయన ఇన్‌పుట్‌లు మరియు నీటిపారుదలని ఉపయోగిస్తుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about Intensive Subsistence Farming:\n1. It is practiced in areas with low population pressure.\n2. It uses high doses of biochemical inputs and irrigation.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రకటన 1 తప్పు ఎందుకంటే ఇది అధిక జనాభా ఒత్తిడి ఉన్న ప్రాంతాల్లో అభ్యసిస్తారు. ప్రకటన 2 సరైనది ఎందుకంటే ఇది అధిక ఉత్పత్తి కోసం అధిక ఇన్‌పుట్‌లను ఉపయోగిస్తుంది.",
+    "en": "Statement 1 is incorrect because it is practiced in areas of high population pressure. Statement 2 is correct as it uses high inputs for higher production."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T25-0366",
+   "section": {
+    "te": "Cropping Pattern Transformation",
+    "en": "Cropping Pattern Transformation"
+   },
+   "q": {
+    "te": "ప్రాంతంలో తీవ్రమైన కాలువ నీటిపారుదల ప్రవేశపెట్టడంతో, సాంప్రదాయ పంటలైన శనగలు, బజ్రా మరియు జొన్నల స్థానంలో ప్రధానంగా క్రింది ఏ పంటల సముదాయం సాగవుతోంది?",
+    "en": "With the introduction of intensive canal irrigation in the region, the traditional crops of gram, bajra, and jowar have been predominantly replaced by which of the following sets of crops?"
+   },
+   "options": {
+    "te": [
+     "ఆవాలు, పొగాకు, పొద్దుతిరుగుడు మరియు జనపనార",
+     "తేయాకు, కాఫీ, రబ్బరు మరియు సుగంధ ద్రవ్యాలు",
+     "గోధుమ, పత్తి, వేరుశనగ మరియు వరి",
+     "మొక్కజొన్న, సోయాబీన్, రాగులు మరియు బార్లీ"
+    ],
+    "en": [
+     "Mustard, tobacco, sunflower and jute",
+     "Tea, coffee, rubber and spices",
+     "Wheat, cotton, groundnut and rice",
+     "Maize, soyabean, ragi and barley"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కాలువ నీటిపారుదల విస్తరణ వల్ల సంప్రదాయ పంటలైన శనగలు, బజ్రా, జొన్నల స్థానంలో గోధుమ, పత్తి, వేరుశనగ మరియు వరి పంటలు వచ్చి చేరాయి.",
+    "en": "Intensive canal irrigation replaced the traditional crops (gram, bajra, and jowar) with wheat, cotton, groundnut, and rice."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T25-0151",
+   "section": {
+    "te": "Groundnut production rank",
+    "en": "Groundnut production rank"
+   },
+   "q": {
+    "te": "2020లో, భారతదేశం ప్రపంచంలో ఏ నూనె గింజల ఉత్పత్తిలో రెండవ అతిపెద్ద దేశంగా ఉంది?",
+    "en": "In 2020, India was the second largest producer of which oilseed in the world?"
+   },
+   "options": {
+    "te": [
+     "వేరుశనగ",
+     "సోయాబీన్",
+     "ఆవాలు",
+     "పొద్దుతిరుగుడు"
+    ],
+    "en": [
+     "Groundnut",
+     "Soyabean",
+     "Mustard",
+     "Sunflower"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగంలోని 2020 గణాంకాల ప్రకారం, చైనా తర్వాత వేరుశనగ ఉత్పత్తిలో భారతదేశం ప్రపంచంలోనే రెండవ స్థానంలో ఉంది.",
+    "en": "According to the 2020 data in the text, India ranked second in the world in groundnut production, following China."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T25-0051",
+   "section": {
+    "te": "Kallanai construction age",
+    "en": "Kallanai construction age"
+   },
+   "q": {
+    "te": "కరికాలుడు కావేరి నదిపై నిర్మించిన ప్రసిద్ధ ఆనకట్ట 'కల్లనై' (Kallanai - గ్రాండ్ అనికట్) సుమారు ఎన్ని సంవత్సరాల క్రితం నిర్మించబడింది?",
+    "en": "About how many years ago was Kallanai, the grand anicut, built by Karikāla across the Kaveri River?"
+   },
+   "options": {
+    "te": [
+     "సుమారు 1,200 సంవత్సరాల క్రితం",
+     "సుమారు 800 సంవత్సరాల క్రితం",
+     "సుమారు 2,500 సంవత్సరాల క్రితం",
+     "సుమారు 1,800 సంవత్సరాల క్రితం"
+    ],
+    "en": [
+     "About 1,200 years ago",
+     "About 800 years ago",
+     "About 2,500 years ago",
+     "About 1,800 years ago"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "కావేరి నదిపై కరికాలుడు నిర్మించిన కల్లనై ఆనకట్ట సుమారు 1,800 సంవత్సరాల క్రితం నిర్మించబడింది.",
+    "en": "Kallanai, the grand anicut, was built by Karikāla across the Kaveri River about 1,800 years ago."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T25-0001",
+   "section": {
+    "te": "Etymology of Agriculture",
+    "en": "Etymology of Agriculture"
+   },
+   "q": {
+    "te": "'అగ్రికల్చర్' (Agriculture) అనే పదం ఏ భాష నుండి ఉద్భవించింది?",
+    "en": "The term 'Agriculture' is derived from which language?"
+   },
+   "options": {
+    "te": [
+     "సంస్కృతం",
+     "గ్రీకు",
+     "ఫ్రెంచ్",
+     "లాటిన్"
+    ],
+    "en": [
+     "Sanskrit",
+     "Greek",
+     "French",
+     "Latin"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అగ్రికల్చర్ అనే పదం లాటిన్ పదాలైన 'అగ్రి' (పొలం) మరియు 'కల్చర్' (సాగు చేయడం) నుండి వచ్చింది.",
+    "en": "The word agriculture originates from the Latin words 'Agri' meaning field and 'culture' meaning to cultivate."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T25-0326",
+   "section": {
+    "te": "Tea Plantation History",
+    "en": "Tea Plantation History"
+   },
+   "q": {
+    "te": "భారతదేశంలో తేయాకు తోటల పెంపకం ఏ దశాబ్దంలో మరియు ఏ ప్రాంతంలో ప్రారంభమైంది?",
+    "en": "In which decade and region did tea plantation start in India?"
+   },
+   "options": {
+    "te": [
+     "1840లలో అసోంలోని బ్రహ్మపుత్ర లోయలో",
+     "1820లలో పశ్చిమ బెంగాల్‌లోని డార్జిలింగ్‌లో",
+     "1850లలో తమిళనాడులోని నీలగిరి కొండల్లో",
+     "1870లలో పశ్చిమ బెంగాల్‌లోని జల్‌పైగురిలో"
+    ],
+    "en": [
+     "1840s in Brahmaputra valley of Assam",
+     "1820s in Darjeeling of West Bengal",
+     "1850s in Nilgiri hills of Tamil Nadu",
+     "1870s in Jalpaiguri of West Bengal"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భారతదేశంలో తేయాకు తోటల పెంపకం 1840లలో అసోంలోని బ్రహ్మపుత్ర లోయలో ప్రారంభమైంది.",
+    "en": "Tea plantation in India was started in the 1840s in the Brahmaputra valley of Assam."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T25-0075",
+   "section": {
+    "te": "Agricultural Heritage",
+    "en": "Agricultural Heritage"
+   },
+   "q": {
+    "te": "భారతదేశంలోని కింది వ్యవసాయ వ్యవస్థలను పరిశీలించండి:\n1. కాశ్మీర్‌లో కుంకుమపువ్వు సాగు\n2. అటవీ నిర్వహణను ఏకీకృతం చేసే ఒడిశా సాంప్రదాయ వ్యవసాయ వ్యవస్థలు\n3. కేరళలో సముద్ర మట్టానికి దిగువన ఉన్న వ్యవసాయ పద్ధతులు\nపైన పేర్కొన్న వాటిలో వేటిని ఆహార మరియు వ్యవసాయ సంస్థ (FAO) ప్రపంచవ్యాప్తంగా ముఖ్యమైన వ్యవసాయ వారసత్వ వ్యవస్థలుగా గుర్తించింది?",
+    "en": "Consider the following agricultural systems in India:\n1. Saffron farming in Kashmir\n2. Traditional agricultural systems of Odisha integrating forest management\n3. Below-sea-level agricultural methods in Kerala\nWhich of the above have been recognized by the Food and Agriculture Organisation (FAO) as globally significant agricultural heritage systems?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "FAO కాశ్మీర్ కుంకుమపువ్వు, ఒడిశా అటవీ-ఏకీకృత వ్యవస్థలు మరియు కేరళ సముద్ర మట్టానికి దిగువన ఉన్న వ్యవసాయం - ఈ మూడింటినీ ప్రపంచవ్యాప్తంగా ముఖ్యమైన వ్యవసాయ వారసత్వ వ్యవస్థలుగా గుర్తించింది.",
+    "en": "The FAO has recognized all three systems: Kashmir's saffron, Odisha's forest-integrated systems, and Kerala's below-sea-level farming as globally significant agricultural heritage systems."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T25-0347",
+   "section": {
+    "te": "Economic reforms impact",
+    "en": "Economic reforms impact"
+   },
+   "q": {
+    "te": "1990లలో ప్రారంభమైన ఏ ఆర్థిక విధానం భారత వ్యవసాయ అభివృద్ధి గమనాన్ని ప్రభావితం చేసింది?",
+    "en": "Which economic policy initiation in the 1990s influenced the course of development of Indian agriculture?"
+   },
+   "options": {
+    "te": [
+     "వ్యవసాయ ఎగుమతులపై పూర్తి ప్రభుత్వ గుత్తాధిపత్యం",
+     "వాణిజ్య బ్యాంకుల జాతీయీకరణ",
+     "వ్యవసాయ భూముల బలవంతపు సామూహికీకరణ",
+     "సరళీకరణ మరియు స్వేచ్ఛా మార్కెట్ ఆర్థిక వ్యవస్థ"
+    ],
+    "en": [
+     "Complete state monopoly on agricultural export",
+     "Nationalisation of commercial banks",
+     "Forced collectivisation of agricultural land",
+     "Liberalisation and free market economy"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "1990లలో చేపట్టిన సరళీకరణ మరియు స్వేచ్ఛా మార్కెట్ ఆర్థిక విధానాలు భారతదేశ వ్యవసాయ రంగ అభివృద్ధిపై గణనీయమైన ప్రభావం చూపాయి.",
+    "en": "The initiation of liberalisation and a free market economy in the 1990s influenced the course of agricultural development in India."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T25-0325",
+   "section": {
+    "te": "Tea Processing Types",
+    "en": "Tea Processing Types"
+   },
+   "q": {
+    "te": "తేయాకు ప్రాసెసింగ్‌కు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. నల్ల తేయాకు (Black tea) ఆకులు కిణ్వ ప్రక్రియకు (fermented) గురిచేయబడతాయి.\n2. ఆకుపచ్చ తేయాకు (Green tea) ఆకులు కిణ్వ ప్రక్రియకు గురికానివి (unfermented).\nపై ప్రకటనలలో ఏది/ఏవి సరైనది/సరైనవి?",
+    "en": "Consider the following statements regarding tea leaves processing:\n1. Black tea leaves are fermented.\n2. Green tea leaves are unfermented.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నల్ల తేయాకు ఆకులను కిణ్వ ప్రక్రియకు (ferment) గురిచేస్తారు, అయితే గ్రీన్ టీ ఆకులను కిణ్వ ప్రక్రియ చేయరు (unfermented).",
+    "en": "Black tea leaves undergo fermentation, whereas green tea leaves are left unfermented."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T25-0245",
+   "section": {
+    "te": "Land Use Shift Around Urban Areas",
+    "en": "Land Use Shift Around Urban Areas"
+   },
+   "q": {
+    "te": "వ్యవసాయ భూమి వ్యవసాయేతర ఉపయోగాలకు (భవనాల నిర్మాణం వంటి వాటికి) మారే ప్రక్రియ ప్రత్యేకంగా వేటి చుట్టూ తీవ్రంగా కనిపిస్తుంది?",
+    "en": "The gradual shift of land from agricultural uses to non-agricultural uses (such as building purposes) is particularly sharp around:"
+   },
+   "options": {
+    "te": [
+     "శాశ్వత పచ్చిక బయళ్ల చుట్టూ",
+     "పెద్ద పట్టణ/నగర ప్రాంతాల చుట్టూ (Large urban areas)",
+     "ఎడారి సరిహద్దుల చుట్టూ",
+     "దట్టమైన లోతట్టు అటవీ ప్రాంతాల చుట్టూ"
+    ],
+    "en": [
+     "Permanent pasture lands",
+     "Large urban areas",
+     "Desert margins",
+     "Deep interior forest reserves"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పెద్ద నగరాలు, పట్టణ ప్రాంతాల చుట్టూ వ్యవసాయ భూములు భవనాల నిర్మాణానికి మరియు వ్యవసాయేతర పనులకు వేగంగా మళ్లుతున్నాయి.",
+    "en": "The shift of land from agricultural uses to building and non-agricultural purposes is sharp around large urban areas."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T25-0364",
+   "section": {
+    "te": "Monsoon Breaks Impact",
+    "en": "Monsoon Breaks Impact"
+   },
+   "q": {
+    "te": "పశ్చిమ బెంగాల్ మరియు బీహార్ వంటి సమృద్ధిగా వర్షపాతం నమోదయ్యే ప్రాంతాలలో కూడా వ్యవసాయానికి నీటిపారుదల అవసరం కావడానికి ప్రధాన కారణం ఏమిటి?",
+    "en": "Even in areas of ample rainfall like West Bengal and Bihar, irrigation is often required for agriculture primarily due to:"
+   },
+   "options": {
+    "te": [
+     "పారిశ్రామిక వినియోగం వల్ల నీరు వేగంగా ఖర్చవడం",
+     "రుతుపవనాల విరామాలు లేదా వైఫల్యం వల్ల బెట్ట పరిస్థితులు (డ్రై స్పెల్స్) ఏర్పడటం",
+     "భూభాగం యొక్క అధిక ఎత్తు",
+     "భూగర్భ జలాలు లవణీయంగా మారడం"
+    ],
+    "en": [
+     "Rapid industrial water absorption",
+     "Breaks in monsoon or its failure creating dry spells",
+     "Excessive elevation of the terrain",
+     "Salinisation of groundwater"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఎక్కువ వర్షపాతం ఉన్న ప్రాంతాల్లో కూడా రుతుపవనాలు విరామం ఇవ్వడం వల్ల లేదా విఫలం కావడం వల్ల పంటలకు హానికరమైన బెట్ట పరిస్థితులు ఏర్పడతాయి.",
+    "en": "Even in areas of ample rainfall like West Bengal and Bihar, breaks in monsoon or its failure creates dry spells detrimental to agriculture, making irrigation necessary."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T25-0148",
+   "section": {
+    "te": "Maize seasons",
+    "en": "Maize seasons"
+   },
+   "q": {
+    "te": "ఏ రాష్ట్రంలో మొక్కజొన్నను రబీ సీజన్‌లో కూడా పండిస్తారు?",
+    "en": "In which state is Maize grown during the rabi season as well?"
+   },
+   "options": {
+    "te": [
+     "కర్ణాటక",
+     "తెలంగాణ",
+     "బీహార్",
+     "ఆంధ్రప్రదేశ్"
+    ],
+    "en": [
+     "Karnataka",
+     "Telangana",
+     "Bihar",
+     "Andhra Pradesh"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మొక్కజొన్న ప్రాథమికంగా ఖరీఫ్ పంట అయినప్పటికీ, బీహార్‌లో దీనిని రబీ సీజన్‌లో కూడా పండిస్తారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Although maize is primarily a kharif crop, the text specifies that it is grown in the rabi season in Bihar."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T25-0358",
+   "section": {
+    "te": "Land Degradation Causes",
+    "en": "Land Degradation Causes"
+   },
+   "q": {
+    "te": "భారతదేశంలోని నీటిపారుదల ప్రాంతాలలో పెద్ద విస్తీర్ణంలో గల వ్యవసాయ భూమి తన సారవంతాన్ని కోల్పోవడానికి ప్రధాన కారణాలు ఏవి?",
+    "en": "In irrigated areas of India, large tracts of agricultural land have lost their fertility primarily due to which of the following?"
+   },
+   "options": {
+    "te": [
+     "నేలలు క్షారత్వాన్ని (ఆల్కలైజేషన్) పొందడం",
+     "నేలలు లవణీయతను (శాలినైజేషన్) పొందడం",
+     "నీరు నిల్వ ఉండిపోవడం (వాటర్‌లాగింగ్)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Alkalisation of soils",
+     "Salinisation of soils",
+     "Waterlogging",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సాగునీటి సౌకర్యం ఉన్న ప్రాంతాలలో నేలల లవణీయత, క్షారత్వం పెరగడం మరియు నీరు నిల్వ ఉండిపోవడం వల్ల భూమి సారవంతం కోల్పోయింది.",
+    "en": "Agricultural land in irrigated areas has lost fertility due to alkalisation, salinisation of soils, and waterlogging."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T25-0101",
+   "section": {
+    "te": "Land Use Data",
+    "en": "Land Use Data"
+   },
+   "q": {
+    "te": "భారతదేశం యొక్క మొత్తం భౌగోళిక వైశాల్యంలో కేవలం 93 శాతం భూ వినియోగ గణాంకాలు మాత్రమే ఎందుకు అందుబాటులో ఉన్నాయి?",
+    "en": "Why is land use data available for only 93 per cent of India's total geographical area?"
+   },
+   "options": {
+    "te": [
+     "దక్షిణ రాష్ట్రాల్లో సాంకేతికత లేకపోవడం వల్ల",
+     "అస్సాం మినహా మిగిలిన ఈశాన్య రాష్ట్రాల్లో నివేదికలు పూర్తి కాకపోవడం వల్ల",
+     "మధ్య భారతదేశంలో జరుగుతున్న పట్టణీకరణ వల్ల",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Due to lack of technology in southern states",
+     "Incomplete reporting in most North-East states except Assam",
+     "Ongoing urbanisation in central India",
+     "None of these"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అస్సాం మినహా మిగిలిన ఈశాన్య రాష్ట్రాల్లో భూ వినియోగ నివేదికలు పూర్తి కాకపోవడం వల్ల కేవలం 93 శాతం ప్రాంతానికి మాత్రమే డేటా అందుబాటులో ఉందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Land use reporting for most North-East states, with the exception of Assam, has not been fully completed, leading to data for only 93% of the area."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T25-0163",
+   "section": {
+    "te": "Jute producing states",
+    "en": "Jute producing states"
+   },
+   "q": {
+    "te": "భారతదేశంలో జనపనారను ఉత్పత్తి చేసే ప్రధాన రాష్ట్రాలు ఏవి?",
+    "en": "Which of the following states are major producers of jute in India?"
+   },
+   "options": {
+    "te": [
+     "పశ్చిమ బెంగాల్",
+     "బీహార్",
+     "అస్సాం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "West Bengal",
+     "Bihar",
+     "Assam",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశంలోని ప్రధాన జనపనార ఉత్పత్తి రాష్ట్రాలలో పశ్చిమ బెంగాల్, బీహార్, అస్సాం, ఒడిశా మరియు మేఘాలయ ఉన్నాయి.",
+    "en": "The major jute producing states in India include West Bengal, Bihar, Assam, Odisha, and Meghalaya."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T25-0373",
+   "section": {
+    "te": "Eco-development Stage-II Fragility",
+    "en": "Eco-development Stage-II Fragility"
+   },
+   "q": {
+    "te": "సుస్థిర అభివృద్ధి చర్యల ప్రకారం, అడవుల పెంపకం, షెల్టర్‌బెల్ట్ ప్లాంటేషన్ మరియు పచ్చిక బయళ్ల అభివృద్ధి ద్వారా పర్యావరణ అభివృద్ధి క్రింది ఏ దశ యొక్క సున్నితమైన వాతావరణంలో ప్రత్యేకంగా అవసరం?",
+    "en": "According to the measures for sustainable development, eco-development through afforestation, shelterbelt plantation, and pasture development is necessary particularly in the fragile environment of:"
+   },
+   "options": {
+    "te": [
+     "స్టేజ్-III",
+     "స్టేజ్-I",
+     "స్టేజ్-IV",
+     "స్టేజ్-II"
+    ],
+    "en": [
+     "Stage-III",
+     "Stage-I",
+     "Stage-IV",
+     "Stage-II"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "స్టేజ్-II లోని సున్నితమైన వాతావరణంలో అడవుల పెంపకం, షెల్టర్‌బెల్ట్ ప్లాంటేషన్ మరియు పచ్చిక బయళ్ల అభివృద్ధి ద్వారా పర్యావరణ అభివృద్ధి అత్యంత అవసరం.",
+    "en": "Eco-development through afforestation, shelterbelt plantation, and pasture development is specifically stated as necessary in Stage-II."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T25-0234",
+   "section": {
+    "te": "Reporting vs Geographical Area",
+    "en": "Reporting vs Geographical Area"
+   },
+   "q": {
+    "te": "భారతదేశంలో భూ వినియోగ సమాచారానికి సంబంధించి, 'రిపోర్టింగ్ ఏరియా' మరియు 'భౌగోళిక విస్తీర్ణం' గురించిన క్రింది ప్రకటనలను పరిశీలించండి:\n1. రిపోర్టింగ్ ఏరియా భూ రెవెన్యూ రికార్డుల అంచనాలపై ఆధారపడి కొంతవరకు మారుతుంది.\n2. సర్వే ఆఫ్ ఇండియా కొలతల ప్రకారం భౌగోళిక విస్తీర్ణం మారదు, స్థిరంగా ఉంటుంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "With reference to land-use data in India, consider the following statements regarding 'Reporting Area' and 'Geographical Area':\n1. Reporting area changes somewhat depending on the estimates of the land revenue records.\n2. Geographical area does not change and stays fixed as per Survey of India measurements.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూ రెవెన్యూ రికార్డుల అంచనాల ఆధారంగా రిపోర్టింగ్ ఏరియా కొంత మార్పు చెందుతుంది, అయితే సర్వే ఆఫ్ ఇండియా కొలతల ప్రకారం భౌగోళిక విస్తీర్ణం స్థిరంగా ఉంటుంది.",
+    "en": "Reporting area is compiled from land revenue records and changes somewhat, while geographical area remains fixed as measured by the Survey of India."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T25-0108",
+   "section": {
+    "te": "Historical Irrigation",
+    "en": "Historical Irrigation"
+   },
+   "q": {
+    "te": "క్రీ.శ. 800 మరియు 1200 మధ్య కాలంలో, బుందేల్‌ఖండ్ ప్రాంతంలో చందేలా మరియు బుందేలా రాజులు సుమారు ఎన్ని చెరువులను నిర్మించారు?",
+    "en": "Between 800 and 1200 CE, approximately how many tanks were built by the Chandella and Bundela kings in the Bundelkhand region?"
+   },
+   "options": {
+    "te": [
+     "5,000 చెరువులు",
+     "8,000 చెరువులు",
+     "15 లక్షల చెరువులు",
+     "1,500 చెరువులు"
+    ],
+    "en": [
+     "5,000 tanks",
+     "8,000 tanks",
+     "15 lakh tanks",
+     "1,500 tanks"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఆ కాలంలో బుందేల్‌ఖండ్ ప్రాంతంలో చందేలా మరియు బుందేలా రాజులు సుమారు 8,000 చెరువులను నిర్మించారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The Chandella and Bundela kings built around 8,000 tanks in the Bundelkhand region during that period."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T25-0122",
+   "section": {
+    "te": "Global Farming Names",
+    "en": "Global Farming Names"
+   },
+   "q": {
+    "te": "ఏ ప్రాంతంలో 'నరికి కాల్చివేసే' వ్యవసాయాన్ని 'మసోలే' (Masole) అని పిలుస్తారు?",
+    "en": "In which region is 'slash and burn' agriculture known as 'Masole'?"
+   },
+   "options": {
+    "te": [
+     "మెక్సికో",
+     "వియత్నాం",
+     "బ్రెజిల్",
+     "మధ్య ఆఫ్రికా"
+    ],
+    "en": [
+     "Mexico",
+     "Vietnam",
+     "Brazil",
+     "Central Africa"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, మధ్య ఆఫ్రికాలో 'నరికి కాల్చివేసే' వ్యవసాయాన్ని 'మసోలే' అని పిలుస్తారు.",
+    "en": "'slash and burn' agriculture is called 'Masole' in Central Africa."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T25-0207",
+   "section": {
+    "te": "Colonial plantation monopoly",
+    "en": "Colonial plantation monopoly"
+   },
+   "q": {
+    "te": "ఇండోనేషియాలోని చెరకు తోటల పెంపకంపై గతంలో ఏ యూరోపియన్లు గుత్తాధిపత్యాన్ని (మోనోపలీ) కలిగి ఉన్నారు?",
+    "en": "Which European power once had a monopoly over sugarcane plantations in Indonesia?"
+   },
+   "options": {
+    "te": [
+     "డచ్ వారు",
+     "ఫ్రెంచ్ వారు",
+     "స్పానిష్ వారు",
+     "బ్రిటిష్ వారు"
+    ],
+    "en": [
+     "The Dutch",
+     "The French",
+     "The Spanish",
+     "The British"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మూల గ్రంథం ప్రకారం, ఇండోనేషియాలోని చెరకు తోటల పెంపకంపై ఒకప్పుడు డచ్ వారికి గుత్తాధిపత్యం ఉండేది.",
+    "en": "The Dutch once held a monopoly over sugarcane plantation in Indonesia."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T25-0184",
+   "section": {
+    "te": "Vinoba Bhave",
+    "en": "Vinoba Bhave"
+   },
+   "q": {
+    "te": "మహాత్మా గాంధీ ఎవరిని తన ఆధ్యాత్మిక వారసుడిగా ప్రకటించారు?",
+    "en": "Who was declared as the spiritual heir by Mahatma Gandhi?"
+   },
+   "options": {
+    "te": [
+     "జవహర్ లాల్ నెహ్రూ",
+     "వినోబా భావే",
+     "సర్దార్ పటేల్",
+     "రామచంద్రారెడ్డి"
+    ],
+    "en": [
+     "Jawaharlal Nehru",
+     "Vinoba Bhave",
+     "Sardar Patel",
+     "Ram Chandra Reddy"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మహాత్మా గాంధీ వినోబా భావేను తన ఆధ్యాత్మిక వారసుడిగా ప్రకటించారు, ఆ తర్వాత ఆయన భూదాన్-గ్రామదాన్ ఉద్యమానికి నాయకత్వం వహించారు.",
+    "en": "Mahatma Gandhi declared Vinoba Bhave as his spiritual heir, who later led the Bhoodan-Gramdan movement."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T25-0067",
+   "section": {
+    "te": "Kulāgar crops",
+    "en": "Kulāgar crops"
+   },
+   "q": {
+    "te": "కులాగర్ (Kulāgar) వ్యవస్థలో పండించే పంటల రకాల్లో ఈ క్రింది వాటిలో ఏది పేర్కొనబడలేదు?",
+    "en": "Which of the following is NOT mentioned as a type of crop cultivated in the Kulāgar system?"
+   },
+   "options": {
+    "te": [
+     "భారీ స్థాయి కలప తోటలు (timber plantations)",
+     "మసాలా దినుసులు",
+     "వాణిజ్య పంటలు",
+     "ఔషధ మొక్కలు"
+    ],
+    "en": [
+     "Large-scale timber plantations",
+     "Spices",
+     "Cash crops",
+     "Medicinal plants"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "కులాగర్‌లో ఆహార పంటలు, వాణిజ్య పంటలు, పండ్లు, కూరగాయలు, మసాలా దినుసులు మరియు ఔషధ మొక్కలు ఉంటాయి, కానీ భారీ స్థాయి కలప తోటల గురించి ప్రస్తావన లేదు.",
+    "en": "Kulāgar involves food crops, cash crops, fruits, vegetables, spices, and medicinal plants, but the text does not mention large-scale timber plantations."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T25-0129",
+   "section": {
+    "te": "Rice Cultivation Conditions",
+    "en": "Rice Cultivation Conditions"
+   },
+   "q": {
+    "te": "ఖరీఫ్ పంటగా వరి సాగుకు ఈ క్రింది ఏ వాతావరణ పరిస్థితులు అవసరం?",
+    "en": "Which of the following climatic conditions are required for the cultivation of rice as a kharif crop?"
+   },
+   "options": {
+    "te": [
+     "25°C కంటే ఎక్కువ ఉష్ణోగ్రత మరియు 100 సెం.మీ కంటే ఎక్కువ వర్షపాతం",
+     "20°C కంటే తక్కువ ఉష్ణోగ్రత మరియు 150 సెం.మీ కంటే ఎక్కువ వర్షపాతం",
+     "30°C కంటే ఎక్కువ ఉష్ణోగ్రత మరియు 50 సెం.మీ కంటే తక్కువ వర్షపాతం",
+     "15°C నుండి 20°C మధ్య ఉష్ణోగ్రత మరియు 100 సెం.మీ కంటే ఎక్కువ వర్షపాతం"
+    ],
+    "en": [
+     "Temperature above 25°C and rainfall above 100 cm",
+     "Temperature below 20°C and rainfall above 150 cm",
+     "Temperature above 30°C and rainfall below 50 cm",
+     "Temperature between 15°C to 20°C and rainfall above 100 cm"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వరి సాగుకు అధిక ఉష్ణోగ్రత (25°C కంటే ఎక్కువ), అధిక తేమ మరియు 100 సెం.మీ కంటే ఎక్కువ వార్షిక వర్షపాతం అవసరం.",
+    "en": "Rice requires high temperature (above 25°C), high humidity, and annual rainfall exceeding 100 cm."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T25-0273",
+   "section": {
+    "te": "Rice Cultivation",
+    "en": "Rice Cultivation"
+   },
+   "q": {
+    "te": "భారతదేశంలో వరి రకాలను గరిష్టంగా ఎంత ఎత్తు వరకు విజయవంతంగా పండిస్తారు?",
+    "en": "Rice varieties in India are successfully grown up to what maximum altitude?"
+   },
+   "options": {
+    "te": [
+     "1,000 మీటర్లు",
+     "1,500 మీటర్లు",
+     "3,000 మీటర్లు",
+     "2,000 మీటర్లు"
+    ],
+    "en": [
+     "1,000 m",
+     "1,500 m",
+     "3,000 m",
+     "2,000 m"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వరి రకాలను సముద్ర మట్టం నుండి సుమారు 2,000 మీటర్ల ఎత్తు వరకు పండిస్తారని మూలం పేర్కొంది.",
+    "en": "Rice varieties are grown from sea level up to an altitude of about 2,000 meters."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T25-0369",
+   "section": {
+    "te": "Ecological Balance Measures",
+    "en": "Ecological Balance Measures"
+   },
+   "q": {
+    "te": "ఇందిరా గాంధీ కెనాల్ ఆయకట్టు ప్రాంతంలో సుస్థిర అభివృద్ధిని ప్రోత్సహించడానికి ప్రతిపాదించిన ఏడు చర్యలలో ఎన్ని ప్రత్యేకంగా పర్యావరణ సమతుల్యతను పునరుద్ధరించడానికి ఉద్దేశించినవి?",
+    "en": "Out of the seven measures proposed to promote sustainable development in the Indira Gandhi Canal command area, how many are specifically meant to restore ecological balance?"
+   },
+   "options": {
+    "te": [
+     "మూడు",
+     "నాలుగు",
+     "ఐదు",
+     "ఆరు"
+    ],
+    "en": [
+     "Three",
+     "Four",
+     "Five",
+     "Six"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రతిపాదించిన ఏడు చర్యలలో ఐదు చర్యలు పర్యావరణ సమతుల్యతను పునరుద్ధరించడానికి ఉద్దేశించినవి.",
+    "en": "Five of the seven measures proposed to promote sustainable development in the command area are intended to restore ecological balance."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T25-0066",
+   "section": {
+    "te": "Green Revolution architect",
+    "en": "Green Revolution architect"
+   },
+   "q": {
+    "te": "భారతదేశంలో హరిత విప్లవ పితామహుడిగా (architect) గుర్తించబడిన మరియు భారతరత్న గ్రహీత ఎవరు?",
+    "en": "Who is recognized as the architect of the Green Revolution in India and was a recipient of the Bharat Ratna?"
+   },
+   "options": {
+    "te": [
+     "వర్గీస్ కురియన్",
+     "అమర్త్య సేన్",
+     "ఎం.ఎస్. స్వామినాథన్",
+     "సి. సుబ్రమణ్యం"
+    ],
+    "en": [
+     "Verghese Kurien",
+     "Amartya Sen",
+     "M.S. Swaminathan",
+     "C. Subramaniam"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఎం.ఎస్. స్వామినాథన్ భారతదేశ హరిత విప్లవ రూపశిల్పిగా ప్రసిద్ధి చెందారు, ఇది ఆహార ఉత్పత్తిని గణనీయంగా పెంచింది.",
+    "en": "M.S. Swaminathan is known as the architect of India's Green Revolution, which significantly increased food production."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T25-0044",
+   "section": {
+    "te": "Rain-fed farming adaptations",
+    "en": "Rain-fed farming adaptations"
+   },
+   "q": {
+    "te": "కరవు మరియు అనిశ్చిత రుతుపవనాల సవాళ్లను ఎదుర్కోవడానికి, వర్షాధార రైతులు క్రింది ఏ అనుకూలతలను అలవరచుకుంటారు?",
+    "en": "To cope with droughts and unpredictable monsoons, rain-fed farmers develop which of the following adaptations?"
+   },
+   "options": {
+    "te": [
+     "కరవును తట్టుకునే పంటలను ఎంచుకోవడం",
+     "సాంప్రదాయ నీటి సంరక్షణ పద్ధతులను ఉపయోగించడం",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Choosing drought-resistant crops",
+     "Utilising traditional water-harvesting techniques",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వర్షాధార రైతులు కరవును తట్టుకునే పంటలను ఎంచుకోవడం మరియు సాంప్రదాయ నీటి సంరక్షణ పద్ధతులను ఉపయోగించడం ద్వారా సవాళ్లను అధిగమిస్తారు.",
+    "en": "Rain-fed farmers adapt to challenges by choosing drought-resistant crops and utilising traditional water-harvesting techniques."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T25-0160",
+   "section": {
+    "te": "Tea cultivation conditions",
+    "en": "Tea cultivation conditions"
+   },
+   "q": {
+    "te": "తేయాకు సాగుకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది ఉష్ణమండల మరియు ఉప-ఉష్ణమండల శీతోష్ణస్థితులలో బాగా పెరుగుతుంది.\n2. దీనికి హ్యూమస్ (humus) అధికంగా ఉండే లోతైన మరియు సారవంతమైన, నీరు నిలవని నేల అవసరం.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding tea cultivation:\n1. It grows well in tropical and sub-tropical climates.\n2. It requires deep and fertile well-drained soil rich in humus.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "తేయాకు మొక్కలు ఉష్ణమండల/ఉప-ఉష్ణమండల శీతోష్ణస్థితులలో పెరుగుతాయి మరియు సేంద్రీయ పదార్థం మరియు హ్యూమస్ అధికంగా ఉండే లోతైన, సారవంతమైన, నీరు నిలవని నేల అవసరం.",
+    "en": "Tea plants thrive in tropical/sub-tropical climates and require deep, fertile, well-drained soil that is rich in organic matter and humus."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T25-0097",
+   "section": {
+    "te": "Income growth in Sikkim",
+    "en": "Income growth in Sikkim"
+   },
+   "q": {
+    "te": "సిక్కిం 100 శాతం సేంద్రీయ రాష్ట్రంగా మారిన తర్వాత, అక్కడి రైతుల ఆదాయం సగటున ఎంత శాతం పెరిగింది?",
+    "en": "Following Sikkim's transition to a certified 100 per cent organic state, by what average percentage did farmers' incomes grow?"
+   },
+   "options": {
+    "te": [
+     "35 శాతం",
+     "10 శాతం",
+     "20 శాతం",
+     "50 శాతం"
+    ],
+    "en": [
+     "35 per cent",
+     "10 per cent",
+     "20 per cent",
+     "50 per cent"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సేంద్రీయ వ్యవసాయ పద్ధతులకు మారిన తర్వాత సిక్కిం రైతుల ఆదాయం సగటున 20 శాతం పెరిగిందని పాఠ్యాంశం తెలుపుతోంది.",
+    "en": "The case study notes that after transitioning to an organic model, farmers' incomes in Sikkim grew by 20 per cent on average."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T25-0134",
+   "section": {
+    "te": "Plantation Crops",
+    "en": "Plantation Crops"
+   },
+   "q": {
+    "te": "ఈ క్రింది తోట పంటలను (plantation crops) వాటి ప్రాథమిక సాగు ప్రాంతాలతో జతపరచండి:\n1. టీ - i. కర్ణాటక\n2. కాఫీ - ii. అస్సాం మరియు ఉత్తర బెంగాల్",
+    "en": "Match the following plantation crops with their primary growing regions:\n1. Tea - i. Karnataka\n2. Coffee - ii. Assam and North Bengal"
+   },
+   "options": {
+    "te": [
+     "1-i, 2-ii",
+     "1-ii, 2-i",
+     "1-i, 2-i",
+     "1-ii, 2-ii"
+    ],
+    "en": [
+     "1-i, 2-ii",
+     "1-ii, 2-i",
+     "1-i, 2-i",
+     "1-ii, 2-ii"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, అస్సాం మరియు ఉత్తర బెంగాల్‌లో టీ ముఖ్యమైన తోట పంట, కర్ణాటకలో కాఫీ ముఖ్యమైనది.",
+    "en": "Tea is an important plantation crop in Assam and North Bengal, while coffee is important in Karnataka."
+   }
+  }
+ ]
+}

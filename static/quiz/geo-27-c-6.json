@@ -1,0 +1,942 @@
+{
+ "id": "geo-27-c-6",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Transport – క్విజ్ 6",
+  "en": "Transport – Quiz 6"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T27-0244",
+   "section": {
+    "te": "State Highways",
+    "en": "State Highways"
+   },
+   "q": {
+    "te": "రాష్ట్ర రాజధానులను జిల్లా ప్రధాన కార్యాలయాలు మరియు ఇతర ముఖ్యమైన పట్టణాలతో ఏ వర్గం రహదారులు కలుపుతాయి?",
+    "en": "Which category of roads joins the state capitals with district headquarters and other important towns?"
+   },
+   "options": {
+    "te": [
+     "జాతీయ రహదారులు",
+     "సరిహద్దు రహదారులు",
+     "జిల్లా రహదారులు",
+     "రాష్ట్ర రహదారులు"
+    ],
+    "en": [
+     "National Highways",
+     "Border Roads",
+     "District Roads",
+     "State Highways"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రాష్ట్ర రాజధానులను జిల్లా ప్రధాన కార్యాలయాలు మరియు ముఖ్యమైన పట్టణాలతో అనుసంధానించడానికి రాష్ట్ర ప్రభుత్వాలు రాష్ట్ర రహదారులను నిర్మించి నిర్వహిస్తాయి.",
+    "en": "State Highways are constructed and maintained by state governments to connect state capitals with district headquarters and important towns."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T27-0202",
+   "section": {
+    "te": "Port Importance",
+    "en": "Port Importance"
+   },
+   "q": {
+    "te": "ఓడరేవులకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఓడరేవు ప్రాముఖ్యత అది నిర్వహించే సరుకు (cargo) పరిమాణం ఆధారంగా నిర్ణయించబడుతుంది.\n2. నిర్వహించబడే ఓడల సంఖ్య ఓడరేవు ప్రాముఖ్యతకు సూచిక.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding ports:\n1. The importance of a port is judged by the size of cargo handled.\n2. The number of ships handled is an indicator of a port's importance.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 లేదా 2 ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఓడరేవు ప్రాముఖ్యతను అది నిర్వహించే సరుకు పరిమాణం మరియు ఓడల సంఖ్య రెండింటి ద్వారా అంచనా వేస్తారని పాఠ్య భాగం పేర్కొంది.",
+    "en": "Both the size of cargo and the number of ships handled are used to judge the importance of a port."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T27-0035",
+   "section": {
+    "te": "Konkan railway problems",
+    "en": "Konkan railway problems"
+   },
+   "q": {
+    "te": "పశ్చిమ తీరం వెంట ఉన్న కొంకణ్ రైల్వే క్రింది సమస్యలలో వేటిని ఎదుర్కొంది?",
+    "en": "Which of the following problems has been faced by the Konkan railway along the west coast?"
+   },
+   "options": {
+    "te": [
+     "కొన్ని ప్రాంతాల్లో ట్రాక్ కుంగిపోవడం",
+     "కొండచరియలు విరిగిపడటం",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Sinking of track in some stretches",
+     "Landslides",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కొంకణ్ రైల్వే కొన్ని ప్రాంతాలలో ట్రాక్ కుంగిపోవడం మరియు కొండచరియలు విరిగిపడటం వంటి సమస్యలను ఎదుర్కొంది.",
+    "en": "The Konkan railway along the west coast has faced problems such as sinking of track in some stretches and landslides."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T27-0099",
+   "section": {
+    "te": "Transport Revolution",
+    "en": "Transport Revolution"
+   },
+   "q": {
+    "te": "పద్దెనిమిదవ శతాబ్దంలో రవాణా రంగంలో విప్లవాత్మక మార్పును తెచ్చిన ఆవిష్కరణ ఏది?",
+    "en": "Which invention brought about a revolution in transport in the eighteenth century?"
+   },
+   "options": {
+    "te": [
+     "పైప్‌లైన్",
+     "అంతర్గత దహన యంత్రం (Internal Combustion Engine)",
+     "చక్రం",
+     "ఆవిరి యంత్రం (Steam Engine)"
+    ],
+    "en": [
+     "The Pipeline",
+     "The Internal Combustion Engine",
+     "The Wheel",
+     "The Steam Engine"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "18వ శతాబ్దంలో ఆవిరి యంత్రం కనిపెట్టడం రవాణా రంగంలో విప్లవాత్మక మార్పులకు కారణమైంది.",
+    "en": "The invention of the steam engine in the 18th century is credited with revolutionizing transport."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T27-0177",
+   "section": {
+    "te": "St. Lawrence Seaway",
+    "en": "St. Lawrence Seaway"
+   },
+   "q": {
+    "te": "నిశ్చయం (A): సెయింట్ లారెన్స్ సీవేలో, మాంట్రియల్ వద్ద వస్తువులను చిన్న నౌకల్లోకి బదిలీ చేయాలి.\nకారణం (R): మాంట్రియల్ దాటి రాపిడ్స్ (rapids) ఉండటం వల్ల పెద్ద సముద్ర నౌకలు ముందుకు వెళ్లకుండా అడ్డుకుంటాయి.",
+    "en": "Assertion (A): On the St. Lawrence Seaway, goods must be trans-shipped to smaller vessels at Montreal.\nReason (R): There is a presence of rapids beyond Montreal that prevents large ocean-going vessels from navigating further."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పెద్ద నౌకలు మాంట్రియల్ వరకు చేరుకోగలవు, కానీ రాపిడ్స్ ఉండటం వల్ల తదుపరి ప్రయాణం కోసం సరుకును చిన్న నౌకల్లోకి మార్చాల్సి ఉంటుంది.",
+    "en": "Large vessels can reach Montreal, but rapids necessitate moving cargo to smaller ships for further travel."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T27-0114",
+   "section": {
+    "te": "Russian Transport",
+    "en": "Russian Transport"
+   },
+   "q": {
+    "te": "రష్యాలో, దేశం యొక్క మొత్తం రవాణాలో రైల్వేలు ఎంత శాతం వాటాను కలిగి ఉన్నాయి?",
+    "en": "In Russia, what percentage of the country's total transport is accounted for by railways?"
+   },
+   "options": {
+    "te": [
+     "75 శాతం",
+     "40 శాతం",
+     "33 శాతం",
+     "90 శాతం"
+    ],
+    "en": [
+     "75 per cent",
+     "40 per cent",
+     "33 per cent",
+     "90 per cent"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రష్యా మొత్తం రవాణాలో రైల్వేలు దాదాపు 90 శాతం వాటాను కలిగి ఉన్నాయని పాఠ్య భాగం పేర్కొంది.",
+    "en": "Railways account for about 90 per cent of Russia's total transport."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T27-0245",
+   "section": {
+    "te": "Bharatmala Pariyojana",
+    "en": "Bharatmala Pariyojana"
+   },
+   "q": {
+    "te": "భారత్‌మాల పరియోజన కింద ఎన్ని కిలోమీటర్ల ఆర్థిక కారిడార్లను అభివృద్ధి చేయాలని భావిస్తున్నారు?",
+    "en": "How many kilometers of Economic Corridors are envisaged to be developed under the Bharatmala Pariyojana?"
+   },
+   "options": {
+    "te": [
+     "26,000 కి.మీ",
+     "3,640 కి.మీ",
+     "4,076 కి.మీ",
+     "10,000 కి.మీ"
+    ],
+    "en": [
+     "26,000 km",
+     "3,640 km",
+     "4,076 km",
+     "10,000 km"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భారత్‌మాల పరియోజన సుమారు 26,000 కి.మీ ఆర్థిక కారిడార్ల అభివృద్ధిని ఊహిస్తుంది.",
+    "en": "The Bharatmala Pariyojana envisages the development of approximately 26,000 km of Economic Corridors."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T27-0234",
+   "section": {
+    "te": "North-South Corridor",
+    "en": "North-South Corridor"
+   },
+   "q": {
+    "te": "కొచ్చిన్-సేలం స్పర్‌తో సహా ఉత్తర-దక్షిణ కారిడార్ ద్వారా ఈ క్రింది ఏ ప్రాంతాలు అనుసంధానించబడ్డాయి?",
+    "en": "Which of the following locations are connected by the North-South corridor, including the Cochin-Salem Spur?"
+   },
+   "options": {
+    "te": [
+     "శ్రీనగర్ మరియు కన్యాకుమారి",
+     "చండీగఢ్ మరియు లేహ్",
+     "సిల్చార్ మరియు పోర్‌బందర్",
+     "ఢిల్లీ మరియు ముంబై"
+    ],
+    "en": [
+     "Srinagar and Kanniyakumari",
+     "Chandigarh and Leh",
+     "Silchar and Porbandar",
+     "Delhi and Mumbai"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మూలం ప్రకారం, ఉత్తర-దక్షిణ కారిడార్ జమ్మూ కాశ్మీర్‌లోని శ్రీనగర్‌ను తమిళనాడులోని కన్యాకుమారితో కలుపుతుంది, దీని పొడవు 4,076 కి.మీ.",
+    "en": "The North-South corridor connects Srinagar in Jammu and Kashmir with Kanniyakumari in Tamil Nadu, spanning 4,076 km."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T27-0241",
+   "section": {
+    "te": "Atal Tunnel",
+    "en": "Atal Tunnel"
+   },
+   "q": {
+    "te": "ప్రకటన (A): అటల్ టన్నెల్ మనాలి మరియు లాహౌల్-స్పితి లోయ మధ్య ఏడాది పొడవునా అనుసంధానాన్ని అందిస్తుంది.\nకారణం (R): అంతకుముందు, భారీ హిమపాతం కారణంగా లాహౌల్-స్పితి లోయ ప్రతి సంవత్సరం సుమారు 6 నెలల పాటు విచ్ఛిన్నమయ్యేది.",
+    "en": "Assertion (A): The Atal Tunnel provides year-round connectivity between Manali and Lahaul-Spiti valley.\nReason (R): Earlier, the Lahaul-Spiti valley was cut off for about 6 months every year due to heavy snowfall."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భారీ మంచు కారణంగా లాహౌల్-స్పితి లోయ 6 నెలల పాటు ఒంటరిగా ఉండటాన్ని అధిగమించడానికి అటల్ టన్నెల్ నిర్మించబడింది, ఇది ఏడాది పొడవునా ప్రవేశాన్ని నిర్ధారిస్తుంది.",
+    "en": "The Atal Tunnel was built specifically to overcome the 6-month isolation of the Lahaul-Spiti valley caused by heavy snow, ensuring year-round access."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T27-0290",
+   "section": {
+    "te": "Trade Growth Reasons",
+    "en": "Trade Growth Reasons"
+   },
+   "q": {
+    "te": "ఇటీవలి సంవత్సరాలలో భారతదేశ విదేశీ వాణిజ్యం వేగంగా పెరగడానికి ఈ క్రింది వాటిలో ఏవి కారణాలు?",
+    "en": "Which of the following are reasons for the sharp rise in India's overseas trade in recent years?"
+   },
+   "options": {
+    "te": [
+     "తయారీ రంగాలలో వేగం",
+     "ప్రభుత్వం యొక్క ఉదారవాద విధానాలు",
+     "మార్కెట్ల వైవిధ్యీకరణ",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Momentum in manufacturing sectors",
+     "Liberal policies of the government",
+     "Diversification of markets",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "తయారీ రంగంలో వేగం, ప్రభుత్వ సరళీకరణ మరియు మార్కెట్ వైవిధ్యీకరణ కారణంగా విదేశీ వాణిజ్యం వృద్ధి చెందింది.",
+    "en": "The growth in overseas trade is attributed to manufacturing momentum, government liberalization, and market diversification."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T27-0157",
+   "section": {
+    "te": "Railway along Suez Canal",
+    "en": "Railway along Suez Canal"
+   },
+   "q": {
+    "te": "సూయజ్ కాలువ వెంబడి ఒక రైలు మార్గం సూయజ్ వరకు వెళుతుంది, మరియు ఇస్మాయిలియా నుండి ఏ నగరానికి బ్రాంచ్ లైన్ ఉంది?",
+    "en": "Along the Suez Canal, a railway line runs to Suez, and a branch line connects Ismailia to which city?"
+   },
+   "options": {
+    "te": [
+     "కైరో",
+     "అలెగ్జాండ్రియా",
+     "త్రిపోలి",
+     "ఖార్తూమ్"
+    ],
+    "en": [
+     "Cairo",
+     "Alexandria",
+     "Tripoli",
+     "Khartoum"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సూయజ్ కాలువ వెంట ఒక రైల్వే మార్గం సూయజ్ నగరానికి వెళుతుంది, అలాగే ఇస్మాయిలియా నుండి కైరో నగరానికి బ్రాంచ్ లైన్ ఉంది.",
+    "en": "A railway follows the canal to Suez, and from Ismailia there is a branch line to Cairo."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T27-0014",
+   "section": {
+    "te": "Suez Canal Importance",
+    "en": "Suez Canal Importance"
+   },
+   "q": {
+    "te": "భారతదేశం నుండి యూరప్‌కు అతి తక్కువ దూరమున్న సముద్ర మార్గంగా కింది వాటిలో దేనిని పరిగణిస్తారు?",
+    "en": "Which of the following is considered the shortest maritime route from India to Europe?"
+   },
+   "options": {
+    "te": [
+     "పనామా కాలువ",
+     "సూయజ్ కాలువ",
+     "కేప్ ఆఫ్ గుడ్ హోప్ మార్గం",
+     "మలక్కా జలసంధి"
+    ],
+    "en": [
+     "Panama Canal",
+     "Suez Canal",
+     "Cape of Good Hope route",
+     "Strait of Malacca"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సూయజ్ కాలువ ఎర్ర సముద్రాన్ని మరియు మధ్యధరా సముద్రాన్ని కలపడం ద్వారా భారతదేశం మరియు యూరప్ మధ్య అతి తక్కువ సముద్ర మార్గాన్ని అందిస్తుంది.",
+    "en": "The Suez Canal provides the shortest sea route between India and Europe by connecting the Red Sea and the Mediterranean."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T27-0152",
+   "section": {
+    "te": "North Pacific Ports",
+    "en": "North Pacific Ports"
+   },
+   "q": {
+    "te": "ఉత్తర పసిఫిక్ సముద్ర మార్గంలో ఆసియా తీరం వైపు ఉన్న నౌకాశ్రయం క్రింది వాటిలో ఏది?",
+    "en": "Which of the following ports is situated on the Asian side of the North Pacific Sea Route?"
+   },
+   "options": {
+    "te": [
+     "పోర్ట్‌ల్యాండ్",
+     "కోబ్",
+     "సియాటెల్",
+     "వాంకూవర్"
+    ],
+    "en": [
+     "Portland",
+     "Kobe",
+     "Seattle",
+     "Vancouver"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పోర్ట్‌ల్యాండ్, సియాటెల్, వాంకూవర్ అమెరికా తీరంలో ఉండగా; కోబ్, యొకహోమా, షాంఘై వంటివి ఆసియా తీరంలో ఉన్నాయి.",
+    "en": "Yokohama, Kobe, Shanghai, Hong Kong, Manila, and Singapore are on the Asian side, while Vancouver, Seattle, Portland, San Francisco, and Los Angeles are on the American side."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T27-0176",
+   "section": {
+    "te": "Danube Exports",
+    "en": "Danube Exports"
+   },
+   "q": {
+    "te": "డాన్యూబ్ జలమార్గం ద్వారా రవాణా చేయబడే ప్రధాన ఎగుమతి వస్తువులు ఏవి?",
+    "en": "Which of the following are the chief export items transported via the Danube waterway?"
+   },
+   "options": {
+    "te": [
+     "గోధుమలు మరియు మొక్కజొన్న",
+     "కలప మరియు యంత్రాలు",
+     "బొగ్గు మరియు సిమెంట్",
+     "A మరియు B రెండూ"
+    ],
+    "en": [
+     "Wheat and Maize",
+     "Timber and Machinery",
+     "Coal and Cement",
+     "Both A and B"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "డాన్యూబ్ జలమార్గం గోధుమలు, మొక్కజొన్న, కలప మరియు యంత్రాలను ఎగుమతి చేయడానికి ఉపయోగించబడుతుంది.",
+    "en": "The Danube waterway is used to export wheat, maize, timber, and machinery."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T27-0319",
+   "section": {
+    "te": "Trade Measures",
+    "en": "Trade Measures"
+   },
+   "q": {
+    "te": "అంతర్జాతీయ వాణిజ్యంలో తన వాటాను పెంచుకోవడానికి భారతదేశం ఈ క్రింది ఏ చర్యలను చేపట్టింది?",
+    "en": "Which of the following measures has India adopted to increase its share in international trade?"
+   },
+   "options": {
+    "te": [
+     "దిగుమతి సరళీకరణ",
+     "దిగుమతి సుంకాల తగ్గింపు",
+     "డీలైసెన్సింగ్",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Import liberalisation",
+     "Reduction in import duties",
+     "Delicensing",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "దిగుమతి సరళీకరణ, దిగుమతి సుంకాల తగ్గింపు, డీలైసెన్సింగ్ మరియు ప్రాసెస్ నుండి ప్రొడక్ట్ పేటెంట్లకు మారడం వంటి చర్యలను పాఠ్య భాగం పేర్కొంది.",
+    "en": "Import liberalisation, reduction in import duties, delicensing, and changing from process to product patents as measures."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T27-0096",
+   "section": {
+    "te": "Global Road Statistics",
+    "en": "Global Road Statistics"
+   },
+   "q": {
+    "te": "ప్రపంచంలోని మొత్తం 15 మిలియన్ కిలోమీటర్ల మోటారు యోగ్యమైన రహదారి పొడవులో 33 శాతం ఏ ఖండంలో ఉంది?",
+    "en": "Which continent accounts for 33 per cent of the world's total motorable road length of 15 million km?"
+   },
+   "options": {
+    "te": [
+     "ఉత్తర అమెరికా",
+     "ఆసియా",
+     "పశ్చిమ యూరప్",
+     "ఆఫ్రికా"
+    ],
+    "en": [
+     "North America",
+     "Asia",
+     "Western Europe",
+     "Africa"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రపంచంలోని మొత్తం మోటారు రహదారి పొడవులో 33 శాతం ఉత్తర అమెరికాలోనే ఉంది.",
+    "en": "North America accounts for 33 per cent of the world's total motorable road length."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T27-0059",
+   "section": {
+    "te": "Tourism Scheme Acronym",
+    "en": "Tourism Scheme Acronym"
+   },
+   "q": {
+    "te": "భారతదేశంలో పర్యాటకాన్ని ప్రోత్సహించడానికి ప్రారంభించబడిన పథకాలలో 'PRASHAD' యొక్క పూర్తి రూపం ఏమిటి?",
+    "en": "What does the acronym 'PRASHAD' stand for among the government initiatives launched to boost tourism in India?"
+   },
+   "options": {
+    "te": [
+     "ప్రమోషన్ ఆఫ్ రూరల్ ఏరియాస్ అండ్ స్పిరిచువల్ హెరిటేజ్ ఆగ్మెంటేషన్ డ్రైవ్",
+     "పబ్లిక్ రోడ్స్ అండ్ స్పిరిచువల్ హెరిటేజ్ ఆగ్మెంటేషన్ డివిజన్",
+     "పిల్‌గ్రిమేజ్ రెజువనేషన్ అండ్ సస్టైనబుల్ హెరిటేజ్ యాక్షన్ డిపార్ట్‌మెంట్",
+     "పిల్‌గ్రిమేజ్ రెజువనేషన్ అండ్ స్పిరిచువల్ హెరిటేజ్ ఆగ్మెంటేషన్ డ్రైవ్"
+    ],
+    "en": [
+     "Promotion of Rural Areas and Spiritual Heritage Augmentation Drive",
+     "Public Roads and Spiritual Heritage Augmentation Division",
+     "Pilgrimage Rejuvenation and Sustainable Heritage Action Department",
+     "Pilgrimage Rejuvenation and Spiritual Heritage Augmentation Drive"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, ప్రసాద్ (PRASHAD) అంటే 'Pilgrimage Rejuvenation and Spiritual Heritage Augmentation Drive'.",
+    "en": "As given in the text, PRASHAD stands for Pilgrimage Rejuvenation and Spiritual Heritage Augmentation Drive."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T27-0283",
+   "section": {
+    "te": "UDAN Scheme",
+    "en": "UDAN Scheme"
+   },
+   "q": {
+    "te": "ఉడాన్ (UDAN) పథకం ఈ క్రింది ఏ మార్కెట్‌ను ప్రారంభించడానికి రూపొందించబడింది?",
+    "en": "The UDAN scheme is designed to jump-start which of the following markets?"
+   },
+   "options": {
+    "te": [
+     "ప్రాంతీయ విమానయాన మార్కెట్",
+     "పెట్రోలియం మార్కెట్",
+     "అంతర్జాతీయ విమానయాన మార్కెట్",
+     "టెలికాం మార్కెట్"
+    ],
+    "en": [
+     "Regional aviation market",
+     "Petroleum market",
+     "International aviation market",
+     "Telecom market"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఉడాన్ అనేది భారతదేశంలో ప్రాంతీయ విమానయాన మార్కెట్‌ను ప్రారంభించడానికి ప్రత్యేకంగా రూపొందించబడిన ఒక ప్రత్యేకమైన ప్రపంచ స్థాయి పథకం.",
+    "en": "UDAN is a unique global scheme designed specifically to jump-start the regional aviation market in India."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T27-0154",
+   "section": {
+    "te": "Suez Canal Features",
+    "en": "Suez Canal Features"
+   },
+   "q": {
+    "te": "సూయజ్ కాలువకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది లాకులు (locks) లేని సముద్ర మట్టపు కాలువ.\n2. ఇది సుమారు 160 కి.మీ పొడవు మరియు 11 నుండి 15 మీటర్ల లోతు కలిగి ఉంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the Suez Canal:\n1. It is a sea-level canal constructed without locks.\n2. It has a length of about 160 km and a depth of 11 to 15 m.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సూయజ్ కాలువ లాకులు లేని సముద్ర మట్టపు కాలువ, దీని పొడవు సుమారు 160 కి.మీ మరియు లోతు 11 నుండి 15 మీటర్లు.",
+    "en": "The Suez Canal is a sea-level canal without locks. It is about 160 km long and 11 to 15 m deep."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T27-0078",
+   "section": {
+    "te": "Transport Network definition",
+    "en": "Transport Network definition"
+   },
+   "q": {
+    "te": "రవాణా భూగోళశాస్త్రం ప్రకారం, మార్గాల (లింకులు) ద్వారా అనేక ప్రదేశాలు (నోడ్‌లు) ఒకదానితో ఒకటి అనుసంధానమై ఏర్పడే నమూనాను ఏమని పిలుస్తారు?",
+    "en": "In transport geography, a pattern formed by several places (nodes) joined together by a series of routes (links) is defined as which of the following?"
+   },
+   "options": {
+    "te": [
+     "రవాణా ధమని (ట్రాన్స్‌పోర్ట్ ఆర్టరీ)",
+     "రవాణా గ్రిడ్",
+     "రవాణా నెట్‌వర్క్",
+     "రవాణా కారిడార్"
+    ],
+    "en": [
+     "Transport artery",
+     "Transport grid",
+     "Transport network",
+     "Transport corridor"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అనేక ప్రదేశాలు (నోడ్‌లు) మార్గాల (లింకులు) ద్వారా కలిసి ఏర్పరిచే నమూనాను రవాణా నెట్‌వర్క్ (Transport Network) అని నిర్వచించారు.",
+    "en": "A transport network is defined as several places (nodes) joined together by a series of routes (links) to form a pattern."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T27-0184",
+   "section": {
+    "te": "Telephone monopoly",
+    "en": "Telephone monopoly"
+   },
+   "q": {
+    "te": "20వ శతాబ్దం ప్రారంభంలో మరియు మధ్యలో అమెరికా టెలిఫోన్ పరిశ్రమపై ఏ కంపెనీ గుత్తాధిపత్యాన్ని కలిగి ఉంది?",
+    "en": "Which company enjoyed a monopoly over the U.S.A.’s telephone industry during the early and mid-twentieth century?"
+   },
+   "options": {
+    "te": [
+     "ఆపిల్",
+     "IBM",
+     "మైక్రోసాఫ్ట్",
+     "AT&T"
+    ],
+    "en": [
+     "Apple",
+     "IBM",
+     "Microsoft",
+     "AT&T"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అమెరికన్ టెలిగ్రాఫ్ అండ్ టెలిఫోన్ కంపెనీ (AT&T) 20వ శతాబ్దం ప్రారంభం నుండి మధ్య వరకు అమెరికా టెలిఫోన్ పరిశ్రమలో గుత్తాధిపత్యాన్ని కలిగి ఉంది.",
+    "en": "The American Telegraph and Telephone Company (AT&T) held a monopoly in the US telephone industry during the early to mid-20th century."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T27-0185",
+   "section": {
+    "te": "Southern hemisphere air",
+    "en": "Southern hemisphere air"
+   },
+   "q": {
+    "te": "దక్షిణార్ధగోళంలోని వాయు సేవల గురించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. 10-35 అక్షాంశాల మధ్య పరిమిత వాయు సేవలు ఉన్నాయి.\n2. ఇది తక్కువ జనాభా మరియు పరిమిత భూభాగం కారణంగా ఉంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding air services in the Southern Hemisphere:\n1. There are limited air services between 10-35 latitudes.\n2. This is due to sparser population and limited landmass.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "తక్కువ జనాభా, పరిమిత భూభాగం మరియు ఆర్థిక అభివృద్ధి కారణంగా దక్షిణార్ధగోళంలో 10-35 అక్షాంశాల మధ్య వాయు సేవలు పరిమితంగా ఉన్నాయని పాఠ్యభాగం ధృవీకరిస్తుంది.",
+    "en": "The text confirms that air services are limited between 10-35 latitudes in the Southern Hemisphere due to sparse population, limited landmass, and economic development."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T27-0013",
+   "section": {
+    "te": "Role of Traders",
+    "en": "Role of Traders"
+   },
+   "q": {
+    "te": "రవాణా ద్వారా ఉత్పత్తులను వినియోగదారులకు చేరవేసే బాధ్యత కలిగిన వ్యక్తులు ఎవరు?",
+    "en": "Who are the individuals responsible for making products reach consumers through transportation?"
+   },
+   "options": {
+    "te": [
+     "వినియోగదారులు",
+     "వ్యాపారులు (Traders)",
+     "ఉత్పత్తిదారులు",
+     "శాసనసభ్యులు"
+    ],
+    "en": [
+     "Consumers",
+     "Traders",
+     "Producers",
+     "Legislators"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "రవాణా ద్వారా సరఫరా ప్రదేశాల నుండి వినియోగదారులకు ఉత్పత్తుల తరలింపును సులభతరం చేసేవారిని వ్యాపారులుగా నిర్వచించారు.",
+    "en": "Traders are defined as those who facilitate the movement of products from supply locations to consumers via transportation."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T27-0253",
+   "section": {
+    "te": "Kerala Backwaters",
+    "en": "Kerala Backwaters"
+   },
+   "q": {
+    "te": "ప్రసిద్ధ నెహ్రూ ట్రోఫీ బోట్ రేస్, దీనిని 'వల్లంకలి' అని కూడా పిలుస్తారు, ఇది ఏ రాష్ట్రంలోని బ్యాక్ వాటర్స్ (backwaters) లో జరుగుతుంది?",
+    "en": "The famous Nehru Trophy Boat Race, also known as 'Vallamkali', is held in the backwaters of which state?"
+   },
+   "options": {
+    "te": [
+     "గోవా",
+     "కేరళ",
+     "కర్ణాటక",
+     "మహారాష్ట్ర"
+    ],
+    "en": [
+     "Goa",
+     "Kerala",
+     "Karnataka",
+     "Maharashtra"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కేరళలోని బ్యాక్ వాటర్స్ (కాయల్) పర్యాటకులను ఆకర్షించడానికి మరియు నెహ్రూ ట్రోఫీ బోట్ రేస్ (వల్లంకలి) నిర్వహించడానికి ప్రసిద్ధి చెందాయి.",
+    "en": "The backwaters (Kayal) of Kerala are famous for attracting tourists and hosting the Nehru Trophy Boat Race (Vallamkali)."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T27-0120",
+   "section": {
+    "te": "Alaskan Highway",
+    "en": "Alaskan Highway"
+   },
+   "q": {
+    "te": "అలాస్కాన్ హైవే కింది ఏ రెండు ప్రాంతాలను కలుపుతుంది?",
+    "en": "The Alaskan Highway connects which of the following two locations?"
+   },
+   "options": {
+    "te": [
+     "ఎడ్మంటన్ మరియు యాంకరేజ్",
+     "అల్జీర్స్ మరియు కొనక్రీ",
+     "వాంకోవర్ మరియు సెయింట్ జాన్స్ సిటీ",
+     "డార్విన్ మరియు మెల్బోర్న్"
+    ],
+    "en": [
+     "Edmonton and Anchorage",
+     "Algiers and Conakry",
+     "Vancouver and St. John’s City",
+     "Darwin and Melbourne"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అలాస్కాన్ హైవే కెనడాలోని ఎడ్మంటన్‌ను అలాస్కాలోని యాంకరేజ్‌తో కలుపుతుంది.",
+    "en": "The Alaskan Highway links Edmonton in Canada to Anchorage in Alaska."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T27-0218",
+   "section": {
+    "te": "Packet Stations Function",
+    "en": "Packet Stations Function"
+   },
+   "q": {
+    "te": "ప్యాకెట్ స్టేషన్లకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. వీటిని ఫెర్రీ పోర్టులు అని కూడా అంటారు.\n2. ఇవి కేవలం బల్క్ పారిశ్రామిక కార్గోను రవాణా చేయడానికి మాత్రమే ఉద్దేశించబడ్డాయి.\n3. ఇవి సాధారణంగా ఒక జలవనరుకు ఇరువైపులా ఒకదానికొకటి ఎదురుగా జంటలుగా ఉంటాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding Packet Stations:\n1. They are also known as ferry ports.\n2. They are exclusively concerned with transporting bulk industrial cargo.\n3. They usually occur in pairs facing each other across a water body.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్యాకెట్ స్టేషన్లు ప్రయాణీకులు మరియు మెయిల్ (బల్క్ కార్గో కాదు) కు సంబంధించిన ఫెర్రీ పోర్టులు మరియు తక్కువ దూరంలో జంటలుగా ఉంటాయి.",
+    "en": "Packet stations are ferry ports concerned with passengers and mail (not bulk cargo) and occur in pairs across short distances."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T27-0327",
+   "section": {
+    "te": "Chennai Port",
+    "en": "Chennai Port"
+   },
+   "q": {
+    "te": "చెన్నై పోర్ట్ గురించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది 1859లో నిర్మించబడిన కృత్రిమ ఓడరేవు.\n2. లోతైన నీటి కారణంగా ఇది పెద్ద ఓడలకు బాగా అనుకూలంగా ఉంటుంది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about Chennai Port:\n1. It is an artificial harbour built in 1859.\n2. It is highly suitable for large ships due to its deep waters.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 లేదా 2 ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రకటన 1 సరైనది. ప్రకటన 2 తప్పు ఎందుకంటే తక్కువ లోతు ఉన్న నీటి (shallow waters) కారణంగా ఇది పెద్ద ఓడలకు అనుకూలం కాదని పాఠ్య భాగం చెబుతోంది.",
+    "en": "Statement 1 is correct. Statement 2 is incorrect because the text says it is NOT suitable for large ships because of shallow waters."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T27-0160",
+   "section": {
+    "te": "South Pacific Sea Route",
+    "en": "South Pacific Sea Route"
+   },
+   "q": {
+    "te": "దక్షిణ పసిఫిక్ సముద్ర మార్గం పశ్చిమ యూరప్ మరియు ఉత్తర అమెరికాలను ఆస్ట్రేలియా, న్యూజిలాండ్‌లతో ఏ కాలువ ద్వారా కలుపుతుంది?",
+    "en": "The South Pacific Sea Route connects Western Europe and North America with Australia, New Zealand, and Pacific islands via which canal?"
+   },
+   "options": {
+    "te": [
+     "పనామా కాలువ",
+     "ఎరీ కాలువ",
+     "సూయజ్ కాలువ",
+     "కీల్ కాలువ"
+    ],
+    "en": [
+     "Panama Canal",
+     "Erie Canal",
+     "Suez Canal",
+     "Kiel Canal"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "దక్షిణ పసిఫిక్ సముద్ర మార్గం పనామా కాలువ గుండా పశ్చిమ యూరప్, ఉత్తర అమెరికాలను ఆస్ట్రేలియా, న్యూజిలాండ్ మరియు పసిఫిక్ దీవులతో అనుసంధానిస్తుంది.",
+    "en": "The South Pacific Sea Route connects Western Europe and North America with Australia, New Zealand, and scattered Pacific islands via the Panama Canal."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T27-0225",
+   "section": {
+    "te": "Rural Road Density",
+    "en": "Rural Road Density"
+   },
+   "q": {
+    "te": "ప్రతిపాదన (A): భారతదేశంలో గ్రామీణ రహదారుల సాంద్రతలో ప్రాంతీయ వైవిధ్యం ఉంది.\nకారణం (R): గ్రామీణ రహదారుల సాంద్రత భూభాగం యొక్క స్వభావం ద్వారా ప్రభావితమవుతుంది.",
+    "en": "Assertion (A): There is regional variation in the density of rural roads in India.\nReason (R): The density of rural roads is influenced by the nature of the terrain."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "గ్రామీణ రహదారుల సాంద్రతలోని ప్రాంతీయ వైవిధ్యం భూభాగం యొక్క స్వభావంపై ఆధారపడి ఉంటుందని పాఠ్య భాగం స్పష్టంగా పేర్కొంది.",
+    "en": "The text explicitly links the regional variation in rural road density to the influence of the terrain's nature."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T27-0009",
+   "section": {
+    "te": "Thenmala Meaning",
+    "en": "Thenmala Meaning"
+   },
+   "q": {
+    "te": "'తెన్మల' అనే పేరుకు అక్షరార్థం ఏమిటి?",
+    "en": "What is the literal meaning of the name 'Thenmala'?"
+   },
+   "options": {
+    "te": [
+     "బంగారు పర్వతం",
+     "తేనె కొండ (Honey Hill)",
+     "పచ్చని అడవి",
+     "నిశ్శబ్ద లోయ"
+    ],
+    "en": [
+     "Golden Mountain",
+     "Honey Hill",
+     "Green Forest",
+     "Silent Valley"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "తెన్మల అంటే 'తేనె కొండ' అని అర్థం, ఇది ఆ ప్రాంతం యొక్క సహజ సంపదను మరియు జీవవైవిధ్యాన్ని ప్రతిబింబిస్తుంది.",
+    "en": "The name Thenmala means 'Honey Hill', which reflects the natural richness and biodiversity of the area."
+   }
+  }
+ ]
+}

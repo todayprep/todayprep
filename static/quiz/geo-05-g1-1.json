@@ -1,0 +1,942 @@
+{
+ "id": "geo-05-g1-1",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Earthquakes – క్విజ్ 1",
+  "en": "Earthquakes – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T05-0036",
+   "section": {
+    "te": "Gravitational Force Variation",
+    "en": "Gravitational Force Variation"
+   },
+   "q": {
+    "te": "భూమి ఉపరితలంపై గురుత్వాకర్షణ శక్తి (g) ఎక్కడ అత్యధికంగా ఉంటుంది?",
+    "en": "Where is the gravitational force (g) on the Earth's surface found to be the greatest?"
+   },
+   "options": {
+    "te": [
+     "ధ్రువాల దగ్గర",
+     "45 డిగ్రీల అక్షాంశం వద్ద",
+     "సముద్రాల మధ్యలో",
+     "భూమధ్యరేఖ వద్ద"
+    ],
+    "en": [
+     "Near the Poles",
+     "At 45 degrees latitude",
+     "In the middle of the oceans",
+     "At the Equator"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "గురుత్వాకర్షణ శక్తి ఒకేలా ఉండదు; భూమధ్యరేఖతో పోలిస్తే భూమి కేంద్రం నుండి దూరం తక్కువగా ఉండటం వల్ల ధ్రువాల దగ్గర ఇది ఎక్కువగా ఉంటుంది.",
+    "en": "The gravitational force is not uniform; it is greater near the poles because the distance from the earth's centre is less compared to the equator."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T05-0055",
+   "section": {
+    "te": "Effects of Earthquakes",
+    "en": "Effects of Earthquakes"
+   },
+   "q": {
+    "te": "ఈ క్రింది వాటిలో భూకంపం యొక్క తక్షణ ప్రమాదకర ప్రభావాలుగా ఏవి పేర్కొనబడ్డాయి?\nA. భూమి కంపించడం (Ground Shaking)\nB. నేల ద్రవీకరణ (Soil liquefaction)\nC. భూపాతాలు మరియు బురద ప్రవాహాలు (Land and mud slides)",
+    "en": "Which of the following are listed as immediate hazardous effects of an earthquake?\nA. Ground Shaking\nB. Soil liquefaction\nC. Land and mud slides"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూమి కంపించడం, నేల ద్రవీకరణ మరియు భూపాతాలు/బురద ప్రవాహాలు అన్నీ భూకంపాల తక్షణ ప్రమాదకర ప్రభావాలుగా పేర్కొనబడ్డాయి.",
+    "en": "Ground shaking, soil liquefaction, and land/mud slides are all mentioned as immediate hazardous effects of earthquakes."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T05-0058",
+   "section": {
+    "te": "Explosion Earthquakes",
+    "en": "Explosion Earthquakes"
+   },
+   "q": {
+    "te": "రసాయన లేదా అణు పరికరాల పేలుడు వల్ల భూమి కంపించడాన్ని ఏ రకమైన భూకంపంగా పేర్కొంటారు?",
+    "en": "Ground shaking that occurs due to the explosion of chemical or nuclear devices is classified as which type of earthquake?"
+   },
+   "options": {
+    "te": [
+     "అగ్నిపర్వత భూకంపాలు",
+     "కూలిపోవడం వల్ల వచ్చే భూకంపాలు",
+     "పేలుడు భూకంపాలు (Explosion earthquakes)",
+     "టెక్టానిక్ భూకంపాలు"
+    ],
+    "en": [
+     "Volcanic earthquakes",
+     "Collapse earthquakes",
+     "Explosion earthquakes",
+     "Tectonic earthquakes"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రసాయన లేదా అణు పరికరాల పేలుడు వల్ల సంభవించే భూకంప ప్రకంపనలను ఎక్స్‌ప్లోజన్ ఎర్త్‌క్వేక్స్ (పేలుడు భూకంపాలు) అంటారు.",
+    "en": "Ground shaking caused by the detonation of chemical or nuclear devices is termed an explosion earthquake."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T05-0043",
+   "section": {
+    "te": "Earthquake Measurement Scales",
+    "en": "Earthquake Measurement Scales"
+   },
+   "q": {
+    "te": "విడుదలైన శక్తి ఆధారంగా భూకంపం యొక్క తీవ్రతను (magnitude) కొలవడానికి ఈ క్రింది వాటిలో ఏ స్కేలును ఉపయోగిస్తారు?",
+    "en": "Which of the following scales is used to measure the magnitude of an earthquake based on the energy released?"
+   },
+   "options": {
+    "te": [
+     "సీస్మోగ్రాఫ్ స్కేల్",
+     "షాడో స్కేల్",
+     "మెర్కల్లి స్కేల్",
+     "రిక్టర్ స్కేల్"
+    ],
+    "en": [
+     "Seismograph scale",
+     "Shadow scale",
+     "Mercalli scale",
+     "Richter scale"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రిక్టర్ స్కేల్ భూకంపం యొక్క మాగ్నిట్యూడ్‌ను కొలుస్తుంది, ఇది ఆ సమయంలో విడుదలైన శక్తికి సంబంధించినది.",
+    "en": "The Richter scale measures the magnitude of an earthquake, which relates to the energy released during the event."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T05-0042",
+   "section": {
+    "te": "Landslide Prevention",
+    "en": "Landslide Prevention"
+   },
+   "q": {
+    "te": "కొండచరియలు విరిగిపడటాన్ని తగ్గించే చర్యలకు అదనంగా ఏవి 'సానుకూల చర్యలు' (positive actions) గా పేర్కొనబడ్డాయి?",
+    "en": "Which of the following are mentioned as 'positive actions' to supplement landslide mitigation measures?"
+   },
+   "options": {
+    "te": [
+     "భారీ ఎత్తున అడవుల పెంపకం (Afforestation)",
+     "గట్లు లేదా కట్టల (Bunds) నిర్మాణం",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Large-scale afforestation",
+     "Construction of bunds",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కొండచరియల నియంత్రణ కోసం భారీ అడవుల పెంపకం మరియు నీటి ప్రవాహాన్ని తగ్గించడానికి గట్ల నిర్మాణం రెండింటినీ సానుకూల అనుబంధ చర్యలుగా పాఠ్యభాగం గుర్తించింది.",
+    "en": "The text identifies both large-scale afforestation and the construction of bunds (to reduce water flow) as positive supplementary actions for landslide control."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T05-0068",
+   "section": {
+    "te": "Composite Volcanoes Features",
+    "en": "Composite Volcanoes Features"
+   },
+   "q": {
+    "te": "బసాల్ట్ కంటే చల్లని మరియు ఎక్కువ చిక్కదనం (viscous) కలిగిన లావా విస్ఫోటనాల వల్ల ఏర్పడే ఏ రకమైన అగ్నిపర్వతాలు తరచుగా విస్ఫోటక విస్ఫోటనాలకు దారితీస్తాయి?",
+    "en": "Which type of volcanoes are characterised by eruptions of cooler and more viscous lavas than basalt, often resulting in explosive eruptions?"
+   },
+   "options": {
+    "te": [
+     "షీల్డ్ అగ్నిపర్వతాలు",
+     "ఫ్లడ్ బసాల్ట్ ప్రావిన్సులు",
+     "కాల్డెరాలు",
+     "మిశ్రమ అగ్నిపర్వతాలు (Composite volcanoes)"
+    ],
+    "en": [
+     "Shield volcanoes",
+     "Flood basalt provinces",
+     "Calderas",
+     "Composite volcanoes"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మిశ్రమ అగ్నిపర్వతాలు (Composite volcanoes) బసాల్ట్ కంటే చల్లని, అధిక చిక్కదనం కలిగిన లావా విస్ఫోటనాల వల్ల ఏర్పడతాయి.",
+    "en": "Composite volcanoes are characterised by eruptions of cooler and more viscous lavas than basalt."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T05-0007",
+   "section": {
+    "te": "Varāhamihira's Bṛihatsaṁhitā",
+    "en": "Varāhamihira's Bṛihatsaṁhitā"
+   },
+   "q": {
+    "te": "వరాహమిహిరుని బృహత్సంహిత ప్రకారం, ఈ క్రింది వాటిలో భూకంపాలకు కారణమైన మూల శక్తులుగా ఏవి పరిగణించబడ్డాయి?\n1. వాయు (గాలి)\n2. అగ్ని (నిప్పు)\n3. ఇంద్ర (స్వర్గం/పిడుగు)\n4. వరుణ (నీరు)",
+    "en": "According to Varāhamihira's Bṛihatsaṁhitā, which of the following were considered elemental forces responsible for earthquakes?\n1. Vāyu (wind)\n2. Agni (fire)\n3. Indra (heaven/thunder)\n4. Varuṇa (water)"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "3 మరియు 4 మాత్రమే",
+     "1, 2 మరియు 3 మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "1 and 2 only",
+     "3 and 4 only",
+     "1, 2 and 3 only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వరాహమిహిరుడు భూకంపాలకు నాలుగు మూల శక్తులు కారణమని పేర్కొన్నాడు: వాయు, అగ్ని, ఇంద్ర మరియు వరుణ.",
+    "en": "Varāhamihira attributed earthquakes to four elemental forces: Vāyu, Agni, Indra, and Varuṇa."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T05-0078",
+   "section": {
+    "te": "Debris Fall Definition",
+    "en": "Debris Fall Definition"
+   },
+   "q": {
+    "te": "నిలువుగా లేదా ముందుకు పొడుచుకు వచ్చిన ఉపరితలం నుండి భూ శిథిలాలు దాదాపు స్వేచ్ఛగా క్రిందికి పడిపోవడాన్ని ఏ రకమైన కదలికగా పేర్కొంటారు?",
+    "en": "What type of mass movement is described as nearly a free fall of earth debris from a vertical or overhanging face?"
+   },
+   "options": {
+    "te": [
+     "డెబ్రిస్ ఫాల్",
+     "స్లంప్",
+     "రాక్‌స్లైడ్",
+     "డెబ్రిస్ స్లైడ్"
+    ],
+    "en": [
+     "Debris fall",
+     "Slump",
+     "Rockslide",
+     "Debris slide"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నిలువుగా ఉండే ముఖభాగం నుండి శిథిలాలు స్వేచ్ఛగా కిందికి పడటాన్ని డెబ్రిస్ ఫాల్ అంటారు.",
+    "en": "Debris fall is nearly a free fall of earth debris descending from a vertical or overhanging face."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T05-0008",
+   "section": {
+    "te": "Baratang Mud Volcano",
+    "en": "Baratang Mud Volcano"
+   },
+   "q": {
+    "te": "భారతదేశంలోని ఏకైక బురద అగ్నిపర్వతం (mud volcano) ఎక్కడ ఉంది?",
+    "en": "Where is the only mud volcano in India located?"
+   },
+   "options": {
+    "te": [
+     "సాల్సెట్ ద్వీపం",
+     "మజులి ద్వీపం",
+     "లక్షద్వీప్ దీవులు",
+     "బరాటాంగ్ ద్వీపం"
+    ],
+    "en": [
+     "Salsette Island",
+     "Majuli Island",
+     "Lakshadweep Islands",
+     "Baratang Island"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశంలోని ఏకైక బురద అగ్నిపర్వతం అండమాన్ మరియు నికోబార్ దీవులలోని బరాటాంగ్ ద్వీపంలో ఉంది.",
+    "en": "India's only mud volcano is located at Baratang Island in the Andaman and Nicobar Islands."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T05-0013",
+   "section": {
+    "te": "Tectonic earthquakes",
+    "en": "Tectonic earthquakes"
+   },
+   "q": {
+    "te": "భూకంపాల గురించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. టెక్టోనిక్ మూలం కలిగిన భూకంపాలు అత్యంత వినాశకరమైనవి.\n2. టెక్టోనిక్ భూకంపాలు పెద్ద ప్రభావిత ప్రాంతాన్ని కలిగి ఉంటాయి.\n3. గనుల తవ్వకం లేదా శిలలు పడిపోవడంతో సంబంధం ఉన్న భూకంపాలు పరిమిత ప్రభావిత ప్రాంతాన్ని కలిగి ఉంటాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about earthquakes:\n1. Earthquakes of tectonic origin are the most devastating.\n2. Tectonic earthquakes have a large area of influence.\n3. Earthquakes associated with mining or rock falls have a limited area of influence.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "టెక్టోనిక్ భూకంపాలు పెద్ద ప్రభావిత ప్రాంతంతో అత్యంత వినాశకరమైనవి, గనుల తవ్వకం లేదా శిలలు పడిపోవడం వల్ల కలిగే భూకంపాలు పరిమిత ప్రభావం మరియు నష్టాన్ని కలిగి ఉంటాయి.",
+    "en": "Tectonic earthquakes are the most devastating with a large influence area, while those from mining or rock falls have limited influence and damage."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T05-0037",
+   "section": {
+    "te": "Landslide Monitoring",
+    "en": "Landslide Monitoring"
+   },
+   "q": {
+    "te": "ఇతర విపత్తులతో పోలిస్తే కొండచరియలు విరిగిపడే అవకాశాలను పర్యవేక్షించడం ఎందుకు కష్టతరమైనది మరియు ఖర్చుతో కూడుకున్నదిగా పరిగణించబడుతుంది?",
+    "en": "Why is monitoring the possibilities of landslides considered difficult and cost-intensive compared to other disasters?"
+   },
+   "options": {
+    "te": [
+     "ఎందుకంటే అవి జనాభా లేని ప్రాంతాల్లో మాత్రమే సంభవిస్తాయి",
+     "ఎందుకంటే అవి అత్యంత స్థానికీకరించిన కారకాల ద్వారా నియంత్రించబడతాయి",
+     "ఎందుకంటే అవి స్థూల-ప్రాంతీయ కారకాల వల్ల సంభవిస్తాయి",
+     "ఎందుకంటే అవి రాత్రి సమయంలో మాత్రమే జరుగుతాయి"
+    ],
+    "en": [
+     "Because they occur only in uninhabited areas",
+     "Because they are controlled by highly localised factors",
+     "Because they are caused by macro-regional factors",
+     "Because they only happen during the night"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కొండచరియలు విరిగిపడటాన్ని నియంత్రించే కారకాలు స్థానికంగా ఉండటం వల్ల వాటి సమాచారాన్ని సేకరించడం మరియు పర్యవేక్షించడం కష్టం మరియు ఖర్చుతో కూడుకున్నది.",
+    "en": "The localised nature of the factors controlling landslides makes gathering information and monitoring them difficult and expensive."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T05-0048",
+   "section": {
+    "te": "P-wave Characteristics",
+    "en": "P-wave Characteristics"
+   },
+   "q": {
+    "te": "ఏ రకమైన భూకంప తరంగాలు ధ్వని తరంగాలను పోలి ఉంటాయి మరియు వాయు, ద్రవ, ఘన పదార్థాల ద్వారా ప్రయాణించగలవు?",
+    "en": "Which type of earthquake waves are similar to sound waves and can travel through gaseous, liquid, and solid materials?"
+   },
+   "options": {
+    "te": [
+     "S-తరంగాలు",
+     "ఉపరితల తరంగాలు",
+     "P-తరంగాలు",
+     "సునామీ తరంగాలు"
+    ],
+    "en": [
+     "S-waves",
+     "Surface waves",
+     "P-waves",
+     "Tsunami waves"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "P-తరంగాలు (ప్రాథమిక తరంగాలు) ధ్వని తరంగాలను పోలి ఉంటాయి మరియు పదార్థం యొక్క మూడు స్థితుల ద్వారా ప్రయాణించే సామర్థ్యాన్ని కలిగి ఉంటాయి.",
+    "en": "P-waves (Primary waves) are similar to sound waves and have the ability to travel through all three states of matter."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T05-0035",
+   "section": {
+    "te": "Landslide Vulnerability Zones",
+    "en": "Landslide Vulnerability Zones"
+   },
+   "q": {
+    "te": "కొండచరియలు విరిగిపడటానికి సంబంధించి ఈ క్రింది వాటిలో ఏ ప్రాంతాలు 'మితమైన నుండి తక్కువ దుర్బలత్వ మండలం' (Moderate to Low Vulnerability Zone) కింద వర్గీకరించబడ్డాయి?",
+    "en": "Which of the following areas are classified under the 'Moderate to Low Vulnerability Zone' for landslides?"
+   },
+   "options": {
+    "te": [
+     "లడఖ్",
+     "స్పితి (హిమాచల్ ప్రదేశ్)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Ladakh",
+     "Spiti (Himachal Pradesh)",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "తక్కువ వర్షపాతం పొందే లడఖ్ మరియు స్పితి రెండూ మితమైన నుండి తక్కువ దుర్బలత్వ మండలంలోకి వస్తాయని ప్రత్యేకంగా పేర్కొనబడింది.",
+    "en": "Both Ladakh and Spiti are specifically mentioned as areas with less precipitation that fall into the Moderate to Low Vulnerability Zone."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T05-0005",
+   "section": {
+    "te": "Gujarat Earthquake 2001",
+    "en": "Gujarat Earthquake 2001"
+   },
+   "q": {
+    "te": "భారతదేశంలోని గుజరాత్‌లో ఏ సంవత్సరంలో సంభవించిన భారీ భూకంపం తీవ్ర నష్టాన్ని కలిగించింది?",
+    "en": "In which year did a major earthquake cause extensive damage in Gujarat, India?"
+   },
+   "options": {
+    "te": [
+     "2005",
+     "1999",
+     "2001",
+     "2010"
+    ],
+    "en": [
+     "2005",
+     "1999",
+     "2001",
+     "2010"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వనరు 2001 సంవత్సరంలో గుజరాత్‌లో సంభవించిన భారీ భూకంపం గురించి పేర్కొంది.",
+    "en": "A major earthquake in Gujarat in the year 2001."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T05-0072",
+   "section": {
+    "te": "Earthquake Foci Depths",
+    "en": "Earthquake Foci Depths"
+   },
+   "q": {
+    "te": "భూకంపాల విస్తరణకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. మధ్య-మహాసముద్రపు పర్వత శ్రేణుల ప్రాంతాలలో భూకంప నాభులు తక్కువ లోతుల్లో ఉంటాయి.\n2. ఆల్పైన్-హిమాలయన్ బెల్ట్ మరియు పసిఫిక్ తీరం వెంబడి భూకంపాలు అధిక లోతుల్లో సంభవిస్తాయి.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "With reference to the distribution of earthquakes, consider the following statements:\n1. The foci of earthquakes in the areas of mid-oceanic ridges are at shallow depths.\n2. Along the Alpine-Himalayan belt as well as the rim of the Pacific, earthquakes are deep-seated.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మధ్య-మహాసముద్రపు పర్వత శ్రేణులలో భూకంప నాభులు తక్కువ లోతుల్లో ఉంటాయి, కాగా ఆల్పైన్-హిమాలయన్ బెల్ట్ మరియు పసిఫిక్ అంచులలో అవి అధిక లోతుల్లో సంభవిస్తాయి.",
+    "en": "Earthquake foci along mid-oceanic ridges are at shallow depths, whereas along the Alpine-Himalayan belt and the rim of the Pacific, they are deep-seated."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T05-0032",
+   "section": {
+    "te": "Earthquake Wave Velocity",
+    "en": "Earthquake Wave Velocity"
+   },
+   "q": {
+    "te": "భూకంప తరంగాలు ప్రయాణించే పదార్థం యొక్క సాంద్రత వాటి వేగాన్ని ఎలా ప్రభావితం చేస్తుంది?",
+    "en": "How does the density of the material through which earthquake waves travel affect their velocity?"
+   },
+   "options": {
+    "te": [
+     "సాంద్రత పెరిగేకొద్దీ వేగం తగ్గుతుంది",
+     "సాంద్రతతో సంబంధం లేకుండా వేగం స్థిరంగా ఉంటుంది",
+     "పదార్థం ఎంత సాంద్రత కలిగి ఉంటే, వేగం అంత ఎక్కువగా ఉంటుంది",
+     "ద్రవ పదార్థాలలో మాత్రమే వేగం మారుతుంది"
+    ],
+    "en": [
+     "Velocity decreases as density increases",
+     "Velocity remains constant regardless of density",
+     "The denser the material, the higher the velocity",
+     "Velocity only changes in liquid materials"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూకంప తరంగాల వేగం పదార్థం యొక్క సాంద్రతకు ప్రత్యక్ష సంబంధం కలిగి ఉంటుంది; పదార్థం సాంద్రత పెరిగేకొద్దీ వేగం పెరుగుతుంది.",
+    "en": "The velocity of earthquake waves is directly related to the density of the material; it increases as the material becomes denser."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T05-0040",
+   "section": {
+    "te": "Magnetic Surveys",
+    "en": "Magnetic Surveys"
+   },
+   "q": {
+    "te": "భూ పటలం (crust)కు సంబంధించి అయస్కాంత సర్వేలు (Magnetic surveys) ఏ సమాచారాన్ని అందిస్తాయి?",
+    "en": "What information do magnetic surveys provide regarding the earth's crust?"
+   },
+   "options": {
+    "te": [
+     "భవిష్యత్తులో వచ్చే భూకంపాల ఖచ్చితమైన సమయం",
+     "సముద్రాల లోతు",
+     "భూ కేంద్రం (core) యొక్క ఉష్ణోగ్రత",
+     "అయస్కాంత పదార్థాల పంపిణీ"
+    ],
+    "en": [
+     "The exact timing of future earthquakes",
+     "The depth of the oceans",
+     "The temperature of the core",
+     "The distribution of magnetic materials"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అయస్కాంత సర్వేలు భూ పటలంలో అయస్కాంత పదార్థాలు ఎలా విస్తరించి ఉన్నాయో గుర్తించడంలో సహాయపడే పరోక్ష సమాచార వనరులు.",
+    "en": "Magnetic surveys are an indirect source of information that help identify how magnetic materials are distributed within the earth's crust."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T05-0052",
+   "section": {
+    "te": "Earthquake Wave Damage",
+    "en": "Earthquake Wave Damage"
+   },
+   "q": {
+    "te": "ఈ క్రింది భూకంప తరంగాలలో ఏవి అత్యంత నష్టదాయకమైనవిగా పరిగణించబడతాయి?",
+    "en": "Which of the following earthquake waves are considered to be the most damaging?"
+   },
+   "options": {
+    "te": [
+     "S-తరంగాలు",
+     "బాడీ తరంగాలు",
+     "P-తరంగాలు",
+     "ఉపరితల తరంగాలు"
+    ],
+    "en": [
+     "S-waves",
+     "Body waves",
+     "P-waves",
+     "Surface waves"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఉపరితల తరంగాలు అత్యంత నష్టదాయకమైనవి ఎందుకంటే అవి శిలల స్థానభ్రంశం మరియు నిర్మాణాల కూలిపోవడానికి కారణమవుతాయి.",
+    "en": "Surface waves are the most damaging because they cause rock displacement and the collapse of structures."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T05-0017",
+   "section": {
+    "te": "Peninsular fault line",
+    "en": "Peninsular fault line"
+   },
+   "q": {
+    "te": "లాతూర్ మరియు ఉస్మానాబాద్ సమీపంలో ఏ నది వెంట భ్రంశ రేఖ (fault line) ఏర్పడి శక్తి పోగుపడుతోందని భూవిజ్ఞాన శాస్త్రవేత్తలు సిద్ధాంతీకరించారు?",
+    "en": "Earth scientists have theorized the emergence of a fault line and energy build-up near Latur and Osmanabad along which river?"
+   },
+   "options": {
+    "te": [
+     "గోదావరి నది",
+     "భీమా నది (కృష్ణా)",
+     "తపతి నది",
+     "నర్మదా నది"
+    ],
+    "en": [
+     "River Godavari",
+     "River Bhima (Krishna)",
+     "River Tapi",
+     "River Narmada"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "లాతూర్ మరియు ఉస్మానాబాద్ సమీపంలో భీమా (కృష్ణా) నది ద్వారా సూచించబడే భ్రంశ రేఖ వెంట శక్తి పేరుకుపోతోందని భూవిజ్ఞాన శాస్త్రవేత్తలు పేర్కొన్నారు.",
+    "en": "Earth scientists suggested the emergence of a fault line and energy build-up represented by the river Bhima (Krishna) near Latur and Osmanabad."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T05-0046",
+   "section": {
+    "te": "Mercalli Intensity Scale",
+    "en": "Mercalli Intensity Scale"
+   },
+   "q": {
+    "te": "భూకంపంను కొలిచేటప్పుడు మెర్కల్లి స్కేల్ ప్రాథమికంగా దేనిని పరిగణనలోకి తీసుకుంటుంది?",
+    "en": "What does the Mercalli scale primarily take into account when measuring an earthquake?"
+   },
+   "options": {
+    "te": [
+     "భూకంప నాభి యొక్క లోతు",
+     "సంఘటన వల్ల కలిగిన దృశ్యమాన నష్టం (visible damage)",
+     "భూకంపం సమయంలో విడుదలైన శక్తి",
+     "P-తరంగాల వేగం"
+    ],
+    "en": [
+     "The depth of the focus",
+     "The visible damage caused by the event",
+     "The energy released during the quake",
+     "The speed of P-waves"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మెర్కల్లి స్కేల్ అనేది భూకంపం వల్ల కలిగే దృశ్యమాన నష్టాన్ని కొలిచే తీవ్రత (intensity) స్కేల్.",
+    "en": "The Mercalli scale is an intensity scale that measures the visible damage caused by an earthquake."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T05-0082",
+   "section": {
+    "te": "Mass Movement Types Matching",
+    "en": "Mass Movement Types Matching"
+   },
+   "q": {
+    "te": "జాబితా-I లోని ద్రవ్యరాశి కదలికల రకాలను జాబితా-II లోని సరైన వివరణలతో జతపరచండి:\nజాబితా-I:\nI. స్లంప్\nII. డెబ్రిస్ స్లైడ్\nIII. డెబ్రిస్ ఫాల్\nIV. రాక్‌స్లైడ్\nజాబితా-II:\n1. నిలువు ముఖభాగం నుండి దాదాపు స్వేచ్ఛగా క్రిందికి పడటం\n2. వాలుకు సంబంధించి వెనుకకు భ్రమణంతో జారడం\n3. పొరలు లేదా భ్రంశ తలాల గుండా విడి రాళ్ళు జారడం\n4. వెనుకకు భ్రమణం లేకుండా వేగంగా దొర్లడం లేదా జారడం",
+    "en": "Match the mass movement types in List-I with their correct descriptions in List-II:\nList-I:\nI. Slump\nII. Debris slide\nIII. Debris fall\nIV. Rockslide\nList-II:\n1. Nearly a free fall of earth debris from a vertical or overhanging face\n2. Slipping of rock debris with backward rotation relative to the slope\n3. Sliding of individual rock masses down bedding, joint or fault surfaces\n4. Rapid rolling or sliding of earth debris without backward rotation"
+   },
+   "options": {
+    "te": [
+     "I-2, II-4, III-1, IV-3",
+     "I-4, II-2, III-1, IV-3",
+     "I-2, II-1, III-4, IV-3",
+     "I-3, II-4, III-1, IV-2"
+    ],
+    "en": [
+     "I-2, II-4, III-1, IV-3",
+     "I-4, II-2, III-1, IV-3",
+     "I-2, II-1, III-4, IV-3",
+     "I-3, II-4, III-1, IV-2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "స్లంప్ అనగా వెనుకకు భ్రమణంతో జారడం (I-2), డెబ్రిస్ స్లైడ్‌లో భ్రమణం ఉండదు (II-4), డెబ్రిస్ ఫాల్ స్వేచ్ఛగా పడటం (III-1), రాక్‌స్లైడ్ పొరల గుండా జారడం (IV-3).",
+    "en": "Slump involves backward rotation (I-2), debris slide has no backward rotation (II-4), debris fall is nearly free fall (III-1), and rockslide is sliding down bedding/joint/fault surfaces (IV-3)."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T05-0085",
+   "section": {
+    "te": "Ground Water Erosion",
+    "en": "Ground Water Erosion"
+   },
+   "q": {
+    "te": "ఏ క్రమక్షయ కారకం యొక్క పని ప్రధానంగా ఆ ప్రాంతం యొక్క శిలాజ లక్షణాల (lithological character) ద్వారా నిర్ణయించబడుతుంది?",
+    "en": "The work of which agent of erosion is primarily determined by the lithological character of the region?"
+   },
+   "options": {
+    "te": [
+     "ప్రవహించే నీరు",
+     "అంతర్భూజలం (Ground water)",
+     "హిమానీనదాలు",
+     "గాలి"
+    ],
+    "en": [
+     "Running water",
+     "Ground water",
+     "Glaciers",
+     "Wind"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కొన్ని కారకాలు వాతావరణం ద్వారా నియంత్రించబడతాయని, అయితే అంతర్భూజలం యొక్క పని ఆ ప్రాంతం యొక్క శిలాజ లక్షణాల ద్వారా నిర్ణయించబడుతుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "While some agents are controlled by climate, the work of ground water is determined by the lithological character of the region."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T05-0004",
+   "section": {
+    "te": "Plate Tectonics Theory",
+    "en": "Plate Tectonics Theory"
+   },
+   "q": {
+    "te": "భూకంపం మరియు అగ్నిపర్వత ప్రభావిత ప్రాంతాలను గుర్తించడానికి మరియు సంబంధిత విపత్తులను నిర్వహించడానికి ఏ సిద్ధాంతం అవసరం?",
+    "en": "Which theory is essential for identifying earthquake and volcano-prone regions and managing related disasters?"
+   },
+   "options": {
+    "te": [
+     "సముద్ర గర్భ విస్తరణ సిద్ధాంతం",
+     "ఐసోస్టాసి సిద్ధాంతం",
+     "ఖండ చలన సిద్ధాంతం",
+     "ప్లేట్ టెక్టోనిక్స్ సిద్ధాంతం (ఫలక చలన సిద్ధాంతం)"
+    ],
+    "en": [
+     "Theory of Seafloor Spreading",
+     "Theory of Isostasy",
+     "Theory of Continental Drift",
+     "Theory of Plate Tectonics"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ప్లేట్ టెక్టోనిక్స్ సిద్ధాంతం భూమి యొక్క ఉపరితల మార్పులను అర్థం చేసుకోవడానికి మరియు విపత్తు సంభవించే ప్రాంతాలను గుర్తించడానికి సహాయపడుతుంది.",
+    "en": "The theory of plate tectonics helps in understanding the Earth's surface changes and identifying disaster-prone regions."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T05-0010",
+   "section": {
+    "te": "Rainfall and landslides",
+    "en": "Rainfall and landslides"
+   },
+   "q": {
+    "te": "భారీ మరియు నిరంతర వర్షపాతం కొండచరియలు విరిగిపడటానికి ఎలా దోహదపడుతుంది?",
+    "en": "How does heavy and continuous rainfall contribute to the occurrence of landslides?"
+   },
+   "options": {
+    "te": [
+     "మట్టి మరియు శిలలలోకి నీరు చేరడం ద్వారా, బరువును పెంచి మరియు ఘర్షణను తగ్గించడం ద్వారా",
+     "మట్టిని ఎండబెట్టడం మరియు తేలికగా చేయడం ద్వారా",
+     "భూగర్భ శూన్యాలను సృష్టించడం ద్వారా",
+     "శిలలను చల్లబరచడం మరియు ఘర్షణను పెంచడం ద్వారా"
+    ],
+    "en": [
+     "By seeping into soil and rocks, increasing weight and reducing friction",
+     "By drying out the soil and making it light",
+     "By creating underground vacuums",
+     "By cooling the rocks and increasing friction"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వర్షపు నీరు భూమిలోకి చేరుతుంది, ఇది మట్టి/శిలల బరువును పెంచుతుంది మరియు వాటిని పట్టి ఉంచే ఘర్షణను తగ్గిస్తుంది.",
+    "en": "Rainwater seeps into the ground, which increases the weight of the soil/rocks and reduces the friction that holds them in place."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T05-0011",
+   "section": {
+    "te": "Human factors landslides",
+    "en": "Human factors landslides"
+   },
+   "q": {
+    "te": "ఈ క్రింది ఏ మానవ కార్యకలాపాలు వాలుల సహజ సమతుల్యతను దెబ్బతీసి, కొండచరియలు విరిగిపడటానికి దారితీస్తాయి?",
+    "en": "Which of the following human activities disturb the natural balance of slopes, leading to landslides?"
+   },
+   "options": {
+    "te": [
+     "అడవుల నరికివేత",
+     "గనుల తవ్వకం మరియు రహదారి నిర్మాణం",
+     "కొండవాలులపై ప్రణాళిక లేని నిర్మాణం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Deforestation",
+     "Mining and road construction",
+     "Unplanned construction on hillsides",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అడవుల నరికివేత, గనుల తవ్వకం, రహదారి నిర్మాణం మరియు ప్రణాళిక లేని కొండవాలుల నిర్మాణం వాలుల సమతుల్యతను దెబ్బతీసే మానవ కారకాలుగా వనరు పేర్కొంది.",
+    "en": "The source lists deforestation, mining, road construction, and unplanned hillside construction as human factors that disturb slope balance."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T05-0012",
+   "section": {
+    "te": "Earthquake characteristics",
+    "en": "Earthquake characteristics"
+   },
+   "q": {
+    "te": "అన్ని సహజ విపత్తులలో అత్యంత అనూహ్యమైనది మరియు అత్యంత వినాశకరమైనదిగా ఏది వర్ణించబడింది?",
+    "en": "Which natural disaster is described as the most unpredictable and highly destructive of all?"
+   },
+   "options": {
+    "te": [
+     "కరువులు",
+     "వరదలు",
+     "భూకంపాలు",
+     "కొండచరియలు విరిగిపడటం"
+    ],
+    "en": [
+     "Droughts",
+     "Floods",
+     "Earthquakes",
+     "Landslides"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూకంపాలు అత్యంత అనూహ్యమైనవి మరియు అత్యంత వినాశకరమైన సహజ విపత్తులని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Earthquakes are the most unpredictable and highly destructive natural disasters."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T05-0047",
+   "section": {
+    "te": "Earthquake Shadow Zones",
+    "en": "Earthquake Shadow Zones"
+   },
+   "q": {
+    "te": "అధికేంద్రం (epicentre) నుండి ఏ నిర్దిష్ట మండలాన్ని P మరియు S-తరంగాలు రెండింటికీ నీడ మండలం (shadow zone) గా గుర్తించారు?",
+    "en": "Which specific zone from the epicentre is identified as the shadow zone for BOTH P and S-waves?"
+   },
+   "options": {
+    "te": [
+     "105° మరియు 145° మధ్య",
+     "145° అవతల",
+     "0° మరియు 105° మధ్య",
+     "105° లోపు"
+    ],
+    "en": [
+     "Between 105° and 145°",
+     "Beyond 145°",
+     "Between 0° and 105°",
+     "Within 105°"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "అధికేంద్రం నుండి 105° మరియు 145° మధ్య ఉన్న సీస్మోగ్రాఫ్‌లు P లేదా S-తరంగాలను నమోదు చేయవు, కాబట్టి ఇది రెండింటికీ నీడ మండలం అవుతుంది.",
+    "en": "Seismographs located between 105° and 145° from the epicentre do not record either P or S-waves, making it a shadow zone for both."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T05-0006",
+   "section": {
+    "te": "Ancient term earthquake",
+    "en": "Ancient term earthquake"
+   },
+   "q": {
+    "te": "భూమి కంపించడం అనే అర్థం వచ్చే భూకంపాలకు ప్రాచీన భారతీయ పదం ఏమిటి?",
+    "en": "What was the ancient Indian term for earthquakes, meaning the shaking of the Earth?"
+   },
+   "options": {
+    "te": [
+     "వాయు",
+     "వరుణ",
+     "భూకంప",
+     "అగ్ని"
+    ],
+    "en": [
+     "Vāyu",
+     "Varuṇa",
+     "Bhūkampa",
+     "Agni"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పూర్వ కాలంలో, భూకంపాలను 'భూకంప' అని పిలిచేవారు, దీని అర్థం భూమి కంపించడం.",
+    "en": "In early times, earthquakes were known as 'bhūkampa', which translates to the shaking of the Earth."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T05-0002",
+   "section": {
+    "te": "Landslide locations India",
+    "en": "Landslide locations India"
+   },
+   "q": {
+    "te": "భారతదేశంలోని ఈ క్రింది ఏ ప్రాంతాలలో కొండచరియలు విరిగిపడటం సాధారణంగా కనిపిస్తుంది?",
+    "en": "In which of the following regions of India are landslides commonly observed?"
+   },
+   "options": {
+    "te": [
+     "హిమాచల్ ప్రదేశ్ మరియు ఉత్తరాఖండ్",
+     "సిక్కిం మరియు అరుణాచల్ ప్రదేశ్",
+     "పశ్చిమ కనుమలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Himachal Pradesh and Uttarakhand",
+     "Sikkim and Arunachal Pradesh",
+     "Western Ghats",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "హిమాచల్ ప్రదేశ్, ఉత్తరాఖండ్, సిక్కిం, అరుణాచల్ ప్రదేశ్ మరియు పశ్చిమ కనుమలలో కొండచరియలు విరిగిపడటం సాధారణమని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Landslides are common in Himachal Pradesh, Uttarakhand, Sikkim, Arunachal Pradesh, and the Western Ghats."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T05-0086",
+   "section": {
+    "te": "Nilgiris Landslides",
+    "en": "Nilgiris Landslides"
+   },
+   "q": {
+    "te": "నీలగిరి మరియు పశ్చిమ కనుమలలో, కొండచరియలు విరిగిపడటానికి దోహదపడే యాంత్రిక శైథిల్యానికి (mechanical weathering) ప్రధాన కారణం ఏమిటి?",
+    "en": "In the Nilgiris and Western Ghats, what is a major cause of pronounced mechanical weathering that contributes to landslides?"
+   },
+   "options": {
+    "te": [
+     "టెక్టోనిక్ కార్యకలాపాలు",
+     "కఠినమైన శిలలలో రసాయన చర్యలు",
+     "ఉష్ణోగ్రత మార్పులు మరియు శ్రేణులు",
+     "హిమానీనదాల నెమ్మదిగా కదలిక"
+    ],
+    "en": [
+     "Tectonic activity",
+     "Chemical reactions in hard rocks",
+     "Temperature changes and ranges",
+     "Slow movement of glaciers"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నీలగిరి మరియు పశ్చిమ కనుమలలో ఉష్ణోగ్రత మార్పులు మరియు శ్రేణుల వల్ల కలిగే యాంత్రిక శైథిల్యం ఎక్కువగా ఉంటుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Mechanical weathering due to temperature changes and ranges is pronounced in the Nilgiris and Western Ghats."
+   }
+  }
+ ]
+}

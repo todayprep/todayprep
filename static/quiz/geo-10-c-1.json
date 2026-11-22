@@ -1,0 +1,942 @@
+{
+ "id": "geo-10-c-1",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Oceans – క్విజ్ 1",
+  "en": "Oceans – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T10-0052",
+   "section": {
+    "te": "Tide Terminology",
+    "en": "Tide Terminology"
+   },
+   "q": {
+    "te": "అధిక పోటు మరియు అల్ప పోటులకు గల ప్రత్యామ్నాయ పేర్లు వరుసగా ఏమిటి?",
+    "en": "What are the alternative names for high tide and low tide respectively?"
+   },
+   "options": {
+    "te": [
+     "హైడ్రాలిక్ పోటు మరియు స్టాటిక్ పోటు",
+     "స్ప్రింగ్ పోటు మరియు నీప్ పోటు",
+     "ఫ్లడ్ టైడ్ (Flood tide) మరియు ఎబ్ టైడ్ (Ebb tide)",
+     "శృంగ పోటు మరియు ద్రోణి పోటు"
+    ],
+    "en": [
+     "Hydraulic tide and Static tide",
+     "Spring tide and Neap tide",
+     "Flood tide and Ebb tide",
+     "Crest tide and Trough tide"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అధిక పోటును ఫ్లడ్ టైడ్ అని, అల్ప పోటును ఎబ్ టైడ్ అని కూడా పిలుస్తారు.",
+    "en": "High tide is also known as flood tide, and low tide is also known as ebb tide."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T10-0167",
+   "section": {
+    "te": "Wave Origins",
+    "en": "Wave Origins"
+   },
+   "q": {
+    "te": "తరంగాల లక్షణాల ప్రకారం, 'నిటారుగా ఉండే తరంగాల' (steep waves) గురించి ఏమి చెప్పవచ్చు?",
+    "en": "According to the characteristics of waves, what can be inferred about 'steep waves'?"
+   },
+   "options": {
+    "te": [
+     "అవి నెమ్మదిగా మరియు స్థిరంగా ఉంటాయి",
+     "అవి వేల కిలోమీటర్ల దూరం ప్రయాణించి వస్తాయి",
+     "అవి మరొక అర్ధగోళం నుండి ఉద్భవిస్తాయి",
+     "అవి చాలా చిన్నవి (young) మరియు స్థానిక గాలుల ద్వారా ఏర్పడతాయి"
+    ],
+    "en": [
+     "They are slow and steady",
+     "They have traveled thousands of kilometers",
+     "They originate from another hemisphere",
+     "They are fairly young and formed by local winds"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "తరంగం యొక్క పరిమాణం మరియు ఆకారం దాని మూలాన్ని వెల్లడిస్తాయని పాఠ్యభాగం పేర్కొంది; నిటారుగా ఉండే తరంగాలు కొత్తవి మరియు స్థానికమైనవి, నెమ్మదిగా ఉండే తరంగాలు దూరం నుండి వస్తాయి.",
+    "en": "A wave's size and shape reveal its origin; steep waves are young and local, while slow, steady waves come from far away."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T10-0065",
+   "section": {
+    "te": "Marine Trade",
+    "en": "Marine Trade"
+   },
+   "q": {
+    "te": "ప్రపంచ వాణిజ్యంలో పరిమాణం (volume) పరంగా ఎంత శాతం సముద్రం ద్వారా జరుగుతుంది?",
+    "en": "What percentage of global trade by volume is carried by sea?"
+   },
+   "options": {
+    "te": [
+     "50%",
+     "90%",
+     "95%",
+     "75%"
+    ],
+    "en": [
+     "50%",
+     "90%",
+     "95%",
+     "75%"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రపంచ వాణిజ్యంలో పరిమాణం పరంగా 90% సముద్ర మార్గాల ద్వారా రవాణా చేయబడుతుందని మూలం పేర్కొంది.",
+    "en": "90% of global trade by volume is transported via sea routes."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T10-0031",
+   "section": {
+    "te": "Indian Ocean Characteristics",
+    "en": "Indian Ocean Characteristics"
+   },
+   "q": {
+    "te": "కింది వాటిలో హిందూ మహాసముద్రం యొక్క లక్షణాలు ఏవి?",
+    "en": "Which of the following are characteristics of the Indian Ocean?"
+   },
+   "options": {
+    "te": [
+     "వెచ్చని జలాలు",
+     "సంపన్న జీవవైవిధ్యం",
+     "చారిత్రక అంతర్జాతీయ వాణిజ్య ప్రాముఖ్యత",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Warm waters",
+     "Rich biodiversity",
+     "Historically important for trade",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "హిందూ మహాసముద్రం దాని వెచ్చని జలాలు, అధిక జీవవైవిధ్యం మరియు అంతర్జాతీయ వాణిజ్యంలో దాని చారిత్రక పాత్రకు ప్రసిద్ధి చెందింది.",
+    "en": "The Indian Ocean is known for its warm waters, high biodiversity, and its historical role in international trade."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T10-0138",
+   "section": {
+    "te": "Ocean Volume Below Thermocline",
+    "en": "Ocean Volume Below Thermocline"
+   },
+   "q": {
+    "te": "మహాసముద్రాలలోని మొత్తం నీటి పరిమాణంలో దాదాపు ఎంత శాతం థర్మోక్లైన్ క్రింద లోతైన సముద్రంలో ఉంది?",
+    "en": "What percentage of the total volume of oceanic water is found below the thermocline in the deep ocean?"
+   },
+   "options": {
+    "te": [
+     "దాదాపు 80 శాతం",
+     "దాదాపు 70 శాతం",
+     "దాదాపు 50 శాతం",
+     "దాదాపు 90 శాతం"
+    ],
+    "en": [
+     "About 80 per cent",
+     "About 70 per cent",
+     "About 50 per cent",
+     "About 90 per cent"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మహాసముద్రాల్లోని మొత్తం నీటి పరిమాణంలో దాదాపు 90 శాతం థర్మోక్లైన్ దిగువన లోతైన సముద్రంలోనే ఉంటుంది.",
+    "en": "About 90 per cent of the total volume of water is located below the thermocline in the deep ocean, where temperatures approach 0° C."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T10-0054",
+   "section": {
+    "te": "Coastal Landforms",
+    "en": "Coastal Landforms"
+   },
+   "q": {
+    "te": "కింది తరంగ సంబంధిత అంశాలను జతపరచండి:\nI. శృంగం (Crest) - a. తరంగం యొక్క దిగువ లోయ\nII. ద్రోణి (Trough) - b. తరంగం యొక్క ఎగువ శిఖరం\nIII. బీచ్ (Beach) - c. నిక్షేపణ రూపం\nIV. సముద్ర గుహ (Sea Cave) - d. క్రమక్షయ రూపం",
+    "en": "Match the following wave-related features:\nI. Crest - a. Lower valley of a wave\nII. Trough - b. High peak of a wave\nIII. Beach - c. Depositional feature\nIV. Sea Cave - d. Erosional feature"
+   },
+   "options": {
+    "te": [
+     "I-b, II-a, III-c, IV-d",
+     "I-a, II-b, III-d, IV-c",
+     "I-b, II-a, III-d, IV-c",
+     "I-a, II-b, III-c, IV-d"
+    ],
+    "en": [
+     "I-b, II-a, III-c, IV-d",
+     "I-a, II-b, III-d, IV-c",
+     "I-b, II-a, III-d, IV-c",
+     "I-a, II-b, III-c, IV-d"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "శృంగాలు శిఖరాలు, ద్రోణులు లోయలు, బీచ్‌లు నిక్షేపణ రూపాలు మరియు సముద్ర గుహలు క్రమక్షయ రూపాలు.",
+    "en": "Crests are peaks, troughs are valleys, beaches are depositional, and sea caves are erosional features."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T10-0183",
+   "section": {
+    "te": "Perihelion and Tides",
+    "en": "Perihelion and Tides"
+   },
+   "q": {
+    "te": "భూమి సూర్యునికి అత్యంత సమీప బిందువుకు (పెరిహీలియన్) చేరుకుని, అధిక టైడల్ పరిధికి కారణమయ్యే తేదీ ఏది?",
+    "en": "On approximately which date does the earth reach its closest point to the sun (perihelion), resulting in greater tidal ranges?"
+   },
+   "options": {
+    "te": [
+     "జనవరి 3",
+     "సెప్టెంబర్ 23",
+     "మార్చి 21",
+     "జూలై 4"
+    ],
+    "en": [
+     "January 3rd",
+     "September 23rd",
+     "March 21st",
+     "July 4th"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రతి సంవత్సరం జనవరి 3 ప్రాంతంలో భూమి సూర్యునికి అత్యంత సమీపంలో ఉన్నప్పుడు పెరిహీలియన్ సంభవిస్తుంది, దీనివల్ల అసాధారణమైన హెచ్చు తగ్గులతో కూడిన పోటుపాట్లు ఏర్పడతాయి.",
+    "en": "Perihelion occurs around January 3rd each year when the earth is closest to the sun, causing unusually high and low tides."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T10-0095",
+   "section": {
+    "te": "Lagoon Formation",
+    "en": "Lagoon Formation"
+   },
+   "q": {
+    "te": "తీరం వెంబడి లాగూన్ (lagoon) ఏ పరిస్థితులలో ఏర్పడుతుంది?",
+    "en": "Under what conditions does a lagoon form along a coast?"
+   },
+   "options": {
+    "te": [
+     "తరంగ-కోత వేదిక సముద్రంలోకి వెనక్కి తగ్గినప్పుడు",
+     "తరంగాలు కొండపైకి గొప్ప శక్తితో విరుచుకుపడినప్పుడు",
+     "బారియర్ బార్‌లు మరియు స్పిట్‌లు ఒక అఖాతం యొక్క ముఖద్వారాన్ని అడ్డుకున్నప్పుడు",
+     "భూమి నుండి వచ్చే అవక్షేపాలు తీర మైదానాన్ని నింపినప్పుడు"
+    ],
+    "en": [
+     "When a wave-cut platform recedes into the sea",
+     "When waves break with great force against a cliff",
+     "When barrier bars and spits block the mouth of a bay",
+     "When sediments from the land fill up a coastal plain"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "బారియర్ బార్‌లు మరియు స్పిట్‌లు ఒక అఖాతం యొక్క ముఖద్వారాన్ని అడ్డుకున్నప్పుడు లాగూన్ ఏర్పడుతుంది.",
+    "en": "A lagoon is formed when the mouth of a bay is blocked by the formation of barrier bars and spits."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T10-0197",
+   "section": {
+    "te": "Gyres definition",
+    "en": "Gyres definition"
+   },
+   "q": {
+    "te": "సముద్ర బేసిన్లలో పెద్ద ఎత్తున నీరు చేరడం మరియు వాటి చుట్టూ తిరిగే వృత్తాకార ప్రవాహాలను ఏమని పిలుస్తారు?",
+    "en": "Large accumulations of water and the circular flow around them in ocean basins are known as:"
+   },
+   "options": {
+    "te": [
+     "గైర్లు (Gyres)",
+     "స్వెల్స్ (Swells)",
+     "ట్రఫ్‌లు (Troughs)",
+     "డ్రిఫ్ట్‌లు (Drifts)"
+    ],
+    "en": [
+     "Gyres",
+     "Swells",
+     "Troughs",
+     "Drifts"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సముద్రపు బేసిన్లలో నీరు పెద్ద ఎత్తున చేరడం మరియు వాటి చుట్టూ తిరిగే ప్రవాహాలను 'గైర్లు' (Gyres) అని పిలుస్తారు.",
+    "en": "Large accumulations of water and the circular flow around them producing large circular currents in ocean basins are called Gyres."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T10-0189",
+   "section": {
+    "te": "Tidal Power in India",
+    "en": "Tidal Power in India"
+   },
+   "q": {
+    "te": "పశ్చిమ బెంగాల్‌లోని సుందర్బన్స్‌లో ఏ నిర్దిష్ట ప్రదేశంలో 3 మెగావాట్ల టైడల్ పవర్ ప్రాజెక్ట్ నిర్మాణంలో ఉంది?",
+    "en": "In which specific location in the Sunderbans of West Bengal is a 3 MW tidal power project currently under way?"
+   },
+   "options": {
+    "te": [
+     "హల్దియా",
+     "దుర్గాదువాని",
+     "డైమండ్ హార్బర్",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Haldia",
+     "Durgaduani",
+     "Diamond Harbour",
+     "None of these"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పశ్చిమ బెంగాల్‌లోని సుందర్బన్స్‌లోని దుర్గాదువాని వద్ద 3 మెగావాట్ల టైడల్ పవర్ ప్రాజెక్ట్ అభివృద్ధి చేయబడుతోందని వనరు పేర్కొంది.",
+    "en": "A 3 MW tidal power project is being developed at Durgaduani in the Sunderbans, West Bengal."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T10-0194",
+   "section": {
+    "te": "Surface currents proportion",
+    "en": "Surface currents proportion"
+   },
+   "q": {
+    "te": "లోతు ఆధారంగా సముద్ర ప్రవాహాల వర్గీకరణ ప్రకారం, సముద్రంలోని మొత్తం నీటిలో ఉపరితల ప్రవాహాలు సుమారుగా ఎంత శాతాన్ని కలిగి ఉంటాయి?",
+    "en": "According to the classification of ocean currents based on depth, surface currents constitute approximately what percentage of all the water in the ocean?"
+   },
+   "options": {
+    "te": [
+     "50 శాతం",
+     "25 శాతం",
+     "10 శాతం",
+     "90 శాతం"
+    ],
+    "en": [
+     "50 per cent",
+     "25 per cent",
+     "10 per cent",
+     "90 per cent"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఉపరితల ప్రవాహాలు సముద్రంలోని మొత్తం నీటిలో దాదాపు 10 శాతాన్ని కలిగి ఉంటాయి, ఇవి సముద్రం యొక్క ఎగువ 400 మీటర్ల లోతు వరకు విస్తరించి ఉంటాయి.",
+    "en": "Surface currents constitute about 10 per cent of all ocean water and comprise the upper 400 m of the ocean."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T10-0064",
+   "section": {
+    "te": "Marine Non-living Resources",
+    "en": "Marine Non-living Resources"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఏవి 'సముద్ర యాంత్రిక శక్తి' (Ocean Mechanical Energy) రకాలుగా వర్గీకరించబడ్డాయి?\nA. పోటు-పాటు శక్తి (Tidal Energy)\nB. తరంగ శక్తి (Wave Energy)\nC. సముద్ర ఉష్ణ శక్తి మార్పిడి (OTEC)",
+    "en": "Which of the following are classified as forms of 'Ocean Mechanical Energy'?\nA. Tidal Energy\nB. Wave Energy\nC. Ocean Thermal Energy Conversion (OTEC)"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సముద్ర యాంత్రిక శక్తిలో పోటు-పాటు, తరంగ, ప్రవాహ శక్తి మరియు సముద్ర ఉష్ణ శక్తి మార్పిడి (OTEC) ఉంటాయి.",
+    "en": "Ocean Mechanical Energy includes Tidal, Wave, Current energy, and Ocean Thermal Energy Conversion (OTEC)."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T10-0033",
+   "section": {
+    "te": "Mariana Trench Conditions",
+    "en": "Mariana Trench Conditions"
+   },
+   "q": {
+    "te": "మరియానా ట్రెంచ్‌కు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఇది గడ్డకట్టే ఉష్ణోగ్రతలకు దగ్గరగా ఉంటుంది.\n2. ఇది అధిక పీడనాన్ని కలిగి ఉంటుంది.\n3. ఇది పూర్తి చీకటిలో ఉంటుంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the Mariana Trench:\n1. It has near-freezing temperatures.\n2. It is characterized by high pressure.\n3. It exists in complete darkness.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "తీవ్రమైన చలి, అధిక పీడనం మరియు కాంతి లేకపోవడం అనే మూడు పరిస్థితులు మరియానా ట్రెంచ్ యొక్క వాతావరణాన్ని నిర్వచిస్తాయి.",
+    "en": "All three conditions—extreme cold, high pressure, and lack of light—define the environment of the Mariana Trench."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T10-0017",
+   "section": {
+    "te": "Marine Flora Components",
+    "en": "Marine Flora Components"
+   },
+   "q": {
+    "te": "కింది వాటిలో ఏవి సముద్ర వృక్షజాలంలో (marine flora) చేర్చబడ్డాయి?",
+    "en": "Which of the following are included in marine flora?"
+   },
+   "options": {
+    "te": [
+     "ఆల్గే",
+     "సముద్రపు పాచి (Seaweeds)",
+     "A మరియు B రెండూ",
+     "డాల్ఫిన్లు"
+    ],
+    "en": [
+     "Algae",
+     "Seaweeds",
+     "Both A and B",
+     "Dolphins"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సముద్ర వృక్షజాలంలో ఆల్గే మరియు వివిధ రకాల సముద్రపు పాచీలు ఉంటాయి.",
+    "en": "Marine flora includes both tiny plants called algae and various seaweeds."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T10-0023",
+   "section": {
+    "te": "Arctic Ocean Features",
+    "en": "Arctic Ocean Features"
+   },
+   "q": {
+    "te": "ఏ మహాసముద్రం అత్యంత లోతు తక్కువైనదిగా వర్ణించబడింది మరియు ధ్రువ ఎలుగుబంట్లు (polar bears), వాల్‌రస్‌లకు నిలయంగా ఉంది?",
+    "en": "Which ocean is described as the shallowest and is home to polar bears and walruses?"
+   },
+   "options": {
+    "te": [
+     "ఆర్కిటిక్ మహాసముద్రం",
+     "పసిఫిక్ మహాసముద్రం",
+     "దక్షిణ మహాసముద్రం",
+     "హిందూ మహాసముద్రం"
+    ],
+    "en": [
+     "Arctic Ocean",
+     "Pacific Ocean",
+     "Southern Ocean",
+     "Indian Ocean"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఆర్కిటిక్ మహాసముద్రం అతిచిన్న మరియు అత్యంత లోతు తక్కువైన మహాసముద్రం, ఇది సముద్రపు మంచు మరియు ధ్రువ ఎలుగుబంట్లు వంటి వన్యప్రాణులను కలిగి ఉంటుంది.",
+    "en": "The Arctic Ocean is the smallest and shallowest ocean, characterized by sea ice and wildlife like polar bears."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T10-0114",
+   "section": {
+    "te": "Narrow Continental Shelves",
+    "en": "Narrow Continental Shelves"
+   },
+   "q": {
+    "te": "క్రింది ఏ తీర ప్రాంతాల వెంబడి ఖండతీర అంచులు దాదాపుగా లేవు లేదా చాలా ఇరుకుగా ఉన్నాయి?",
+    "en": "Along which of the following coasts are continental shelves almost absent or extremely narrow?"
+   },
+   "options": {
+    "te": [
+     "చిలీ తీరం",
+     "సుమత్రా పశ్చిమ తీరం",
+     "A మరియు B రెండూ",
+     "సైబీరియా తీరం"
+    ],
+    "en": [
+     "Coast of Chile",
+     "West coast of Sumatra",
+     "Both A and B",
+     "Coast of Siberia"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "చిలీ తీరం మరియు సుమత్రా పశ్చిమ తీరం వంటి ప్రాంతాలలో ఖండతీర అంచులు దాదాపుగా కనిపించవు లేదా చాలా ఇరుకుగా ఉంటాయి.",
+    "en": "Continental shelves are almost absent or very narrow along margins such as the coasts of Chile and the west coast of Sumatra."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T10-0011",
+   "section": {
+    "te": "Jules Verne's Description",
+    "en": "Jules Verne's Description"
+   },
+   "q": {
+    "te": "జూల్స్ వెర్న్ (1870) సముద్రం గురించి ఇచ్చిన వివరణ ఆధారంగా కింది ప్రకటనలను పరిశీలించండి:\n1. ఇది భూగోళంలో పదింట ఏడు వంతులను ఆక్రమించింది.\n2. ఇది ఒక అపారమైన ఎడారి, ఇక్కడ మనిషి ఎప్పుడూ ఒంటరిగా ఉండడు.\n3. భూగోళం సముద్రంతోనే ప్రారంభమైంది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements based on Jules Verne's (1870) description of the ocean:\n1. It covers seven-tenths of the terrestrial globe.\n2. It is an immense desert where man is never lonely.\n3. The globe began with the ocean.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జూల్స్ వెర్న్ ఇచ్చిన కోట్‌లో ఈ మూడు ప్రకటనలు నేరుగా పేర్కొనబడ్డాయి.",
+    "en": "All three statements are directly mentioned in the quote by Jules Verne in the source text."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T10-0094",
+   "section": {
+    "te": "Coastal Landforms",
+    "en": "Coastal Landforms"
+   },
+   "q": {
+    "te": "ఒక అఖాతం (bay) యొక్క అగ్రభాగానికి (headland) అనుసంధానించబడిన బారియర్ బార్‌ను ఏమని పిలుస్తారు?",
+    "en": "What is a barrier bar called when it gets keyed up to the headland of a bay?"
+   },
+   "options": {
+    "te": [
+     "తరంగ-కోత వేదిక (Wave-cut platform)",
+     "లాగూన్",
+     "సముద్రపు కొండ (Sea cliff)",
+     "స్పిట్ (Spit)"
+    ],
+    "en": [
+     "Wave-cut platform",
+     "Lagoon",
+     "Sea cliff",
+     "Spit"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఒక అఖాతం యొక్క అగ్రభాగానికి అనుసంధానించబడిన బారియర్ బార్‌ను 'స్పిట్' అని పిలుస్తారు.",
+    "en": "A spit is a specific type of barrier bar that is attached or keyed up to the headland of a bay."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T10-0159",
+   "section": {
+    "te": "Deep ocean salinity stability",
+    "en": "Deep ocean salinity stability"
+   },
+   "q": {
+    "te": "క్రింద రెండు ప్రకటనలు ఇవ్వబడ్డాయి, ఒకటి నిశ్చితార్థం (A) మరియు రెండవది కారణం (R):\nనిశ్చితార్థం (A): సముద్రపు లోతులలో లవణీయత దాదాపు స్థిరంగా ఉంటుంది.\nకారణం (R): సముద్రపు లోతులలో నీరు కోల్పోవడం లేదా ఉప్పు చేరడం వంటి ప్రక్రియలు జరగవు.\nపై ప్రకటనల సందర్భంలో, క్రింది వాటిలో ఏది సరైనది?",
+    "en": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R):\nAssertion (A): Salinity at ocean depth is very much fixed.\nReason (R): At great ocean depths, there is no way that water is lost or salt is added.\nIn the context of the statements above, which of the following is correct?"
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ సరైనవి మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ సరైనవి కానీ A కి R సరైన వివరణ కాదు",
+     "A సరైనది కానీ R తప్పు",
+     "A తప్పు కానీ R సరైనది"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సముద్రపు లోతుల్లో నీరు ఆవిరి కావడం గానీ, ఉప్పు కొత్తగా చేరడం గానీ జరగదు కాబట్టి అక్కడ లవణీయత స్థిరంగా ఉంటుంది. A మరియు R రెండూ సరైనవి, R సరైన వివరణ.",
+    "en": "Salinity at depth is fixed because there is no mechanism for water loss or addition of salt at depth. Thus, both statements are true and R correctly explains A."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T10-0168",
+   "section": {
+    "te": "Wave Motion",
+    "en": "Wave Motion"
+   },
+   "q": {
+    "te": "తరంగాల గురించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. తరంగాలు వాస్తవానికి సముద్ర ఉపరితలంపై కదిలే శక్తి, నీరు కాదు.\n2. తరంగం వెళ్లేటప్పుడు నీటి కణాలు చిన్న వృత్తంలో ప్రయాణిస్తాయి.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about waves:\n1. Waves are actually energy moving across the ocean surface, not the water itself.\n2. Water particles travel in a small circle as a wave passes.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "తరంగాలు శక్తి అని మరియు తరంగంతో పాటు నీరు ముందుకు వెళ్లకుండా నీటి కణాలు చిన్న వృత్తాలలో కదులుతాయని మూలం స్పష్టం చేస్తోంది.",
+    "en": "The source clarifies that waves are energy and that water particles move in small circles rather than moving ahead with the wave."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T10-0144",
+   "section": {
+    "te": "Brackish water limit",
+    "en": "Brackish water limit"
+   },
+   "q": {
+    "te": "ఏ లవణీయత విలువను 'బ్రాకిష్ నీరు' (ఉప్పునీరు) గా గుర్తించడానికి ఎగువ పరిమితిగా పరిగణిస్తారు?",
+    "en": "What value of salinity is considered as the upper limit to demarcate 'brackish water'?"
+   },
+   "options": {
+    "te": [
+     "37.5 o/oo",
+     "33.0 o/oo",
+     "35.0 o/oo",
+     "24.7 o/oo"
+    ],
+    "en": [
+     "37.5 o/oo",
+     "33.0 o/oo",
+     "35.0 o/oo",
+     "24.7 o/oo"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "24.7 o/oo లవణీయతను బ్రాకిష్ నీటిని గుర్తించడానికి ఎగువ పరిమితిగా పరిగణిస్తారు.",
+    "en": "Salinity of 24.7 o/oo has been considered as the upper limit to demarcate brackish water."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T10-0108",
+   "section": {
+    "te": "Divisions of Ocean Floors",
+    "en": "Divisions of Ocean Floors"
+   },
+   "q": {
+    "te": "సముద్ర ఉపరితల నైసర్గిక స్వరూపాల వర్గీకరణ ప్రకారం మహాసముద్రాల భూతలాన్ని ఎన్ని ప్రధాన విభాగాలుగా విభజించవచ్చు?",
+    "en": "Into how many major divisions can the ocean floor be divided according to the relief classification?"
+   },
+   "options": {
+    "te": [
+     "ఆరు",
+     "మూడు",
+     "ఐదు",
+     "నాలుగు"
+    ],
+    "en": [
+     "Six",
+     "Three",
+     "Five",
+     "Four"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మహాసముద్ర భూతలాన్ని ఖండతీర అంచు, ఖండతీర వాలు, అగాధ సముద్ర మైదానం మరియు సముద్రపు అగాధాలు అనే నాలుగు ప్రధాన విభాగాలుగా విభజించవచ్చు.",
+    "en": "The ocean floors can be divided into four major divisions: Continental Shelf, Continental Slope, Deep Sea Plain, and Oceanic Deeps."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T10-0092",
+   "section": {
+    "te": "Ocean Floor Divisions",
+    "en": "Ocean Floor Divisions"
+   },
+   "q": {
+    "te": "లోతు మరియు ఉపశమన రూపాల (relief) ఆధారంగా, సముద్ర గర్భాన్ని ఏ మూడు ప్రధాన విభాగాలుగా విభజించారు?",
+    "en": "Based on depth and forms of relief, the ocean floor is segmented into which three major divisions?"
+   },
+   "options": {
+    "te": [
+     "ఖండ తీర అంచులు (continental margins), లోతైన సముద్ర బేసిన్లు మరియు మధ్య-మహాసముద్ర పర్వత శ్రేణులు",
+     "తరంగాలు, పోటుపాట్లు మరియు ప్రవాహాలు",
+     "ప్రాంతీయ జలాలు, EEZలు మరియు బహిరంగ సముద్రాలు",
+     "ఖండ తీర అంచు, వాలు మరియు రైజ్"
+    ],
+    "en": [
+     "Continental margins, deep-sea basins, and mid-ocean ridges",
+     "Waves, tides, and currents",
+     "Territorial waters, EEZs, and high seas",
+     "Continental shelf, slope, and rise"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "లోతు మరియు ఉపశమనం ఆధారంగా సముద్ర గర్భాన్ని ఖండ తీర అంచులు, లోతైన సముద్ర బేసిన్లు మరియు మధ్య-మహాసముద్ర పర్వత శ్రేణులుగా విభజించారు.",
+    "en": "The ocean floor is divided into three major segments: continental margins, deep-sea basins, and mid-ocean ridges based on depth and relief."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T10-0034",
+   "section": {
+    "te": "Pacific Ocean Features",
+    "en": "Pacific Ocean Features"
+   },
+   "q": {
+    "te": "ఏ మహాసముద్రం అతిపెద్దది మరియు లోతైనదిగా గుర్తించబడింది మరియు తిమింగలాలు, ట్యూనా చేపలకు ప్రసిద్ధి చెందింది?",
+    "en": "Which ocean is identified as the largest and deepest, and is known for whales and tuna?"
+   },
+   "options": {
+    "te": [
+     "ఆర్కిటిక్ మహాసముద్రం",
+     "హిందూ మహాసముద్రం",
+     "పసిఫిక్ మహాసముద్రం",
+     "అట్లాంటిక్ మహాసముద్రం"
+    ],
+    "en": [
+     "Arctic Ocean",
+     "Indian Ocean",
+     "Pacific Ocean",
+     "Atlantic Ocean"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పసిఫిక్ మహాసముద్రం అన్ని మహాసముద్రాలలో అతిపెద్దది మరియు లోతైనది మరియు తిమింగలాలు వంటి పెద్ద సముద్ర జీవులకు మద్దతు ఇస్తుంది.",
+    "en": "The Pacific Ocean is the largest and deepest of all oceans and supports large marine life like whales."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T10-0204",
+   "section": {
+    "te": "Marine climate characteristics",
+    "en": "Marine climate characteristics"
+   },
+   "q": {
+    "te": "మధ్య మరియు అధిక అక్షాంశాల వద్ద ఉన్న ఖండాల పశ్చిమ తీరాలు వెచ్చని జలాల సరిహద్దును కలిగి ఉంటాయి. అక్కడ ఎలాంటి శీతోష్ణస్థితి లక్షణాలు కనిపిస్తాయి?",
+    "en": "The west coasts of continents in the middle and higher latitudes are bordered by warm waters. What distinct climatic characteristics do they experience?"
+   },
+   "options": {
+    "te": [
+     "చల్లని వేసవి కాలం, స్వల్ప వార్షిక ఉష్ణోగ్రత పరిధితో కూడిన తేలికపాటి శీతాకాలం",
+     "అత్యంత వేడిగా ఉండే వేసవి మరియు తీవ్రమైన చలితో కూడిన శీతాకాలం",
+     "సంవత్సరం పొడవునా తుఫానులతో కూడిన శుష్క శీతోష్ణస్థితి",
+     "సంవత్సరం పొడవునా వర్షపాతం లేకుండా సున్నా డిగ్రీల కంటే తక్కువ ఉష్ణోగ్రతలు"
+    ],
+    "en": [
+     "Cool summers and relatively mild winters with a narrow annual range of temperatures",
+     "Extremely hot summers and freezing winters with a wide annual temperature range",
+     "Arid climate with intense tropical cyclones throughout the year",
+     "Sub-zero temperatures throughout the year with no rainfall"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వెచ్చని జలాలు ఉండే ఈ పశ్చిమ తీరాలలో చల్లని వేసవి, ఆహ్లాదకరమైన తేలికపాటి శీతాకాలం మరియు స్వల్ప వార్షిక ఉష్ణోగ్రత వ్యత్యాసంతో కూడిన సముద్ర శీతోష్ణస్థితి ఉంటుంది.",
+    "en": "A distinct marine climate is caused by warm waters on the middle and high latitude west coasts, marked by cool summers, mild winters, and a narrow annual temperature range."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T10-0133",
+   "section": {
+    "te": "Enclosed Seas Temperature",
+    "en": "Enclosed Seas Temperature"
+   },
+   "q": {
+    "te": "బహిరంగ సముద్రాలతో పోలిస్తే భూపరివేష్టిత లేదా ఆవృత సముద్రాల (enclosed seas) ఉష్ణోగ్రతకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\nA. అల్ప అక్షాంశాలలోని ఆవృత సముద్రాలు బహిరంగ సముద్రాల కంటే ఎక్కువ ఉష్ణోగ్రతను నమోదు చేస్తాయి.\nB. ఉన్నత అక్షాంశాలలోని ఆవృత సముద్రాలు బహిరంగ సముద్రాల కంటే తక్కువ ఉష్ణోగ్రతను నమోదు చేస్తాయి.",
+    "en": "Consider the following statements regarding the temperature of enclosed seas compared to open seas:\nA. Enclosed seas in low latitudes record relatively higher temperature than open seas.\nB. Enclosed seas in high latitudes record relatively lower temperature than open seas."
+   },
+   "options": {
+    "te": [
+     "A మాత్రమే",
+     "B మాత్రమే",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "A only",
+     "B only",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అల్ప అక్షాంశాలలో ఆవృత సముద్రాలు బహిరంగ సముద్రాల కంటే ఎక్కువ ఉష్ణోగ్రతను, ఉన్నత అక్షాంశాలలో తక్కువ ఉష్ణోగ్రతను కలిగి ఉంటాయి. కాబట్టి A మరియు B రెండూ సరైనవే.",
+    "en": "Both statements are correct according to the text: low-latitude enclosed seas are warmer, and high-latitude enclosed seas are colder than the open seas."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T10-0116",
+   "section": {
+    "te": "Oceanic Trenches Association",
+    "en": "Oceanic Trenches Association"
+   },
+   "q": {
+    "te": "మహాసముద్ర అగాధాలు లేదా ట్రెంచ్‌లకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి ఖండతీర వాలు అడుగున మరియు ద్వీప తోరణాల వెంబడి ఏర్పడతాయి.\n2. ఇవి క్రియాశీల అగ్నిపర్వతాలు మరియు తీవ్ర భూకంపాలతో ముడిపడి ఉంటాయి.\n3. ఇవి చుట్టుపక్కల ఉన్న సముద్ర భూతలం కంటే 3-5 కి.మీ. ఎక్కువ లోతుగా ఉంటాయి.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding oceanic deeps or trenches:\n1. They occur at the bases of continental slopes and along island arcs.\n2. They are associated with active volcanoes and strong earthquakes.\n3. They are some 3-5 km deeper than the surrounding ocean floor.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అగాధాలు ఖండతీర వాలు అడుగున, ద్వీప తోరణాల వెంబడి ఉంటూ, చుట్టుపక్కల నేల కంటే 3-5 కి.మీ. లోతుగా ఉండి, తీవ్ర భూకంపాలు మరియు అగ్నిపర్వతాలతో సంబంధం కలిగి ఉంటాయి.",
+    "en": "Trenches occur at bases of continental slopes and along island arcs, are 3-5 km deeper than the surrounding floor, and are associated with active volcanoes and strong earthquakes."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T10-0185",
+   "section": {
+    "te": "Types of Tides",
+    "en": "Types of Tides"
+   },
+   "q": {
+    "te": "కింది పోటుపాట్ల రకాలను వాటి రోజువారీ పౌనఃపున్య లక్షణాలతో జతపరచండి:\nజాబితా I (రకం):\nI. సెమీ-డైయూర్నల్ (Semi-diurnal)\nII. డైయూర్నల్ (Diurnal)\nIII. మిశ్రమ (Mixed)\n\nజాబితా II (లక్షణాలు):\n1. రోజుకు ఒక హై టైడ్ మరియు ఒక లో టైడ్ మాత్రమే\n2. పోటుపాట్ల ఎత్తులో వైవిధ్యాలు\n3. రోజుకు రెండు హై టైడ్లు మరియు రెండు లో టైడ్లు\n\nసరైన కోడ్‌ను ఎంచుకోండి:",
+    "en": "Match the following types of tides with their daily frequency characteristics:\nList I (Tide Type):\nI. Semi-diurnal\nII. Diurnal\nIII. Mixed\n\nList II (Characteristics):\n1. Only one high tide and one low tide each day\n2. Variations in height of tides\n3. Two high tides and two low tides each day\n\nChoose the correct code:"
+   },
+   "options": {
+    "te": [
+     "I-3, II-1, III-2",
+     "I-1, II-3, III-2",
+     "I-2, II-1, III-3",
+     "I-3, II-2, III-1"
+    ],
+    "en": [
+     "I-3, II-1, III-2",
+     "I-1, II-3, III-2",
+     "I-2, II-1, III-3",
+     "I-3, II-2, III-1"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సెమీ-డైయూర్నల్ రోజుకు రెండుసార్లు ఒకే ఎత్తులో సంభవిస్తాయి; డైయూర్నల్ రోజుకు ఒకసారి మాత్రమే సంభవిస్తాయి; మిశ్రమ పోటుపాట్లు ఎత్తులో వైవిధ్యాలను కలిగి ఉంటాయి.",
+    "en": "Semi-diurnal tides have two high/low tides daily of similar height; Diurnal tides have one high/low tide daily; Mixed tides have variations in height."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T10-0029",
+   "section": {
+    "te": "Southern Ocean Features",
+    "en": "Southern Ocean Features"
+   },
+   "q": {
+    "te": "ఏ మహాసముద్రం అంటార్కిటికాను చుట్టుముట్టి ఉంది మరియు పెంగ్విన్లు, సీల్స్‌కు నిలయంగా ఉంది?",
+    "en": "Which ocean encircles Antarctica and is home to penguins and seals?"
+   },
+   "options": {
+    "te": [
+     "ఆర్కిటిక్ మహాసముద్రం",
+     "అట్లాంటిక్ మహాసముద్రం",
+     "దక్షిణ మహాసముద్రం",
+     "పసిఫిక్ మహాసముద్రం"
+    ],
+    "en": [
+     "Arctic Ocean",
+     "Atlantic Ocean",
+     "Southern Ocean",
+     "Pacific Ocean"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "దక్షిణ మహాసముద్రం అంటార్కిటికా ఖండాన్ని చుట్టుముట్టి ఉన్న జలభాగం.",
+    "en": "The Southern Ocean is the body of water that surrounds the continent of Antarctica."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T10-0013",
+   "section": {
+    "te": "Land Coverage",
+    "en": "Land Coverage"
+   },
+   "q": {
+    "te": "భూగోళంలో ఎంత భాగం భూమి (land) ఆక్రమించి ఉంది?",
+    "en": "What proportion of the globe is covered by land?"
+   },
+   "options": {
+    "te": [
+     "ముప్పావు వంతు",
+     "నాల్గవ వంతు కంటే కొంచెం ఎక్కువ",
+     "ఖచ్చితంగా సగం",
+     "పదింట ఒక వంతు కంటే తక్కువ"
+    ],
+    "en": [
+     "Three-fourths",
+     "A little over one-fourth",
+     "Exactly one-half",
+     "Less than one-tenth"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భూగోళంలో భూమి నాల్గవ వంతు కంటే కొంచెం ఎక్కువ భాగం ఆక్రమించి ఉందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Land covers a little over one-fourth of the globe."
+   }
+  }
+ ]
+}

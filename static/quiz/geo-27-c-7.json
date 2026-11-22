@@ -1,0 +1,942 @@
+{
+ "id": "geo-27-c-7",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Transport – క్విజ్ 7",
+  "en": "Transport – Quiz 7"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T27-0250",
+   "section": {
+    "te": "National Waterway 1",
+    "en": "National Waterway 1"
+   },
+   "q": {
+    "te": "జాతీయ జలమార్గం 1 (NW 1) కి సంబంధించి, మెకానికల్ బోట్ల ద్వారా ఏ ప్రాంతం వరకు ప్రయాణించవచ్చు?",
+    "en": "Regarding National Waterway 1 (NW 1), up to which location is it navigable by mechanical boats?"
+   },
+   "options": {
+    "te": [
+     "హల్దియా",
+     "పాట్నా",
+     "హరిద్వార్",
+     "ప్రయాగ్‌రాజ్"
+    ],
+    "en": [
+     "Haldia",
+     "Patna",
+     "Haridwar",
+     "Prayagraj"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "NW 1 మెకానికల్ బోట్ల ద్వారా పాట్నా వరకు ప్రయాణించవచ్చని, సాధారణ బోట్లు హరిద్వార్ వరకు వెళ్లవచ్చని మూలం పేర్కొంది.",
+    "en": "NW 1 is navigable by mechanical boats up to Patna, while ordinary boats can go up to Haridwar."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T27-0016",
+   "section": {
+    "te": "Trilateral Highway Benefits",
+    "en": "Trilateral Highway Benefits"
+   },
+   "q": {
+    "te": "భారత్-మయన్మార్-థాయ్‌లాండ్ త్రైపాక్షిక రహదారి కింది వాటిలో దేనిని సాధించడానికి ఉద్దేశించబడింది?",
+    "en": "The India–Myanmar–Thailand Trilateral Highway is intended to achieve which of the following?"
+   },
+   "options": {
+    "te": [
+     "భూమార్గ అనుసంధానాన్ని మెరుగుపరచడం",
+     "ప్రాంతీయ వాణిజ్యాన్ని పెంపొందించడం",
+     "మరింత సహకారాన్ని అందించడం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Improve overland connectivity",
+     "Enhance regional trade",
+     "Support greater cooperation",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఈ రహదారి భారత్, మయన్మార్ మరియు థాయ్‌లాండ్ మధ్య అనుసంధానాన్ని మెరుగుపరచడం, వాణిజ్యాన్ని పెంపొందించడం మరియు సహకారాన్ని అందించడం లక్ష్యంగా పెట్టుకుంది.",
+    "en": "The highway aims to improve connectivity, enhance trade, and support cooperation among India, Myanmar, and Thailand."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T27-0343",
+   "section": {
+    "te": "Haldia Port Location",
+    "en": "Haldia Port Location"
+   },
+   "q": {
+    "te": "కోల్‌కతా నుండి దిగువన (downstream) ఎంత దూరంలో హల్దియా ఓడరేవు ఉంది?",
+    "en": "At what distance downstream from Kolkata is the Haldia Port located?"
+   },
+   "options": {
+    "te": [
+     "25 కి.మీ.",
+     "105 కి.మీ.",
+     "100 కి.మీ.",
+     "128 కి.మీ."
+    ],
+    "en": [
+     "25 km",
+     "105 km",
+     "100 km",
+     "128 km"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కోల్‌కతా ఓడరేవు వద్ద రద్దీని తగ్గించడానికి హల్దియా ఓడరేవును కోల్‌కతా నుండి 105 కిలోమీటర్ల దిగువన నిర్మించారు.",
+    "en": "Haldia Port was constructed 105 km downstream from Kolkata to reduce congestion at the Kolkata port."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T27-0136",
+   "section": {
+    "te": "Trans-Asiatic Railway proposal",
+    "en": "Trans-Asiatic Railway proposal"
+   },
+   "q": {
+    "te": "ఇరాన్, పాకిస్తాన్, భారతదేశం, బంగ్లాదేశ్ మరియు మయన్మార్‌ల మీదుగా ఇస్తాంబుల్‌ను బ్యాంకాక్‌తో కలపడానికి ప్రతిపాదించబడిన రైలు మార్గం ఏది?",
+    "en": "Which proposed international railway route is planned to link Istanbul with Bangkok via countries including Iran, Pakistan, India, Bangladesh, and Myanmar?"
+   },
+   "options": {
+    "te": [
+     "సిల్క్ రూట్ రైల్వే",
+     "ట్రాన్స్-ఆసియాటిక్ రైల్వే (Trans–Asiatic Railway)",
+     "ఓరియంట్ ఎక్స్‌ప్రెస్",
+     "ట్రాన్స్-యురేషియన్ రైల్వే"
+    ],
+    "en": [
+     "Silk Route Railway",
+     "Trans–Asiatic Railway",
+     "Orient Express",
+     "Trans–Eurasian Railway"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఇస్తాంబుల్ నుండి బ్యాంకాక్ వరకు ఇరాన్, పాకిస్తాన్, భారత్, బంగ్లాదేశ్ మరియు మయన్మార్ల ద్వారా ట్రాన్స్-ఆసియాటిక్ రైల్వేను నిర్మించడానికి ప్రతిపాదన ఉంది.",
+    "en": "The proposed Trans-Asiatic Railway aims to link Istanbul with Bangkok through Iran, Pakistan, India, Bangladesh, and Myanmar."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T27-0256",
+   "section": {
+    "te": "National Waterway 4",
+    "en": "National Waterway 4"
+   },
+   "q": {
+    "te": "జాతీయ జలమార్గం 4 (NW 4) కాకినాడ-పుదుచ్చేరి కాలువలతో పాటు ఏ నదుల నిర్దిష్ట భాగాలను కవర్ చేస్తుంది?",
+    "en": "National Waterway 4 (NW 4) covers specified stretches of which rivers along with the Kakinada-Puducherry canals?"
+   },
+   "options": {
+    "te": [
+     "గంగ మరియు బ్రహ్మపుత్ర",
+     "మహానది మరియు గోదావరి",
+     "బ్రాహ్మణి మరియు మాతై",
+     "గోదావరి మరియు కృష్ణ"
+    ],
+    "en": [
+     "Ganga and Brahmaputra",
+     "Mahanadi and Godavari",
+     "Brahmani and Matai",
+     "Godavari and Krishna"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "NW 4 గోదావరి మరియు కృష్ణా నదుల నిర్దిష్ట భాగాలను కలిగి ఉంది, ఇది మొత్తం 1078 కి.మీ మేర విస్తరించి ఉంది.",
+    "en": "NW 4 includes specified stretches of the Godavari and Krishna rivers, spanning a total of 1078 km."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T27-0032",
+   "section": {
+    "te": "Railways in Himalayas",
+    "en": "Railways in Himalayas"
+   },
+   "q": {
+    "te": "హిమాలయ పర్వత ప్రాంతాలు క్రింది ఏ కారణాల వల్ల రైల్వే లైన్ల నిర్మాణానికి ప్రతికూలంగా ఉన్నాయి?",
+    "en": "Why are the Himalayan mountainous regions unfavourable for the construction of railway lines?"
+   },
+   "options": {
+    "te": [
+     "ఎత్తైన మరియు క్లిష్టమైన ఉపరితలం (High relief)",
+     "తక్కువ జనాభా (Sparse population)",
+     "ఆర్థిక అవకాశాల కొరత",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "High relief",
+     "Sparse population",
+     "Lack of economic opportunities",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "క్లిష్టమైన ఎగుడుదిగుడు ఉపరితలం, తక్కువ జనాభా మరియు ఆర్థిక అవకాశాలు లేకపోవడం వల్ల హిమాలయ ప్రాంతాల్లో రైల్వే లైన్ల నిర్మాణం ప్రతికూలంగా ఉంది.",
+    "en": "The Himalayan mountainous regions are unfavourable for railway lines due to high relief, sparse population, and lack of economic opportunities."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T27-0128",
+   "section": {
+    "te": "Trans-Siberian Railway terminals",
+    "en": "Trans-Siberian Railway terminals"
+   },
+   "q": {
+    "te": "రష్యాలోని ట్రాన్స్-సైబీరియన్ రైల్వే పశ్చిమాన సెయింట్ పీటర్స్‌బర్గ్ నుండి తూర్పున పసిఫిక్ తీరంలోని ఏ నగరం వరకు నడుస్తుంది?",
+    "en": "The Trans-Siberian Railway in Russia runs from St. Petersburg in the west to which city on the Pacific Coast in the east?"
+   },
+   "options": {
+    "te": [
+     "వ్లాడివోస్టాక్",
+     "నొవోసిబిర్స్క్",
+     "ఖబరోవ్స్క్",
+     "ఇర్కుట్స్క్"
+    ],
+    "en": [
+     "Vladivostok",
+     "Novosibirsk",
+     "Khabarovsk",
+     "Irkutsk"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ట్రాన్స్-సైబీరియన్ రైలు మార్గం పశ్చిమాన సెయింట్ పీటర్స్‌బర్గ్ నుండి తూర్పున పసిఫిక్ తీరంలోని వ్లాడివోస్టాక్ వరకు విస్తరించి ఉంది.",
+    "en": "The Trans-Siberian Railway runs from St. Petersburg in the west to Vladivostok on the Pacific Coast in the east."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T27-0232",
+   "section": {
+    "te": "Road Category Lengths",
+    "en": "Road Category Lengths"
+   },
+   "q": {
+    "te": "2020 డేటా ప్రకారం కింది రోడ్డు వర్గాలను వాటి పొడవులతో జతపరచండి:\nజాబితా-I: 1. జాతీయ రహదారులు, 2. రాష్ట్ర రహదారులు\nజాబితా-II: i. 1,76,818 కి.మీ, ii. 1,36,440 కి.మీ",
+    "en": "Match the following road categories with their lengths as per 2020 data:\nList-I: 1. National Highways, 2. State Highways\nList-II: i. 1,76,818 km, ii. 1,36,440 km"
+   },
+   "options": {
+    "te": [
+     "1-i, 2-ii",
+     "1-ii, 2-i",
+     "1-ii, 2-ii",
+     "1-i, 2-i"
+    ],
+    "en": [
+     "1-i, 2-ii",
+     "1-ii, 2-i",
+     "1-ii, 2-ii",
+     "1-i, 2-i"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పట్టిక 7.1 ప్రకారం, జాతీయ రహదారులు 1,36,440 కి.మీ మరియు రాష్ట్ర రహదారులు 1,76,818 కి.మీ.",
+    "en": "According to Table 7.1, National Highways are 1,36,440 km and State Highways are 1,76,818 km."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T27-0214",
+   "section": {
+    "te": "Ports of Call",
+    "en": "Ports of Call"
+   },
+   "q": {
+    "te": "ఇంధనం నింపుకోవడానికి మరియు నీటి కోసం 'పోర్ట్స్ ఆఫ్ కాల్' (Ports of Call) గా అభివృద్ధి చెందిన ఓడరేవులు ఏవి?",
+    "en": "Which of the following ports developed as 'Ports of Call' for refuelling and watering?"
+   },
+   "options": {
+    "te": [
+     "ఏడెన్",
+     "హోノルలు",
+     "సింగపూర్",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Aden",
+     "Honolulu",
+     "Singapore",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఏడెన్, హోノルలు మరియు సింగపూర్ అన్నీ ఓడలు ఇంధనం, నీరు మరియు ఆహారం కోసం ఆగే పోర్ట్స్ ఆఫ్ కాల్‌లుగా అభివృద్ధి చెందాయి.",
+    "en": "Aden, Honolulu, and Singapore all developed as ports of call where ships anchored for refuelling, watering, and food."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T27-0302",
+   "section": {
+    "te": "TV Start Year",
+    "en": "TV Start Year"
+   },
+   "q": {
+    "te": "భారతదేశ జాతీయ రాజధానిలో టెలివిజన్ సేవలు ఏ సంవత్సరంలో ప్రారంభమయ్యాయి?",
+    "en": "In which year did television services begin in India's National Capital?"
+   },
+   "options": {
+    "te": [
+     "1972",
+     "1950",
+     "1947",
+     "1959"
+    ],
+    "en": [
+     "1972",
+     "1950",
+     "1947",
+     "1959"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశంలో టెలివిజన్ సేవలు 1959లో జాతీయ రాజధాని (ఢిల్లీ)లో ప్రారంభమయ్యాయి.",
+    "en": "Television services in India started in the National Capital (Delhi) in 1959."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T27-0336",
+   "section": {
+    "te": "New Mangalore Port",
+    "en": "New Mangalore Port"
+   },
+   "q": {
+    "te": "కర్ణాటకలోని ఏ ఓడరేవు ప్రధానంగా ఇనుప ఖనిజం మరియు ఇనుప సాంద్రతల (iron-concentrates) ఎగుమతిని నిర్వహిస్తుంది?",
+    "en": "Which port in Karnataka primarily caters to the export of iron-ore and iron-concentrates?"
+   },
+   "options": {
+    "te": [
+     "మర్మగోవా పోర్ట్",
+     "కొచ్చిన్ పోర్ట్",
+     "కాండ్లా పోర్ట్",
+     "న్యూ మంగళూరు పోర్ట్"
+    ],
+    "en": [
+     "Mormugao Port",
+     "Cochin Port",
+     "Kandla Port",
+     "New Mangalore Port"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "కర్ణాటకలోని న్యూ మంగళూరు పోర్ట్ ఇనుప ఖనిజం మరియు ఇనుప సాంద్రతల ఎగుమతులను నిర్వహిస్తుంది.",
+    "en": "New Mangalore Port in Karnataka handles the export of iron-ore and iron-concentrates."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T27-0139",
+   "section": {
+    "te": "Orient Express stations",
+    "en": "Orient Express stations"
+   },
+   "q": {
+    "te": "ఓరియంట్ ఎక్స్‌ప్రెస్ క్రింది ఏ నగరాల గుండా ప్రయాణిస్తుంది?",
+    "en": "Through which of the following cities does the Orient Express pass?"
+   },
+   "options": {
+    "te": [
+     "మ్యూనిచ్",
+     "వియన్నా",
+     "బుడాపెస్ట్",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Munich",
+     "Vienna",
+     "Budapest",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఓరియంట్ ఎక్స్‌ప్రెస్ స్ట్రాస్‌బోర్గ్, మ్యూనిచ్, వియన్నా, బుడాపెస్ట్ మరియు బెల్‌గ్రేడ్‌ల గుండా ప్రయాణిస్తుంది. కాబట్టి ఇచ్చిన నగరాలన్నీ సరైనవే.",
+    "en": "The Orient Express runs from Paris to Istanbul passing through Strasbourg, Munich, Vienna, Budapest, and Belgrade."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T27-0175",
+   "section": {
+    "te": "Panama Canal Zone",
+    "en": "Panama Canal Zone"
+   },
+   "q": {
+    "te": "పనామా కాలువకు ఇరువైపులా 'కెనాల్ జోన్'ను రూపొందించడానికి అమెరికా ప్రభుత్వం కొనుగోలు చేసిన ప్రాంతం వెడల్పు ఎంత?",
+    "en": "What is the width of the area purchased by the U.S. government on either side of the Panama Canal to create the 'Canal Zone'?"
+   },
+   "options": {
+    "te": [
+     "26 కి.మీ",
+     "12 కి.మీ",
+     "8 కి.మీ",
+     "72 కి.మీ"
+    ],
+    "en": [
+     "26 km",
+     "12 km",
+     "8 km",
+     "72 km"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అమెరికా ప్రభుత్వం కాలువకు ఇరువైపులా 8 కిలోమీటర్ల భూమిని కొనుగోలు చేసి, దానిని కెనాల్ జోన్‌గా పేర్కొంది.",
+    "en": "The U.S. government purchased 8 km of land on each side of the canal, designating it as the Canal Zone."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T27-0115",
+   "section": {
+    "te": "Australian Railways",
+    "en": "Australian Railways"
+   },
+   "q": {
+    "te": "ఆస్ట్రేలియాలో, దేశంలోని 40,000 కిలోమీటర్ల రైల్వేలలో 25 శాతం ఏ ప్రాంతంలోనే ఉన్నాయి?",
+    "en": "In Australia, which region alone accounts for 25 per cent of the country's 40,000 km of railways?"
+   },
+   "options": {
+    "te": [
+     "విక్టోరియా",
+     "న్యూ సౌత్ వేల్స్",
+     "నార్తర్న్ టెరిటరీ",
+     "పశ్చిమ ఆస్ట్రేలియా"
+    ],
+    "en": [
+     "Victoria",
+     "New South Wales",
+     "Northern Territory",
+     "Western Australia"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఆస్ట్రేలియాలోని 40,000 కిలోమీటర్ల రైల్వేలలో 25 శాతం న్యూ సౌత్ వేల్స్‌లో ఉన్నాయని పాఠ్య భాగం పేర్కొంది.",
+    "en": "The text specifies that 25 per cent of Australia's 40,000 km of railways are found in New South Wales."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T27-0027",
+   "section": {
+    "te": "Atal Tunnel Length",
+    "en": "Atal Tunnel Length"
+   },
+   "q": {
+    "te": "బోర్డర్ రోడ్స్ ఆర్గనైజేషన్ నిర్మించిన అటల్ టన్నెల్ మొత్తం పొడవు ఎంత?",
+    "en": "What is the total length of the Atal Tunnel built by the Border Roads Organisation?"
+   },
+   "options": {
+    "te": [
+     "9.02 కి.మీ.",
+     "11.20 కి.మీ.",
+     "7.50 కి.మీ.",
+     "8.45 కి.మీ."
+    ],
+    "en": [
+     "9.02 Km",
+     "11.20 Km",
+     "7.50 Km",
+     "8.45 Km"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రపంచంలోనే అత్యంత పొడవైన హైవే టన్నెల్ అయిన అటల్ టన్నెల్ పొడవు 9.02 కి.మీ.",
+    "en": "The Atal Tunnel, the world's longest highway tunnel built by BRO, is 9.02 Km long."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T27-0161",
+   "section": {
+    "te": "Panama Canal Terminals",
+    "en": "Panama Canal Terminals"
+   },
+   "q": {
+    "te": "పనామా కాలువ పనామా ఇస్తమస్ మీదుగా ఏ రెండు నగరాల మధ్య నిర్మించబడింది?",
+    "en": "The Panama Canal was constructed across the Panama Isthmus between which two cities?"
+   },
+   "options": {
+    "te": [
+     "కోలన్ మరియు పోర్ట్ సూయజ్",
+     "పనామా సిటీ మరియు పోర్ట్ సెడ్",
+     "పనామా సిటీ మరియు కోలన్",
+     "శాన్ ఫ్రాన్సిస్కో మరియు న్యూయార్క్"
+    ],
+    "en": [
+     "Colon and Port Suez",
+     "Panama City and Port Said",
+     "Panama City and Colon",
+     "San Francisco and New York"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పనామా కాలువ అట్లాంటిక్ మరియు పసిఫిక్ మహాసముద్రాలను కలుపుతుంది మరియు ఇది పనామా సిటీ మరియు కోలన్ మధ్య నిర్మించబడింది.",
+    "en": "The Panama Canal connects the Atlantic and Pacific Oceans and was built between Panama City and Colon."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T27-0138",
+   "section": {
+    "te": "The Orient Express route",
+    "en": "The Orient Express route"
+   },
+   "q": {
+    "te": "ప్రసిద్ధ ఓరియంట్ ఎక్స్‌ప్రెస్ (Orient Express) రైలు మార్గం ఏ రెండు యూరోపియన్ నగరాలను కలుపుతుంది?",
+    "en": "The famous Orient Express rail line connects which two European cities?"
+   },
+   "options": {
+    "te": [
+     "మాడ్రిడ్ నుండి ఏథెన్స్",
+     "లండన్ నుండి రోమ్",
+     "పారిస్ నుండి ఇస్తాంబుల్",
+     "బెర్లిన్ నుండి మాస్కో"
+    ],
+    "en": [
+     "Madrid to Athens",
+     "London to Rome",
+     "Paris to Istanbul",
+     "Berlin to Moscow"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఓరియంట్ ఎక్స్‌ప్రెస్ రైలు మార్గం పారిస్ నుండి ఇస్తాంబుల్ వరకు నడుస్తుంది.",
+    "en": "The Orient Express runs from Paris to Istanbul, passing through cities like Strasbourg, Munich, Vienna, Budapest, and Belgrade."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T27-0073",
+   "section": {
+    "te": "Personal services workers",
+    "en": "Personal services workers"
+   },
+   "q": {
+    "te": "వ్యక్తిగత సేవల రంగంలో పనిచేసే కార్మికులకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. వీరు ఉపాధి కోసం గ్రామీణ ప్రాంతాల నుండి వలస వస్తారు మరియు నైపుణ్యం లేనివారుగా ఉంటారు.\n2. వీరు హౌస్‌కీపర్లు, వంటవారు మరియు తోటమాలిగా గృహ సేవల్లో నియమించబడతారు.\n3. ఈ వర్గానికి చెందిన కార్మికులు సాధారణంగా అసంఘటితంగా ఉంటారు.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding workers employed in personal services:\n1. They migrate from rural areas in search of employment and are unskilled.\n2. They are employed in domestic services as housekeepers, cooks, and gardeners.\n3. This segment of workers is generally unorganised.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3",
+     "1 మాత్రమే"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1, 2 and 3",
+     "1 only"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం మూడు ప్రకటనలు సరైనవే; వీరు గ్రామీణ ప్రాంతాల నుండి వలస వచ్చిన నైపుణ్యం లేని అసంఘటిత కార్మికులు.",
+    "en": "All three statements are correct according to the text describing personal services workers who migrate from rural areas and work in unorganised domestic roles."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T27-0277",
+   "section": {
+    "te": "Communication Systems",
+    "en": "Communication Systems"
+   },
+   "q": {
+    "te": "ఈ క్రింది వాటిలో ఏది అత్యంత ప్రభావవంతమైన మరియు అధునాతన వ్యక్తిగత సమాచార వ్యవస్థగా పరిగణించబడుతుంది?",
+    "en": "Which of the following is considered the most effective and advanced personal communication system?"
+   },
+   "options": {
+    "te": [
+     "టెలిగ్రాఫ్",
+     "రేడియో",
+     "టెలివిజన్",
+     "ఇంటర్నెట్"
+    ],
+    "en": [
+     "Telegraph",
+     "Radio",
+     "Television",
+     "Internet"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఇంటర్నెట్ అత్యంత అధునాతన మరియు ప్రభావవంతమైన వ్యక్తిగత సమాచార వ్యవస్థగా గుర్తించబడింది, ఇది ప్రత్యక్ష సంబంధాన్ని మరియు సమాచార ప్రాప్తిని అనుమతిస్తుంది.",
+    "en": "The internet is identified as the most advanced and effective personal communication system, enabling direct contact and access to information."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T27-0322",
+   "section": {
+    "te": "Port Regulation",
+    "en": "Port Regulation"
+   },
+   "q": {
+    "te": "భారతదేశంలో ఓడరేవుల నియంత్రణకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ప్రధాన ఓడరేవుల విధానాన్ని కేంద్ర ప్రభుత్వం నిర్ణయిస్తుంది.\n2. చిన్న ఓడరేవులను రాష్ట్ర ప్రభుత్వాలు నియంత్రిస్తాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding port regulation in India:\n1. The policy for major ports is decided by the Central Government.\n2. Minor ports are regulated by the State Governments.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 లేదా 2 ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రధాన ఓడరేవులను కేంద్ర ప్రభుత్వం నియంత్రిస్తుంది, చిన్న ఓడరేవులను రాష్ట్ర ప్రభుత్వాలు నియంత్రిస్తాయి.",
+    "en": "The central government regulates major ports, while state governments regulate minor ports."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T27-0224",
+   "section": {
+    "te": "National Highways Purpose",
+    "en": "National Highways Purpose"
+   },
+   "q": {
+    "te": "భారతదేశంలోని జాతీయ రహదారులు ప్రాథమికంగా క్రింది ఏ ప్రయోజనాల కోసం ఉద్దేశించబడ్డాయి?",
+    "en": "National Highways in India are primarily meant for which of the following purposes?"
+   },
+   "options": {
+    "te": [
+     "అంతర్-రాష్ట్ర రవాణా",
+     "వ్యూహాత్మక ప్రాంతాలలో రక్షణ సిబ్బంది మరియు సామాగ్రి తరలింపు",
+     "A మరియు B రెండూ",
+     "మారుమూల గ్రామీణ గ్రామాలను మాత్రమే కలపడం"
+    ],
+    "en": [
+     "Inter-state transport",
+     "Movement of defence men and material in strategic areas",
+     "Both A and B",
+     "Connecting remote rural villages only"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "జాతీయ రహదారులు అంతర్-రాష్ట్ర రవాణా మరియు వ్యూహాత్మక ప్రాంతాలలో రక్షణ సిబ్బంది మరియు సామాగ్రి తరలింపు కోసం ఉద్దేశించబడ్డాయి.",
+    "en": "National Highways are intended for inter-state transport and the movement of defense personnel and materials in strategic regions."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T27-0235",
+   "section": {
+    "te": "East-West Corridor",
+    "en": "East-West Corridor"
+   },
+   "q": {
+    "te": "తూర్పు-పడమర కారిడార్ అస్సాంలోని సిల్చార్‌ను గుజరాత్‌లోని ఏ ఓడరేవు పట్టణంతో అనుసంధానించడానికి ప్రణాళిక చేయబడింది?",
+    "en": "The East-West Corridor is planned to connect Silchar in Assam with which port town in Gujarat?"
+   },
+   "options": {
+    "te": [
+     "పోర్‌బందర్",
+     "భావ్‌నగర్",
+     "సూరత్",
+     "కాండ్లా"
+    ],
+    "en": [
+     "Porbandar",
+     "Bhavnagar",
+     "Surat",
+     "Kandla"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "తూర్పు-పడమర కారిడార్ అస్సాంలోని సిల్చార్‌ను గుజరాత్‌లోని పోర్‌బందర్ ఓడరేవు పట్టణంతో కలుపుతుంది, దీని మొత్తం పొడవు 3,640 కి.మీ.",
+    "en": "The East-West Corridor connects Silchar in Assam to the port town of Porbandar in Gujarat with a total length of 3,640 km."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T27-0011",
+   "section": {
+    "te": "Suvarnabhumi Sculpture",
+    "en": "Suvarnabhumi Sculpture"
+   },
+   "q": {
+    "te": "సువర్ణభూమి విమానాశ్రయంలోని భారీ శిల్పం ఏ హిందూ పురాణ ఘట్టాన్ని వర్ణిస్తుంది?",
+    "en": "The massive sculpture at Suvarnabhumi Airport depicts which Hindu mythological event?"
+   },
+   "options": {
+    "te": [
+     "మహాభారతం",
+     "దశావతారం",
+     "సముద్ర మథనం",
+     "రామాయణం"
+    ],
+    "en": [
+     "Mahabharata",
+     "Dashavatara",
+     "Samudra Manthana",
+     "Ramayana"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "బ్యాంకాక్‌లోని సువర్ణభూమి విమానాశ్రయంలోని శిల్పం హిందూ పురాణమైన సముద్ర మథనాన్ని వర్ణిస్తుంది.",
+    "en": "The sculpture at Bangkok's Suvarnabhumi Airport depicts the Hindu myth of Samudra Manthana, or the churning of the ocean."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T27-0285",
+   "section": {
+    "te": "Television History",
+    "en": "Television History"
+   },
+   "q": {
+    "te": "భారతదేశంలో టెలివిజన్ చరిత్రకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. టెలివిజన్ సేవలు ప్రారంభంలో 1959లో జాతీయ రాజధానిలో ప్రారంభమయ్యాయి.\n2. 1976లో, టెలివిజన్ ఆల్ ఇండియా రేడియో నుండి వేరు చేయబడింది మరియు దూరదర్శన్ అని పేరు పెట్టారు.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the history of television in India:\n1. Television services initially began in the National Capital in 1959.\n2. In 1976, television was separated from All India Radio and named Doordarshan.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "టెలివిజన్ సేవలు 1959లో ఢిల్లీలో ప్రారంభమయ్యాయి మరియు తరువాత 1976లో AIR నుండి వేరు చేయబడి దూరదర్శన్‌గా మారాయి.",
+    "en": "Television services started in Delhi in 1959 and were later separated from AIR to become Doordarshan in 1976."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T27-0281",
+   "section": {
+    "te": "Airport Authority of India",
+    "en": "Airport Authority of India"
+   },
+   "q": {
+    "te": "ఎయిర్‌పోర్ట్ అథారిటీ ఆఫ్ ఇండియా (AAI) ఈ క్రింది ఏ సేవలను అందిస్తుంది?",
+    "en": "Which of the following services are provided by the Airport Authority of India (AAI)?"
+   },
+   "options": {
+    "te": [
+     "సురక్షితమైన మరియు సమర్థవంతమైన విమాన ట్రాఫిక్ సేవలు",
+     "ఏరోనాటికల్ కమ్యూనికేషన్ సేవలు",
+     "A మరియు B రెండూ",
+     "ముడి చమురు అన్వేషణ"
+    ],
+    "en": [
+     "Safe and efficient air traffic services",
+     "Aeronautical communication services",
+     "Both A and B",
+     "Exploration of crude oil"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతీయ గగనతలంలో విమాన ట్రాఫిక్ సేవలు మరియు ఏరోనాటికల్ కమ్యూనికేషన్ సేవలు రెండింటికీ AAI బాధ్యత వహిస్తుంది.",
+    "en": "AAI is responsible for both air traffic services and aeronautical communication services within Indian Air Space."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T27-0310",
+   "section": {
+    "te": "Direction of Import Trade",
+    "en": "Direction of Import Trade"
+   },
+   "q": {
+    "te": "పట్టిక 8.6 ఆధారంగా, 2021-22లో ఈ క్రింది ఏ ప్రాంతం నుండి భారతదేశానికి అత్యధిక విలువైన దిగుమతులు జరిగాయి?",
+    "en": "Based on Table 8.6, which of the following regions had the highest value of imports to India in 2021-22?"
+   },
+   "options": {
+    "te": [
+     "ఆఫ్రికా",
+     "ఉత్తర అమెరికా",
+     "లాటిన్ అమెరికా",
+     "యూరప్"
+    ],
+    "en": [
+     "Africa",
+     "North America",
+     "Latin America",
+     "Europe"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పట్టిక 8.6 ప్రకారం, 2021-22లో యూరప్ నుండి అత్యధికంగా 6,40,577 కోట్ల రూపాయల దిగుమతులు జరిగాయి.",
+    "en": "According to Table 8.6, Europe had the highest import value of 6,40,577 crore rupees in 2021-22 among the listed regions."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T27-0012",
+   "section": {
+    "te": "Thenmala Facts",
+    "en": "Thenmala Facts"
+   },
+   "q": {
+    "te": "తెన్మల గురించి కింది ప్రకటనలలో ఏది సరైనది కాదు?",
+    "en": "Which of the following statements about Thenmala is NOT correct?"
+   },
+   "options": {
+    "te": [
+     "ఇది కేరళలోని కొల్లాం జిల్లాలో ఉంది.",
+     "ఇది తూర్పు కనుమలలో ఉంది.",
+     "ఇది పశ్చిమ కనుమలలో ఉంది.",
+     "ఇది భారతదేశపు మొట్టమొదటి ప్రణాళికాబద్ధమైన ఎకో టూరిజం గమ్యస్థానం."
+    ],
+    "en": [
+     "It is located in the Kollam district of Kerala.",
+     "It is located in the Eastern Ghats.",
+     "It is located in the Western Ghats.",
+     "It is India's first planned ecotourism destination."
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "తెన్మల పశ్చిమ కనుమలలో ఉందని పాఠ్య భాగం పేర్కొంది, తూర్పు కనుమలలో కాదు.",
+    "en": "Thenmala is in the Western Ghats, not the Eastern Ghats."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T27-0344",
+   "section": {
+    "te": "Port Characteristics",
+    "en": "Port Characteristics"
+   },
+   "q": {
+    "te": "ఈ క్రింది ఓడరేవులను వాటి ప్రత్యేక లక్షణాలతో జతపరచండి:\n1. పారాదీప్ ఓడరేవు - i. హుగ్లీ నదిపై 128 కి.మీ లోపలికి ఉంది\n2. విశాఖపట్నం ఓడరేవు - ii. పెద్ద నౌకల కోసం లోతైన నౌకాశ్రయం\n3. కోల్‌కతా ఓడరేవు - iii. భూపరివేష్టిత నౌకాశ్రయం",
+    "en": "Match the following ports with their specific characteristics:\n1. Paradwip Port - i. 128 km inland on Hugli river\n2. Visakhapatnam Port - ii. Deepest harbour for large vessels\n3. Kolkata Port - iii. Land-locked harbour"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-iii, 3-i",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-i, 3-iii"
+    ],
+    "en": [
+     "1-ii, 2-iii, 3-i",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-i, 3-iii"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పారాదీప్ అత్యంత లోతైన నౌకాశ్రయాన్ని కలిగి ఉంది, విశాఖపట్నం భూపరివేష్టితమైనది మరియు కోల్‌కతా హుగ్లీ నదిపై 128 కిలోమీటర్ల లోపలికి ఉంది.",
+    "en": "Paradwip has the deepest harbour, Visakhapatnam is land-locked, and Kolkata is located 128 km inland on the Hugli river."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T27-0329",
+   "section": {
+    "te": "Port Locations",
+    "en": "Port Locations"
+   },
+   "q": {
+    "te": "ఈ క్రింది ఓడరేవులను వాటి భౌగోళిక స్థానాలతో జతపరచండి:\n1. దీన్ దయాల్ పోర్ట్ - i. జువారి ఎస్ట్యూరీ\n2. మర్మగోవా పోర్ట్ - ii. వెంబనాడ్ కాయల్\n3. కొచ్చిన్ పోర్ట్ - iii. కచ్ సింధుశాఖ (Gulf of Kuchchh)",
+    "en": "Match the following ports with their geographical locations:\n1. Deendayal Port - i. Zuari estuary\n2. Mormugao Port - ii. Vembanad Kayal\n3. Cochin Port - iii. Gulf of Kuchchh"
+   },
+   "options": {
+    "te": [
+     "1-iii, 2-i, 3-ii",
+     "1-i, 2-ii, 3-iii",
+     "1-ii, 2-iii, 3-i",
+     "1-iii, 2-ii, 3-i"
+    ],
+    "en": [
+     "1-iii, 2-i, 3-ii",
+     "1-i, 2-ii, 3-iii",
+     "1-ii, 2-iii, 3-i",
+     "1-iii, 2-ii, 3-i"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "దీన్ దయాల్ కచ్ సింధుశాఖ వద్ద, మర్మగోవా జువారి ఎస్ట్యూరీ వద్ద మరియు కొచ్చిన్ వెంబనాడ్ కాయల్ వద్ద ఉన్నాయి.",
+    "en": "Deendayal is at Gulf of Kuchchh, Mormugao is at Zuari estuary, and Cochin is at Vembanad Kayal."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T27-0150",
+   "section": {
+    "te": "North Pacific Convergence",
+    "en": "North Pacific Convergence"
+   },
+   "q": {
+    "te": "విశాలమైన ఉత్తర పసిఫిక్ మహాసముద్రం మీదుగా సాగే వాణిజ్య మార్గాలు క్రింది ఏ కేంద్రం వద్ద కలుస్తాయి?",
+    "en": "Trade routes across the vast North Pacific Ocean converge at which of the following nodal points?"
+   },
+   "options": {
+    "te": [
+     "హోనోలులు",
+     "వాంకూవర్",
+     "సింగపూర్",
+     "మనీలా"
+    ],
+    "en": [
+     "Honolulu",
+     "Vancouver",
+     "Singapore",
+     "Manila"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఉత్తర పసిఫిక్ మహాసముద్రం మీదుగా సాగే అనేక వాణిజ్య సముద్ర మార్గాలు హోనోలులు వద్ద కేంద్రీకృతమవుతాయి.",
+    "en": "Trade across the vast North Pacific Ocean moves by several routes which converge at Honolulu."
+   }
+  }
+ ]
+}

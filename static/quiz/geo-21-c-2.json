@@ -1,0 +1,942 @@
+{
+ "id": "geo-21-c-2",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Mineral and Energy Resources – క్విజ్ 2",
+  "en": "Mineral and Energy Resources – Quiz 2"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T21-0164",
+   "section": {
+    "te": "ONGC Establishment",
+    "en": "ONGC Establishment"
+   },
+   "q": {
+    "te": "భారతదేశంలో చమురు అన్వేషణను క్రమపద్ధతిలో చేపట్టడానికి ఆయిల్ అండ్ నేచురల్ గ్యాస్ కమిషన్ (ONGC) ఏ సంవత్సరంలో స్థాపించబడింది?",
+    "en": "In which year was the Oil and Natural Gas Commission (ONGC) set up to systematically take up oil exploration in India?"
+   },
+   "options": {
+    "te": [
+     "1954",
+     "1967",
+     "1948",
+     "1956"
+    ],
+    "en": [
+     "1954",
+     "1967",
+     "1948",
+     "1956"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశంలో చమురు అన్వేషణ మరియు ఉత్పత్తిని క్రమపద్ధతిలో నిర్వహించడానికి 1956లో ఆయిల్ అండ్ నేచురల్ గ్యాస్ కమిషన్ (ONGC) స్థాపించబడింది.",
+    "en": "The Oil and Natural Gas Commission (ONGC) was established in 1956 to systematically handle oil exploration and production in India."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T21-0174",
+   "section": {
+    "te": "Mumbai High Production",
+    "en": "Mumbai High Production"
+   },
+   "q": {
+    "te": "ముంబై హైలో చమురు ఉత్పత్తి ఏ సంవత్సరంలో ప్రారంభమైంది?",
+    "en": "In which year did oil production commence at Mumbai High?"
+   },
+   "options": {
+    "te": [
+     "1980",
+     "1956",
+     "1973",
+     "1976"
+    ],
+    "en": [
+     "1980",
+     "1956",
+     "1973",
+     "1976"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ముంబై హై 1973లో కనుగొనబడింది, కానీ దాని ఉత్పత్తి 1976లో ప్రారంభమైంది.",
+    "en": "Mumbai High was discovered in 1973, but its production started in 1976."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T21-0118",
+   "section": {
+    "te": "Non-metallic Minerals",
+    "en": "Non-metallic Minerals"
+   },
+   "q": {
+    "te": "కింది వాటిలో అకర్బన అలోహ ఖనిజాలకు (inorganic non-metallic minerals) ఉదాహరణలు ఏవి?",
+    "en": "Which of the following are examples of inorganic non-metallic minerals?"
+   },
+   "options": {
+    "te": [
+     "అభ్రకం (Mica) మరియు సున్నపురాయి (Limestone)",
+     "గ్రాఫైట్",
+     "A మరియు B రెండూ",
+     "బొగ్గు మరియు పెట్రోలియం"
+    ],
+    "en": [
+     "Mica and Limestone",
+     "Graphite",
+     "Both A and B",
+     "Coal and Petroleum"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం అభ్రకం, సున్నపురాయి మరియు గ్రాఫైట్‌లను అకర్బన అలోహ ఖనిజాలుగా వర్గీకరించింది, అయితే బొగ్గు మరియు పెట్రోలియం సేంద్రీయమైనవి.",
+    "en": "The text classifies mica, limestone, and graphite as inorganic non-metallic minerals, while coal and petroleum are organic."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T21-0038",
+   "section": {
+    "te": "Rat-hole mining locations",
+    "en": "Rat-hole mining locations"
+   },
+   "q": {
+    "te": "మేఘాలయలోని ఈ క్రింది ఏ ప్రాంతాలలో కుటుంబ సభ్యుల ద్వారా 'రాట్ హోల్' (Rat hole) మైనింగ్ నిర్వహించబడుతుంది?",
+    "en": "In which of the following locations in Meghalaya is 'Rat hole' mining practiced by family members?"
+   },
+   "options": {
+    "te": [
+     "జోవై (Jowai)",
+     "చిరపుంజీ (Cherapunjee)",
+     "A మరియు B రెండూ",
+     "షిల్లాంగ్"
+    ],
+    "en": [
+     "Jowai",
+     "Cherapunjee",
+     "Both A and B",
+     "Shillong"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పొడవైన ఇరుకైన సొరంగాలను తవ్వడం ద్వారా చేసే రాట్-హోల్ మైనింగ్ జోవై మరియు చిరపుంజీలలో జరుగుతుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text specifies that rat-hole mining, which involves digging long narrow tunnels, occurs in Jowai and Cherapunjee."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T21-0182",
+   "section": {
+    "te": "Uranium Mining Districts",
+    "en": "Uranium Mining Districts"
+   },
+   "q": {
+    "te": "యురేనియం లభించే ఈ క్రింది జిల్లాలను వాటి సంబంధిత రాష్ట్రాలతో జతపరచండి:\n1. దుర్గ్ - i. మహారాష్ట్ర\n2. భండారా - ii. హిమాచల్ ప్రదేశ్\n3. కులు - iii. ఛత్తీస్‌గఢ్",
+    "en": "Match the following districts where Uranium is found with their respective states:\n1. Durg - i. Maharashtra\n2. Bhandara - ii. Himachal Pradesh\n3. Kullu - iii. Chhattisgarh"
+   },
+   "options": {
+    "te": [
+     "1-iii, 2-i, 3-ii",
+     "1-i, 2-ii, 3-iii",
+     "1-ii, 2-iii, 3-i",
+     "1-iii, 2-ii, 3-i"
+    ],
+    "en": [
+     "1-iii, 2-i, 3-ii",
+     "1-i, 2-ii, 3-iii",
+     "1-ii, 2-iii, 3-i",
+     "1-iii, 2-ii, 3-i"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, యురేనియం దుర్గ్ (ఛత్తీస్‌గఢ్), భండారా (మహారాష్ట్ర) మరియు కులు (హిమాచల్ ప్రదేశ్) లలో లభిస్తుంది.",
+    "en": "Uranium is found in Durg (Chhattisgarh), Bhandara (Maharashtra), and Kullu (Himachal Pradesh)."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T21-0113",
+   "section": {
+    "te": "Tidal Energy Generation",
+    "en": "Tidal Energy Generation"
+   },
+   "q": {
+    "te": "తరంగ శక్తి (tidal energy) వ్యవస్థలో, వెలుపల అలలు తగ్గిన తర్వాత నిలిపి ఉంచిన నీరు ఏమవుతుంది?",
+    "en": "In a tidal energy setup, what happens to the trapped water after the tide falls outside the flood gate?"
+   },
+   "options": {
+    "te": [
+     "దగ్గరలోని పొలాలకు సాగునీరుగా వాడతారు",
+     "విద్యుత్ ఉత్పత్తి చేసే టర్బైన్ ద్వారా తిరిగి సముద్రంలోకి ప్రవహిస్తుంది",
+     "అది శాశ్వతంగా నిల్వ చేయబడుతుంది",
+     "సూర్యరశ్మి వల్ల ఆవిరైపోతుంది"
+    ],
+    "en": [
+     "It is used for irrigation in nearby fields",
+     "It flows back to the sea through a power-generating turbine",
+     "It is stored permanently in the inlet",
+     "It evaporates due to sunlight"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అలలు తగ్గినప్పుడు, నిలిపి ఉంచిన నీరు టర్బైన్‌ను తిప్పే పైపు ద్వారా తిరిగి సముద్రంలోకి ప్రవహిస్తూ విద్యుత్తును ఉత్పత్తి చేస్తుంది.",
+    "en": "When the tide falls, the trapped water flows back to the sea through a pipe that drives a turbine to generate electricity."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T21-0088",
+   "section": {
+    "te": "Lignite Reserves",
+    "en": "Lignite Reserves"
+   },
+   "q": {
+    "te": "నెయ్వేలిలోని ప్రధాన లిగ్నైట్ నిక్షేపాలు ఏ రాష్ట్రంలో ఉన్నాయి?",
+    "en": "In which state are the principal lignite reserves of Neyveli located?"
+   },
+   "options": {
+    "te": [
+     "కర్ణాటక",
+     "ఆంధ్రప్రదేశ్",
+     "తమిళనాడు",
+     "కేరళ"
+    ],
+    "en": [
+     "Karnataka",
+     "Andhra Pradesh",
+     "Tamil Nadu",
+     "Kerala"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రధాన లిగ్నైట్ నిక్షేపాలు తమిళనాడులోని నెయ్వేలిలో ఉన్నాయని పాఠ్యాంశం పేర్కొంది.",
+    "en": "The main lignite reserves are found in Neyveli, Tamil Nadu."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T21-0039",
+   "section": {
+    "te": "North India minerals",
+    "en": "North India minerals"
+   },
+   "q": {
+    "te": "భారతదేశంలోని ఏ ప్రాంతం ఆర్థిక ఖనిజాలు దాదాపుగా లేని ప్రాంతంగా వర్ణించబడింది?",
+    "en": "Which region of India is described as being almost devoid of economic minerals?"
+   },
+   "options": {
+    "te": [
+     "తీర మైదానాలు",
+     "ఉత్తర భారత ఒండ్రు మైదానాలు",
+     "ఈశాన్య కొండలు",
+     "దక్కన్ పీఠభూమి"
+    ],
+    "en": [
+     "The Coastal plains",
+     "The Alluvial plains of north India",
+     "The North-eastern hills",
+     "The Deccan Plateau"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఉత్తర భారతదేశంలోని విశాలమైన ఒండ్రు మైదానాలు వాటి భౌగోళిక నిర్మాణం కారణంగా గణనీయమైన ఆర్థిక ఖనిజాలను కలిగి లేవు.",
+    "en": "The vast alluvial plains of North India do not contain significant economic minerals due to their geological structure."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T21-0108",
+   "section": {
+    "te": "Wind Energy Locations",
+    "en": "Wind Energy Locations"
+   },
+   "q": {
+    "te": "భారతదేశంలోని ఏ రెండు ప్రాంతాలు పవన శక్తిని సమర్థవంతంగా ఉపయోగించుకోవడంలో ప్రసిద్ధి చెందినవిగా ప్రత్యేకంగా పేర్కొనబడ్డాయి?",
+    "en": "Which two places in India are specifically mentioned as being well known for the effective use of wind energy?"
+   },
+   "options": {
+    "te": [
+     "మదురై మరియు అహ్మదాబాద్",
+     "కొచ్చి మరియు ముంబై",
+     "నాగర్‌కోయిల్ మరియు జైసల్మేర్",
+     "హైదరాబాద్ మరియు బెంగళూరు"
+    ],
+    "en": [
+     "Madurai and Ahmedabad",
+     "Kochi and Mumbai",
+     "Nagarcoil and Jaisalmer",
+     "Hyderabad and Bengaluru"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "నాగర్‌కోయిల్ మరియు జైసల్మేర్ పవన శక్తిని సమర్థవంతంగా ఉపయోగించడంలో ప్రసిద్ధి చెందినవిగా పాఠ్య భాగం హైలైట్ చేసింది.",
+    "en": "The text highlights Nagarcoil and Jaisalmer as being well known for their effective use of wind energy."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T21-0085",
+   "section": {
+    "te": "Natural Gas Uses",
+    "en": "Natural Gas Uses"
+   },
+   "q": {
+    "te": "కింది వాటిలో ఏ పరిశ్రమలలో సహజ వాయువును ముడి పదార్థంగా ఉపయోగిస్తారు?\nA. ఎరువుల పరిశ్రమ\nB. పెట్రోకెమికల్ పరిశ్రమ\nC. రసాయన పరిశ్రమ",
+    "en": "Natural gas is used as a raw material in which of the following industries?\nA. Fertilizer industry\nB. Petrochemical industry\nC. Chemical industry"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సహజ వాయువు రసాయన, పెట్రోకెమికల్ మరియు ఎరువుల పరిశ్రమలకు ముడి పదార్థంగా ఉపయోగపడుతుంది.",
+    "en": "Natural gas serves as a raw material for chemical, petrochemical, and fertilizer industries."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T21-0028",
+   "section": {
+    "te": "Mineral definition",
+    "en": "Mineral definition"
+   },
+   "q": {
+    "te": "భూవిజ్ఞాన శాస్త్రవేత్తలు ఇచ్చిన నిర్వచనం ప్రకారం, ఖనిజం తప్పనిసరిగా ఇలా ఉండాలి:",
+    "en": "According to the definition provided by geologists, a mineral must be a:"
+   },
+   "options": {
+    "te": [
+     "సంక్లిష్ట నిర్మాణంతో మానవ నిర్మిత పదార్థం",
+     "నిర్వచించదగిన అంతర్గత నిర్మాణంతో కూడిన సజాతీయ, సహజంగా లభించే పదార్థం",
+     "ద్రవ రూపంలో మాత్రమే లభించే విజాతీయ పదార్థం",
+     "పారిశ్రామిక ప్రక్రియల ద్వారా మాత్రమే సృష్టించబడిన పదార్థం"
+    ],
+    "en": [
+     "Man-made substance with a complex structure",
+     "Homogenous, naturally occurring substance with a definable internal structure",
+     "Heterogeneous substance found only in liquid form",
+     "Substance created only through industrial processes"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఖనిజం అంటే నిర్వచించదగిన అంతర్గత నిర్మాణంతో కూడిన సజాతీయ, సహజంగా లభించే పదార్థం అని పాఠ్యభాగం ఒక నిర్దిష్ట శాస్త్రీయ నిర్వచనాన్ని ఇస్తుంది.",
+    "en": "The text provides a specific scientific definition of a mineral as a homogenous, naturally occurring substance with a definable internal structure."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T21-0119",
+   "section": {
+    "te": "Indian Mineral Age",
+    "en": "Indian Mineral Age"
+   },
+   "q": {
+    "te": "భారతదేశంలోని విలువైన ఖనిజాలలో ఎక్కువ భాగం ఏ భౌగోళిక యుగానికి చెందినవి?",
+    "en": "Most of the valuable minerals in India are products of which geological age?"
+   },
+   "options": {
+    "te": [
+     "ప్రీ-పాలిజోయిక్ యుగం",
+     "పాలిజోయిక్ యుగం",
+     "సెనోజోయిక్ యుగం",
+     "మెసోజోయిక్ యుగం"
+    ],
+    "en": [
+     "Pre-palaezoic age",
+     "Palaeozoic age",
+     "Cenozoic age",
+     "Mesozoic age"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భారతదేశంలోని విలువైన ఖనిజాలలో ఎక్కువ భాగం ప్రీ-పాలిజోయిక్ యుగానికి చెందినవని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The bulk of India's valuable minerals are products of the pre-palaezoic age."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T21-0116",
+   "section": {
+    "te": "Surface Mining",
+    "en": "Surface Mining"
+   },
+   "q": {
+    "te": "ఉపరితల మైనింగ్ (surface mining) కు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. దీనిని ఓపెన్-కాస్ట్ మైనింగ్ అని కూడా పిలుస్తారు.\n2. ఉపరితలానికి దగ్గరగా ఉండే ఖనిజాలను వెలికితీయడానికి ఇది చౌకైన మార్గం.\n3. ఈ పద్ధతిలో భద్రతా జాగ్రత్తల వంటి ఓవర్‌హెడ్ ఖర్చులు చాలా ఎక్కువగా ఉంటాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding surface mining:\n1. It is also known as open-cast mining.\n2. It is the cheapest way of mining minerals found close to the surface.\n3. Overhead costs like safety precautions are very high in this method.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఉపరితల మైనింగ్ అనేది ఉపరితలానికి దగ్గరగా ఉన్న ఖనిజాలకు చౌకైన పద్ధతి, మరియు దీనిలో భద్రత మరియు పరికరాల కోసం అయ్యే ఓవర్‌హెడ్ ఖర్చులు తక్కువగా ఉంటాయి.",
+    "en": "Surface mining is the cheapest method for minerals near the surface, and its overhead costs for safety and equipment are relatively low, not high."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T21-0059",
+   "section": {
+    "te": "Copper Mines",
+    "en": "Copper Mines"
+   },
+   "q": {
+    "te": "ఈ క్రింది రాగి ఉత్పత్తి చేసే ప్రాంతాలను వాటి సంబంధిత రాష్ట్రాలతో జతపరచండి:\nI. బాలాఘాట్   A. రాజస్థాన్\nII. ఖేత్రి     B. జార్ఖండ్\nIII. సింగ్‌భూమ్ C. మధ్యప్రదేశ్",
+    "en": "Match the following copper producing regions with their respective states:\nI. Balaghat   A. Rajasthan\nII. Khetri     B. Jharkhand\nIII. Singhbhum C. Madhya Pradesh"
+   },
+   "options": {
+    "te": [
+     "I-C, II-A, III-B",
+     "I-A, II-C, III-B",
+     "I-B, II-A, III-C",
+     "I-C, II-B, III-A"
+    ],
+    "en": [
+     "I-C, II-A, III-B",
+     "I-A, II-C, III-B",
+     "I-B, II-A, III-C",
+     "I-C, II-B, III-A"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, బాలాఘాట్ మధ్యప్రదేశ్‌లో, ఖేత్రి రాజస్థాన్‌లో మరియు సింగ్‌భూమ్ జార్ఖండ్‌లో ఉన్నాయి.",
+    "en": "Balaghat is in Madhya Pradesh, Khetri is in Rajasthan, and Singhbhum is in Jharkhand."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T21-0097",
+   "section": {
+    "te": "Biogas Efficiency",
+    "en": "Biogas Efficiency"
+   },
+   "q": {
+    "te": "సేంద్రీయ పదార్థాల కుళ్ళిపోవడం ద్వారా ఉత్పత్తి అయ్యే బయోగ్యాస్, ఈ క్రింది వాటిలో దేనితో పోలిస్తే ఎక్కువ ఉష్ణ సామర్థ్యాన్ని (thermal efficiency) కలిగి ఉంటుంది?",
+    "en": "Biogas produced from the decomposition of organic matter has higher thermal efficiency compared to which of the following?"
+   },
+   "options": {
+    "te": [
+     "కిరోసిన్",
+     "పేడ బిళ్ళలు (Dung cake)",
+     "బొగ్గు (Charcoal)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Kerosene",
+     "Dung cake",
+     "Charcoal",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "కిరోసిన్, పేడ బిళ్ళలు మరియు బొగ్గుతో పోలిస్తే బయోగ్యాస్ ఎక్కువ ఉష్ణ సామర్థ్యాన్ని కలిగి ఉంటుందని పాఠ్య భాగం పేర్కొంది.",
+    "en": "Biogas has higher thermal efficiency in comparison to kerosene, dung cake, and charcoal."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T21-0024",
+   "section": {
+    "te": "Mineral identification",
+    "en": "Mineral identification"
+   },
+   "q": {
+    "te": "భూవిజ్ఞాన శాస్త్రవేత్తలు ఇప్పటివరకు సుమారు ఎన్ని రకాల ఖనిజాలను గుర్తించారు?",
+    "en": "Approximately how many different minerals have been identified by geologists so far?"
+   },
+   "options": {
+    "te": [
+     "2000 కంటే ఎక్కువ",
+     "5000 కంటే ఎక్కువ",
+     "1000 కంటే ఎక్కువ",
+     "500 కంటే ఎక్కువ"
+    ],
+    "en": [
+     "Over 2000",
+     "Over 5000",
+     "Over 1000",
+     "Over 500"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "2000 కంటే ఎక్కువ ఖనిజాలను గుర్తించినట్లు పాఠ్యభాగం పేర్కొంది, అయితే శిలలలో కొన్ని మాత్రమే సమృద్ధిగా కనిపిస్తాయి.",
+    "en": "Over 2000 minerals have been identified, though only a few are common in rocks."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T21-0049",
+   "section": {
+    "te": "Kudremukh Transport",
+    "en": "Kudremukh Transport"
+   },
+   "q": {
+    "te": "కుద్రేముఖ్ గనుల నుండి ఇనుప ఖనిజం మంగళూరు సమీపంలోని ఓడరేవుకు ఎలా రవాణా చేయబడుతుంది?",
+    "en": "How is the iron ore from the Kudremukh mines transported to the port near Mangaluru?"
+   },
+   "options": {
+    "te": [
+     "ప్రత్యేక రైల్వే లైన్ ద్వారా",
+     "అంతర్గత జలమార్గాల ద్వారా",
+     "పైప్‌లైన్ ద్వారా స్లర్రీ (slurry) రూపంలో",
+     "భారీ ట్రక్కుల ద్వారా"
+    ],
+    "en": [
+     "Via a dedicated railway line",
+     "Using inland waterways",
+     "As slurry through a pipeline",
+     "By heavy-duty trucks"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కుద్రేముఖ్ నుండి ఇనుప ఖనిజాన్ని పైప్‌లైన్ ద్వారా స్లర్రీ రూపంలో మంగళూరు సమీపంలోని ఓడరేవుకు రవాణా చేస్తారు.",
+    "en": "The iron ore from Kudremukh is transported in the form of slurry through a pipeline to reach the port near Mangaluru."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T21-0126",
+   "section": {
+    "te": "Shaft Mining Equipment",
+    "en": "Shaft Mining Equipment"
+   },
+   "q": {
+    "te": "షాఫ్ట్ మైనింగ్ పద్ధతికి కింది వాటిలో ఏ పరికరాలు అవసరం?",
+    "en": "Which of the following equipment is required for the shaft mining method?"
+   },
+   "options": {
+    "te": [
+     "ప్రత్యేకంగా రూపొందించిన లిఫ్టులు మరియు డ్రిల్స్",
+     "హాలేజ్ వాహనాలు (Haulage vehicles) మరియు వెంటిలేషన్ వ్యవస్థలు",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Specially designed lifts and drills",
+     "Haulage vehicles and ventilation systems",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "షాఫ్ట్ మైనింగ్‌కు భద్రత మరియు కదలిక కోసం లిఫ్టులు, డ్రిల్స్, హాలేజ్ వాహనాలు మరియు వెంటిలేషన్ వ్యవస్థలు అవసరం.",
+    "en": "Shaft mining requires lifts, drills, haulage vehicles, and ventilation systems for safety and movement."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T21-0011",
+   "section": {
+    "te": "Non-renewable resources nature",
+    "en": "Non-renewable resources nature"
+   },
+   "q": {
+    "te": "పునరుత్పాదకం కాని వనరులకు (నాన్-రెన్యూవబుల్) సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి చాలా సుదీర్ఘ కాలంలో ఏర్పడతాయి.\n2. మనం వాటిని వినియోగించే రేటు కంటే వేగంగా అవి తిరిగి భర్తీ చేయబడతాయి.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding non-renewable resources:\n1. They are created over long periods.\n2. They replenish at a rate faster than we use them.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పునరుత్పాదకం కాని వనరులు సుదీర్ఘ కాలంలో ఏర్పడతాయి మరియు మనం ఉపయోగించే వేగంతో అవి తిరిగి భర్తీ కాలేవు. కాబట్టి 1 మాత్రమే సరైనది.",
+    "en": "Non-renewable resources are created over long periods and cannot be replenished at the rate we use them, making statement 2 incorrect."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T21-0184",
+   "section": {
+    "te": "Geothermal Energy Sources",
+    "en": "Geothermal Energy Sources"
+   },
+   "q": {
+    "te": "భూతాప శక్తి (Geothermal energy) కి సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. మాగ్మా భూమి ఉపరితలంపైకి వచ్చినప్పుడు విడుదలయ్యే వేడి నుండి దీనిని ఉత్పత్తి చేయవచ్చు.\n2. గీజర్ బావుల ద్వారా వెలువడే వేడి నీటిని ఉష్ణ శక్తిని ఉత్పత్తి చేయడానికి ఉపయోగించవచ్చు.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding Geothermal energy:\n1. It can be generated from the heat released when magma comes to the earth's surface.\n2. Hot water gushing out through geyser wells can be used to produce thermal energy.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 లేదా 2 ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మాగ్మా ద్వారా విడుదలయ్యే వేడి నుండి మరియు గీజర్ బావుల నుండి వచ్చే వేడి నీటి నుండి కూడా భూతాప శక్తిని పొందవచ్చని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Geothermal energy can be tapped from heat released by magma and also from hot water from geyser wells."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T21-0095",
+   "section": {
+    "te": "Wind Power Location",
+    "en": "Wind Power Location"
+   },
+   "q": {
+    "te": "నాగర్‌కోయిల్ నుండి మదురై వరకు విస్తరించి ఉన్న భారతదేశంలోని అతిపెద్ద పవన విద్యుత్ కేంద్రాల సముదాయం (wind farm cluster) ఏ రాష్ట్రంలో ఉంది?",
+    "en": "In which state is the largest wind farm cluster in India, stretching from Nagarcoil to Madurai, located?"
+   },
+   "options": {
+    "te": [
+     "కర్ణాటక",
+     "గుజరాత్",
+     "తమిళనాడు",
+     "ఆంధ్రప్రదేశ్"
+    ],
+    "en": [
+     "Karnataka",
+     "Gujarat",
+     "Tamil Nadu",
+     "Andhra Pradesh"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్య భాగం ప్రకారం, భారతదేశంలోని అతిపెద్ద పవన విద్యుత్ కేంద్రాల సముదాయం తమిళనాడులో, ప్రత్యేకంగా నాగర్‌కోయిల్ నుండి మదురై వరకు ఉంది.",
+    "en": "The largest wind farm cluster in India is located in Tamil Nadu, specifically from Nagarcoil to Madurai."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T21-0032",
+   "section": {
+    "te": "Sedimentary minerals formation",
+    "en": "Sedimentary minerals formation"
+   },
+   "q": {
+    "te": "శుష్క ప్రాంతాలలో (arid regions) బాష్పీభవనం (evaporation) ఫలితంగా ప్రత్యేకంగా ఏర్పడే అవక్షేపణ ఖనిజాలు (sedimentary minerals) ఏవి?",
+    "en": "Which of the following sedimentary minerals are formed specifically as a result of evaporation in arid regions?"
+   },
+   "options": {
+    "te": [
+     "జిప్సం మరియు పొటాష్ ఉప్పు",
+     "సోడియం ఉప్పు",
+     "A మరియు B రెండూ",
+     "బొగ్గు మరియు ఇనుప ఖనిజం"
+    ],
+    "en": [
+     "Gypsum and Potash salt",
+     "Sodium salt",
+     "Both A and B",
+     "Coal and Iron ore"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "జిప్సం, పొటాష్ ఉప్పు మరియు సోడియం ఉప్పు అనేవి శుష్క ప్రాంతాలలో బాష్పీభవనం ద్వారా ఏర్పడే అవక్షేపణ ఖనిజాలని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Gypsum, potash salt, and sodium salt are sedimentary minerals formed through evaporation in arid regions."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T21-0173",
+   "section": {
+    "te": "Non-Conventional Energy",
+    "en": "Non-Conventional Energy"
+   },
+   "q": {
+    "te": "సాంప్రదాయేతర ఇంధన వనరుల గురించి కింది ప్రకటనలను పరిశీలించండి:\n1. శిలాజ ఇంధనాలతో పోలిస్తే ఇవి మరింత సమానంగా పంపిణీ చేయబడతాయి.\n2. ఇవి పర్యావరణ అనుకూలమైనవి.\nపైన ఇచ్చిన ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about non-conventional energy sources:\n1. They are more equitably distributed compared to fossil fuels.\n2. They are environment-friendly.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సౌర మరియు పవన శక్తి వంటి సాంప్రదాయేతర ఇంధన వనరులు మరింత సమానంగా పంపిణీ చేయబడతాయి మరియు పర్యావరణ అనుకూలమైనవి.",
+    "en": "Non-conventional energy sources like solar and wind are both more equitably distributed and environment-friendly."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T21-0147",
+   "section": {
+    "te": "Ferrous Minerals",
+    "en": "Ferrous Minerals"
+   },
+   "q": {
+    "te": "ఫెర్రస్ ఖనిజాలు ఏ రకమైన పరిశ్రమల అభివృద్ధికి బలమైన పునాదిని అందిస్తాయి?",
+    "en": "Ferrous minerals provide a strong base for the development of which type of industries?"
+   },
+   "options": {
+    "te": [
+     "రసాయన పరిశ్రమలు",
+     "మెటలర్జికల్ (లోహశాస్త్ర) పరిశ్రమలు",
+     "టెక్స్‌టైల్ పరిశ్రమలు",
+     "సిమెంట్ పరిశ్రమలు"
+    ],
+    "en": [
+     "Chemical industries",
+     "Metallurgical industries",
+     "Textile industries",
+     "Cement industries"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఇనుప ఖనిజం మరియు మాంగనీస్ వంటి ఫెర్రస్ ఖనిజాలు మెటలర్జికల్ పరిశ్రమలకు పునాది.",
+    "en": "Ferrous minerals like iron ore and manganese are the base for metallurgical industries."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T21-0140",
+   "section": {
+    "te": "Copper Distribution",
+    "en": "Copper Distribution"
+   },
+   "q": {
+    "te": "క్రింది రాగి గనుల జిల్లాలను వాటి సంబంధిత రాష్ట్రాలతో జతపరచండి:\n1. సింగ్‌భూమ్ - i. రాజస్థాన్\n2. బాలాఘాట్ - ii. జార్ఖండ్\n3. ఝుంఝును - iii. మధ్యప్రదేశ్",
+    "en": "Match the following copper mining districts with their respective states:\n1. Singhbhum - i. Rajasthan\n2. Balaghat - ii. Jharkhand\n3. Jhunjhunu - iii. Madhya Pradesh"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-iii, 3-i",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-i, 3-iii"
+    ],
+    "en": [
+     "1-ii, 2-iii, 3-i",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-i, 3-ii",
+     "1-ii, 2-i, 3-iii"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సింగ్‌భూమ్ జార్ఖండ్‌లో, బాలాఘాట్ మధ్యప్రదేశ్‌లో మరియు ఝుంఝును రాజస్థాన్‌లో ఉన్నాయి.",
+    "en": "Singhbhum is in Jharkhand, Balaghat is in Madhya Pradesh, and Jhunjhunu is in Rajasthan."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T21-0123",
+   "section": {
+    "te": "Mining Profitability",
+    "en": "Mining Profitability"
+   },
+   "q": {
+    "te": "మైనింగ్ లాభదాయకతను ప్రభావితం చేసే కింది అంశాలను పరిశీలించండి:\n1. ఖనిజానికి ఉన్న డిమాండ్\n2. అందుబాటులో ఉన్న సాంకేతికత\n3. మౌలిక సదుపాయాల కోసం మూలధనం\n4. కార్మికులు మరియు రవాణా ఖర్చులు\nవీటిలో ఏవి ఆర్థిక కారకాలుగా వర్గీకరించబడ్డాయి?",
+    "en": "Consider the following factors affecting mining profitability:\n1. Demand for the mineral\n2. Technology available\n3. Capital for infrastructure\n4. Labour and transport costs\nWhich of these are classified as economic factors?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 4 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 4 మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "1 and 4 only",
+     "2 and 3 only",
+     "1, 2 and 4 only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జాబితా చేయబడిన అన్ని అంశాలు—డిమాండ్, సాంకేతికత, మూలధనం మరియు కార్మిక/రవాణా ఖర్చులు—పాఠ్యభాగంలో ఆర్థిక కారకాలుగా స్పష్టంగా వర్గీకరించబడ్డాయి.",
+    "en": "All the listed items—demand, technology, capital, and labour/transport costs—are explicitly categorized as economic factors in the text."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T21-0067",
+   "section": {
+    "te": "Mining hazards",
+    "en": "Mining hazards"
+   },
+   "q": {
+    "te": "గని కార్మికులు ప్రధానంగా ఏ కారణం చేత ఊపిరితిత్తుల వ్యాధులకు (pulmonary diseases) గురవుతారు?",
+    "en": "Miners are particularly vulnerable to pulmonary diseases due to which of the following factors?"
+   },
+   "options": {
+    "te": [
+     "అధిక వాతావరణ పీడనం",
+     "ధూళి మరియు విషపూరిత పొగలను పీల్చడం",
+     "సూర్యరశ్మి లేకపోవడం",
+     "కలుషితమైన త్రాగునీరు"
+    ],
+    "en": [
+     "High atmospheric pressure",
+     "Inhalation of dust and noxious fumes",
+     "Lack of sunlight",
+     "Contaminated drinking water"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "గని పనుల సమయంలో ధూళి మరియు విషపూరిత పొగలను పీల్చడం వల్ల కార్మికులకు ఊపిరితిత్తుల వ్యాధులు వస్తాయి.",
+    "en": "The inhalation of dust and toxic fumes during mining activities leads to pulmonary (lung) diseases among workers."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T21-0027",
+   "section": {
+    "te": "Mineral extraction cost",
+    "en": "Mineral extraction cost"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): ఖనిజాలు లభించే భౌగోళిక నిర్మాణం వాటి వెలికితీత ఖర్చుపై ప్రభావం చూపుతుంది.\nకారణం (R): ఖనిజ ఖనిజాలను (ores) ఎంత సులభంగా తవ్వవచ్చో ఆ నిర్మాణం నిర్ణయిస్తుంది.",
+    "en": "Assertion (A): The cost of extraction of minerals is influenced by the geological formation in which they occur.\nReason (R): The formation determines the relative ease with which mineral ores may be mined."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ సరైనవి మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ సరైనవి కానీ A కి R సరైన వివరణ కాదు",
+     "A సరైనది కానీ R తప్పు",
+     "A తప్పు కానీ R సరైనది"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఖనిజం లభించే నిర్మాణం తవ్వకం యొక్క సౌలభ్యాన్ని నిర్ణయిస్తుందని, ఇది వెలికితీత ఖర్చును నిర్ణయిస్తుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The formation determines the ease of mining, which in turn determines the cost of extraction."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T21-0023",
+   "section": {
+    "te": "Petroleum products",
+    "en": "Petroleum products"
+   },
+   "q": {
+    "te": "సాధారణ టూత్‌పేస్ట్ కిట్‌లోని ఏ భాగాలు పెట్రోలియం నుండి పొందిన ప్లాస్టిక్‌లను ఉపయోగించి తయారు చేయబడతాయి?",
+    "en": "Which components of a typical toothpaste kit are manufactured using plastics derived from petroleum?"
+   },
+   "options": {
+    "te": [
+     "టూత్ బ్రష్",
+     "పేస్ట్ ఉన్న ట్యూబ్",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "The toothbrush",
+     "The tube containing the paste",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "టూత్ బ్రష్ మరియు ట్యూబ్ రెండూ పెట్రోలియం నుండి సేకరించిన ప్లాస్టిక్‌లతో తయారు చేయబడతాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Both the toothbrush and the tube are made of plastics sourced from petroleum."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T21-0109",
+   "section": {
+    "te": "Biogas Benefits",
+    "en": "Biogas Benefits"
+   },
+   "q": {
+    "te": "బయోగ్యాస్ ప్లాంట్ల ద్వారా రైతులకు కలిగే 'రెండు ప్రయోజనాలు' (twin benefits) ఏమిటి?",
+    "en": "What are the 'twin benefits' provided by biogas plants to farmers?"
+   },
+   "options": {
+    "te": [
+     "విద్యుత్ మరియు నీరు",
+     "శక్తి మరియు మెరుగైన నాణ్యత గల ఎరువు",
+     "ఇంధనం మరియు కృత్రిమ ఎరువులు",
+     "ఉష్ణం మరియు పురుగుమందులు"
+    ],
+    "en": [
+     "Electricity and water",
+     "Energy and improved quality of manure",
+     "Fuel and synthetic fertilizer",
+     "Heat and pesticides"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "బయోగ్యాస్ ప్లాంట్లు రైతులకు గృహావసరాలకు శక్తిని మరియు వ్యవసాయానికి మెరుగైన నాణ్యత గల ఎరువును అందిస్తాయి.",
+    "en": "Biogas plants provide farmers with energy for domestic use and an improved quality of manure for agriculture."
+   }
+  }
+ ]
+}

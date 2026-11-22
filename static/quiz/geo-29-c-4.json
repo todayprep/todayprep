@@ -1,0 +1,942 @@
+{
+ "id": "geo-29-c-4",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Natural Resources and Conservation – క్విజ్ 4",
+  "en": "Natural Resources and Conservation – Quiz 4"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T29-0231",
+   "section": {
+    "te": "Indira Gandhi Canal Length",
+    "en": "Indira Gandhi Canal Length"
+   },
+   "q": {
+    "te": "ఇందిరా గాంధీ కెనాల్ వ్యవస్థ యొక్క మొత్తం ప్రణాళికాబద్ధమైన పొడవు ఎంత?",
+    "en": "What is the total planned length of the Indira Gandhi Canal system?"
+   },
+   "options": {
+    "te": [
+     "12,000 కి.మీ",
+     "5,000 కి.మీ",
+     "7,500 కి.మీ",
+     "9,060 కి.మీ"
+    ],
+    "en": [
+     "12,000 km",
+     "5,000 km",
+     "7,500 km",
+     "9,060 km"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఇందిరా గాంధీ కెనాల్ వ్యవస్థ యొక్క మొత్తం ప్రణాళికాబద్ధమైన పొడవు 9,060 కి.మీ.",
+    "en": "The total planned length of the Indira Gandhi Canal system is 9,060 km."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T29-0035",
+   "section": {
+    "te": "Matching terms",
+    "en": "Matching terms"
+   },
+   "q": {
+    "te": "క్రింది పదాలను వాటి వివరణలతో జతపరచండి:\n1. పునరుద్ధరణ - A. కొత్త జీవాన్ని మరియు అభివృద్ధి చెందడానికి పరిస్థితులను సృష్టించే సామర్థ్యం.\n2. పునరుత్పత్తి - B. దేనినైనా దాని అసలు ఆరోగ్యకరమైన స్థితికి తీసుకురావడం.\n3. స్టీవార్డ్‌షిప్ - C. సహజ వనరుల బాధ్యతాయుతమైన మరియు వివేకవంతమైన ఉపయోగం.",
+    "en": "Match the following terms with their descriptions:\n1. Restoration - A. Ability to create new life and conditions for thriving.\n2. Regeneration - B. Returning something to its original healthy state.\n3. Stewardship - C. Responsible and wise use of natural resources."
+   },
+   "options": {
+    "te": [
+     "1-B, 2-A, 3-C",
+     "1-A, 2-B, 3-C",
+     "1-C, 2-A, 3-B",
+     "1-B, 2-C, 3-A"
+    ],
+    "en": [
+     "1-B, 2-A, 3-C",
+     "1-A, 2-B, 3-C",
+     "1-C, 2-A, 3-B",
+     "1-B, 2-C, 3-A"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పునరుద్ధరణ అంటే ఆరోగ్యకరమైన స్థితికి తీసుకురావడం, పునరుత్పత్తి అంటే కొత్త జీవాన్ని సృష్టించడం మరియు స్టీవార్డ్‌షిప్ అంటే వనరుల బాధ్యతాయుతమైన ఉపయోగం.",
+    "en": "Restoration is returning to a healthy state, regeneration is creating new life, and stewardship is the responsible use of resources."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T29-0207",
+   "section": {
+    "te": "Hill Area Programme Coverage",
+    "en": "Hill Area Programme Coverage"
+   },
+   "q": {
+    "te": "ఐదవ పంచవర్ష ప్రణాళిక కాలంలో ప్రారంభించిన కొండ ప్రాంతాల అభివృద్ధి కార్యక్రమాల పరిధిలోకి క్రింది వాటిలో ఏ ప్రాంతాలు/జిల్లాలు వచ్చాయి?",
+    "en": "Which of the following hill regions/districts were covered under the Hill Area Development Programmes initiated during the Fifth Five Year Plan?"
+   },
+   "options": {
+    "te": [
+     "అస్సాంలోని మికిర్ హిల్ మరియు ఉత్తర కాచర్ హిల్స్",
+     "పశ్చిమ బెంగాల్‌లోని డార్జిలింగ్ జిల్లా",
+     "తమిళనాడులోని నీలగిరి జిల్లా",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Mikir Hill and North Cachar hills of Assam",
+     "Darjeeling district of West Bengal",
+     "Nilgiri district of Tamil Nadu",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఈ కార్యక్రమం యుపి కొండ జిల్లాలు, అస్సాంలోని మికిర్ మరియు ఉత్తర కాచర్ హిల్స్, పశ్చిమ బెంగాల్‌లోని డార్జిలింగ్, తమిళనాడులోని నీలగిరితో కలిపి మొత్తం 15 జిల్లాలను చేర్చింది.",
+    "en": "The programme covered 15 districts including the hilly districts of UP, Mikir Hill and North Cachar hills of Assam, Darjeeling of West Bengal, and Nilgiri of Tamil Nadu."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T29-0218",
+   "section": {
+    "te": "Gaddi Winter Migration",
+    "en": "Gaddi Winter Migration"
+   },
+   "q": {
+    "te": "శీతాకాలంలో కూలీ పనుల ద్వారా జీవనోపాధి పొందడానికి గద్ది ప్రజలలో గణనీయమైన విభాగం క్రింది ఏ ప్రాంతానికి వలస వెళతారు?",
+    "en": "During winter, a sizeable section of the Gaddi community migrates to which of the following areas to earn a living through wage labour?"
+   },
+   "options": {
+    "te": [
+     "సిమ్లా మరియు పరిసర ప్రాంతాలు",
+     "లడఖ్ మరియు పరిసర ప్రాంతాలు",
+     "కాంగ్రా మరియు పరిసర ప్రాంతాలు",
+     "డెహ్రాడూన్ మరియు పరిసర ప్రాంతాలు"
+    ],
+    "en": [
+     "Shimla and surrounding areas",
+     "Ladakh and surrounding areas",
+     "Kangra and surrounding areas",
+     "Dehradun and surrounding areas"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "శీతాకాలంలో కూలీ పనుల కోసం గద్ది ప్రజలలో ఎక్కువ భాగం కాంగ్రా మరియు దాని పరిసర ప్రాంతాలకు వలస వెళతారు.",
+    "en": "During winter, a significant section of Gaddis migrate to Kangra and surrounding areas to work as wage labourers."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T29-0042",
+   "section": {
+    "te": "Mendha Lekha forest area",
+    "en": "Mendha Lekha forest area"
+   },
+   "q": {
+    "te": "మెంధా లేఖా ప్రజలు ఎన్ని హెక్టార్ల అడవిని రక్షిస్తున్నారు మరియు స్థిరంగా ఉపయోగిస్తున్నారు?",
+    "en": "How many hectares of forest do the people of Mendha Lekha protect and sustainably utilise?"
+   },
+   "options": {
+    "te": [
+     "1,800 హెక్టార్లు",
+     "1,200 హెక్టార్లు",
+     "2,000 హెక్టార్లు",
+     "1,500 హెక్టార్లు"
+    ],
+    "en": [
+     "1,800 hectares",
+     "1,200 hectares",
+     "2,000 hectares",
+     "1,500 hectares"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మెంధా లేఖాలోని గోండ్ తెగ 1,800 హెక్టార్ల అడవిని రక్షిస్తుంది మరియు స్థిరంగా నిర్వహిస్తుంది.",
+    "en": "The Gond tribe of Mendha Lekha protects and sustainably manages 1,800 hectares of forest."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T29-0191",
+   "section": {
+    "te": "Jal Kranti Abhiyan objective",
+    "en": "Jal Kranti Abhiyan objective"
+   },
+   "q": {
+    "te": "జల్ క్రాంతి అభియాన్ దేని ద్వారా జీవనోపాధి మరియు ఆహార భద్రతను అందించడానికి రూపొందించబడింది?",
+    "en": "The Jal Kranti Abhiyan is designed to provide livelihood and food security through which of the following?"
+   },
+   "options": {
+    "te": [
+     "నేల పరిరక్షణ",
+     "రాయితీ ఎరువులు",
+     "ఇంధన భద్రత",
+     "నీటి భద్రత (Water security)"
+    ],
+    "en": [
+     "Soil conservation",
+     "Subsidized fertilizers",
+     "Energy security",
+     "Water security"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నీటి భద్రత ద్వారా జీవనోపాధి మరియు ఆహార భద్రతను అందించడానికి జల్ క్రాంతి అభియాన్ రూపొందించబడింది.",
+    "en": "The text states: 'Jal Kranti Abhiyan is designed to provide livelihood and food security through water security.'"
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T29-0099",
+   "section": {
+    "te": "Bhopal Lake History",
+    "en": "Bhopal Lake History"
+   },
+   "q": {
+    "te": "తన కాలంలోనే అతిపెద్ద కృత్రిమ సరస్సులలో ఒకటిగా పేరుగాంచిన భోపాల్ సరస్సు ఏ శతాబ్దంలో నిర్మించబడింది?",
+    "en": "In which century was the Bhopal Lake, one of the largest artificial lakes of its time, built?"
+   },
+   "options": {
+    "te": [
+     "14వ శతాబ్దం",
+     "10వ శతాబ్దం",
+     "13వ శతాబ్దం",
+     "11వ శతాబ్దం"
+    ],
+    "en": [
+     "14th Century",
+     "10th Century",
+     "13th Century",
+     "11th Century"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భోపాల్ సరస్సు 11వ శతాబ్దంలో నిర్మించబడింది మరియు ఆ కాలంలోని అతిపెద్ద కృత్రిమ సరస్సులలో ఒకటిగా పరిగణించబడింది.",
+    "en": "Bhopal Lake was constructed in the 11th Century and was considered one of the largest artificial lakes of that period."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T29-0169",
+   "section": {
+    "te": "Local Governance Consensus",
+    "en": "Local Governance Consensus"
+   },
+   "q": {
+    "te": "రాలెగాన్ సిద్ధిలోని స్థానిక పాలన మరియు సామాజిక నిబంధనలకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. స్థానిక సంస్థల ఎన్నికలన్నీ ఏకాభిప్రాయం ఆధారంగా జరగడం ప్రారంభించాయి.\n2. పప్పుధాన్యాలు మరియు నూనెగింజల వంటి పంటల సాగు పూర్తిగా నిషేధించబడింది.\nపై ప్రకటనలలో ఏది సరైనది/సరైనవి?",
+    "en": "Consider the following statements regarding the local governance and community rules in Ralegan Siddhi:\n1. All elections to local bodies began to be held on the basis of consensus.\n2. Cultivation of crops such as pulses and oilseeds was completely prohibited.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "స్థానిక సంస్థల ఎన్నికలు ఏకాభిప్రాయంతో జరిగాయి కాబట్టి 1వ ప్రకటన సరైనది. పప్పుధాన్యాలు, నూనెగింజల సాగును ప్రోత్సహించారు కాబట్టి 2వ ప్రకటన తప్పు.",
+    "en": "Statement 1 is correct as local body elections were held on consensus. Statement 2 is incorrect because pulses and oilseeds were encouraged, not prohibited."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T29-0240",
+   "section": {
+    "te": "Jhabua Agro-Climatic Zone",
+    "en": "Jhabua Agro-Climatic Zone"
+   },
+   "q": {
+    "te": "వాటర్‌షెడ్ నిర్వహణ కార్యక్రమానికి ప్రసిద్ధి చెందిన ఝాబువా జిల్లా, మధ్యప్రదేశ్‌లోని ఏ వ్యవసాయ-వాతావరణ మండలంలో ఉంది?",
+    "en": "Jhabua district, noted for its watershed management programme, is situated in which agro-climatic zone of Madhya Pradesh?"
+   },
+   "options": {
+    "te": [
+     "ఉత్తరాగ్ర వ్యవసాయ-వాతావరణ మండలం",
+     "దక్షిణ వ్యవసాయ-వాతావరణ మండలం",
+     "తూర్పు వ్యవసాయ-వాతావరణ మండలం",
+     "పశ్చిమాగ్ర వ్యవసాయ-వాతావరణ మండలం"
+    ],
+    "en": [
+     "Northernmost agro-climatic zone",
+     "Southernmost agro-climatic zone",
+     "Easternmost agro-climatic zone",
+     "Westernmost agro-climatic zone"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, ఝాబువా జిల్లా మధ్యప్రదేశ్‌లోని పశ్చిమాగ్ర వ్యవసాయ-వాతావరణ మండలంలో ఉంది.",
+    "en": "Jhabua district is located in the westernmost agro-climatic zone in Madhya Pradesh."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T29-0220",
+   "section": {
+    "te": "Indira Gandhi Canal Launch",
+    "en": "Indira Gandhi Canal Launch"
+   },
+   "q": {
+    "te": "ఇందిరా గాంధీ కెనాల్ ప్రాజెక్ట్ అధికారికంగా ఏ తేదీన ప్రారంభించబడింది?",
+    "en": "On which date was the Indira Gandhi Canal project officially launched?"
+   },
+   "options": {
+    "te": [
+     "15 ఆగస్టు 1947",
+     "26 జనవరి 1950",
+     "31 మార్చి 1958",
+     "02 అక్టోబర్ 1960"
+    ],
+    "en": [
+     "15 August 1947",
+     "26 January 1950",
+     "31 March 1958",
+     "02 October 1960"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఇందిరా గాంధీ కెనాల్ ప్రాజెక్ట్ 31 మార్చి 1958న ప్రారంభించబడింది.",
+    "en": "The Indira Gandhi Canal project was launched on 31 March 1958."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T29-0097",
+   "section": {
+    "te": "Ancient Hydraulic Structures",
+    "en": "Ancient Hydraulic Structures"
+   },
+   "q": {
+    "te": "పురావస్తు మరియు చారిత్రక ఆధారాల ప్రకారం, ప్రాచీన భారతదేశంలో క్రింది ఏ అధునాతన జల నిర్మాణాలు నిర్మించబడ్డాయి?",
+    "en": "According to archaeological and historical records, which of the following sophisticated hydraulic structures were constructed in ancient India?"
+   },
+   "options": {
+    "te": [
+     "రాతితో నిర్మించిన ఆనకట్టలు",
+     "జలాశయాలు లేదా సరస్సులు",
+     "కరకట్టలు మరియు కాలువలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Dams built of stone rubble",
+     "Reservoirs or lakes",
+     "Embankments and canals",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ప్రాచీన భారతదేశంలో రాతి ఆనకట్టలు, జలాశయాలు/సరస్సులు, కరకట్టలు మరియు సాగునీటి కాలువలు వంటి అధునాతన నిర్మాణాలన్నీ చేపట్టబడ్డాయి.",
+    "en": "Records show that ancient India constructed dams built of stone rubble, reservoirs or lakes, as well as embankments and canals for irrigation."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T29-0215",
+   "section": {
+    "te": "Concept of Development 1970s",
+    "en": "Concept of Development 1970s"
+   },
+   "q": {
+    "te": "అభివృద్ధి నిర్వచనంలో 'వృద్ధి ద్వారా పునర్విభజన' (redistribution with growth) మరియు 'వృద్ధి మరియు సమానత్వం' (growth and equity) వంటి భావనలు ఏ దశాబ్దంలో చేర్చబడ్డాయి?",
+    "en": "In which decade were the phrases 'redistribution with growth' and 'growth and equity' incorporated into the definition of development?"
+   },
+   "options": {
+    "te": [
+     "1970ల కాలంలో",
+     "1960ల కాలంలో",
+     "1950ల కాలంలో",
+     "1980ల కాలంలో"
+    ],
+    "en": [
+     "1970s",
+     "1960s",
+     "1950s",
+     "1980s"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "1970ల కాలంలో 'వృద్ధి ద్వారా పునర్విభజన' మరియు 'వృద్ధి మరియు సమానత్వం' వంటి పదాలు అభివృద్ధి నిర్వచనంలో భాగమయ్యాయి.",
+    "en": "In the 1970s, phrases such as 'redistribution with growth' and 'growth and equity' were incorporated into the definition of development."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T29-0082",
+   "section": {
+    "te": "Water scarcity projection",
+    "en": "Water scarcity projection"
+   },
+   "q": {
+    "te": "2025 నాటికి ప్రపంచవ్యాప్తంగా దాదాపు ఎంత మంది ప్రజలు తీవ్రమైన నీటి కొరతతో (absolute water scarcity) జీవిస్తారని అంచనా వేయబడింది?",
+    "en": "By the year 2025, how many people are predicted to live in absolute water scarcity?"
+   },
+   "options": {
+    "te": [
+     "దాదాపు 2 బిలియన్లు",
+     "దాదాపు 1 బిలియన్",
+     "దాదాపు 3 బిలియన్లు",
+     "దాదాపు 500 మిలియన్లు"
+    ],
+    "en": [
+     "Nearly two billion",
+     "Nearly one billion",
+     "Nearly three billion",
+     "Nearly 500 million"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "2025 నాటికి ప్రపంచవ్యాప్తంగా దాదాపు 2 బిలియన్ల మంది ప్రజలు తీవ్రమైన నీటి కొరతను ఎదుర్కొంటారని అంచనా వేయబడింది.",
+    "en": "It is predicted that by the year 2025, nearly two billion people across the globe will live in absolute water scarcity."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T29-0120",
+   "section": {
+    "te": "Distance between Shillong and Cherapunjee",
+    "en": "Distance between Shillong and Cherapunjee"
+   },
+   "q": {
+    "te": "ప్రపంచంలోనే అత్యధిక వర్షపాతం నమోదయ్యే చిరపుంజి మరియు మాసిన్‌రామ్ మేఘాలయ రాజధాని షిల్లాంగ్ నుండి ఎంత దూరంలో ఉన్నాయి?",
+    "en": "Cherapunjee and Mawsynram, which receive the highest rainfall in the world, are situated at what distance from Meghalaya's state capital, Shillong?"
+   },
+   "options": {
+    "te": [
+     "40 కి.మీ.",
+     "55 కి.మీ.",
+     "25 కి.మీ.",
+     "80 కి.మీ."
+    ],
+    "en": [
+     "40 km",
+     "55 km",
+     "25 km",
+     "80 km"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "షిల్లాంగ్ నుండి కేవలం 55 కి.మీ. దూరంలో ఉన్న చిరపుంజి, మాసిన్‌రామ్‌లలో ప్రపంచంలోనే అత్యధిక వర్షపాతం పడుతున్నప్పటికీ, షిల్లాంగ్ తీవ్ర నీటి ఎద్దడిని ఎదుర్కొంటోంది.",
+    "en": "Cherapunjee and Mawsynram are located at a distance of 55 km from Shillong, which still experiences acute water shortages."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T29-0223",
+   "section": {
+    "te": "Indira Gandhi Canal Irrigation",
+    "en": "Indira Gandhi Canal Irrigation"
+   },
+   "q": {
+    "te": "ఇందిరా గాంధీ కెనాల్ మొత్తం కమాండ్ ఏరియాలో ఎంత శాతం ఫ్లో సిస్టమ్ (ప్రవాహ వ్యవస్థ) ద్వారా సాగు చేయాలని ప్రణాళిక చేయబడింది?",
+    "en": "What percentage of the total command area of the Indira Gandhi Canal was planned to be irrigated by the flow system?"
+   },
+   "options": {
+    "te": [
+     "70 శాతం",
+     "90 శాతం",
+     "50 శాతం",
+     "30 శాతం"
+    ],
+    "en": [
+     "70 per cent",
+     "90 per cent",
+     "50 per cent",
+     "30 per cent"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రాజెక్ట్ ప్లాన్ ప్రకారం, కమాండ్ ఏరియాలో 70 శాతం ప్రవాహ వ్యవస్థ ద్వారా మరియు మిగిలినది లిఫ్ట్ సిస్టమ్ ద్వారా సాగు చేయాల్సి ఉంది.",
+    "en": "According to the project plan, 70 per cent of the command area was to be irrigated by the flow system and 30 per cent by the lift system."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T29-0103",
+   "section": {
+    "te": "Damodar River",
+    "en": "Damodar River"
+   },
+   "q": {
+    "te": "దామోదర్ లోయ ప్రాంతంలో వరదల వల్ల కలిగే ఇబ్బందుల కారణంగా సాంప్రదాయకంగా ఏ నదిని 'దుఃఖదాయక నది' (river of sorrow) అని పిలుస్తారు?",
+    "en": "Which river is traditionally known as the 'river of sorrow' due to the troubles caused by its flooding in the Damodar valley region?"
+   },
+   "options": {
+    "te": [
+     "సట్లెజ్",
+     "గంగా",
+     "మహానది",
+     "దామోదర్"
+    ],
+    "en": [
+     "Sutluj",
+     "Ganga",
+     "Mahanadi",
+     "Damodar"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "దామోదర్ నది లోయలోని ప్రజలకు తరచుగా వరదల వల్ల కలిగే కష్టాల కారణంగా దీనిని 'దుఃఖదాయక నది' అని పిలుస్తారు.",
+    "en": "The Damodar river is known as the 'river of sorrow' because of the frequent flooding that causes distress to the people in its valley."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T29-0151",
+   "section": {
+    "te": "Water Harvesting Policy",
+    "en": "Water Harvesting Policy"
+   },
+   "q": {
+    "te": "ప్రతి భవన నిర్మాణంలో నీటి సంరక్షణ నిర్మాణాలను (water harvesting structures) చేర్చడం ఏ భారతీయ రాష్ట్రంలో చట్టబద్ధంగా తప్పనిసరి?",
+    "en": "In which Indian state is it legally mandatory to include water harvesting structures in every building construction?"
+   },
+   "options": {
+    "te": [
+     "మహారాష్ట్ర",
+     "తమిళనాడు",
+     "రాజస్థాన్",
+     "ఆంధ్రప్రదేశ్"
+    ],
+    "en": [
+     "Maharashtra",
+     "Tamil Nadu",
+     "Rajasthan",
+     "Andhra Pradesh"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "తమిళనాడు అన్ని భవనాలకు నీటి సంరక్షణ నిర్మాణాలను తప్పనిసరి చేసింది.",
+    "en": "Tamil Nadu has made water harvesting structures compulsory for all buildings."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T29-0133",
+   "section": {
+    "te": "Rural Forestry Components",
+    "en": "Rural Forestry Components"
+   },
+   "q": {
+    "te": "గ్రామీణ అటవీ పెంపకం (Rural forestry) ప్రత్యేకంగా ఏ రెండు రకాల అటవీ పెంపకాన్ని ప్రోత్సహించడంపై నొక్కి చెబుతుంది?",
+    "en": "Rural forestry specifically emphasizes the promotion of which two types of forestry?"
+   },
+   "options": {
+    "te": [
+     "పట్టణ అటవీ పెంపకం మరియు ఫామ్ అటవీ పెంపకం",
+     "అగ్రో-ఫారెస్ట్రీ మరియు కమ్యూనిటీ-ఫారెస్ట్రీ",
+     "పారిశ్రామిక అటవీ పెంపకం మరియు వాణిజ్య అటవీ పెంపకం",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Urban forestry and Farm forestry",
+     "Agro-forestry and Community-forestry",
+     "Industrial forestry and Commercial forestry",
+     "None of these"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "గ్రామీణ అటవీ పెంపకం అగ్రో-ఫారెస్ట్రీ మరియు కమ్యూనిటీ-ఫారెస్ట్రీని ప్రోత్సహించడంపై దృష్టి పెడుతుందని పాఠ్య భాగం పేర్కొంది.",
+    "en": "Rural forestry focuses on the promotion of agro-forestry and community-forestry."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T29-0221",
+   "section": {
+    "te": "Indira Gandhi Canal Location",
+    "en": "Indira Gandhi Canal Location"
+   },
+   "q": {
+    "te": "ఇందిరా గాంధీ కెనాల్‌కు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది పంజాబ్‌లోని హరికే బ్యారేజీ వద్ద ప్రారంభమవుతుంది.\n2. ఇది పాకిస్తాన్ సరిహద్దుకు సమాంతరంగా సగటున 40 కి.మీ దూరంలో ప్రవహిస్తుంది.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the Indira Gandhi Canal:\n1. It originates at the Harike barrage in Punjab.\n2. It runs parallel to the Pakistan border at an average distance of 40 km.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఈ కాలువ పంజాబ్‌లోని హరికే బ్యారేజీ వద్ద ప్రారంభమవుతుంది మరియు థార్ ఎడారిలో పాకిస్తాన్ సరిహద్దుకు సమాంతరంగా సగటున 40 కి.మీ దూరంలో ప్రవహిస్తుంది.",
+    "en": "The canal originates at Harike barrage in Punjab and runs parallel to the Pakistan border at an average distance of 40 km in the Thar Desert."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T29-0044",
+   "section": {
+    "te": "Urban groundwater crisis",
+    "en": "Urban groundwater crisis"
+   },
+   "q": {
+    "te": "భూగర్భ జలాలకు సంబంధించి అనేక అభివృద్ధి చెందుతున్న నగరాలకు ఊహించిన పరిణామం ఏమిటి?",
+    "en": "What is the predicted consequence for many growing cities regarding groundwater?"
+   },
+   "options": {
+    "te": [
+     "వెలికితీత ఖర్చు తగ్గుతుంది",
+     "నీటి మట్టం స్వయంచాలకంగా పెరుగుతుంది",
+     "అవి అదనపు నీటిని కలిగి ఉంటాయి",
+     "అవి త్వరలో భూగర్భ జలాలను కోల్పోతాయి"
+    ],
+    "en": [
+     "The cost of extraction will decrease",
+     "The water table will replenish automatically",
+     "They will have surplus water",
+     "They will run out of groundwater soon"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అధిక వెలికితీత రేట్ల కారణంగా, అనేక అభివృద్ధి చెందుతున్న నగరాలు త్వరలో భూగర్భ జలాల పూర్తి క్షీణతను ఎదుర్కొంటాయని అంచనా వేయబడింది.",
+    "en": "Due to high extraction rates, it is predicted that many growing cities will soon face a complete depletion of groundwater."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T29-0087",
+   "section": {
+    "te": "Atal Bhujal Yojana",
+    "en": "Atal Bhujal Yojana"
+   },
+   "q": {
+    "te": "భారతదేశంలో అటల్ భూజల్ యోజన (అటల్ జల్) ఎన్ని రాష్ట్రాలలో అమలు చేయబడుతోంది?",
+    "en": "Across how many states in India is the Atal Bhujal Yojana (Atal Jal) currently being implemented?"
+   },
+   "options": {
+    "te": [
+     "15 రాష్ట్రాలు",
+     "10 రాష్ట్రాలు",
+     "7 రాష్ట్రాలు",
+     "12 రాష్ట్రాలు"
+    ],
+    "en": [
+     "15 states",
+     "10 states",
+     "7 states",
+     "12 states"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అటల్ భూజల్ యోజన గుజరాత్, హర్యానా, కర్ణాటక, మధ్యప్రదేశ్, మహారాష్ట్ర, రాజస్థాన్ మరియు ఉత్తరప్రదేశ్ అనే ఏడు రాష్ట్రాలలో అమలు చేయబడుతోంది.",
+    "en": "Atal Bhujal Yojana is being implemented across seven states: Gujarat, Haryana, Karnataka, Madhya Pradesh, Maharashtra, Rajasthan, and Uttar Pradesh."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T29-0205",
+   "section": {
+    "te": "Hill Area Development Plan",
+    "en": "Hill Area Development Plan"
+   },
+   "q": {
+    "te": "కొండ ప్రాంతాల అభివృద్ధి కార్యక్రమాలు (Hill Area Development Programmes) ఏ పంచవర్ష ప్రణాళిక కాలంలో ప్రారంభించబడ్డాయి?",
+    "en": "During which Five Year Plan were the Hill Area Development Programmes initiated?"
+   },
+   "options": {
+    "te": [
+     "ఆరవ పంచవర్ష ప్రణాళిక",
+     "ఏడవ పంచవర్ష ప్రణాళిక",
+     "ఐదవ పంచవర్ష ప్రణాళిక",
+     "మూడవ పంచవర్ష ప్రణాళిక"
+    ],
+    "en": [
+     "Sixth Five Year Plan",
+     "Seventh Five Year Plan",
+     "Fifth Five Year Plan",
+     "Third Five Year Plan"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వివిధ రాష్ట్రాల్లోని 15 కొండ ప్రాంత జిల్లాలను కలుపుతూ ఐదవ పంచవర్ష ప్రణాళిక కాలంలో కొండ ప్రాంతాల అభివృద్ధి కార్యక్రమాలు ప్రారంభించబడ్డాయి.",
+    "en": "The Hill Area Development Programmes were initiated during the Fifth Five Year Plan covering 15 hilly districts across various states."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T29-0020",
+   "section": {
+    "te": "Regeneration vs Restoration",
+    "en": "Regeneration vs Restoration"
+   },
+   "q": {
+    "te": "ప్రకృతి సూత్రాలకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. పునరుద్ధరణ అంటే దేనినైనా దాని అసలు ఆరోగ్యకరమైన స్థితికి తీసుకురావడం.\n2. పునరుత్పత్తి అనేది పునరుద్ధరణ ప్రక్రియకు మాత్రమే పరిమితం.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding Nature's principles:\n1. Restoration involves returning something to its original healthy state.\n2. Regeneration is limited only to the process of restoration.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పునరుద్ధరణ అంటే దేనినైనా దాని ఆరోగ్యకరమైన స్థితికి తీసుకురావడం అని పాఠ్యం పేర్కొంది, అయితే పునరుత్పత్తి అనేది కొత్త జీవాన్ని సృష్టించడం కాబట్టి ఇది పునరుద్ధరణ కంటే విస్తృతమైనది.",
+    "en": "Restoration is returning something to its healthy state, but regeneration goes beyond restoration as it involves creating new life."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T29-0222",
+   "section": {
+    "te": "Indira Gandhi Canal Stage-II",
+    "en": "Indira Gandhi Canal Stage-II"
+   },
+   "q": {
+    "te": "ఇందిరా గాంధీ కెనాల్ యొక్క స్టేజ్-II కమాండ్ ఏరియా కింద క్రింది జిల్లాలలో ఏవి ఉన్నాయి?",
+    "en": "Which of the following districts are covered under the Stage-II command area of the Indira Gandhi Canal?"
+   },
+   "options": {
+    "te": [
+     "బికనీర్ మరియు జైసల్మేర్",
+     "బార్మర్ మరియు జోధ్‌పూర్",
+     "నాగౌర్ మరియు చురు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Bikaner and Jaisalmer",
+     "Barmer and Jodhpur",
+     "Nagaur and Churu",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "స్టేజ్-II కమాండ్ ఏరియా బికనీర్, జైసల్మేర్, బార్మర్, జోధ్‌పూర్, నాగౌర్ మరియు చురు జిల్లాల్లో విస్తరించి ఉంది.",
+    "en": "The Stage-II command area covers Bikaner, Jaisalmer, Barmer, Jodhpur, Nagaur, and Churu districts."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T29-0009",
+   "section": {
+    "te": "Life-essential resources",
+    "en": "Life-essential resources"
+   },
+   "q": {
+    "te": "జీవనానికి అవసరమైన కింది వనరులలో మానవులు తయారు చేయలేనివిగా వేటిని పేర్కొన్నారు?",
+    "en": "Which of the following resources essential for life are mentioned as things humans CANNOT make?"
+   },
+   "options": {
+    "te": [
+     "గాలి మరియు నీరు",
+     "నేల (Soil)",
+     "A మరియు B రెండూ",
+     "ఫర్నిచర్ మరియు విగ్రహాలు"
+    ],
+    "en": [
+     "Air and Water",
+     "Soil",
+     "Both A and B",
+     "Furniture and Statuettes"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మనం పీల్చే గాలిని, తాగే నీటిని లేదా నేలను మానవులు తయారు చేయలేరని పాఠ్యభాగం స్పష్టంగా పేర్కొంది.",
+    "en": "Humans cannot make the air we breathe, the water we drink, or the soil."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T29-0243",
+   "section": {
+    "te": "Jhabua Treated Area",
+    "en": "Jhabua Treated Area"
+   },
+   "q": {
+    "te": "గ్రామీణాభివృద్ధి మంత్రిత్వ శాఖ నిధులతో ఐదేళ్ల కాలంలో ఝాబువా జిల్లా మొత్తం విస్తీర్ణంలో ఎంత శాతం విస్తీర్ణం అభివృద్ధి చేయబడింది (ట్రీట్ చేయబడింది)?",
+    "en": "What percentage of the total area in Jhabua district was treated over a five-year period by programmes funded by the Ministry of Rural Development?"
+   },
+   "options": {
+    "te": [
+     "10 శాతం",
+     "25 శాతం",
+     "15 శాతం",
+     "20 శాతం"
+    ],
+    "en": [
+     "10 per cent",
+     "25 per cent",
+     "15 per cent",
+     "20 per cent"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "గ్రామీణాభివృద్ధి మంత్రిత్వ శాఖ సమకూర్చిన నిధులతో రాజీవ్ గాంధీ మిషన్ ద్వారా ఝాబువా జిల్లా మొత్తం విస్తీర్ణంలో 20 శాతం భూమి అభివృద్ధి చేయబడింది.",
+    "en": "Programmes funded by the Ministry of Rural Development treated 20 per cent of the total area under Jhabua district."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T29-0037",
+   "section": {
+    "te": "Zabo system Nagaland",
+    "en": "Zabo system Nagaland"
+   },
+   "q": {
+    "te": "నేల మరియు నీటి సంరక్షణ కోసం సమగ్ర వ్యవసాయ విధానమైన 'జాబో వ్యవస్థ' ఏ రాష్ట్రంలో అమలులో ఉంది?",
+    "en": "The Zabo system, an integrated farming approach for soil and water conservation, is practiced in which state?"
+   },
+   "options": {
+    "te": [
+     "మిజోరం",
+     "నాగాలాండ్",
+     "అరుణాచల్ ప్రదేశ్",
+     "మేఘాలయ"
+    ],
+    "en": [
+     "Mizoram",
+     "Nagaland",
+     "Arunachal Pradesh",
+     "Meghalaya"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "జాబో వ్యవస్థ అనేది నాగాలాండ్‌లో నేల మరియు నీటి సంరక్షణ కోసం ఉపయోగించే ఒక సాంప్రదాయ సమగ్ర వ్యవసాయ విధానం.",
+    "en": "The Zabo system is a traditional integrated farming approach used in Nagaland for soil and water conservation."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T29-0219",
+   "section": {
+    "te": "Indira Gandhi Canal",
+    "en": "Indira Gandhi Canal"
+   },
+   "q": {
+    "te": "1948లో ఇందిరా గాంధీ కెనాల్ ప్రాజెక్టును ఎవరు రూపొందించారు?",
+    "en": "Who conceived the Indira Gandhi Canal project in 1948?"
+   },
+   "options": {
+    "te": [
+     "మహాత్మా గాంధీ",
+     "కన్వర్ సైన్",
+     "జవహర్‌లాల్ నెహ్రూ",
+     "సర్దార్ పటేల్"
+    ],
+    "en": [
+     "Mahatma Gandhi",
+     "Kanwar Sain",
+     "Jawaharlal Nehru",
+     "Sardar Patel"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఇందిరా గాంధీ కెనాల్ ప్రాజెక్టును 1948లో కన్వర్ సైన్ రూపొందించారు.",
+    "en": "The Indira Gandhi Canal project was conceived by Kanwar Sain in 1948."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T29-0203",
+   "section": {
+    "te": "Review of Drought Prone Programme",
+    "en": "Review of Drought Prone Programme"
+   },
+   "q": {
+    "te": "కరవు పీడిత ప్రాంతాల కార్యక్రమ పనితీరును సమీక్షించిన కమిటీ ఏది?",
+    "en": "Which committee reviewed the performance of the Drought Prone Area Programme?"
+   },
+   "options": {
+    "te": [
+     "వెనుకబడిన ప్రాంతాల అభివృద్ధిపై జాతీయ కమిటీ (National Committee on Development of Backward Areas)",
+     "ప్రాంతీయ మౌలిక సదుపాయాల కమిటీ",
+     "గ్రామీణ పునర్నిర్మాణంపై జాతీయ కమిటీ",
+     "రైతులపై జాతీయ కమిషన్"
+    ],
+    "en": [
+     "National Committee on Development of Backward Areas",
+     "Committee on Regional Infrastructure",
+     "National Committee on Rural Restructuring",
+     "National Commission on Farmers"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వెనుకబడిన ప్రాంతాల అభివృద్ధిపై ఏర్పాటైన జాతీయ కమిటీ (National Committee on Development of Backward Areas) ఈ కార్యక్రమ పనితీరును సమీక్షించింది.",
+    "en": "The performance of the programme was reviewed by the National Committee on Development of Backward Areas."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T29-0138",
+   "section": {
+    "te": "Desalinisation Constraints",
+    "en": "Desalinisation Constraints"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): భారతదేశ తక్షణ అవసరాలకు సముద్రం లేదా మహాసముద్రం నుండి నీటి లభ్యత తక్కువగా పరిగణించబడుతుంది.\nకారణం (R): సముద్రపు నీటిని ఉప్పు తొలగించే (desalinisation) ఖర్చు చాలా ఎక్కువగా ఉంటుంది.",
+    "en": "Assertion (A): Water availability from the sea or ocean is considered negligible for India's immediate needs.\nReason (R): The cost of desalinisation of sea water is very high."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సముద్రపు నీటి లభ్యత 'తక్కువ'గా ఉండటానికి ఉప్పు తొలగింపు ప్రక్రియతో కూడిన అధిక ఖర్చు కారణమని పాఠ్య భాగం స్పష్టంగా పేర్కొంది.",
+    "en": "The text explicitly links the 'negligible' status of sea water availability to the high cost associated with desalinisation."
+   }
+  }
+ ]
+}

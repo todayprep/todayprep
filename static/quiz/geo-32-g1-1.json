@@ -1,0 +1,942 @@
+{
+ "id": "geo-32-g1-1",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Economic Activities and Sectors – క్విజ్ 1",
+  "en": "Economic Activities and Sectors – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T32-0004",
+   "section": {
+    "te": "Commercial Gathering Products",
+    "en": "Commercial Gathering Products"
+   },
+   "q": {
+    "te": "చుయింగ్‌గమ్‌లో రుచి పోయిన తర్వాత మిగిలే భాగమైన 'చికిల్' (Chicle) ఏ చెట్టు యొక్క పాల రసం నుండి తయారవుతుంది?",
+    "en": "Chicle, the part of chewing gum remaining after the flavour is gone, is extracted from the milky juice of which tree?"
+   },
+   "options": {
+    "te": [
+     "సపోటా (zapota) చెట్టు",
+     "కార్క్ ఓక్ చెట్టు",
+     "రబ్బరు చెట్టు",
+     "సింకోనా చెట్టు"
+    ],
+    "en": [
+     "Zapota tree",
+     "Cork oak tree",
+     "Rubber tree",
+     "Cinchona tree"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఫ్లేవర్ పోయిన తర్వాత ఉండే చుయింగ్‌గమ్ భాగాన్ని చికిల్ అంటారు, ఇది సపోటా (zapota) చెట్టు పాల వంటి రసం నుండి లభిస్తుంది.",
+    "en": "Chicle is made from the milky juice of the zapota tree."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T32-0045",
+   "section": {
+    "te": "Medical Tourism in India",
+    "en": "Medical Tourism in India"
+   },
+   "q": {
+    "te": "2005 సంవత్సరంలో చికిత్స కోసం యు.ఎస్.ఎ (U.S.A.) నుండి భారతదేశాన్ని సుమారు ఎంతమంది రోగులు సందర్శించారు?",
+    "en": "About how many patients from the U.S.A. visited India for medical treatment in the year 2005?"
+   },
+   "options": {
+    "te": [
+     "సుమారు 35,000",
+     "సుమారు 95,000",
+     "సుమారు 55,000",
+     "సుమారు 15,000"
+    ],
+    "en": [
+     "About 35,000",
+     "About 95,000",
+     "About 55,000",
+     "About 15,000"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "2005లో చికిత్స కోసం అమెరికా నుండి దాదాపు 55,000 మంది రోగులు భారతదేశాన్ని సందర్శించారు.",
+    "en": "About 55,000 patients from the U.S.A. visited India in 2005 for treatment."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T32-0017",
+   "section": {
+    "te": "Economic Activities Definition",
+    "en": "Economic Activities Definition"
+   },
+   "q": {
+    "te": "ఆదాయాన్ని సమకూర్చే మానవ కార్యకలాపాలను ఏమని పిలుస్తారు?",
+    "en": "What are human activities that generate income called?"
+   },
+   "options": {
+    "te": [
+     "సామాజిక కార్యకలాపాలు",
+     "సాంస్కృతిక కార్యకలాపాలు",
+     "ఆర్థిక కార్యకలాపాలు",
+     "రాజకీయ కార్యకలాపాలు"
+    ],
+    "en": [
+     "Social activities",
+     "Cultural activities",
+     "Economic activities",
+     "Political activities"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఆదాయాన్ని ఆర్జించే మానవ కార్యకలాపాలను ఆర్థిక కార్యకలాపాలు అంటారు.",
+    "en": "Human activities that generate income are known as economic activities."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T32-0088",
+   "section": {
+    "te": "Olden transport trade",
+    "en": "Olden transport trade"
+   },
+   "q": {
+    "te": "ప్రాచీన కాలంలో సమర్థవంతమైన రవాణా సాధనాలు లేకపోవడం వల్ల సుదూర ప్రాంతాల మధ్య వాణిజ్యం ప్రధానంగా వేటికి పరిమితమైంది?",
+    "en": "In olden times, lack of adequate and efficient means of transport restricted long-distance trade primarily to which type of items?"
+   },
+   "options": {
+    "te": [
+     "త్వరగా పాడైపోయే ఆహార ధాన్యాలు మరియు పశువులు",
+     "రత్నాలు, పట్టు మరియు సుగంధ ద్రవ్యాలు వంటి అధిక విలువైన వస్తువులు",
+     "ఇనుము మరియు రాగి వంటి భారీ ఖనిజ ధాతువులు",
+     "నిర్మాణ కలప మరియు రాళ్ళు"
+    ],
+    "en": [
+     "Perishable food grains and cattle",
+     "High value items like gems, silk, and spices",
+     "Bulky mineral ores like iron and copper",
+     "Construction timber and building stones"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రాచీన కాలంలో తగిన రవాణా సాధనాలు లేనందున సుదూర ప్రాంతాలకు రత్నాలు, పట్టు మరియు సుగంధ ద్రవ్యాల వంటి అధిక విలువైన వస్తువులను మాత్రమే రవాణా చేసేవారు.",
+    "en": "Due to poor transport facilities in earlier times, trade over long distances was limited only to high-value goods like gems, silk, and spices."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T32-0079",
+   "section": {
+    "te": "Post-Industrial Revolution prices",
+    "en": "Post-Industrial Revolution prices"
+   },
+   "q": {
+    "te": "పారిశ్రామిక విప్లవం తర్వాత, తయారీ వస్తువులతో (manufactured goods) పోల్చితే ధాన్యాలు, మాంసం, ఉన్ని వంటి ముడి పదార్థాల ద్రవ్య విలువ ఏ విధంగా మారింది?",
+    "en": "After the Industrial Revolution, what happened to the monetary value of raw materials such as grains, meat, and wool in relation to manufactured goods?"
+   },
+   "options": {
+    "te": [
+     "ఎటువంటి మార్పు లేకుండా స్థిరంగా ఉంది",
+     "ఎటువంటి ధోరణి లేకుండా హెచ్చుతగ్గులకు లోనైంది",
+     "క్షీణించింది (తగ్గింది)",
+     "గణనీయంగా పెరిగింది"
+    ],
+    "en": [
+     "It remained constant",
+     "It fluctuated unpredictably without any trend",
+     "It declined",
+     "It increased significantly"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పారిశ్రామిక విప్లవం తర్వాత ముడి పదార్థాల డిమాండ్ పెరిగినప్పటికీ, తయారీ వస్తువులతో పోలిస్తే వాటి ద్రవ్య విలువ తగ్గింది.",
+    "en": "After the Industrial Revolution, while demand for raw materials expanded, their monetary value declined in relation to manufactured goods."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T32-0104",
+   "section": {
+    "te": "Occupational structure trends",
+    "en": "Occupational structure trends"
+   },
+   "q": {
+    "te": "భారతదేశ వృత్తిపరమైన నిర్మాణం గురించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ద్వితీయ మరియు తృతీయ రంగాలతో పోలిస్తే ప్రాథమిక రంగ శ్రామికుల నిష్పత్తి చాలా ఎక్కువగా ఉంది.\n2. మూడు రంగాలలోనూ స్త్రీ శ్రామికుల కంటే పురుష శ్రామికుల సంఖ్య ఎక్కువగా ఉంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the occupational structure of India:\n1. Primary sector workers constitute a large proportion of the working population compared to secondary and tertiary sectors.\n2. Male workers out-number female workers in all the three sectors.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రెండు ప్రకటనలు సరైనవే. ప్రాథమిక రంగ శ్రామికుల నిష్పత్తి ద్వితీయ, తృతీయ రంగాల కంటే ఎక్కువ మరియు మూడు రంగాలలోనూ పురుష శ్రామికులు స్త్రీ శ్రామికుల కంటే ఎక్కువగా ఉన్నారు.",
+    "en": "Both statements are correct. The text explicitly mentions a large proportion of primary sector workers compared to secondary and tertiary sectors, and that male workers outnumber female workers in all three sectors."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T32-0115",
+   "section": {
+    "te": "Urbanisation and non-farm sectors",
+    "en": "Urbanisation and non-farm sectors"
+   },
+   "q": {
+    "te": "క్రింద రెండు ప్రకటనలు ఇవ్వబడ్డాయి, ఒకటి ప్రతిపాదన (A) మరియు మరొకటి కారణం (R) గా గుర్తించబడ్డాయి:\nప్రతిపాదన (A): ఢిల్లీ, చండీగఢ్ మరియు పుదుచ్చేరి వంటి అధిక పట్టణీకరణ ప్రాంతాలలో ఇతర సేవలలో నిమగ్నమై ఉన్న కార్మికుల నిష్పత్తి చాలా ఎక్కువగా ఉంది.\nకారణం (R): ఈ ప్రాంతాలలో పెద్ద ఎత్తున పట్టణీకరణ మరియు పారిశ్రామికీకరణ కారణంగా, పరిమిత వ్యవసాయ భూమి లభ్యత వల్ల వ్యవసాయేతర రంగాలలో ఎక్కువ మంది కార్మికులు అవసరమవుతారు.\nసరైన ఎంపికను ఎంచుకోండి:",
+    "en": "Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):\nAssertion (A): Highly urbanised areas like Delhi, Chandigarh, and Puducherry have a very large proportion of workers engaged in other services.\nReason (R): Large scale urbanisation and industrialisation in these areas require more workers in non-farm sectors due to limited availability of farming land.\nSelect the correct option:"
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పట్టణ ప్రాంతాల్లోని ఇతర సేవలలో కార్మికుల అధిక నిష్పత్తిని పరిమిత వ్యవసాయ భూమి మరియు పట్టణీకరణ, పారిశ్రామికీకరణ అవసరాలకు పాఠ్యాంశం ముడిపెట్టింది.",
+    "en": "The text links the high proportion of workers in other services in urban areas to limited farming land and the needs of urbanisation and industrialisation."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T32-0011",
+   "section": {
+    "te": "Himalayan Pastoral Tribes",
+    "en": "Himalayan Pastoral Tribes"
+   },
+   "q": {
+    "te": "హిమాలయ పర్వత ప్రాంతంలో 'ట్రాన్స్‌హ్యూమన్స్' (కాలానుగుణ వలస) ఆచరించే సమూహాలు ఏవి?",
+    "en": "Which of the following communities in the Himalayan region practice transhumance?"
+   },
+   "options": {
+    "te": [
+     "గుజ్జర్లు మరియు బకర్‌వాల్‌లు",
+     "గద్దీలు మరియు భోటియాలు",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Gujjars and Bakarwals",
+     "Gaddis and Bhotiyas",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "హిమాలయ ప్రాంతాలలో గుజ్జర్లు, బకర్‌వాల్‌లు, గద్దీలు మరియు భోటియాలు మైదానాల నుండి పర్వతాలకు కాలానుగుణంగా వలస వెళతారు.",
+    "en": "In the Himalayas, Gujjars, Bakarwals, Gaddis, and Bhotiyas migrate between plains and mountain pastures."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T32-0074",
+   "section": {
+    "te": "Tariff reduction organizations",
+    "en": "Tariff reduction organizations"
+   },
+   "q": {
+    "te": "యుద్ధానంతర కాలంలో సుంకాలను తగ్గించడంలో సహాయపడి, ఆ తర్వాత కాలంలో ప్రపంచ వాణిజ్య సంస్థ (WTO) గా రూపాంతరం చెందిన సంస్థ ఏది?",
+    "en": "Which post-war organization helped in reducing tariffs and later evolved into the World Trade Organisation (WTO)?"
+   },
+   "options": {
+    "te": [
+     "యునైటెడ్ నేషన్స్ కాన్ఫరెన్స్ ఆన్ ట్రేడ్ అండ్ డెవలప్‌మెంట్ (UNCTAD)",
+     "ఆర్గనైజేషన్ ఫర్ ఎకనామిక్ కో-ఆపరేషన్ అండ్ డెవలప్‌మెంట్ (OECD)",
+     "ఇంటర్నేషనల్ ట్రేడ్ ఆర్గనైజేషన్ (ITO)",
+     "జనరల్ అగ్రిమెంట్ ఫర్ టారిఫ్స్ అండ్ ట్రేడ్ (GATT)"
+    ],
+    "en": [
+     "United Nations Conference on Trade and Development (UNCTAD)",
+     "Organisation for Economic Co-operation and Development (OECD)",
+     "International Trade Organisation (ITO)",
+     "General Agreement for Tariffs and Trade (GATT)"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "యుద్ధానంతర కాలంలో సుంకాలను తగ్గించడంలో సహాయపడిన 'జనరల్ అగ్రిమెంట్ ఫర్ టారిఫ్స్ అండ్ ట్రేడ్' (GATT), తర్వాతి కాలంలో ప్రపంచ వాణిజ్య సంస్థ (WTO) గా మారింది.",
+    "en": "The General Agreement for Tariffs and Trade (GATT) helped in reducing tariffs in the post-war period and later became the World Trade Organisation."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T32-0099",
+   "section": {
+    "te": "Work participation cause",
+    "en": "Work participation cause"
+   },
+   "q": {
+    "te": "భారతదేశ సందర్భంలో, తక్కువ ఆర్థికాభివృద్ధి ఉన్న ప్రాంతాలలో పని భాగస్వామ్య రేటు ఎక్కువగా ఉండటానికి కారణం ఏమిటి?",
+    "en": "In the context of India, why does the work participation rate tend to be higher in areas with lower levels of economic development?"
+   },
+   "options": {
+    "te": [
+     "ఆధునిక వ్యవసాయ యంత్రాలు సంప్రదాయ శారీరక శ్రమను తొలగించడం",
+     "అధిక అక్షరాస్యత రేటు విస్తృత ఉపాధిని ప్రోత్సహించడం",
+     "అధిక పారిశ్రామికీకరణ వల్ల అధిక సంఖ్యలో వైట్ కాలర్ ఉద్యోగాలు లభించడం",
+     "జీవనాధార లేదా సమీప జీవనాధార ఆర్థిక కార్యకలాపాలను నిర్వహించడానికి ఎక్కువ సంఖ్యలో శారీరక శ్రామికులు అవసరం కావడం"
+    ],
+    "en": [
+     "Modern agricultural machinery displaces traditional manual labour",
+     "Higher literacy rates encourage widespread employment",
+     "High levels of industrialisation create abundant white-collar jobs",
+     "A number of manual workers are needed to perform subsistence or near subsistence economic activities"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "తక్కువ ఆర్థికాభివృద్ధి గల ప్రాంతాలలో జీవనాధార లేదా సమీప జీవనాధార ఆర్థిక కార్యకలాపాలను చేపట్టడానికి ఎక్కువ మంది శారీరక శ్రామికులు అవసరమవుతారు.",
+    "en": "In areas with lower levels of economic development, a larger number of manual workers are needed to perform subsistence or near-subsistence economic activities."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T32-0002",
+   "section": {
+    "te": "Primary Activities Examples",
+    "en": "Primary Activities Examples"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఏవి ప్రాథమిక కార్యకలాపాల పరిధిలోకి వస్తాయి?",
+    "en": "Which of the following activities are classified under primary activities?"
+   },
+   "options": {
+    "te": [
+     "వేట మరియు సేకరణ",
+     "గనుల తవ్వకం మరియు క్వారీయింగ్",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Hunting and gathering",
+     "Mining and quarrying",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రాథమిక కార్యకలాపాలలో వేట మరియు సేకరణ, పశుపోషణ, చేపల వేట, అటవీ సంపద సేకరణ, వ్యవసాయం, మరియు గనుల తవ్వకం-క్వారీయింగ్ ఉంటాయి.",
+    "en": "Primary activities include hunting and gathering, pastoral activities, fishing, forestry, agriculture, and mining and quarrying."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T32-0025",
+   "section": {
+    "te": "Economic Sectors",
+    "en": "Economic Sectors"
+   },
+   "q": {
+    "te": "ప్రతిపాదన (A): తృతీయ శ్రేణి కార్యకలాపాలు యంత్రాల కంటే ప్రత్యేక నైపుణ్యాలు మరియు జ్ఞానంపై ఎక్కువగా ఆధారపడతాయి.\nకారణం (R): తృతీయ శ్రేణి కార్యకలాపాలు స్పష్టమైన వస్తువుల ఉత్పత్తి కంటే సేవల వాణిజ్య ఉత్పత్తిని కలిగి ఉంటాయి.",
+    "en": "Assertion (A): Tertiary activities rely more heavily on specialized skills and knowledge than on machinery.\nReason (R): Tertiary activities involve the commercial output of services rather than the production of tangible goods."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "తృతీయ శ్రేణి కార్యకలాపాలు సేవలు (కంటికి కనిపించనివి) పై దృష్టి పెడతాయి, వీటికి మానవ నైపుణ్యం అవసరం. యంత్రాలను ఉపయోగించి వస్తువులను తయారు చేసే ద్వితీయ శ్రేణి కార్యకలాపాల కంటే ఇవి భిన్నమైనవి.",
+    "en": "Tertiary activities focus on services (intangible) which require human expertise and skills, unlike secondary activities which focus on manufacturing tangible goods using machinery."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T32-0112",
+   "section": {
+    "te": "Sectoral shift in economy",
+    "en": "Sectoral shift in economy"
+   },
+   "q": {
+    "te": "వ్యవసాయ రంగంలోని కార్మికుల నిష్పత్తి 2001లో 58.2% నుండి 2011లో 54.6%కి తగ్గడం భారత ఆర్థిక వ్యవస్థలో ఏ ధోరణిని సూచిస్తుంది?",
+    "en": "The decline in the proportion of workers in the agricultural sector from 58.2% in 2001 to 54.6% in 2011 indicates which of the following trends in the Indian economy?"
+   },
+   "options": {
+    "te": [
+     "వ్యవసాయేతర ఆధారిత వృత్తుల నుండి వ్యవసాయ ఆధారిత వృత్తులకు మార్పు",
+     "పట్టణీకరణ మరియు పారిశ్రామికీకరణలో తగ్గుదల",
+     "ద్వితీయ రంగంలో మహిళల భాగస్వామ్యం తగ్గడం",
+     "వ్యవసాయ ఆధారిత వృత్తుల నుండి వ్యవసాయేతర ఆధారిత వృత్తులకు రంగాల వారీ మార్పు (sectoral shift)"
+    ],
+    "en": [
+     "A shift from non-farm based to farm-based occupations",
+     "A decrease in urbanisation and industrialisation",
+     "A decline in the participation of women in the secondary sector",
+     "A sectoral shift from farm-based to non-farm based occupations"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వ్యవసాయ కార్మికుల తగ్గుదల వ్యవసాయ ఆధారిత వృత్తుల నుండి వ్యవసాయేతర ఆధారిత వృత్తులకు మారడాన్ని సూచిస్తుందని పాఠ్యాంశం పేర్కొంది, ఇది ఆర్థిక వ్యవస్థలో రంగాల వారీ మార్పు.",
+    "en": "The decline in agricultural workers indicates a shift from farm-based to non-farm based occupations, which is a sectoral shift in the economy."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T32-0035",
+   "section": {
+    "te": "Transport Network Links",
+    "en": "Transport Network Links"
+   },
+   "q": {
+    "te": "రవాణా నెట్‌వర్క్‌లో రెండు నోడ్‌లను కలిపే ప్రతి రహదారిని ఏమని పిలుస్తారు?",
+    "en": "In a transport network, what is every road that joins two nodes called?"
+   },
+   "options": {
+    "te": [
+     "కారిడార్ (Corridor)",
+     "రూట్ (Route)",
+     "సెక్టార్ (Sector)",
+     "లింక్ (Link)"
+    ],
+    "en": [
+     "Corridor",
+     "Route",
+     "Sector",
+     "Link"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రవాణా వ్యవస్థలో రెండు నోడ్‌లను కలిపే ప్రతి రహదారిని 'లింక్' అని పిలుస్తారు.",
+    "en": "The source specifies that every road that joins two nodes is called a link."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T32-0071",
+   "section": {
+    "te": "Silk Route distance",
+    "en": "Silk Route distance"
+   },
+   "q": {
+    "te": "రోమ్ మరియు చైనాలను కలుపుతూ దూరప్రాంత వాణిజ్యానికి తొలి ఉదాహరణగా నిలిచిన పురాతన సిల్క్ రూట్ సుమారు ఎంత పొడవు కలిగి ఉంది?",
+    "en": "The ancient Silk Route, an early example of long-distance trade connecting Rome to China, stretched over approximately what distance?"
+   },
+   "options": {
+    "te": [
+     "4,000 కి.మీ",
+     "10,000 కి.మీ",
+     "6,000 కి.మీ",
+     "8,000 కి.మీ"
+    ],
+    "en": [
+     "4,000 km",
+     "10,000 km",
+     "6,000 km",
+     "8,000 km"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సిల్క్ రూట్ రోమ్ మరియు చైనాలను కలుపుతూ సుమారు 6,000 కి.మీ పొడవునా విస్తరించి ఉంది.",
+    "en": "The Silk Route connected Rome to China along a route measuring approximately 6,000 km."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T32-0009",
+   "section": {
+    "te": "Decline of Gathering Market",
+    "en": "Decline of Gathering Market"
+   },
+   "q": {
+    "te": "ఉష్ణమండల అడవులలో సేకరించిన వస్తువులు ప్రపంచ మార్కెట్లో ఎందుకు సమర్థవంతంగా పోటీ పడలేకపోతున్నాయి?",
+    "en": "Why are products obtained from tropical forest gathering unable to compete effectively in the global market?"
+   },
+   "options": {
+    "te": [
+     "అంతర్జాతీయ వాణిజ్య ఒప్పందాలు అటవీ ఉత్పత్తులపై నిషేధం విధించడం వల్ల",
+     "మంచి నాణ్యత మరియు తక్కువ ధర కలిగిన కృత్రిమ (సింథటిక్) ఉత్పత్తులు వాటి స్థానాన్ని భర్తీ చేయడం వల్ల",
+     "సేకరణకు మితిమీరిన మూలధన పెట్టుబడి అవసరం కావడం వల్ల",
+     "ఉష్ణమండల అటవీ రవాణా ఖర్చులను చట్టం పూర్తిగా నిషేధించడం వల్ల"
+    ],
+    "en": [
+     "International trade agreements have banned forest-gathered goods",
+     "Synthetic products of better quality and lower prices have replaced them",
+     "Gathering requires excessively high capital investment",
+     "Transport costs from tropical forests are strictly prohibited by law"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఉత్తమ నాణ్యత మరియు తక్కువ ధరలలో లభించే సింథటిక్ ఉత్పత్తులు సహజ సేకరణ వస్తువుల స్థానాన్ని ఆక్రమించాయి.",
+    "en": "Synthetic products, often of better quality and at lower prices, have replaced many items supplied by forest gatherers."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T32-0019",
+   "section": {
+    "te": "Regional Livestock",
+    "en": "Regional Livestock"
+   },
+   "q": {
+    "te": "కింది వాటిలో ప్రాంతం మరియు దాని ముఖ్యమైన పశువుల జంట ఏది సరిగ్గా సరిపోలింది?",
+    "en": "Which of the following pairs of region and its important livestock is correctly matched?"
+   },
+   "options": {
+    "te": [
+     "సహారా - యాక్ (Yak)",
+     "టిబెట్ - రెయిన్ డీర్ (Reindeer)",
+     "ఆండీస్ - లామాస్ (Llamas)",
+     "ఆర్కిటిక్ - ఒంటె"
+    ],
+    "en": [
+     "Sahara - Yak",
+     "Tibet - Reindeer",
+     "Andes - Llamas",
+     "Arctic - Camel"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "టిబెట్ మరియు ఆండీస్ పర్వత ప్రాంతాలలో యాక్ మరియు లామాలు అత్యంత ముఖ్యమైన జంతువులని పాఠ్యభాగం పేర్కొంది.",
+    "en": "In the mountainous areas of Tibet and Andes, yak and llamas are the most important animals."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T32-0042",
+   "section": {
+    "te": "Industries Fostered by Tourism",
+    "en": "Industries Fostered by Tourism"
+   },
+   "q": {
+    "te": "పర్యాటకం క్రింది ఏ పరిశ్రమల వృద్ధిని ప్రోత్సహిస్తుంది?",
+    "en": "Tourism fosters the growth of which of the following industries?"
+   },
+   "options": {
+    "te": [
+     "మౌలిక సదుపాయాల పరిశ్రమలు",
+     "రిటైల్ వాణిజ్యం",
+     "హస్తకళా పరిశ్రమలు (జ్ఞాపికలు)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Infrastructure industries",
+     "Retail trading",
+     "Craft industries (souvenirs)",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పర్యాటకం మౌలిక సదుపాయాల పరిశ్రమలు, రిటైల్ వాణిజ్యం మరియు హస్తకళల అభివృద్ధికి తోడ్పడుతుంది.",
+    "en": "Tourism fosters the growth of infrastructure industries, retail trading, and craft industries (souvenirs)."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T32-0069",
+   "section": {
+    "te": "Origin of word salary",
+    "en": "Origin of word salary"
+   },
+   "q": {
+    "te": "ఆంగ్ల పదం 'salary' (జీతం) అనేది లాటిన్ పదం 'Salarium' నుండి వచ్చింది. దీని అర్థం దేని రూపంలో చెల్లింపు?",
+    "en": "The English word 'salary' originates from the Latin word 'Salarium', which literally means payment by which of the following?"
+   },
+   "options": {
+    "te": [
+     "వెండి (Silver)",
+     "సుగంధ ద్రవ్యాలు (Spices)",
+     "ఉప్పు (Salt)",
+     "పట్టు (Silk)"
+    ],
+    "en": [
+     "Silver",
+     "Spices",
+     "Salt",
+     "Silk"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "'Salary' అనే పదం లాటిన్ పదం 'Salarium' నుండి ఉద్భవించింది, దీని అర్థం ఉప్పు రూపంలో చెల్లింపు.",
+    "en": "The word salary comes from the Latin word Salarium, which means payment by salt."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T32-0032",
+   "section": {
+    "te": "Commercial Livestock Rearing",
+    "en": "Commercial Livestock Rearing"
+   },
+   "q": {
+    "te": "వాణిజ్య పశువుల పెంపకంలో (Commercial ranching), పెద్ద రాంచ్ ప్రాంతాలను కంచె వేసిన పార్శిల్స్‌గా ఎందుకు విభజిస్తారు?",
+    "en": "In commercial ranching, why are the large ranch areas divided into fenced parcels?"
+   },
+   "options": {
+    "te": [
+     "అడవి జంతువుల నుండి జంతువులను రక్షించడానికి",
+     "వివిధ రైతులకు మధ్య యాజమాన్యాన్ని గుర్తించడానికి",
+     "మేతను క్రమబద్ధీకరించడానికి (To regulate the grazing)",
+     "వివిధ రకాల జంతువులను వేరు చేయడానికి"
+    ],
+    "en": [
+     "To protect animals from wild predators",
+     "To mark ownership between different farmers",
+     "To regulate the grazing",
+     "To separate different types of animals"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మేతను క్రమబద్ధీకరించడానికి రాంచ్‌లను కంచె వేసిన పార్శిల్స్‌గా విభజిస్తారు; ఒక పార్శిల్‌లో మేత పూర్తయినప్పుడు, జంతువులను మరొక పార్శిల్‌కు మారుస్తారు.",
+    "en": "Ranches are divided into fenced parcels to regulate grazing; when one parcel is grazed, animals are moved to another."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T32-0044",
+   "section": {
+    "te": "Mediterranean Tourism Climate",
+    "en": "Mediterranean Tourism Climate"
+   },
+   "q": {
+    "te": "రద్దీగా ఉండే సెలవుల కాలంలో చల్లని ప్రాంతాల పర్యాటకులను మధ్యధరా ప్రాంతాలు ఆకర్షించడానికి గల శీతోష్ణస్థితి కారణాలు ఏవి?",
+    "en": "What climatic features make the Mediterranean lands a major destination for tourists from colder regions during the peak holiday season?"
+   },
+   "options": {
+    "te": [
+     "అధిక వర్షపాతం మరియు చల్లని తేమతో కూడిన వాతావరణం",
+     "తీవ్రమైన శీతాకాల ఉష్ణోగ్రతలు మరియు తరచుగా వచ్చే మంచు తుఫానులు",
+     "సంవత్సరం పొడవునా మేఘావృతమైన ఆకాశం మరియు అధిక తేమ",
+     "నిరంతరం ఎక్కువ ఉష్ణోగ్రతలు, ఎక్కువ గంటల ఎండ మరియు తక్కువ వర్షపాతం"
+    ],
+    "en": [
+     "High rainfall and cool humid climate",
+     "Severe winter temperatures and frequent blizzards",
+     "Heavy overcast conditions and high humidity throughout the year",
+     "Consistently higher temperatures, long hours of sunshine and low rainfall"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఐరోపాలోని ఇతర ప్రాంతాల కంటే స్థిరమైన అధిక ఉష్ణోగ్రతలు, ఎక్కువ గంటల పాటు ఎండ మరియు తక్కువ వర్షపాతం ఉండటం మధ్యధరా వాతావరణం ప్రత్యేకత.",
+    "en": "The Mediterranean climate offers consistently higher temperatures than other parts of Europe, long hours of sunshine, and low rainfall during the peak holiday season."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T32-0101",
+   "section": {
+    "te": "Occupational categories",
+    "en": "Occupational categories"
+   },
+   "q": {
+    "te": "2011 జనాభా లెక్కల ప్రకారం, భారతదేశ శ్రామిక జనాభాను ఎన్ని ప్రధాన వృత్తిపరమైన వర్గాలుగా విభజించారు?",
+    "en": "According to the 2011 Census, the working population of India has been divided into how many major occupational categories?"
+   },
+   "options": {
+    "te": [
+     "మూడు",
+     "ఐదు",
+     "ఆరు",
+     "నాలుగు"
+    ],
+    "en": [
+     "Three",
+     "Five",
+     "Six",
+     "Four"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "2011 జనాభా లెక్కల ప్రకారం శ్రామిక జనాభాను సాగుదారులు, వ్యవసాయ కూలీలు, గృహ పరిశ్రమల శ్రామికులు మరియు ఇతర శ్రామికులు అనే నాలుగు వర్గాలుగా విభజించారు.",
+    "en": "The 2011 Census categorises the working population into four groups: Cultivators, Agricultural Labourers, Household Industrial Workers, and Other Workers."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T32-0072",
+   "section": {
+    "te": "Silk Route commodities",
+    "en": "Silk Route commodities"
+   },
+   "q": {
+    "te": "పురాతన సిల్క్ రూట్ ద్వారా వర్తకులు ఈ క్రింది వాటిలో వేటిని రవాణా చేసేవారు?",
+    "en": "Which of the following commodities were transported by traders along the ancient Silk Route?"
+   },
+   "options": {
+    "te": [
+     "చైనా పట్టు (Chinese silk)",
+     "రోమన్ ఉన్ని (Roman wool)",
+     "విలువైన లోహాలు (Precious metals)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Chinese silk",
+     "Roman wool",
+     "Precious metals",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సిల్క్ రూట్ ద్వారా చైనా పట్టు, రోమన్ ఉన్ని, విలువైన లోహాలు తదితర విలువైన వస్తువులను వర్తకులు రవాణా చేసేవారు.",
+    "en": "Traders along the Silk Route transported Chinese silk, Roman wool, precious metals, and other high-value commodities."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T32-0095",
+   "section": {
+    "te": "Dumping Definition",
+    "en": "Dumping Definition"
+   },
+   "q": {
+    "te": "ఉత్పత్తి ఖర్చులతో సంబంధం లేని కారణాల వల్ల ఒక వస్తువును రెండు వేర్వేరు దేశాలలో వేర్వేరు ధరలకు విక్రయించే పద్ధతిని ఏమని పిలుస్తారు?",
+    "en": "What is the term used for the practice of selling a commodity in two different countries at prices that vary for reasons unrelated to production costs?"
+   },
+   "options": {
+    "te": [
+     "ద్వైపాక్షిక వాణిజ్యం",
+     "డంపింగ్",
+     "వాణిజ్య సరళీకరణ",
+     "బహుపాక్షిక వాణిజ్యం"
+    ],
+    "en": [
+     "Bilateral trade",
+     "Dumping",
+     "Trade liberalisation",
+     "Multilateral trade"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఖర్చులతో సంబంధం లేని కారణాల వల్ల ఒక వస్తువును రెండు దేశాలలో వేర్వేరు ధరలకు విక్రయించడాన్ని డంపింగ్ అంటారు.",
+    "en": "Dumping is specifically defined as selling a commodity in two countries at different prices for reasons not related to costs."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T32-0001",
+   "section": {
+    "te": "Primary Activities Workers",
+    "en": "Primary Activities Workers"
+   },
+   "q": {
+    "te": "పని యొక్క బాహ్య స్వభావం (outdoor nature) కారణంగా ప్రాథమిక కార్యకలాపాలలో నిమగ్నమైన కార్మికులను ఏమని పిలుస్తారు?",
+    "en": "Workers engaged in primary activities are referred to as which of the following due to the outdoor nature of their work?"
+   },
+   "options": {
+    "te": [
+     "వైట్-కాలర్ కార్మికులు",
+     "రెడ్-కాలర్ కార్మికులు",
+     "బ్లూ-కాలర్ కార్మికులు",
+     "గోల్డ్-కాలర్ కార్మికులు"
+    ],
+    "en": [
+     "White-collar workers",
+     "Red-collar workers",
+     "Blue-collar workers",
+     "Gold-collar workers"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వ్యాసంలో పేర్కొన్న ప్రకారం, ప్రాథమిక కార్యకలాపాలు ఆరుబయట జరిగే స్వభావం కలిగి ఉన్నందున వాటిలో పనిచేసే వారిని రెడ్-కాలర్ కార్మికులు అంటారు.",
+    "en": "People engaged in primary activities are known as red-collar workers because of the outdoor nature of their work."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T32-0024",
+   "section": {
+    "te": "Transport Geography",
+    "en": "Transport Geography"
+   },
+   "q": {
+    "te": "చేరుకోవడానికి సమానమైన సమయం పట్టే ప్రాంతాలను కలుపుతూ మ్యాప్‌పై గీసిన రేఖలను ఏమంటారు?",
+    "en": "What are the lines drawn on a map to join places that take an equal amount of time to reach called?"
+   },
+   "options": {
+    "te": [
+     "ఐసోహైట్స్ (Isohyets)",
+     "ఐసోబార్స్ (Isobars)",
+     "ఐసోక్రోన్ రేఖలు (Isochrone lines)",
+     "ఐసోథెర్మ్స్ (Isotherms)"
+    ],
+    "en": [
+     "Isohyets",
+     "Isobars",
+     "Isochrone lines",
+     "Isotherms"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రయాణ సమయం పరంగా సమానంగా ఉన్న ప్రదేశాలను కలపడానికి ఉపయోగించే భౌగోళిక రేఖలను ఐసోక్రోన్ రేఖలు అంటారు.",
+    "en": "Isochrone lines are specific geographical lines used to connect places that are equal in terms of travel time."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T32-0054",
+   "section": {
+    "te": "Quaternary sector features",
+    "en": "Quaternary sector features"
+   },
+   "q": {
+    "te": "చతుర్థ రంగ కార్యకలాపాలకు (Quaternary activities) సంబంధించి క్రింది ప్రకటనలను పరిగణించండి:\n1. ఇవి సమాచార సేకరణ, ఉత్పత్తి మరియు వ్యాప్తిని కలిగి ఉంటాయి.\n2. ఇవి వనరులకు పరిమితం కావు, పర్యావరణం వల్ల ప్రభావితం కావు లేదా మార్కెట్ పరిధికి మాత్రమే కట్టుబడి ఉండవు.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding quaternary activities:\n1. They involve the collection, production, and dissemination of information.\n2. They are not tied to resources, affected by the environment, or necessarily localised by market.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం రెండు ప్రకటనలూ సరైనవే. చతుర్థ రంగం సమాచార ఆధారితమైనది మరియు ఇది వనరులు, పర్యావరణం లేదా మార్కెట్‌ల ద్వారా మాత్రమే పరిమితం చేయబడదు.",
+    "en": "Both statements are correct. Quaternary activities involve the collection, production, and dissemination of information, and are neither tied to resources nor affected by the environment or necessarily localised by market."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T32-0036",
+   "section": {
+    "te": "Chain Stores Features",
+    "en": "Chain Stores Features"
+   },
+   "q": {
+    "te": "చైన్ స్టోర్లకు (Chain stores) సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇవి సరుకులను అత్యంత పొదుపుగా కొనుగోలు చేయగలవు.\n2. ఒక స్టోర్‌లో ప్రయోగం చేసి, దాని ఫలితాలను అనేక ఇతర స్టోర్లకు వర్తింపజేసే సామర్థ్యం వీటికి ఉంటుంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding chain stores:\n1. They are able to purchase merchandise most economically.\n2. They have the ability to experiment in one store and apply the results to many.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "చైన్ స్టోర్లు సరుకులను అత్యంత చౌకగా కొనుగోలు చేయడమే కాకుండా, ఒక దుకాణంలో ప్రయోగించిన ఫలితాలను అనేక దుకాణాలకు విస్తరింపజేస్తాయి.",
+    "en": "Chain stores purchase merchandise economically and have the ability to experiment in one store and apply the results to many."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T32-0040",
+   "section": {
+    "te": "World's Largest Tertiary Activity",
+    "en": "World's Largest Tertiary Activity"
+   },
+   "q": {
+    "te": "నమోదైన మొత్తం ఉద్యోగాలు మరియు మొత్తం ఆదాయం పరంగా ప్రపంచంలోనే అతిపెద్ద తృతీయ రంగ కార్యకలాపంగా క్రింది వాటిలో ఏది అవతరించింది?",
+    "en": "Which of the following has become the world's single largest tertiary activity in terms of total registered jobs and total revenue?"
+   },
+   "options": {
+    "te": [
+     "ఆర్థిక సేవలు",
+     "పర్యాటకం (Tourism)",
+     "టెలికమ్యూనికేషన్",
+     "రిటైల్ వాణిజ్యం"
+    ],
+    "en": [
+     "Financial services",
+     "Tourism",
+     "Telecommunication",
+     "Retail trading"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పర్యాటకం ప్రపంచంలోనే మొత్తం నమోదిత ఉద్యోగాలు మరియు ఆదాయం పరంగా అతిపెద్ద తృతీయ రంగ కార్యకలాపంగా మారింది.",
+    "en": "Tourism has become the world's single largest tertiary activity in total registered jobs and total revenue."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T32-0013",
+   "section": {
+    "te": "Pastoral Nomadism Decline",
+    "en": "Pastoral Nomadism Decline"
+   },
+   "q": {
+    "te": "సంచార పశుపోషకుల సంఖ్య తగ్గడానికి మరియు వారి పరిధి క్షీణించడానికి ప్రధాన కారణాలు ఏవి?",
+    "en": "The shrinking of areas operated by pastoral nomads is primarily due to which of the following reasons?"
+   },
+   "options": {
+    "te": [
+     "రాజకీయ సరిహద్దుల విధింపు",
+     "వివిధ దేశాల నూతన పునరావాస/స్థిరనివాస ప్రణాళికలు",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Imposition of political boundaries",
+     "New settlement plans by different countries",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "రాజకీయ సరిహద్దులు ఏర్పడటం మరియు వివిధ దేశాలు తెచ్చిన నూతన నివాస పథకాల వల్ల సంచార పశుపోషక ప్రాంతాలు తగ్గిపోతున్నాయి.",
+    "en": "The decline of pastoral nomadism is caused by both the imposition of political boundaries and new settlement plans by different countries."
+   }
+  }
+ ]
+}

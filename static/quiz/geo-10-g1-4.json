@@ -1,0 +1,942 @@
+{
+ "id": "geo-10-g1-4",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Oceans – క్విజ్ 4",
+  "en": "Oceans – Quiz 4"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T10-0144",
+   "section": {
+    "te": "Brackish water limit",
+    "en": "Brackish water limit"
+   },
+   "q": {
+    "te": "ఏ లవణీయత విలువను 'బ్రాకిష్ నీరు' (ఉప్పునీరు) గా గుర్తించడానికి ఎగువ పరిమితిగా పరిగణిస్తారు?",
+    "en": "What value of salinity is considered as the upper limit to demarcate 'brackish water'?"
+   },
+   "options": {
+    "te": [
+     "35.0 o/oo",
+     "24.7 o/oo",
+     "33.0 o/oo",
+     "37.5 o/oo"
+    ],
+    "en": [
+     "35.0 o/oo",
+     "24.7 o/oo",
+     "33.0 o/oo",
+     "37.5 o/oo"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "24.7 o/oo లవణీయతను బ్రాకిష్ నీటిని గుర్తించడానికి ఎగువ పరిమితిగా పరిగణిస్తారు.",
+    "en": "Salinity of 24.7 o/oo has been considered as the upper limit to demarcate brackish water."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T10-0056",
+   "section": {
+    "te": "Fishing",
+    "en": "Fishing"
+   },
+   "q": {
+    "te": "అధిక పోటు సమయంలో మత్స్యకార వర్గాలకు తరచుగా మంచి వేట ఎందుకు దొరుకుతుంది?",
+    "en": "Why do fishing communities often get a better catch during high tide?"
+   },
+   "options": {
+    "te": [
+     "బలమైన పోటు ప్రవాహాల వల్ల చేపలు స్పృహ కోల్పోతాయి",
+     "ఆహారం మరియు ఆశ్రయం కోసం చేపలు తీరానికి దగ్గరగా వస్తాయి",
+     "అధిక పోటు సమయంలో చేపలు సముద్ర గుహలలో చిక్కుకుంటాయి",
+     "అధిక పోటు యొక్క చల్లని నీరు ఎక్కువ చేపలను ఆకర్షిస్తుంది"
+    ],
+    "en": [
+     "Fish are stunned by the strong tidal currents",
+     "Fish move closer to the shore for food and shelter",
+     "Fish are trapped in sea caves during high tide",
+     "The cold water of high tide attracts more fish"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అధిక పోటు చేపలను ఆహారం మరియు ఆశ్రయం కోసం తీరానికి దగ్గరగా తీసుకువస్తుంది, దీనివల్ల మత్స్యకారులు వాటిని పట్టుకోవడం సులభం అవుతుంది.",
+    "en": "High tides bring fish closer to the shore as they look for food and shelter, making it easier for fishermen to catch them."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T10-0010",
+   "section": {
+    "te": "Water Bodies near India",
+    "en": "Water Bodies near India"
+   },
+   "q": {
+    "te": "భారతదేశానికి పశ్చిమాన హిందూ మహాసముద్రంలోని ఏ భాగం ఉంది?",
+    "en": "Which part of the Indian Ocean is located to the west of India?"
+   },
+   "options": {
+    "te": [
+     "ఆర్కిటిక్ మహాసముద్రం",
+     "బంగాళాఖాతం",
+     "అరేబియా సముద్రం",
+     "దక్షిణ మహాసముద్రం"
+    ],
+    "en": [
+     "Arctic Ocean",
+     "Bay of Bengal",
+     "Arabian Sea",
+     "Southern Ocean"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భారతదేశానికి పశ్చిమాన అరేబియా సముద్రం, తూర్పున బంగాళాఖాతం ఉన్నాయి.",
+    "en": "The Arabian Sea is located to the west of India, while the Bay of Bengal is to the east."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T10-0002",
+   "section": {
+    "te": "Earth's Appearance",
+    "en": "Earth's Appearance"
+   },
+   "q": {
+    "te": "తొలి వ్యోమగాములు భూమిని 'నీలి గ్రహం' (blue planet) అని ఎందుకు పిలిచారు?",
+    "en": "Why did early astronauts call the Earth the 'blue planet'?"
+   },
+   "options": {
+    "te": [
+     "నీటి కారణంగా అంతరిక్షం నుండి భూమి ఎక్కువగా నీలం రంగులో కనిపిస్తుంది కాబట్టి",
+     "చంద్రుని ప్రతిబింబం కారణంగా",
+     "వాతావరణం యొక్క నీలం రంగు కారణంగా",
+     "భూభాగాల రంగు కారణంగా"
+    ],
+    "en": [
+     "Because the Earth appears mostly blue from outer space due to water",
+     "Because of the reflection of the moon",
+     "Because of the blue color of the atmosphere",
+     "Because of the color of the landmasses"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూమి ఉపరితలం ఎక్కువ భాగం నీటితో కప్పబడి ఉండటం వల్ల అంతరిక్షం నుండి భూమి ఎక్కువగా నీలం రంగులో కనిపిస్తుంది.",
+    "en": "The Earth appears mostly blue from outer space because most of its surface is covered with water."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T10-0129",
+   "section": {
+    "te": "Guyots",
+    "en": "Guyots"
+   },
+   "q": {
+    "te": "దశలవారీగా క్రమంగా కుంగిపోవడం (subsidence) వల్ల చదునైన పైభాగం కలిగిన సముద్ర పర్వతంగా మారిన భూస్వరూపాన్ని ఏమని పిలుస్తారు?",
+    "en": "What type of undersea relief feature is defined as a flat-topped seamount that shows evidence of gradual subsidence?"
+   },
+   "options": {
+    "te": [
+     "మధ్య మహాసముద్ర కటకం (Mid-Oceanic Ridge)",
+     "ఎటోల్ (Atoll)",
+     "గయోట్ (Guyot)",
+     "సముద్రాంతర్గత కాన్యన్ (Submarine Canyon)"
+    ],
+    "en": [
+     "Mid-Oceanic Ridge",
+     "Atoll",
+     "Guyot",
+     "Submarine Canyon"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "చదునైన పైభాగం కలిగిన సముద్ర పర్వతాన్ని 'గయోట్' (Guyot) అంటారు. ఇవి క్రమంగా క్రిందికి కుంగిపోవడం వల్ల ఏర్పడతాయి.",
+    "en": "A guyot is a flat-topped seamount showing evidence of gradual subsidence through stages into a submerged flat-topped mountain."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T10-0103",
+   "section": {
+    "te": "Mid-oceanic Ridge Crest",
+    "en": "Mid-oceanic Ridge Crest"
+   },
+   "q": {
+    "te": "మధ్య-మహాసముద్ర పర్వత శ్రేణి శిఖరం వద్ద కనిపించే కేంద్ర రిఫ్ట్ వ్యవస్థ (rift system) దేనికి ప్రసిద్ధి చెందింది?",
+    "en": "The central rift system found at the crest of a mid-oceanic ridge is known for being a zone of:"
+   },
+   "options": {
+    "te": [
+     "తీవ్రమైన అగ్నిపర్వత కార్యకలాపాలు ఉండే ప్రాంతం",
+     "అవక్షేప శిలలు పేరుకుపోయే ప్రాంతం",
+     "ఎటువంటి భౌగోళిక కార్యకలాపాలు లేని ప్రాంతం",
+     "లోతైన సముద్ర అగాధాలు ఏర్పడే ప్రాంతం"
+    ],
+    "en": [
+     "Intense volcanic activity",
+     "Sedimentary rock accumulation",
+     "No geological activity",
+     "Deep-sea trench formation"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మధ్య-మహాసముద్ర పర్వత శ్రేణి శిఖరం వద్ద ఉండే రిఫ్ట్ వ్యవస్థ తీవ్రమైన అగ్నిపర్వత కార్యకలాపాలకు కేంద్రంగా ఉంటుంది.",
+    "en": "The crest of a mid-oceanic ridge features a rift system that is a site of intense volcanic activity."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T10-0006",
+   "section": {
+    "te": "Indian Ocean Boundaries",
+    "en": "Indian Ocean Boundaries"
+   },
+   "q": {
+    "te": "హిందూ మహాసముద్రం యొక్క సరిహద్దులకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. దీనికి ఉత్తరాన ఆసియా ఉంది.\n2. దీనికి తూర్పున ఆఫ్రికా ఉంది.\n3. దీనికి పశ్చిమాన ఆస్ట్రేలియా ఉంది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the boundaries of the Indian Ocean:\n1. Asia lies to its north.\n2. Africa lies to its east.\n3. Australia lies to its west.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 only",
+     "1 and 2 only",
+     "2 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రకటన 1 సరైనది. ఆఫ్రికా పశ్చిమాన ఉంది (ప్రకటన 2 తప్పు), మరియు ఆస్ట్రేలియా తూర్పున ఉంది (ప్రకటన 3 తప్పు).",
+    "en": "Statement 1 is correct. Statement 2 is wrong because Africa is to the west, and Statement 3 is wrong because Australia is to the east."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T10-0110",
+   "section": {
+    "te": "Shelf Break Definition",
+    "en": "Shelf Break Definition"
+   },
+   "q": {
+    "te": "ఖండతీర అంచు సాధారణంగా చాలా నిటారైన వాలు వద్ద ముగుస్తుంది, దీనిని ఏమని పిలుస్తారు?",
+    "en": "The continental shelf typically terminates at a very steep slope known as the:"
+   },
+   "options": {
+    "te": [
+     "గయోట్ (Guyot)",
+     "ఖండతీర ఉబ్బెత్తు (కాంటినెంటల్ రైజ్)",
+     "షెల్ఫ్ బ్రేక్ (Shelf break)",
+     "సముద్రపు అగాధం"
+    ],
+    "en": [
+     "Guyot",
+     "Continental rise",
+     "Shelf break",
+     "Oceanic deep"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఖండతీర అంచు ఒక నిటారైన వాలు వద్ద ముగుస్తుంది, దీనిని షెల్ఫ్ బ్రేక్ అంటారు.",
+    "en": "The continental shelf typically ends at a very steep slope, which is termed the shelf break."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T10-0050",
+   "section": {
+    "te": "Navigation",
+    "en": "Navigation"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): వెరీ లార్జ్ క్రూడ్ క్యారియర్స్ (VLCCs) తరచుగా సింగపూర్ జలసంధి గుండా వెళ్ళడానికి అధిక పోటు కోసం వేచి ఉంటాయి.\nకారణం (R): లోతు తక్కువగా ఉన్న ప్రాంతాలలో పెద్ద ఓడలు నేలకు తగలకుండా ఉండటానికి అధిక పోటు తగినంత నీటి లోతును అందిస్తుంది.",
+    "en": "Assertion (A): Very Large Crude Carriers (VLCCs) often wait for high tide to pass through the Singapore Strait.\nReason (R): High tides provide sufficient water depth to prevent large ships from running aground in shallow areas."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సింగపూర్ జలసంధి వంటి లోతు తక్కువ కాలువలలో పెద్ద ఓడలు అధిక పోటు కోసం వేచి ఉంటాయి, ఎందుకంటే పెరిగిన నీటి మట్టం అవి సముద్ర గర్భానికి తగలకుండా చూస్తుంది.",
+    "en": "Large ships wait for high tide in shallow channels like the Singapore Strait because the increased water level ensures they don't hit the seabed."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T10-0055",
+   "section": {
+    "te": "Wave Formation",
+    "en": "Wave Formation"
+   },
+   "q": {
+    "te": "తరంగాల గురించి కింది ప్రకటనలను పరిశీలించండి:\n1. తరంగాలు ప్రాథమికంగా నీటి అడుగున వచ్చే భూకంపాల వల్ల కలుగుతాయి.\n2. తరంగాలు సముద్రాల గుండా సుదూర ప్రాంతాలకు శక్తిని మోసుకెళ్తాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about waves:\n1. Waves are primarily caused by underwater earthquakes.\n2. Waves carry energy across the oceans over long distances.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, తరంగాలు ప్రాథమికంగా నీటిపై వీచే గాలుల వల్ల కలుగుతాయి, భూకంపాల వల్ల కాదు. అవి సుదూర ప్రాంతాలకు శక్తిని మోసుకెళ్తాయి.",
+    "en": "Waves are primarily caused by winds blowing across the water, not earthquakes. They do carry energy over long distances."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T10-0126",
+   "section": {
+    "te": "Mid-Oceanic Ridge",
+    "en": "Mid-Oceanic Ridge"
+   },
+   "q": {
+    "te": "మధ్య మహాసముద్ర కటకం (Mid-Oceanic Ridge) సముద్ర ఉపరితలం పైకి పొడుచుకు వచ్చిన ప్రాంతానికి క్రింది ఏ ద్వీపం ఒక ఉదాహరణ?",
+    "en": "Which of the following islands is an example of a mid-oceanic ridge rising above the surface of the ocean?"
+   },
+   "options": {
+    "te": [
+     "మడగాస్కర్",
+     "ఐస్‌లాండ్",
+     "శ్రీలంక",
+     "న్యూజిలాండ్"
+    ],
+    "en": [
+     "Madagascar",
+     "Iceland",
+     "Sri Lanka",
+     "New Zealand"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మధ్య అట్లాంటిక్ కటకంలో భాగంగా ఉండి సముద్ర ఉపరితలం పైకి విస్తరించిన భూభాగానికి ఐస్‌లాండ్ ఒక ముఖ్యమైన ఉదాహరణ.",
+    "en": "Some peaks of mid-oceanic ridges reach above the ocean surface; Iceland, which is part of the Mid-Atlantic Ridge, is a prime example."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T10-0105",
+   "section": {
+    "te": "Wave-built Terrace",
+    "en": "Wave-built Terrace"
+   },
+   "q": {
+    "te": "తరంగ-నిర్మిత టెర్రస్ (wave-built terrace) సాధారణంగా ఎక్కడ అభివృద్ధి చెందుతుంది?",
+    "en": "Where does a wave-built terrace typically develop?"
+   },
+   "options": {
+    "te": [
+     "మధ్య-మహాసముద్ర పర్వత శ్రేణి పైన",
+     "తరంగ-కోత వేదిక (wave-cut terrace) ముందు",
+     "లోతైన సముద్ర అగాధం అడుగున",
+     "సముద్రపు కొండ వెనుక"
+    ],
+    "en": [
+     "On top of a mid-oceanic ridge",
+     "In front of a wave-cut terrace",
+     "At the bottom of a deep-sea trench",
+     "Behind a sea cliff"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "కొండలు వెనక్కి తగ్గిన తర్వాత మరియు పదార్థాలు పేరుకుపోయిన తర్వాత, తరంగ-కోత వేదిక ముందు తరంగ-నిర్మిత టెర్రస్ ఏర్పడుతుంది.",
+    "en": "A wave-built terrace develops in front of a wave-cut terrace after a period of cliff retreat and deposition of materials."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T10-0123",
+   "section": {
+    "te": "Continental Shelf Depth",
+    "en": "Continental Shelf Depth"
+   },
+   "q": {
+    "te": "సముద్ర ఉపరితల నైసర్గిక అధ్యయనం ప్రకారం, ఖండతీర అంచుల లోతు సాధారణంగా ఏ పరిధిలో ఉంటుంది?",
+    "en": "According to the study of ocean relief, the depth of continental shelves generally ranges between:"
+   },
+   "options": {
+    "te": [
+     "500 మీ. నుండి 1,500 మీ.",
+     "100 మీ. నుండి 1,000 మీ.",
+     "30 మీ. నుండి 600 మీ.",
+     "10 మీ. నుండి 100 మీ."
+    ],
+    "en": [
+     "500 m to 1,500 m",
+     "100 m to 1,000 m",
+     "30 m to 600 m",
+     "10 m to 100 m"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఖండతీర అంచుల లోతు ప్రాంతాన్ని బట్టి మారుతుంది; కొన్ని ప్రాంతాలలో 30 మీటర్ల తక్కువ లోతు ఉంటే, మరికొన్నింటిలో 600 మీటర్ల వరకు ఉంటుంది.",
+    "en": "The depth of continental shelves varies from as shallow as 30 m in some areas to as deep as 600 m in others."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T10-0182",
+   "section": {
+    "te": "Perigee and Apogee",
+    "en": "Perigee and Apogee"
+   },
+   "q": {
+    "te": "చంద్రుని స్థితి మరియు పోటుపాట్లపై దాని ప్రభావానికి సంబంధించి కింది వాటిలో ఏది సరైనది?\nA. చంద్రుడు భూమికి అత్యంత సమీపంలో ఉన్నప్పుడు పెరిజీ (Perigee) సంభవిస్తుంది, ఇది అధిక టైడల్ పరిధికి దారితీస్తుంది.\nB. చంద్రుడు భూమికి అత్యంత దూరంలో ఉన్నప్పుడు అపోజీ (Apogee) సంభవిస్తుంది, ఇది తక్కువ టైడల్ పరిధికి దారితీస్తుంది.",
+    "en": "Which of the following statements is/are correct regarding the moon's position and its effect on tides?\nA. Perigee occurs when the moon is closest to the earth, leading to greater tidal ranges.\nB. Apogee occurs when the moon is farthest from the earth, leading to lower tidal ranges."
+   },
+   "options": {
+    "te": [
+     "A మాత్రమే",
+     "B మాత్రమే",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Item A only",
+     "Item B only",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "చంద్రుడు పెరిజీ (దగ్గరగా) వద్ద ఉన్నప్పుడు, దాని గురుత్వాకర్షణ శక్తి బలంగా ఉంటుంది, ఇది టైడల్ పరిధిని పెంచుతుంది. అపోజీ (దూరంగా) వద్ద, శక్తి బలహీనంగా ఉంటుంది, ఇది టైడల్ పరిధిని తగ్గిస్తుంది.",
+    "en": "When the moon is at perigee (closest), its gravitational pull is stronger, increasing tidal ranges. At apogee (farthest), the force is weaker, decreasing tidal ranges."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T10-0200",
+   "section": {
+    "te": "Middle latitude circulation",
+    "en": "Middle latitude circulation"
+   },
+   "q": {
+    "te": "మధ్య అక్షాంశాలలో సముద్రాలపై వాయు ప్రసరణకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఇది ప్రధానంగా ప్రతిచక్రవాత (anticyclonic) స్వభావాన్ని కలిగి ఉంటుంది.\n2. ఇది దక్షిణార్ధగోళంలో కంటే ఉత్తరార్ధగోళంలో మరింత స్పష్టంగా ఉంటుంది.\n\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the air circulation over oceans in the middle latitudes:\n1. It is mainly anticyclonic in nature.\n2. It is more pronounced in the northern hemisphere than in the southern hemisphere.\n\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 లేదా 2 కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మధ్య అక్షాంశాలలో సముద్రాలపై గాలి ప్రసరణ ప్రధానంగా ప్రతిచక్రవాతంగా ఉంటుంది, అయితే ఇది ఉత్తరార్ధగోళం కంటే దక్షిణార్ధగోళంలో మరింత స్పష్టంగా ఉంటుంది.",
+    "en": "Air circulation over oceans in the middle latitudes is mainly anticyclonic, but it is more pronounced in the southern hemisphere than in the northern hemisphere."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T10-0148",
+   "section": {
+    "te": "Hemispheric ocean temperatures",
+    "en": "Hemispheric ocean temperatures"
+   },
+   "q": {
+    "te": "ఉత్తర మరియు దక్షిణార్థ గోళాలలోని సముద్రాల సగటు వార్షిక ఉపరితల ఉష్ణోగ్రతలు వరుసగా ఎంత ఉంటాయి?",
+    "en": "What are the average annual surface temperatures of the oceans in the Northern and Southern Hemispheres, respectively?"
+   },
+   "options": {
+    "te": [
+     "16° C మరియు 19° C",
+     "19° C మరియు 16° C",
+     "27° C మరియు 22° C",
+     "22° C మరియు 14° C"
+    ],
+    "en": [
+     "16° C and 19° C",
+     "19° C and 16° C",
+     "27° C and 22° C",
+     "22° C and 14° C"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఉత్తర మరియు దక్షిణార్థ గోళాల సముద్రాల సగటు వార్షిక ఉష్ణోగ్రతలు వరుసగా 19° C మరియు 16° C గా ఉంటాయి.",
+    "en": "The average annual ocean temperatures for the Northern and Southern Hemispheres are around 19° C and 16° C respectively."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T10-0198",
+   "section": {
+    "te": "Current drift unit",
+    "en": "Current drift unit"
+   },
+   "q": {
+    "te": "సముద్ర ప్రవాహం యొక్క వేగాన్ని 'డ్రిఫ్ట్' (drift) అంటారు. డ్రిఫ్ట్‌ను క్రింది ఏ ప్రమాణాలలో కొలుస్తారు?",
+    "en": "The speed of an ocean current is referred to as its 'drift'. In which of the following units is drift measured?"
+   },
+   "options": {
+    "te": [
+     "నాట్లు (knots)",
+     "ఫాతోమ్‌లు",
+     "మీటర్లు/సెకను",
+     "కిలోమీటర్లు/గంట"
+    ],
+    "en": [
+     "Knots",
+     "Fathoms",
+     "Metres per second",
+     "Kilometres per hour"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సముద్ర ప్రవాహం యొక్క వేగాన్ని డ్రిఫ్ట్ అని పిలుస్తారు మరియు దీనిని 'నాట్లు' (knots) లలో కొలుస్తారు.",
+    "en": "The speed of an ocean current is referred to as its drift, and it is measured in terms of knots."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T10-0143",
+   "section": {
+    "te": "First Oceanic Layer",
+    "en": "First Oceanic Layer"
+   },
+   "q": {
+    "te": "మహాసముద్ర ఉష్ణోగ్రత నిర్మాణంలోని మొదటి (పై) పొరకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది దాదాపు 500 మీటర్ల మందం కలిగి ఉంటుంది.\n2. దీని ఉష్ణోగ్రత 20° C నుండి 25° C మధ్య ఉంటుంది.\n3. ఉష్ణమండల ప్రాంతంలో ఇది సంవత్సరం పొడవునా ఉంటుంది.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding the first (top) layer of the oceanic temperature structure:\n1. It is about 500 m thick.\n2. Its temperatures range between 20° C and 25° C.\n3. In the tropical region, it is present throughout the year.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మొదటి పొర 500 మీటర్ల మందం, 20°-25°C ఉష్ణోగ్రత కలిగి ఉండి ఉష్ణమండలాల్లో ఏడాది పొడవునా ఉంటుంది. కాబట్టి పై ప్రకటనలన్నీ సరైనవే.",
+    "en": "All three statements are correct: the top warm layer is about 500 m thick, has temperatures between 20° and 25° C, and remains present year-round in the tropics."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T10-0064",
+   "section": {
+    "te": "Marine Non-living Resources",
+    "en": "Marine Non-living Resources"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఏవి 'సముద్ర యాంత్రిక శక్తి' (Ocean Mechanical Energy) రకాలుగా వర్గీకరించబడ్డాయి?\nA. పోటు-పాటు శక్తి (Tidal Energy)\nB. తరంగ శక్తి (Wave Energy)\nC. సముద్ర ఉష్ణ శక్తి మార్పిడి (OTEC)",
+    "en": "Which of the following are classified as forms of 'Ocean Mechanical Energy'?\nA. Tidal Energy\nB. Wave Energy\nC. Ocean Thermal Energy Conversion (OTEC)"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సముద్ర యాంత్రిక శక్తిలో పోటు-పాటు, తరంగ, ప్రవాహ శక్తి మరియు సముద్ర ఉష్ణ శక్తి మార్పిడి (OTEC) ఉంటాయి.",
+    "en": "Ocean Mechanical Energy includes Tidal, Wave, Current energy, and Ocean Thermal Energy Conversion (OTEC)."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T10-0184",
+   "section": {
+    "te": "Ebb and Flow",
+    "en": "Ebb and Flow"
+   },
+   "q": {
+    "te": "హై టైడ్ (పోటు) మరియు లో టైడ్ (పాటు) మధ్య నీటి మట్టం తగ్గుతున్న సమయాన్ని ఏమని పిలుస్తారు?",
+    "en": "What is the specific term used to describe the period when the water level is falling between a high tide and a low tide?"
+   },
+   "options": {
+    "te": [
+     "ఎబ్ (Ebb)",
+     "సర్జ్ (Surge)",
+     "ఫ్లో (Flow)",
+     "ఫ్లడ్ (Flood)"
+    ],
+    "en": [
+     "Ebb",
+     "Surge",
+     "Flow",
+     "Flood"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "హై టైడ్ మరియు లో టైడ్ మధ్య నీటి మట్టం తగ్గే కాలాన్ని 'ఎబ్' అని పిలుస్తారు, అదే నీటి మట్టం పెరిగే కాలాన్ని 'ఫ్లో' లేదా 'ఫ్లడ్' అని పిలుస్తారు.",
+    "en": "The falling of the water level between high and low tide is called the ebb, while the rising period is called the flow or flood."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T10-0071",
+   "section": {
+    "te": "Marine Resource Classification",
+    "en": "Marine Resource Classification"
+   },
+   "q": {
+    "te": "క్రింది సముద్ర వనరులను వాటి వర్గాలతో జతపరచండి:\nI. చమురు మరియు సహజ వాయువు - a. జీవ వనరులు\nII. జల వృక్షసంపద - b. సాంప్రదాయ శక్తి\nIII. గ్యాస్ హైడ్రేట్లు - c. సాంప్రదాయేతర శక్తి",
+    "en": "Match the following marine resources with their categories:\nI. Oil and Natural Gas - a. Living Resources\nII. Aquatic Vegetation - b. Conventional Energy\nIII. Gas Hydrates - c. Non-Conventional Energy"
+   },
+   "options": {
+    "te": [
+     "I-b, II-a, III-c",
+     "I-a, II-b, III-c",
+     "I-c, II-a, III-b",
+     "I-b, II-c, III-a"
+    ],
+    "en": [
+     "I-b, II-a, III-c",
+     "I-a, II-b, III-c",
+     "I-c, II-a, III-b",
+     "I-b, II-c, III-a"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "చమురు మరియు సహజ వాయువు సాంప్రదాయ శక్తి, జల వృక్షసంపద జీవ వనరు, మరియు గ్యాస్ హైడ్రేట్లు సాంప్రదాయేతర శక్తి.",
+    "en": "Oil and Natural Gas are conventional energy, Aquatic Vegetation is a living resource, and Gas Hydrates are non-conventional energy."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T10-0016",
+   "section": {
+    "te": "Groundwater Definition",
+    "en": "Groundwater Definition"
+   },
+   "q": {
+    "te": "భూగర్భంలో లభించే మంచి నీటిని ఏమని పిలుస్తారు?",
+    "en": "What is freshwater found underground called?"
+   },
+   "options": {
+    "te": [
+     "సముద్రపు నీరు",
+     "వాతావరణ నీరు",
+     "హిమానీనద నీరు",
+     "భూగర్భ జలాలు (Groundwater)"
+    ],
+    "en": [
+     "Marine water",
+     "Atmospheric water",
+     "Glacier water",
+     "Groundwater"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూగర్భంలో లభించే మంచి నీటిని భూగర్భ జలాలు అని పిలుస్తారు.",
+    "en": "Freshwater found underground is specifically called groundwater."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T10-0115",
+   "section": {
+    "te": "Continental Shelf Resources",
+    "en": "Continental Shelf Resources"
+   },
+   "q": {
+    "te": "సుదీర్ఘ కాలంలో ఖండతీర అంచులపై చేరిన భారీ అవక్షేప నిక్షేపాలు వేటికి ప్రధాన వనరుగా మారతాయి?",
+    "en": "Massive sedimentary deposits accumulated over long periods on continental shelves serve as a major source of which of the following?"
+   },
+   "options": {
+    "te": [
+     "అగ్నిపర్వత బూడిద",
+     "శిలాజ ఇంధనాలు (Fossil fuels)",
+     "రేడియోధార్మిక ఖనిజాలు",
+     "బహుళ-లోహ గుళికలు"
+    ],
+    "en": [
+     "Volcanic ash",
+     "Fossil fuels",
+     "Radioactive minerals",
+     "Polymetallic nodules"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఖండతీర అంచులపై దీర్ఘకాలంగా చేరిన విస్తారమైన అవక్షేప నిక్షేపాలు శిలాజ ఇంధనాల లభ్యతకు మూలంగా నిలుస్తాయి.",
+    "en": "Massive sedimentary deposits received over a long time by the continental shelves become the source of fossil fuels."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T10-0113",
+   "section": {
+    "te": "Largest Continental Shelf",
+    "en": "Largest Continental Shelf"
+   },
+   "q": {
+    "te": "ప్రపంచంలోనే అతిపెద్ద ఖండతీర అంచుకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది ఆర్కిటిక్ మహాసముద్రంలో ఉంది.\n2. ఇది 1,500 కి.మీ. వెడల్పు వరకు విస్తరించి ఉంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the largest continental shelf in the world:\n1. It is located in the Arctic Ocean.\n2. It stretches up to 1,500 km in width.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 కాదు 2 కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఆర్కిటిక్ మహాసముద్రంలోని సైబీరియన్ షెల్ఫ్ ప్రపంచంలోనే అతిపెద్దది మరియు ఇది 1,500 కి.మీ. వెడల్పు వరకు విస్తరించి ఉంది.",
+    "en": "The Siberian shelf in the Arctic Ocean is the largest continental shelf in the world, extending to a width of 1,500 km."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T10-0111",
+   "section": {
+    "te": "Hydrological Evaporation",
+    "en": "Hydrological Evaporation"
+   },
+   "q": {
+    "te": "భూమిపై కురిసే నీటిలో దాదాపు ఎంత శాతం మహాసముద్రాలు మరియు ఇతర ప్రదేశాల నుండి బాష్పీభవనం చెంది తిరిగి వాతావరణంలోకి చేరుతుంది?",
+    "en": "What percentage of the water that falls on land returns to the atmosphere through evaporation from oceans and other surfaces?"
+   },
+   "options": {
+    "te": [
+     "దాదాపు 41 శాతం",
+     "దాదాపు 59 శాతం",
+     "దాదాపు 50 శాతం",
+     "దాదాపు 71 శాతం"
+    ],
+    "en": [
+     "Nearly 41 per cent",
+     "Nearly 59 per cent",
+     "Nearly 50 per cent",
+     "Nearly 71 per cent"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భూమిపై కురిసే నీటిలో దాదాపు 59 శాతం బాష్పీభవనం ద్వారా తిరిగి వాతావరణంలోకి చేరుతుంది.",
+    "en": "According to the hydrological cycle, nearly 59 per cent of the water that falls on land returns to the atmosphere through evaporation."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T10-0185",
+   "section": {
+    "te": "Types of Tides",
+    "en": "Types of Tides"
+   },
+   "q": {
+    "te": "కింది పోటుపాట్ల రకాలను వాటి రోజువారీ పౌనఃపున్య లక్షణాలతో జతపరచండి:\nజాబితా I (రకం):\nI. సెమీ-డైయూర్నల్ (Semi-diurnal)\nII. డైయూర్నల్ (Diurnal)\nIII. మిశ్రమ (Mixed)\n\nజాబితా II (లక్షణాలు):\n1. రోజుకు ఒక హై టైడ్ మరియు ఒక లో టైడ్ మాత్రమే\n2. పోటుపాట్ల ఎత్తులో వైవిధ్యాలు\n3. రోజుకు రెండు హై టైడ్లు మరియు రెండు లో టైడ్లు\n\nసరైన కోడ్‌ను ఎంచుకోండి:",
+    "en": "Match the following types of tides with their daily frequency characteristics:\nList I (Tide Type):\nI. Semi-diurnal\nII. Diurnal\nIII. Mixed\n\nList II (Characteristics):\n1. Only one high tide and one low tide each day\n2. Variations in height of tides\n3. Two high tides and two low tides each day\n\nChoose the correct code:"
+   },
+   "options": {
+    "te": [
+     "I-3, II-1, III-2",
+     "I-1, II-3, III-2",
+     "I-2, II-1, III-3",
+     "I-3, II-2, III-1"
+    ],
+    "en": [
+     "I-3, II-1, III-2",
+     "I-1, II-3, III-2",
+     "I-2, II-1, III-3",
+     "I-3, II-2, III-1"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సెమీ-డైయూర్నల్ రోజుకు రెండుసార్లు ఒకే ఎత్తులో సంభవిస్తాయి; డైయూర్నల్ రోజుకు ఒకసారి మాత్రమే సంభవిస్తాయి; మిశ్రమ పోటుపాట్లు ఎత్తులో వైవిధ్యాలను కలిగి ఉంటాయి.",
+    "en": "Semi-diurnal tides have two high/low tides daily of similar height; Diurnal tides have one high/low tide daily; Mixed tides have variations in height."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T10-0029",
+   "section": {
+    "te": "Southern Ocean Features",
+    "en": "Southern Ocean Features"
+   },
+   "q": {
+    "te": "ఏ మహాసముద్రం అంటార్కిటికాను చుట్టుముట్టి ఉంది మరియు పెంగ్విన్లు, సీల్స్‌కు నిలయంగా ఉంది?",
+    "en": "Which ocean encircles Antarctica and is home to penguins and seals?"
+   },
+   "options": {
+    "te": [
+     "ఆర్కిటిక్ మహాసముద్రం",
+     "అట్లాంటిక్ మహాసముద్రం",
+     "దక్షిణ మహాసముద్రం",
+     "పసిఫిక్ మహాసముద్రం"
+    ],
+    "en": [
+     "Arctic Ocean",
+     "Atlantic Ocean",
+     "Southern Ocean",
+     "Pacific Ocean"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "దక్షిణ మహాసముద్రం అంటార్కిటికా ఖండాన్ని చుట్టుముట్టి ఉన్న జలభాగం.",
+    "en": "The Southern Ocean is the body of water that surrounds the continent of Antarctica."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T10-0130",
+   "section": {
+    "te": "Pacific Seamounts Count",
+    "en": "Pacific Seamounts Count"
+   },
+   "q": {
+    "te": "అంచనాల ప్రకారం, కేవలం పసిఫిక్ మహాసముద్రంలోనే ఎన్ని సీమౌంట్లు మరియు గయోట్‌లు ఉన్నాయి?",
+    "en": "According to oceanic relief estimates, approximately how many seamounts and guyots exist in the Pacific Ocean alone?"
+   },
+   "options": {
+    "te": [
+     "1,000 కంటే ఎక్కువ",
+     "5,000 కంటే ఎక్కువ",
+     "50,000 కంటే ఎక్కువ",
+     "10,000 కంటే ఎక్కువ"
+    ],
+    "en": [
+     "More than 1,000",
+     "More than 5,000",
+     "More than 50,000",
+     "More than 10,000"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "కేవలం పసిఫిక్ మహాసముద్రంలోనే 10,000 కంటే ఎక్కువ సీమౌంట్లు మరియు గయోట్‌లు ఉన్నాయని అంచనా.",
+    "en": "More than 10,000 seamounts and guyots are estimated to exist in the Pacific Ocean alone."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T10-0033",
+   "section": {
+    "te": "Mariana Trench Conditions",
+    "en": "Mariana Trench Conditions"
+   },
+   "q": {
+    "te": "మరియానా ట్రెంచ్‌కు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఇది గడ్డకట్టే ఉష్ణోగ్రతలకు దగ్గరగా ఉంటుంది.\n2. ఇది అధిక పీడనాన్ని కలిగి ఉంటుంది.\n3. ఇది పూర్తి చీకటిలో ఉంటుంది.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the Mariana Trench:\n1. It has near-freezing temperatures.\n2. It is characterized by high pressure.\n3. It exists in complete darkness.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "తీవ్రమైన చలి, అధిక పీడనం మరియు కాంతి లేకపోవడం అనే మూడు పరిస్థితులు మరియానా ట్రెంచ్ యొక్క వాతావరణాన్ని నిర్వచిస్తాయి.",
+    "en": "All three conditions—extreme cold, high pressure, and lack of light—define the environment of the Mariana Trench."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T10-0053",
+   "section": {
+    "te": "Spring Tides",
+    "en": "Spring Tides"
+   },
+   "q": {
+    "te": "స్ప్రింగ్ పోటులకు (Spring Tides) సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. సూర్యుడు, భూమి మరియు చంద్రుడు సరళరేఖలో ఉన్నప్పుడు ఇవి సంభవిస్తాయి.\n2. వీటి ఫలితంగా అసాధారణ ఎత్తులో అధిక పోటులు ఏర్పడతాయి.\n3. ఇవి మొదటి త్రైమాసిక చంద్ర దశలో మాత్రమే సంభవిస్తాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding Spring Tides:\n1. They occur when the Sun, Earth, and Moon are aligned in a straight line.\n2. They result in high tides of unusual heights.\n3. They occur only during the first-quarter moon phase.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 only",
+     "1 and 2 only",
+     "2 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పౌర్ణమి/అమావాస్య రోజులలో సరళరేఖ అమరిక సమయంలో స్ప్రింగ్ పోటులు సంభవిస్తాయి, ఇవి అసాధారణమైన అధిక మరియు అల్ప పోటులకు కారణమవుతాయి. మొదటి త్రైమాసిక దశలో నీప్ పోటులు సంభవిస్తాయి కాబట్టి 3వ ప్రకటన తప్పు.",
+    "en": "Spring tides occur during straight-line alignment on full/new moon days, causing unusually high and low tides. Statement 3 is incorrect as neap tides occur during the first-quarter phase."
+   }
+  }
+ ]
+}

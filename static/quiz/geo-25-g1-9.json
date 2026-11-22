@@ -1,0 +1,942 @@
+{
+ "id": "geo-25-g1-9",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Agriculture – క్విజ్ 9",
+  "en": "Agriculture – Quiz 9"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T25-0068",
+   "section": {
+    "te": "Green Revolution timeline",
+    "en": "Green Revolution timeline"
+   },
+   "q": {
+    "te": "భారతదేశంలో హరిత విప్లవం ఏ దశాబ్దాలలో జరిగింది?",
+    "en": "During which decades did the Green Revolution occur in India?"
+   },
+   "options": {
+    "te": [
+     "1980లు మరియు 1990లు",
+     "1960లు మరియు 1970లు",
+     "1940లు మరియు 1950లు",
+     "1950లు మరియు 1960లు"
+    ],
+    "en": [
+     "1980s and 1990s",
+     "1960s and 1970s",
+     "1940s and 1950s",
+     "1950s and 1960s"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "హరిత విప్లవం 1960లు మరియు 1970ల కాలంలో భారతీయ వ్యవసాయంలో ఒక ప్రధాన మలుపు.",
+    "en": "The Green Revolution was a major turning point in Indian agriculture that took place during the 1960s and 1970s."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T25-0143",
+   "section": {
+    "te": "Commercial Farming Inputs",
+    "en": "Commercial Farming Inputs"
+   },
+   "q": {
+    "te": "వాణిజ్య వ్యవసాయం యొక్క లక్షణాలు ఈ క్రింది వాటిలో ఏవి?\nA. HYV విత్తనాల వినియోగం\nB. రసాయన ఎరువుల వినియోగం\nC. కీటకనాశినులు మరియు పురుగుమందుల వినియోగం",
+    "en": "Which of the following are characteristics of commercial farming?\nA. Use of HYV seeds\nB. Use of chemical fertilisers\nC. Use of insecticides and pesticides"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అధిక ఉత్పాదకతను సాధించడానికి HYV విత్తనాలు, రసాయన ఎరువులు మరియు పురుగుమందుల వంటి ఆధునిక ఇన్‌పుట్‌లను ఉపయోగించడం వాణిజ్య వ్యవసాయం యొక్క లక్షణం.",
+    "en": "Commercial farming is characterized by the use of modern inputs like HYV seeds, chemical fertilizers, and pesticides to achieve high productivity."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T25-0025",
+   "section": {
+    "te": "Xuanzang travel observation",
+    "en": "Xuanzang travel observation"
+   },
+   "q": {
+    "te": "7వ శతాబ్దంలో భారతదేశంలో పర్యటిస్తూ 'పరిస్థితిని బట్టి శీతోష్ణస్థితి మరియు నేల నాణ్యత భిన్నంగా ఉండటం వల్ల భూమి ఉత్పత్తి వైవిధ్యంగా ఉంది' అని పేర్కొన్న చైనా యాత్రికుడు ఎవరు?",
+    "en": "Which 7th-century Chinese pilgrim observed that in India, 'The climate and the quality of the soil being different according to situation, the produce of the land is various in its character'?"
+   },
+   "options": {
+    "te": [
+     "మెగస్తనీస్",
+     "యువాన్ చాంగ్ (Xuanzang)",
+     "ఇత్సింగ్",
+     "ఫాహియాన్"
+    ],
+    "en": [
+     "Megasthenes",
+     "Xuanzang",
+     "I-Tsing",
+     "Fa-Hien"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "7వ శతాబ్దంలో భారతదేశంలో పర్యటించిన చైనా యాత్రికుడు యువాన్ చాంగ్ (Xuanzang) ఇక్కడి వాతావరణం, వ్యవసాయ వైవిధ్యాన్ని ప్రశంసించాడు.",
+    "en": "Xuanzang, the Chinese pilgrim who travelled across India in the 7th century, remarked on India's climatic and agricultural diversity."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T25-0241",
+   "section": {
+    "te": "Current Fallow Practice",
+    "en": "Current Fallow Practice"
+   },
+   "q": {
+    "te": "ఒక వ్యవసాయ సంవత్సరం లేదా అంతకంటే తక్కువ కాలం భూమిని 'ప్రస్తుత బీడు' (Current Fallow) గా వదిలివేయడం యొక్క ముఖ్య ఉద్దేశం ఏమిటి?",
+    "en": "What is the primary agricultural purpose of leaving land as 'Current Fallow' for one or less than one agricultural year?"
+   },
+   "options": {
+    "te": [
+     "సర్వే ఆఫ్ ఇండియా నిబంధనలను పాటించడానికి",
+     "పంచాయతీ విధించే భూ రెవెన్యూ పన్నులను తప్పించుకోవడానికి",
+     "వ్యవసాయ భూమిని శాశ్వతంగా వ్యవసాయేతర వినియోగానికి మార్చడానికి",
+     "భూమికి విశ్రాంతినిచ్చి, సహజ ప్రక్రియల ద్వారా కోల్పోయిన సారాన్ని తిరిగి పొందేలా చేయడానికి"
+    ],
+    "en": [
+     "To fulfill mandatory Survey of India demarcations",
+     "To avoid land revenue taxes levied by the village panchayat",
+     "To convert agricultural land permanently into non-agricultural use",
+     "To give the land rest so that it recoups lost fertility through natural processes"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భూమికి విశ్రాంతినివ్వడం వల్ల సహజ ప్రక్రియల ద్వారా అది కోల్పోయిన సారవంతతను తిరిగి పొందుతుంది; అందుకే ప్రస్తుత బీడుగా వదులుతారు.",
+    "en": "Fallowing is a cultural practice adopted to give the land rest so that it recoups lost fertility through natural processes."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T25-0022",
+   "section": {
+    "te": "Ancient seed treatment",
+    "en": "Ancient seed treatment"
+   },
+   "q": {
+    "te": "సురపాలుని వృక్షాయుర్వేదం ప్రకారం, విత్తనాలు తప్పక మొలకెత్తడానికి వాటికి కింది వేటిని పూయాలని సూచించబడింది?",
+    "en": "According to Surapāla’s Vṛikṣhāyurveda, which of the following substances are smeared on seeds to ensure that they sprout?"
+   },
+   "options": {
+    "te": [
+     "తేనె (మాక్షిక)",
+     "వాయువిడంగాలు / ఫాల్స్ బ్లాక్ పెప్పర్ (విడంగ)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Honey (maksika)",
+     "False black pepper (bidanga)",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "విత్తనాలు ఖచ్చితంగా మొలకెత్తడానికి తేనె (మాక్షిక) మరియు విడంగ (ఫాల్స్ బ్లాక్ పెప్పర్) రెండింటినీ పూయాలని వృక్షాయుర్వేదం పేర్కొంది.",
+    "en": "Smearing seeds with both honey (maksika) and false black pepper (bidanga) along with milk and cow dung to ensure sprouting."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T25-0183",
+   "section": {
+    "te": "Agricultural Revolutions",
+    "en": "Agricultural Revolutions"
+   },
+   "q": {
+    "te": "భారతీయ వ్యవసాయాన్ని మెరుగుపరచడానికి ప్రారంభించిన శ్వేత విప్లవాన్ని ఏమని కూడా పిలుస్తారు?",
+    "en": "The White Revolution, initiated to improve Indian agriculture, is also known as:"
+   },
+   "options": {
+    "te": [
+     "ఆపరేషన్ మిల్క్",
+     "ఆపరేషన్ ఫ్లడ్",
+     "ఆపరేషన్ వైట్",
+     "ఆపరేషన్ డెయిరీ"
+    ],
+    "en": [
+     "Operation Milk",
+     "Operation Flood",
+     "Operation White",
+     "Operation Dairy"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "శ్వేత విప్లవాన్ని 'ఆపరేషన్ ఫ్లడ్' అని పిలుస్తారని పాఠ్యాంశం పేర్కొంది, ఇది భారతీయ వ్యవసాయాన్ని మెరుగుపరిచే వ్యూహం.",
+    "en": "The text identifies the White Revolution as 'Operation Flood', which was a strategy to improve Indian agriculture."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T25-0011",
+   "section": {
+    "te": "Oilseed Crops",
+    "en": "Oilseed Crops"
+   },
+   "q": {
+    "te": "కాలక్రమేణా రైతులు సాగు చేయడం నేర్చుకున్న నూనెగింజల జాబితాలో కింది వాటిలో ఏవి ఉన్నాయి?",
+    "en": "Which of the following are listed as oilseeds that farmers learned to cultivate over time?"
+   },
+   "options": {
+    "te": [
+     "నువ్వులు మరియు కుసుమలు",
+     "ఆవాలు మరియు ఆముదం",
+     "అవిసె గింజలు (Linseed)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Sesame and Safflower",
+     "Mustard and Castor",
+     "Linseed",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "కాలక్రమేణా రైతులు సాగు చేసిన నూనెగింజలుగా నువ్వులు, కుసుమలు, అవిసెలు, ఆవాలు మరియు ఆముదాలను పాఠం పేర్కొంది.",
+    "en": "The text lists sesame, safflower, linseed, mustard, and castor as oilseeds cultivated by farmers over time."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T25-0146",
+   "section": {
+    "te": "Jowar importance",
+    "en": "Jowar importance"
+   },
+   "q": {
+    "te": "విస్తీర్ణం మరియు ఉత్పత్తి పరంగా భారతదేశంలో మూడవ అతి ముఖ్యమైన ఆహార పంట ఏది?",
+    "en": "Which food crop is the third most important in India with respect to area and production?"
+   },
+   "options": {
+    "te": [
+     "మొక్కజొన్న",
+     "సజ్జలు",
+     "రాగులు",
+     "జొన్నలు"
+    ],
+    "en": [
+     "Maize",
+     "Bajra",
+     "Ragi",
+     "Jowar"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "విస్తీర్ణం మరియు ఉత్పత్తి రెండింటి పరంగా భారతదేశంలో జొన్నలు మూడవ అతి ముఖ్యమైన ఆహార పంట అని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Jowar is the third most important food crop in India in terms of both area and production."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T25-0024",
+   "section": {
+    "te": "Intercropping crop combination",
+    "en": "Intercropping crop combination"
+   },
+   "q": {
+    "te": "పాఠ్యపుస్తకంలో అంతర పంటల సాగుకు (intercropping) ఉదాహరణగా చెరకుతో పాటు ఏ పంటను కలిపి పండించడాన్ని చూపించారు?",
+    "en": "In the textbook, which crop is cited alongside sugarcane as a practical example of intercropping?"
+   },
+   "options": {
+    "te": [
+     "పత్తి",
+     "గుమ్మడికాయ",
+     "ఆవాలు",
+     "బార్లీ"
+    ],
+    "en": [
+     "Cotton",
+     "Pumpkin",
+     "Mustard",
+     "Barley"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యపుస్తకంలోని చిత్రం 1.3 లో చెరకుతో పాటు గుమ్మడికాయను పండించడాన్ని అంతర పంటకు ఉదాహరణగా పేర్కొన్నారు.",
+    "en": "Figure 1.3 in the textbook illustrates growing sugarcane along with pumpkin as an example of intercropping."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T25-0303",
+   "section": {
+    "te": "Tur Production Share",
+    "en": "Tur Production Share"
+   },
+   "q": {
+    "te": "భారతదేశంలో కంది (Tur/Arhar) మొత్తం ఉత్పత్తిలో మహారాష్ట్ర వాటా ఎంత?",
+    "en": "What is the contribution of Maharashtra to the total production of Tur (Arhar) in India?"
+   },
+   "options": {
+    "te": [
+     "సుమారు మూడో వంతు",
+     "పది శాతం కంటే తక్కువ",
+     "సగానికి పైగా",
+     "సుమారు నాలుగో వంతు"
+    ],
+    "en": [
+     "About one-third",
+     "Less than ten per cent",
+     "More than half",
+     "About one-fourth"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భారతదేశం మొత్తం కంది ఉత్పత్తిలో మహారాష్ట్ర ఒక్కటే సుమారు మూడో వంతు వాటాను కలిగి ఉందని మూలం పేర్కొంది.",
+    "en": "Maharashtra alone contributes approximately one-third of India's total Tur production."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T25-0322",
+   "section": {
+    "te": "Coffee Variety Grown",
+    "en": "Coffee Variety Grown"
+   },
+   "q": {
+    "te": "అంతర్జాతీయ మార్కెట్లో అధిక గిరాకీ ఉన్న ఏ మేలైన నాణ్యమైన కాఫీ రకాన్ని భారతదేశం ప్రధానంగా పండిస్తుంది?",
+    "en": "Which superior quality coffee variety, having high demand in the international market, is mostly grown in India?"
+   },
+   "options": {
+    "te": [
+     "ఎక్సెల్సా",
+     "లిబెరికా",
+     "అరేబికా",
+     "రోబస్టా"
+    ],
+    "en": [
+     "Excelsa",
+     "Liberica",
+     "Arabica",
+     "Robusta"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "అంతర్జాతీయ మార్కెట్లో మంచి గిరాకీ ఉన్న ఉత్తమ నాణ్యమైన అరేబికా కాఫీ రకాన్ని భారతదేశం ఎక్కువగా పండిస్తుంది.",
+    "en": "India mostly grows superior quality coffee called arabica, which has great demand in the international market."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T25-0170",
+   "section": {
+    "te": "Tea producing states",
+    "en": "Tea producing states"
+   },
+   "q": {
+    "te": "అస్సాం మరియు పశ్చిమ బెంగాల్ వంటి ప్రధాన రాష్ట్రాలే కాకుండా, భారతదేశంలో టీని ఉత్పత్తి చేసే ఇతర రాష్ట్రాలు ఏవి?",
+    "en": "Which of the following are also tea-producing states in India, besides the major ones like Assam and West Bengal?"
+   },
+   "options": {
+    "te": [
+     "ఆంధ్రప్రదేశ్",
+     "త్రిపుర",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Andhra Pradesh",
+     "Tripura",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రధాన ఉత్పత్తిదారులే కాకుండా, ఆంధ్రప్రదేశ్, త్రిపుర, హిమాచల్ ప్రదేశ్ మరియు మేఘాలయ వంటి రాష్ట్రాలు కూడా టీని ఉత్పత్తి చేస్తాయి.",
+    "en": "In addition to major producers, states like Andhra Pradesh, Tripura, Himachal Pradesh, and Meghalaya also produce tea."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T25-0145",
+   "section": {
+    "te": "Ragi soil types",
+    "en": "Ragi soil types"
+   },
+   "q": {
+    "te": "రాగి సాగుకు సంబంధించి ఈ క్రింది నేల రకాలను పరిశీలించండి:\n1. ఎర్ర నేలలు\n2. లోమీ (Loamy) నేలలు\n3. లోతు తక్కువగా ఉండే నల్ల రేగడి నేలలు\nపైన పేర్కొన్న వాటిలో ఏవి సరైనవి?",
+    "en": "Consider the following soil types for Ragi cultivation:\n1. Red soil\n2. Loamy soil\n3. Shallow black soil\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రాగి పొడి ప్రాంతాల పంట, ఇది ఎర్ర, నల్ల, ఇసుక, లోమీ మరియు లోతు తక్కువగా ఉండే నల్ల రేగడి నేలల్లో బాగా పెరుగుతుంది.",
+    "en": "Ragi is a crop of dry regions that grows well on red, black, sandy, loamy, and shallow black soils."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T25-0002",
+   "section": {
+    "te": "Agricultural Workforce",
+    "en": "Agricultural Workforce"
+   },
+   "q": {
+    "te": "2022-2023 గణాంకాల ప్రకారం, భారతదేశంలోని శ్రామిక జనాభాలో ఎంత శాతం మంది వ్యవసాయం మరియు దాని అనుబంధ రంగాలలో నిమగ్నమై ఉన్నారు?",
+    "en": "According to the 2022-2023 data, what percentage of India's working population is engaged in agriculture and allied activities?"
+   },
+   "options": {
+    "te": [
+     "18 శాతం",
+     "75 శాతం",
+     "46 శాతం",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "18 per cent",
+     "75 per cent",
+     "46 per cent",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఆధారం ప్రకారం, భారతదేశంలోని శ్రామిక జనాభాలో సుమారు 46 శాతం మంది తమ జీవనోపాధి కోసం వ్యవసాయం మరియు అనుబంధ రంగాలపై ఆధారపడుతున్నారు.",
+    "en": "Approximately 46 per cent of the working population in India depends on agriculture and allied sectors for their livelihood."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T25-0266",
+   "section": {
+    "te": "Land Use Trends",
+    "en": "Land Use Trends"
+   },
+   "q": {
+    "te": "1950-51 మరియు 2019-20 మధ్య, మొత్తం రిపోర్టింగ్ ఏరియాలో 'సాగు చేయదగిన బంజరు భూమి' శాతం ఏ విధంగా మారింది?",
+    "en": "Between 1950-51 and 2019-20, the percentage of 'Culturable Waste land' in the total reporting area changed from:"
+   },
+   "options": {
+    "te": [
+     "8.0% నుండి 3.9% కి",
+     "13.4% నుండి 6.8% కి",
+     "6.1% నుండి 3.7% కి",
+     "3.7% నుండి 4.5% కి"
+    ],
+    "en": [
+     "8.0% to 3.9%",
+     "13.4% to 6.8%",
+     "6.1% to 3.7%",
+     "3.7% to 4.5%"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పట్టిక 3.1 ప్రకారం, రిపోర్టింగ్ ఏరియాలో సాగు చేయదగిన బంజరు భూమి శాతం 1950-51లో 8.0% ఉండగా, 2019-20 నాటికి 3.9% కి తగ్గింది.",
+    "en": "As per Table 3.1, Culturable Waste land as a percentage of Reporting Area was 8.0% in 1950-51 and declined to 3.9% in 2019-20."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T25-0150",
+   "section": {
+    "te": "Sugarcane products",
+    "en": "Sugarcane products"
+   },
+   "q": {
+    "te": "చెరకు నుండి లభించే ఉత్పత్తులలో ఈ క్రింది వాటిలో ఏది పేర్కొనబడలేదు?",
+    "en": "Which of the following is NOT mentioned as a product derived from sugarcane?"
+   },
+   "options": {
+    "te": [
+     "మొలాసిస్",
+     "ఖండసారి",
+     "బెల్లం (Gur)",
+     "తేనె"
+    ],
+    "en": [
+     "Molasses",
+     "Khandsari",
+     "Gur",
+     "Honey"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "చెరకు చక్కెర, బెల్లం, ఖండసారి మరియు మొలాసిస్‌లకు మూలం. తేనె చెరకు ఉత్పత్తిగా పేర్కొనబడలేదు.",
+    "en": "Sugarcane is the source of sugar, gur, khandsari, and molasses. Honey is not mentioned as a product of sugarcane."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T25-0339",
+   "section": {
+    "te": "Planning Commission focus",
+    "en": "Planning Commission focus"
+   },
+   "q": {
+    "te": "1980ల కాలంలో భారత ప్రణాళికా సంఘం ప్రత్యేకంగా ఏ ప్రాంతాల్లోని వ్యవసాయ సమస్యలపై తన దృష్టిని సారించింది?",
+    "en": "During the 1980s, the Planning Commission of India focused its attention specifically on the problems of agriculture in which of the following areas?"
+   },
+   "options": {
+    "te": [
+     "వర్షాధార ప్రాంతాలు",
+     "తీరప్రాంత చిత్తడి నేలలు",
+     "కాలువ నీటిపారుదల ప్రాంతాలు",
+     "నదీ డెల్టా ప్రాంతాలు"
+    ],
+    "en": [
+     "Rainfed areas",
+     "Coastal wetland areas",
+     "Canal irrigated areas",
+     "River delta regions"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "1980వ దశకంలో ప్రణాళికా సంఘం వర్షాధార ప్రాంతాల వ్యవసాయ సమస్యలపై ప్రత్యేక దృష్టి పెట్టింది.",
+    "en": "The Planning Commission focused its attention on the problems of agriculture in rainfed areas during the 1980s."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T25-0196",
+   "section": {
+    "te": "Community Forestry Beneficiaries",
+    "en": "Community Forestry Beneficiaries"
+   },
+   "q": {
+    "te": "భూమిలేని నిరుపేద వర్గాలు చెట్ల పెంపకంలో భాగస్వామ్యమై, సాధారణంగా భూయజమానులకు మాత్రమే దక్కే ప్రయోజనాలను పొందేందుకు వీలు కల్పించే కార్యక్రమం ఏది?",
+    "en": "Which forestry programme provides a means through which landless classes can associate themselves in tree-raising and gain benefits typically restricted to landowners?"
+   },
+   "options": {
+    "te": [
+     "ఫార్మ్ అటవీకరణ",
+     "వ్యవసాయ-అటవీకరణ",
+     "వాణిజ్య అటవీకరణ",
+     "సామాజిక సామూహిక అటవీకరణ (Community forestry)"
+    ],
+    "en": [
+     "Farm forestry",
+     "Agro-forestry",
+     "Commercial forestry",
+     "Community forestry"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "కమ్యూనిటీ ఫారెస్ట్రీ ద్వారా భూమిలేని పేదలు చెట్ల పెంపకంలో పాల్గొని, భూయజమానులకు మాత్రమే పరిమితమైన ప్రయోజనాలను పొందే అవకాశం లభిస్తుంది.",
+    "en": "The text specifies that community forestry enables landless classes to participate in tree-raising and receive benefits otherwise restricted to landowners."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T25-0046",
+   "section": {
+    "te": "Munsar Lake location",
+    "en": "Munsar Lake location"
+   },
+   "q": {
+    "te": "చారిత్రక కృత్రిమ సరస్సు అయిన 'మున్సార్ సరస్సు' గుజరాత్‌లోని ఏ ప్రాంతంలో ఉంది?",
+    "en": "At which place in Gujarat is the historic artificial Munsar Lake located?"
+   },
+   "options": {
+    "te": [
+     "లోథల్ (Lothal)",
+     "ధోలవీర (Dholavira)",
+     "విరామ్‌గామ్ (Viramgam)",
+     "సూరత్ (Surat)"
+    ],
+    "en": [
+     "Lothal",
+     "Dholavira",
+     "Viramgam",
+     "Surat"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "మున్సార్ సరస్సు గుజరాత్‌లోని విరామ్‌గామ్‌లో ఉన్న ఒక ప్రసిద్ధ కృత్రిమ సరస్సు.",
+    "en": "The Munsar Lake is an artificial lake located at Viramgam in Gujarat."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T25-0095",
+   "section": {
+    "te": "Causes of groundwater over-pumping",
+    "en": "Causes of groundwater over-pumping"
+   },
+   "q": {
+    "te": "అధిక నీరు అవసరమయ్యే వంగడాలతో పాటు, పంజాబ్‌లో భూగర్భ జలాలను విపరీతంగా తోడివేయడానికి దారితీసిన నిర్దిష్ట విధానపరమైన అంశం ఏది?",
+    "en": "In addition to high-water-requiring seed varieties, which specific policy factor led to the over-pumping of groundwater in Punjab?"
+   },
+   "options": {
+    "te": [
+     "తప్పనిసరి కాలువ పన్ను",
+     "డీజిల్ ఇంజిన్లపై రాయితీలు",
+     "నది లిఫ్ట్ వ్యవస్థలపై నిషేధం",
+     "ఉచిత విద్యుత్ సరఫరా"
+    ],
+    "en": [
+     "Compulsory canal tax",
+     "Subsidies on diesel engines",
+     "Ban on river lift systems",
+     "Supply of free power"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రైతులకు ఉచిత విద్యుత్ సరఫరా చేయడం భూగర్భ జలాలను మితిమీరి తోడివేయడానికి దారితీసిందని పేర్కొనబడింది.",
+    "en": "The supply of free power led directly to the over-pumping of groundwater by farmers."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T25-0159",
+   "section": {
+    "te": "Groundnut production ranking",
+    "en": "Groundnut production ranking"
+   },
+   "q": {
+    "te": "2019-20 సంవత్సరంలో భారతదేశంలో వేరుశనగను అత్యధికంగా ఉత్పత్తి చేసిన రాష్ట్రం ఏది?",
+    "en": "Which state was the largest producer of groundnut in India during the year 2019–20?"
+   },
+   "options": {
+    "te": [
+     "ఆంధ్రప్రదేశ్",
+     "తమిళనాడు",
+     "గుజరాత్",
+     "రాజస్థాన్"
+    ],
+    "en": [
+     "Andhra Pradesh",
+     "Tamil Nadu",
+     "Gujarat",
+     "Rajasthan"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "2019-20లో వేరుశనగ ఉత్పత్తిలో గుజరాత్ మొదటి స్థానంలో ఉండగా, రాజస్థాన్ మరియు తమిళనాడు తర్వాతి స్థానాల్లో ఉన్నాయి.",
+    "en": "In 2019-20, Gujarat held the first position in groundnut production, followed by Rajasthan and Tamil Nadu."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T25-0282",
+   "section": {
+    "te": "Foodgrains Cropped Area",
+    "en": "Foodgrains Cropped Area"
+   },
+   "q": {
+    "te": "భారతదేశంలోని మొత్తం పంట విస్తీర్ణంలో ఆహార ధాన్యాలు సుమారు ఎంత భాగాన్ని ఆక్రమిస్తాయి?",
+    "en": "Foodgrains occupy approximately what proportion of the total cropped area in India?"
+   },
+   "options": {
+    "te": [
+     "నాలుగింట ఒక వంతు (1/4)",
+     "మూడింట ఒక వంతు (1/3)",
+     "సగం (1/2)",
+     "మూడింట రెండు వంతులు (2/3)"
+    ],
+    "en": [
+     "One-fourth",
+     "One-third",
+     "One-half",
+     "Two-third"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతదేశ వ్యవసాయ ఆర్థిక వ్యవస్థలో ఆహార ధాన్యాలు ప్రధానమైనవి, ఇవి మొత్తం పంట విస్తీర్ణంలో సుమారు మూడింట రెండు వంతుల భాగాన్ని ఆక్రమిస్తాయి.",
+    "en": "Foodgrains are dominant in the Indian agricultural economy, covering about two-third of the total cropped area."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T25-0343",
+   "section": {
+    "te": "British land revenue",
+    "en": "British land revenue"
+   },
+   "q": {
+    "te": "బ్రిటిష్ కాలంలో అమల్లో ఉన్న మూడు భూ రెవెన్యూ వ్యవస్థలలో (మహల్వారీ, రైత్వారీ, జమీందారీ) వేటిలో రైతులు అత్యంత తీవ్రంగా దోపిడీకి గురయ్యారు?",
+    "en": "Among the three land revenue systems operational during the British period (Mahalwari, Ryotwari, and Zamindari), which was the most exploitative for the peasants?"
+   },
+   "options": {
+    "te": [
+     "ఇనాందారీ",
+     "మహల్వారీ",
+     "రైత్వారీ",
+     "జమీందారీ"
+    ],
+    "en": [
+     "Inamdari",
+     "Mahalwari",
+     "Ryotwari",
+     "Zamindari"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "బ్రిటిష్ కాలంలో అమలులో ఉన్న మూడు రెవెన్యూ వ్యవస్థలలో జమీందారీ విధానం రైతులను అత్యంత తీవ్రంగా దోపిడీ చేసింది.",
+    "en": "Among Mahalwari, Ryotwari, and Zamindari systems, the Zamindari system was the most exploitative for peasants."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T25-0194",
+   "section": {
+    "te": "Agro-Forestry Products",
+    "en": "Agro-Forestry Products"
+   },
+   "q": {
+    "te": "వ్యవసాయ-అటవీకరణ (Agro-forestry) ద్వారా అటవీ మరియు వ్యవసాయాన్ని కలిపి వేటిని ఏకకాలంలో ఉత్పత్తి చేస్తారు?",
+    "en": "Agro-forestry combines forestry with agriculture for the simultaneous production of which of the following?"
+   },
+   "options": {
+    "te": [
+     "ఆహారం మరియు పశుగ్రాసం",
+     "ఇంధనం, కలప మరియు పండ్లు",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Food and fodder",
+     "Fuel, timber and fruit",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వ్యవసాయ-అటవీకరణ ద్వారా ఆహారం, పశుగ్రాసం, ఇంధనం, కలప మరియు పండ్లను ఏకకాలంలో ఉత్పత్తి చేయవచ్చు.",
+    "en": "Agro-forestry combines forestry with agriculture, altering the simultaneous production of food, fodder, fuel, timber, and fruit."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T25-0157",
+   "section": {
+    "te": "Pulses production and consumption",
+    "en": "Pulses production and consumption"
+   },
+   "q": {
+    "te": "భారతదేశంలోని పప్పుధాన్యాల గురించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. ప్రపంచంలో పప్పుధాన్యాల ఉత్పత్తిలో భారతదేశం అతిపెద్ద దేశం.\n2. ప్రపంచంలో పప్పుధాన్యాల వినియోగంలో భారతదేశం అతిపెద్ద దేశం.\nపైన పేర్కొన్న ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about pulses in India:\n1. India is the largest producer of pulses in the world.\n2. India is the largest consumer of pulses in the world.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రపంచవ్యాప్తంగా పప్పుధాన్యాల ఉత్పత్తిలోనూ మరియు వినియోగంలోనూ భారతదేశం అగ్రస్థానంలో ఉంది.",
+    "en": "India holds the position of being both the largest producer and the largest consumer of pulses globally."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T25-0230",
+   "section": {
+    "te": "Collective Farming Kolkhoz",
+    "en": "Collective Farming Kolkhoz"
+   },
+   "q": {
+    "te": "'కోల్‌ఖోజ్' (Kolkhoz) అని పిలువబడే ఉమ్మడి వ్యవసాయ నమూనాను వ్యవసాయ ఉత్పత్తిని పెంచి స్వయం సమృద్ధి సాధించడానికి ఏ దేశంలో ప్రవేశపెట్టారు?",
+    "en": "The collective farming model known as 'Kolkhoz' was introduced in which region/country to boost agricultural production for self-sufficiency?"
+   },
+   "options": {
+    "te": [
+     "యునైటెడ్ స్టేట్స్ ఆఫ్ అమెరికా",
+     "నెదర్లాండ్స్",
+     "స్విట్జర్లాండ్",
+     "పూర్వపు సోవియట్ యూనియన్"
+    ],
+    "en": [
+     "United States of America",
+     "The Netherlands",
+     "Switzerland",
+     "Erstwhile Soviet Union"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పూర్వపు సోవియట్ యూనియన్‌లో వ్యవసాయ అసమర్థతలను అధిగమించి ఉత్పత్తిని పెంపొందించడానికి 'కోల్‌ఖోజ్' సామూహిక వ్యవసాయ విధానాన్ని ప్రవేశపెట్టారు.",
+    "en": "The Kolkhoz model of collective farming was introduced in the erstwhile Soviet Union to overcome inefficiencies and enhance agricultural production."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T25-0127",
+   "section": {
+    "te": "Global Farming Names",
+    "en": "Global Farming Names"
+   },
+   "q": {
+    "te": "బ్రెజిల్‌లో 'నరికి కాల్చివేసే' వ్యవసాయాన్ని క్రింది వాటిలో ఏ పేరుతో పిలుస్తారు?",
+    "en": "In Brazil, 'slash and burn' agriculture is known by which of the following names?"
+   },
+   "options": {
+    "te": [
+     "మిల్పా (Milpa)",
+     "కొనుకో (Conuco)",
+     "రోకా (Roca)",
+     "లడాంగ్ (Ladang)"
+    ],
+    "en": [
+     "Milpa",
+     "Conuco",
+     "Roca",
+     "Ladang"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "బ్రెజిల్‌లో 'నరికి కాల్చివేసే' వ్యవసాయాన్ని 'రోకా' అని పిలుస్తారని పాఠ్యభాగం పేర్కొంది.",
+    "en": "'slash and burn' agriculture is known as 'Roca' in Brazil."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T25-0199",
+   "section": {
+    "te": "Subsistence Agriculture Categories",
+    "en": "Subsistence Agriculture Categories"
+   },
+   "q": {
+    "te": "జీవనాధార వ్యవసాయాన్ని ఏ రెండు విభాగాలుగా వర్గీకరించారు?",
+    "en": "Subsistence agriculture is classified into which two broad categories?"
+   },
+   "options": {
+    "te": [
+     "ప్రాథమిక జీవనాధార వ్యవసాయం మరియు సాంద్ర జీవనాధార వ్యవసాయం",
+     "వాణిజ్య వ్యవసాయం మరియు తోటల వ్యవసాయం",
+     "విస్తృత జీవనాధార వ్యవసాయం మరియు సంచార పశుపోషణ",
+     "స్థిర వ్యవసాయం మరియు పోడు వ్యవసాయం"
+    ],
+    "en": [
+     "Primitive subsistence agriculture and Intensive subsistence agriculture",
+     "Commercial agriculture and Plantation agriculture",
+     "Extensive subsistence agriculture and Pastoral nomadism",
+     "Sedentary agriculture and Shifting cultivation"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "జీవనాధార వ్యవసాయాన్ని ప్రాథమిక జీవనాధార వ్యవసాయం మరియు సాంద్ర జీవనాధార వ్యవసాయం అనే రెండు వర్గాలుగా విభజించారు.",
+    "en": "Subsistence agriculture is grouped into Primitive Subsistence Agriculture and Intensive Subsistence Agriculture."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T25-0054",
+   "section": {
+    "te": "Sprinkler irrigation",
+    "en": "Sprinkler irrigation"
+   },
+   "q": {
+    "te": "కృత్రిమ వర్షంలా పంటలపై పడే విధంగా గాల్లోకి నీటిని వెదజల్లే ఆధునిక నీటిపారుదల పద్ధతి ఏది?",
+    "en": "Which modern irrigation method sprays water into the air so that it falls over the crops like artificial rain?"
+   },
+   "options": {
+    "te": [
+     "బిందు సేద్యం (Drip irrigation)",
+     "ఫాద్ వ్యవస్థ (Phad system)",
+     "వెదురు సేద్యం (Bamboo irrigation)",
+     "తుంపర సేద్యం (Sprinkler irrigation)"
+    ],
+    "en": [
+     "Drip irrigation",
+     "Phad system",
+     "Bamboo irrigation",
+     "Sprinkler irrigation"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "తుంపర సేద్యం (Sprinkler irrigation) నీటిని గాల్లోకి చిమ్ముతుంది, అది పంటలపై కృత్రిమ వర్షంలా పడుతుంది.",
+    "en": "Sprinkler irrigation sprays water into the air, which falls over crops like artificial rain."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T25-0020",
+   "section": {
+    "te": "Ancient tree watering",
+    "en": "Ancient tree watering"
+   },
+   "q": {
+    "te": "సురపాలుని వృక్షాయుర్వేదం ప్రకారం, శుష్క భూములలో (arid land) కొత్తగా నాటిన చెట్లకు ఎన్ని రోజుల పాటు ప్రతి ఉదయం మరియు సాయంత్రం నీరు పోయాలి?",
+    "en": "According to Surapāla’s Vṛikṣhāyurveda, newly planted trees in arid land should be watered every morning and evening for what period?"
+   },
+   "options": {
+    "te": [
+     "ఏడు రోజులు",
+     "పది రోజులు",
+     "పదిహేను రోజులు",
+     "ఇరవై ఒక్క రోజులు"
+    ],
+    "en": [
+     "Seven days",
+     "Ten days",
+     "Fifteen days",
+     "Twenty-one days"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వృక్షాయుర్వేదం ప్రకారం శుష్క భూమిలో నాటిన కొత్త చెట్లకు నేల పూర్తిగా తడిసే వరకు 15 రోజుల పాటు ఉదయం, సాయంత్రం నీరు పోయాలి.",
+    "en": "Vṛikṣhāyurveda states that newly planted trees in arid land should be watered morning and evening for fifteen days until the soil is soaked."
+   }
+  }
+ ]
+}

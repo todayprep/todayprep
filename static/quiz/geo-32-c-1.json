@@ -1,0 +1,942 @@
+{
+ "id": "geo-32-c-1",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Economic Activities and Sectors – క్విజ్ 1",
+  "en": "Economic Activities and Sectors – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T32-0071",
+   "section": {
+    "te": "Silk Route distance",
+    "en": "Silk Route distance"
+   },
+   "q": {
+    "te": "రోమ్ మరియు చైనాలను కలుపుతూ దూరప్రాంత వాణిజ్యానికి తొలి ఉదాహరణగా నిలిచిన పురాతన సిల్క్ రూట్ సుమారు ఎంత పొడవు కలిగి ఉంది?",
+    "en": "The ancient Silk Route, an early example of long-distance trade connecting Rome to China, stretched over approximately what distance?"
+   },
+   "options": {
+    "te": [
+     "4,000 కి.మీ",
+     "10,000 కి.మీ",
+     "8,000 కి.మీ",
+     "6,000 కి.మీ"
+    ],
+    "en": [
+     "4,000 km",
+     "10,000 km",
+     "8,000 km",
+     "6,000 km"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "సిల్క్ రూట్ రోమ్ మరియు చైనాలను కలుపుతూ సుమారు 6,000 కి.మీ పొడవునా విస్తరించి ఉంది.",
+    "en": "The Silk Route connected Rome to China along a route measuring approximately 6,000 km."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T32-0047",
+   "section": {
+    "te": "Popular Warmer Tourist Regions",
+    "en": "Popular Warmer Tourist Regions"
+   },
+   "q": {
+    "te": "ప్రపంచంలో ప్రసిద్ధి చెందిన పర్యాటక ప్రాంతాలుగా క్రింది ఏ వెచ్చని తీరప్రాంతాలు పేర్కొనబడ్డాయి?",
+    "en": "Which of the following warmer coastal regions are mentioned as popular tourist destinations in the world?"
+   },
+   "options": {
+    "te": [
+     "బాల్టిక్ తీరం మరియు ఎర్ర సముద్ర తీరం",
+     "కరేబియన్ తీరం మరియు మలబార్ తీరం",
+     "ఉత్తర సముద్ర తీరం మరియు కోరమాండల్ తీరం",
+     "మధ్యధరా తీరం మరియు భారతదేశ పశ్చిమ తీరం"
+    ],
+    "en": [
+     "Baltic Coast and Red Sea Coast",
+     "Caribbean Coast and Malabar Coast",
+     "North Sea Coast and Coromandel Coast",
+     "Mediterranean Coast and West Coast of India"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మధ్యధరా తీరం మరియు భారతదేశ పశ్చిమ తీరంలోని వెచ్చని ప్రాంతాలు ప్రపంచ ప్రసిద్ధ పర్యాటక కేంద్రాలుగా ఉన్నాయి.",
+    "en": "The text identifies warmer places around the Mediterranean Coast and the West Coast of India as popular tourist destinations."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T32-0079",
+   "section": {
+    "te": "Post-Industrial Revolution prices",
+    "en": "Post-Industrial Revolution prices"
+   },
+   "q": {
+    "te": "పారిశ్రామిక విప్లవం తర్వాత, తయారీ వస్తువులతో (manufactured goods) పోల్చితే ధాన్యాలు, మాంసం, ఉన్ని వంటి ముడి పదార్థాల ద్రవ్య విలువ ఏ విధంగా మారింది?",
+    "en": "After the Industrial Revolution, what happened to the monetary value of raw materials such as grains, meat, and wool in relation to manufactured goods?"
+   },
+   "options": {
+    "te": [
+     "గణనీయంగా పెరిగింది",
+     "ఎటువంటి ధోరణి లేకుండా హెచ్చుతగ్గులకు లోనైంది",
+     "క్షీణించింది (తగ్గింది)",
+     "ఎటువంటి మార్పు లేకుండా స్థిరంగా ఉంది"
+    ],
+    "en": [
+     "It increased significantly",
+     "It fluctuated unpredictably without any trend",
+     "It declined",
+     "It remained constant"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పారిశ్రామిక విప్లవం తర్వాత ముడి పదార్థాల డిమాండ్ పెరిగినప్పటికీ, తయారీ వస్తువులతో పోలిస్తే వాటి ద్రవ్య విలువ తగ్గింది.",
+    "en": "After the Industrial Revolution, while demand for raw materials expanded, their monetary value declined in relation to manufactured goods."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T32-0049",
+   "section": {
+    "te": "Factors Affecting Transport Routes",
+    "en": "Factors Affecting Transport Routes"
+   },
+   "q": {
+    "te": "రవాణా మార్గాలను నిర్ణయించే కారకాలను క్రింది వాటిలో గుర్తించండి:\n1. నగరాలు, పారిశ్రామిక కేంద్రాలు మరియు ముడి పదార్థాల స్థానం\n2. వాటి మధ్య గల భూస్వరూప స్వభావం\n3. మార్గంలోని అడ్డంకులను అధిగమించడానికి అందుబాటులో ఉన్న నిధులు\nక్రింది కోడ్‌లను ఉపయోగించి సరైన సమాధానాన్ని ఎంచుకోండి:",
+    "en": "Which of the following factors determine the transport routes between places?\n1. Location of cities, industrial centres, and raw materials\n2. Nature of the landscape between them\n3. Funds available for overcoming obstacles along the route\nSelect the correct answer using the code given below:"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "నగరాలు, పరిశ్రమల స్థానం, భూస్వరూపం మరియు అడ్డంకులను అధిగమించేందుకు లభించే నిధులు అన్నీ రవాణా మార్గాలను ప్రభావితం చేస్తాయి.",
+    "en": "Routes depend on the location of cities and raw materials, trade patterns, nature of the landscape, climate, and funds available for overcoming obstacles."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T32-0101",
+   "section": {
+    "te": "Occupational categories",
+    "en": "Occupational categories"
+   },
+   "q": {
+    "te": "2011 జనాభా లెక్కల ప్రకారం, భారతదేశ శ్రామిక జనాభాను ఎన్ని ప్రధాన వృత్తిపరమైన వర్గాలుగా విభజించారు?",
+    "en": "According to the 2011 Census, the working population of India has been divided into how many major occupational categories?"
+   },
+   "options": {
+    "te": [
+     "నాలుగు",
+     "మూడు",
+     "ఐదు",
+     "ఆరు"
+    ],
+    "en": [
+     "Four",
+     "Three",
+     "Five",
+     "Six"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "2011 జనాభా లెక్కల ప్రకారం శ్రామిక జనాభాను సాగుదారులు, వ్యవసాయ కూలీలు, గృహ పరిశ్రమల శ్రామికులు మరియు ఇతర శ్రామికులు అనే నాలుగు వర్గాలుగా విభజించారు.",
+    "en": "The 2011 Census categorises the working population into four groups: Cultivators, Agricultural Labourers, Household Industrial Workers, and Other Workers."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T32-0112",
+   "section": {
+    "te": "Sectoral shift in economy",
+    "en": "Sectoral shift in economy"
+   },
+   "q": {
+    "te": "వ్యవసాయ రంగంలోని కార్మికుల నిష్పత్తి 2001లో 58.2% నుండి 2011లో 54.6%కి తగ్గడం భారత ఆర్థిక వ్యవస్థలో ఏ ధోరణిని సూచిస్తుంది?",
+    "en": "The decline in the proportion of workers in the agricultural sector from 58.2% in 2001 to 54.6% in 2011 indicates which of the following trends in the Indian economy?"
+   },
+   "options": {
+    "te": [
+     "పట్టణీకరణ మరియు పారిశ్రామికీకరణలో తగ్గుదల",
+     "ద్వితీయ రంగంలో మహిళల భాగస్వామ్యం తగ్గడం",
+     "వ్యవసాయ ఆధారిత వృత్తుల నుండి వ్యవసాయేతర ఆధారిత వృత్తులకు రంగాల వారీ మార్పు (sectoral shift)",
+     "వ్యవసాయేతర ఆధారిత వృత్తుల నుండి వ్యవసాయ ఆధారిత వృత్తులకు మార్పు"
+    ],
+    "en": [
+     "A decrease in urbanisation and industrialisation",
+     "A decline in the participation of women in the secondary sector",
+     "A sectoral shift from farm-based to non-farm based occupations",
+     "A shift from non-farm based to farm-based occupations"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వ్యవసాయ కార్మికుల తగ్గుదల వ్యవసాయ ఆధారిత వృత్తుల నుండి వ్యవసాయేతర ఆధారిత వృత్తులకు మారడాన్ని సూచిస్తుందని పాఠ్యాంశం పేర్కొంది, ఇది ఆర్థిక వ్యవస్థలో రంగాల వారీ మార్పు.",
+    "en": "The decline in agricultural workers indicates a shift from farm-based to non-farm based occupations, which is a sectoral shift in the economy."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T32-0009",
+   "section": {
+    "te": "Decline of Gathering Market",
+    "en": "Decline of Gathering Market"
+   },
+   "q": {
+    "te": "ఉష్ణమండల అడవులలో సేకరించిన వస్తువులు ప్రపంచ మార్కెట్లో ఎందుకు సమర్థవంతంగా పోటీ పడలేకపోతున్నాయి?",
+    "en": "Why are products obtained from tropical forest gathering unable to compete effectively in the global market?"
+   },
+   "options": {
+    "te": [
+     "ఉష్ణమండల అటవీ రవాణా ఖర్చులను చట్టం పూర్తిగా నిషేధించడం వల్ల",
+     "సేకరణకు మితిమీరిన మూలధన పెట్టుబడి అవసరం కావడం వల్ల",
+     "మంచి నాణ్యత మరియు తక్కువ ధర కలిగిన కృత్రిమ (సింథటిక్) ఉత్పత్తులు వాటి స్థానాన్ని భర్తీ చేయడం వల్ల",
+     "అంతర్జాతీయ వాణిజ్య ఒప్పందాలు అటవీ ఉత్పత్తులపై నిషేధం విధించడం వల్ల"
+    ],
+    "en": [
+     "Transport costs from tropical forests are strictly prohibited by law",
+     "Gathering requires excessively high capital investment",
+     "Synthetic products of better quality and lower prices have replaced them",
+     "International trade agreements have banned forest-gathered goods"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఉత్తమ నాణ్యత మరియు తక్కువ ధరలలో లభించే సింథటిక్ ఉత్పత్తులు సహజ సేకరణ వస్తువుల స్థానాన్ని ఆక్రమించాయి.",
+    "en": "Synthetic products, often of better quality and at lower prices, have replaced many items supplied by forest gatherers."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T32-0035",
+   "section": {
+    "te": "Transport Network Links",
+    "en": "Transport Network Links"
+   },
+   "q": {
+    "te": "రవాణా నెట్‌వర్క్‌లో రెండు నోడ్‌లను కలిపే ప్రతి రహదారిని ఏమని పిలుస్తారు?",
+    "en": "In a transport network, what is every road that joins two nodes called?"
+   },
+   "options": {
+    "te": [
+     "లింక్ (Link)",
+     "సెక్టార్ (Sector)",
+     "రూట్ (Route)",
+     "కారిడార్ (Corridor)"
+    ],
+    "en": [
+     "Link",
+     "Sector",
+     "Route",
+     "Corridor"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "రవాణా వ్యవస్థలో రెండు నోడ్‌లను కలిపే ప్రతి రహదారిని 'లింక్' అని పిలుస్తారు.",
+    "en": "The source specifies that every road that joins two nodes is called a link."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T32-0032",
+   "section": {
+    "te": "Commercial Livestock Rearing",
+    "en": "Commercial Livestock Rearing"
+   },
+   "q": {
+    "te": "వాణిజ్య పశువుల పెంపకంలో (Commercial ranching), పెద్ద రాంచ్ ప్రాంతాలను కంచె వేసిన పార్శిల్స్‌గా ఎందుకు విభజిస్తారు?",
+    "en": "In commercial ranching, why are the large ranch areas divided into fenced parcels?"
+   },
+   "options": {
+    "te": [
+     "అడవి జంతువుల నుండి జంతువులను రక్షించడానికి",
+     "మేతను క్రమబద్ధీకరించడానికి (To regulate the grazing)",
+     "వివిధ రకాల జంతువులను వేరు చేయడానికి",
+     "వివిధ రైతులకు మధ్య యాజమాన్యాన్ని గుర్తించడానికి"
+    ],
+    "en": [
+     "To protect animals from wild predators",
+     "To regulate the grazing",
+     "To separate different types of animals",
+     "To mark ownership between different farmers"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "మేతను క్రమబద్ధీకరించడానికి రాంచ్‌లను కంచె వేసిన పార్శిల్స్‌గా విభజిస్తారు; ఒక పార్శిల్‌లో మేత పూర్తయినప్పుడు, జంతువులను మరొక పార్శిల్‌కు మారుస్తారు.",
+    "en": "Ranches are divided into fenced parcels to regulate grazing; when one parcel is grazed, animals are moved to another."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T32-0048",
+   "section": {
+    "te": "Value Enhancement by Transport",
+    "en": "Value Enhancement by Transport"
+   },
+   "q": {
+    "te": "ఉత్పత్తి, పంపిణీ మరియు వినియోగం యొక్క సంక్లిష్ట వ్యవస్థలోని ప్రతి దశలో, వస్తువు యొక్క విలువను గణనీయంగా పెంచేది ఏది?",
+    "en": "At every stage in the complex system of production, distribution, and consumption, what significantly enhances the value of the material?"
+   },
+   "options": {
+    "te": [
+     "రిటైల్ ప్యాకేజింగ్",
+     "రవాణా (Transportation)",
+     "దీర్ఘకాలిక నిల్వ",
+     "భారీ పన్నులు"
+    ],
+    "en": [
+     "Retail packaging",
+     "Transportation",
+     "Long-term storage",
+     "Heavy taxation"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "రవాణా వ్యవస్థ ద్వారా ప్రతి దశలోనూ వస్తువు యొక్క విలువ గణనీయంగా పెరుగుతుంది.",
+    "en": "At every stage in this complex system, the value of the material is significantly enhanced by transportation."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T32-0092",
+   "section": {
+    "te": "Slave trade destination",
+    "en": "Slave trade destination"
+   },
+   "q": {
+    "te": "పదిహేనవ శతాబ్దం నుండి ప్రారంభమైన యూరోపియన్ వలసవాద కాలంలో, బానిసలుగా పట్టుబడిన ఆఫ్రికన్లను తోటల పని కోసం బలవంతంగా ఏ ప్రాంతానికి తరలించారు?",
+    "en": "During the era of European colonialism starting from the fifteenth century, African natives were captured and forcefully transported to which region for plantation labour?"
+   },
+   "options": {
+    "te": [
+     "ఆస్ట్రేలియా మరియు న్యూజిలాండ్‌లకు",
+     "కొత్తగా కనుగొనబడిన అమెరికా ప్రాంతాలకు",
+     "భారత ఉపఖండానికి",
+     "మధ్య మరియు తూర్పు ఐరోపాకు"
+    ],
+    "en": [
+     "Australia and New Zealand",
+     "The newly discovered Americas",
+     "The Indian subcontinent",
+     "Central and Eastern Europe"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పోర్చుగీస్, డచ్, స్పానిష్ మరియు బ్రిటిష్ వారు ఆఫ్రికా స్థానికులను బంధించి తోటల పని కోసం కొత్తగా కనుగొన్న అమెరికా ఖండాలకు తరలించారు.",
+    "en": "European colonial powers (Portuguese, Dutch, Spaniards, and British) forcefully transported captured Africans to the Americas to work on plantations."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T32-0026",
+   "section": {
+    "te": "Retailing Innovations",
+    "en": "Retailing Innovations"
+   },
+   "q": {
+    "te": "రిటైలింగ్ రంగంలో మొట్టమొదటి భారీ స్థాయి ఆవిష్కరణ కింది వాటిలో ఏది?",
+    "en": "Which of the following was the first large-scale innovation in the field of retailing?"
+   },
+   "options": {
+    "te": [
+     "వినియోగదారుల సహకార సంఘాలు (Consumer cooperatives)",
+     "ఇంటర్నెట్ వ్యాపారం",
+     "డిపార్ట్‌మెంటల్ స్టోర్స్",
+     "చైన్ స్టోర్స్"
+    ],
+    "en": [
+     "Consumer cooperatives",
+     "Internet trading",
+     "Departmental stores",
+     "Chain stores"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "రిటైలింగ్ రంగంలో వినియోగదారుల సహకార సంఘాలను మొట్టమొదటి ప్రధాన భారీ స్థాయి ఆవిష్కరణగా పాఠ్యభాగం గుర్తించింది.",
+    "en": "The text identifies consumer cooperatives as the first major large-scale innovation in the retailing sector."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T32-0086",
+   "section": {
+    "te": "Stages of development",
+    "en": "Stages of development"
+   },
+   "q": {
+    "te": "ఆర్థికాభివృద్ధి దశల ఆధారంగా జరిగే వాణిజ్య వస్తువుల స్వభావానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. వ్యవసాయ ఆధారిత దేశాలు వ్యవసాయ ఉత్పత్తులను ఇచ్చి పారిశ్రామిక వస్తువులను మార్పిడి చేసుకుంటాయి.\n2. పారిశ్రామిక దేశాలు యంత్రాలు మరియు తయారీ వస్తువులను ఎగుమతి చేసి, ఆహార ధాన్యాలు మరియు ముడి పదార్థాలను దిగుమతి చేసుకుంటాయి.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the nature of traded goods at different stages of economic development:\n1. Agriculturally important countries exchange agro products for manufactured goods.\n2. Industrialised nations export machinery and finished products while importing food grains and raw materials.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 కాదు 2 కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఆర్థికాభివృద్ధి వివిధ దశల్లో ఉన్నప్పుడు వాణిజ్య వస్తువుల స్వభావం మారుతుంది; రెండు ప్రకటనలు కూడా పాఠ్యాంశం ప్రకారం సరైనవి.",
+    "en": "Both statements are correct according to the text describing trade patterns at different stages of economic development."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T32-0108",
+   "section": {
+    "te": "Gender and development quote",
+    "en": "Gender and development quote"
+   },
+   "q": {
+    "te": "\"అభివృద్ధిలో లింగ సమానత్వం లేకపోతే అది ప్రమాదంలో పడుతుంది\" (If development is not engendered it is endangered) - ఈ వ్యాఖ్యను 1995 మానవాభివృద్ధి నివేదికలో ఏ సంస్థ పేర్కొంది?",
+    "en": "“If development is not engendered it is endangered” — this notable statement was acknowledged by which organization in its 1995 Human Development Report?"
+   },
+   "options": {
+    "te": [
+     "ప్రపంచ వాణిజ్య సంస్థ (WTO)",
+     "ప్రపంచ బ్యాంకు (World Bank)",
+     "అంతర్జాతీయ కార్మిక సంస్థ (ILO)",
+     "ఐక్యరాజ్యసమితి అభివృద్ధి కార్యక్రమం (UNDP)"
+    ],
+    "en": [
+     "World Trade Organisation (WTO)",
+     "World Bank",
+     "International Labour Organization (ILO)",
+     "United Nations Development Programme (UNDP)"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఈ వ్యాఖ్యను ఐక్యరాజ్యసమితి అభివృద్ధి కార్యక్రమం (UNDP) తన 1995 మానవాభివృద్ధి నివేదికలో పేర్కొంది.",
+    "en": "This statement was acknowledged by the UNDP in its 1995 Human Development Report (HDR UNDP 1995)."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T32-0021",
+   "section": {
+    "te": "Economic Development",
+    "en": "Economic Development"
+   },
+   "q": {
+    "te": "అభివృద్ధి చెందిన ఆర్థిక వ్యవస్థలో ఉపాధికి సంబంధించి కింది ప్రకటనలను పరిగణించండి:\n1. మెజారిటీ కార్మికులు ప్రాథమిక రంగంలో ఉపాధి పొందుతారు.\n2. మధ్యస్థ నిష్పత్తిలో కార్మికులు ద్వితీయ రంగంలో ఉపాధి పొందుతారు.\n3. మెజారిటీ కార్మికులు తృతీయ రంగ కార్యకలాపాలలో ఉపాధి పొందుతారు.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding employment in a developed economy:\n1. The majority of workers are employed in the primary sector.\n2. A moderate proportion of workers is employed in the secondary sector.\n3. The majority of workers get employment in tertiary activity.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "అభివృద్ధి చెందిన ఆర్థిక వ్యవస్థలో, మెజారిటీ కార్మికులు తృతీయ రంగంలో మరియు మధ్యస్థ నిష్పత్తిలో ద్వితీయ రంగంలో ఉంటారు. అభివృద్ధి యొక్క ప్రారంభ దశలలో మాత్రమే ప్రాథమిక రంగం ఎక్కువ మందికి ఉపాధిని ఇస్తుంది.",
+    "en": "In a developed economy, the majority of workers are in the tertiary sector and a moderate proportion in the secondary sector. The primary sector employs a larger proportion only in the initial stages of development."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T32-0002",
+   "section": {
+    "te": "Primary Activities Examples",
+    "en": "Primary Activities Examples"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఏవి ప్రాథమిక కార్యకలాపాల పరిధిలోకి వస్తాయి?",
+    "en": "Which of the following activities are classified under primary activities?"
+   },
+   "options": {
+    "te": [
+     "వేట మరియు సేకరణ",
+     "గనుల తవ్వకం మరియు క్వారీయింగ్",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Hunting and gathering",
+     "Mining and quarrying",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ప్రాథమిక కార్యకలాపాలలో వేట మరియు సేకరణ, పశుపోషణ, చేపల వేట, అటవీ సంపద సేకరణ, వ్యవసాయం, మరియు గనుల తవ్వకం-క్వారీయింగ్ ఉంటాయి.",
+    "en": "Primary activities include hunting and gathering, pastoral activities, fishing, forestry, agriculture, and mining and quarrying."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T32-0054",
+   "section": {
+    "te": "Quaternary sector features",
+    "en": "Quaternary sector features"
+   },
+   "q": {
+    "te": "చతుర్థ రంగ కార్యకలాపాలకు (Quaternary activities) సంబంధించి క్రింది ప్రకటనలను పరిగణించండి:\n1. ఇవి సమాచార సేకరణ, ఉత్పత్తి మరియు వ్యాప్తిని కలిగి ఉంటాయి.\n2. ఇవి వనరులకు పరిమితం కావు, పర్యావరణం వల్ల ప్రభావితం కావు లేదా మార్కెట్ పరిధికి మాత్రమే కట్టుబడి ఉండవు.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding quaternary activities:\n1. They involve the collection, production, and dissemination of information.\n2. They are not tied to resources, affected by the environment, or necessarily localised by market.\nWhich of the statements given above is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం రెండు ప్రకటనలూ సరైనవే. చతుర్థ రంగం సమాచార ఆధారితమైనది మరియు ఇది వనరులు, పర్యావరణం లేదా మార్కెట్‌ల ద్వారా మాత్రమే పరిమితం చేయబడదు.",
+    "en": "Both statements are correct. Quaternary activities involve the collection, production, and dissemination of information, and are neither tied to resources nor affected by the environment or necessarily localised by market."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T32-0065",
+   "section": {
+    "te": "Quinary activities definition",
+    "en": "Quinary activities definition"
+   },
+   "q": {
+    "te": "కొత్త మరియు ఉన్న ఆలోచనల సృష్టి, పునర్వ్యవస్థీకరణ, వ్యాఖ్యానం మరియు కొత్త సాంకేతికతల మూల్యాంకనంపై దృష్టి సారించే సేవలను ఏమని వర్గీకరిస్తారు?",
+    "en": "Services that focus on the creation, re-arrangement, and interpretation of new and existing ideas, as well as the evaluation of new technologies, are classified as:"
+   },
+   "options": {
+    "te": [
+     "ద్వితీయ రంగ కార్యకలాపాలు",
+     "ప్రాథమిక రంగ కార్యకలాపాలు",
+     "చతుర్థ రంగ కార్యకలాపాలు",
+     "పంచమ రంగ కార్యకలాపాలు"
+    ],
+    "en": [
+     "Secondary activities",
+     "Primary activities",
+     "Quaternary activities",
+     "Quinary activities"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "కొత్త ఆలోచనల సృష్టి, డేటా విశ్లేషణ మరియు నూతన సాంకేతికతల మూల్యాంకనం వంటి ఉన్నత స్థాయి కార్యకలాపాలను పంచమ రంగ కార్యకలాపాలు (Quinary activities) అంటారు.",
+    "en": "Quinary activities are defined as services focusing on the creation, re-arrangement, and interpretation of ideas, data interpretation, and evaluation of new technologies."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T32-0034",
+   "section": {
+    "te": "Transport Network Nodes",
+    "en": "Transport Network Nodes"
+   },
+   "q": {
+    "te": "రవాణా నెట్‌వర్క్‌లో రెండు లేదా అంతకంటే ఎక్కువ మార్గాలు కలిసే ప్రదేశం, ప్రారంభ స్థానం, గమ్యస్థానం లేదా మార్గంలోని ఏదైనా ముఖ్యమైన పట్టణాన్ని ఏమని పిలుస్తారు?",
+    "en": "In a transport network, what is the meeting point of two or more routes, a point of origin, a point of destination, or any sizeable town along a route called?"
+   },
+   "options": {
+    "te": [
+     "నోడ్ (Node)",
+     "టెర్మినల్ (Terminal)",
+     "లింక్ (Link)",
+     "హబ్ (Hub)"
+    ],
+    "en": [
+     "Node",
+     "Terminal",
+     "Link",
+     "Hub"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "రవాణా నెట్‌వర్క్‌లో రెండు లేదా అంతకంటే ఎక్కువ మార్గాలు కలిసే ప్రదేశం, ప్రారంభ స్థానం లేదా మార్గంలోని పట్టణాన్ని 'నోడ్' అంటారు.",
+    "en": "A node is the meeting point of two or more routes, a point of origin, a point of destination or any sizeable town along a route."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T32-0004",
+   "section": {
+    "te": "Commercial Gathering Products",
+    "en": "Commercial Gathering Products"
+   },
+   "q": {
+    "te": "చుయింగ్‌గమ్‌లో రుచి పోయిన తర్వాత మిగిలే భాగమైన 'చికిల్' (Chicle) ఏ చెట్టు యొక్క పాల రసం నుండి తయారవుతుంది?",
+    "en": "Chicle, the part of chewing gum remaining after the flavour is gone, is extracted from the milky juice of which tree?"
+   },
+   "options": {
+    "te": [
+     "రబ్బరు చెట్టు",
+     "సపోటా (zapota) చెట్టు",
+     "కార్క్ ఓక్ చెట్టు",
+     "సింకోనా చెట్టు"
+    ],
+    "en": [
+     "Rubber tree",
+     "Zapota tree",
+     "Cork oak tree",
+     "Cinchona tree"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఫ్లేవర్ పోయిన తర్వాత ఉండే చుయింగ్‌గమ్ భాగాన్ని చికిల్ అంటారు, ఇది సపోటా (zapota) చెట్టు పాల వంటి రసం నుండి లభిస్తుంది.",
+    "en": "Chicle is made from the milky juice of the zapota tree."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T32-0089",
+   "section": {
+    "te": "Unfavourable trade balance",
+    "en": "Unfavourable trade balance"
+   },
+   "q": {
+    "te": "ఒక దేశం ప్రతికూల లేదా అనుకూలము కాని వాణిజ్య సమతుల్యతను (Negative balance of trade) కలిగి ఉందని ఎప్పుడు అంటారు?",
+    "en": "A country is said to have a negative or unfavourable balance of trade when:"
+   },
+   "options": {
+    "te": [
+     "ఎగుమతుల విలువ దిగుమతుల విలువకు సమానంగా ఉన్నప్పుడు",
+     "దిగుమతుల విలువ ఎగుమతుల విలువ కంటే ఎక్కువగా ఉన్నప్పుడు",
+     "ఎగుమతుల విలువ దిగుమతుల విలువ కంటే ఎక్కువగా ఉన్నప్పుడు",
+     "అంతర్గత వాణిజ్య పరిమాణం విదేశీ వాణిజ్య పరిమాణం కంటే ఎక్కువైనప్పుడు"
+    ],
+    "en": [
+     "The value of exports equals the value of imports",
+     "The value of imports is more than the value of exports",
+     "The value of exports is more than the value of imports",
+     "The volume of internal trade exceeds the volume of external trade"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ఒక దేశం యొక్క దిగుమతుల విలువ ఎగుమతుల విలువ కంటే ఎక్కువగా ఉన్నప్పుడు ఆ దేశం ప్రతికూల వాణిజ్య సమతుల్యతను కలిగి ఉంటుంది.",
+    "en": "A negative or unfavourable balance of trade occurs when the total monetary value of imports exceeds the value of exports."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T32-0006",
+   "section": {
+    "te": "Characteristics of Gathering",
+    "en": "Characteristics of Gathering"
+   },
+   "q": {
+    "te": "జీవనాధార సేకరణ (subsistence gathering) కు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. దీనికి పెద్ద మొత్తంలో మూలధన పెట్టుబడి అవసరం.\n2. ఇది చాలా తక్కువ స్థాయి సాంకేతికతతో నిర్వహించబడుతుంది.\n3. తలసరి దిగుబడి చాలా తక్కువగా ఉంటుంది మరియు మిగులు దాదాపు ఉండదు.\nపై ప్రకటనలలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding subsistence gathering:\n1. It requires a large amount of capital investment.\n2. It operates at a very low level of technology.\n3. The yield per person is very low with little or no surplus.\nWhich of the statements given above are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సేకరణ కార్యకలాపానికి తక్కువ మూలధనం సరిపోతుంది (ఎక్కువ కాదు). తక్కువ సాంకేతికతతో పనిచేస్తుంది మరియు దిగుబడి చాలా తక్కువగా ఉండి మిగులు ఉండదు.",
+    "en": "Gathering requires a small amount of capital investment (not large), operates at a low level of technology, and yields little or no surplus."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T32-0027",
+   "section": {
+    "te": "Commercial Livestock Rearing",
+    "en": "Commercial Livestock Rearing"
+   },
+   "q": {
+    "te": "వాణిజ్య పశువుల పెంపకంలో ఉంచే జంతువుల రకానికి సంబంధించి కింది వాటిలో ఏది లక్షణమైన లక్షణం?",
+    "en": "Which of the following is a characteristic feature of commercial livestock rearing regarding the types of animals kept?"
+   },
+   "options": {
+    "te": [
+     "ఒకే రాంచ్‌లో రకరకాల జంతువులను కలిపి ఉంచుతారు",
+     "ఒక ప్రత్యేక కార్యకలాపంగా ఒకే రకమైన జంతువును మాత్రమే పెంచుతారు",
+     "ప్రతి సీజన్‌లో జంతువులను మారుస్తారు",
+     "అడవి మరియు పెంపుడు జంతువులను కలిపి పెంచుతారు"
+    ],
+    "en": [
+     "A wide variety of animals are kept together in one ranch",
+     "Only one type of animal is reared as a specialised activity",
+     "Animals are changed every season",
+     "Wild and domestic animals are reared together"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "వాణిజ్య పశువుల పెంపకం అనేది ఒక ప్రత్యేకమైన కార్యకలాపం, ఇక్కడ ఒక రాంచ్‌లో ఒకే రకమైన జంతువును (గొర్రెలు లేదా పశువులు వంటివి) మాత్రమే పెంచుతారు.",
+    "en": "Commercial livestock rearing is a specialized activity where only one type of animal (like sheep or cattle) is reared on a ranch."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T32-0028",
+   "section": {
+    "te": "Secondary Activities",
+    "en": "Secondary Activities"
+   },
+   "q": {
+    "te": "ద్వితీయ శ్రేణి కార్యకలాపాలు ప్రధానంగా సహజ వనరుల విలువను ఎలా పెంచుతాయి?",
+    "en": "How do secondary activities primarily increase the worth of natural resources?"
+   },
+   "options": {
+    "te": [
+     "ముడి పదార్థాలను విలువైన ఉత్పత్తులుగా మార్చడం ద్వారా",
+     "వాటిని ప్రపంచ మార్కెట్లకు రవాణా చేయడం ద్వారా",
+     "వాటిని సేకరించడానికి వృత్తిపరమైన నైపుణ్యాలను అందించడం ద్వారా",
+     "వాటిని భూమి నుండి వెలికితీయడం ద్వారా"
+    ],
+    "en": [
+     "By transforming raw materials into valuable products",
+     "By transporting them to world markets",
+     "By providing professional skills to collect them",
+     "By extracting them from the earth"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ముడి పదార్థాలను (పత్తి లేదా ఇనుప ధాతువు వంటివి) మరింత విలువైన తుది ఉత్పత్తులుగా (నూలు లేదా ఉక్కు వంటివి) మార్చడం ద్వారా ద్వితీయ శ్రేణి కార్యకలాపాలు విలువను జోడిస్తాయి.",
+    "en": "Secondary activities add value by transforming raw materials (like cotton or iron ore) into more valuable finished products (like yarn or steel)."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T32-0088",
+   "section": {
+    "te": "Olden transport trade",
+    "en": "Olden transport trade"
+   },
+   "q": {
+    "te": "ప్రాచీన కాలంలో సమర్థవంతమైన రవాణా సాధనాలు లేకపోవడం వల్ల సుదూర ప్రాంతాల మధ్య వాణిజ్యం ప్రధానంగా వేటికి పరిమితమైంది?",
+    "en": "In olden times, lack of adequate and efficient means of transport restricted long-distance trade primarily to which type of items?"
+   },
+   "options": {
+    "te": [
+     "నిర్మాణ కలప మరియు రాళ్ళు",
+     "రత్నాలు, పట్టు మరియు సుగంధ ద్రవ్యాలు వంటి అధిక విలువైన వస్తువులు",
+     "ఇనుము మరియు రాగి వంటి భారీ ఖనిజ ధాతువులు",
+     "త్వరగా పాడైపోయే ఆహార ధాన్యాలు మరియు పశువులు"
+    ],
+    "en": [
+     "Construction timber and building stones",
+     "High value items like gems, silk, and spices",
+     "Bulky mineral ores like iron and copper",
+     "Perishable food grains and cattle"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రాచీన కాలంలో తగిన రవాణా సాధనాలు లేనందున సుదూర ప్రాంతాలకు రత్నాలు, పట్టు మరియు సుగంధ ద్రవ్యాల వంటి అధిక విలువైన వస్తువులను మాత్రమే రవాణా చేసేవారు.",
+    "en": "Due to poor transport facilities in earlier times, trade over long distances was limited only to high-value goods like gems, silk, and spices."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T32-0096",
+   "section": {
+    "te": "Multilateral Trade",
+    "en": "Multilateral Trade"
+   },
+   "q": {
+    "te": "ఏ రకమైన అంతర్జాతీయ వాణిజ్యం కింద ఒక దేశం తన వాణిజ్య భాగస్వాములకు 'అత్యంత ప్రాధాన్యత కలిగిన దేశం' (MFN) హోదాను మంజూరు చేయవచ్చు?",
+    "en": "Under which type of international trade can a country grant the status of 'Most Favoured Nation' (MFN) to its trading partners?"
+   },
+   "options": {
+    "te": [
+     "బహుపాక్షిక వాణిజ్యం",
+     "అంతర్గత వాణిజ్యం",
+     "స్వేచ్ఛా వాణిజ్యం",
+     "ద్వైపాక్షిక వాణిజ్యం"
+    ],
+    "en": [
+     "Multilateral trade",
+     "Internal trade",
+     "Free trade",
+     "Bilateral trade"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "బహుపాక్షిక వాణిజ్యంలో, ఒక దేశం అనేక ఇతర దేశాలతో వాణిజ్యం చేయవచ్చు మరియు కొంతమంది భాగస్వాములకు MFN హోదాను మంజూరు చేయవచ్చు.",
+    "en": "In multilateral trade, a country can trade with many others and may grant MFN status to some partners."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T32-0067",
+   "section": {
+    "te": "Digital Divide concept",
+    "en": "Digital Divide concept"
+   },
+   "q": {
+    "te": "సమాచార మరియు సమాచార సాంకేతిక పరిజ్ఞానం (ICT) ప్రయోజనాలు మరియు అందుబాటులో అభివృద్ధి చెందిన దేశాలు ముందంజలో ఉండి, అభివృద్ధి చెందుతున్న దేశాలు వెనుకబడి ఉండటం వల్ల ఏర్పడే అంతరాన్ని ఏమంటారు?",
+    "en": "The wide gap between developed countries that have surged forward and developing countries that have lagged behind in ICT access and benefits is known as:"
+   },
+   "options": {
+    "te": [
+     "డిజిటల్ డివైడ్ (Digital divide)",
+     "సమాచార అడ్డంకి (Information barrier)",
+     "సాంకేతిక అడ్డంకి (Technological barrier)",
+     "సైబర్ అసమానత (Cyber disparity)"
+    ],
+    "en": [
+     "Digital divide",
+     "Information barrier",
+     "Technological barrier",
+     "Cyber disparity"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సమాచార మరియు సమాచార సాంకేతిక పరిజ్ఞానం కల్పించడంలో అభివృద్ధి చెందిన దేశాలు ముందుకు దూసుకుపోగా, అభివృద్ధి చెందుతున్న దేశాలు వెనుకబడి ఉండటాన్ని 'డిజిటల్ డివైడ్' అంటారు.",
+    "en": "The disparity where developed countries surge forward while developing countries lag behind in providing ICT access and benefits is termed the 'digital divide'."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T32-0073",
+   "section": {
+    "te": "Trade taxes history",
+    "en": "Trade taxes history"
+   },
+   "q": {
+    "te": "చరిత్రలో ఏ కాలంలో దేశాలు మొదటిసారిగా వాణిజ్య పన్నులు (trade taxes) మరియు పరిమాణాత్మక పరిమితులను (quantitative restrictions) విధించాయి?",
+    "en": "During which historical period did countries impose trade taxes and quantitative restrictions for the first time?"
+   },
+   "options": {
+    "te": [
+     "మొదటి మరియు రెండవ ప్రపంచ యుద్ధాల కాలంలో",
+     "1930ల మహా మాంద్యం సమయంలో",
+     "రోమన్ సామ్రాజ్య విచ్ఛిన్నం తర్వాత",
+     "పారిశ్రామిక విప్లవం ముగిసిన వెంటనే"
+    ],
+    "en": [
+     "During World Wars I and II",
+     "During the Great Depression of the 1930s",
+     "After the disintegration of the Roman Empire",
+     "Immediately following the Industrial Revolution"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మొదటి మరియు రెండవ ప్రపంచ యుద్ధాల సమయంలో దేశాలు మొదటిసారిగా వాణిజ్య పన్నులు మరియు పరిమాణాత్మక పరిమితులను విధించాయి.",
+    "en": "Countries imposed trade taxes and quantitative restrictions for the first time during World Wars I and II."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T32-0051",
+   "section": {
+    "te": "Gold collar professions",
+    "en": "Gold collar professions"
+   },
+   "q": {
+    "te": "సీనియర్ వ్యాపార నిర్వాహకులు మరియు పరిశోధక శాస్త్రవేత్తల యొక్క ప్రత్యేకమైన, అత్యధిక వేతనం పొందే నైపుణ్యాలను సూచించే పంచమ రంగ కార్యకలాపాలను (Quinary activities) సాధారణంగా ఏ వృత్తులుగా పిలుస్తారు?",
+    "en": "Quinary activities, which represent the special and highly paid skills of senior business executives and research scientists, are often referred to as which of the following?"
+   },
+   "options": {
+    "te": [
+     "రెడ్ కాలర్ వృత్తులు",
+     "బ్లూ కాలర్ వృత్తులు",
+     "వైట్ కాలర్ వృత్తులు",
+     "గోల్డ్ కాలర్ వృత్తులు"
+    ],
+    "en": [
+     "Red collar professions",
+     "Blue collar professions",
+     "White collar professions",
+     "Gold collar professions"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పంచమ రంగ కార్యకలాపాలు ఉన్నత వ్యాపార నిర్వాహకులు, ప్రభుత్వ అధికారులు, పరిశోధకుల వంటి వారి ప్రత్యేక నైపుణ్యాలను సూచిస్తాయి కాబట్టి వీటిని తరచుగా 'గోల్డ్ కాలర్' వృత్తులు అని పిలుస్తారు.",
+    "en": "Quinary activities represent special and highly paid skills of senior business executives, government officials, research scientists, etc., and are often referred to as 'gold collar' professions."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T32-0023",
+   "section": {
+    "te": "Retail Trading",
+    "en": "Retail Trading"
+   },
+   "q": {
+    "te": "కింది వాటిలో స్టోర్-యేతర రిటైల్ వ్యాపారానికి (non-store retail trading) ఉదాహరణలు ఏవి?",
+    "en": "Which of the following are examples of non-store retail trading?"
+   },
+   "options": {
+    "te": [
+     "మెయిల్-ఆర్డర్ మరియు ఇంటర్నెట్",
+     "ఆటోమేటిక్ వెండింగ్ మెషీన్లు",
+     "వీధి వ్యాపారం మరియు ఇంటింటికీ తిరగడం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Mail-order and Internet",
+     "Automatic vending machines",
+     "Street peddling and door-to-door",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "వీధి వ్యాపారం, తోపుడు బండ్లు, ట్రక్కులు, ఇంటింటికీ తిరగడం, మెయిల్-ఆర్డర్, టెలిఫోన్, ఆటోమేటిక్ వెండింగ్ మెషీన్లు మరియు ఇంటర్నెట్లను స్టోర్-యేతర రిటైల్ వ్యాపారానికి ఉదాహరణలుగా పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text lists street peddling, handcarts, trucks, door-to-door, mail-order, telephone, automatic vending machines, and internet as examples of non-store retail trading."
+   }
+  }
+ ]
+}

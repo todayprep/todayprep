@@ -1,0 +1,942 @@
+{
+ "id": "geo-15-c-2",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Northern Plains – క్విజ్ 2",
+  "en": "Northern Plains – Quiz 2"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T15-0091",
+   "section": {
+    "te": "Indian Desert Slope",
+    "en": "Indian Desert Slope"
+   },
+   "q": {
+    "te": "భారతీయ ఎడారి యొక్క దక్షిణ భాగం ఏ దిశలో వాలును కలిగి ఉంటుంది?",
+    "en": "In which direction does the southern part of the Indian desert slope?"
+   },
+   "options": {
+    "te": [
+     "కచ్ రన్ (Rann of Kachchh) వైపు",
+     "హిమాలయాల వైపు",
+     "బంగాళాఖాతం వైపు",
+     "సింధు వైపు"
+    ],
+    "en": [
+     "Towards the Rann of Kachchh",
+     "Towards the Himalayas",
+     "Towards the Bay of Bengal",
+     "Towards Sindh"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ఎడారి యొక్క దక్షిణ భాగం కచ్ రన్ వైపు వాలుగా ఉంటుందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The southern part of the desert slopes towards the Rann of Kachchh."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T15-0089",
+   "section": {
+    "te": "West Coast Divisions",
+    "en": "West Coast Divisions"
+   },
+   "q": {
+    "te": "కింది తీర ప్రాంత విభాగాలను అవి ప్రధానంగా అనుబంధించబడిన రాష్ట్రాలతో జతపరచండి:\n1. కొంకణ్ తీరం - i. గుజరాత్\n2. మలబార్ తీరం - ii. మహారాష్ట్ర\n3. కచ్ తీరం - iii. కేరళ",
+    "en": "Match the following coastal divisions with the states they are primarily associated with:\n1. Konkan coast - i. Gujarat\n2. Malabar coast - ii. Maharashtra\n3. Kachchh coast - iii. Kerala"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-iii, 3-i",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-ii, 3-i",
+     "1-ii, 2-i, 3-iii"
+    ],
+    "en": [
+     "1-ii, 2-iii, 3-i",
+     "1-i, 2-ii, 3-iii",
+     "1-iii, 2-ii, 3-i",
+     "1-ii, 2-i, 3-iii"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, కొంకణ్ తీరం మహారాష్ట్రలో, మలబార్ తీరం కేరళలో మరియు కచ్ తీరం గుజరాత్‌లో ఉన్నాయి.",
+    "en": "The Konkan coast is in Maharashtra, the Malabar coast is in Kerala, and the Kachchh coast is in Gujarat."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T15-0054",
+   "section": {
+    "te": "Himalayan Orientation",
+    "en": "Himalayan Orientation"
+   },
+   "q": {
+    "te": "హిమాలయ పర్వత శ్రేణుల సాధారణ దిశతో క్రింది ప్రాంతాలను జతపరచండి:\nI. వాయువ్య భారతదేశం - A. తూర్పు-పడమర దిశ\nII. డార్జిలింగ్ మరియు సిక్కిం - B. వాయువ్యం నుండి ఆగ్నేయం\nIII. అరుణాచల్ ప్రదేశ్ - C. ఉత్తర-దక్షిణ దిశ\nIV. నాగాలాండ్ మరియు మిజోరం - D. నైరుతి నుండి వాయువ్యం",
+    "en": "Match the following regions with the general orientation of the Himalayan ranges:\nI. Northwestern India - A. East-west direction\nII. Darjiling and Sikkim - B. Northwest to southeast\nIII. Arunachal Pradesh - C. North-south direction\nIV. Nagaland and Mizoram - D. Southwest to the northwest"
+   },
+   "options": {
+    "te": [
+     "I-B, II-A, III-D, IV-C",
+     "I-A, II-B, III-C, IV-D",
+     "I-B, II-D, III-A, IV-C",
+     "I-C, II-A, III-D, IV-B"
+    ],
+    "en": [
+     "I-B, II-A, III-D, IV-C",
+     "I-A, II-B, III-C, IV-D",
+     "I-B, II-D, III-A, IV-C",
+     "I-C, II-A, III-D, IV-B"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "వాయువ్య భారతదేశంలో శ్రేణులు వాయువ్యం-ఆగ్నేయం; డార్జిలింగ్/సిక్కింలో తూర్పు-పడమర; అరుణాచల్‌లో నైరుతి-వాయువ్యం; మరియు నాగాలాండ్/మిజోరంలో ఉత్తర-దక్షిణ దిశలో ఉన్నాయి.",
+    "en": "In NW India, ranges are NW-SE; in Darjiling/Sikkim, they are E-W; in Arunachal, they are SW-NW; and in Nagaland/Mizoram, they are N-S."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T15-0016",
+   "section": {
+    "te": "Eastern Ghats features",
+    "en": "Eastern Ghats features"
+   },
+   "q": {
+    "te": "భారతదేశంలోని కనుమలకు సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. పశ్చిమ కనుమలు యునెస్కో (UNESCO) ప్రపంచ వారసత్వ ప్రదేశంగా ప్రకటించబడ్డాయి.\n2. తూర్పు కనుమలు తక్కువ ఎత్తులో ఉండి, చిన్న కొండలుగా విడిపోయి ఉంటాయి.\n3. దక్కన్ పీఠభూమి పశ్చిమ మరియు తూర్పు కనుమల మధ్య ఉంది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the Ghats of India:\n1. The Western Ghats have been declared a UNESCO World Heritage Site.\n2. The Eastern Ghats are lower and broken into smaller hills.\n3. The Deccan Plateau lies between the Western and Eastern Ghats.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మూడు ప్రకటనలు కూడా పాఠ్యభాగం ద్వారా నేరుగా ధృవీకరించబడ్డాయి: పశ్చిమ కనుమలు యునెస్కో సైట్, తూర్పు కనుమలు తక్కువ ఎత్తులో/విడిపోయి ఉంటాయి మరియు దక్కన్ పీఠభూమి వాటి మధ్య ఉంది.",
+    "en": "All three statements are directly supported by the text: Western Ghats are a UNESCO site, Eastern Ghats are lower/broken, and the Deccan Plateau lies between them."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T15-0101",
+   "section": {
+    "te": "Western Coastal Plain Width",
+    "en": "Western Coastal Plain Width"
+   },
+   "q": {
+    "te": "పశ్చిమ తీర మైదానాల వెడల్పు వైవిధ్యాన్ని కింది వాటిలో ఏది సరిగ్గా వివరిస్తుంది?",
+    "en": "Which of the following correctly describes the width variation of the western coastal plains?"
+   },
+   "options": {
+    "te": [
+     "ఉత్తరాన వెడల్పుగా ఉండి క్రమంగా దక్షిణం వైపు ఇరుకుగా మారుతుంది",
+     "మొత్తం పొడవునా ఒకే విధమైన వెడల్పు ఉంటుంది",
+     "మధ్యలో వెడల్పుగా మరియు ఉత్తర, దక్షిణాల వైపు ఇరుకుగా ఉంటుంది",
+     "మధ్యలో ఇరుకుగా మరియు ఉత్తర, దక్షిణాల వైపు వెడల్పుగా ఉంటుంది"
+    ],
+    "en": [
+     "Broader in the north and gradually narrowing towards the south",
+     "Uniform width throughout the entire length",
+     "Broad in the middle and narrow towards north and south",
+     "Narrow in the middle and broader towards north and south"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పశ్చిమ తీర మైదానాలు మధ్యలో ఇరుకుగా ఉంటాయని, కానీ ఉత్తర మరియు దక్షిణ దిశల వైపు వెడల్పుగా మారుతాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The western coastal plains are narrow in the middle but become broader as they extend towards the north and south."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T15-0092",
+   "section": {
+    "te": "East Coast Ports",
+    "en": "East Coast Ports"
+   },
+   "q": {
+    "te": "తూర్పు తీర మైదానానికి సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఇది ఉద్భవించిన (emergent) తీరానికి ఉదాహరణ.\n2. ఖండ తీర అంచు (continental shelf) సముద్రంలోకి 500 కి.మీ వరకు విస్తరించి ఉంటుంది.\n3. పశ్చిమ తీరంతో పోలిస్తే ఇది ఎక్కువ సంఖ్యలో సహజ ఓడరేవులను కలిగి ఉంది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the eastern coastal plain:\n1. It is an example of an emergent coast.\n2. The continental shelf extends up to 500 km into the sea.\n3. It has a large number of natural ports compared to the west coast.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "తూర్పు తీరం ఉద్భవించిన తీరం మరియు 500 కి.మీ వెడల్పు గల ఖండ తీర అంచును కలిగి ఉంటుంది, ఇది ఓడరేవుల అభివృద్ధిని కష్టతరం చేస్తుంది, ఫలితంగా పశ్చిమ తీరం కంటే తక్కువ ఓడరేవులను కలిగి ఉంటుంది.",
+    "en": "The eastern coast is emergent and has a wide continental shelf (500 km), which actually makes it difficult for ports, resulting in fewer ports than the west coast."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T15-0094",
+   "section": {
+    "te": "Arabian Sea Islands",
+    "en": "Arabian Sea Islands"
+   },
+   "q": {
+    "te": "453 చదరపు కిలోమీటర్ల వైశాల్యంతో లక్షద్వీప్ మరియు మినికాయ్ సమూహంలో అతిపెద్ద ద్వీపం ఏది?",
+    "en": "Which is the largest island in the Lakshadweep and Minicoy group with an area of 453 sq. km?"
+   },
+   "options": {
+    "te": [
+     "మినికాయ్",
+     "బారెన్ ద్వీపం",
+     "అమిని ద్వీపం",
+     "కాననోర్ ద్వీపం"
+    ],
+    "en": [
+     "Minicoy",
+     "Barren Island",
+     "Amini Island",
+     "Canannore Island"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మినికాయ్ ఈ సమూహంలో అతిపెద్ద ద్వీపంగా గుర్తించబడింది, ఇది 453 చదరపు కిలోమీటర్ల వైశాల్యాన్ని కలిగి ఉంది.",
+    "en": "Minicoy is identified as the largest island in this group, covering 453 square kilometers."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T15-0015",
+   "section": {
+    "te": "Plateau Rivers",
+    "en": "Plateau Rivers"
+   },
+   "q": {
+    "te": "కింది వాటిలో ఏ నదులు దక్కన్ పీఠభూమి గుండా పడమర నుండి తూర్పుకు ప్రవహిస్తాయి?",
+    "en": "Which of the following rivers flow across the Deccan Plateau from west to east?"
+   },
+   "options": {
+    "te": [
+     "గోదావరి మరియు కృష్ణ",
+     "కృష్ణ మరియు కావేరి",
+     "A మరియు B రెండూ",
+     "నర్మదా మరియు తపతి"
+    ],
+    "en": [
+     "Godavari and Krishna",
+     "Krishna and Kaveri",
+     "Both A and B",
+     "Narmada and Tapti"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "గోదావరి, కృష్ణ మరియు కావేరి నదులు పీఠభూమి గుండా పడమర నుండి తూర్పుకు ప్రవహిస్తాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Godavari, Krishna, and Kaveri flow across the plateau from west to east."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T15-0018",
+   "section": {
+    "te": "Coastline length",
+    "en": "Coastline length"
+   },
+   "q": {
+    "te": "భారతీయ తీరప్రాంతం సుమారు ఎంత పొడవు ఉంటుంది?",
+    "en": "What is the approximate length of the Indian coastline?"
+   },
+   "options": {
+    "te": [
+     "9000 కి.మీ కంటే ఎక్కువ",
+     "5000 కి.మీ కంటే ఎక్కువ",
+     "6000 కి.మీ కంటే ఎక్కువ",
+     "7500 కి.మీ కంటే ఎక్కువ"
+    ],
+    "en": [
+     "Over 9000 km",
+     "Over 5000 km",
+     "Over 6000 km",
+     "Over 7500 km"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారతీయ తీరప్రాంతం 7500 కి.మీ కంటే ఎక్కువ పొడవు ఉందని మూల పాఠ్యం స్పష్టంగా పేర్కొంది.",
+    "en": "The Indian coastline is over 7500 km long."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T15-0040",
+   "section": {
+    "te": "Indian Plate History",
+    "en": "Indian Plate History"
+   },
+   "q": {
+    "te": "మిలియన్ల సంవత్సరాల క్రితం, భారతీయ ప్లేట్ చాలా పెద్దదిగా ఉండేది మరియు ఏ ఇతర ప్లేట్ అందులో భాగంగా ఉండేది?",
+    "en": "Millions of years ago, the Indian plate was much larger and included which other plate as a part of it?"
+   },
+   "options": {
+    "te": [
+     "యురేషియన్ ప్లేట్",
+     "పసిఫిక్ ప్లేట్",
+     "ఆఫ్రికన్ ప్లేట్",
+     "ఆస్ట్రేలియన్ ప్లేట్"
+    ],
+    "en": [
+     "Eurasian plate",
+     "Pacific plate",
+     "African plate",
+     "Australian plate"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "మిలియన్ల సంవత్సరాల క్రితం, ఆస్ట్రేలియన్ ప్లేట్ పెద్దదైన భారతీయ ప్లేట్‌లో భాగంగా ఉండేదని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Millions of years ago, the Australian plate was a part of the larger Indian plate."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T15-0051",
+   "section": {
+    "te": "Northern Plains Alluvium",
+    "en": "Northern Plains Alluvium"
+   },
+   "q": {
+    "te": "ఇండో-గంగా-బ్రహ్మపుత్ర మైదానాలలో ఒండ్రు మట్టి నిక్షేపాల సగటు లోతు ఎంత?",
+    "en": "What is the average depth of alluvial deposits in the Indo-Ganga-Brahmaputra plains?"
+   },
+   "options": {
+    "te": [
+     "2,000-3,000 మీటర్లు",
+     "500-1,000 మీటర్లు",
+     "1,000-2,000 మీటర్లు",
+     "3,000-4,000 మీటర్లు"
+    ],
+    "en": [
+     "2,000-3,000 m",
+     "500-1,000 m",
+     "1,000-2,000 m",
+     "3,000-4,000 m"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, ఇండో-గంగా-బ్రహ్మపుత్ర మైదానాలలో ఒండ్రు నిక్షేపాల సగటు లోతు 1,000 నుండి 2,000 మీటర్ల మధ్య ఉంటుంది.",
+    "en": "The average depth of alluvial deposits in the Indo-Ganga-Brahmaputra plains ranges between 1,000 and 2,000 meters."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T15-0098",
+   "section": {
+    "te": "Western Coastal Plain Rivers",
+    "en": "Western Coastal Plain Rivers"
+   },
+   "q": {
+    "te": "పశ్చిమ తీర మైదానాల గుండా ప్రవహించే నదులకు సంబంధించి కింది వాటిలో ఏది నిజం?",
+    "en": "Which of the following is true regarding the rivers flowing through the western coastal plains?"
+   },
+   "options": {
+    "te": [
+     "అవి బంగాళాఖాతంలోకి ప్రవహిస్తాయి",
+     "అవి ఎటువంటి డెల్టాను ఏర్పరచవు",
+     "అవన్నీ జీవనదులు",
+     "అవి బాగా అభివృద్ధి చెందిన డెల్టాలను ఏర్పరుస్తాయి"
+    ],
+    "en": [
+     "They flow into the Bay of Bengal",
+     "They do NOT form any delta",
+     "They are all perennial rivers",
+     "They form well-developed deltas"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "తూర్పు తీర నదుల వలె కాకుండా, పశ్చిమ తీర మైదానం గుండా ప్రవహించే నదులు ఎటువంటి డెల్టాలను ఏర్పరచవు.",
+    "en": "Unlike the eastern coastal rivers, the rivers flowing through the western coastal plain do not form any deltas."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T15-0020",
+   "section": {
+    "te": "East Coast Lakes",
+    "en": "East Coast Lakes"
+   },
+   "q": {
+    "te": "కింది లక్షణాలను వాటి వివరణలు/ప్రాంతాలతో జతపరచండి:\n1. పులికాట్ సరస్సు - i. పశ్చిమ తీరంలో అతిపెద్ద ఎస్ట్యూరీలు\n2. నర్మదా & తపతి - ii. తూర్పు తీరంలోని లాగూన్\n3. లక్షద్వీప్ - iii. బంగాళాఖాతం\n4. అండమాన్ & నికోబార్ - iv. అరేబియా సముద్రం",
+    "en": "Match the following features with their descriptions/locations:\n1. Pulicat Lake - i. Largest estuaries on West Coast\n2. Narmada & Tapti - ii. Lagoon on the East Coast\n3. Lakshadweep - iii. Bay of Bengal\n4. Andaman & Nicobar - iv. Arabian Sea"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-i, 3-iv, 4-iii",
+     "1-ii, 2-i, 3-iii, 4-iv",
+     "1-i, 2-ii, 3-iv, 4-iii",
+     "1-iii, 2-iv, 3-i, 4-ii"
+    ],
+    "en": [
+     "1-ii, 2-i, 3-iv, 4-iii",
+     "1-ii, 2-i, 3-iii, 4-iv",
+     "1-i, 2-ii, 3-iv, 4-iii",
+     "1-iii, 2-iv, 3-i, 4-ii"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పులికాట్ తూర్పు తీరంలో ఉన్న లాగూన్, నర్మదా/తపతి పశ్చిమ తీర ఎస్ట్యూరీలు, లక్షద్వీప్ అరేబియా సముద్రంలో ఉంది మరియు అండమాన్/నికోబార్ బంగాళాఖాతంలో ఉన్నాయి.",
+    "en": "Pulicat is a lagoon on the East Coast, Narmada/Tapti are West Coast estuaries, Lakshadweep is in the Arabian Sea, and Andaman/Nicobar are in the Bay of Bengal."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T15-0014",
+   "section": {
+    "te": "Western Ghats naming",
+    "en": "Western Ghats naming"
+   },
+   "q": {
+    "te": "పశ్చిమ కనుమల ఉత్తర భాగాన్ని సాధారణంగా ఏమని పిలుస్తారు?",
+    "en": "What is the northern part of the Western Ghats commonly called?"
+   },
+   "options": {
+    "te": [
+     "అనైమలై కొండలు",
+     "కార్డమమ్ కొండలు",
+     "సహ్యాద్రి కొండలు",
+     "నీలగిరి కొండలు"
+    ],
+    "en": [
+     "Anaimalai Hills",
+     "Cardamom Hills",
+     "Sahyadri Hills",
+     "Nilgiri Hills"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, పశ్చిమ కనుమల ఉత్తర భాగాన్ని సహ్యాద్రి కొండలు అని పిలుస్తారు.",
+    "en": "The northern portion of the Western Ghats is known as the Sahyadri Hills."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T15-0036",
+   "section": {
+    "te": "Meghalaya Plateau Hills",
+    "en": "Meghalaya Plateau Hills"
+   },
+   "q": {
+    "te": "మేఘాలయ పీఠభూమిలో భాగంగా ఈ క్రింది కొండలలో ఏవి పేర్కొనబడ్డాయి?",
+    "en": "Which of the following hills are mentioned as being part of the Meghalaya Plateau?"
+   },
+   "options": {
+    "te": [
+     "గారో",
+     "ఖాసీ",
+     "జైంతియా",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Garo",
+     "Khasi",
+     "Jantia",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఈశాన్యంలోని మేఘాలయ పీఠభూమిలో గారో, ఖాసీ మరియు జైంతియా కొండలు భాగంగా గుర్తించబడ్డాయి.",
+    "en": "The Garo, Khasi, and Jantia hills are all identified as parts of the Meghalaya Plateau in the Northeast."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T15-0070",
+   "section": {
+    "te": "Highest Peak",
+    "en": "Highest Peak"
+   },
+   "q": {
+    "te": "ద్వీపకల్ప పీఠభూమిలో అత్యంత ఎత్తైన శిఖరం ఏది?",
+    "en": "Which of the following is the highest peak of the Peninsular plateau?"
+   },
+   "options": {
+    "te": [
+     "దొడబెట్ట",
+     "అనైముడి",
+     "జావాడి",
+     "మహేంద్రగిరి"
+    ],
+    "en": [
+     "Dodabetta",
+     "Anaimudi",
+     "Javadi",
+     "Mahendragiri"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "2,695 మీటర్ల ఎత్తుతో అనైముడి ద్వీపకల్ప పీఠభూమిలో అత్యంత ఎత్తైన శిఖరం. ఇది అనైమలై కొండలలో ఉంది.",
+    "en": "Anaimudi, with an elevation of 2,695 m, is the highest peak of the Peninsular plateau and is located on the Anaimalai hills."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T15-0055",
+   "section": {
+    "te": "Fluvial Landforms",
+    "en": "Fluvial Landforms"
+   },
+   "q": {
+    "te": "ఉత్తర మైదానాలలో కనిపించే నదీ ప్రవాహ పరిణతి దశ (mature stage) యొక్క లక్షణ భూస్వరూపాలు ఏవి?\nA. మెలికలు (Meanders)\nB. ఆక్స్‌బో సరస్సులు (Oxbow lakes)\nC. అల్లిన కాలువలు (Braided channels)",
+    "en": "Which of the following are characteristic fluvial landforms of the mature stage found in the northern plains?\nA. Meanders\nB. Oxbow lakes\nC. Braided channels"
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఈ మైదానాలలో నదీ భూస్వరూపాల పరిణతి దశ యొక్క లక్షణాలుగా ఇసుక తిన్నెలు, మెలికలు, ఆక్స్‌బో సరస్సులు మరియు అల్లిన కాలువలను పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text lists sand bars, meanders, oxbow lakes, and braided channels as features of the mature stage of fluvial landforms in these plains."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T15-0095",
+   "section": {
+    "te": "Lakshadweep Channels",
+    "en": "Lakshadweep Channels"
+   },
+   "q": {
+    "te": "భారతీయ ద్వీపాల్లోని ఛానెల్‌లకు (channels) సంబంధించి కింది ప్రకటనలను పరిశీలించండి:\n1. తొమ్మిది డిగ్రీల ఛానెల్ ఉత్తరాన అమిని ద్వీపాన్ని మరియు దక్షిణాన కాననోర్ ద్వీపాన్ని వేరు చేస్తుంది.\n2. పది డిగ్రీల ఛానెల్ ఉత్తరాన అండమాన్‌ను మరియు దక్షిణాన నికోబార్‌ను వేరు చేస్తుంది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the channels in Indian islands:\n1. The Nine degree channel separates the Amini Island to the north and the Canannore Island to the south.\n2. The Ten degree channel separates the Andaman in the north and the Nicobar in the south.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం రెండు ప్రకటనలు సరైనవే: తొమ్మిది డిగ్రీల ఛానెల్ అమిని మరియు కాననోర్‌లను విభజిస్తుంది, పది డిగ్రీల ఛానెల్ అండమాన్ మరియు నికోబార్‌లను విభజిస్తుంది.",
+    "en": "Both statements are correct according to the text: the Nine degree channel divides Amini and Canannore, while the Ten degree channel divides Andaman and Nicobar."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T15-0047",
+   "section": {
+    "te": "Geographical Matches",
+    "en": "Geographical Matches"
+   },
+   "q": {
+    "te": "ఈ క్రింది ప్రాంతాలను వాటి ప్రాముఖ్యతతో జతపరచండి:\n1. బారెన్ ద్వీపం - i. ఆసియాలోనే అత్యంత పరిశుభ్రమైన గ్రామం\n2. సెల్యులార్ జైలు - ii. భారతదేశంలోని ఏకైక క్రియాశీల అగ్నిపర్వతం\n3. మావ్లిన్నాంగ్ - iii. రాయల్ బెంగాల్ టైగర్‌కు నివాసం\n4. సుందర్బన్స్ - iv. స్వాతంత్ర్య సమరయోధులను బంధించిన జైలు",
+    "en": "Match the following locations with their significance:\n1. Barren Island - i. Cleanest village in Asia\n2. Cellular Jail - ii. Only active volcano in India\n3. Mawlynnong - iii. Home to Royal Bengal Tiger\n4. Sundarbans - iv. Jailed freedom fighters"
+   },
+   "options": {
+    "te": [
+     "1-ii, 2-iv, 3-i, 4-iii",
+     "1-ii, 2-i, 3-iv, 4-iii",
+     "1-iii, 2-iv, 3-i, 4-ii",
+     "1-iv, 2-ii, 3-iii, 4-i"
+    ],
+    "en": [
+     "1-ii, 2-iv, 3-i, 4-iii",
+     "1-ii, 2-i, 3-iv, 4-iii",
+     "1-iii, 2-iv, 3-i, 4-ii",
+     "1-iv, 2-ii, 3-iii, 4-i"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "బారెన్ ద్వీపం క్రియాశీల అగ్నిపర్వతం, సెల్యులార్ జైలులో స్వాతంత్ర్య సమరయోధులు ఉండేవారు, మావ్లిన్నాంగ్ అత్యంత పరిశుభ్రమైన గ్రామం మరియు సుందర్బన్స్ పులులకు నివాసం.",
+    "en": "Barren Island is an active volcano, Cellular Jail held freedom fighters, Mawlynnong is the cleanest village, and Sundarbans is home to tigers."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T15-0008",
+   "section": {
+    "te": "Western Ghats Features",
+    "en": "Western Ghats Features"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): పశ్చిమ కనుమలు పశ్చిమ తీరం వెంబడి గోడలా సాగుతాయి.\nకారణం (R): పశ్చిమ కనుమలు చుట్టుపక్కల భూమి కంటే ఎత్తుగా ఉంటాయి మరియు వర్షాకాలంలో జలపాతాలతో కూడిన నిటారుగా ఉండే వాలులను కలిగి ఉంటాయి.",
+    "en": "Assertion (A): The Western Ghats run along the western coast like a wall.\nReason (R): The Western Ghats are taller than the surrounding land and have steep sides with waterfalls during the monsoon."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పశ్చిమ కనుమలు ఎత్తుగా ఉండి, నిటారుగా ఉండే వాలులను కలిగి ఉండటం వల్ల అవి గోడలా పనిచేస్తాయని పాఠ్యాంశంలో పేర్కొనబడింది.",
+    "en": "The Western Ghats act like a wall because they are tall and have steep sides, as mentioned in the text."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T15-0025",
+   "section": {
+    "te": "Lakshadweep habitation",
+    "en": "Lakshadweep habitation"
+   },
+   "q": {
+    "te": "లక్షద్వీప్ గురించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఇది అరేబియా సముద్రంలో ఉన్న ఒక ద్వీపసమూహం.\n2. ఇది కేరళలోని మలబార్ తీరానికి దగ్గరగా ఉంది.\n3. దీనిలోని 36 ద్వీపాలలో ప్రతి ఒక్కదానిలోనూ ప్రజలు నివసిస్తున్నారు.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about Lakshadweep:\n1. It is an archipelago located in the Arabian Sea.\n2. It is situated close to the Malabar coast of Kerala.\n3. Every one of its 36 islands is inhabited by people.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రకటనలు 1 మరియు 2 సరైనవి. ప్రకటన 3 తప్పు ఎందుకంటే 'అన్ని ద్వీపాలలో ప్రజలు నివసించడం లేదు' అని పాఠ్యభాగం చెబుతోంది.",
+    "en": "Statements 1 and 2 are correct. Statement 3 is incorrect because the text says 'Not all islands are inhabited by people'."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T15-0022",
+   "section": {
+    "te": "Lakshadweep composition",
+    "en": "Lakshadweep composition"
+   },
+   "q": {
+    "te": "లక్షద్వీప్ ద్వీపసమూహంలో ఎన్ని ద్వీపాలు ఉన్నాయి?",
+    "en": "How many islands make up the Lakshadweep archipelago?"
+   },
+   "options": {
+    "te": [
+     "48",
+     "36",
+     "24",
+     "52"
+    ],
+    "en": [
+     "48",
+     "36",
+     "24",
+     "52"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "లక్షద్వీప్ 36 ద్వీపాలతో నిర్మితమైందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "Lakshadweep is made up of 36 islands."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T15-0028",
+   "section": {
+    "te": "West Coast River Features",
+    "en": "West Coast River Features"
+   },
+   "q": {
+    "te": "భారతదేశ పశ్చిమ తీరానికి సంబంధించి, ఈ ప్రకటనలను పరిశీలించండి:\n1. ఇది గుజరాత్ నుండి కేరళ వరకు విస్తరించి ఉంది.\n2. ఇక్కడ మెజారిటీ నదులు పశ్చిమ కనుమలలో పుట్టి వేగంగా ప్రవహిస్తాయి.\n3. ఈ తీరంలోని నదులు సాధారణంగా పెద్ద డెల్టాలను ఏర్పరుస్తాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Regarding the West Coast of India, consider these statements:\n1. It stretches from Gujarat to Kerala.\n2. Most rivers here originate in the Western Ghats and flow swiftly.\n3. The rivers on this coast typically form large deltas.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "ప్రకటనలు 1 మరియు 2 సరైనవి. ప్రకటన 3 తప్పు ఎందుకంటే పశ్చిమ తీర నదులు ఎస్ట్యూరీలను ఏర్పరుస్తాయి, డెల్టాలను కాదు.",
+    "en": "Statements 1 and 2 are correct. Statement 3 is incorrect because west coast rivers form estuaries, not deltas."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T15-0076",
+   "section": {
+    "te": "Indian Desert",
+    "en": "Indian Desert"
+   },
+   "q": {
+    "te": "థార్ ఎడారిని ప్రధానంగా ఏ లక్షణం కారణంగా 'మరుస్థలి' అని కూడా పిలుస్తారు?",
+    "en": "The Great Indian desert is also known as 'Marusthali' primarily due to which characteristic?"
+   },
+   "options": {
+    "te": [
+     "అధిక ఎత్తు",
+     "రూపాంతర శిలల ఉనికి",
+     "చెక్క శిలాజాల ఉనికి",
+     "తక్కువ వర్షపాతం మరియు వృక్షసంపదతో కూడిన శుష్క వాతావరణం"
+    ],
+    "en": [
+     "High elevation",
+     "Presence of metamorphic rocks",
+     "Presence of wood fossils",
+     "Arid climate with low rainfall and vegetation"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఏటా 150 మి.మీ కంటే తక్కువ వర్షపాతం నమోదవుతూ, శుష్క వాతావరణం మరియు తక్కువ వృక్షసంపద కలిగి ఉండటం వల్ల ఈ ఎడారిని మరుస్థలి అని పిలుస్తారు.",
+    "en": "The desert is called Marusthali because it receives less than 150 mm of rainfall annually, leading to an arid climate and low vegetation."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T15-0100",
+   "section": {
+    "te": "Island Climate and Vegetation",
+    "en": "Island Climate and Vegetation"
+   },
+   "q": {
+    "te": "అండమాన్ మరియు నికోబార్ ద్వీపాల వాతావరణం మరియు వృక్షజాలం యొక్క లక్షణాలు కింది వాటిలో ఏవి?\nA. సంవహన వర్షపాతం\nB. భూమధ్యరేఖ రకపు వృక్షజాలం",
+    "en": "Which of the following features characterize the climate and vegetation of the Andaman and Nicobar islands?\nA. Convectional rainfall\nB. Equatorial type of vegetation"
+   },
+   "options": {
+    "te": [
+     "A మాత్రమే",
+     "B మాత్రమే",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Item A only",
+     "Item B only",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, ఈ ద్వీపాలు సంవహన వర్షపాతాన్ని పొందుతాయి మరియు భూమధ్యరేఖ రకపు వృక్షజాలాన్ని కలిగి ఉంటాయి.",
+    "en": "The islands receive convectional rainfall and possess equatorial type of vegetation as per the source."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T15-0009",
+   "section": {
+    "te": "Peninsular Plateau Waters",
+    "en": "Peninsular Plateau Waters"
+   },
+   "q": {
+    "te": "భారత ద్వీపకల్పాన్ని ఈ క్రింది ఏ జలభాగాలు చుట్టుముట్టి ఉన్నాయి?",
+    "en": "Which of the following water bodies surround the Indian Peninsula?"
+   },
+   "options": {
+    "te": [
+     "అరేబియా సముద్రం",
+     "బంగాళాఖాతం",
+     "హిందూ మహాసముద్రం",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Arabian Sea",
+     "Bay of Bengal",
+     "Indian Ocean",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "భారత ద్వీపకల్పం మూడు వైపులా అరేబియా సముద్రం, బంగాళాఖాతం మరియు హిందూ మహాసముద్రం చుట్టుముట్టి ఉంది.",
+    "en": "The Indian Peninsula is surrounded by the Arabian Sea, the Bay of Bengal, and the Indian Ocean on its three sides."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T15-0032",
+   "section": {
+    "te": "Active Volcano",
+    "en": "Active Volcano"
+   },
+   "q": {
+    "te": "భారతదేశంలో ఉన్న ఏకైక క్రియాశీల అగ్నిపర్వతం ఏది?",
+    "en": "Which of the following is the only active volcano found in India?"
+   },
+   "options": {
+    "te": [
+     "లక్షద్వీప్ ద్వీపం",
+     "నికోబార్ ద్వీపం",
+     "అండమాన్ ద్వీపం",
+     "బారెన్ ద్వీపం"
+    ],
+    "en": [
+     "Lakshadweep Island",
+     "Nicobar Island",
+     "Andaman Island",
+     "Barren Island"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, అండమాన్ మరియు నికోబార్ దీవులలోని బారెన్ ద్వీపం భారతదేశంలోని ఏకైక క్రియాశీల అగ్నిపర్వతం.",
+    "en": "Barren Island in the Andaman and Nicobar Islands is the only active volcano in India."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T15-0037",
+   "section": {
+    "te": "Mawlynnong Village",
+    "en": "Mawlynnong Village"
+   },
+   "q": {
+    "te": "మేఘాలయలోని ఈస్ట్ ఖాసీ హిల్స్‌లో ఉన్న ఏ గ్రామం 'ఆసియాలోనే అత్యంత పరిశుభ్రమైన గ్రామం'గా ప్రసిద్ధి చెందింది?",
+    "en": "Which village in the East Khasi Hills of Meghalaya is known as the 'cleanest village in Asia'?"
+   },
+   "options": {
+    "te": [
+     "మావ్లిన్నాంగ్",
+     "నోంగ్రియట్",
+     "షిల్లాంగ్",
+     "చిరపుంజీ"
+    ],
+    "en": [
+     "Mawlynnong",
+     "Nongriat",
+     "Shillong",
+     "Cherrapunjee"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "మావ్లిన్నాంగ్ గ్రామం దాని పరిశుభ్రతకు ప్రసిద్ధి చెందింది మరియు ఆసియాలోనే అత్యంత పరిశుభ్రమైన గ్రామంగా గుర్తించబడింది.",
+    "en": "Mawlynnong Village is famous for its cleanliness and is recognized as the cleanest village in Asia."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T15-0084",
+   "section": {
+    "te": "Deccan Plateau Boundary",
+    "en": "Deccan Plateau Boundary"
+   },
+   "q": {
+    "te": "దక్కన్ పీఠభూమికి అత్యంత ఉత్తర సరిహద్దుగా ఉన్న పర్వత శ్రేణి ఏది?",
+    "en": "Which mountain range forms the northernmost boundary of the Deccan plateau?"
+   },
+   "options": {
+    "te": [
+     "ఆరావళి శ్రేణి",
+     "వింధ్య శ్రేణి",
+     "సాత్పురా శ్రేణి",
+     "రాజమహల్ కొండలు"
+    ],
+    "en": [
+     "Aravalli range",
+     "Vindhyan range",
+     "Satpura range",
+     "Rajmahal hills"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "600-900 మీటర్ల ఎత్తులో ఉన్న సాత్పురా శ్రేణి దక్కన్ పీఠభూమికి ఉత్తర సరిహద్దుగా ఉంది.",
+    "en": "The Satpura range, with an elevation of 600-900 m, constitutes the northernmost boundary of the Deccan plateau."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T15-0019",
+   "section": {
+    "te": "West Coast Estuaries",
+    "en": "West Coast Estuaries"
+   },
+   "q": {
+    "te": "భారతదేశ పశ్చిమ తీరంలో ఉన్న అతిపెద్ద ఎస్ట్యూరీలు (నదీ ముఖద్వారాలు) ఏవి?",
+    "en": "Which are the largest estuaries found on the West Coast of India?"
+   },
+   "options": {
+    "te": [
+     "కృష్ణ మరియు కావేరి",
+     "నర్మదా మరియు తపతి",
+     "గంగ మరియు బ్రహ్మపుత్ర",
+     "మహానది మరియు గోదావరి"
+    ],
+    "en": [
+     "Krishna and Kaveri",
+     "Narmada and Tapti",
+     "Ganga and Brahmaputra",
+     "Mahanadi and Godavari"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పశ్చిమ తీరంలో నర్మదా మరియు తపతి ఎస్ట్యూరీలు అతిపెద్దవని పాఠ్యభాగం గుర్తిస్తుంది.",
+    "en": "The text identifies the Narmada and Tapti estuaries as the largest on the west coast."
+   }
+  }
+ ]
+}

@@ -1,0 +1,942 @@
+{
+ "id": "geo-33-c-1",
+ "date": "",
+ "exam": "c",
+ "title": {
+  "te": "Introduction – క్విజ్ 1",
+  "en": "Introduction – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T33-0062",
+   "section": {
+    "te": "Global Systems",
+    "en": "Global Systems"
+   },
+   "q": {
+    "te": "భూగోళశాస్త్రం ప్రపంచాన్ని దేని యొక్క వ్యవస్థగా గుర్తిస్తుంది?",
+    "en": "Geography recognizes the world as a system of what?"
+   },
+   "options": {
+    "te": [
+     "వివిక్త సంస్థలు (Isolated entities)",
+     "స్థిర లక్షణాలు (Static features)",
+     "పరస్పర ఆధారితాలు (Interdependencies)",
+     "సంబంధం లేని దృగ్విషయాలు"
+    ],
+    "en": [
+     "Isolated entities",
+     "Static features",
+     "Interdependencies",
+     "Unrelated phenomena"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "భూగోళశాస్త్రం దాని సమగ్ర స్వభావం కారణంగా ప్రపంచాన్ని పరస్పర ఆధారితాల వ్యవస్థగా గుర్తిస్తుందని పాఠ్యభాగం స్పష్టంగా పేర్కొంది.",
+    "en": "Geography recognizes the world as a system of interdependencies due to its holistic nature."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T33-0084",
+   "section": {
+    "te": "Geography Definition",
+    "en": "Geography Definition"
+   },
+   "q": {
+    "te": "భూతలం యొక్క 'ప్రాంతీయ వైవిధ్యం' (areal differentiation) వివరణ మరియు వర్ణనకు సంబంధించి భూగోళశాస్త్రాన్ని నిర్వచించిన వారు ఎవరు?",
+    "en": "Who defined Geography as being concerned with the description and explanation of the 'areal differentiation' of the earth’s surface?"
+   },
+   "options": {
+    "te": [
+     "హెరోడోటస్",
+     "హెట్నర్",
+     "ఎరాటోస్థనీస్",
+     "రిచర్డ్ హార్ట్‌షోర్న్"
+    ],
+    "en": [
+     "Herodotus",
+     "Hettner",
+     "Eratosthenes",
+     "Richard Hartshorne"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "రిచర్డ్ హార్ట్‌షోర్న్ భూగోళశాస్త్రాన్ని భూతలం యొక్క ప్రాంతీయ వైవిధ్యం యొక్క వర్ణన మరియు వివరణగా నిర్వచించారు.",
+    "en": "Richard Hartshorne defined geography specifically in terms of the description and explanation of areal differentiation."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T33-0061",
+   "section": {
+    "te": "Spatial Defense",
+    "en": "Spatial Defense"
+   },
+   "q": {
+    "te": "'కొత్త ప్రపంచ దేశాలు' (countries of the new world) తమ సొంత భూభాగంపై యుద్ధాలు జరగకుండా ఏ భౌగోళిక అంశం రక్షించింది?",
+    "en": "What geographical factor protected the 'countries of the new world' from having wars imposed on their own soil?"
+   },
+   "options": {
+    "te": [
+     "శుష్క ఎడారి అడ్డంకులు",
+     "ఎత్తైన పర్వత శ్రేణులు",
+     "సముద్ర విస్తీర్ణం (Oceanic expanse)",
+     "దట్టమైన ఉష్ణమండల అడవులు"
+    ],
+    "en": [
+     "Arid desert barriers",
+     "High mountain ranges",
+     "Oceanic expanse",
+     "Dense tropical forests"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "కొత్త ప్రపంచ దేశాల చుట్టూ ఉన్న సముద్ర విస్తీర్ణం వారి భూభాగంపై యుద్ధాలు జరగకుండా సహజ రక్షణను కల్పించిందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The oceanic expanse surrounding the countries of the new world provided a natural defense against wars on their territory."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T33-0048",
+   "section": {
+    "te": "Areal Differentiation",
+    "en": "Areal Differentiation"
+   },
+   "q": {
+    "te": "భూగోళశాస్త్రాన్ని 'ప్రాంతీయ వైవిధ్యం' (areal differentiation) యొక్క అధ్యయనంగా పరిగణించడం ఎందుకు తార్కికంగా అనిపించింది?",
+    "en": "Why was it considered logical to perceive geography as the study of 'areal differentiation'?"
+   },
+   "options": {
+    "te": [
+     "భూమి ఉపరితలంపై భౌతిక మరియు సాంస్కృతిక పర్యావరణంలో వైవిధ్యాలు ఉన్నాయి కాబట్టి",
+     "భూమి ఒక ఖచ్చితమైన గోళం కాబట్టి",
+     "భౌగోళిక దృగ్విషయాలు స్థిరంగా ఉంటాయి కాబట్టి",
+     "అన్ని మానవ సమాజాలు ఒకేలా ఉంటాయి కాబట్టి"
+    ],
+    "en": [
+     "Because there exist variations over the surface of the earth in its physical and cultural environment",
+     "Because the earth is a perfect sphere",
+     "Because geographical phenomena are static",
+     "Because all human societies are identical"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూమిపై భౌతిక మరియు సాంస్కృతిక పర్యావరణాలలో వైవిధ్యాలు ఉన్నందున, భూగోళశాస్త్రాన్ని ప్రాంతీయ వైవిధ్యాల అధ్యయనంగా చూస్తారని పాఠ్యభాగం వివరిస్తుంది.",
+    "en": "Because there are variations in physical and cultural environments across the earth, geography is seen as the study of areal differentiation."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T33-0068",
+   "section": {
+    "te": "Physical Geography Branches",
+    "en": "Physical Geography Branches"
+   },
+   "q": {
+    "te": "భౌతిక భూగోళశాస్త్రం యొక్క కింది శాఖలను వాటి అధ్యయన రంగాలతో జతపరచండి:\nI. జియోమార్ఫాలజీ (Geomorphology) - A. జల మండలం\nII. క్లైమాటాలజీ (Climatology) - B. భూస్వరూపాలు మరియు వాటి పరిణామం\nIII. హైడ్రాలజీ (Hydrology) - C. వాతావరణ నిర్మాణం",
+    "en": "Match the following branches of Physical Geography with their respective fields of study:\nI. Geomorphology - A. Realm of water\nII. Climatology - B. Landforms and their evolution\nIII. Hydrology - C. Structure of atmosphere"
+   },
+   "options": {
+    "te": [
+     "I-A, II-B, III-C",
+     "I-B, II-C, III-A",
+     "I-C, II-A, III-B",
+     "I-B, II-A, III-C"
+    ],
+    "en": [
+     "I-A, II-B, III-C",
+     "I-B, II-C, III-A",
+     "I-C, II-A, III-B",
+     "I-B, II-A, III-C"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "జియోమార్ఫాలజీ భూస్వరూపాలను, క్లైమాటాలజీ వాతావరణాన్ని మరియు హైడ్రాలజీ జలమండలాన్ని అధ్యయనం చేస్తాయి.",
+    "en": "Geomorphology studies landforms, Climatology studies the atmosphere, and Hydrology studies the realm of water."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T33-0085",
+   "section": {
+    "te": "Geography Definition",
+    "en": "Geography Definition"
+   },
+   "q": {
+    "te": "హెట్నర్ ప్రకారం, భూగోళశాస్త్రం ప్రాథమికంగా దేనిని అధ్యయనం చేస్తుంది?",
+    "en": "According to Hettner, what does Geography primarily study?"
+   },
+   "options": {
+    "te": [
+     "ఖగోళ వస్తువుల మ్యాపింగ్",
+     "భూతలంపై వివిధ భాగాలలో సంబంధం ఉన్న దృగ్విషయాల వ్యత్యాసాలు",
+     "కాలక్రమేణా భూరూపాల పరిణామం",
+     "వాతావరణం యొక్క రసాయన కూర్పు"
+    ],
+    "en": [
+     "The mapping of celestial bodies",
+     "The differences of phenomena related in different parts of the earth’s surface",
+     "The evolution of landforms over time",
+     "The chemical composition of the atmosphere"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భూతలంపై వివిధ భాగాలలో సంబంధం ఉన్న దృగ్విషయాల వ్యత్యాసాలను అధ్యయనం చేయడమే భూగోళశాస్త్రమని హెట్నర్ నిర్వచించారు.",
+    "en": "Hettner defined geography as the study of the differences of phenomena that are related in various parts of the earth's surface."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T33-0026",
+   "section": {
+    "te": "Modern Techniques",
+    "en": "Modern Techniques"
+   },
+   "q": {
+    "te": "జాతీయ అభివృద్ధికి తోడ్పడే నైపుణ్యాలుగా ఈ క్రింది ఏ ఆధునిక శాస్త్రీయ పద్ధతులు పేర్కొనబడ్డాయి?",
+    "en": "Which of the following modern scientific techniques are mentioned as skills that help in national development?"
+   },
+   "options": {
+    "te": [
+     "GIS (జియోగ్రాఫిక్ ఇన్ఫర్మేషన్ సిస్టమ్)",
+     "కంప్యూటర్ కార్టోగ్రఫీ",
+     "A మరియు B రెండూ",
+     "మాన్యువల్ స్కెచింగ్"
+    ],
+    "en": [
+     "GIS (Geographic Information System)",
+     "Computer Cartography",
+     "Both A and B",
+     "Manual Sketching"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "జాతీయ అభివృద్ధికి తోడ్పడటానికి GIS మరియు కంప్యూటర్ కార్టోగ్రఫీ వంటి ఆధునిక పద్ధతులు విద్యార్థులకు అవసరమైన నైపుణ్యాలను అందిస్తాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The text highlights GIS and computer cartography as modern techniques that equip students to contribute to national development."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T33-0064",
+   "section": {
+    "te": "Geography and History",
+    "en": "Geography and History"
+   },
+   "q": {
+    "te": "నిశ్చయం (A): భూగోళశాస్త్రం చారిత్రక సంఘటనలను ప్రభావితం చేస్తుంది.\nకారణం (R): ప్రపంచ చరిత్ర గమనాన్ని మార్చడానికి ప్రాదేశిక దూరం (Spatial distance) ఒక శక్తివంతమైన అంశంగా ఉంది.",
+    "en": "Assertion (A): Geography influences historical events.\nReason (R): Spatial distance has been a potent factor to alter the course of history of the world."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is NOT the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భూగోళశాస్త్రం చరిత్రను ప్రభావితం చేస్తుందని పాఠ్యభాగం పేర్కొంది మరియు చారిత్రక గమనాలను మార్చిన అంశంగా ప్రాదేశిక దూరాన్ని ఉదాహరణగా ఇచ్చింది.",
+    "en": "Geography influences history and provides the example of spatial distance as a factor that has altered historical courses."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T33-0090",
+   "section": {
+    "te": "Soil Geography",
+    "en": "Soil Geography"
+   },
+   "q": {
+    "te": "నేలలకు పరిపక్వతను ఇచ్చేది మరియు నేల ప్రొఫైల్స్ (soil profiles) అభివృద్ధిలో సహాయపడే అంశం ఏది?",
+    "en": "Which factor provides maturity to soils and helps in the development of soil profiles?"
+   },
+   "options": {
+    "te": [
+     "కాలం",
+     "మాతృ శిల",
+     "శీతోష్ణస్థితి",
+     "జీవసంబంధ కార్యకలాపాలు"
+    ],
+    "en": [
+     "Time",
+     "Parent rock",
+     "Climate",
+     "Biological activity"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, కాలం నేలలకు పరిపక్వతను అందిస్తుంది మరియు నేల ప్రొఫైల్స్ అభివృద్ధిలో సహాయపడుతుంది.",
+    "en": "Time is the factor that provides maturity to soils and assists in the development of soil profiles."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T33-0069",
+   "section": {
+    "te": "Systematic Geography Method",
+    "en": "Systematic Geography Method"
+   },
+   "q": {
+    "te": "భూగోళశాస్త్రంలో 'క్రమబద్ధమైన విధానం' (Systematic Approach) గురించి కింది ప్రకటనలను పరిశీలించండి:\n1. ఒక దృగ్విషయాన్ని మొదట ప్రపంచవ్యాప్తంగా మొత్తంగా అధ్యయనం చేస్తారు.\n2. ప్రపంచ స్థాయి అధ్యయనం తర్వాతే రకాలు లేదా ప్రాదేశిక నమూనాల గుర్తింపు జరుగుతుంది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the 'Systematic Approach' in geography:\n1. A phenomenon is studied world over as a whole first.\n2. Identification of typologies or spatial patterns is done after the global study.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "క్రమబద్ధమైన విధానంలో, ఒక దృగ్విషయాన్ని మొదట ప్రపంచవ్యాప్తంగా మొత్తంగా అధ్యయనం చేస్తారు, ఆ తర్వాత నిర్దిష్ట ప్రాదేశిక నమూనాలు లేదా రకాలను గుర్తిస్తారు.",
+    "en": "In the systematic approach, a phenomenon is first studied globally as a whole, followed by the identification of specific spatial patterns or typologies."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T33-0027",
+   "section": {
+    "te": "Cultural Features",
+    "en": "Cultural Features"
+   },
+   "q": {
+    "te": "భూతలంపై మానవులు సృష్టించిన సామాజిక మరియు సాంస్కృతిక లక్షణాలకు ఉదాహరణలు ఏవి?",
+    "en": "Which of the following are examples of social and cultural features created by human beings on the earth's surface?"
+   },
+   "options": {
+    "te": [
+     "గ్రామాలు మరియు నగరాలు",
+     "రోడ్లు మరియు రైల్వేలు",
+     "ఓడరేవులు మరియు మార్కెట్లు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Villages and Cities",
+     "Roads and Railways",
+     "Ports and Markets",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "గ్రామాలు, నగరాలు, రోడ్లు, రైల్వేలు, ఓడరేవులు మరియు మార్కెట్లు వంటివి మానవులు తమ సాంస్కృతిక అభివృద్ధిలో భాగంగా సృష్టించిన అంశాలు.",
+    "en": "Human-created features like villages, cities, infrastructure (roads, railways, ports), and markets represent the social and cultural variations on earth."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T33-0020",
+   "section": {
+    "te": "Geography Origin",
+    "en": "Geography Origin"
+   },
+   "q": {
+    "te": "'జాగ్రఫీ' (Geography) అనే పదాన్ని మొదటిసారిగా ఉపయోగించిన గ్రీకు పండితుడు ఎవరు?",
+    "en": "Who was the Greek scholar credited with first coining the term 'Geography'?"
+   },
+   "options": {
+    "te": [
+     "టోలెమీ",
+     "ఎరటోస్తనీస్",
+     "హెరోడోటస్",
+     "అరిస్టాటిల్"
+    ],
+    "en": [
+     "Ptolemy",
+     "Eratosthenese",
+     "Herodotus",
+     "Aristotle"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "జాగ్రఫీ అనే పదాన్ని క్రీ.పూ 276-194 మధ్య జీవించిన గ్రీకు పండితుడు ఎరటోస్తనీస్ మొదటిసారిగా రూపొందించారు.",
+    "en": "The term geography was first coined by Eratosthenese, a Greek scholar who lived between 276-194 BC."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T33-0008",
+   "section": {
+    "te": "Terai Region",
+    "en": "Terai Region"
+   },
+   "q": {
+    "te": "అల్యూవియల్ ఫ్యాన్స్ (alluvial fans) యొక్క దిగువ భాగాలలో కనిపించే చిత్తడి నేల మరియు వృక్షసంపద ఉన్న ప్రాంతాన్ని ఏమంటారు?",
+    "en": "The belt of marshy ground and vegetation found on the lower parts of alluvial fans is known as:"
+   },
+   "options": {
+    "te": [
+     "భాంగర్",
+     "టెరాయ్",
+     "భాబర్",
+     "ఖాదర్"
+    ],
+    "en": [
+     "Bhangar",
+     "Terai",
+     "Bhabar",
+     "Khadar"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "టెరాయ్ అనేది అల్యూవియల్ ఫ్యాన్స్ దిగువ భాగంలో ఉండే చిత్తడి నేల ప్రాంతం.",
+    "en": "Terai is a marshy belt located at the lower parts of alluvial fans."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T33-0018",
+   "section": {
+    "te": "Soil Components",
+    "en": "Soil Components"
+   },
+   "q": {
+    "te": "నేల సందర్భంలో 'హ్యూమస్' (Humus) అనే పదం దేనిని సూచిస్తుంది?",
+    "en": "What does the term 'Humus' refer to in the context of soil?"
+   },
+   "options": {
+    "te": [
+     "చనిపోయిన సేంద్రీయ పదార్థం",
+     "తేమ స్థాయి",
+     "ఖనిజ కూర్పు",
+     "మాతృ శిల పదార్థం"
+    ],
+    "en": [
+     "The dead organic content",
+     "The moisture level",
+     "The mineral composition",
+     "The parent rock material"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "హ్యూమస్ అనేది నేలలో కనిపించే చనిపోయిన సేంద్రీయ పదార్థం.",
+    "en": "Humus is the dead organic matter found within the soil."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T33-0015",
+   "section": {
+    "te": "Tectonic Forces",
+    "en": "Tectonic Forces"
+   },
+   "q": {
+    "te": "భూస్వరూప లక్షణాలలో విస్తృతమైన మార్పులకు కారణమయ్యే భూమి లోపల ఉద్భవించే శక్తులను ఏమంటారు?",
+    "en": "Forces originating within the earth that are responsible for widespread changes in landform features are called:"
+   },
+   "options": {
+    "te": [
+     "వాతావరణ శక్తులు",
+     "టెక్టోనిక్ శక్తులు (Tectonic forces)",
+     "క్రమక్షయ శక్తులు",
+     "ఆటుపోట్ల శక్తులు"
+    ],
+    "en": [
+     "Atmospheric forces",
+     "Tectonic forces",
+     "Erosional forces",
+     "Tidal forces"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "టెక్టోనిక్ శక్తులు భూమి లోపల ఉద్భవిస్తాయి మరియు భూస్వరూపాలలో ప్రధాన మార్పులను కలిగిస్తాయి.",
+    "en": "Tectonic forces originate inside the earth and cause major changes to landforms."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T33-0006",
+   "section": {
+    "te": "Rock Types",
+    "en": "Rock Types"
+   },
+   "q": {
+    "te": "నీస్ (Gneiss) ఏ రకమైన రాయి?",
+    "en": "Which type of rock is Gneiss?"
+   },
+   "options": {
+    "te": [
+     "రూపాంతర శిల (Metamorphic)",
+     "అగ్నిపర్వత శిల",
+     "అగ్ని శిల",
+     "అవక్షేప శిల"
+    ],
+    "en": [
+     "Metamorphic",
+     "Volcanic",
+     "Igneous",
+     "Sedimentary"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "నీస్ అనేది వేడి మరియు పీడనం ద్వారా ఏర్పడిన ముతక కణాలతో కూడిన రూపాంతర శిల.",
+    "en": "Gneiss is defined as a coarse-grained metamorphic rock formed by heat and pressure."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T33-0054",
+   "section": {
+    "te": "Regional Approach",
+    "en": "Regional Approach"
+   },
+   "q": {
+    "te": "భూగోళశాస్త్రంలోని 'ప్రాంతీయ విధానం' (Regional Approach) కు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ప్రపంచం వివిధ క్రమానుగత స్థాయిలలో (hierarchical levels) ప్రాంతాలుగా విభజించబడింది.\n2. ఒక నిర్దిష్ట ప్రాంతంలోని అన్ని భౌగోళిక దృగ్విషయాలు సమగ్ర పద్ధతిలో అధ్యయనం చేయబడతాయి.\nపై ప్రకటనలలో ఏది/వి సరైనది/వి?",
+    "en": "Consider the following statements regarding the 'Regional Approach' in geography:\n1. The world is divided into regions at different hierarchical levels.\n2. All geographical phenomena in a particular region are studied in a holistic manner.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగంలో నిర్వచించిన విధంగా ప్రాంతీయ విధానం గురించి రెండు ప్రకటనలు ఖచ్చితంగా వివరిస్తాయి, ఇందులో క్రమానుగత విభజన మరియు దృగ్విషయాల సమగ్ర అధ్యయనం ఉంటాయి.",
+    "en": "Both statements accurately describe the regional approach as defined in the text, involving hierarchical division and holistic study of phenomena."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T33-0038",
+   "section": {
+    "te": "Geography as Social Science",
+    "en": "Geography as Social Science"
+   },
+   "q": {
+    "te": "ఒక సామాజిక శాస్త్ర విభాగంగా, భూగోళశాస్త్ర అధ్యయనం యొక్క ప్రధానాంశాలు ఏమిటి?",
+    "en": "As a social science discipline, what are the primary focuses of geography's study?"
+   },
+   "options": {
+    "te": [
+     "రాజకీయ సరిహద్దులు మరియు ఒప్పందాలు",
+     "ప్రాదేశిక సంస్థ (spatial organisation) మరియు ప్రాదేశిక అనుసంధానం (spatial integration)",
+     "శిలలు మరియు ఖనిజాల అధ్యయనం మాత్రమే",
+     "పురాతన నాగరికతల చరిత్ర"
+    ],
+    "en": [
+     "Political boundaries and treaties",
+     "Spatial organisation and spatial integration",
+     "Only the study of rocks and minerals",
+     "The history of ancient civilizations"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "సామాజిక శాస్త్రంగా, భూగోళశాస్త్రం ప్రాదేశిక సంస్థ మరియు ప్రాదేశిక అనుసంధానాన్ని అధ్యయనం చేస్తుందని పాఠ్యభాగం స్పష్టంగా పేర్కొంది.",
+    "en": "As a social science, geography studies spatial organisation and spatial integration."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T33-0037",
+   "section": {
+    "te": "Human-Nature Interaction",
+    "en": "Human-Nature Interaction"
+   },
+   "q": {
+    "te": "కవి సంభాషణలో పేర్కొన్న సహజ లక్షణాలను (ప్రకృతి సృష్టించినవి) మానవ సృష్టితో జతపరచండి:\nI. మట్టి (Soil)      A. దీపం (Lamp)\nII. రాత్రి (Night)     B. పూల పాన్పులు (Flower beds)\nIII. అరణ్యం (Wilderness) C. కప్పు (Cup)",
+    "en": "Match the natural features (created by God/Nature) with the human creations mentioned in the poet's dialogue:\nI. Soil      A. Lamp\nII. Night     B. Flower beds\nIII. Wilderness C. Cup"
+   },
+   "options": {
+    "te": [
+     "I-C, II-A, III-B",
+     "I-A, II-B, III-C",
+     "I-B, II-C, III-A",
+     "I-C, II-B, III-A"
+    ],
+    "en": [
+     "I-C, II-A, III-B",
+     "I-A, II-B, III-C",
+     "I-B, II-C, III-A",
+     "I-C, II-B, III-A"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "సంభాషణలో, మానవులు మట్టి నుండి కప్పును, రాత్రి కోసం దీపాన్ని మరియు అరణ్యం నుండి పూల పాన్పులను సృష్టించారు.",
+    "en": "In the dialogue, humans created the cup from soil, the lamp for the night, and flower beds from the wilderness."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T33-0089",
+   "section": {
+    "te": "Ocean Resources",
+    "en": "Ocean Resources"
+   },
+   "q": {
+    "te": "సముద్ర గర్భం నుండి మాంగనీస్ నోడ్యూల్స్‌ను సేకరించే సాంకేతికతను ఏ దేశం అభివృద్ధి చేసింది?",
+    "en": "Which country has developed the technology for collecting manganese nodules from the oceanic bed?"
+   },
+   "options": {
+    "te": [
+     "జపాన్",
+     "చైనా",
+     "భారతదేశం",
+     "అమెరికా"
+    ],
+    "en": [
+     "Japan",
+     "China",
+     "India",
+     "USA"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "సముద్ర గర్భం నుండి మాంగనీస్ నోడ్యూల్స్‌ను సేకరించే సాంకేతికతను భారతదేశం అభివృద్ధి చేసిందని పాఠ్యభాగం పేర్కొంది.",
+    "en": "India has developed the technology to collect manganese nodules from the ocean floor."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T33-0012",
+   "section": {
+    "te": "Backwater",
+    "en": "Backwater"
+   },
+   "q": {
+    "te": "'బ్యాక్ వాటర్' (Backwater) గురించి క్రింది వాటిలో ఏది నిజం?",
+    "en": "Which of the following is true about a 'Backwater'?"
+   },
+   "options": {
+    "te": [
+     "ఇది ప్రధాన ప్రవాహం నుండి పూర్తిగా విడదీయబడింది",
+     "ఇది చాలా ఎక్కువ ప్రవాహ వేగాన్ని కలిగి ఉంటుంది",
+     "ఇది చాలా తక్కువ ప్రవాహ వేగాన్ని కలిగి ఉంటుంది",
+     "ఇది ఎడారులలో మాత్రమే కనిపిస్తుంది"
+    ],
+    "en": [
+     "It is completely disconnected from the main stream",
+     "It has a very high rate of flow",
+     "It has a very low rate of flow",
+     "It is found only in deserts"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "బ్యాక్ వాటర్ అనేది ప్రధాన ప్రవాహం నుండి పక్కకు వెళ్ళినప్పటికీ దానికి అనుసంధానించబడి ఉంటుంది, దీని ఫలితంగా ప్రవాహ వేగం చాలా తక్కువగా ఉంటుంది.",
+    "en": "A backwater is bypassed by the main flow but still joined to it, resulting in a very low flow rate."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T33-0007",
+   "section": {
+    "te": "Biosphere Reserve",
+    "en": "Biosphere Reserve"
+   },
+   "q": {
+    "te": "బయోస్పియర్ రిజర్వ్ యొక్క ప్రధాన లక్ష్యాలు ఏమిటి?\nA. సహజ వారసత్వ వైవిధ్యాన్ని పరిరక్షించడం.\nB. పర్యావరణ పరిరక్షణపై పరిశోధనను ప్రోత్సహించడం.\nC. విద్య మరియు అవగాహన కోసం సౌకర్యాలను కల్పించడం.",
+    "en": "Which of the following are major objectives of a Biosphere Reserve?\nA. Conserve diversity of natural heritage.\nB. Promote research on ecological conservation.\nC. Provide facilities for education and awareness."
+   },
+   "options": {
+    "te": [
+     "A మరియు B మాత్రమే",
+     "B మరియు C మాత్రమే",
+     "A మరియు C మాత్రమే",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "A and B only",
+     "B and C only",
+     "A and C only",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "బయోస్పియర్ రిజర్వ్‌లు వైవిధ్యాన్ని పరిరక్షించడం, పరిశోధనను ప్రోత్సహించడం మరియు విద్య మరియు అవగాహన సౌకర్యాలను కల్పించడం లక్ష్యంగా పెట్టుకున్నాయి.",
+    "en": "Biosphere reserves aim to conserve diversity, promote research, and provide education and awareness facilities."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T33-0004",
+   "section": {
+    "te": "National Park",
+    "en": "National Park"
+   },
+   "q": {
+    "te": "క్రింది వాటిలో ఏ ప్రాంతంలో అటవీ పెంపకం, పశువుల మేత లేదా సాగు వంటి కార్యకలాపాలు ఖచ్చితంగా అనుమతించబడవు?",
+    "en": "In which of the following areas are activities like forestry, grazing, or cultivation strictly NOT allowed?"
+   },
+   "options": {
+    "te": [
+     "జాతీయ ఉద్యానవనం (National Park)",
+     "అన్‌క్లాస్డ్ అడవి",
+     "రక్షిత అడవి",
+     "వన్యప్రాణి సంరక్షణ కేంద్రం (Sanctuary)"
+    ],
+    "en": [
+     "National Park",
+     "Unclassed Forest",
+     "Protected Forest",
+     "Sanctuary"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "జాతీయ ఉద్యానవనాలు వన్యప్రాణుల రక్షణ కోసం ఖచ్చితంగా కేటాయించబడ్డాయి మరియు అక్కడ అటవీ పెంపకం, మేత మరియు సాగును నిషేధిస్తారు.",
+    "en": "National Parks are strictly reserved for wildlife protection and prohibit forestry, grazing, and cultivation."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T33-0005",
+   "section": {
+    "te": "Jet Stream",
+    "en": "Jet Stream"
+   },
+   "q": {
+    "te": "జెట్ స్ట్రీమ్ అనేది దేని కింద వీచే చాలా బలమైన మరియు స్థిరమైన పశ్చిమ గాలి?",
+    "en": "A Jet Stream is a very strong and steady westerly wind blowing just below the:"
+   },
+   "options": {
+    "te": [
+     "మెసోపాజ్",
+     "అయానోస్పియర్",
+     "ట్రోపోపాజ్",
+     "స్ట్రాటోపాజ్"
+    ],
+    "en": [
+     "Mesopause",
+     "Ionosphere",
+     "Tropopause",
+     "Stratopause"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "గ్లోసరీ ప్రకారం జెట్ స్ట్రీమ్ అనేది ట్రోపోపాజ్ కింద ఉండే బలమైన పశ్చిమ గాలి.",
+    "en": "The glossary defines the Jet Stream as a strong westerly wind located just below the tropopause."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T33-0098",
+   "section": {
+    "te": "Human Geography Definitions",
+    "en": "Human Geography Definitions"
+   },
+   "q": {
+    "te": "మానవ సమాజాలకు మరియు భూ ఉపరితలానికి మధ్య ఉన్న సంబంధాన్ని \"సంశ్లేషణాత్మక అధ్యయనం\" (synthetic study) అని మానవ భూగోళశాస్త్రాన్ని ఎవరు నిర్వచించారు?",
+    "en": "Who defined human geography as the \"synthetic study of relationship between human societies and earth’s surface\"?"
+   },
+   "options": {
+    "te": [
+     "రాట్జెల్ (Ratzel)",
+     "ఎల్లెన్ సి. శాంపిల్ (Ellen C. Semple)",
+     "పాల్ విడాల్ డి లా బ్లాష్ (Paul Vidal de la Blache)",
+     "రిచర్డ్ హార్ట్‌షోర్న్ (Richard Hartshorne)"
+    ],
+    "en": [
+     "Ratzel",
+     "Ellen C. Semple",
+     "Paul Vidal de la Blache",
+     "Richard Hartshorne"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, రాట్జెల్ మానవ భూగోళశాస్త్రాన్ని మానవ సమాజాలకు మరియు భూ ఉపరితలానికి మధ్య ఉన్న సంబంధం యొక్క సంశ్లేషణాత్మక అధ్యయనంగా నిర్వచించారు.",
+    "en": "Ratzel defined human geography as the synthetic study of the relationship between human societies and the earth's surface."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T33-0010",
+   "section": {
+    "te": "Bunding",
+    "en": "Bunding"
+   },
+   "q": {
+    "te": "వ్యవసాయంలో 'బండింగ్' (Bunding) యొక్క ప్రాథమిక ఉద్దేశ్యం ఏమిటి?",
+    "en": "What is the primary purpose of 'Bunding' in agriculture?"
+   },
+   "options": {
+    "te": [
+     "సాగు కోసం అడవులను నరకడానికి",
+     "కృత్రిమ ద్వీపాలను సృష్టించడానికి",
+     "నీరు మరియు నేలను సంరక్షించడానికి",
+     "నదుల ప్రవాహ వేగాన్ని పెంచడానికి"
+    ],
+    "en": [
+     "To clear forests for cultivation",
+     "To create artificial islands",
+     "To conserve water and soil",
+     "To increase flow rate of rivers"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "బండింగ్ అంటే నేల మరియు నీటిని సంరక్షించడానికి కట్టలను నిర్మించడం, ఇది పంట ఉత్పత్తిని పెంచడానికి సహాయపడుతుంది.",
+    "en": "Bunding involves building embankments to conserve soil and water, which helps increase crop production."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T33-0096",
+   "section": {
+    "te": "Biosphere",
+    "en": "Biosphere"
+   },
+   "q": {
+    "te": "భౌతిక భూగోళశాస్త్ర పరిధి ప్రకారం, జీవగోళం (biosphere) లో ఏవి ఉంటాయి?",
+    "en": "According to the scope of physical geography, what does the biosphere include?"
+   },
+   "options": {
+    "te": [
+     "మానవులు",
+     "స్థూల జీవులు (Macro-organisms)",
+     "ఆహారపు గొలుసు వంటి జీవనాధార యంత్రాంగాలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Human beings",
+     "Macro-organisms",
+     "Sustaining mechanisms like food chains",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జీవగోళంలో మానవులు మరియు స్థూల జీవులతో పాటు ఆహారపు గొలుసు మరియు పర్యావరణ సమతుల్యత వంటి జీవనాధార యంత్రాంగాలు ఉంటాయని పాఠ్యభాగం పేర్కొంది.",
+    "en": "The biosphere includes life forms such as humans and macro-organisms, along with sustaining mechanisms like food chains and ecological balance."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T33-0002",
+   "section": {
+    "te": "Estuary Definition",
+    "en": "Estuary Definition"
+   },
+   "q": {
+    "te": "నది యొక్క ఆటుపోట్లు ఉండే ముఖద్వారం వద్ద మంచి నీరు మరియు ఉప్పు నీరు కలిసే ప్రాంతాన్ని ఏమంటారు?",
+    "en": "Which of the following terms describes the tidal mouth of a river where fresh and saline water get mixed?"
+   },
+   "options": {
+    "te": [
+     "డెల్టా",
+     "బ్యాక్ వాటర్",
+     "ఎస్ట్యూరీ (Estuary)",
+     "ఆర్కిపెలాగో"
+    ],
+    "en": [
+     "Delta",
+     "Backwater",
+     "Estuary",
+     "Archipelago"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "ఎస్ట్యూరీ అనేది నది నుండి వచ్చే మంచి నీరు మరియు సముద్రం నుండి వచ్చే ఉప్పు నీరు కలిసే నది ముఖద్వారం.",
+    "en": "An estuary is defined as the tidal mouth of a river where fresh water from the river and saline water from the sea mix."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T33-0063",
+   "section": {
+    "te": "Regional Classification",
+    "en": "Regional Classification"
+   },
+   "q": {
+    "te": "భూగోళశాస్త్రం యొక్క ప్రాంతీయ విధానంలో, ప్రాంతాలను క్రింది వాటిలో ఏవిగా వర్గీకరించవచ్చు?",
+    "en": "In the regional approach to geography, regions can be classified as which of the following?"
+   },
+   "options": {
+    "te": [
+     "సహజ ప్రాంతాలు",
+     "రాజకీయ ప్రాంతాలు",
+     "నిర్దేశించిన ప్రాంతాలు (Designated regions)",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Natural regions",
+     "Political regions",
+     "Designated regions",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ప్రాంతీయ విధానంలో అధ్యయనం చేయగల ప్రాంతాల రకాలుగా సహజ, రాజకీయ మరియు నిర్దేశించిన ప్రాంతాలను పాఠ్యభాగం జాబితా చేస్తుంది.",
+    "en": "The text lists natural, political, and designated regions as the types of regions that can be studied in the regional approach."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T33-0033",
+   "section": {
+    "te": "Geography Uniqueness",
+    "en": "Geography Uniqueness"
+   },
+   "q": {
+    "te": "ఇతర శాస్త్రాలతో భూగోళశాస్త్రానికి ఉన్న సంబంధం గురించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. భూగోళశాస్త్రం దాని పద్దతిలో (methodology) ఇతర శాస్త్రాలతో సమానంగా ఉంటుంది.\n2. విభిన్న విషయాలను కలిగి ఉన్నప్పటికీ, భూగోళశాస్త్రం ఇతర విభాగాలతో సన్నిహిత సంబంధం కలిగి ఉంటుంది.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements about Geography's relationship with other sciences:\n1. Geography is identical to other sciences in its methodology.\n2. Geography is closely related to other disciplines despite having different subject matter.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 మరియు 2 రెండూ కావు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "భూగోళశాస్త్రం దాని పద్ధతి మరియు విషయ పరిధిలో ఇతర శాస్త్రాల కంటే భిన్నంగా ఉంటుంది, కానీ వాటితో సన్నిహిత సంబంధాన్ని కలిగి ఉంటుంది.",
+    "en": "Geography is different from other sciences in its methodology and subject matter, but it remains closely related to them by synthesizing their data."
+   }
+  }
+ ]
+}

@@ -1,0 +1,942 @@
+{
+ "id": "geo-30-g1-1",
+ "date": "",
+ "exam": "g1",
+ "title": {
+  "te": "Natural Hazards and Disasters – క్విజ్ 1",
+  "en": "Natural Hazards and Disasters – Quiz 1"
+ },
+ "duration_minutes": 15,
+ "questions": [
+  {
+   "id": 1,
+   "bit": "GEO-T30-0068",
+   "section": {
+    "te": "Agricultural Drought definition",
+    "en": "Agricultural Drought definition"
+   },
+   "q": {
+    "te": "ఏ రకమైన కరువును 'నేల తేమ కరువు' (soil moisture drought) అని కూడా పిలుస్తారు?",
+    "en": "Which type of drought is also known as 'soil moisture drought'?"
+   },
+   "options": {
+    "te": [
+     "జలసంబంధిత కరువు",
+     "పర్యావరణ కరువు",
+     "వ్యవసాయ కరువు",
+     "వాతావరణ కరువు"
+    ],
+    "en": [
+     "Hydrological Drought",
+     "Ecological Drought",
+     "Agricultural Drought",
+     "Meteorological Drought"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, వ్యవసాయ కరువును నేల తేమ కరువు అని కూడా పిలుస్తారు. ఇది పంటలకు అవసరమైన నేల తేమ తక్కువగా ఉండటం వల్ల ఏర్పడుతుంది.",
+    "en": "Agricultural Drought is also known as soil moisture drought and is characterized by low soil moisture necessary for crops."
+   }
+  },
+  {
+   "id": 2,
+   "bit": "GEO-T30-0020",
+   "section": {
+    "te": "GEMINI Device Acronym",
+    "en": "GEMINI Device Acronym"
+   },
+   "q": {
+    "te": "సముద్ర నావిగేషన్ మరియు భద్రత సందర్భంలో GEMINI అనే సంక్షిప్త రూపం దేనిని సూచిస్తుంది?",
+    "en": "What does the acronym GEMINI stand for in the context of marine navigation and safety?"
+   },
+   "options": {
+    "te": [
+     "GPS-Enabled Mariner’s Interface for Navigation and Intelligence",
+     "Geospatial-Enabled Marine Instrument for Nautical Information",
+     "Global-Enabled Marine Instrument for Network Information",
+     "GAGAN-Enabled Mariner’s Instrument for Navigation and Information"
+    ],
+    "en": [
+     "GPS-Enabled Mariner’s Interface for Navigation and Intelligence",
+     "Geospatial-Enabled Marine Instrument for Nautical Information",
+     "Global-Enabled Marine Instrument for Network Information",
+     "GAGAN-Enabled Mariner’s Instrument for Navigation and Information"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "GEMINI అంటే GAGAN-Enabled Mariner’s Instrument for Navigation and Information. ఇది మత్స్యకారుల కోసం రూపొందించబడిన చేతితో పట్టుకునే పరికరం.",
+    "en": "GEMINI stands for GAGAN-Enabled Mariner’s Instrument for Navigation and Information, which is a handheld device for fishermen."
+   }
+  },
+  {
+   "id": 3,
+   "bit": "GEO-T30-0014",
+   "section": {
+    "te": "Human triggers for avalanches",
+    "en": "Human triggers for avalanches"
+   },
+   "q": {
+    "te": "పర్వత ప్రాంతాలలో ఏ మానవ కార్యకలాపాలు మంచు తుఫానులను (Avalanches) ప్రేరేపిస్తాయి?",
+    "en": "Which human activities in mountainous areas can trigger avalanches?"
+   },
+   "options": {
+    "te": [
+     "స్కీయింగ్ మరియు ట్రెకింగ్",
+     "నిర్మాణ పనులు (Construction)",
+     "A మరియు B రెండూ",
+     "పైవేవీ కావు"
+    ],
+    "en": [
+     "Skiing and trekking",
+     "Construction",
+     "Both A and B",
+     "None of these"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "స్కీయింగ్, ట్రెకింగ్ మరియు నిర్మాణ పనులు మంచుతో కూడిన వాలుల సమతుల్యతను దెబ్బతీసి మంచు తుఫానులకు కారణమవుతాయి.",
+    "en": "Skiing, trekking, and construction can disturb the balance of snow-covered slopes and trigger avalanches."
+   }
+  },
+  {
+   "id": 4,
+   "bit": "GEO-T30-0025",
+   "section": {
+    "te": "ITEWC Role",
+    "en": "ITEWC Role"
+   },
+   "q": {
+    "te": "సునామీ హెచ్చరికలను నేరుగా భారత ప్రభుత్వానికి పంపే బాధ్యత ఏ సంస్థకు ఉంది?",
+    "en": "Which organization is responsible for sending tsunami alerts directly to the Government of India?"
+   },
+   "options": {
+    "te": [
+     "ఫారెస్ట్ సర్వే ఆఫ్ ఇండియా (FSI)",
+     "ఇండియన్ మెటియోరోలాజికల్ డిపార్ట్‌మెంట్ (IMD)",
+     "నేషనల్ డిజాస్టర్ మేనేజ్‌మెంట్ అథారిటీ (NDMA)",
+     "ఇండియన్ సునామీ ఎర్లీ వార్నింగ్ సెంటర్ (ITEWC)"
+    ],
+    "en": [
+     "Forest Survey of India (FSI)",
+     "Indian Meteorological Department (IMD)",
+     "National Disaster Management Authority (NDMA)",
+     "Indian Tsunami Early Warning Centre (ITEWC)"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ITEWC అనేది కేంద్ర ప్రభుత్వానికి సునామీ హెచ్చరికలను పంపే బాధ్యత కలిగిన నిర్దిష్ట సంస్థ.",
+    "en": "The ITEWC is the specific body tasked with sending tsunami alerts to the central government."
+   }
+  },
+  {
+   "id": 5,
+   "bit": "GEO-T30-0018",
+   "section": {
+    "te": "EWS role",
+    "en": "EWS role"
+   },
+   "q": {
+    "te": "విపత్తు నిర్వహణలో ముందస్తు హెచ్చరిక వ్యవస్థలు (EWS) ఎలా సహాయపడతాయి?",
+    "en": "How do Early Warning Systems (EWS) help in disaster management?"
+   },
+   "options": {
+    "te": [
+     "తరలింపు కోసం సకాలంలో హెచ్చరికలు జారీ చేయడం ద్వారా",
+     "భూకంపాలు సంభవించకుండా నిరోధించడం ద్వారా",
+     "తుఫానులు తీరానికి చేరకుండా ఆపడం ద్వారా",
+     "సునామీల తీవ్రతను తగ్గించడం ద్వారా"
+    ],
+    "en": [
+     "By issuing timely warnings for evacuation",
+     "By preventing earthquakes from occurring",
+     "By stopping cyclones from reaching the coast",
+     "By reducing the intensity of tsunamis"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "EWS ప్రమాదాలను గుర్తించి, ప్రజలు సురక్షిత ప్రాంతాలకు వెళ్లడానికి సకాలంలో హెచ్చరికలు జారీ చేస్తుంది.",
+    "en": "EWS detect hazards and issue timely warnings so people can evacuate and stay safe."
+   }
+  },
+  {
+   "id": 6,
+   "bit": "GEO-T30-0079",
+   "section": {
+    "te": "Disaster Management Stages",
+    "en": "Disaster Management Stages"
+   },
+   "q": {
+    "te": "కింది వాటిలో ఏది 'విపత్తుకు ముందు నిర్వహణ' (Pre-disaster management) లో భాగం?",
+    "en": "Which of the following activities is part of 'Pre-disaster management'?"
+   },
+   "options": {
+    "te": [
+     "బాధితుల పునరావాసం",
+     "సహాయక శిబిరాల నిర్మాణం",
+     "అత్యవసర ప్రాతిపదికన వైద్య సహాయం అందించడం",
+     "ప్రమాద ప్రాంతాల మ్యాప్‌ల (Vulnerability zoning maps) తయారీ"
+    ],
+    "en": [
+     "Rehabilitation of victims",
+     "Construction of relief camps",
+     "Supplying medical aids on emergency basis",
+     "Preparing vulnerability zoning maps"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "విపత్తుకు ముందు నిర్వహణలో డేటా సేకరణ, ప్రమాద ప్రాంతాల మ్యాప్‌ల తయారీ మరియు అవగాహన కల్పించడం వంటివి ఉంటాయి.",
+    "en": "Pre-disaster management involves data generation, preparing vulnerability maps, and spreading awareness."
+   }
+  },
+  {
+   "id": 7,
+   "bit": "GEO-T30-0067",
+   "section": {
+    "te": "Yokohama Strategy Focus",
+    "en": "Yokohama Strategy Focus"
+   },
+   "q": {
+    "te": "విపత్తు తగ్గింపు కోసం యోకోహామా వ్యూహం (Yokohama Strategy) దేనిపై దృష్టి పెడుతుంది?",
+    "en": "Which of the following is a focus of the Yokohama Strategy for disaster reduction?"
+   },
+   "options": {
+    "te": [
+     "సాంకేతికత భాగస్వామ్యం మరియు సమాచార వ్యాప్తి",
+     "వనరుల సమీకరణ",
+     "మానవ మరియు సంస్థాగత సామర్థ్య పెంపు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Technology sharing and information dissemination",
+     "Mobilisation of resources",
+     "Human and institutional capacity-building",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "యోకోహామా వ్యూహం విపత్తు నివారణ కోసం సామర్థ్య పెంపు, సాంకేతికత భాగస్వామ్యం మరియు వనరుల సమీకరణను నొక్కి చెబుతుంది.",
+    "en": "The Yokohama Strategy emphasizes capacity-building, technology sharing, and resource mobilization for disaster mitigation."
+   }
+  },
+  {
+   "id": 8,
+   "bit": "GEO-T30-0002",
+   "section": {
+    "te": "AWS in Sikkim",
+    "en": "AWS in Sikkim"
+   },
+   "q": {
+    "te": "2023లో, నేషనల్ డిజాస్టర్ మేనేజ్‌మెంట్ అథారిటీ (NDMA) ఏ రాష్ట్రంలోని హిమనదీయ సరస్సు వద్ద ఆటోమేటిక్ వెదర్ స్టేషన్ (AWS)ను ఏర్పాటు చేసింది?",
+    "en": "In 2023, the National Disaster Management Authority (NDMA) set up an Automatic Weather Station (AWS) at a glacial lake in which state?"
+   },
+   "options": {
+    "te": [
+     "అరుణాచల్ ప్రదేశ్",
+     "సిక్కిం",
+     "హిమాచల్ ప్రదేశ్",
+     "ఉత్తరాఖండ్"
+    ],
+    "en": [
+     "Arunachal Pradesh",
+     "Sikkim",
+     "Himachal Pradesh",
+     "Uttarakhand"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "2023లో సిక్కింలోని 4800 మీటర్ల కంటే ఎక్కువ ఎత్తులో ఉన్న ఒక హిమనదీయ సరస్సు వద్ద NDMA ఒక AWSని ఏర్పాటు చేసింది.",
+    "en": "The NDMA set up an AWS at a glacial lake in Sikkim at an altitude of more than 4800 metres in 2023."
+   }
+  },
+  {
+   "id": 9,
+   "bit": "GEO-T30-0078",
+   "section": {
+    "te": "Disaster Definition",
+    "en": "Disaster Definition"
+   },
+   "q": {
+    "te": "విపత్తు నిర్వహణ బిల్లు, 2005 ప్రకారం, విపత్తు అనేది ఎటువంటి స్వభావం లేదా పరిమాణం కలిగిన సంఘటన?",
+    "en": "According to the Disaster Management Bill, 2005, a disaster is an occurrence that is of such nature or magnitude as to be:"
+   },
+   "options": {
+    "te": [
+     "స్థానిక అధికారుల ద్వారా సులభంగా నిర్వహించదగినది",
+     "ప్రభావిత ప్రాంత సమాజం యొక్క ఎదుర్కొనే సామర్థ్యానికి మించినది",
+     "ప్రకృతి కారణాలకు మాత్రమే పరిమితమైనది",
+     "ఎల్లప్పుడూ కొత్త భూరూపాల ఏర్పాటుకు దారితీసేది"
+    ],
+    "en": [
+     "Easily manageable by local authorities",
+     "Beyond the coping capacity of the community",
+     "Limited only to natural causes",
+     "Always resulting in the formation of new landforms"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రభావిత ప్రాంతంలోని సమాజం యొక్క ఎదుర్కొనే సామర్థ్యానికి మించి ఉండటాన్ని విపత్తుగా ఈ బిల్లు నిర్వచిస్తుంది.",
+    "en": "The Bill defines a disaster as being beyond the coping capacity of the community in the affected area."
+   }
+  },
+  {
+   "id": 10,
+   "bit": "GEO-T30-0004",
+   "section": {
+    "te": "Avalanche causes",
+    "en": "Avalanche causes"
+   },
+   "q": {
+    "te": "మంచు తుఫానుల (Avalanches) కారణాలకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. భారీ హిమపాతం మంచు పొరపై అదనపు బరువును పెంచుతుంది.\n2. ఉష్ణోగ్రత అకస్మాత్తుగా పెరగడం వల్ల మంచును పట్టి ఉంచే ఘర్షణ (friction) పెరుగుతుంది.\n3. బలమైన గాలులు మంచును అసమానంగా పోగు చేస్తాయి.\nపై ప్రకటనలలో ఏది/వి సరైనవి?",
+    "en": "Consider the following statements regarding the causes of avalanches:\n1. Heavy snowfall adds extra weight to the snowpack.\n2. A sudden rise in temperature increases the friction holding the snow.\n3. Strong winds can pile up snow unevenly.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మరియు 2 మాత్రమే",
+     "1 మరియు 3 మాత్రమే",
+     "2 మరియు 3 మాత్రమే",
+     "1, 2 మరియు 3"
+    ],
+    "en": [
+     "1 and 2 only",
+     "1 and 3 only",
+     "2 and 3 only",
+     "1, 2 and 3"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "ప్రకటన 2 తప్పు ఎందుకంటే ఉష్ణోగ్రత అకస్మాత్తుగా పెరగడం వల్ల ఘర్షణ తగ్గుతుంది, పెరగదు. పాఠ్యభాగం ప్రకారం ప్రకటనలు 1 మరియు 3 సరైనవి.",
+    "en": "Statement 2 is incorrect because a sudden rise in temperature reduces friction, not increases it. Statements 1 and 3 are correct according to the text."
+   }
+  },
+  {
+   "id": 11,
+   "bit": "GEO-T30-0029",
+   "section": {
+    "te": "GEMINI Financial Support",
+    "en": "GEMINI Financial Support"
+   },
+   "q": {
+    "te": "GEMINI పరికరాల కోసం ఏ ప్రభుత్వ పథకం కింద ఆర్థిక సహాయం అందించబడుతుంది?",
+    "en": "Under which government scheme is financial support provided for GEMINI devices?"
+   },
+   "options": {
+    "te": [
+     "ప్రధాన మంత్రి గ్రామ సడక్ యోజన (PMGSY)",
+     "ప్రధాన మంత్రి మత్స్య సంపద యోజన (PMMSY)",
+     "ప్రధాన మంత్రి ఉజ్వల యోజన (PMUY)",
+     "ప్రధాన మంత్రి ఆవాస్ యోజన (PMAY)"
+    ],
+    "en": [
+     "Pradhan Mantri Gram Sadak Yojana (PMGSY)",
+     "Pradhan Mantri Matsya Sampada Yojana (PMMSY)",
+     "Pradhan Mantri Ujjwala Yojana (PMUY)",
+     "Pradhan Mantri Awas Yojana (PMAY)"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "తీరప్రాంత వర్గాల భద్రతను నిర్ధారించడానికి PMMSY పథకం GEMINI పరికరాల కోసం ఆర్థిక సహాయాన్ని అందిస్తుంది.",
+    "en": "The PMMSY scheme provides financial assistance for GEMINI devices to ensure the safety of coastal communities."
+   }
+  },
+  {
+   "id": 12,
+   "bit": "GEO-T30-0009",
+   "section": {
+    "te": "Landslide vs Avalanche",
+    "en": "Landslide vs Avalanche"
+   },
+   "q": {
+    "te": "ఈ క్రింది ప్రకృతి వైపరీత్యాలను వాటి వివరణలతో జతపరచండి:\n1. కొండచరియలు విరిగిపడటం (Landslide) - (i) మంచు, ఐస్ లేదా రాళ్లు అకస్మాత్తుగా పడిపోవడం\n2. మంచు తుఫాను (Avalanche) - (ii) భూమి లేదా రాతి ద్రవ్యరాశి అకస్మాత్తుగా కూలిపోవడం\n3. క్లౌడ్‌బర్స్ట్ (Cloudburst) - (iii) అకస్మాత్తుగా కురిసే తీవ్రమైన వర్షం",
+    "en": "Match the following natural hazards with their descriptions:\n1. Landslide - (i) Sudden fall of snow, ice or rocks\n2. Avalanche - (ii) Sudden collapse of earth or rock mass\n3. Cloudburst - (iii) Sudden violent rainstorm"
+   },
+   "options": {
+    "te": [
+     "1-(i), 2-(ii), 3-(iii)",
+     "1-(ii), 2-(i), 3-(iii)",
+     "1-(iii), 2-(ii), 3-(i)",
+     "1-(ii), 2-(iii), 3-(i)"
+    ],
+    "en": [
+     "1-(i), 2-(ii), 3-(iii)",
+     "1-(ii), 2-(i), 3-(iii)",
+     "1-(iii), 2-(ii), 3-(i)",
+     "1-(ii), 2-(iii), 3-(i)"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, ల్యాండ్‌స్లైడ్ అంటే భూమి/రాయి కూలిపోవడం, అవలాంచ్ అంటే మంచు/రాళ్లు పడిపోవడం మరియు క్లౌడ్‌బర్స్ట్ అంటే తీవ్రమైన వర్షం.",
+    "en": "A landslide is the collapse of earth/rock, an avalanche is the fall of snow/ice/rocks, and a cloudburst is a violent rainstorm."
+   }
+  },
+  {
+   "id": 13,
+   "bit": "GEO-T30-0019",
+   "section": {
+    "te": "Snowpack instability",
+    "en": "Snowpack instability"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): తక్కువ సమయంలో కురిసే భారీ హిమపాతం మంచు పొరను అస్థిరంగా మారుస్తుంది.\nకారణం (R): మంచు పొరపై అదనపు బరువు పెరుగుతుంది, ముఖ్యంగా బలహీనమైన లేదా వదులుగా ఉన్న పొరలపై.",
+    "en": "Assertion (A): Heavy snowfall within a short period can make a snowpack unstable.\nReason (R): Extra weight is added to the snowpack, especially on weak or loosely bonded layers."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు A కి R సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ A కి R సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "భారీ హిమపాతం బరువును పెంచుతుంది, ఇది బలహీనమైన పొరలపై అస్థిరతను కలిగించి మంచు తుఫానులకు దారితీస్తుంది.",
+    "en": "Heavy snowfall adds weight, which causes instability on weak layers, leading to avalanches."
+   }
+  },
+  {
+   "id": 14,
+   "bit": "GEO-T30-0003",
+   "section": {
+    "te": "Forest fire areas",
+    "en": "Forest fire areas"
+   },
+   "q": {
+    "te": "భారతదేశంలోని ఈ క్రింది ఏ ప్రాంతాలలో అడవి మంటలు (Forest fires) సాధారణంగా సంభవిస్తాయి?",
+    "en": "In which of the following regions are forest fires common in India?"
+   },
+   "options": {
+    "te": [
+     "ఉత్తరాఖండ్ మరియు హిమాచల్ ప్రదేశ్",
+     "మధ్యప్రదేశ్ మరియు ఛత్తీస్‌గఢ్",
+     "పశ్చిమ కనుమలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Uttarakhand and Himachal Pradesh",
+     "Madhya Pradesh and Chhattisgarh",
+     "Western Ghats",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "ఉత్తరాఖండ్, హిమాచల్ ప్రదేశ్, మధ్యప్రదేశ్, ఛత్తీస్‌గఢ్ మరియు పశ్చిమ కనుమలలో అడవి మంటలు సాధారణంగా సంభవిస్తాయి.",
+    "en": "Forest fires are common in Uttarakhand, Himachal Pradesh, Madhya Pradesh, Chhattisgarh, and the Western Ghats."
+   }
+  },
+  {
+   "id": 15,
+   "bit": "GEO-T30-0040",
+   "section": {
+    "te": "Scale of Environmental Change",
+    "en": "Scale of Environmental Change"
+   },
+   "q": {
+    "te": "ఈ క్రింది పర్యావరణ దృగ్విషయాలలో ఏది 'ప్రపంచ స్థాయి పరిమాణాలు' (global dimensions) కలిగి ఉన్నట్లు వర్ణించబడింది?",
+    "en": "Which of the following environmental phenomena is described as having 'global dimensions'?"
+   },
+   "options": {
+    "te": [
+     "ధూళి తుఫానులు",
+     "టోర్నడోలు",
+     "గ్లోబల్ వార్మింగ్",
+     "వడగళ్ల వానలు"
+    ],
+    "en": [
+     "Dust storms",
+     "Tornadoes",
+     "Global warming",
+     "Hailstorms"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "వడగళ్ల వానలు వంటి స్థానిక సంఘటనలు మరియు గ్లోబల్ వార్మింగ్, ఓజోన్ పొర క్షీణత వంటి ప్రపంచ స్థాయి సంఘటనల మధ్య పాఠ్యాంశం తేడాను చూపుతుంది.",
+    "en": "The text distinguishes between localized events like hailstorms and global events like global warming and ozone depletion."
+   }
+  },
+  {
+   "id": 16,
+   "bit": "GEO-T30-0066",
+   "section": {
+    "te": "Hazard vs Disaster",
+    "en": "Hazard vs Disaster"
+   },
+   "q": {
+    "te": "విపత్తులు మరియు సహజ ప్రమాదాలకు సంబంధించి కింది ప్రకటనలను పరిగణించండి:\n1. పండితులు విపత్తులు మరియు సహజ ప్రమాదాలను పరస్పరం మార్చుకోగలిగే పదాలుగా ఉపయోగిస్తారు.\n2. విపత్తులు మరియు సహజ ప్రమాదాలు విభిన్నమైన అంశాలు.\nపైన పేర్కొన్న వాటిలో ఏవి సరైనవి?",
+    "en": "Consider the following statements regarding disasters and natural hazards:\n1. Scholars often use disasters and natural hazards as interchangeable terms.\n2. Disasters and natural hazards are distinct phenomena.\nWhich of the statements is/are correct?"
+   },
+   "options": {
+    "te": [
+     "1 మాత్రమే",
+     "2 మాత్రమే",
+     "1 మరియు 2 రెండూ",
+     "1 లేదా 2 ఏదీ కాదు"
+    ],
+    "en": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "పండితులు తరచుగా ఈ పదాలను పరస్పరం మార్చుకోగలిగేవిగా ఉపయోగించినప్పటికీ, అవి నిజానికి విభిన్నమైన అంశాలని పాఠ్యభాగం పేర్కొంది.",
+    "en": "While scholars often use the terms interchangeably, they are actually distinct phenomena."
+   }
+  },
+  {
+   "id": 17,
+   "bit": "GEO-T30-0035",
+   "section": {
+    "te": "Nature of Change",
+    "en": "Nature of Change"
+   },
+   "q": {
+    "te": "ప్రకృతి దృక్కోణం నుండి, పర్యావరణ మార్పులు ఎలా వర్గీకరించబడ్డాయి?",
+    "en": "From the perspective of nature, how are environmental changes characterized?"
+   },
+   "options": {
+    "te": [
+     "విలువ-తటస్థమైనవి (Value-neutral)",
+     "ఎల్లప్పుడూ విధ్వంసకరమైనవి",
+     "ఎల్లప్పుడూ ప్రయోజనకరమైనవి",
+     "విలువలతో కూడినవి (Value-loaded)"
+    ],
+    "en": [
+     "Value-neutral",
+     "Always destructive",
+     "Always beneficial",
+     "Value-loaded"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం, మానవులు మార్పులను మంచి లేదా చెడుగా చూస్తారు, కానీ ప్రకృతి దృక్కోణం నుండి అవి విలువ-తటస్థంగా ఉంటాయి.",
+    "en": "While humans see changes as good or bad, from nature's perspective, they are value-neutral."
+   }
+  },
+  {
+   "id": 18,
+   "bit": "GEO-T30-0049",
+   "section": {
+    "te": "Indirect Human Actions",
+    "en": "Indirect Human Actions"
+   },
+   "q": {
+    "te": "ఈ క్రింది మానవ చర్యలలో ఏవి 'పరోక్షంగా' విపత్తులను వేగవంతం చేస్తాయి లేదా తీవ్రతరం చేస్తాయి?",
+    "en": "Which of the following human activities accelerate or intensify disasters 'indirectly'?"
+   },
+   "options": {
+    "te": [
+     "అటవీ నిర్మూలన",
+     "అశాస్త్రీయ భూ వినియోగం",
+     "బలహీనమైన ప్రాంతాలలో నిర్మాణ కార్యకలాపాలు",
+     "పైవన్నీ"
+    ],
+    "en": [
+     "Deforestation",
+     "Unscientific land use",
+     "Construction activities in fragile areas",
+     "All of the above"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "అటవీ నిర్మూలన, అశాస్త్రీయ భూ వినియోగం మరియు బలహీనమైన ప్రాంతాలలో నిర్మాణాలు అన్నీ కొండచరియలు విరిగిపడటం మరియు వరదలు వంటి విపత్తులకు దారితీసే పరోక్ష మానవ చర్యలుగా జాబితా చేయబడ్డాయి.",
+    "en": "Deforestation, unscientific land use, and construction in fragile areas are all listed as indirect human actions that lead to disasters like landslides and floods."
+   }
+  },
+  {
+   "id": 19,
+   "bit": "GEO-T30-0046",
+   "section": {
+    "te": "Slow vs Sudden Change",
+    "en": "Slow vs Sudden Change"
+   },
+   "q": {
+    "te": "ఈ క్రింది వాటిలో ఏది పర్యావరణంలో అకస్మాత్తుగా మరియు వేగంగా జరిగే మార్పుగా పేర్కొనబడలేదు (NOT)?",
+    "en": "Which of the following is NOT mentioned as a sudden and swift change in the environment?"
+   },
+   "options": {
+    "te": [
+     "భూకంపాలు",
+     "మెరుపులు",
+     "సునామీలు",
+     "జీవుల పరిణామం"
+    ],
+    "en": [
+     "Earthquakes",
+     "Lightning",
+     "Tsunamis",
+     "Evolution of organisms"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "జీవుల పరిణామాన్ని పాఠ్యాంశం క్రమంగా లేదా నెమ్మదిగా జరిగే ప్రక్రియగా వివరించింది, అకస్మాత్తుగా జరిగేది కాదు.",
+    "en": "The text describes the evolution of organisms as a gradual or slow process, not a sudden one."
+   }
+  },
+  {
+   "id": 20,
+   "bit": "GEO-T30-0059",
+   "section": {
+    "te": "Yokohama Strategy Name",
+    "en": "Yokohama Strategy Name"
+   },
+   "q": {
+    "te": "1994 ప్రపంచ విపత్తు నిర్వహణ సదస్సులో ఆమోదించబడిన కార్యాచరణ ప్రణాళికకు ఇవ్వబడిన అధికారిక పేరు ఏమిటి?",
+    "en": "What was the formal name given to the plan of action adopted at the 1994 World Conference on Disaster Management?"
+   },
+   "options": {
+    "te": [
+     "గ్లోబల్ డిజాస్టర్ మిటిగేషన్ ప్లాన్",
+     "యు.ఎన్. జనరల్ అసెంబ్లీ రిజల్యూషన్ 1989",
+     "యోకోహామా స్ట్రాటజీ అండ్ ప్లాన్ ఆఫ్ యాక్షన్ ఫర్ ఏ సేఫర్ వరల్డ్",
+     "ఇంటర్నేషనల్ డికేడ్ ఫర్ నేచురల్ డిజాస్టర్ రిడక్షన్"
+    ],
+    "en": [
+     "Global Disaster Mitigation Plan",
+     "UN General Assembly Resolution 1989",
+     "Yokohama Strategy and Plan of Action for a Safer World",
+     "International Decade for Natural Disaster Reduction"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "1994లో ఆమోదించబడిన ప్రణాళికను అధికారికంగా 'యోకోహామా స్ట్రాటజీ అండ్ ప్లాన్ ఆఫ్ యాక్షన్ ఫర్ ఏ సేఫర్ వరల్డ్' అని పిలుస్తారు.",
+    "en": "The plan adopted in 1994 is formally known as the Yokohama Strategy and Plan of Action for a Safer World."
+   }
+  },
+  {
+   "id": 21,
+   "bit": "GEO-T30-0006",
+   "section": {
+    "te": "Simeulue Island Tsunami",
+    "en": "Simeulue Island Tsunami"
+   },
+   "q": {
+    "te": "2004 హిందూ మహాసముద్ర సునామీ సమయంలో ఇండోనేషియాలో అత్యధిక మరణాలు సంభవించినప్పటికీ, సిమెయులు (Simeulue) ద్వీపం ఎక్కువగా ఎందుకు రక్షించబడింది?",
+    "en": "Why was the Island of Simeulue largely spared during the 2004 Indian Ocean tsunami despite most deaths occurring in Indonesia?"
+   },
+   "options": {
+    "te": [
+     "భూకంప కేంద్రం నుండి అది దూరంగా ఉండటం వల్ల",
+     "అధునాతన ముందస్తు హెచ్చరిక సాంకేతికత వల్ల",
+     "తరతరాలుగా వస్తున్న స్థానిక జానపద కథల (folklore) వల్ల",
+     "దాని అధిక ఎత్తు వల్ల"
+    ],
+    "en": [
+     "Due to its distance from the earthquake epicenter",
+     "Due to advanced early warning technology",
+     "Due to local folklore passed down through generations",
+     "Due to its high altitude"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "స్థానిక జానపద కథలు సిమెయులు నివాసితులు సునామీ హెచ్చరిక సంకేతాలను గుర్తించి త్వరగా స్పందించడానికి సహాయపడ్డాయి, తద్వారా వారు విపత్తు నుండి తప్పించుకున్నారు.",
+    "en": "Local folklore helped residents of Simeulue recognize tsunami warning signs and respond quickly, saving them from the disaster."
+   }
+  },
+  {
+   "id": 22,
+   "bit": "GEO-T30-0001",
+   "section": {
+    "te": "Flash flood definition",
+    "en": "Flash flood definition"
+   },
+   "q": {
+    "te": "క్లౌడ్‌బర్స్ట్ (మేఘ విస్ఫోటనం) వల్ల తరచుగా సంభవించే ఆకస్మిక స్థానిక వరదను ఏమంటారు?",
+    "en": "What is a sudden local flood, often caused by a cloudburst, called?"
+   },
+   "options": {
+    "te": [
+     "కొండచరియలు విరిగిపడటం (Landslide)",
+     "స్టార్మ్ సర్జ్ (Storm surge)",
+     "మంచు తుఫాను (Avalanche)",
+     "ఫ్లాష్ ఫ్లడ్ (Flash flood)"
+    ],
+    "en": [
+     "Landslide",
+     "Storm surge",
+     "Avalanche",
+     "Flash flood"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యభాగం ప్రకారం, క్లౌడ్‌బర్స్ట్ వల్ల ఆకస్మికంగా వచ్చే స్థానిక వరదను ఫ్లాష్ ఫ్లడ్ అంటారు.",
+    "en": "A flash flood is a sudden local flood often caused by a cloudburst."
+   }
+  },
+  {
+   "id": 23,
+   "bit": "GEO-T30-0054",
+   "section": {
+    "te": "IDNDR Decade",
+    "en": "IDNDR Decade"
+   },
+   "q": {
+    "te": "ఏ కాలాన్ని 'అంతర్జాతీయ సహజ విపత్తుల తగ్గింపు దశాబ్దం' (IDNDR)గా ప్రకటించారు?",
+    "en": "Which period was declared as the 'International Decade for Natural Disaster Reduction' (IDNDR)?"
+   },
+   "options": {
+    "te": [
+     "1980-1990",
+     "1990-2000",
+     "1994-2004",
+     "2000-2010"
+    ],
+    "en": [
+     "1980-1990",
+     "1990-2000",
+     "1994-2004",
+     "2000-2010"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "1990 నుండి 2000 వరకు ఉన్న దశాబ్దాన్ని అంతర్జాతీయ సహజ విపత్తుల తగ్గింపు దశాబ్దంగా ప్రకటించారు.",
+    "en": "The decade from 1990 to 2000 was designated as the International Decade for Natural Disaster Reduction."
+   }
+  },
+  {
+   "id": 24,
+   "bit": "GEO-T30-0065",
+   "section": {
+    "te": "Earthquake Analysis",
+    "en": "Earthquake Analysis"
+   },
+   "q": {
+    "te": "భారతదేశాన్ని భూకంప మండలాలుగా విభజించడానికి భారతీయ సంస్థలు ఎన్ని భూకంపాలను లోతుగా విశ్లేషించాయి?",
+    "en": "How many earthquakes were intensively analyzed by Indian organizations to divide the country into earthquake zones?"
+   },
+   "options": {
+    "te": [
+     "1,200 కంటే ఎక్కువ",
+     "1,000 కంటే ఎక్కువ",
+     "సరిగ్గా 2,000",
+     "500 కంటే ఎక్కువ"
+    ],
+    "en": [
+     "More than 1,200",
+     "More than 1,000",
+     "Exactly 2,000",
+     "More than 500"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "te": "దేశాన్ని ఐదు భూకంప మండలాలుగా వర్గీకరించడానికి భారతీయ సంస్థలు గతంలో సంభవించిన 1,200 కంటే ఎక్కువ భూకంపాలను విశ్లేషించాయి.",
+    "en": "Indian organizations analyzed more than 1,200 past earthquakes to categorize the country into five earthquake zones."
+   }
+  },
+  {
+   "id": 25,
+   "bit": "GEO-T30-0053",
+   "section": {
+    "te": "Yokohama Strategy",
+    "en": "Yokohama Strategy"
+   },
+   "q": {
+    "te": "యోకోహామా వ్యూహం (Yokohama Strategy) కింది వాటిలో ఏ సమూహాలకు ప్రాధాన్యతనిస్తుంది?",
+    "en": "The Yokohama Strategy gives priority attention to which of the following groups?"
+   },
+   "options": {
+    "te": [
+     "అధిక సాంకేతిక శక్తి కలిగిన అభివృద్ధి చెందిన దేశాలు",
+     "భూపరివేష్టిత దేశాలు మరియు చిన్న ద్వీప అభివృద్ధి చెందుతున్న దేశాలు",
+     "ఆసియా ఖండంలోని దేశాలు మాత్రమే",
+     "తక్కువ జనాభా కలిగిన దేశాలు"
+    ],
+    "en": [
+     "Developed nations with high technological power",
+     "Land-locked countries and small-island developing states",
+     "Only countries in the Asian continent",
+     "Countries with small populations"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "యోకోహామా తీర్మానం అభివృద్ధి చెందుతున్న దేశాలకు, ముఖ్యంగా భూపరివేష్టిత మరియు చిన్న ద్వీప దేశాలకు ప్రాధాన్యత ఇవ్వాలని పేర్కొంది.",
+    "en": "The Yokohama resolution specifically mentions giving priority to developing countries, especially land-locked and small-island states."
+   }
+  },
+  {
+   "id": 26,
+   "bit": "GEO-T30-0036",
+   "section": {
+    "te": "Types of Natural Change",
+    "en": "Types of Natural Change"
+   },
+   "q": {
+    "te": "భౌతిక వాతావరణంలో అకస్మాత్తుగా మరియు వేగంగా జరిగే మార్పులకు ఈ క్రింది వాటిలో ఏవి ఉదాహరణలు?",
+    "en": "Which of the following are examples of sudden and swift changes in the physical environment?"
+   },
+   "options": {
+    "te": [
+     "భూరూపాల పరిణామం",
+     "అగ్నిపర్వత పేలుళ్లు",
+     "సునామీలు",
+     "B మరియు C రెండూ"
+    ],
+    "en": [
+     "Evolution of landforms",
+     "Volcanic eruptions",
+     "Tsunamis",
+     "Both B and C"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "పాఠ్యాంశం అగ్నిపర్వత పేలుళ్లు మరియు సునామీలను అకస్మాత్తుగా జరిగే మార్పులుగా వర్గీకరించింది, అయితే భూరూపాల పరిణామం అనేది నెమ్మదిగా జరిగే ప్రక్రియ.",
+    "en": "The text classifies volcanic eruptions and tsunamis as sudden changes, while the evolution of landforms is a slow process."
+   }
+  },
+  {
+   "id": 27,
+   "bit": "GEO-T30-0008",
+   "section": {
+    "te": "SSEWS objective",
+    "en": "SSEWS objective"
+   },
+   "q": {
+    "te": "స్టార్మ్ సర్జ్ ఎర్లీ వార్నింగ్ సిస్టమ్ (SSEWS) యొక్క ప్రధాన లక్ష్యం ఏమిటి?",
+    "en": "What is the main objective of the Storm Surge Early Warning System (SSEWS)?"
+   },
+   "options": {
+    "te": [
+     "నీటి అడుగున అగ్నిపర్వత పేలుళ్లను అంచనా వేయడం",
+     "హిమాలయ ప్రాంతంలో భూకంపాలను గుర్తించడం",
+     "తీర ప్రాంతాల్లో అడవి మంటలను పర్యవేక్షించడం",
+     "తుఫానుల వల్ల కలిగే స్టార్మ్ సర్జ్ మరియు తీరప్రాంత ముంపును అంచనా వేయడం"
+    ],
+    "en": [
+     "To predict underwater volcanic eruptions",
+     "To detect earthquakes in the Himalayan region",
+     "To monitor forest fires in coastal regions",
+     "To forecast cyclone-induced storm surges and coastal inundation"
+    ]
+   },
+   "answer": 3,
+   "explain": {
+    "te": "SSEWS తుఫానుల వల్ల కలిగే స్టార్మ్ సర్జ్ మరియు తీరప్రాంత వరదల పరిధిని అంచనా వేయడం ద్వారా తీరప్రాంత ప్రజలను రక్షించడం లక్ష్యంగా పెట్టుకుంది.",
+    "en": "The SSEWS aims to protect coastal communities by forecasting storm surges and the extent of coastal flooding caused by cyclones."
+   }
+  },
+  {
+   "id": 28,
+   "bit": "GEO-T30-0041",
+   "section": {
+    "te": "Disaster Prevention",
+    "en": "Disaster Prevention"
+   },
+   "q": {
+    "te": "నిశ్చితం (A): మానవ చర్యల వల్ల కలిగే కొన్ని విపత్తులను నివారించడం సాధ్యమే.\nకారణం (R): ప్రకృతి వైపరీత్యాలను నివారించడం చాలా తక్కువగా సాధ్యమవుతుంది.",
+    "en": "Assertion (A): It is possible to prevent some disasters created by human actions.\nReason (R): Very little is possible to prevent natural disasters."
+   },
+   "options": {
+    "te": [
+     "A మరియు R రెండూ నిజం మరియు R అనేది A కి సరైన వివరణ",
+     "A మరియు R రెండూ నిజం కానీ R అనేది A కి సరైన వివరణ కాదు",
+     "A నిజం కానీ R తప్పు",
+     "A తప్పు కానీ R నిజం"
+    ],
+    "en": [
+     "Both A and R are true and R is the correct explanation of A",
+     "Both A and R are true but R is not the correct explanation of A",
+     "A is true but R is false",
+     "A is false but R is true"
+    ]
+   },
+   "answer": 1,
+   "explain": {
+    "te": "పాఠ్యాంశం ప్రకారం రెండు ప్రకటనలు నిజమే, కానీ ప్రకృతి వైపరీత్యాలను నివారించలేకపోవడం అనేది మానవ నిర్మిత విపత్తులను నివారించగలగడానికి కారణం కాదు; అవి పరస్పర విరుద్ధమైన వాస్తవాలు.",
+    "en": "Both statements are true according to the text, but the inability to prevent natural disasters is not the reason why human-made ones can be prevented; they are contrasting facts."
+   }
+  },
+  {
+   "id": 29,
+   "bit": "GEO-T30-0023",
+   "section": {
+    "te": "INCOIS App Languages",
+    "en": "INCOIS App Languages"
+   },
+   "q": {
+    "te": "INCOIS మొబైల్ అప్లికేషన్ GEMINI పరికరం నుండి అందుకున్న సమాచారాన్ని ఎన్ని ప్రాంతీయ భాషలలో ప్రదర్శిస్తుంది?",
+    "en": "In how many regional languages does the INCOIS mobile application display the information received from the GEMINI device?"
+   },
+   "options": {
+    "te": [
+     "ఐదు",
+     "ఎనిమిది",
+     "తొమ్మిది",
+     "ఏడు"
+    ],
+    "en": [
+     "Five",
+     "Eight",
+     "Nine",
+     "Seven"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "INCOIS మొబైల్ అప్లికేషన్ GEMINI డేటాను తొమ్మిది విభిన్న ప్రాంతీయ భాషలలో డీకోడ్ చేయడానికి మరియు ప్రదర్శించడానికి రూపొందించబడింది.",
+    "en": "The INCOIS mobile application is designed to decode and display GEMINI data in nine different regional languages."
+   }
+  },
+  {
+   "id": 30,
+   "bit": "GEO-T30-0038",
+   "section": {
+    "te": "International Conferences",
+    "en": "International Conferences"
+   },
+   "q": {
+    "te": "జపాన్‌లోని యోకోహామాలో ప్రపంచ విపత్తు నిర్వహణ సదస్సు ఏ నెల మరియు సంవత్సరంలో జరిగింది?",
+    "en": "In which month and year was the World Conference on Disaster Management held at Yokohama, Japan?"
+   },
+   "options": {
+    "te": [
+     "జూన్ 1994",
+     "జనవరి 1993",
+     "మే 1994",
+     "మే 1993"
+    ],
+    "en": [
+     "June 1994",
+     "January 1993",
+     "May 1994",
+     "May 1993"
+    ]
+   },
+   "answer": 2,
+   "explain": {
+    "te": "యోకోహామాలో ప్రపంచ విపత్తు నిర్వహణ సదస్సు మే 1994లో జరిగినట్లు పాఠ్యాంశం స్పష్టంగా పేర్కొంది.",
+    "en": "The World Conference on Disaster Management took place in May 1994 in Yokohama."
+   }
+  }
+ ]
+}
