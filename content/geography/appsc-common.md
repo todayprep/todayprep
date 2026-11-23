@@ -40,8 +40,8 @@ quizzes:
 mocks:
   - {title: "Mock Test 1", url: ""}
   - {title: "Mock Test 2", url: ""}
-syllabus_en: ""
-notification_url: ""
+syllabus_en: "https://drive.google.com/file/d/1kJLk2VE1QMCQbYzZOI-cEutKIevzQrjE/view?usp=drive_link"
+notification_url: "https://portal-psc.ap.gov.in/Default"
 ---
 
 ## సిలబస్
