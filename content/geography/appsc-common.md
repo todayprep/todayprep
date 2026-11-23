@@ -1,7 +1,7 @@
 ---
 title: "APPSC Group 2, AEE మరియు ఇతర పరీక్షలు – భూగోళశాస్త్రం క్విజ్‌లు, మాక్ టెస్టులు"
 layout: "exam-page"
-draft: true
+draft: false
 robotsNoIndex: true
 sitemap:
   disable: true
